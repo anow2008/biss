@@ -16,8 +16,8 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Install Requests
-        run: pip install requests
+      - name: Install Libraries
+        run: pip install requests beautifulsoup4
 
       - name: Run Update Script
         run: python update_codes.py
