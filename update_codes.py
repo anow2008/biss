@@ -13,7 +13,7 @@ def get_codes():
 
 # تحديث ملف biss.txt
 new_content = get_codes()
-with open("biss.txt", "w", encoding="utf-8") as f:
+with open("biss", "w", encoding="utf-8") as f:
     f.write(new_content)
 
 print("Done!")
