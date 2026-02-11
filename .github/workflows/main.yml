@@ -1,8 +1,8 @@
 name: Update My Biss File
 on:
-  workflow_dispatch: # زرار للتشغيل اليدوي
+  workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *' # يشتغل لوحده كل 6 ساعات
+    - cron: '0 */6 * * *'
 
 jobs:
   run-script:
