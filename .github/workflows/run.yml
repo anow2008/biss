@@ -1,0 +1,21 @@
+name: Remote Update Action
+on:
+  schedule:
+    - cron: '0 */6 * * *' # هيشتغل كل 6 ساعات لوحده
+  workflow_dispatch: # ده اللي هيظهر لك زرار "Run" عشان تجربه يدوي
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install Dependencies
+        run: pip install requests
+      - name: Execute Update
+        env:
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        run: python update_keys.py
