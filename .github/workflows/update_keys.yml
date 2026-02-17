@@ -1,0 +1,27 @@
+name: Update AFN Keys
+
+on:
+  schedule:
+    - cron: '0 * * * *' # الكود ده معناه إنه هيشتغل تلقائياً كل ساعة
+  workflow_dispatch: # الزرار ده بيخليك تشغله يدوي في أي وقت
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Script
+        env:
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          MY_FORUM_COOKIES: ${{ secrets.MY_FORUM_COOKIES }}
+        run: python your_script_name.py # استبدل your_script_name.py باسم ملف البايثون بتاعك
