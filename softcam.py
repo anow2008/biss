@@ -20,10 +20,18 @@ def get_keys_from_forum():
         response = requests.get(url, headers=headers, timeout=20)
         html = response.text
 
-        # نمط بحث مطور يلقط الشفرة حتى لو جنبها مسافات أو رموز مختلفة
-        # بيبحث عن P 0009FFFF وبعدها الـ Key 00 أو 01
+        # --- السطور اللي سألت عليها حطها هنا بالظبط ---
+        print(f"DEBUG: طول محتوى الصفحة المستلمة: {len(html)}")
+        if "0009FFFF" in html:
+            print("✅ النمط موجود في الصفحة بس الـ Regex مش عارف يلقطه")
+        else:
+            print("❌ النمط مش موجود خالص.. غالباً الموقع طالب تسجيل دخول أو الصفحة غلط")
+        # -------------------------------------------
+
+        # البحث عن نمط شفرة PowerVu
         pattern = r"0009FFFF\s+(00|01)\s+([0-9A-Fa-f]{16})"
         matches = re.findall(pattern, html)
+        
 
         if not matches:
             print("⚠️ لم يتم العثور على أي شفرة. جرب تحديث الـ Cookies من المتصفح مرة أخرى.")
