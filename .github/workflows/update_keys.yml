@@ -2,8 +2,8 @@ name: Update AFN Keys
 
 on:
   schedule:
-    - cron: '0 * * * *' # الكود ده معناه إنه هيشتغل تلقائياً كل ساعة
-  workflow_dispatch: # الزرار ده بيخليك تشغله يدوي في أي وقت
+    - cron: '0 * * * *' # هيشتغل كل ساعة لوحده
+  workflow_dispatch: # عشان تقدر تشغله يدوي
 
 jobs:
   build:
@@ -24,4 +24,4 @@ jobs:
         env:
           MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           MY_FORUM_COOKIES: ${{ secrets.MY_FORUM_COOKIES }}
-        run: python your_script_name.py # استبدل your_script_name.py باسم ملف البايثون بتاعك
+        run: python softcam.py
