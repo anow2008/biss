@@ -60,9 +60,9 @@
         "cw": "75 85 05 FF 8D 23 27 D7       10"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n10829 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 14.95 Mbit/s\nID: E-228 Backup\n#CW\n: D0 30 3E 3E 58 FF AF 06\n\n\n\n\n\n\n9\n views\n19:52",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n10829 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 14.95 Mbit/s\nID: E-228 Backup\n#CW\n: D0 30 3E 3E 58 FF AF 06\n\n\n\n\n\n\n10\n views\n19:52",
         "satellite": "📡",
         "frequency": "10829",
-        "cw": "D0 30 3E 3E 58 FF AF 06       9"
+        "cw": "D0 30 3E 3E 58 FF AF 06       10"
     }
 ]
