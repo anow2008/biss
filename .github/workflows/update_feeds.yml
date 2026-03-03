@@ -1,0 +1,32 @@
+name: Update Satellite Feeds
+
+on:
+  schedule:
+    - cron: '0 * * * *' # هيشتغل كل ساعة
+  workflow_dispatch: # زرار للتشغيل اليدوي
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add feeds.json
+          git commit -m "Update feeds data" || exit 0
+          git push
