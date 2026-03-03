@@ -2,8 +2,8 @@ name: Update Satellite Feeds
 
 on:
   schedule:
-    - cron: '0 * * * *' # هيشتغل كل ساعة
-  workflow_dispatch: # زرار للتشغيل اليدوي
+    - cron: '*/15 * * * *' # كل 15 دقيقة
+  workflow_dispatch: # عشان تشغله يدوي لو حبيت
 
 jobs:
   build:
@@ -28,5 +28,5 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add feeds.json
-          git commit -m "Update feeds data" || exit 0
+          git commit -m "Update feeds database with new frequencies" || exit 0
           git push
