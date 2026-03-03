@@ -4,59 +4,62 @@ import json
 import re
 
 def parse_sat_data(text):
-    # البحث عن الشفرة بتنسيق مرن جداً
-    cw_match = re.search(r'CW:?\s*([A-F0-9\s]{15,})', text, re.IGNORECASE)
+    # بحث شامل عن أي نمط للشفرة (CW) أو (Constant CW)
+    # بياخد أي 16 حرف/رقم بينهم مسافات بعد كلمة CW
+    cw_pattern = re.compile(r'CW[:\s#]*([A-F0-9\s]{16,32})', re.IGNORECASE)
+    cw_match = cw_pattern.search(text)
+    
     if not cw_match:
         return None
 
     data = {"raw_text": text}
     try:
-        # استخراج اسم القمر (عادة يكون أول سطر)
         lines = [l.strip() for l in text.split('\n') if l.strip()]
         data['satellite'] = lines[0] if lines else "Unknown"
         
-        # استخراج التردد
+        # استخراج التردد (5 أرقام)
         freq_match = re.search(r'(\d{5})', text)
         data['frequency'] = freq_match.group(1) if freq_match else "N/A"
         
-        # استخراج الشفرة وتنظيفها
+        # تنظيف الشفرة
         data['cw'] = cw_match.group(1).strip().replace('\n', ' ')
     except:
         return None
     return data
 
 def run_scraper():
-    # استخدام محرك RSS لجلب البيانات (أكثر استقراراً)
-    rss_url = "https://rsshub.app/telegram/channel/live_sat_feeds"
-    headers = {'User-Agent': 'Mozilla/5.0'}
+    # الرابط ده بيجبر تليجرام يعرض النسخة القديمة السهلة في السحب
+    url = "https://t.me/s/live_sat_feeds"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept-Language': 'en-US,en;q=0.9'
+    }
     
-    print("جاري محاولة سحب البيانات عبر RSS...")
+    print("جاري سحب البيانات...")
     try:
-        response = requests.get(rss_url, headers=headers, timeout=20)
-        # إذا فشل الرابط البديل، نعود للرابط الأصلي بتعديل بسيط
+        response = requests.get(url, headers=headers, timeout=15)
         if response.status_code != 200:
-            print("الرابط البديل فشل، محاولة الرابط الأساسي...")
-            response = requests.get("https://t.me/s/live_sat_feeds", headers=headers)
-    except:
+            print(f"فشل الطلب بكود: {response.status_code}")
+            return []
+    except Exception as e:
+        print(f"حدث خطأ في الاتصال: {e}")
         return []
 
-    soup = BeautifulSoup(response.content, 'xml' if 'xml' in response.headers.get('Content-Type', '') else 'html.parser')
+    soup = BeautifulSoup(response.text, 'html.parser')
     
-    # البحث عن النصوص سواء في الـ RSS أو الـ HTML العادي
-    descriptions = soup.find_all('description') # للـ RSS
-    if not descriptions:
-        descriptions = soup.select('.tgme_widget_message_text') # للـ HTML
-
-    print(f"تم العثور على {len(descriptions)} منشور.")
+    # تليجرام ويب بيحط النصوص جوه كلاس اسمه tgme_widget_message_bubble
+    posts = soup.find_all('div', class_='tgme_widget_message_bubble')
+    
+    print(f"عدد الفقاعات المستخرجة: {len(posts)}")
     
     database = []
-    for item in descriptions:
-        # الحصول على النص سواء من تاغ RSS أو HTML
-        content = item.get_text(separator="\n").strip()
+    for post in posts:
+        # بنسحب النص من جوه الفقاعة بالكامل
+        content = post.get_text(separator="\n").strip()
         
         structured_data = parse_sat_data(content)
         if structured_data:
-            # التأكد من عدم إضافة نفس الشفرة مرتين
+            # منع تكرار نفس الشفرة
             if not any(d['cw'] == structured_data['cw'] for d in database):
                 database.append(structured_data)
             
@@ -64,7 +67,12 @@ def run_scraper():
 
 if __name__ == "__main__":
     results = run_scraper()
+    
+    # لو النتائج لسه صفر، هنحط رسالة تجريبية عشان نتأكد إن الملف بيتحفظ
+    if not results:
+        print("تحذير: لم يتم العثور على شفرات تطابق الفلتر حالياً.")
+    
     with open('feeds.json', 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
     
-    print(f"تم بنجاح! تم حفظ {len(results)} شفرة.")
+    print(f"العملية انتهت. تم حفظ {len(results)} شفرة.")
