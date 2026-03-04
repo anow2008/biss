@@ -2,11 +2,11 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+import os
 
 def parse_sat_data(text):
-    # بحث شامل عن أي نمط للشفرة (CW) أو (Constant CW)
-    # بياخد أي 16 حرف/رقم بينهم مسافات بعد كلمة CW
-    cw_pattern = re.compile(r'CW[:\s#]*([A-F0-9\s]{16,32})', re.IGNORECASE)
+    # نمط محسن لجلب الشفرات (16 أو 32 حرف/رقم)
+    cw_pattern = re.compile(r'CW[:\s#]*([A-F0-9\s]{16,40})', re.IGNORECASE)
     cw_match = cw_pattern.search(text)
     
     if not cw_match:
@@ -21,58 +21,61 @@ def parse_sat_data(text):
         freq_match = re.search(r'(\d{5})', text)
         data['frequency'] = freq_match.group(1) if freq_match else "N/A"
         
-        # تنظيف الشفرة
-        data['cw'] = cw_match.group(1).strip().replace('\n', ' ')
+        # تنظيف الشفرة وتوحيد شكلها (كلها Upper Case وبدون مسافات زيادة)
+        clean_cw = cw_match.group(1).strip().replace(' ', '').replace('\n', '').upper()
+        data['cw'] = clean_cw
     except:
         return None
     return data
 
 def run_scraper():
-    # الرابط ده بيجبر تليجرام يعرض النسخة القديمة السهلة في السحب
     url = "https://t.me/s/live_sat_feeds"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept-Language': 'en-US,en;q=0.9'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
     
-    print("جاري سحب البيانات...")
     try:
         response = requests.get(url, headers=headers, timeout=15)
-        if response.status_code != 200:
-            print(f"فشل الطلب بكود: {response.status_code}")
-            return []
-    except Exception as e:
-        print(f"حدث خطأ في الاتصال: {e}")
+        if response.status_code != 200: return []
+    except:
         return []
 
     soup = BeautifulSoup(response.text, 'html.parser')
-    
-    # تليجرام ويب بيحط النصوص جوه كلاس اسمه tgme_widget_message_bubble
     posts = soup.find_all('div', class_='tgme_widget_message_bubble')
     
-    print(f"عدد الفقاعات المستخرجة: {len(posts)}")
-    
-    database = []
+    new_data = []
     for post in posts:
-        # بنسحب النص من جوه الفقاعة بالكامل
         content = post.get_text(separator="\n").strip()
-        
         structured_data = parse_sat_data(content)
         if structured_data:
-            # منع تكرار نفس الشفرة
-            if not any(d['cw'] == structured_data['cw'] for d in database):
-                database.append(structured_data)
+            new_data.append(structured_data)
             
-    return database
+    return new_data
 
 if __name__ == "__main__":
-    results = run_scraper()
+    # 1. تحميل البيانات القديمة لو موجودة
+    filename = 'feeds.json'
+    if os.path.exists(filename):
+        with open(filename, 'r', encoding='utf-8') as f:
+            try:
+                database = json.load(f)
+            except:
+                database = []
+    else:
+        database = []
+
+    # 2. سحب البيانات الجديدة
+    scraped_results = run_scraper()
     
-    # لو النتائج لسه صفر، هنحط رسالة تجريبية عشان نتأكد إن الملف بيتحفظ
-    if not results:
-        print("تحذير: لم يتم العثور على شفرات تطابق الفلتر حالياً.")
+    # 3. دمج الجديد مع القديم بدون تكرار (بناءً على الشفرة CW)
+    count_added = 0
+    for item in scraped_results:
+        if not any(d['cw'] == item['cw'] for d in database):
+            database.append(item)
+            count_added += 1
     
-    with open('feeds.json', 'w', encoding='utf-8') as f:
-        json.dump(results, f, ensure_ascii=False, indent=4)
+    # 4. حفظ الكل
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(database, f, ensure_ascii=False, indent=4)
     
-    print(f"العملية انتهت. تم حفظ {len(results)} شفرة.")
+    print(f"تمت العملية: أضفنا {count_added} شفرات جديدة. الإجمالي الآن: {len(database)}")
