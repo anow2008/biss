@@ -1,27 +1,15 @@
 [
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n11191 V 14400\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:2 | 30.50 Mbit/s\nID: TUR-69_PGM\n#CW\n: AE 9B EE 37 63 C4 C4 EB\n\n\n\n\n\n\n16\n views\n19:15",
-        "satellite": "📡",
-        "frequency": "11191",
-        "cw": "AE 9B EE 37 63 C4 C4 EB       16"
-    },
-    {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n12593 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.23 Mbit/s\nID: SWE-041 EHF Frederica-RK Nexe\n#CW\n: D0 30 3E 3E 58 FF FC 53\n\n\n\n\n\n\n15\n views\n19:18",
-        "satellite": "📡",
-        "frequency": "12593",
-        "cw": "D0 30 3E 3E 58 FF FC 53       15"
-    },
-    {
         "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11022 V 7120\nDVB-S2 | 8PSK | 2/3\n1920x1080 | H.264/AVC Video | 4:2:0 | 12.89 Mbit/s\nID: PITCH - Doncaster v Stockport\n#CW\n: 75 85 05 FF 8D 23 27 D7\n\n\n\n\n\n\n17\n views\n19:27",
         "satellite": "📡",
         "frequency": "11022",
         "cw": "75 85 05 FF 8D 23 27 D7       17"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n10829 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 14.95 Mbit/s\nID: E-228 Backup\n#CW\n: D0 30 3E 3E 58 FF AF 06\n\n\n\n\n\n\n17\n views\n19:52",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n10829 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 14.95 Mbit/s\nID: E-228 Backup\n#CW\n: D0 30 3E 3E 58 FF AF 06\n\n\n\n\n\n\n18\n views\n19:52",
         "satellite": "📡",
         "frequency": "10829",
-        "cw": "D0 30 3E 3E 58 FF AF 06       17"
+        "cw": "D0 30 3E 3E 58 FF AF 06       18"
     },
     {
         "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n12736 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 14.91 Mbit/s\nID: ENC 14\n#CW\n: 12 3C AA F8 14 22 A3 D9\n\n\n\n\n\n\n13\n views\n22:46",
@@ -94,5 +82,11 @@
         "satellite": "📡",
         "frequency": "11073",
         "cw": "77 93 52 5C 99 08 86 27       12"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n10982 H 4938\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 9.68 Mbit/s\nID: HOCKEY    \n#CW\n: 98 74 DE EA FC 5B 6A C1\n\n\n\n\n\n\n2\n views\n17:05",
+        "satellite": "📡",
+        "frequency": "10982",
+        "cw": "98 74 DE EA FC 5B 6A C1       2"
     }
 ]
