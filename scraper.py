@@ -2,96 +2,73 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
-import os
 
 def parse_sat_data(text):
-    # 1. الـ Regex ده مخصص لجلب 16 حرف (Hex) فقط لا غير
-    # بيدور على كلمة CW وبعدها بيعد 8 مجموعات (كل مجموعة حرفين)
-    cw_pattern = re.compile(r'CW[:\s#]*(([0-9A-F]{2}[\s:-]*){8})', re.IGNORECASE)
+    # التعديل هنا: الـ Regex ده بقى دقيق جداً بيعد 8 مجموعات (كل مجموعة حرفين)
+    # عشان يضمن إنه يلقط الـ 16 حرف بتوع الشفرة بس
+    cw_pattern = re.compile(r'CW[:\s#]*(([A-F0-9]{2}[\s:-]*){8})', re.IGNORECASE)
     cw_match = cw_pattern.search(text)
     
     if not cw_match:
         return None
 
-    data = {}
+    data = {"raw_text": text}
     try:
-        # تنظيف الشفرة: مسح المسافات وأي حروف زيادة بعد الـ 16 حرف
-        raw_cw = cw_match.group(1).strip()
-        clean_cw = re.sub(r'[\s:-]', '', raw_cw).upper()
-        clean_cw = clean_cw[:16] # تأكيد قاطع إننا واخدين 16 حرف بس (بيتجاهل الـ Views)
-
-        # 2. استخراج التردد (أول 5 أرقام بيظهروا في النص)
-        freq_match = re.search(r'(\d{5})', text)
-        
-        # 3. استخراج اسم القمر (أول سطر في الرسالة)
         lines = [l.strip() for l in text.split('\n') if l.strip()]
+        data['satellite'] = lines[0] if lines else "Unknown"
         
-        data['satellite'] = lines[0] if lines else "Unknown Satellite"
+        # استخراج التردد (5 أرقام)
+        freq_match = re.search(r'(\d{5})', text)
         data['frequency'] = freq_match.group(1) if freq_match else "N/A"
-        data['cw'] = clean_cw
         
-    except Exception:
+        # تنظيف الشفرة: بنشيل المسافات وبناخد أول 16 حرف فقط
+        # كدة لو فيه رقم "7" أو غيره بعد الشفرة هيتم تجاهله تماماً
+        clean_cw = re.sub(r'[\s:-]', '', cw_match.group(1)).upper()
+        data['cw'] = clean_cw[:16] 
+    except:
         return None
     return data
 
 def run_scraper():
     url = "https://t.me/s/live_sat_feeds"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept-Language': 'en-US,en;q=0.9'
     }
     
+    print("جاري سحب البيانات...")
     try:
         response = requests.get(url, headers=headers, timeout=15)
         if response.status_code != 200:
-            print(f"Error: Telegram returned status {response.status_code}")
+            print(f"فشل الطلب بكود: {response.status_code}")
             return []
-            
-        soup = BeautifulSoup(response.text, 'html.parser')
-        # بنسحب النصوص من كلاس الرسائل المباشر لضمان دقة المحتوى
-        posts = soup.find_all('div', class_='tgme_widget_message_text')
-        
-        extracted_list = []
-        for post in posts:
-            content = post.get_text(separator="\n").strip()
-            structured_item = parse_sat_data(content)
-            if structured_item:
-                extracted_list.append(structured_item)
-        return extracted_list
     except Exception as e:
-        print(f"Connection Error: {e}")
+        print(f"حدث خطأ في الاتصال: {e}")
         return []
 
+    soup = BeautifulSoup(response.text, 'html.parser')
+    posts = soup.find_all('div', class_='tgme_widget_message_bubble')
+    
+    print(f"عدد الفقاعات المستخرجة: {len(posts)}")
+    
+    database = []
+    for post in posts:
+        content = post.get_text(separator="\n").strip()
+        structured_data = parse_sat_data(content)
+        if structured_data:
+            if not any(d['cw'] == structured_data['cw'] for d in database):
+                database.append(structured_data)
+                
+    return database
+
 if __name__ == "__main__":
-    filename = 'feeds.json'
+    results = run_scraper()
     
-    # تحميل البيانات القديمة عشان نحافظ عليها
-    if os.path.exists(filename):
-        with open(filename, 'r', encoding='utf-8') as f:
-            try:
-                database = json.load(f)
-            except:
-                database = []
-    else:
-        database = []
-
-    # سحب البيانات الجديدة من تليجرام
-    print("Scraping latest feeds...")
-    scraped_results = run_scraper()
+    if not results:
+        print("تحذير: لم يتم العثور على شفرات تطابق الفلتر حالياً.")
     
-    # دمج الجديد مع القديم ومنع التكرار (الجديد بينزل في الأول)
-    count_added = 0
-    for item in scraped_results:
-        # التأكد إن الشفرة مش موجودة في الـ Database قبل كدة
-        if not any(d['cw'] == item['cw'] for d in database):
-            database.insert(0, item)
-            count_added += 1
+    # الكتابة بوضع 'w' بتمسح القديم وتكتب الجديد زي ما طلبت
+    with open('feeds.json', 'w', encoding='utf-8') as f:
+        json.dump(results, f, ensure_ascii=False, indent=4)
     
-    # الحفاظ على آخر 500 شفرة فقط لضمان سرعة الملف
-    database = database[:500]
-
-    # حفظ الملف النهائي
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(database, f, ensure_ascii=False, indent=4)
-    
-    print(f"✅ Process Completed!")
-    print(f"Added: {count_added} new codes. Total in database: {len(database)}")
+    print(f"العملية انتهت. تم حفظ {len(results)} شفرة.")
