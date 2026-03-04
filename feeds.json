@@ -1,17 +1,5 @@
 [
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n12510 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:2 | 15.13 Mbit/s\nID: Ireland v France\n#CW\n: 20 26 DB 21 EF 03 03 F5\n\n\n\n\n\n\n16\n views\n18:28",
-        "satellite": "📡",
-        "frequency": "12510",
-        "cw": "20 26 DB 21 EF 03 03 F5       16"
-    },
-    {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 16A @ 16.0°E\n10974 V 9600\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:2 | 20.50 Mbit/s\nID: POL 030\n#CW\n: AB BA 26 8B DC AE 03 8D\n\n\n\n\n\n\n15\n views\n18:39",
-        "satellite": "📡",
-        "frequency": "10974",
-        "cw": "AB BA 26 8B DC AE 03 8D       15"
-    },
-    {
         "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11544 V 10000\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:2 | 21.16 Mbit/s\nID: E380 Via 1 Copa Rey\n#CW\n: A3 4B 56 44 CA C1 23 AE\n\n\n\n\n\n\n15\n views\n18:46",
         "satellite": "📡",
         "frequency": "11544",
@@ -88,5 +76,17 @@
         "satellite": "📡",
         "frequency": "10767",
         "cw": "23 6A DE 6B 88 DA A2 04       12"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11052 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.19 Mbit/s\nID: Fi11GNVE_CCTV\n#CW\n: EF 12 AB AC 34 CD 27 28\n\n\n\n\n\n\n3\n views\n05:12",
+        "satellite": "📡",
+        "frequency": "11052",
+        "cw": "EF 12 AB AC 34 CD 27 28       3"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11044 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 14.63 Mbit/s\nID: TBS ADHOC ENC 3\n#CW\n: 00 70 DF 4F 49 27 F4 64\n\n\n\n\n\n\n3\n views\n05:13",
+        "satellite": "📡",
+        "frequency": "11044",
+        "cw": "00 70 DF 4F 49 27 F4 64       3"
     }
 ]
