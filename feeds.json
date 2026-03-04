@@ -1,27 +1,21 @@
 [
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11061 H 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.27 Mbit/s\nID: GVA_Fi01\n#CW\n: 20 8F A0 4F 08 E0 22 0A\n\n\n\n\n\n\n15\n views\n18:53",
-        "satellite": "📡",
-        "frequency": "11061",
-        "cw": "20 8F A0 4F 08 E0 22 0A       15"
-    },
-    {
         "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n11191 V 14400\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:2 | 30.50 Mbit/s\nID: TUR-69_PGM\n#CW\n: AE 9B EE 37 63 C4 C4 EB\n\n\n\n\n\n\n15\n views\n19:15",
         "satellite": "📡",
         "frequency": "11191",
         "cw": "AE 9B EE 37 63 C4 C4 EB       15"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n12593 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.23 Mbit/s\nID: SWE-041 EHF Frederica-RK Nexe\n#CW\n: D0 30 3E 3E 58 FF FC 53\n\n\n\n\n\n\n13\n views\n19:18",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n12593 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.23 Mbit/s\nID: SWE-041 EHF Frederica-RK Nexe\n#CW\n: D0 30 3E 3E 58 FF FC 53\n\n\n\n\n\n\n14\n views\n19:18",
         "satellite": "📡",
         "frequency": "12593",
-        "cw": "D0 30 3E 3E 58 FF FC 53       13"
+        "cw": "D0 30 3E 3E 58 FF FC 53       14"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11022 V 7120\nDVB-S2 | 8PSK | 2/3\n1920x1080 | H.264/AVC Video | 4:2:0 | 12.89 Mbit/s\nID: PITCH - Doncaster v Stockport\n#CW\n: 75 85 05 FF 8D 23 27 D7\n\n\n\n\n\n\n15\n views\n19:27",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11022 V 7120\nDVB-S2 | 8PSK | 2/3\n1920x1080 | H.264/AVC Video | 4:2:0 | 12.89 Mbit/s\nID: PITCH - Doncaster v Stockport\n#CW\n: 75 85 05 FF 8D 23 27 D7\n\n\n\n\n\n\n16\n views\n19:27",
         "satellite": "📡",
         "frequency": "11022",
-        "cw": "75 85 05 FF 8D 23 27 D7       15"
+        "cw": "75 85 05 FF 8D 23 27 D7       16"
     },
     {
         "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n10829 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 14.95 Mbit/s\nID: E-228 Backup\n#CW\n: D0 30 3E 3E 58 FF AF 06\n\n\n\n\n\n\n16\n views\n19:52",
@@ -90,9 +84,15 @@
         "cw": "AE FB 95 3E 1D 63 88 08       4"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11079 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.20 Mbit/s\nID: Main\n#CW\n: 52 96 6A 52 09 66 6C DB\n\n\n\n\n\n\n3\n views\n05:52",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11079 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.20 Mbit/s\nID: Main\n#CW\n: 52 96 6A 52 09 66 6C DB\n\n\n\n\n\n\n5\n views\n05:52",
         "satellite": "📡",
         "frequency": "11079",
-        "cw": "52 96 6A 52 09 66 6C DB       3"
+        "cw": "52 96 6A 52 09 66 6C DB       5"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 16A @ 16.0°E\n11073 H 7500\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 16.17 Mbit/s\nID: POL046\n#CW\n: 77 93 52 5C 99 08 86 27\n\n\n\n\n\n\n2\n views\n06:45",
+        "satellite": "📡",
+        "frequency": "11073",
+        "cw": "77 93 52 5C 99 08 86 27       2"
     }
 ]
