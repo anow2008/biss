@@ -84,15 +84,15 @@
         "cw": "AE FB 95 3E 1D 63 88 08       9"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11079 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.20 Mbit/s\nID: Main\n#CW\n: 52 96 6A 52 09 66 6C DB\n\n\n\n\n\n\n12\n views\n05:52",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11079 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.20 Mbit/s\nID: Main\n#CW\n: 52 96 6A 52 09 66 6C DB\n\n\n\n\n\n\n13\n views\n05:52",
         "satellite": "📡",
         "frequency": "11079",
-        "cw": "52 96 6A 52 09 66 6C DB       12"
+        "cw": "52 96 6A 52 09 66 6C DB       13"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 16A @ 16.0°E\n11073 H 7500\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 16.17 Mbit/s\nID: POL046\n#CW\n: 77 93 52 5C 99 08 86 27\n\n\n\n\n\n\n11\n views\n06:45",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 16A @ 16.0°E\n11073 H 7500\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 16.17 Mbit/s\nID: POL046\n#CW\n: 77 93 52 5C 99 08 86 27\n\n\n\n\n\n\n12\n views\n06:45",
         "satellite": "📡",
         "frequency": "11073",
-        "cw": "77 93 52 5C 99 08 86 27       11"
+        "cw": "77 93 52 5C 99 08 86 27       12"
     }
 ]
