@@ -12,7 +12,7 @@
         "cw": "6D1E8A153F9C2702"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nCoupe de France, Quarterfinals\nLorient vs Nice\nEutelsat 7A/7B/7C @ 7.0°E\n11079 H 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.30 Mbit/s\nID: GVA_Fi01\n#CW\n: 20 8F A0 4F 08 E0 22 0A\n\n\n\n\n\n\n72\n views\nedited  \n18:27",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nCoupe de France, Quarterfinals\nLorient vs Nice\nEutelsat 7A/7B/7C @ 7.0°E\n11079 H 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.30 Mbit/s\nID: GVA_Fi01\n#CW\n: 20 8F A0 4F 08 E0 22 0A\n\n\n\n\n\n\n75\n views\nedited  \n18:27",
         "satellite": "📡",
         "frequency": "11079",
         "cw": "208FA04F08E0220A"
@@ -36,27 +36,57 @@
         "cw": "80EE46B4BA2420FE"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEFL Trophy\nLuton vs Northampton\nEutelsat 7A/7B/7C @ 7.0°E\n11022 V 7120\nDVB-S2 | 8PSK | 2/3\n1920x1080 | H.264/AVC Video | 4:2:0 | 12.94 Mbit/s\nID: Pitch Luton v Northampton\n#CW\n: B4 39 23 10 42 A2 55 39\n\n\n\n\n\n\n71\n views\nedited  \n18:56",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEFL Trophy\nLuton vs Northampton\nEutelsat 7A/7B/7C @ 7.0°E\n11022 V 7120\nDVB-S2 | 8PSK | 2/3\n1920x1080 | H.264/AVC Video | 4:2:0 | 12.94 Mbit/s\nID: Pitch Luton v Northampton\n#CW\n: B4 39 23 10 42 A2 55 39\n\n\n\n\n\n\n75\n views\nedited  \n18:56",
         "satellite": "📡",
         "frequency": "11022",
         "cw": "B439231042A25539"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 16A @ 16.0°E\n12509 H 4938\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 10.25 Mbit/s\nID: YSM-021M\n#CW\n: AB BA 20 85 25 20 26 6B\n\n\n\n\n\n\n8\n views\n19:25",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 16A @ 16.0°E\n12509 H 4938\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 10.25 Mbit/s\nID: YSM-021M\n#CW\n: AB BA 20 85 25 20 26 6B\n\n\n\n\n\n\n9\n views\n19:25",
         "satellite": "📡",
         "frequency": "12509",
         "cw": "ABBA20852520266B"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n12649 H 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.25 Mbit/s\nID: Medialink CRO-020/1\n#CW\n: 20 25 AB F0 CD 20 26 13\n\n\n\n\n\n\n9\n views\n19:30",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n12649 H 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.25 Mbit/s\nID: Medialink CRO-020/1\n#CW\n: 20 25 AB F0 CD 20 26 13\n\n\n\n\n\n\n10\n views\n19:30",
         "satellite": "📡",
         "frequency": "12649",
         "cw": "2025ABF0CD202613"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11190 H 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.07 Mbit/s\nID: Encoder 2\n#CW\n: 2C DE FF 09 C4 53 16 2D\n\n\n\n\n\n\n8\n views\n19:35",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11190 H 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.07 Mbit/s\nID: Encoder 2\n#CW\n: 2C DE FF 09 C4 53 16 2D\n\n\n\n\n\n\n9\n views\n19:35",
         "satellite": "📡",
         "frequency": "11190",
         "cw": "2CDEFF09C453162D"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 10A @ 10.0°E\n10768 V 34000\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:2 | 13.85 Mbit/s\nID: OCC 1 \n#CW\n: AF 56 11 16 22 DC B3 B1\n\n\n\n\n\n\n2\n views\n22:46",
+        "satellite": "📡",
+        "frequency": "10768",
+        "cw": "AF56111622DCB3B1"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 10A @ 10.0°E\n10768 V 34000\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:2 | 13.85 Mbit/s\nID: OCC 2\n#CW\n: DB 54 AD DC FC BC AA 62\n\n\n\n\n\n\n2\n views\n22:46",
+        "satellite": "📡",
+        "frequency": "10768",
+        "cw": "DB54ADDCFCBCAA62"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 10A @ 10.0°E\n10768 V 34000\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:2 | 13.77 Mbit/s\nID: OCC 3\n#CW\n: 24 AD CB 9C 77 DE 32 87\n\n\n\n\n\n\n2\n views\n22:46",
+        "satellite": "📡",
+        "frequency": "10768",
+        "cw": "24ADCB9C77DE3287"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 10A @ 10.0°E\n10768 V 34000\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:2 | 13.75 Mbit/s\nID: OCC 4\n#CW\n: DC 56 67 99 DA AC B6 3C\n\n\n\n\n\n\n2\n views\n22:46",
+        "satellite": "📡",
+        "frequency": "10768",
+        "cw": "DC566799DAACB63C"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 10A @ 10.0°E\n10768 V 34000\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:2 | 13.50 Mbit/s\nID: OCC 5\n#CW\n: DC B4 AD 3D 55 11 22 88\n\n\n\n\n\n\n2\n views\n22:46",
+        "satellite": "📡",
+        "frequency": "10768",
+        "cw": "DCB4AD3D55112288"
     }
 ]
