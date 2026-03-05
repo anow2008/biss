@@ -1,15 +1,75 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11061 H 7200",
+    "id": "i390main",
+    "key": "55 76 BE 89 8A 9D EA 11"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11106 H 7200",
+    "id": "G18 E336 Main Via 1",
+    "key": "B7 8E 1A 5F 61 5B DA 96"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11127 H 7200",
     "id": "RBM TV",
-    "key": "95 8A 87 A6 D7 47 C7 E5"
+    "key": "E5 0F FB EF ED 03 05 F5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11190 H 7200",
+    "id": "Encoder 2",
+    "key": "AB CD EE 66 FF 05 03 07"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11475 H 7200",
+    "id": "BIH002",
+    "key": "89 E8 FD 6E 9E 2A E3 AB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11582 H 7200",
+    "id": "D-312",
+    "key": "E4 4F FE 31 ED 03 05 F5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11591 H 7200",
+    "id": "EHF NANTES",
+    "key": "E4 4F FA 2D DD 03 05 E5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11694 V 3333",
+    "id": "SID 1",
+    "key": "53 4C 64 03 68 F8 6F CF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12515 H 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12610 V 4600",
     "id": "AP LDN UPA",
+    "key": "B4 1D 61 32 F1 8A B9 34"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12649 H 7200",
+    "id": "HBL Gummersbach",
     "key": "20 26 AB F1 DC 05 03 E4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12677 H 7200",
+    "id": "UKI-1462 - MAIN",
+    "key": "63 E9 BB 07 C8 4D 62 77"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
@@ -27,25 +87,19 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
     "frequency": "11631 H 9875",
     "id": "ES test 22HD",
-    "key": "EA CE 89 41 48 AF 79 70"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12611 V 7200",
-    "id": "YLE",
-    "key": "3D DC 53 6C 2C CB B9 B0"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10962 H 3333",
-    "id": "Ateme bbc",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
+    "frequency": "10969 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10971 V 4800",
+    "id": "POL - 054 Kielce",
+    "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
