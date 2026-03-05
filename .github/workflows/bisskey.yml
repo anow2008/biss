@@ -2,8 +2,8 @@ name: Update Biss Keys
 
 on:
   schedule:
-    - cron: '0 * * * *' # تشغيل تلقائي كل ساعة
-  workflow_dispatch: # زر التشغيل اليدوي
+    - cron: '*/5 * * * *' # تشغيل تلقائي كل 5 دقائق
+  workflow_dispatch: # زر التشغيل اليدوي للتجربة
 
 jobs:
   build:
@@ -18,7 +18,8 @@ jobs:
           python-version: '3.9'
 
       - name: Install Dependencies
-        run: pip install -r requirements.txt
+        run: |
+          pip install cloudscraper beautifulsoup4
 
       - name: Run Script
         run: python bisskey.py
