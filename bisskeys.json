@@ -1,0 +1,20 @@
+[
+  {
+    "sat": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "freq": "11043 V 7200",
+    "id": "TBS ADHOC ENC 3",
+    "key": "C5 96 1E 79 DB 35 4D 5D"
+  },
+  {
+    "sat": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "freq": "11061 H 7500",
+    "id": "WBC Czechia at Korea",
+    "key": "AA BB 20 85 26 03 AC D5"
+  },
+  {
+    "sat": "Eutelsat 16A @ 16.0°E",
+    "freq": "10966 H 3333",
+    "id": "Unname",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  }
+]
