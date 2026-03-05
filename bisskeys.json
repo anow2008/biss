@@ -1,14 +1,1 @@
-[
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11468 V 7500",
-    "id": "LPGA-M",
-    "key": "E1 8C 4A B7 0E A8 E9 9F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11571 V 7200",
-    "id": "LIV Golf 50",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  }
-]
+[]
