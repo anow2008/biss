@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11127 H 7200",
+    "id": "RBM TV",
+    "key": "95 8A 87 A6 D7 47 C7 E5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12610 V 4600",
+    "id": "AP LDN UPA",
+    "key": "20 26 AB F1 DC 05 03 E4"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "10848 V 7200",
+    "id": "B 123 DGI",
+    "key": "E4 4F FA 2D AD 03 05 B5"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "11631 H 9875",
+    "id": "ES test 22HD",
+    "key": "EA CE 89 41 48 AF 79 70"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "12611 V 7200",
+    "id": "YLE",
+    "key": "3D DC 53 6C 2C CB B9 B0"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10970 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11106 H 7200",
+    "id": "LIVE_BR0ADCASTING_LINE1",
+    "key": "E4 4F FB 2E AD 03 05 B5"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "12511 H 7200",
+    "id": "Flavia 7C",
+    "key": "8F 62 57 48 A9 BF 85 ED"
+  }
+]
