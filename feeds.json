@@ -82,5 +82,11 @@
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10768 V 34000",
         "id": "OCC 5"
+    },
+    {
+        "key": "DA 0E AC 94 53 5C EE 9D",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11043 V 7200",
+        "id": "LK ENC 17"
     }
 ]
