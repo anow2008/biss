@@ -1,20 +1,7 @@
 [
-  {
-    "sat": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "freq": "11043 V 7200",
-    "id": "TBS ADHOC ENC 3",
-    "key": "C5 96 1E 79 DB 35 4D 5D"
-  },
-  {
-    "sat": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "freq": "11061 H 7500",
-    "id": "WBC Czechia at Korea",
-    "key": "AA BB 20 85 26 03 AC D5"
-  },
-  {
-    "sat": "Eutelsat 16A @ 16.0°E",
-    "freq": "10966 H 3333",
-    "id": "Unname",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  }
+  "LIVE FEED\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSHOW OFF FEEDS: OFF\n\n\nSHOW BISS-2: OFF\n\n\n\n\nSCAN STATUS:\n\n\n\n\n\n\n\n          ACTIVE\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E / 11043 V 7200 / ID: TBS ADHOC ENC 3 / #CW: C5 96 1E 79 DB 35 4D 5D",
+  "11061 H 7500\n                      \n\n\n\n\n\n\n\n\n\n\nON\n\n\n\n\n🔓\n\n\nBISS • KEY FOUND\n\n\n\n\n2026-03-05 07:29:58\n\n\n\n\n\n\n\n                        Eutelsat 7A/7B/7C @ 7.0°E / 11061 H 7500 / ID: WBC Czechia at Korea / #CW: AA BB 20 85 26 03 AC D5",
+  "11469 V 7500\n                      \n\n\n\n\n\n\n\n\n\n\nON\n\n\n\n\n🔓\n\n\nBISS • KEY FOUND\n\n\n\n\n2026-03-05 07:31:28\n\n\n\n\n\n\n\n                        Eutelsat 7A/7B/7C @ 7.0°E / 11469 V 7500 / ID: LPGA-M / #CW: E1 8C 4A B7 0E A8 E9 9F",
+  "11570 V 7200\n                      \n\n\n\n\n\n\n📷 NO SNAPSHOT\n\n\n\n\n\n\nON\n\n\n\n\nCLEAR (FTA)\n\n\n\n\n2026-03-05 07:31:31\n\n\n\n\n\n\n\n                        Eutelsat 7A/7B/7C @ 7.0°E / 11570 V 7200 / ID: SID 1 / #CW: AA CD 33 AA 27 CB AB 9D",
+  "10970 H 3333\n                      \n\n\n\n\n\n\n\n\n\n\nON\n\n\n\n\n🔓\n\n\nBISS • KEY FOUND\n\n\n\n\n2026-03-05 06:35:02\n\n\n\n\n\n\n\n                        Eutelsat 16A @ 16.0°E / 10970 H 3333 / ID: DEFAULT / #CW: AA CD 33 AA 27 CB AB 9D"
 ]
