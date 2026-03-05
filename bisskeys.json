@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11127 H 7200",
-    "id": "RBM TV",
-    "key": "E5 0F FB EF ED 03 05 F5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11190 H 7200",
     "id": "F503/5/CPF/INTER/MAIN",
     "key": "AB CD 05 7D 03 DC BA 99"
@@ -31,27 +25,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11591 H 7200",
-    "id": "EHF NANTES",
-    "key": "E4 4F FA 2D DD 03 05 E5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11694 V 3333",
-    "id": "SID 1",
-    "key": "53 4C 64 03 68 F8 6F CF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12610 V 4600",
     "id": "AP LDN UPA",
     "key": "B4 1D 61 32 F1 8A B9 34"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12677 H 7200",
-    "id": "UKI-1462 - MAIN",
-    "key": "63 E9 BB 07 C8 4D 62 77"
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10768 V 34000",
+    "id": "OCC 1",
+    "key": "DA E3 5B 18 CA BB CC 51"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
@@ -73,7 +55,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10969 H 3333",
+    "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   }
