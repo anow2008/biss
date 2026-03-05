@@ -1,104 +1,86 @@
 [
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 16A @ 16.0°E\n10986 V 9600\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:2 | 20.21 Mbit/s\nID: POL-78 ENC 1\n#CW\n: AB BA 26 8B DC AE 03 8D\n\n\n\n\n\n\n15\n views\n18:46",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 16A @ 16.0°E\n📶\n \n10966 H 3333\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 7.57 Mb/s\n🆔\n \nUnname\n🔑\n \nCW: AA CD 33 AA 27 CB AB 9D\n\n\n\n\n\n\n9\n views\n17:05",
         "satellite": "📡",
-        "frequency": "10986",
-        "cw": "ABBA268BDCAE038D"
+        "frequency": "10966",
+        "cw": "AACD33AA27CBAB9D"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11104 H 9875\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:2 | 20.64 Mbit/s\nID: Fi09GNVE_BULI_3\n#CW\n: 8B 7B 7D 83 58 17 26 95\n\n\n\n\n\n\n14\n views\n18:50",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11106 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 11.70 Mb/s\n🆔\n \nG18 E336 Main Via 1\n🔑\n \nCW: B7 8E 1A 5F 61 5B DA 96\n\n\n\n\n\n\n8\n views\n17:09",
         "satellite": "📡",
-        "frequency": "11104",
-        "cw": "8B7B7D8358172695"
+        "frequency": "11106",
+        "cw": "B78E1A5F615BDA96"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11070 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.00 Mbit/s\nID: VOLLEY_WORLD_MAIN\n#CW\n: 80 EE 46 B4 BA 24 20 FE\n\n\n\n\n\n\n14\n views\n18:53",
-        "satellite": "📡",
-        "frequency": "11070",
-        "cw": "80EE46B4BA2420FE"
-    },
-    {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEFL Trophy\nLuton vs Northampton\nEutelsat 7A/7B/7C @ 7.0°E\n11022 V 7120\nDVB-S2 | 8PSK | 2/3\n1920x1080 | H.264/AVC Video | 4:2:0 | 12.94 Mbit/s\nID: Pitch Luton v Northampton\n#CW\n: B4 39 23 10 42 A2 55 39\n\n\n\n\n\n\n100\n views\nedited  \n18:56",
-        "satellite": "📡",
-        "frequency": "11022",
-        "cw": "B439231042A25539"
-    },
-    {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11061 H 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.19 Mbit/s\nID: GVA_Fi02\n#CW\n: 20 8F A0 4F 08 E0 22 0A\n\n\n\n\n\n\n15\n views\n19:06",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11061 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 14.61 Mb/s\n🆔\n \ni390main\n🔑\n \nCW: 55 76 BE 89 8A 9D EA 11\n\n\n\n\n\n\n9\n views\n17:09",
         "satellite": "📡",
         "frequency": "11061",
-        "cw": "208FA04F08E0220A"
+        "cw": "5576BE898A9DEA11"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 16A @ 16.0°E\n12509 H 4938\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 10.25 Mbit/s\nID: YSM-021M\n#CW\n: AB BA 20 85 25 20 26 6B\n\n\n\n\n\n\n14\n views\n19:25",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n📶\n \n12611 V 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 14.43 Mb/s\n🆔\n \nYLE\n🔑\n \nCW: 3D DC 53 6C 2C CB B9 B0\n\n\n\n\n\n\n10\n views\n17:11",
         "satellite": "📡",
-        "frequency": "12509",
-        "cw": "ABBA20852520266B"
+        "frequency": "12611",
+        "cw": "3DDC536C2CCBB9B0"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n12649 H 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.25 Mbit/s\nID: Medialink CRO-020/1\n#CW\n: 20 25 AB F0 CD 20 26 13\n\n\n\n\n\n\n15\n views\n19:30",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11475 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.16 Mb/s\n🆔\n \nBIH002\n🔑\n \nCW: 89 E8 FD 6E 9E 2A E3 AB\n\n\n\n\n\n\n11\n views\n17:11",
         "satellite": "📡",
-        "frequency": "12649",
-        "cw": "2025ABF0CD202613"
+        "frequency": "11475",
+        "cw": "89E8FD6E9E2AE3AB"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11190 H 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.07 Mbit/s\nID: Encoder 2\n#CW\n: 2C DE FF 09 C4 53 16 2D\n\n\n\n\n\n\n14\n views\n19:35",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11483 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 13.44 Mb/s\n🆔\n \nUnname\n🔑\n \nCW: 95 8A 87 A6 D7 47 C7 E5\n\n\n\n\n\n\n11\n views\n17:12",
+        "satellite": "📡",
+        "frequency": "11483",
+        "cw": "958A87A6D747C7E5"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n📶\n \n12602 V 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 14.73 Mb/s\n🆔\n \nEHF\n🔑\n \nCW: EA CE 89 41 48 AF 79 70\n\n\n\n\n\n\n9\n views\n17:13",
+        "satellite": "📡",
+        "frequency": "12602",
+        "cw": "EACE894148AF7970"
+    },
+    {
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11190 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 14.45 Mb/s\n🆔\n \nEncoder 2\n🔑\n \nCW: AB CD EE 66 FF 05 03 07\n\n\n\n\n\n\n10\n views\n17:13",
         "satellite": "📡",
         "frequency": "11190",
-        "cw": "2CDEFF09C453162D"
+        "cw": "ABCDEE66FF050307"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 10A @ 10.0°E\n10768 V 34000\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:2 | 13.85 Mbit/s\nID: OCC 1 \n#CW\n: AF 56 11 16 22 DC B3 B1\n\n\n\n\n\n\n14\n views\n22:46",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11582 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.32 Mb/s\n🆔\n \nD-312\n🔑\n \nCW: E4 4F FE 31 ED 03 05 F5\n\n\n\n\n\n\n10\n views\n17:18",
         "satellite": "📡",
-        "frequency": "10768",
-        "cw": "AF56111622DCB3B1"
+        "frequency": "11582",
+        "cw": "E44FFE31ED0305F5"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 10A @ 10.0°E\n10768 V 34000\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:2 | 13.85 Mbit/s\nID: OCC 2\n#CW\n: DB 54 AD DC FC BC AA 62\n\n\n\n\n\n\n12\n views\n22:46",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11591 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.05 Mb/s\n🆔\n \nEHF NANTES\n🔑\n \nCW: E4 4F FA 2D DD 03 05 E5\n\n\n\n\n\n\n10\n views\n17:26",
         "satellite": "📡",
-        "frequency": "10768",
-        "cw": "DB54ADDCFCBCAA62"
+        "frequency": "11591",
+        "cw": "E44FFA2DDD0305E5"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 10A @ 10.0°E\n10768 V 34000\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:2 | 13.77 Mbit/s\nID: OCC 3\n#CW\n: 24 AD CB 9C 77 DE 32 87\n\n\n\n\n\n\n13\n views\n22:46",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n📶\n \n10848 V 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.20 Mb/s\n🆔\n \nB 123 DGI\n🔑\n \nCW: E4 4F FA 2D AD 03 05 B5\n\n\n\n\n\n\n7\n views\n17:38",
         "satellite": "📡",
-        "frequency": "10768",
-        "cw": "24ADCB9C77DE3287"
+        "frequency": "10848",
+        "cw": "E44FFA2DAD0305B5"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 10A @ 10.0°E\n10768 V 34000\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:2 | 13.75 Mbit/s\nID: OCC 4\n#CW\n: DC 56 67 99 DA AC B6 3C\n\n\n\n\n\n\n12\n views\n22:46",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 16A @ 16.0°E\n📶\n \n11106 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.02 Mb/s\n🆔\n \nLIVE\\_BR0ADCASTING\\_LINE1\n🔑\n \nCW: E4 4F FB 2E AD 03 05 B5\n\n\n\n\n\n\n6\n views\n17:42",
         "satellite": "📡",
-        "frequency": "10768",
-        "cw": "DC566799DAACB63C"
+        "frequency": "11106",
+        "cw": "E44FFB2EAD0305B5"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 10A @ 10.0°E\n10768 V 34000\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:2 | 13.50 Mbit/s\nID: OCC 5\n#CW\n: DC B4 AD 3D 55 11 22 88\n\n\n\n\n\n\n14\n views\n22:46",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 16A @ 16.0°E\n📶\n \n12511 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.27 Mb/s\n🆔\n \nFlavia 7C\n🔑\n \nCW: 8F 62 57 48 A9 BF 85 ED\n\n\n\n\n\n\n7\n views\n17:44",
         "satellite": "📡",
-        "frequency": "10768",
-        "cw": "DCB4AD3D55112288"
+        "frequency": "12511",
+        "cw": "8F625748A9BF85ED"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11052 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s\nID: Fi11_GNVE\n#CW\n: EF 12 AB AC 34 CD 27 28\n\n\n\n\n\n\n15\n views\n23:20",
+        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n12649 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:2 \n⚠️\n | 25 FPS | 15.04 Mb/s\n🆔\n \nHBL Gummersbach\n🔑\n \nCW: 20 26 AB F1 DC 05 03 E4\n\n\n\n\n\n\n5\n views\n17:51",
         "satellite": "📡",
-        "frequency": "11052",
-        "cw": "EF12ABAC34CD2728"
-    },
-    {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11043 V 7200\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 14.91 Mbit/s\nID: TBS ADHOC ENC 3\n#CW\n: C5 96 1E 79 DB 35 4D 5D\n\n\n\n\n\n\n14\n views\n02:37",
-        "satellite": "📡",
-        "frequency": "11043",
-        "cw": "C5961E79DB354D5D"
-    },
-    {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11061 H 7500\nDVB-S2 | 8PSK | 3/4\n1920x1080 | H.264/AVC Video | 4:2:0 | 15.52 Mbit/s\nID: WBC Czechia at Korea\n#CW\n: AA BB 20 85 26 03 AC D5\n\n\n\n\n\n\n16\n views\n02:50",
-        "satellite": "📡",
-        "frequency": "11061",
-        "cw": "AABB20852603ACD5"
-    },
-    {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\nEutelsat 7A/7B/7C @ 7.0°E\n11469 V 7500\nDVB-S2 | 8PSK | 5/6\n1920x1080 | H.264/AVC Video | 4:2:0 | 17.59 Mbit/s\nID: LPGA-M\n#CW\n: E1 8C 4A B7 0E A8 E9 9F\n\n\n\n\n\n\n16\n views\n03:21",
-        "satellite": "📡",
-        "frequency": "11469",
-        "cw": "E18C4AB70EA8E99F"
+        "frequency": "12649",
+        "cw": "2026ABF1DC0503E4"
     }
 ]
