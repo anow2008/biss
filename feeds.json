@@ -1,29 +1,5 @@
 [
     {
-        "key": "55 76 BE 89 8A 9D EA 11",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11061 H 7200",
-        "id": "i390main"
-    },
-    {
-        "key": "3D DC 53 6C 2C CB B9 B0",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12611 V 7200",
-        "id": "YLE"
-    },
-    {
-        "key": "89 E8 FD 6E 9E 2A E3 AB",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11475 H 7200",
-        "id": "BIH002"
-    },
-    {
-        "key": "95 8A 87 A6 D7 47 C7 E5",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11483 H 7200",
-        "id": "Unname"
-    },
-    {
         "key": "EA CE 89 41 48 AF 79 70",
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
         "frequency": "12602 V 7200",
@@ -88,5 +64,29 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12515 H 4938",
         "id": "YSM-021M"
+    },
+    {
+        "key": "53 4C 64 03 68 F8 6F CF",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12510 V 7200",
+        "id": "E411- Via 1"
+    },
+    {
+        "key": "63 E9 BB 07 C8 4D 62 77",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12677 H 7200",
+        "id": "UKI-1462 - MAIN"
+    },
+    {
+        "key": "B4 1D 61 32 F1 8A B9 34",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12640 H 7500",
+        "id": "ITA593 main"
+    },
+    {
+        "key": "E5 0F FB EF ED 03 05 F5",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11127 H 7200",
+        "id": "RBM TV"
     }
 ]
