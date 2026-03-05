@@ -31,6 +31,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11475 V 7200",
+    "id": "BIH002",
+    "key": "89 E8 FD 6E 9E 2A E3 AB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11582 H 7200",
     "id": "D-312",
     "key": "E4 4F FE 31 ED 03 05 F5"
@@ -43,8 +49,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11694 V 3333",
-    "id": "SID 1",
+    "frequency": "12510 V 7200",
+    "id": "E411- Via 1",
     "key": "53 4C 64 03 68 F8 6F CF"
   },
   {
@@ -61,12 +67,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12649 H 7200",
-    "id": "HBL Gummersbach",
-    "key": "20 26 AB F1 DC 05 03 E4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12677 H 7200",
     "id": "UKI-1462 - MAIN",
     "key": "63 E9 BB 07 C8 4D 62 77"
@@ -79,7 +79,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11265 H 7200",
+    "frequency": "11264 H 7200",
     "id": "LNR UK COL/BRI",
     "key": "F5 78 26 93 03 05 F2 FA"
   },
@@ -91,20 +91,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10969 H 3333",
+    "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10971 V 4800",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 03 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "12511 H 7200",
-    "id": "Flavia 7C",
-    "key": "8F 62 57 48 A9 BF 85 ED"
   }
 ]
