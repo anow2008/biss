@@ -12,6 +12,12 @@
     "key": "20 26 AB F1 DC 05 03 E4"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "11250 H 14400",
+    "id": "PRINCIPAL C+ COL/BRIV",
+    "key": "F5 78 26 93 03 05 F1 F9"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
     "frequency": "10848 V 7200",
     "id": "B 123 DGI",
@@ -31,8 +37,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
-    "id": "Unname",
+    "frequency": "10962 H 3333",
+    "id": "Ateme bbc",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
