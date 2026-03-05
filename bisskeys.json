@@ -2,7 +2,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11043 V 7200",
-    "id": "LK ENC 17",
+    "id": "TBS ADHOC ENC 3",
     "key": "DA 0E AC 94 53 5C EE 9D"
   },
   {
@@ -15,6 +15,12 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
     "frequency": "11631 H 9875",
     "id": "ES test 22HD",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10970 H 3333",
+    "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
