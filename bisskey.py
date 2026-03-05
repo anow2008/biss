@@ -4,29 +4,22 @@ import re
 import json
 
 def scrape_to_json():
-    # استخدام cloudscraper لتخطي حماية الموقع
     scraper = cloudscraper.create_scraper() 
     url = "https://live-feed.net"
     
     try:
         response = scraper.get(url)
-        if response.status_code != 200:
-            print(f"Error: {response.status_code}")
-            return
+        if response.status_code != 200: return
 
         soup = BeautifulSoup(response.text, 'html.parser')
         content = soup.get_text(separator="\n")
         
-        # تقسيم الموقع لبلوكات بناءً على التاريخ والوقت
+        # تقسيم الموقع لبلوكات
         raw_blocks = re.split(r'\d{4}-\d{2}-\d{2}\s\d{2}:\d{2}:\d{2}', content)
         
         active_feeds = []
-        
         for block in raw_blocks:
-            # فلترة البلوكات التي تحتوي على شفرة شغالة فقط
             if "KEY FOUND" in block and "#CW:" in block:
-                
-                # استخراج البيانات الأساسية
                 sat = re.search(r'(.*?@\s?\d+\.\d°[EW])', block)
                 freq = re.search(r'(\d{5}\s[VH]\s\d{4,5})', block)
                 chan_id = re.search(r'ID:\s*(.*)', block)
@@ -40,11 +33,10 @@ def scrape_to_json():
                         "key": cw.group(1).strip()
                     })
         
-        # حفظ البيانات في الملف بالاسم الجديد bisskeys.json
         with open('bisskeys.json', 'w', encoding='utf-8') as f:
             json.dump(active_feeds, f, ensure_ascii=False, indent=2)
             
-        print(f"Success! Saved {len(active_feeds)} keys to bisskeys.json")
+        print("Success! Created bisskeys.json")
 
     except Exception as e:
         print(f"Error: {e}")
