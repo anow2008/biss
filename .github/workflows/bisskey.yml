@@ -1,0 +1,32 @@
+name: Update Biss Keys
+
+on:
+  schedule:
+    - cron: '0 * * * *' # تشغيل تلقائي كل ساعة
+  workflow_dispatch: # زر التشغيل اليدوي
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Script
+        run: python bisskey.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "BissKey-Bot"
+          git config --global user.email "bot@github.com"
+          git add bisskeys.json
+          git commit -m "Update BissKeys: $(date)" || exit 0
+          git push
