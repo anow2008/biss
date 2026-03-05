@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11061 H 7200",
-    "id": "i390main",
-    "key": "55 76 BE 89 8A 9D EA 11"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11106 H 7200",
     "id": "G18 E336 Main Via 1",
     "key": "B7 8E 1A 5F 61 5B DA 96"
@@ -16,18 +10,6 @@
     "frequency": "11190 H 7200",
     "id": "F503/5/CPF/INTER/MAIN",
     "key": "AB CD 05 7D 03 DC BA 99"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11582 H 7200",
-    "id": "D-312",
-    "key": "E4 4F FE 31 ED 03 05 F5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12610 V 4600",
-    "id": "AP LDN UPA",
-    "key": "B4 1D 61 32 F1 8A B9 34"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
@@ -55,7 +37,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
+    "frequency": "10969 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   }
