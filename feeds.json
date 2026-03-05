@@ -1,35 +1,5 @@
 [
     {
-        "key": "E4 4F FA 2D AD 03 05 B5",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "10848 V 7200",
-        "id": "B 123 DGI"
-    },
-    {
-        "key": "E4 4F FB 2E AD 03 05 B5",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11106 H 7200",
-        "id": "LIVE\\_BR0ADCASTING\\_LINE1"
-    },
-    {
-        "key": "8F 62 57 48 A9 BF 85 ED",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12511 H 7200",
-        "id": "Flavia 7C"
-    },
-    {
-        "key": "20 26 AB F1 DC 05 03 E4",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12649 H 7200",
-        "id": "HBL Gummersbach"
-    },
-    {
-        "key": "F5 78 26 93 03 05 F1 F9",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11250 H 14400",
-        "id": "PRINCIPAL C+ COL/BRIV"
-    },
-    {
         "key": "AB BA 26 8B DC AE 03 8D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10971 V 4800",
@@ -82,5 +52,35 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11475 V 7200",
         "id": "BIH002"
+    },
+    {
+        "key": "DA E3 5B 18 CA BB CC 51",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 1"
+    },
+    {
+        "key": "CB F1 3D F9 EA BB CC 71",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 2"
+    },
+    {
+        "key": "DC B7 ED 80 33 A1 22 F6",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 3"
+    },
+    {
+        "key": "CB 65 11 41 DE AC DE 68",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 4"
+    },
+    {
+        "key": "DE 34 56 68 CA 12 21 FD",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 5"
     }
 ]
