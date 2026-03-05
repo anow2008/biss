@@ -1,92 +1,92 @@
 [
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 16A @ 16.0°E\n📶\n \n10966 H 3333\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 7.57 Mb/s\n🆔\n \nUnname\n🔑\n \nCW: AA CD 33 AA 27 CB AB 9D\n\n\n\n\n\n\n9\n views\n17:05",
-        "satellite": "📡",
-        "frequency": "10966",
-        "cw": "AACD33AA27CBAB9D"
+        "key": "55 76 BE 89 8A 9D EA 11",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11061 H 7200",
+        "id": "i390main"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11106 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 11.70 Mb/s\n🆔\n \nG18 E336 Main Via 1\n🔑\n \nCW: B7 8E 1A 5F 61 5B DA 96\n\n\n\n\n\n\n8\n views\n17:09",
-        "satellite": "📡",
-        "frequency": "11106",
-        "cw": "B78E1A5F615BDA96"
+        "key": "3D DC 53 6C 2C CB B9 B0",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12611 V 7200",
+        "id": "YLE"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11061 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 14.61 Mb/s\n🆔\n \ni390main\n🔑\n \nCW: 55 76 BE 89 8A 9D EA 11\n\n\n\n\n\n\n9\n views\n17:09",
-        "satellite": "📡",
-        "frequency": "11061",
-        "cw": "5576BE898A9DEA11"
+        "key": "89 E8 FD 6E 9E 2A E3 AB",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11475 H 7200",
+        "id": "BIH002"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n📶\n \n12611 V 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 14.43 Mb/s\n🆔\n \nYLE\n🔑\n \nCW: 3D DC 53 6C 2C CB B9 B0\n\n\n\n\n\n\n10\n views\n17:11",
-        "satellite": "📡",
-        "frequency": "12611",
-        "cw": "3DDC536C2CCBB9B0"
+        "key": "95 8A 87 A6 D7 47 C7 E5",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11483 H 7200",
+        "id": "Unname"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11475 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.16 Mb/s\n🆔\n \nBIH002\n🔑\n \nCW: 89 E8 FD 6E 9E 2A E3 AB\n\n\n\n\n\n\n11\n views\n17:11",
-        "satellite": "📡",
-        "frequency": "11475",
-        "cw": "89E8FD6E9E2AE3AB"
+        "key": "EA CE 89 41 48 AF 79 70",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12602 V 7200",
+        "id": "EHF"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11483 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 13.44 Mb/s\n🆔\n \nUnname\n🔑\n \nCW: 95 8A 87 A6 D7 47 C7 E5\n\n\n\n\n\n\n11\n views\n17:12",
-        "satellite": "📡",
-        "frequency": "11483",
-        "cw": "958A87A6D747C7E5"
+        "key": "AB CD EE 66 FF 05 03 07",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11190 H 7200",
+        "id": "Encoder 2"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n📶\n \n12602 V 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 14.73 Mb/s\n🆔\n \nEHF\n🔑\n \nCW: EA CE 89 41 48 AF 79 70\n\n\n\n\n\n\n10\n views\n17:13",
-        "satellite": "📡",
-        "frequency": "12602",
-        "cw": "EACE894148AF7970"
+        "key": "E4 4F FE 31 ED 03 05 F5",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11582 H 7200",
+        "id": "D-312"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11190 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 14.45 Mb/s\n🆔\n \nEncoder 2\n🔑\n \nCW: AB CD EE 66 FF 05 03 07\n\n\n\n\n\n\n11\n views\n17:13",
-        "satellite": "📡",
-        "frequency": "11190",
-        "cw": "ABCDEE66FF050307"
+        "key": "E4 4F FA 2D DD 03 05 E5",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11591 H 7200",
+        "id": "EHF NANTES"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11582 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.32 Mb/s\n🆔\n \nD-312\n🔑\n \nCW: E4 4F FE 31 ED 03 05 F5\n\n\n\n\n\n\n10\n views\n17:18",
-        "satellite": "📡",
-        "frequency": "11582",
-        "cw": "E44FFE31ED0305F5"
+        "key": "E4 4F FA 2D AD 03 05 B5",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "10848 V 7200",
+        "id": "B 123 DGI"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n11591 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.05 Mb/s\n🆔\n \nEHF NANTES\n🔑\n \nCW: E4 4F FA 2D DD 03 05 E5\n\n\n\n\n\n\n10\n views\n17:26",
-        "satellite": "📡",
-        "frequency": "11591",
-        "cw": "E44FFA2DDD0305E5"
+        "key": "E4 4F FB 2E AD 03 05 B5",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11106 H 7200",
+        "id": "LIVE\\_BR0ADCASTING\\_LINE1"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat Hotbird 13B/13C/13G @ 13.0°E\n📶\n \n10848 V 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.20 Mb/s\n🆔\n \nB 123 DGI\n🔑\n \nCW: E4 4F FA 2D AD 03 05 B5\n\n\n\n\n\n\n8\n views\n17:38",
-        "satellite": "📡",
-        "frequency": "10848",
-        "cw": "E44FFA2DAD0305B5"
+        "key": "8F 62 57 48 A9 BF 85 ED",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "12511 H 7200",
+        "id": "Flavia 7C"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 16A @ 16.0°E\n📶\n \n11106 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.02 Mb/s\n🆔\n \nLIVE\\_BR0ADCASTING\\_LINE1\n🔑\n \nCW: E4 4F FB 2E AD 03 05 B5\n\n\n\n\n\n\n8\n views\n17:42",
-        "satellite": "📡",
-        "frequency": "11106",
-        "cw": "E44FFB2EAD0305B5"
+        "key": "20 26 AB F1 DC 05 03 E4",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12649 H 7200",
+        "id": "HBL Gummersbach"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 16A @ 16.0°E\n📶\n \n12511 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 15.27 Mb/s\n🆔\n \nFlavia 7C\n🔑\n \nCW: 8F 62 57 48 A9 BF 85 ED\n\n\n\n\n\n\n10\n views\n17:44",
-        "satellite": "📡",
-        "frequency": "12511",
-        "cw": "8F625748A9BF85ED"
+        "key": "F5 78 26 93 03 05 F1 F9",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "11250 H 14400",
+        "id": "PRINCIPAL C+ COL/BRIV"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 7A/7B/7C @ 7.0°E\n📶\n \n12649 H 7200\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:2 \n⚠️\n | 25 FPS | 15.04 Mb/s\n🆔\n \nHBL Gummersbach\n🔑\n \nCW: 20 26 AB F1 DC 05 03 E4\n\n\n\n\n\n\n9\n views\n17:51",
-        "satellite": "📡",
-        "frequency": "12649",
-        "cw": "2026ABF1DC0503E4"
+        "key": "AB BA 26 8B DC AE 03 8D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10971 V 4800",
+        "id": "POL - 054 Kielce"
     },
     {
-        "raw_text": "📡\n Live Feed\n\n\n\n\n\n\n📡\n \nEutelsat 10A @ 10.0°E\n📶\n \n11250 H 14400\n🎬\n \n1920×1080 | H.264/AVC\n📊\n \n4:2:0 | 25 FPS | 30.52 Mb/s\n🆔\n \nPRINCIPAL C+ COL/BRIV\n🔑\n \nCW: F5 78 26 93 03 05 F1 F9\n\n\n\n\n\n\n2\n views\n18:13",
-        "satellite": "📡",
-        "frequency": "11250",
-        "cw": "F57826930305F1F9"
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12515 H 4938",
+        "id": "YSM-021M"
     }
 ]
