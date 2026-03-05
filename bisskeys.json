@@ -25,18 +25,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11475 H 7200",
-    "id": "BIH002",
-    "key": "89 E8 FD 6E 9E 2A E3 AB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11475 V 7200",
-    "id": "BIH002",
-    "key": "89 E8 FD 6E 9E 2A E3 AB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11582 H 7200",
     "id": "D-312",
     "key": "E4 4F FE 31 ED 03 05 F5"
@@ -49,15 +37,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12510 V 7200",
-    "id": "E411- Via 1",
+    "frequency": "11694 V 3333",
+    "id": "SID 1",
     "key": "53 4C 64 03 68 F8 6F CF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12515 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -79,7 +61,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11264 H 7200",
+    "frequency": "11265 H 7200",
     "id": "LNR UK COL/BRI",
     "key": "F5 78 26 93 03 05 F2 FA"
   },
@@ -91,7 +73,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
+    "frequency": "10969 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   }
