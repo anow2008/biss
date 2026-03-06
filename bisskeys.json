@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10988 H 4938",
+    "id": "HOCKEY",
+    "key": "98 74 DE EA FC 5B 6A C1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10997 V 9875",
+    "id": "HOL311 MAIN",
+    "key": "FD 96 12 A5 71 62 51 24"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11022 H 9875",
+    "id": "YLE FIN-029 SJ M",
+    "key": "CB AD A4 1C A7 B8 8C EB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11022 V 8020",
+    "id": "Fi11_GNVE",
+    "key": "CA 8F 99 F2 D2 41 A8 BB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11559 V 3600",
+    "id": "E330 FEED 3",
+    "key": "23 DA AC A9 C1 20 DC BD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12704 V 7500",
+    "id": "EDM HD ENC-1",
+    "key": "B2 C5 D3 4A E6 F4 A7 81"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12736 V 7200",
+    "id": "Joburg open",
+    "key": "BD D4 6A FB 18 8E 8C 32"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "12583 V 7200",
+    "id": "YONEX Court 1.",
+    "key": "F2 D8 A6 70 19 C3 E7 C3"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "12593 V 7200",
+    "id": "YONEX Court 2..",
+    "key": "8F 3D 6A 36 1C 7E 29 C3"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10970 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  }
+]
