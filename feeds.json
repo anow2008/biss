@@ -1,11 +1,5 @@
 [
     {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10971 V 4800",
-        "id": "POL - 054 Kielce"
-    },
-    {
         "key": "AB BA 20 85 25 20 26 6B",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12515 H 4938",
@@ -94,5 +88,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11597 V 7200",
         "id": "POWER SLAP CLEAN"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AC D5",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11061 H 7500",
+        "id": "WBC Australia at Czechia"
     }
 ]
