@@ -1,35 +1,5 @@
 [
     {
-        "key": "30 21 25 76 AD 62 9A A9",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": ""
-    },
-    {
-        "key": "B9 A4 E6 43 70 F2 B5 17",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": ""
-    },
-    {
-        "key": "AA CD 33 AA 27 CB AB 9D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10966 H 3333",
-        "id": "Unname"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AA D3",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11079 H 7500",
-        "id": "Cuba at Panama"
-    },
-    {
-        "key": "F0 43 97 CA DB 6F E1 2B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU"
-    },
-    {
         "key": "2F 3C A1 0C AD A5 68 BA",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11052 V 7200",
@@ -76,5 +46,29 @@
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "12509 H 4938",
         "id": "YSM-021M"
+    },
+    {
+        "key": "20 26 02 48 07 08 09 18",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12574 H 7200",
+        "id": "UKI-1484 main"
+    },
+    {
+        "key": "06 03 FE 07 ED 20 26 33",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12727 V 7200",
+        "id": "MediaLink CRO-023/1"
+    },
+    {
+        "key": "13 57 AB 15 CD 24 68 59",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12640 H 7200",
+        "id": "Live Broadcasting Line 1"
+    },
+    {
+        "key": "77 93 52 5C 99 08 86 27",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11072 H 7500",
+        "id": "POL085"
     }
 ]
