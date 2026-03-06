@@ -6,20 +6,14 @@
     "key": "AA BB 20 85 26 03 AA D3"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10731 V 34000",
-    "id": "OVERON 1",
-    "key": "16 D8 26 14 26 20 D7 1D"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10768 V 34000",
-    "id": "SUPPONOR RUSIA 1",
-    "key": "A8 1D 6B 30 06 44 A9 F3"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11088 H 7500",
+    "id": "WBC Mexico at GB",
+    "key": "AA BB 20 85 26 03 AB D4"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
+    "frequency": "10965 H 3333",
     "id": "Unname",
     "key": "AA CD 33 AA 27 CB AB 9D"
   }
