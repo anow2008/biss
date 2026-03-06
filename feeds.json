@@ -1,83 +1,5 @@
 [
     {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12515 H 4938",
-        "id": "YSM-021M"
-    },
-    {
-        "key": "53 4C 64 03 68 F8 6F CF",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12510 V 7200",
-        "id": "E411- Via 1"
-    },
-    {
-        "key": "63 E9 BB 07 C8 4D 62 77",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12677 H 7200",
-        "id": "UKI-1462 - MAIN"
-    },
-    {
-        "key": "B4 1D 61 32 F1 8A B9 34",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12640 H 7500",
-        "id": "ITA593 main"
-    },
-    {
-        "key": "E5 0F FB EF ED 03 05 F5",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11127 H 7200",
-        "id": "RBM TV"
-    },
-    {
-        "key": "AB CD 05 7D 03 DC BA 99",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11190 H 7200",
-        "id": "F503/5/CPF/INTER/MAIN"
-    },
-    {
-        "key": "F5 78 26 93 03 05 F2 FA",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11265 H 7200",
-        "id": "LNR UK COL/BRI"
-    },
-    {
-        "key": "89 E8 FD 6E 9E 2A E3 AB",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11475 V 7200",
-        "id": "BIH002"
-    },
-    {
-        "key": "DA E3 5B 18 CA BB CC 51",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 1"
-    },
-    {
-        "key": "CB F1 3D F9 EA BB CC 71",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 2"
-    },
-    {
-        "key": "DC B7 ED 80 33 A1 22 F6",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 3"
-    },
-    {
-        "key": "CB 65 11 41 DE AC DE 68",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 4"
-    },
-    {
-        "key": "DE 34 56 68 CA 12 21 FD",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 5"
-    },
-    {
         "key": "DA 0E AC 94 53 5C EE 9D",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11043 V 7200",
@@ -94,5 +16,59 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11061 H 7500",
         "id": "WBC Australia at Czechia"
+    },
+    {
+        "key": "FD 96 12 A5 71 62 51 24",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10997 V 9875",
+        "id": "HOL311 MAIN"
+    },
+    {
+        "key": "B2 C5 D3 4A E6 F4 A7 81",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12704 V 7500",
+        "id": "EDM HD ENC-1"
+    },
+    {
+        "key": "8F 3D 6A 36 1C 7E 29 C3",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12593 V 7200",
+        "id": "YONEX Court 2.."
+    },
+    {
+        "key": "F2 D8 A6 70 19 C3 E7 C3",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12583 V 7200",
+        "id": "YONEX Court 1."
+    },
+    {
+        "key": "AA CD 33 AA 27 CB AB 9D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10970 H 3333",
+        "id": "DEFAULT"
+    },
+    {
+        "key": "1D 09 5A 80 0C AF 22 DD",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11568 V 9875",
+        "id": "ENC-27"
+    },
+    {
+        "key": "23 DA AC A9 C1 20 DC BD",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12677 V 7200",
+        "id": "Unname"
+    },
+    {
+        "key": "BD D4 6A FB 18 8E 8C 32",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12736 V 7200",
+        "id": "Joburg open"
+    },
+    {
+        "key": "CB AD A4 1C A7 B8 8C EB",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11021 H 9875",
+        "id": "YLE FIN-029 SJ M"
     }
 ]
