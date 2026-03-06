@@ -1,23 +1,5 @@
 [
     {
-        "key": "AB CD 06 7E 03 AA BB 68",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11145 H 7200",
-        "id": "MMA STRASBOURG INTER"
-    },
-    {
-        "key": "41 4C 93 20 4A 61 4A F5",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "10848 V 7500",
-        "id": "Program 1"
-    },
-    {
-        "key": "2A 64 5E EC 28 39 E8 49",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12736 V 7200",
-        "id": "UFC 326 Test"
-    },
-    {
         "key": "01 23 D4 F8 E4 72 A1 F7",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12704 V 7120",
@@ -76,5 +58,23 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11022 V 9875",
         "id": "GVA_Fi03"
+    },
+    {
+        "key": "42 CC 98 A6 76 AB CC ED",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11602 V 14240",
+        "id": "6N Ireland v Wales BRANDED"
+    },
+    {
+        "key": "49 8B AC 80 DA 29 32 35",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10961 H 9875",
+        "id": "Fi11_GNVE"
+    },
+    {
+        "key": "CC 4B 66 7D 77 A2 43 5C",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11522 V 7120",
+        "id": "RUGBY"
     }
 ]
