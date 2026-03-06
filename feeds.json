@@ -1,35 +1,5 @@
 [
     {
-        "key": "FD 96 12 A5 71 62 51 24",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10997 V 9875",
-        "id": "HOL311 MAIN"
-    },
-    {
-        "key": "B2 C5 D3 4A E6 F4 A7 81",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12704 V 7500",
-        "id": "EDM HD ENC-1"
-    },
-    {
-        "key": "8F 3D 6A 36 1C 7E 29 C3",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12593 V 7200",
-        "id": "YONEX Court 2.."
-    },
-    {
-        "key": "F2 D8 A6 70 19 C3 E7 C3",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12583 V 7200",
-        "id": "YONEX Court 1."
-    },
-    {
-        "key": "AA CD 33 AA 27 CB AB 9D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10970 H 3333",
-        "id": "DEFAULT"
-    },
-    {
         "key": "1D 09 5A 80 0C AF 22 DD",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11568 V 9875",
@@ -82,5 +52,47 @@
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
         "id": ""
+    },
+    {
+        "key": "AA CD 33 AA 27 CB AB 9D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10966 H 3333",
+        "id": "Unname"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AA D3",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11079 H 7500",
+        "id": "Cuba at Panama"
+    },
+    {
+        "key": "F0 43 97 CA DB 6F E1 2B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU"
+    },
+    {
+        "key": "2F 3C A1 0C AD A5 68 BA",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11052 V 7200",
+        "id": "FIS SNOWBOARD"
+    },
+    {
+        "key": "77 D2 4C 95 9B 34 56 25",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11009 H 9875",
+        "id": "YLE FIN-029 CC M"
+    },
+    {
+        "key": "3E F8 4B 81 9B 8E 59 82",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11068 V 9875",
+        "id": "FIS FEED Backup"
+    },
+    {
+        "key": "1C 09 91 B6 30 DE B0 BE",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11080 V 9875",
+        "id": "FIS FEED Clean Main"
     }
 ]
