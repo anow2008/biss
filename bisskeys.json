@@ -1,24 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10961 H 9875",
-    "id": "Fi11_GNVE",
-    "key": "49 8B AC 80 DA 29 32 35"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10973 H 9875",
-    "id": "Fi12_GNVE",
-    "key": "EE 08 63 59 7D D4 D8 29"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "F0 43 97 CA DB 6F E1 2B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11079 H 7500",
     "id": "Puerta Rico at Columbia",
     "key": "AA BB 20 85 26 03 AA D3"
@@ -31,19 +13,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11136 H 7200",
-    "id": "MMA PRIVATIF",
-    "key": "AB CD 06 7E 03 AA BB 68"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11145 H 7200",
-    "id": "MMA STRASBOURG INTER",
-    "key": "AB CD 06 7E 03 AA BB 68"
+    "frequency": "11097 H 7500",
+    "id": "Netherlands at Venezuela",
+    "key": "AA BB 20 85 26 03 AD D6"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10731 V 34000",
+    "frequency": "10732 V 34000",
     "id": "OVERON 1",
     "key": "16 D8 26 14 26 20 D7 1D"
   },
@@ -52,12 +28,6 @@
     "frequency": "10768 V 34000",
     "id": "SUPPONOR RUSIA 1",
     "key": "A8 1D 6B 30 06 44 A9 F3"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11251 H 14400",
-    "id": "PRIVATIF VALENCE VS VANNES PRO D2",
-    "key": "F5 76 26 91 03 06 F1 FA"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
