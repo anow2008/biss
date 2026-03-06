@@ -25,6 +25,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11079 H 7500",
+    "id": "Cuba at Panama",
+    "key": "AA BB 20 85 26 03 AA D3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11088 H 7500",
     "id": "WBC Mexico at GB",
     "key": "AA BB 20 85 26 03 AB D4"
@@ -48,12 +54,6 @@
     "key": "CC 4B 66 7D 77 A2 43 5C"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11602 V 14240",
-    "id": "6N Ireland v Wales BRANDED",
-    "key": "42 CC 98 A6 76 AB CC ED"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0E",
     "frequency": "10731 V 34000",
     "id": "OVERON 1",
@@ -66,12 +66,6 @@
     "key": "A8 1D 6B 30 06 44 A9 F3"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11251 H 14400",
-    "id": "PRIVATIF VALENCE VS VANNES PRO D2",
-    "key": "F5 76 26 91 03 06 F1 FA"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10966 H 3333",
     "id": "Unname",
@@ -82,11 +76,5 @@
     "frequency": "10969 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10980 H 3600",
-    "id": "F5-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
   }
 ]
