@@ -88,5 +88,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11043 V 7200",
         "id": "LK ENC 17"
+    },
+    {
+        "key": "54 A3 26 1D 31 34 2B 90",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11597 V 7200",
+        "id": "POWER SLAP CLEAN"
     }
 ]
