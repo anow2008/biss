@@ -1,6 +1,18 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10961 H 9875",
+    "id": "Fi11_GNVE",
+    "key": "49 8B AC 80 DA 29 32 35"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10973 H 9875",
+    "id": "Fi12_GNVE",
+    "key": "EE 08 63 59 7D D4 D8 29"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11022 V 9875",
     "id": "GVA_Fi03",
     "key": "8F AC 43 7E 56 22 69 E1"
@@ -34,6 +46,12 @@
     "frequency": "11469 V 7200",
     "id": "E-228 Main",
     "key": "AA BB 20 85 26 03 06 2F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11522 V 7120",
+    "id": "RUGBY",
+    "key": "CC 4B 66 7D 77 A2 43 5C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
