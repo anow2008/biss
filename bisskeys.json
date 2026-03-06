@@ -7,26 +7,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "54 A3 26 1D 31 34 2B 90"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11606 V 7200",
-    "id": "Power Slap #18 EUROPE PROGRAM",
-    "key": "54 A3 26 1D 31 34 2B 90"
+    "frequency": "11061 H 7500",
+    "id": "WBC Australia at Czechia",
+    "key": "AA BB 20 85 26 03 AC D5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12610 V 4600",
     "id": "AP LDN UPA",
-    "key": "AD CB 43 BB 22 CB 77 64"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "11631 H 9875",
-    "id": "ES test 22HD",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
