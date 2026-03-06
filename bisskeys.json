@@ -19,21 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 H 9875",
-    "id": "YLE FIN-029 SJ M",
-    "key": "CB AD A4 1C A7 B8 8C EB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 V 8020",
-    "id": "Fi11_GNVE",
-    "key": "CA 8F 99 F2 D2 41 A8 BB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11052 V 7200",
-    "id": "FIS SNOWBOARD",
-    "key": "2F 3C A1 0C AD A5 68 BA"
+    "frequency": "11061 H 7500",
+    "id": "WBC Australia at Czechia",
+    "key": "AA BB 20 85 26 03 AC D5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -49,8 +37,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12541 V 9600",
-    "id": "F32/2/PMU PONTCHATEAU",
+    "frequency": "12610 V 4600",
+    "id": "AP LDN UPA",
     "key": "23 DA AC A9 C1 20 DC BD"
   },
   {
@@ -67,14 +55,14 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10732 V 34000",
+    "frequency": "10731 V 34000",
     "id": "OVERON 1",
     "key": "16 D8 26 14 26 20 D7 1D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "11212 V 9800",
-    "id": "NLEMG HOL270-1",
+    "frequency": "11632 H 11240",
+    "id": "GVA_Fi02",
     "key": "F2 D8 A6 70 19 C3 E7 C3"
   },
   {
