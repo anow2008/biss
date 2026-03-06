@@ -19,12 +19,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11061 H 7500",
-    "id": "Netherlands at Venezuela",
-    "key": "AA BB 20 85 26 03 AD D6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "F0 43 97 CA DB 6F E1 2B"
@@ -49,21 +43,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11469 V 7200",
-    "id": "E-228 Main",
-    "key": "AA BB 20 85 26 03 06 2F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11602 V 14240",
     "id": "6N Ireland v Wales BRANDED",
     "key": "42 CC 98 A6 76 AB CC ED"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12640 H 7200",
-    "id": "Live Broadcasting Line 1",
-    "key": "13 57 AB 15 CD 24 68 59"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
