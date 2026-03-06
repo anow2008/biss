@@ -25,6 +25,18 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11127 H 7200",
+    "id": "RBM TV",
+    "key": "AB CD 06 7E 03 AA BB 68"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11469 V 7200",
+    "id": "E-228 Main",
+    "key": "AA BB 20 85 26 03 06 2F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12510 V 7200",
     "id": "NLFLEV_HOL328-3",
     "key": "13 57 AB 15 CD 24 68 59"
@@ -43,6 +55,18 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12704 V 7120",
+    "id": "Pitch- U 20 6N Scotland v France",
+    "key": "01 23 D4 F8 E4 72 A1 F7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12727 V 7200",
+    "id": "MediaLink CRO-023/1",
+    "key": "06 03 FE 07 ED 20 26 33"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12736 V 7200",
     "id": "UFC 326 Test",
     "key": "2A 64 5E EC 28 39 E8 49"
@@ -54,9 +78,15 @@
     "key": "16 D8 26 14 26 20 D7 1D"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "11264 H 7200",
+    "id": "ProD2 GRENOBLE main",
+    "key": "F5 12 26 2D 05 06 F1 FC"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
     "frequency": "10848 V 7500",
-    "id": "Program 1",
+    "id": "E333 M",
     "key": "41 4C 93 20 4A 61 4A F5"
   },
   {
@@ -73,13 +103,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10962 H 3333",
-    "id": "Ateme bbc",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
+    "frequency": "10969 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
@@ -88,6 +118,12 @@
     "frequency": "10976 H 3600",
     "id": "F4-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10986 V 9600",
+    "id": "POL 030",
+    "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
