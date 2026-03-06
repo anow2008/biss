@@ -1,17 +1,5 @@
 [
     {
-        "key": "AA BB 20 85 26 03 AD D6",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11061 H 7500",
-        "id": "Netherlands at Venezuela"
-    },
-    {
-        "key": "20 25 AE F3 EA 52 02 3E",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10980 H 3600",
-        "id": "F5-2 4.5MH"
-    },
-    {
         "key": "AB BA 20 85 25 20 26 6B",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "12509 H 4938",
@@ -58,5 +46,29 @@
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
         "frequency": "10848 V 7500",
         "id": "Program 1"
+    },
+    {
+        "key": "2A 64 5E EC 28 39 E8 49",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12736 V 7200",
+        "id": "UFC 326 Test"
+    },
+    {
+        "key": "01 23 D4 F8 E4 72 A1 F7",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12704 V 7120",
+        "id": "Pitch- U 20 6N Scotland v France"
+    },
+    {
+        "key": "F5 12 26 2D 05 06 F1 FC",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "11264 H 7200",
+        "id": "ProD2 GRENOBLE main"
+    },
+    {
+        "key": "AB BA 26 8B DC AE 03 8D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10986 V 9600",
+        "id": "POL 030"
     }
 ]
