@@ -1,11 +1,5 @@
 [
     {
-        "key": "A8 1D 6B 30 06 44 A9 F3",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR RUSIA 1"
-    },
-    {
         "key": "49 BF 34 3C 14 32 8F D5",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10768 V 34000",
@@ -64,5 +58,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11088 V 7120",
         "id": "Pitch Preston v Oxford Utd"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AD D6",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11097 H 7500",
+        "id": "Netherlands at Venezuela"
     }
 ]
