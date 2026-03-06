@@ -1,11 +1,5 @@
 [
     {
-        "key": "49 BF 34 3C 14 32 8F D5",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 1"
-    },
-    {
         "key": "F5 76 26 91 03 06 F1 FA",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "11251 H 14400",
@@ -64,5 +58,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11097 H 7500",
         "id": "Netherlands at Venezuela"
+    },
+    {
+        "key": "DD AA EE 75 BB 28 02 E5",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12611 V 7200",
+        "id": "GCUK Enc 1"
     }
 ]
