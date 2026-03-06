@@ -1,23 +1,5 @@
 [
     {
-        "key": "DA 0E AC 94 53 5C EE 9D",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11043 V 7200",
-        "id": "LK ENC 17"
-    },
-    {
-        "key": "54 A3 26 1D 31 34 2B 90",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11597 V 7200",
-        "id": "POWER SLAP CLEAN"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AC D5",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11061 H 7500",
-        "id": "WBC Australia at Czechia"
-    },
-    {
         "key": "FD 96 12 A5 71 62 51 24",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "10997 V 9875",
@@ -70,5 +52,35 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11021 H 9875",
         "id": "YLE FIN-029 SJ M"
+    },
+    {
+        "key": "CA 8F 99 F2 D2 41 A8 BB",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11022 V 8020",
+        "id": "Fi11\\_GNVE"
+    },
+    {
+        "key": "16 D8 26 14 26 20 D7 1D",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": ""
+    },
+    {
+        "key": "A1 24 94 59 FE 22 A3 C3",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": ""
+    },
+    {
+        "key": "30 21 25 76 AD 62 9A A9",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": ""
+    },
+    {
+        "key": "B9 A4 E6 43 70 F2 B5 17",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": ""
     }
 ]
