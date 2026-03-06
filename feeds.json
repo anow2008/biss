@@ -1,29 +1,5 @@
 [
     {
-        "key": "01 23 D4 F8 E4 72 A1 F7",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12704 V 7120",
-        "id": "Pitch- U 20 6N Scotland v France"
-    },
-    {
-        "key": "F5 12 26 2D 05 06 F1 FC",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11264 H 7200",
-        "id": "ProD2 GRENOBLE main"
-    },
-    {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10986 V 9600",
-        "id": "POL 030"
-    },
-    {
-        "key": "AA BB 20 85 26 03 06 2F",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11469 V 7200",
-        "id": "E-228 Main"
-    },
-    {
         "key": "A8 1D 6B 30 06 44 A9 F3",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10768 V 34000",
@@ -76,5 +52,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11522 V 7120",
         "id": "RUGBY"
+    },
+    {
+        "key": "BC AA 45 AB 56 BB CA DB",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12727 V 7200",
+        "id": "ENC 21"
+    },
+    {
+        "key": "B6 B4 25 8F 25 C3 43 2B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11088 V 7120",
+        "id": "Pitch Preston v Oxford Utd"
     }
 ]
