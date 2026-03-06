@@ -26,8 +26,7 @@ def scrape_to_json():
         soup = BeautifulSoup(response.text, 'html.parser')
         content = soup.get_text(separator="\n")
         
-        # تعديل النمط (Regex) ليكون أكثر تحديداً ويبدأ من اسم القمر مباشرة
-        # النمط ده بيدور على النص اللي آخره @ وبعده درجة مدارية
+        # النمط الحالي بتاعك
         pattern = re.compile(
             r'(?P<sat>[^\n]*?@\s?\d+\.\d°[EW]).*?'        
             r'(?P<freq>\d{5}\s+[VH]\s+\d{4,5}).*?'     
@@ -43,11 +42,15 @@ def scrape_to_json():
             start_pos = match.start()
             context = content[max(0, start_pos-300):match.end()]
             
-            # تم إضافة فحص CLEAR و FTA هنا لضمان سحب القنوات المشفرة فقط
-            if "KEY FOUND" in context.upper() and "CLEAR" not in context.upper() and "(FTA)" not in context.upper():
-                # تنظيف اسم القمر من أي زوائد قبله
+            # التعديل الذهبي:
+            # 1. لازم يكون فيه KEY FOUND
+            # 2. لازم ميكنش CLEAR (يعني مش مفتوحة)
+            # 3. لازم ميكنش NO KEY (يعني الموقع لسه منشرش الشفرة)
+            if "KEY FOUND" in context.upper() and \
+               "CLEAR" not in context.upper() and \
+               "NO KEY" not in context.upper():
+                
                 raw_sat = match.group('sat')
-                # لو اسم القمر فيه أسطر كتير، هناخد آخر سطر بس (اللي فيه اسم القمر فعلياً)
                 clean_sat = raw_sat.split('\n')[-1].strip()
                 
                 feed_item = {
@@ -63,7 +66,7 @@ def scrape_to_json():
         with open('bisskeys.json', 'w', encoding='utf-8') as f:
             json.dump(active_feeds, f, ensure_ascii=False, indent=2)
             
-        print(f"Success! Found {len(active_feeds)} clean entries.")
+        print(f"Success! Found {len(active_feeds)} valid entries.")
 
     except Exception as e:
         print(f"Error: {e}")
