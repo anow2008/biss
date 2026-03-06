@@ -1,20 +1,8 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10997 V 9875",
-    "id": "HOL311 MAIN",
-    "key": "FD 96 12 A5 71 62 51 24"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10997 H 9875",
-    "id": "TUR 162 BKP",
-    "key": "77 D2 4C 95 9B 34 56 25"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11061 H 7500",
-    "id": "Netherlands at Venezuela",
+    "frequency": "11021 V 9875",
+    "id": "GVA_Fi03",
     "key": "AA BB 20 85 26 03 AD D6"
   },
   {
@@ -31,21 +19,39 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12521 V 4938",
-    "id": "EBU PTRTP POR25",
-    "key": "20 26 02 48 07 08 09 18"
+    "frequency": "11088 H 7500",
+    "id": "WBC Mexico at GB",
+    "key": "AA BB 20 85 26 03 AB D4"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12610 V 4600",
-    "id": "AP LDN UPA",
+    "frequency": "11136 H 7200",
+    "id": "MMA PRIVATIF",
+    "key": "AB CD 06 7E 03 AA BB 68"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11145 H 7200",
+    "id": "MMA STRASBOURG INTER",
+    "key": "AB CD 06 7E 03 AA BB 68"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12510 V 7200",
+    "id": "NLFLEV_HOL328-3",
+    "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12649 H 7200",
+    "id": "Medialink CRO-024/1",
+    "key": "20 25 AB F0 CD 20 26 13"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12677 V 7200",
+    "id": "Unname",
     "key": "23 DA AC A9 C1 20 DC BD"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12704 V 7500",
-    "id": "EDM HD ENC-1",
-    "key": "B2 C5 D3 4A E6 F4 A7 81"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -56,19 +62,13 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12736 V 7200",
-    "id": "Joburg open",
-    "key": "BD D4 6A FB 18 8E 8C 32"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10731 V 34000",
-    "id": "OVERON 1",
+    "id": "UFC 326 Test",
     "key": "16 D8 26 14 26 20 D7 1D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "11631 H 9875",
-    "id": "ES test 22HD",
+    "frequency": "10848 V 7500",
+    "id": "E333 M",
     "key": "F2 D8 A6 70 19 C3 E7 C3"
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10962 H 3333",
-    "id": "Ateme bbc",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
@@ -94,6 +94,12 @@
     "frequency": "10976 H 3600",
     "id": "F4-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11072 H 7500",
+    "id": "POL085",
+    "key": "77 93 52 5C 99 08 86 27"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
