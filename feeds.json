@@ -1,47 +1,5 @@
 [
     {
-        "key": "1D 09 5A 80 0C AF 22 DD",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11568 V 9875",
-        "id": "ENC-27"
-    },
-    {
-        "key": "23 DA AC A9 C1 20 DC BD",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12677 V 7200",
-        "id": "Unname"
-    },
-    {
-        "key": "BD D4 6A FB 18 8E 8C 32",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12736 V 7200",
-        "id": "Joburg open"
-    },
-    {
-        "key": "CB AD A4 1C A7 B8 8C EB",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11021 H 9875",
-        "id": "YLE FIN-029 SJ M"
-    },
-    {
-        "key": "CA 8F 99 F2 D2 41 A8 BB",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11022 V 8020",
-        "id": "Fi11\\_GNVE"
-    },
-    {
-        "key": "16 D8 26 14 26 20 D7 1D",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": ""
-    },
-    {
-        "key": "A1 24 94 59 FE 22 A3 C3",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": ""
-    },
-    {
         "key": "30 21 25 76 AD 62 9A A9",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
@@ -94,5 +52,29 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11080 V 9875",
         "id": "FIS FEED Clean Main"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AB D4",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11088 H 7500",
+        "id": "WBC Mexico at GB"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AD D6",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11061 H 7500",
+        "id": "Netherlands at Venezuela"
+    },
+    {
+        "key": "20 25 AE F3 EA 52 02 3E",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10980 H 3600",
+        "id": "F5-2 4.5MH"
+    },
+    {
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "12509 H 4938",
+        "id": "YSM-021M"
     }
 ]
