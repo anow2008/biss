@@ -13,7 +13,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 V 9875",
+    "frequency": "11021 V 9875",
     "id": "GVA_Fi03",
     "key": "8F AC 43 7E 56 22 69 E1"
   },
@@ -31,14 +31,20 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11079 H 7500",
-    "id": "Cuba at Panama",
-    "key": "AA BB 20 85 26 03 AA D3"
+    "frequency": "11088 H 7500",
+    "id": "WBC Mexico at GB",
+    "key": "AA BB 20 85 26 03 AB D4"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11136 H 7200",
     "id": "MMA PRIVATIF",
+    "key": "AB CD 06 7E 03 AA BB 68"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11145 H 7200",
+    "id": "MMA STRASBOURG INTER",
     "key": "AB CD 06 7E 03 AA BB 68"
   },
   {
@@ -49,27 +55,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11602 V 14240",
+    "id": "6N Ireland v Wales BRANDED",
+    "key": "42 CC 98 A6 76 AB CC ED"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12640 H 7200",
-    "id": "Live Broadcasting Line 2",
+    "id": "Live Broadcasting Line 1",
     "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12649 H 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "20 25 AB F0 CD 20 26 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12677 V 7200",
-    "id": "Unname",
-    "key": "23 DA AC A9 C1 20 DC BD"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12704 V 7120",
     "id": "Pitch- U 20 6N Scotland v France",
     "key": "01 23 D4 F8 E4 72 A1 F7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12727 V 7200",
+    "id": "ENC 21",
+    "key": "BC AA 45 AB 56 BB CA DB"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
@@ -106,11 +112,5 @@
     "frequency": "10980 H 3600",
     "id": "F5-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10986 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 03 8D"
   }
 ]
