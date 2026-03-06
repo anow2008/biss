@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11021 V 9875",
-    "id": "GVA_Fi03",
-    "key": "8F AC 43 7E 56 22 69 E1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "F0 43 97 CA DB 6F E1 2B"
@@ -26,7 +20,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11079 H 7500",
-    "id": "Cuba at Panama",
+    "id": "Puerta Rico at Columbia",
     "key": "AA BB 20 85 26 03 AA D3"
   },
   {
@@ -48,12 +42,6 @@
     "key": "AB CD 06 7E 03 AA BB 68"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11522 V 7120",
-    "id": "RUGBY",
-    "key": "CC 4B 66 7D 77 A2 43 5C"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0E",
     "frequency": "10731 V 34000",
     "id": "OVERON 1",
@@ -64,6 +52,12 @@
     "frequency": "10768 V 34000",
     "id": "SUPPONOR RUSIA 1",
     "key": "A8 1D 6B 30 06 44 A9 F3"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "11251 H 14400",
+    "id": "PRIVATIF VALENCE VS VANNES PRO D2",
+    "key": "F5 76 26 91 03 06 F1 FA"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
