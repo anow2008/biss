@@ -1,6 +1,18 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10973 H 9875",
+    "id": "Fi12_GNVE",
+    "key": "EE 08 63 59 7D D4 D8 29"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11022 V 9875",
+    "id": "GVA_Fi03",
+    "key": "8F AC 43 7E 56 22 69 E1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11061 H 7500",
     "id": "Netherlands at Venezuela",
     "key": "AA BB 20 85 26 03 AD D6"
@@ -37,12 +49,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12510 V 7200",
-    "id": "NLFLEV_HOL328-3",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12649 H 7200",
     "id": "Medialink CRO-024/1",
     "key": "20 25 AB F0 CD 20 26 13"
@@ -61,12 +67,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12727 V 7200",
-    "id": "MediaLink CRO-023/1",
-    "key": "06 03 FE 07 ED 20 26 33"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12736 V 7200",
     "id": "UFC 326 Test",
     "key": "2A 64 5E EC 28 39 E8 49"
@@ -76,6 +76,18 @@
     "frequency": "10731 V 34000",
     "id": "OVERON 1",
     "key": "16 D8 26 14 26 20 D7 1D"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10768 V 34000",
+    "id": "SUPPONOR RUSIA 1",
+    "key": "A8 1D 6B 30 06 44 A9 F3"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "11251 H 14400",
+    "id": "PRIVATIF VALENCE VS VANNES PRO D2",
+    "key": "F5 76 26 91 03 06 F1 FA"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
@@ -91,12 +103,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "11631 H 9875",
-    "id": "ES test 22HD",
-    "key": "F2 D8 A6 70 19 C3 E7 C3"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
     "frequency": "12593 V 7200",
     "id": "YONEX Court 2..",
     "key": "8F 3D 6A 36 1C 7E 29 C3"
@@ -109,27 +115,15 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10969 H 3333",
+    "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10976 H 3600",
-    "id": "F4-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10986 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 03 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11072 H 7500",
-    "id": "POL085",
-    "key": "77 93 52 5C 99 08 86 27"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
