@@ -43,7 +43,8 @@ def scrape_to_json():
             start_pos = match.start()
             context = content[max(0, start_pos-300):match.end()]
             
-            if "KEY FOUND" in context.upper():
+            # تم إضافة فحص CLEAR و FTA هنا لضمان سحب القنوات المشفرة فقط
+            if "KEY FOUND" in context.upper() and "CLEAR" not in context.upper() and "(FTA)" not in context.upper():
                 # تنظيف اسم القمر من أي زوائد قبله
                 raw_sat = match.group('sat')
                 # لو اسم القمر فيه أسطر كتير، هناخد آخر سطر بس (اللي فيه اسم القمر فعلياً)
