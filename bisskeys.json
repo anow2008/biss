@@ -13,6 +13,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11009 H 9875",
+    "id": "YLE FIN-029 CC M",
+    "key": "77 D2 4C 95 9B 34 56 25"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11022 H 9875",
     "id": "YLE FIN-029 SJ M",
     "key": "CB AD A4 1C A7 B8 8C EB"
@@ -25,8 +31,26 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11559 V 3600",
-    "id": "E330 FEED 3",
+    "frequency": "11052 V 7200",
+    "id": "FIS SNOWBOARD",
+    "key": "2F 3C A1 0C AD A5 68 BA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "F0 43 97 CA DB 6F E1 2B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11079 H 7500",
+    "id": "Cuba at Panama",
+    "key": "AA BB 20 85 26 03 AA D3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12541 V 9600",
+    "id": "F32/2/PMU PONTCHATEAU",
     "key": "23 DA AC A9 C1 20 DC BD"
   },
   {
@@ -42,9 +66,15 @@
     "key": "BD D4 6A FB 18 8E 8C 32"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "16 D8 26 14 26 20 D7 1D"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12583 V 7200",
-    "id": "YONEX Court 1.",
+    "frequency": "11212 V 9800",
+    "id": "NLEMG HOL270-1",
     "key": "F2 D8 A6 70 19 C3 E7 C3"
   },
   {
@@ -52,6 +82,12 @@
     "frequency": "12593 V 7200",
     "id": "YONEX Court 2..",
     "key": "8F 3D 6A 36 1C 7E 29 C3"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
