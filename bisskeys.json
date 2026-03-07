@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10962 H 9875",
+    "frequency": "10961 H 9875",
     "id": "Fi13_GNVE",
     "key": "EE 08 63 59 7D D4 D8 29"
   },
@@ -13,7 +13,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10977 V 7500",
+    "frequency": "10978 V 7500",
     "id": "WBC Brazil v Italy",
     "key": "AA BB 20 85 26 03 AB D4"
   },
@@ -25,21 +25,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10995 V 7500",
-    "id": "Nicaragua at Netherlands",
-    "key": "AA BB 20 85 26 03 AD D6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11004 H 7200",
     "id": "SAU-12A",
     "key": "0B B2 2D EA 97 04 12 AD"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11019 V 14400",
-    "id": "GVA_Fi07",
-    "key": "A7 D8 5A D9 8D 24 53 04"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -67,30 +55,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12547 H 7200",
-    "id": "Jernas#01-A",
-    "key": "EE 44 21 53 B6 27 81 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12555 H 7200",
-    "id": "MAIN",
-    "key": "7C E8 C3 27 CF FF 21 EF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12566 H 4938",
-    "id": "HOCKEY",
-    "key": "98 74 DE EA FC 5B 6A C1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12575 H 4938",
-    "id": "SNG 05 -  CHAIN A",
-    "key": "EC 46 E0 12 71 0D C8 46"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12593 V 7200",
     "id": "POL 058_T2",
     "key": "20 26 A9 EF 97 AB DA 1C"
@@ -103,15 +67,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12649 H 7200",
-    "id": "HBL Flensburg",
-    "key": "20 26 AB F1 DC 07 03 E6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12686 H 7200",
     "id": "ENC 3",
     "key": "DA AF 04 8D 23 20 26 69"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10721 H 7200",
+    "id": "Encoder 1",
+    "key": "63 38 67 02 E6 C5 87 32"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
@@ -120,10 +84,10 @@
     "key": "26 0D F5 28 B3 21 42 16"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "11656 H 7200",
-    "id": "Encoder 2",
-    "key": "2D 53 EE 6E 89 A2 32 5D"
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10767 V 34000",
+    "id": "SUPPONOR EASTERN 1",
+    "key": "08 C0 32 FA 0C 51 AA 07"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
@@ -139,8 +103,20 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "12510 H 7200",
-    "id": "EHF - SWE-SRB",
-    "key": "38 E9 48 69 5A BF B3 CC"
+    "frequency": "11022 V 9600",
+    "id": "POL-141 ENC1",
+    "key": "AB BA 26 8B DC AE 03 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "12549 H 7200",
+    "id": "F560 M6 EDFF",
+    "key": "AB CF 07 81 03 ED FF EF"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "12556 H 4938",
+    "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
