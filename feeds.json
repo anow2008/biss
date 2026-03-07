@@ -1,11 +1,5 @@
 [
     {
-        "key": "16 0F 86 AB A1 71 CB DD",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11079 H 7200",
-        "id": "Main"
-    },
-    {
         "key": "89 9A C1 E4 E0 DF 0C CB",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11105 H 9875",
