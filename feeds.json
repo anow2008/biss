@@ -70,5 +70,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "10995 H 7200",
         "id": "WSHT ENC 58"
+    },
+    {
+        "key": "BC AA 45 AB 56 BB CA DB",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12727 V 7200",
+        "id": "ENC 6"
     }
 ]
