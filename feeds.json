@@ -1,53 +1,5 @@
 [
     {
-        "key": "08 75 72 EF 54 4E 4C EE",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12622 H 9875",
-        "id": "SLO-008 Tx 1"
-    },
-    {
-        "key": "F7 22 6E 87 6E B1 1B 3A",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11602 V 14240",
-        "id": "Pitch Preston v Oxford Utd"
-    },
-    {
-        "key": "BD D4 6A FB 18 8E 8C 32",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12736 V 7200",
-        "id": "Joburg open"
-    },
-    {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12558 H 7200",
-        "id": "YSM-021M"
-    },
-    {
-        "key": "EE 44 21 53 B6 27 81 5E",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12547 H 7200",
-        "id": "Jernas#01-A"
-    },
-    {
-        "key": "20 26 A9 EF 97 AB DA 1C",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12593 V 7200",
-        "id": "POL 058_T2"
-    },
-    {
-        "key": "15 58 35 A2 71 42 63 16",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11145 H 7200",
-        "id": "POL 068 CH1"
-    },
-    {
-        "key": "7C E8 C3 27 CF FF 21 EF",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12556 H 7200",
-        "id": "BU"
-    },
-    {
         "key": "FF FE D0 CD 30 7E 50 FE",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11127 H 7200",
@@ -94,5 +46,47 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "10978 V 7500",
         "id": "WBC Brazil v Italy"
+    },
+    {
+        "key": "6A 7B 5F 44 C1 8D E3 31",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "11305 V 7200",
+        "id": "SINTRA 1 MN"
+    },
+    {
+        "key": "18 A4 7C 38 48 21 5F C8",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1"
+    },
+    {
+        "key": "0A 79 69 EC 15 14 0A 33",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2"
+    },
+    {
+        "key": "A1 24 94 59 FE 22 A3 C3",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1"
+    },
+    {
+        "key": "64 34 1C B4 9D A3 27 67",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR MENA 1"
+    },
+    {
+        "key": "3E 7B 1D D6 9A 4C 6F 55",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12583 V 7200",
+        "id": "YONEX Court 1."
+    },
+    {
+        "key": "38 E9 48 69 5A BF B3 CC",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "12510 H 7200",
+        "id": "EHF - SWE-SRB"
     }
 ]
