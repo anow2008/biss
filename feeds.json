@@ -1,11 +1,5 @@
 [
     {
-        "key": "64 34 1C B4 9D A3 27 67",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR MENA 1"
-    },
-    {
         "key": "3E 7B 1D D6 9A 4C 6F 55",
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
         "frequency": "12583 V 7200",
@@ -48,18 +42,6 @@
         "id": "LIGA HYPERMOTION 1"
     },
     {
-        "key": "18 A4 7C 38 48 21 5F C8",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1"
-    },
-    {
-        "key": "0A 79 69 EC 15 14 0A 33",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2"
-    },
-    {
         "key": "B4 F7 D7 82 19 2C 38 7D",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
@@ -70,5 +52,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12736 V 7200",
         "id": "UFC 326 Test"
+    },
+    {
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "12556 H 4938",
+        "id": "YSM-012 MAIN"
+    },
+    {
+        "key": "AB BA 26 8B DC AE 03 8D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10986 V 9600",
+        "id": "POL 076"
     }
 ]
