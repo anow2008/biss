@@ -19,6 +19,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11004 H 7200",
+    "id": "SAU-12A",
+    "key": "0B B2 2D EA 97 04 12 AD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11019 V 14400",
     "id": "GVA_Fi07",
     "key": "A7 D8 5A D9 8D 24 53 04"
@@ -31,15 +37,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "F0 43 97 CA DB 6F E1 2B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11080 V 9875",
     "id": "Fi17_GNVE",
     "key": "FD 42 ED 2C 3C 82 47 05"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11467 V 4938",
+    "id": "Medialink CRO-021/1",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -85,9 +91,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12640 H 7200",
+    "id": "Unname",
+    "key": "D2 87 CA 23 92 CB B1 0E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12682 V 14240",
     "id": "6N Italy v England BRANDED",
     "key": "2D 53 EE 6E 89 A2 32 5D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12686 H 7200",
+    "id": "E-073 MAIN",
+    "key": "07 03 20 2A 26 FA CA EA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -133,8 +151,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
+    "frequency": "10986 V 9600",
+    "id": "POL 076",
+    "key": "AB BA 26 8B DC AE 03 8D"
   }
 ]
