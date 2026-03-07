@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10978 V 7500",
+    "frequency": "10977 V 7500",
     "id": "WBC Brazil v Italy",
     "key": "AA BB 20 85 26 03 AB D4"
   },
@@ -13,7 +13,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10996 V 7500",
+    "frequency": "10995 V 7500",
     "id": "Nicaragua at Netherlands",
     "key": "AA BB 20 85 26 03 AD D6"
   },
@@ -115,21 +115,9 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11283 V 14240",
-    "id": "Pitch- U 20 6N Scotland v France",
-    "key": "F7 22 6E 87 6E B1 1B 3A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "10820 V 7200",
-    "id": "TANDBERG",
-    "key": "C1 6D D7 05 13 39 49 95"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "10830 V 7500",
-    "id": "E333 M",
-    "key": "64 21 50 D5 32 6F 31 D2"
+    "frequency": "10768 V 34000",
+    "id": "SUPPONOR EASTERN 1",
+    "key": "08 C0 32 FA 0C 51 AA 07"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
@@ -139,14 +127,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
-    "id": "DEFAULT",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "12510 H 7200",
-    "id": "EHF - SWE-SRB",
-    "key": "38 E9 48 69 5A BF B3 CC"
+    "frequency": "10970 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
