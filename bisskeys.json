@@ -1,19 +1,37 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10978 V 7500",
+    "frequency": "10961 H 9875",
+    "id": "Fi13_GNVE",
+    "key": "EE 08 63 59 7D D4 D8 29"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10973 H 9875",
+    "id": "Fi12_GNVE",
+    "key": "49 8B AC 80 DA 29 32 35"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10977 V 7500",
     "id": "WBC Brazil v Italy",
     "key": "AA BB 20 85 26 03 AB D4"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10987 V 7500",
+    "frequency": "10985 H 9875",
+    "id": "Fi11_GNVE",
+    "key": "A5 07 4F FB 8A 30 4C 06"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10986 V 7500",
     "id": "Puerta Rico at Columbia",
     "key": "AA BB 20 85 26 03 AA D3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10996 V 7500",
+    "frequency": "10995 V 7500",
     "id": "Nicaragua at Netherlands",
     "key": "AA BB 20 85 26 03 AD D6"
   },
@@ -37,15 +55,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11080 H 7200",
+    "frequency": "11079 H 7200",
     "id": "Main",
     "key": "16 0F 86 AB A1 71 CB DD"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11104 V 9875",
-    "id": "D-408 ENC1",
-    "key": "30 13 15 58 FE 08 81 87"
+    "frequency": "11104 H 9875",
+    "id": "GVA_Fi02",
+    "key": "89 9A C1 E4 E0 DF 0C CB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11478 V 7200",
+    "id": "ENC 2",
+    "key": "C3 48 46 51 45 3E FB 7E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -55,7 +79,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12546 H 7200",
+    "frequency": "12547 H 7200",
     "id": "Jernas#01-A",
     "key": "EE 44 21 53 B6 27 81 5E"
   },
@@ -85,12 +109,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12602 V 7200",
-    "id": "Unname",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12640 H 7200",
     "id": "Unname",
     "key": "D2 87 CA 23 92 CB B1 0E"
@@ -103,21 +121,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12682 V 14240",
-    "id": "6N Italy v England BRANDED",
-    "key": "2D 53 EE 6E 89 A2 32 5D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12686 H 7200",
     "id": "ENC 3",
     "key": "DA AF 04 8D 23 20 26 69"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12699 V 14240",
-    "id": "W6N - ITA V ENG - Unbranded",
-    "key": "2D 53 EE 6E 89 A2 32 5D"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
