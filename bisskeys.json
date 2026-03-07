@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10961 H 9875",
+    "frequency": "10962 H 9875",
     "id": "Fi13_GNVE",
     "key": "EE 08 63 59 7D D4 D8 29"
   },
@@ -13,7 +13,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10978 V 7500",
+    "frequency": "10977 V 7500",
     "id": "WBC Brazil v Italy",
     "key": "AA BB 20 85 26 03 AB D4"
   },
@@ -22,6 +22,12 @@
     "frequency": "10985 H 9875",
     "id": "Fi11_GNVE",
     "key": "A5 07 4F FB 8A 30 4C 06"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10995 H 7200",
+    "id": "WSHT ENC 58",
+    "key": "2A 64 5E EC 28 39 E8 49"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -70,6 +76,12 @@
     "frequency": "12686 H 7200",
     "id": "ENC 3",
     "key": "DA AF 04 8D 23 20 26 69"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12727 V 7200",
+    "id": "MediaLink CRO-023/1",
+    "key": "06 03 FE 07 ED 20 26 33"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
