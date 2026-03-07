@@ -1,24 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10962 H 9875",
-    "id": "Fi13_GNVE",
-    "key": "EE 08 63 59 7D D4 D8 29"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10973 H 9875",
-    "id": "Fi12_GNVE",
-    "key": "49 8B AC 80 DA 29 32 35"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10985 H 9875",
-    "id": "Fi11_GNVE",
-    "key": "A5 07 4F FB 8A 30 4C 06"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "10986 V 7500",
     "id": "Puerta Rico at Columbia",
     "key": "AA BB 20 85 26 03 AA D3"
@@ -31,27 +13,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11061 H 7200",
-    "id": "Studioline Main",
-    "key": "67 5F F9 BF 76 AC 36 58"
+    "frequency": "10995 V 7500",
+    "id": "Israel at Venezuela",
+    "key": "AA BB 20 85 26 03 AD D6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12640 H 7200",
-    "id": "Unname",
-    "key": "D2 87 CA 23 92 CB B1 0E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12727 V 7200",
-    "id": "ENC 6",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
     "key": "BC AA 45 AB 56 BB CA DB"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
-    "key": "26 0D F5 28 B3 21 42 16"
+    "key": "7A CC A2 E8 7A 9E 5C 74"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
