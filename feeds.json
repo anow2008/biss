@@ -1,23 +1,5 @@
 [
     {
-        "key": "08 C0 32 FA 0C 51 AA 07",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR EASTERN 1"
-    },
-    {
-        "key": "6A D5 41 80 8D EA 48 BF",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR RUSIA 1"
-    },
-    {
-        "key": "3C A6 B9 9B 60 19 61 DA",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 1"
-    },
-    {
         "key": "B4 F7 D7 82 19 2C 38 7D",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
@@ -76,5 +58,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12686 H 7200",
         "id": "ENC 3"
+    },
+    {
+        "key": "C3 48 46 51 45 3E FB 7E",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11478 V 7200",
+        "id": "ENC 2"
+    },
+    {
+        "key": "EE 08 63 59 7D D4 D8 29",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10961 H 9875",
+        "id": "Fi13_GNVE"
     }
 ]
