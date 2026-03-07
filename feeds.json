@@ -82,5 +82,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11523 V 7500",
         "id": "ENC 8"
+    },
+    {
+        "key": "DD AA EE 75 BB 01 03 BF",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12611 V 7200",
+        "id": "GCUK Enc 1"
     }
 ]
