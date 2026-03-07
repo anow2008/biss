@@ -1,11 +1,5 @@
 [
     {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10986 V 9600",
-        "id": "POL 076"
-    },
-    {
         "key": "0B B2 2D EA 97 04 12 AD",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11004 H 7200",
