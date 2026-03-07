@@ -37,12 +37,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12593 V 7200",
-    "id": "POL 058_T2",
-    "key": "20 26 A9 EF 97 AB DA 1C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12640 H 7200",
     "id": "Unname",
     "key": "D2 87 CA 23 92 CB B1 0E"
