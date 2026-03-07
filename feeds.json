@@ -76,5 +76,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12727 V 7200",
         "id": "ENC 6"
+    },
+    {
+        "key": "B1 76 34 5B 3A 22 4C A8",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11601 V 15000",
+        "id": "ZUFFA"
     }
 ]
