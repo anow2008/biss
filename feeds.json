@@ -1,23 +1,5 @@
 [
     {
-        "key": "B4 F7 D7 82 19 2C 38 7D",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 1"
-    },
-    {
-        "key": "2A 64 5E EC 28 39 E8 49",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12736 V 7200",
-        "id": "UFC 326 Test"
-    },
-    {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12556 H 4938",
-        "id": "YSM-012 MAIN"
-    },
-    {
         "key": "AB BA 26 8B DC AE 03 8D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10986 V 9600",
@@ -70,5 +52,29 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "10961 H 9875",
         "id": "Fi13_GNVE"
+    },
+    {
+        "key": "49 8B AC 80 DA 29 32 35",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10973 H 9875",
+        "id": "Fi12_GNVE"
+    },
+    {
+        "key": "A5 07 4F FB 8A 30 4C 06",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10985 H 9875",
+        "id": "Fi11_GNVE"
+    },
+    {
+        "key": "77 44 CC 87 56 11 22 89",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11523 V 7120",
+        "id": "U20s 6N Ireland v Wales"
+    },
+    {
+        "key": "67 5F F9 BF 76 AC 36 58",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11061 H 7200",
+        "id": "Studioline Main"
     }
 ]
