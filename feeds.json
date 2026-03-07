@@ -1,35 +1,5 @@
 [
     {
-        "key": "42 CC 98 A6 76 AB CC ED",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11602 V 14240",
-        "id": "6N Ireland v Wales BRANDED"
-    },
-    {
-        "key": "49 8B AC 80 DA 29 32 35",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10961 H 9875",
-        "id": "Fi11_GNVE"
-    },
-    {
-        "key": "CC 4B 66 7D 77 A2 43 5C",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11522 V 7120",
-        "id": "RUGBY"
-    },
-    {
-        "key": "BC AA 45 AB 56 BB CA DB",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12727 V 7200",
-        "id": "ENC 21"
-    },
-    {
-        "key": "B6 B4 25 8F 25 C3 43 2B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11088 V 7120",
-        "id": "Pitch Preston v Oxford Utd"
-    },
-    {
         "key": "AA BB 20 85 26 03 AD D6",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11097 H 7500",
@@ -48,6 +18,12 @@
         "id": "ENC 2"
     },
     {
+        "key": "42 CC 98 A6 76 AB CC ED",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11597 V 7200",
+        "id": "POWER SLAP CLEAN"
+    },
+    {
         "key": "54 A3 26 1D 31 34 2B 90",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11606 V 7200",
@@ -64,5 +40,35 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11043 V 7200",
         "id": "LK ENC 17"
+    },
+    {
+        "key": "F0 43 97 CA DB 6F E1 2B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU"
+    },
+    {
+        "key": "18 A4 7C 38 48 21 5F C8",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1"
+    },
+    {
+        "key": "6A 2B B0 45 82 E5 2E 95",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2"
+    },
+    {
+        "key": "A1 24 94 59 FE 22 A3 C3",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1"
+    },
+    {
+        "key": "64 34 1C B4 9D A3 27 67",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR MENA 1"
     }
 ]
