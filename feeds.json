@@ -1,35 +1,5 @@
 [
     {
-        "key": "FF FE D0 CD 30 7E 50 FE",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11127 H 7200",
-        "id": "NL RED BEE MEDIA"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AD D6",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10995 V 7500",
-        "id": "Nicaragua at Netherlands"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AA D3",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10986 V 7500",
-        "id": "Puerta Rico at Columbia"
-    },
-    {
-        "key": "2D 53 EE 6E 89 A2 32 5D",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12682 V 14240",
-        "id": "6N Italy v England BRANDED"
-    },
-    {
-        "key": "06 03 FE 07 ED 20 26 33",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12727 V 7200",
-        "id": "MediaLink CRO-023/1"
-    },
-    {
         "key": "EC 46 E0 12 71 0D C8 46",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12575 H 4938",
@@ -54,6 +24,12 @@
         "id": "SINTRA 1 MN"
     },
     {
+        "key": "2D 53 EE 6E 89 A2 32 5D",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "11656 H 7200",
+        "id": "Encoder 2"
+    },
+    {
         "key": "18 A4 7C 38 48 21 5F C8",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
@@ -63,7 +39,7 @@
         "key": "0A 79 69 EC 15 14 0A 33",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
-        "id": "OVERON 2"
+        "id": "vs Real Sociedad"
     },
     {
         "key": "A1 24 94 59 FE 22 A3 C3",
@@ -88,5 +64,17 @@
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "12510 H 7200",
         "id": "EHF - SWE-SRB"
+    },
+    {
+        "key": "A7 D8 5A D9 8D 24 53 04",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11019 V 14400",
+        "id": "GVA_Fi07"
+    },
+    {
+        "key": "30 13 15 58 FE 08 81 87",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11104 V 9875",
+        "id": "D-408 ENC2"
     }
 ]
