@@ -72,18 +72,6 @@
     "key": "D2 87 CA 23 92 CB B1 0E"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12686 H 7200",
-    "id": "ENC 3",
-    "key": "DA AF 04 8D 23 20 26 69"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12727 V 7200",
-    "id": "MediaLink CRO-023/1",
-    "key": "06 03 FE 07 ED 20 26 33"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0E",
     "frequency": "10721 H 7200",
     "id": "Encoder 1",
@@ -97,7 +85,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10767 V 34000",
+    "frequency": "10768 V 34000",
     "id": "SUPPONOR EASTERN 1",
     "key": "08 C0 32 FA 0C 51 AA 07"
   },
