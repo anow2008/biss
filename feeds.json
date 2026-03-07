@@ -1,23 +1,5 @@
 [
     {
-        "key": "0B B2 2D EA 97 04 12 AD",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11004 H 7200",
-        "id": "SAU-12A"
-    },
-    {
-        "key": "20 26 AB F1 DC 07 03 E6",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12649 H 7200",
-        "id": "HBL Flensburg"
-    },
-    {
-        "key": "98 74 DE EA FC 5B 6A C1",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12566 H 4938",
-        "id": "HOCKEY"
-    },
-    {
         "key": "16 0F 86 AB A1 71 CB DD",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11079 H 7200",
@@ -70,5 +52,35 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11061 H 7200",
         "id": "Studioline Main"
+    },
+    {
+        "key": "63 38 67 02 E6 C5 87 32",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10721 H 7200",
+        "id": "Encoder 1"
+    },
+    {
+        "key": "AF FC 07 B2 03 BD FA BA",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "11270 V 7200",
+        "id": "Service 02"
+    },
+    {
+        "key": "AB CF 07 81 03 ED FF EF",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "12549 H 7200",
+        "id": "F560 M6 EDFF"
+    },
+    {
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "12573 H 7200",
+        "id": "YSM-015BU"
+    },
+    {
+        "key": "AB BA 26 8B DC AE 03 8D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11022 V 9600",
+        "id": "POL-141 ENC1"
     }
 ]
