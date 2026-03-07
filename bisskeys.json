@@ -19,15 +19,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 H 9875",
-    "id": "YLE FIN-029 SJ M",
-    "key": "CB AD A4 1C A7 B9 9B FB"
+    "frequency": "11019 V 14400",
+    "id": "GVA_Fi07",
+    "key": "A7 D8 5A D9 8D 24 53 04"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11062 H 7120",
-    "id": "Pitch Derby v Sheff Wed",
-    "key": "11 EE 57 56 AE 43 EE DF"
+    "frequency": "11022 H 9875",
+    "id": "YLE FIN-029 SJ M",
+    "key": "CB AD A4 1C A7 B9 9B FB"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -55,7 +55,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12546 H 7200",
+    "frequency": "12547 H 7200",
     "id": "Jernas#01-A",
     "key": "EE 44 21 53 B6 27 81 5E"
   },
@@ -85,12 +85,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12634 V 14400",
-    "id": "GVA_Fi04",
-    "key": "B8 AB A7 0A 42 DD FB 1A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12682 V 14240",
     "id": "6N Italy v England BRANDED",
     "key": "2D 53 EE 6E 89 A2 32 5D"
@@ -106,6 +100,12 @@
     "frequency": "12719 V 4800",
     "id": "ITA555 A",
     "key": "20 26 FE 44 ED 14 99 9A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12727 V 7200",
+    "id": "MediaLink CRO-023/1",
+    "key": "06 03 FE 07 ED 20 26 33"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
