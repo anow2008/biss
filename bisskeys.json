@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10964 H 14400",
+    "id": "GVA_Fi06",
+    "key": "ED 50 92 CF 4C 41 48 D5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11021 H 9875",
+    "id": "YLE FIN-029 SJ M",
+    "key": "CB AD A4 1C A7 B9 9B FB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11061 H 7120",
+    "id": "Pitch Derby v Sheff Wed",
+    "key": "11 EE 57 56 AE 43 EE DF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "F0 43 97 CA DB 6F E1 2B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11478 V 7200",
+    "id": "ENC 2",
+    "key": "BE C3 F2 73 ED CB 21 D9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12634 V 14400",
+    "id": "GVA_Fi04",
+    "key": "B8 AB A7 0A 42 DD FB 1A"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "18 A4 7C 38 48 21 5F C8"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "10820 V 7200",
+    "id": "TANDBERG",
+    "key": "C1 6D D7 05 13 39 49 95"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "10830 V 7500",
+    "id": "E333 M",
+    "key": "64 21 50 D5 32 6F 31 D2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "10848 V 7200",
+    "id": "AEK VS AEL A",
+    "key": "74 14 42 CA F4 7C F1 61"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10969 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  }
+]
