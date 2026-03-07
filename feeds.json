@@ -1,17 +1,5 @@
 [
     {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12515 H 4938",
-        "id": "YSM-016 MAIN"
-    },
-    {
-        "key": "8F AC 43 7E 56 22 69 E1",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11022 V 9875",
-        "id": "GVA_Fi03"
-    },
-    {
         "key": "42 CC 98 A6 76 AB CC ED",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11602 V 14240",
@@ -64,5 +52,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11606 V 7200",
         "id": "Power Slap #18 EUROPE PROGRAM"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AC D5",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11061 H 7500",
+        "id": "WBC Chinese Taipei at Czechia"
+    },
+    {
+        "key": "14 F3 3E 45 1D 13 A9 D9",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11043 V 7200",
+        "id": "LK ENC 17"
     }
 ]
