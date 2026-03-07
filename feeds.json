@@ -1,53 +1,5 @@
 [
     {
-        "key": "EC 46 E0 12 71 0D C8 46",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12575 H 4938",
-        "id": "SNG 05 -  CHAIN A"
-    },
-    {
-        "key": "51 14 CE 33 CF A9 1B 93",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12519 H 10000",
-        "id": "F435_P4"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AB D4",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10978 V 7500",
-        "id": "WBC Brazil v Italy"
-    },
-    {
-        "key": "6A 7B 5F 44 C1 8D E3 31",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11305 V 7200",
-        "id": "SINTRA 1 MN"
-    },
-    {
-        "key": "2D 53 EE 6E 89 A2 32 5D",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "11656 H 7200",
-        "id": "Encoder 2"
-    },
-    {
-        "key": "18 A4 7C 38 48 21 5F C8",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1"
-    },
-    {
-        "key": "0A 79 69 EC 15 14 0A 33",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "vs Real Sociedad"
-    },
-    {
-        "key": "A1 24 94 59 FE 22 A3 C3",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 1"
-    },
-    {
         "key": "64 34 1C B4 9D A3 27 67",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
@@ -76,5 +28,47 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11104 V 9875",
         "id": "D-408 ENC2"
+    },
+    {
+        "key": "08 C0 32 FA 0C 51 AA 07",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR EASTERN 1"
+    },
+    {
+        "key": "6A D5 41 80 8D EA 48 BF",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR RUSIA 1"
+    },
+    {
+        "key": "3C A6 B9 9B 60 19 61 DA",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10768 V 34000",
+        "id": "LIGA HYPERMOTION 1"
+    },
+    {
+        "key": "18 A4 7C 38 48 21 5F C8",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1"
+    },
+    {
+        "key": "0A 79 69 EC 15 14 0A 33",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2"
+    },
+    {
+        "key": "B4 F7 D7 82 19 2C 38 7D",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1"
+    },
+    {
+        "key": "2A 64 5E EC 28 39 E8 49",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12736 V 7200",
+        "id": "UFC 326 Test"
     }
 ]
