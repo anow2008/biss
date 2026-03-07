@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11079 H 7500",
-    "id": "Puerta Rico at Columbia",
-    "key": "AA BB 20 85 26 03 AA D3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11088 H 7500",
     "id": "WBC Mexico at GB",
     "key": "AA BB 20 85 26 03 AB D4"
@@ -21,7 +15,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11597 V 7200",
     "id": "POWER SLAP CLEAN",
-    "key": "42 CC 98 A6 76 AB CC ED"
+    "key": "54 A3 26 1D 31 34 2B 90"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
