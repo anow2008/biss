@@ -12,8 +12,20 @@
     "key": "AA BB 20 85 26 03 AB D4"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11097 H 7500",
+    "id": "Netherlands at Venezuela",
+    "key": "AA BB 20 85 26 03 AD D6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11597 V 7200",
+    "id": "POWER SLAP CLEAN",
+    "key": "42 CC 98 A6 76 AB CC ED"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
+    "frequency": "10965 H 3333",
     "id": "Unname",
     "key": "AA CD 33 AA 27 CB AB 9D"
   }
