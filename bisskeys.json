@@ -7,6 +7,18 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10986 V 7120",
+    "id": "Pitch QPR v Middlesborough",
+    "key": "93 A2 41 76 52 5F EA 9B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10996 V 7200",
+    "id": "Main",
+    "key": "BF B1 A5 15 E5 06 FF EA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "10997 H 9875",
     "id": "GVA_Fi04",
     "key": "DF 0A 07 F0 D7 91 48 B0"
@@ -37,21 +49,87 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "BF 4E 92 9F 94 93 DA 01"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11088 H 7500",
+    "id": "Colombia at Cuba",
+    "key": "AA BB 20 85 26 03 AA D3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11104 H 9875",
+    "id": "Fi09_ GNVE",
+    "key": "38 00 2B 63 7A 7D 6D 64"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11476 V 4938",
+    "id": "Medialink CRO-020/1",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11526 H 7200",
+    "id": "ITA727ENC1",
+    "key": "E8 8A 5A CC A2 5A B4 B0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11544 V 7200",
+    "id": "E-228 Main",
+    "key": "AB BA 08 6D 03 20 26 49"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11582 H 7200",
+    "id": "E-289",
+    "key": "97 95 E9 15 77 67 57 35"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12537 V 4938",
+    "id": "ROU-051 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12593 V 7200",
     "id": "POL-080 MAIN",
     "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12640 H 7200",
-    "id": "Live Broadcasting Line 1",
-    "key": "13 57 AB 15 CD 24 68 59"
+    "frequency": "12677 V 7500",
+    "id": "ENC-13",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12686 V 7200",
+    "id": "SLQ-006 Main",
+    "key": "08 A3 AB 56 AB 20 26 F1"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
     "frequency": "10721 H 7200",
     "id": "Encoder 2",
     "key": "8D 35 DF A1 8C 38 73 37"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "CB 77 C4 06 17 1C FB 2E"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "11260 H 9600",
+    "id": "ITA 494 MAIN",
+    "key": "BC 29 20 05 26 08 03 31"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
