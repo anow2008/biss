@@ -1,17 +1,5 @@
 [
     {
-        "key": "63 38 67 02 E6 C5 87 32",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10721 H 7200",
-        "id": "Encoder 1"
-    },
-    {
-        "key": "AF FC 07 B2 03 BD FA BA",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11270 V 7200",
-        "id": "Service 02"
-    },
-    {
         "key": "AB CF 07 81 03 ED FF EF",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "12549 H 7200",
@@ -88,5 +76,11 @@
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
         "frequency": "12611 V 7200",
         "id": "GCUK Enc 1"
+    },
+    {
+        "key": "EF 12 AB AC 34 CD 27 28",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11061 H 7200",
+        "id": "ENC1"
     }
 ]
