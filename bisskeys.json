@@ -43,6 +43,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12593 V 7200",
+    "id": "POL-080 MAIN",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12677 V 7500",
     "id": "ENC-13",
     "key": "F1 07 45 3D E6 CB AD 5E"
@@ -55,12 +61,6 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10721 H 7200",
-    "id": "Encoder 2",
-    "key": "8D 35 DF A1 8C 38 73 37"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
     "key": "CB 77 C4 06 17 1C FB 2E"
@@ -70,12 +70,6 @@
     "frequency": "11260 H 9600",
     "id": "ITA 494 MAIN",
     "key": "BC 29 20 05 26 08 03 31"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "10820 V 7200",
-    "id": "YSM-021M",
-    "key": "39 72 88 33 87 32 2A E3"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
