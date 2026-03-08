@@ -1,17 +1,5 @@
 [
     {
-        "key": "AB CF 07 81 03 ED FF EF",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12549 H 7200",
-        "id": "F560 M6 EDFF"
-    },
-    {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12573 H 7200",
-        "id": "YSM-015BU"
-    },
-    {
         "key": "AB BA 26 8B DC AE 03 8D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "11022 V 9600",
@@ -82,5 +70,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11061 H 7200",
         "id": "ENC1"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AC D5",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11107 H 7500",
+        "id": "WBC Chinese Taipei at Korea"
     }
 ]
