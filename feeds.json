@@ -1,59 +1,5 @@
 [
     {
-        "key": "78 6F 29 10 42 69 85 30",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR RUSIA 2"
-    },
-    {
-        "key": "B0 8F 3B 7A 88 E5 FA 67",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1"
-    },
-    {
-        "key": "F1 07 45 3D E6 CB AD 5E",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11523 V 7500",
-        "id": "ENC 8"
-    },
-    {
-        "key": "2A 64 5E EC 28 39 E8 49",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12727 V 7200",
-        "id": "UFC BETCLICK PRI"
-    },
-    {
-        "key": "DD AA EE 75 BB 01 03 BF",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12611 V 7200",
-        "id": "GCUK Enc 1"
-    },
-    {
-        "key": "EF 12 AB AC 34 CD 27 28",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11061 H 7200",
-        "id": "ENC1"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AC D5",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11107 H 7500",
-        "id": "WBC Chinese Taipei at Korea"
-    },
-    {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10977 V 4800",
-        "id": "POL-056 ENC 2"
-    },
-    {
-        "key": "E1 8C 4A B7 0E A8 E9 9F",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11468 V 7500",
-        "id": "LPGA-M"
-    },
-    {
         "key": "56 EE EB 2F BC FC B1 69",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11069 V 9875",
@@ -88,5 +34,35 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11053 V 7200",
         "id": "TBS ADHOC ENC 7"
+    },
+    {
+        "key": "BC AA 45 AB 56 BB CA DB",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU"
+    },
+    {
+        "key": "93 A2 41 76 52 5F EA 9B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10986 V 7120",
+        "id": "Pitch QPR v Middlesborough"
+    },
+    {
+        "key": "71 71 96 78 10 18 F1 19",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11044 V 9875",
+        "id": "GVA_Fi02"
+    },
+    {
+        "key": "ED 23 5E 6E BB BE A7 20",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12736 V 7200",
+        "id": "enc-22"
+    },
+    {
+        "key": "B6 AC BB 1D A6 47 6A 57",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12695 V 7200",
+        "id": "ENC 21"
     }
 ]
