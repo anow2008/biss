@@ -1,9 +1,27 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11044 V 7200",
+    "id": "TBS ADHOC ENC 3",
+    "key": "E3 48 D2 FD 7D 7A 01 F8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11053 V 7200",
+    "id": "TBS ADHOC ENC 7",
+    "key": "C7 83 C5 0F AF F0 39 D8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11069 V 9875",
     "id": "FIS FEED Backup",
     "key": "56 EE EB 2F BC FC B1 69"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "BC AA 45 AB 56 BB CA DB"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
