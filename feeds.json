@@ -1,47 +1,5 @@
 [
     {
-        "key": "DD 34 7D 8E 20 FD C2 DF",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11004 V 7200",
-        "id": "SAU-12A"
-    },
-    {
-        "key": "AB BA 08 6D 03 20 26 49",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11544 V 7200",
-        "id": "E-228 Main"
-    },
-    {
-        "key": "BF B1 A5 15 E5 06 FF EA",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10996 V 7200",
-        "id": "Main"
-    },
-    {
-        "key": "F1 07 45 3D E6 CB AD 5E",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12677 V 7500",
-        "id": "ENC-13"
-    },
-    {
-        "key": "BF 4E 92 9F 94 93 DA 01",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AA D3",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11088 H 7500",
-        "id": "Colombia at Cuba"
-    },
-    {
-        "key": "74 58 2B F7 76 73 2D 16",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11106 V 7200",
-        "id": "UAE-065"
-    },
-    {
         "key": "AB BA 20 85 25 20 26 6B",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12537 V 4938",
@@ -100,5 +58,17 @@
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10966 H 3333",
         "id": "Unname"
+    },
+    {
+        "key": "AB B7 C2 24 ED 4A 3B 72",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11063 H 3600",
+        "id": "Unname"
+    },
+    {
+        "key": "AB BA 26 8B DC AE 03 8D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10974 V 9600",
+        "id": "pol-053_enc2"
     }
 ]
