@@ -7,15 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10996 V 7200",
-    "id": "Main",
-    "key": "BF B1 A5 15 E5 06 FF EA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11004 V 7200",
-    "id": "SAU-12A",
-    "key": "DD 34 7D 8E 20 FD C2 DF"
+    "frequency": "11022 V 7500",
+    "id": "Netherlands v Dom Rep",
+    "key": "AA BB 20 85 26 03 AD D6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -25,27 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12593 V 7200",
-    "id": "POL-080 MAIN",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12677 V 7500",
-    "id": "ENC-13",
-    "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "CB 77 C4 06 17 1C FB 2E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11260 H 9600",
-    "id": "ITA 494 MAIN",
-    "key": "BC 29 20 05 26 08 03 31"
+    "frequency": "11601 V 15000",
+    "id": "ZUFFA",
+    "key": "B1 76 34 5B 3A 22 4C A8"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
@@ -58,11 +34,5 @@
     "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10974 V 9600",
-    "id": "pol-053_enc2",
-    "key": "AB BA 26 8B DC AE 03 8D"
   }
 ]
