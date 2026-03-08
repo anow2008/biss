@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10986 V 7120",
+    "id": "Pitch QPR v Middlesborough",
+    "key": "93 A2 41 76 52 5F EA 9B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10997 H 9875",
+    "id": "GVA_Fi04",
+    "key": "DF 0A 07 F0 D7 91 48 B0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11104 H 9875",
+    "id": "Fi09_ GNVE",
+    "key": "38 00 2B 63 7A 7D 6D 64"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11582 H 7200",
+    "id": "E-289",
+    "key": "97 95 E9 15 77 67 57 35"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12593 V 7200",
+    "id": "POL-080 MAIN",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12640 H 7200",
+    "id": "Live Broadcasting Line 1",
+    "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10721 H 7200",
+    "id": "Encoder 2",
+    "key": "8D 35 DF A1 8C 38 73 37"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "10820 V 7200",
+    "id": "YSM-021M",
+    "key": "39 72 88 33 87 32 2A E3"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10970 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  }
+]
