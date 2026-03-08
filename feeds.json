@@ -1,21 +1,9 @@
 [
     {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12537 V 4938",
-        "id": "ROU-051 MAIN"
-    },
-    {
-        "key": "E8 8A 5A CC A2 5A B4 B0",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11526 H 7200",
-        "id": "ITA727ENC1"
-    },
-    {
         "key": "BC 29 20 05 26 08 03 31",
         "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11260 H 9600",
-        "id": "ITA 494 MAIN"
+        "frequency": "11272 H 9600",
+        "id": "ITA 494 BKP"
     },
     {
         "key": "06 03 FE 07 ED 20 26 33",
@@ -70,5 +58,11 @@
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10974 V 9600",
         "id": "pol-053_enc2"
+    },
+    {
+        "key": "B1 76 34 5B 3A 22 4C A8",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11601 V 15000",
+        "id": "ZUFFA"
     }
 ]
