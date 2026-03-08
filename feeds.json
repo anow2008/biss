@@ -1,48 +1,78 @@
 [
     {
-        "key": "97 95 E9 15 77 67 57 35",
+        "key": "DD 34 7D 8E 20 FD C2 DF",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11582 H 7200",
-        "id": "E-289"
+        "frequency": "11004 V 7200",
+        "id": "SAU-12A"
     },
     {
-        "key": "AB 08 03 B6 20 26 AB F1",
+        "key": "AB BA 08 6D 03 20 26 49",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11606 V 7200",
-        "id": "E-72 BACKUP"
+        "frequency": "11544 V 7200",
+        "id": "E-228 Main"
     },
     {
-        "key": "15 58 35 A2 71 42 63 16",
+        "key": "BF B1 A5 15 E5 06 FF EA",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12593 V 7200",
-        "id": "POL-080 MAIN"
+        "frequency": "10996 V 7200",
+        "id": "Main"
     },
     {
-        "key": "8D 35 DF A1 8C 38 73 37",
+        "key": "F1 07 45 3D E6 CB AD 5E",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12677 V 7500",
+        "id": "ENC-13"
+    },
+    {
+        "key": "BF 4E 92 9F 94 93 DA 01",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AA D3",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11088 H 7500",
+        "id": "Colombia at Cuba"
+    },
+    {
+        "key": "74 58 2B F7 76 73 2D 16",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11106 V 7200",
+        "id": "UAE-065"
+    },
+    {
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12537 V 4938",
+        "id": "ROU-051 MAIN"
+    },
+    {
+        "key": "E8 8A 5A CC A2 5A B4 B0",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11526 H 7200",
+        "id": "ITA727ENC1"
+    },
+    {
+        "key": "BC 29 20 05 26 08 03 31",
         "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10721 H 7200",
-        "id": "Encoder 2"
+        "frequency": "11260 H 9600",
+        "id": "ITA 494 MAIN"
     },
     {
-        "key": "2F 82 2B DC 39 16 21 70",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "10838 V 7200",
-        "id": "LEVA VS PAO"
+        "key": "06 03 FE 07 ED 20 26 33",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12727 V 7200",
+        "id": "MediaLink CRO-023/1"
     },
     {
-        "key": "39 72 88 33 87 32 2A E3",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "10820 V 7200",
-        "id": "YSM-021M"
+        "key": "B3 AE 9A FB B2 0F 65 26",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10960 H 7200",
+        "id": "WSHT ENC52"
     },
     {
-        "key": "AA CD 33 AA 27 CB AB 9D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10970 H 3333",
-        "id": "DEFAULT"
-    },
-    {
-        "key": "7A CC A2 E8 7A 9E 5C 74",
+        "key": "CB 77 C4 06 17 1C FB 2E",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
         "id": "OVERON 1"
@@ -66,51 +96,9 @@
         "id": "LIGA HYPERMOTION 1"
     },
     {
-        "key": "AB BA 20 85 25 20 26 6B",
+        "key": "AA CD 33 AA 27 CB AB 9D",
         "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12556 H 4938",
-        "id": "YSM-013M"
-    },
-    {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10986 V 9600",
-        "id": "POL-90a"
-    },
-    {
-        "key": "AB B7 C2 24 ED 4A 3B 72",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11058 H 3600",
+        "frequency": "10966 H 3333",
         "id": "Unname"
-    },
-    {
-        "key": "E9 43 EC 18 D9 35 6F 7D",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10977 V 7200",
-        "id": "ITA 790 WORLD FEED VERONA"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AD D6",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11022 V 7500",
-        "id": "Netherlands v Dom Rep"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AB D4",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11061 H 7500",
-        "id": "Great Britain at Italy"
-    },
-    {
-        "key": "DD 34 7D 8E 20 FD C2 DF",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11004 V 7200",
-        "id": "SAU-12A"
-    },
-    {
-        "key": "AB BA 08 6D 03 20 26 49",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11544 V 7200",
-        "id": "E-228 Main"
     }
 ]
