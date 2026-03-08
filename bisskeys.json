@@ -7,38 +7,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10986 V 7500",
-    "id": "Puerta Rico at Columbia",
-    "key": "AA BB 20 85 26 03 AA D3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "10995 H 7200",
     "id": "WSHT ENC 58",
     "key": "2A 64 5E EC 28 39 E8 49"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10995 V 7500",
-    "id": "Israel at Venezuela",
-    "key": "AA BB 20 85 26 03 AD D6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11061 H 7200",
-    "id": "ENC1",
-    "key": "EF 12 AB AC 34 CD 27 28"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12727 V 7200",
     "id": "UFC BETCLICK PRI",
     "key": "2A 64 5E EC 28 39 E8 49"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
-    "id": "Unname",
-    "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
