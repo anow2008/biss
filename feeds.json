@@ -1,11 +1,5 @@
 [
     {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11022 V 9600",
-        "id": "POL-141 ENC1"
-    },
-    {
         "key": "2A 64 5E EC 28 39 E8 49",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "10995 H 7200",
@@ -76,5 +70,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11107 H 7500",
         "id": "WBC Chinese Taipei at Korea"
+    },
+    {
+        "key": "AB BA 26 8B DC AE 03 8D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10977 V 4800",
+        "id": "POL-056 ENC 2"
+    },
+    {
+        "key": "E1 8C 4A B7 0E A8 E9 9F",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11468 V 7500",
+        "id": "LPGA-M"
     }
 ]
