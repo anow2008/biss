@@ -82,5 +82,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11468 V 7500",
         "id": "LPGA-M"
+    },
+    {
+        "key": "56 EE EB 2F BC FC B1 69",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11069 V 9875",
+        "id": "FIS FEED Backup"
+    },
+    {
+        "key": "3E B9 FF F6 DD E9 58 1E",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "11290 H 7200",
+        "id": "BMC-SNG1 MAIN"
     }
 ]
