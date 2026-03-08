@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10986 V 7120",
-    "id": "Pitch QPR v Middlesborough",
-    "key": "93 A2 41 76 52 5F EA 9B"
+    "frequency": "10977 V 7200",
+    "id": "ITA 790 WORLD FEED VERONA",
+    "key": "E9 43 EC 18 D9 35 6F 7D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -13,15 +13,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11104 H 9875",
-    "id": "Fi09_ GNVE",
-    "key": "38 00 2B 63 7A 7D 6D 64"
+    "frequency": "11004 V 7200",
+    "id": "SAU-12A",
+    "key": "DD 34 7D 8E 20 FD C2 DF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11582 H 7200",
-    "id": "E-289",
-    "key": "97 95 E9 15 77 67 57 35"
+    "frequency": "11013 V 7200",
+    "id": "Fi01 ACB",
+    "key": "E8 E1 7C 45 B6 F3 D5 7E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11022 V 7500",
+    "id": "Netherlands v Dom Rep",
+    "key": "AA BB 20 85 26 03 AD D6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11061 H 7500",
+    "id": "Great Britain at Italy",
+    "key": "AA BB 20 85 26 03 AB D4"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -52,5 +64,11 @@
     "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10986 V 9600",
+    "id": "POL-90a",
+    "key": "AB BA 26 8B DC AE 03 8D"
   }
 ]
