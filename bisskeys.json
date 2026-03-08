@@ -19,27 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11013 V 7200",
-    "id": "Fi01 ACB",
-    "key": "E8 E1 7C 45 B6 F3 D5 7E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11061 H 7500",
-    "id": "Great Britain at Italy",
-    "key": "AA BB 20 85 26 03 AB D4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "BF 4E 92 9F 94 93 DA 01"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11104 H 9875",
-    "id": "Fi09_ GNVE",
-    "key": "38 00 2B 63 7A 7D 6D 64"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -52,12 +34,6 @@
     "frequency": "12677 V 7500",
     "id": "ENC-13",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12686 V 7200",
-    "id": "SLQ-006 Main",
-    "key": "08 A3 AB 56 AB 20 26 F1"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
@@ -88,17 +64,5 @@
     "frequency": "10974 V 9600",
     "id": "pol-053_enc2",
     "key": "AB BA 26 8B DC AE 03 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10986 V 9600",
-    "id": "POL-90a",
-    "key": "AB BA 26 8B DC AE 03 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11058 H 3600",
-    "id": "Unname",
-    "key": "AB B7 C2 24 ED 4A 3B 72"
   }
 ]
