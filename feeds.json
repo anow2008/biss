@@ -1,35 +1,5 @@
 [
     {
-        "key": "2A 64 5E EC 28 39 E8 49",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10995 H 7200",
-        "id": "WSHT ENC 58"
-    },
-    {
-        "key": "BC AA 45 AB 56 BB CA DB",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12727 V 7200",
-        "id": "ENC 6"
-    },
-    {
-        "key": "B1 76 34 5B 3A 22 4C A8",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11601 V 15000",
-        "id": "ZUFFA"
-    },
-    {
-        "key": "C8 34 77 73 B2 A4 FB 51",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11523 V 7500",
-        "id": "ENC 8"
-    },
-    {
-        "key": "7A CC A2 E8 7A 9E 5C 74",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1"
-    },
-    {
         "key": "C1 9F E0 40 EC 52 EB 29",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
@@ -52,6 +22,12 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11523 V 7500",
         "id": "ENC 8"
+    },
+    {
+        "key": "2A 64 5E EC 28 39 E8 49",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12727 V 7200",
+        "id": "UFC BETCLICK PRI"
     },
     {
         "key": "DD AA EE 75 BB 01 03 BF",
@@ -94,5 +70,29 @@
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "11290 H 7200",
         "id": "BMC-SNG1 MAIN"
+    },
+    {
+        "key": "77 93 52 5C 99 08 86 27",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11073 H 7500",
+        "id": "POL082 TVN WAW"
+    },
+    {
+        "key": "20 26 02 48 07 08 09 18",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12573 H 7200",
+        "id": "UKI-1484 main"
+    },
+    {
+        "key": "E3 48 D2 FD 7D 7A 01 F8",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11044 V 7200",
+        "id": "TBS ADHOC ENC 3"
+    },
+    {
+        "key": "C7 83 C5 0F AF F0 39 D8",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11053 V 7200",
+        "id": "TBS ADHOC ENC 7"
     }
 ]
