@@ -1,21 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10995 H 7200",
-    "id": "WSHT ENC 58",
-    "key": "2A 64 5E EC 28 39 E8 49"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "BC AA 45 AB 56 BB CA DB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11107 H 7500",
-    "id": "WBC Chinese Taipei at Korea",
-    "key": "AA BB 20 85 26 03 AC D5"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
@@ -28,5 +16,11 @@
     "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10977 V 4800",
+    "id": "POL-056 ENC 2",
+    "key": "AB BA 26 8B DC AE 03 8D"
   }
 ]
