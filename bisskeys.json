@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11062 H 7500",
+    "id": "Brazil v Mexico",
+    "key": "AA BB 20 85 26 03 AB D4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "B9 E3 94 30 D8 13 49 34"
@@ -12,9 +18,15 @@
     "key": "AA BB 20 85 26 03 AA D3"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11097 H 7500",
+    "id": "Venezuela at Nicaragua",
+    "key": "AA BB 20 85 26 03 AD D6"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
-    "id": "DEFAULT",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
     "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
