@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11061 H 7500",
+    "frequency": "11062 H 7500",
     "id": "Brazil v Mexico",
     "key": "AA BB 20 85 26 03 AB D4"
   },
@@ -13,9 +13,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11088 H 7500",
+    "frequency": "11089 H 7500",
     "id": "Colombia at Panama",
     "key": "AA BB 20 85 26 03 AA D3"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10721 H 7200",
+    "id": "Encoder 3",
+    "key": "7E 23 5F 00 CC C5 63 F4"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
