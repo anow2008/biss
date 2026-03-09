@@ -1,23 +1,5 @@
 [
     {
-        "key": "B0 8F 3B 7A 88 E5 FA 67",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1"
-    },
-    {
-        "key": "AA CD 33 AA 27 CB AB 9D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10966 H 3333",
-        "id": "Unname"
-    },
-    {
-        "key": "AB B7 C2 24 ED 4A 3B 72",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11063 H 3600",
-        "id": "Unname"
-    },
-    {
         "key": "AB BA 26 8B DC AE 03 8D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10974 V 9600",
@@ -64,5 +46,17 @@
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "11073 H 7500",
         "id": "POL070 TVN24 POZ"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AC D5",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11062 H 7500",
+        "id": "WBC Korea v Australia"
+    },
+    {
+        "key": "AB CD EE 66 FF 09 03 0B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11189 H 7200",
+        "id": "Encoder 2"
     }
 ]
