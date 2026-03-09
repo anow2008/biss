@@ -1,9 +1,15 @@
 [
   {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
-    "id": "Unname",
-    "key": "AA CD 33 AA 27 CB AB 9D"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11044 V 7200",
+    "id": "TBS ADHOC ENC 3",
+    "key": "43 7A 11 CE 13 EB C3 C1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11053 V 7200",
+    "id": "TBS ADHOC ENC 6",
+    "key": "8B DD EA 52 40 16 02 58"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
