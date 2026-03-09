@@ -1,23 +1,5 @@
 [
     {
-        "key": "CB 77 C4 06 17 1C FB 2E",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1"
-    },
-    {
-        "key": "AA 1A 93 57 0B D0 9F 7A",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2"
-    },
-    {
-        "key": "78 6F 29 10 42 69 85 30",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR RUSIA 2"
-    },
-    {
         "key": "B0 8F 3B 7A 88 E5 FA 67",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
@@ -64,5 +46,23 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11070 H 7200",
         "id": "IMG A EU"
+    },
+    {
+        "key": "8B DD EA 52 40 16 02 58",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11053 V 7200",
+        "id": "TBS ADHOC ENC 6"
+    },
+    {
+        "key": "43 7A 11 CE 13 EB C3 C1",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11044 V 7200",
+        "id": "TBS ADHOC ENC 3"
+    },
+    {
+        "key": "77 93 52 5C 99 08 86 27",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11073 H 7500",
+        "id": "POL070 TVN24 POZ"
     }
 ]
