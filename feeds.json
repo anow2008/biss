@@ -1,47 +1,5 @@
 [
     {
-        "key": "B9 E3 94 30 D8 13 49 34",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AA D3",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11088 H 7500",
-        "id": "Colombia at Panama"
-    },
-    {
-        "key": "AA BB 20 85 26 03 AD D6",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11097 H 7500",
-        "id": "Dominican Republic at Israel"
-    },
-    {
-        "key": "FD A2 A8 47 0A 3C E2 28",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1"
-    },
-    {
-        "key": "F0 22 F2 04 F9 EA 5B 3E",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1"
-    },
-    {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12509 V 4938",
-        "id": "YSM-016 MAIN"
-    },
-    {
-        "key": "D8 5C 6A 9E CA 2F 13 0C",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12611 V 7500",
-        "id": "TUR139-Main"
-    },
-    {
         "key": "CC AA 5B D1 1A AC 55 1B",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12686 H 7200",
@@ -66,9 +24,39 @@
         "id": "Unname"
     },
     {
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "12509 H 4938",
+        "id": "YSM-021M"
+    },
+    {
         "key": "AB BA 26 8B DC AE 03 8D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10974 V 9600",
         "id": "POL-111"
+    },
+    {
+        "key": "20 26 AB F1 CD 1E CA B5",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12593 V 7200",
+        "id": "Unname"
+    },
+    {
+        "key": "AB CD EE 66 FF 09 03 0B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11190 H 7200",
+        "id": "Encoder 2"
+    },
+    {
+        "key": "7E 23 5F 00 CC C5 63 F4",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10721 H 7200",
+        "id": "Encoder 3"
+    },
+    {
+        "key": "A1 E1 F6 78 90 2E DE 9C",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10998 H 9875",
+        "id": "LEUK_Fi01_UCL_HL"
     }
 ]
