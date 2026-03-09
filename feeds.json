@@ -2,8 +2,8 @@
     {
         "key": "AA CD 33 AA 27 CB AB 9D",
         "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10966 H 3333",
-        "id": "Unname"
+        "frequency": "10970 H 3333",
+        "id": "DEFAULT"
     },
     {
         "key": "AB B7 C2 24 ED 4A 3B 72",
@@ -46,5 +46,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "10998 H 9875",
         "id": "LEUK_Fi01_UCL_HL"
+    },
+    {
+        "key": "12 3C AA F8 14 22 A3 D9",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 3"
     }
 ]
