@@ -24,6 +24,12 @@
     "key": "AA BB 20 85 26 03 AD D6"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11190 H 7200",
+    "id": "Encoder 2",
+    "key": "AB CD EE 66 FF 09 03 0B"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10966 H 3333",
     "id": "Unname",
