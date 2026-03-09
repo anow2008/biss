@@ -1,62 +1,74 @@
 [
     {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10974 V 9600",
-        "id": "pol-053_enc2"
-    },
-    {
-        "key": "B1 76 34 5B 3A 22 4C A8",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11601 V 15000",
-        "id": "ZUFFA"
-    },
-    {
-        "key": "FD A2 A8 47 0A 3C E2 28",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10731 V 34000",
-        "id": "OVERON 1"
-    },
-    {
-        "key": "F0 22 F2 04 F9 EA 5B 3E",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10731 V 34000",
-        "id": "LIGA HYPERMOTION 1"
-    },
-    {
         "key": "B9 E3 94 30 D8 13 49 34",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11070 H 7200",
         "id": "IMG A EU"
     },
     {
-        "key": "8B DD EA 52 40 16 02 58",
+        "key": "AA BB 20 85 26 03 AA D3",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11053 V 7200",
-        "id": "TBS ADHOC ENC 6"
+        "frequency": "11088 H 7500",
+        "id": "Colombia at Panama"
     },
     {
-        "key": "43 7A 11 CE 13 EB C3 C1",
+        "key": "AA BB 20 85 26 03 AD D6",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11044 V 7200",
-        "id": "TBS ADHOC ENC 3"
+        "frequency": "11097 H 7500",
+        "id": "Dominican Republic at Israel"
     },
     {
-        "key": "77 93 52 5C 99 08 86 27",
+        "key": "FD A2 A8 47 0A 3C E2 28",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1"
+    },
+    {
+        "key": "F0 22 F2 04 F9 EA 5B 3E",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1"
+    },
+    {
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12509 V 4938",
+        "id": "YSM-016 MAIN"
+    },
+    {
+        "key": "D8 5C 6A 9E CA 2F 13 0C",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12611 V 7500",
+        "id": "TUR139-Main"
+    },
+    {
+        "key": "CC AA 5B D1 1A AC 55 1B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12686 H 7200",
+        "id": "UKI-1955-1"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AB D4",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11061 H 7500",
+        "id": "Brazil v Mexico"
+    },
+    {
+        "key": "AA CD 33 AA 27 CB AB 9D",
         "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11073 H 7500",
-        "id": "POL070 TVN24 POZ"
+        "frequency": "10966 H 3333",
+        "id": "Unname"
     },
     {
-        "key": "AA BB 20 85 26 03 AC D5",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11062 H 7500",
-        "id": "WBC Korea v Australia"
+        "key": "AB B7 C2 24 ED 4A 3B 72",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11058 H 3600",
+        "id": "Unname"
     },
     {
-        "key": "AB CD EE 66 FF 09 03 0B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11189 H 7200",
-        "id": "Encoder 2"
+        "key": "AB BA 26 8B DC AE 03 8D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10974 V 9600",
+        "id": "POL-111"
     }
 ]
