@@ -1,23 +1,5 @@
 [
     {
-        "key": "0D 7E DB 66 8B CC C7 1E",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11543 V 7200",
-        "id": "UCL-PSG v NEWCASTLE BACKUP FEED E414"
-    },
-    {
-        "key": "FF BF D0 8E 31 0E 58 97",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "10848 V 7200",
-        "id": "EDS807HD.1"
-    },
-    {
-        "key": "FF AA D0 79 31 0E 58 97",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12593 V 7200",
-        "id": "Medialink CRO-024/1"
-    },
-    {
         "key": "FF FD D0 CC 31 0E 58 97",
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
         "frequency": "12611 V 7200",
@@ -64,5 +46,29 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "10997 H 9875",
         "id": "GVA_Fi0_UCL_IHL"
+    },
+    {
+        "key": "FE 48 BA 00 43 AA 57 44",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "10820 H 7200",
+        "id": "VS7-2/BASKET_BCL_CHALON_100326"
+    },
+    {
+        "key": "FF EF D0 BE 31 0E 58 97",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12583 V 7200",
+        "id": "EHF ELM MTM VAR"
+    },
+    {
+        "key": "FF CD D0 9C 31 0E 58 97",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12602 V 7200",
+        "id": "E-289"
+    },
+    {
+        "key": "12 34 45 8B 67 78 9D 7C",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12656 V 7120",
+        "id": "Pitch EFL Stoke v Ipswich"
     }
 ]
