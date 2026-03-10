@@ -7,21 +7,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12656 V 7120",
-    "id": "Pitch EFL Stoke v Ipswich",
-    "key": "12 34 45 8B 67 78 9D 7C"
+    "frequency": "11079 H 7500",
+    "id": "WBC Canada at Peurto Rico",
+    "key": "AA BB 20 85 26 03 AA D3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11083 V 17140",
+    "id": "C+ F1 Newc v Barc",
+    "key": "BB DE 58 F1 45 CE BA CD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11088 H 7500",
+    "id": "WBC - Israel at Netherlands",
+    "key": "AA BB 20 85 26 03 AD D6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12686 H 7200",
     "id": "UKI-1955-1",
     "key": "CC AA 5B D1 1A AC 55 1B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12583 V 7200",
-    "id": "EHF ELM MTM VAR",
-    "key": "FF EF D0 BE 31 0E 58 97"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
