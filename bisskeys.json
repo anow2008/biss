@@ -1,21 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11061 H 7500",
-    "id": "Mexico V USA",
-    "key": "AA BB 20 85 26 03 AB D4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "2A EA D1 E5 3D 7A DC 93"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11088 H 7500",
-    "id": "Cuba at Puerto Rico",
-    "key": "AA BB 20 85 26 03 AA D3"
+    "frequency": "10762 V 30000",
+    "id": "NHL Service-1",
+    "key": "A5 89 42 70 79 64 91 6E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
