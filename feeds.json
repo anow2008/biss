@@ -1,17 +1,5 @@
 [
     {
-        "key": "FF ED D0 BC 31 0E 58 97",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11475 H 7200",
-        "id": "D-312"
-    },
-    {
-        "key": "FF AB D0 7A 31 0E 58 97",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11484 H 7200",
-        "id": "ETB LOT 21"
-    },
-    {
         "key": "AA CD 33 AA 27 CB AB 9D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10966 H 3333",
@@ -70,5 +58,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12736 V 7200",
         "id": "ENC 14"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AA D3",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11079 H 7500",
+        "id": "WBC Canada at Peurto Rico"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AD D6",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11088 H 7500",
+        "id": "WBC - Israel at Netherlands"
     }
 ]
