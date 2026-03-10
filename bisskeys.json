@@ -13,39 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11012 H 4830",
-    "id": "ITA548 UCL M2 Feed B2",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11018 H 4830",
-    "id": "E467 FEED B2",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11070 H 7200",
-    "id": "F529_MAIN",
-    "key": "2A EA D1 E5 3D 7A DC 93"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11083 V 17140",
     "id": "C+ F1 Newc v Barc",
     "key": "BB DE 58 F1 45 CE BA CD"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11475 H 7200",
-    "id": "D-312",
-    "key": "FF ED D0 BC 31 0E 58 97"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11484 H 7200",
-    "id": "ETB LOT 21",
-    "key": "FF AB D0 7A 31 0E 58 97"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
@@ -61,7 +31,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10969 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
@@ -70,5 +46,11 @@
     "frequency": "10986 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 03 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11058 H 3600",
+    "id": "Unname",
+    "key": "AB B7 C2 24 ED 4A 3B 72"
   }
 ]
