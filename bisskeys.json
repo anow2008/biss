@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10997 H 9875",
-    "id": "GVA_Fi0_UCL_IHL",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "71 39 18 C2 88 93 31 4C"
@@ -16,6 +10,12 @@
     "frequency": "11079 H 7500",
     "id": "WBC Canada at Peurto Rico",
     "key": "AA BB 20 85 26 03 AA D3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11088 H 7500",
+    "id": "WBC - Israel at Netherlands",
+    "key": "AA BB 20 85 26 03 AD D6"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
