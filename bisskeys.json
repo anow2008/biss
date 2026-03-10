@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11006 H 4830",
-    "id": "FEED 051",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11012 H 4830",
     "id": "ITA548 UCL M2 Feed B2",
     "key": "A1 E1 F6 78 90 2E DE 9C"
@@ -31,27 +25,45 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11061 H 7200",
-    "id": "OER/F525/1/Paris-Nice Inter",
-    "key": "DF 78 06 5D 50 22 01 73"
+    "frequency": "11070 H 7200",
+    "id": "F529_MAIN",
+    "key": "2A EA D1 E5 3D 7A DC 93"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11606 V 7200",
-    "id": "Unname",
-    "key": "EC 2B C8 DF BF FD 43 FF"
+    "frequency": "11083 V 17140",
+    "id": "C+ F1 Newc v Barc",
+    "key": "BB DE 58 F1 45 CE BA CD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11475 H 7200",
+    "id": "D-312",
+    "key": "FF ED D0 BC 31 0E 58 97"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11484 H 7200",
+    "id": "ETB LOT 21",
+    "key": "FF AB D0 7A 31 0E 58 97"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "10828 H 7200",
+    "id": "BCL HapoelvsGalatas.BUL006 1",
+    "key": "AC 14 CE 8E 48 DE 37 5D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "12593 V 7200",
+    "id": "Medialink CRO-024/1",
+    "key": "FF AA D0 79 31 0E 58 97"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10977 V 4800",
-    "id": "pol-053_enc2",
-    "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
