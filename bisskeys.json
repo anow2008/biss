@@ -7,25 +7,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11001 V 4938",
-    "id": "SNG 05 -  CHAIN A",
-    "key": "2C 3C 6A D2 0E F4 B4 B6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11006 H 4830",
-    "id": "FEED 051",
+    "frequency": "11018 H 4830",
+    "id": "E467 FEED B2",
     "key": "A1 E1 F6 78 90 2E DE 9C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11013 H 4830",
-    "id": "ITA548 UCL M2 Feed B2",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "F529_MAIN",
     "key": "2A EA D1 E5 3D 7A DC 93"
   },
@@ -33,6 +21,12 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11083 V 17140",
     "id": "C+ F1 Newc v Barc",
+    "key": "BB DE 58 F1 45 CE BA CD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11101 V 17140",
+    "id": "C+ F2 Newc v Barc",
     "key": "BB DE 58 F1 45 CE BA CD"
   },
   {
