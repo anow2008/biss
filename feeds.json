@@ -1,11 +1,5 @@
 [
     {
-        "key": "AB B7 C2 24 ED 4A 3B 72",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11063 H 3600",
-        "id": "Unname"
-    },
-    {
         "key": "CC AA 5B D1 1A AC 55 1B",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12686 H 7200",
@@ -70,5 +64,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11070 H 7200",
         "id": "IMG A EU"
+    },
+    {
+        "key": "EF 12 AB AC 34 CD 27 28",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11097 H 7200",
+        "id": "Fi20_GNVE"
     }
 ]
