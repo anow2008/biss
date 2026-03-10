@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10994 V 4938",
+    "id": "SNG 02 - Chain A",
+    "key": "E9 D4 58 15 0B 1D 86 AE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11000 V 4938",
+    "id": "SNG 05 -  CHAIN A",
+    "key": "2C 3C 6A D2 0E F4 B4 B6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11006 H 4830",
+    "id": "FEED 051",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11012 H 4830",
+    "id": "ITA548 UCL M2 Feed B2",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11018 H 4830",
+    "id": "E467 FEED B2",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11061 H 7200",
+    "id": "OER/F525/1/Paris-Nice Inter",
+    "key": "DF 78 06 5D 50 22 01 73"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11606 V 7200",
+    "id": "Unname",
+    "key": "EC 2B C8 DF BF FD 43 FF"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10970 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10977 V 4800",
+    "id": "pol-053_enc2",
+    "key": "AB BA 26 8B DC AE 03 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10986 V 9600",
+    "id": "POL 030",
+    "key": "AB BA 26 8B DC AE 03 8D"
+  }
+]
