@@ -1,11 +1,5 @@
 [
     {
-        "key": "FF FD D0 CC 31 0E 58 97",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12611 V 7200",
-        "id": "ITA_491 A main feed"
-    },
-    {
         "key": "FF ED D0 BC 31 0E 58 97",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11475 H 7200",
@@ -70,5 +64,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12656 V 7120",
         "id": "Pitch EFL Stoke v Ipswich"
+    },
+    {
+        "key": "12 3C AA F8 14 22 A3 D9",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 14"
     }
 ]
