@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11019 H 4830",
-    "id": "E467 FEED B2",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "71 39 18 C2 88 93 31 4C"
