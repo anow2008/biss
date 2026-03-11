@@ -1,11 +1,5 @@
 [
     {
-        "key": "E4 4F FD 30 FD 03 11 11",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11098 H 7200",
-        "id": "SWE-41"
-    },
-    {
         "key": "FF 09 CC D4 55 EE 35 78",
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
         "frequency": "10847 V 7200",
@@ -64,5 +58,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12629 V 7120",
         "id": "Pitch- EFL - Coventry v Preston"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AB D4",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11062 H 7500",
+        "id": "WBC Italy at Mexico"
+    },
+    {
+        "key": "C1 D5 AD 43 B4 81 0B 40",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11607 V 7500",
+        "id": "AFD"
     }
 ]
