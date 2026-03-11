@@ -1,53 +1,5 @@
 [
     {
-        "key": "4E 5B 29 D2 6D D4 6A AB",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11598 V 7200",
-        "id": "M MEDYA/MAIN"
-    },
-    {
-        "key": "A9 61 58 62 E0 90 27 97",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "11616 H 9800",
-        "id": "NLEMG HOL270-1"
-    },
-    {
-        "key": "AA CD 33 AA 27 CB AB 9D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10970 H 3333",
-        "id": "DEFAULT"
-    },
-    {
-        "key": "24 A4 30 F8 B3 E0 1D B0",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12705 V 7200",
-        "id": "TKS TRT M20 A"
-    },
-    {
-        "key": "20 25 AE F3 EA 52 02 3E",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10980 H 3600",
-        "id": "F2-2 4.5MH"
-    },
-    {
-        "key": "BB DD 52 EA A6 84 5C 86",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10968 V 19200",
-        "id": "vs Manchester City"
-    },
-    {
-        "key": "F4 D8 B3 7F 8D A9 57 8D",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12728 V 7200",
-        "id": "vs Manchester City"
-    },
-    {
-        "key": "71 63 71 45 73 81 81 75",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12737 V 7200",
-        "id": "vs Manchester City"
-    },
-    {
         "key": "59 B4 FE 0B E4 15 D6 CF",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11098 V 7200",
@@ -88,5 +40,53 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12510 V 7200",
         "id": "ITA360_2"
+    },
+    {
+        "key": "AA CD 33 AA 27 CB AB 9D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10966 H 3333",
+        "id": "Unname"
+    },
+    {
+        "key": "20 26 CA 10 E0 30 11 21",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10986 V 9600",
+        "id": "POL 030"
+    },
+    {
+        "key": "24 A4 30 F8 B3 E0 1D B0",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10996 V 7200",
+        "id": "TUR 141 B"
+    },
+    {
+        "key": "D3 AA D1 4E 1A 0E 26 4E",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11514 V 7200",
+        "id": "TUR156 Main"
+    },
+    {
+        "key": "4E 5B 29 D2 6D D4 6A AB",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11607 V 7200",
+        "id": "TKS.TRT.M22-A"
+    },
+    {
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12538 V 7200",
+        "id": "YSM-012 MAIN"
+    },
+    {
+        "key": "9C 2B 3D 04 5D 94 C9 BA",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11135 H 7200",
+        "id": "CEV_CHALLENGE_CUP_MN"
+    },
+    {
+        "key": "75 27 BB 57 DF E5 3B FF",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12645 V 4938",
+        "id": "MNE-001 main"
     }
 ]
