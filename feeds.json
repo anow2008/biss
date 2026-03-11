@@ -1,17 +1,5 @@
 [
     {
-        "key": "FF 09 CC D4 55 EE 35 78",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "10847 V 7200",
-        "id": "AVP_OU_A"
-    },
-    {
-        "key": "E2 9B 73 F0 AB 56 93 94",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12510 H 7200",
-        "id": "ITA556 HD16"
-    },
-    {
         "key": "11 7A DF 6A 5F CC 01 2C",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12641 H 7200",
@@ -70,5 +58,23 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11607 V 7500",
         "id": "AFD"
+    },
+    {
+        "key": "FB D3 54 22 A2 DC BB 39",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10723 V 15000",
+        "id": "OCC 1"
+    },
+    {
+        "key": "FC 56 BC 0E D2 D2 21 C5",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10723 V 15000",
+        "id": "OCC 2"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AD D6",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12629 V 7500",
+        "id": "WBC - Dominican Republic V Venezuala"
     }
 ]
