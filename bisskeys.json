@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11061 H 7500",
+    "id": "WBC Italy V US",
+    "key": "AA BB 20 85 26 03 AB D4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "71 39 18 C2 88 93 31 4C"
