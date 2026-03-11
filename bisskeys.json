@@ -7,45 +7,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11071 H 7200",
+    "frequency": "10998 H 9875",
+    "id": "GVA_Fi0_UCL_IHL",
+    "key": "63 12 83 F8 7E 93 03 14"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11062 H 7500",
+    "id": "WBC Italy at Mexico",
+    "key": "AA BB 20 85 26 03 AB D4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11070 H 7200",
     "id": "UKI 1678 PATH1",
     "key": "71 39 18 C2 88 93 31 4C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11126 H 7200",
-    "id": "E-229 Main",
-    "key": "DF 64 DD 20 18 EB 20 23"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11135 H 7200",
-    "id": "CEV_CHALLENGE_CUP_MN",
-    "key": "9C 2B 3D 04 5D 94 C9 BA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11582 H 7200",
-    "id": "EHF PARIS",
-    "key": "E4 4F FC 2F ED 03 11 01"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11606 V 7500",
+    "frequency": "11607 V 7500",
     "id": "AFD",
     "key": "C1 D5 AD 43 B4 81 0B 40"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12510 V 7200",
-    "id": "ITA360_2",
-    "key": "5D 7B 4A 22 6C 5B 89 50"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12629 V 7120",
-    "id": "Pitch- EFL - Coventry v Preston",
-    "key": "35 87 DE 9A 34 15 A2 EB"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
