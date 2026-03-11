@@ -1,11 +1,5 @@
 [
     {
-        "key": "11 7A DF 6A 5F CC 01 2C",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12641 H 7200",
-        "id": "Medialink CRO-024/1"
-    },
-    {
         "key": "AA BB 20 85 26 03 AA D3",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12638 V 7500",
