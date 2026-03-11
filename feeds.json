@@ -1,17 +1,5 @@
 [
     {
-        "key": "9F 80 AF CE 96 4A 29 09",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11126 H 7200",
-        "id": "guardia 4.5mhz/MAIN FEED"
-    },
-    {
-        "key": "A1 E1 F6 78 90 2E DE 9C",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10997 H 9875",
-        "id": "GVA_Fi0_UCL_IHL"
-    },
-    {
         "key": "FE 48 BA 00 43 AA 57 44",
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
         "frequency": "10820 H 7200",
@@ -88,5 +76,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12638 V 7200",
         "id": "Fi04_NE4"
+    },
+    {
+        "key": "36 35 4E B9 98 91 80 A9",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12647 V 7200",
+        "id": "TLCAT-002-Main"
+    },
+    {
+        "key": "24 CA D7 C5 E2 1D 77 76",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12656 V 7200",
+        "id": "CCTV-DSNG-3"
     }
 ]
