@@ -58,5 +58,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11582 H 7200",
         "id": "EHF PARIS"
+    },
+    {
+        "key": "35 87 DE 9A 34 15 A2 EB",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12629 V 7120",
+        "id": "Pitch- EFL - Coventry v Preston"
     }
 ]
