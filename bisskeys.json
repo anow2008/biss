@@ -7,9 +7,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10987 V 7200",
-    "id": "F-509 PFC main",
-    "key": "87 87 81 8F CC 75 13 54"
+    "frequency": "10996 V 7200",
+    "id": "TUR 141 B",
+    "key": "24 A4 30 F8 B3 E0 1D B0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10998 H 9875",
+    "id": "GVA_Fi0_UCL_IHL",
+    "key": "63 12 83 F8 7E 93 03 14"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -37,15 +43,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11598 V 7200",
-    "id": "M MEDYA/MAIN",
-    "key": "4E 5B 29 D2 6D D4 6A AB"
+    "frequency": "11135 H 7200",
+    "id": "CEV_CHALLENGE_CUP_MN",
+    "key": "9C 2B 3D 04 5D 94 C9 BA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11607 V 7200",
-    "id": "TKS.TRT.M22-A",
-    "key": "4E 5B 29 D2 6D D4 6A AB"
+    "frequency": "12538 V 7200",
+    "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -85,15 +91,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "10820 V 7200",
+    "id": "OTE 1",
+    "key": "BF 31 DE CE 77 BE 67 9C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
     "frequency": "10829 V 7200",
     "id": "LTU-005 main",
     "key": "DB 56 EC 1D 44 CB 78 87"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "10838 V 7200",
-    "id": "CZE-012_MAIN_Nymburk-Trieste",
-    "key": "DF 41 DA FA 16 AA 62 22"
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
