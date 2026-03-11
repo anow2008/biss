@@ -18,18 +18,6 @@
     "key": "71 39 18 C2 88 93 31 4C"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11598 V 7500",
-    "id": "AFD",
-    "key": "C1 D5 AD 43 B4 81 0B 40"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12629 V 7500",
-    "id": "WBC - Dominican Republic V Venezuala",
-    "key": "AA BB 20 85 26 03 AD D6"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10966 H 3333",
     "id": "Unname",
