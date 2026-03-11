@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10968 V 19200",
-    "id": "Service-1",
-    "key": "BB DD 52 EA A6 84 5C 86"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "10998 H 9875",
     "id": "GVA_Fi0_UCL_IHL",
     "key": "63 12 83 F8 7E 93 03 14"
@@ -19,20 +13,26 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11070 H 7200",
+    "frequency": "11071 H 7200",
     "id": "UKI 1678 PATH1",
     "key": "71 39 18 C2 88 93 31 4C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11607 V 7500",
+    "frequency": "11598 V 7500",
     "id": "AFD",
     "key": "C1 D5 AD 43 B4 81 0B 40"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12638 V 7500",
-    "id": "WBC Canada at Cuba",
-    "key": "AA BB 20 85 26 03 AA D3"
+    "frequency": "12629 V 7500",
+    "id": "WBC - Dominican Republic V Venezuala",
+    "key": "AA BB 20 85 26 03 AD D6"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
