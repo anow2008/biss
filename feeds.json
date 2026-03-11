@@ -70,5 +70,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11097 H 7200",
         "id": "Fi20_GNVE"
+    },
+    {
+        "key": "AA BB 20 85 26 03 AB D4",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11061 H 7500",
+        "id": "WBC Italy V US"
+    },
+    {
+        "key": "24 AD CB 9C 67 33 DD 77",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10723 V 15000",
+        "id": "OCC 1"
     }
 ]
