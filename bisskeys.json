@@ -1,95 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10968 V 19200",
-    "id": "G19 E349 Via 1",
-    "key": "BB DD 52 EA A6 84 5C 86"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10996 V 7200",
-    "id": "TUR 141 B",
-    "key": "24 A4 30 F8 B3 E0 1D B0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10998 H 9875",
-    "id": "GVA_Fi0_UCL_IHL",
-    "key": "63 12 83 F8 7E 93 03 14"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11025 H 4938",
-    "id": "JERNAS#02-A",
-    "key": "9F 05 81 25 1A 63 AE 2B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11071 H 7200",
-    "id": "UKI 1678 PATH1",
-    "key": "71 39 18 C2 88 93 31 4C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11098 V 7200",
-    "id": "SNG 02 - Chain A",
-    "key": "59 B4 FE 0B E4 15 D6 CF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11107 V 7200",
-    "id": "Jernas#01-A",
-    "key": "EC B3 7C 1B 9E 0F DB 88"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11135 H 7200",
-    "id": "CEV_CHALLENGE_CUP_MN",
-    "key": "9C 2B 3D 04 5D 94 C9 BA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12538 V 7200",
-    "id": "YSM-012 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12638 V 7500",
-    "id": "WBC Canada at Cuba",
-    "key": "AA BB 20 85 26 03 AA D3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12641 H 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "11 7A DF 6A 5F CC 01 2C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12646 V 4938",
-    "id": "MNE-001 main",
-    "key": "75 27 BB 57 DF E5 3B FF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12696 V 7200",
-    "id": "TUR 136 A",
-    "key": "4E 5B 29 D2 6D D1 9A D8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12705 V 7200",
-    "id": "TUR 141 B",
-    "key": "24 A4 30 F8 B3 E0 1D B0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12728 V 7200",
-    "id": "E-45 TNT MAIN",
-    "key": "F4 D8 B3 7F 8D A9 57 8D"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
     "frequency": "10820 V 7200",
     "id": "OTE 1",
@@ -102,16 +12,10 @@
     "key": "DB 56 EC 1D 44 CB 78 87"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
-    "id": "Unname",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "10838 V 7200",
+    "id": "CZE-012_MAIN_Nymburk-Trieste",
+    "key": "DF 41 DA FA 16 AA 62 22"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
@@ -121,14 +25,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10986 V 9600",
-    "id": "POL 030",
-    "key": "20 26 CA 10 E0 30 11 21"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "11061 H 7200",
     "id": "POL-098_MAIN",
     "key": "E4 4F FB 2E DD 03 11 F1"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11073 H 7500",
+    "id": "POL022 TVN24 WAW p1 ASI",
+    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
