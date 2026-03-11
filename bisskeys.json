@@ -1,5 +1,11 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12647 V 7200",
+    "id": "TLCAT-002-Main",
+    "key": "36 35 4E B9 98 91 80 A9"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10966 H 3333",
     "id": "Unname",
