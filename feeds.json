@@ -1,23 +1,5 @@
 [
     {
-        "key": "DB 56 EC 1D 44 CB 78 87",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "10829 V 7200",
-        "id": "LTU-005 main"
-    },
-    {
-        "key": "E4 4F FA 2D AD 03 11 C1",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12583 V 7200",
-        "id": "EDS807HD.1"
-    },
-    {
-        "key": "E4 4F FB 2E DD 03 11 F1",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11061 H 7200",
-        "id": "POL-098_MAIN"
-    },
-    {
         "key": "E4 4F FD 30 FD 03 11 11",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "11098 H 7200",
@@ -64,5 +46,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "10998 H 9875",
         "id": "GVA_Fi0_UCL_IHL"
+    },
+    {
+        "key": "77 93 52 5C 99 08 86 27",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11073 H 7500",
+        "id": "POL022 TVN24 WAW p1 ASI"
+    },
+    {
+        "key": "E4 4F FC 2F ED 03 11 01",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11582 H 7200",
+        "id": "EHF PARIS"
     }
 ]
