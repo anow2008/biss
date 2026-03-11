@@ -7,20 +7,80 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11061 H 7200",
-    "id": "OER/F525/1/Paris-Nice Inter",
-    "key": "DF 78 06 5D 50 22 01 73"
+    "frequency": "10987 V 7200",
+    "id": "F-509 PFC main",
+    "key": "87 87 81 8F CC 75 13 54"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12696 V 7500",
+    "frequency": "11025 H 4938",
+    "id": "JERNAS#02-A",
+    "key": "9F 05 81 25 1A 63 AE 2B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11071 H 7200",
+    "id": "UKI 1678 PATH1",
+    "key": "71 39 18 C2 88 93 31 4C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11089 V 7200",
+    "id": "F-510 /APL PSG OM",
+    "key": "6A D6 AC EC 40 23 17 7A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11098 V 7200",
+    "id": "SNG 02 - Chain A",
+    "key": "59 B4 FE 0B E4 15 D6 CF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11107 V 7200",
+    "id": "Jernas#01-A",
+    "key": "EC B3 7C 1B 9E 0F DB 88"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11135 H 7200",
+    "id": "CEV_CHALLENGE_CUP_MN",
+    "key": "9C 2B 3D 04 5D 94 C9 BA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11514 V 7200",
+    "id": "TUR156 Main",
+    "key": "D3 AA D1 4E 1A 0E 26 4E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11598 V 7200",
+    "id": "M MEDYA/MAIN",
+    "key": "4E 5B 29 D2 6D D4 6A AB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11607 V 7200",
+    "id": "TKS.TRT.M22-A",
+    "key": "4E 5B 29 D2 6D D4 6A AB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12538 V 7200",
+    "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12696 V 7200",
     "id": "TUR 136 A",
     "key": "4E 5B 29 D2 6D D1 9A D8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12705 V 7200",
-    "id": "TKS TRT M20 A",
+    "id": "TUR 141 B",
     "key": "24 A4 30 F8 B3 E0 1D B0"
   },
   {
@@ -31,8 +91,26 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "Unname",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10980 H 3600",
+    "id": "F2-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10986 V 9600",
+    "id": "POL 030",
+    "key": "20 26 CA 10 E0 30 11 21"
   }
 ]
