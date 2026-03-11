@@ -1,7 +1,13 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12629 V 7200",
+    "id": "JPNEXC_FI02",
+    "key": "88 01 DC 65 D5 A7 CF 4B"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
+    "frequency": "10965 H 3333",
     "id": "Unname",
     "key": "AA CD 33 AA 27 CB AB 9D"
   }
