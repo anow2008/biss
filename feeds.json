@@ -1,35 +1,5 @@
 [
     {
-        "key": "F6 A9 71 10 79 77 52 42",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12704 V 7200",
-        "id": "TUR 141"
-    },
-    {
-        "key": "91 68 F4 ED 2B 5C DF 66",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11514 V 7200",
-        "id": "SNG 05 -  CHAIN A"
-    },
-    {
-        "key": "EF AB 23 BD 12 AB EF AC",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12550 H 9875",
-        "id": "D366_RTL_DIGI_Path2"
-    },
-    {
-        "key": "CE CE BA 56 62 FF 92 F3",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12510 V 7200",
-        "id": "D-312"
-    },
-    {
-        "key": "20 25 AB F0 CD 20 26 13",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12641 H 7200",
-        "id": "Medialink CRO-024/1"
-    },
-    {
         "key": "12 03 AC C1 DC 26 20 22",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11584 V 17140",
@@ -82,5 +52,23 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12655 V 9875",
         "id": "GVA_Fi01"
+    },
+    {
+        "key": "23 DC 09 08 18 52 F4 5E",
+        "satellite": "Eutelsat 36B / Express AMU1 @ 36.0E",
+        "frequency": "11460 H 7200",
+        "id": "UAE-065"
+    },
+    {
+        "key": "23 21 20 64 25 45 41 AB",
+        "satellite": "Eutelsat 36B / Express AMU1 @ 36.0E",
+        "frequency": "11693 H 4000",
+        "id": "SNG 02 Chain B"
+    },
+    {
+        "key": "12 14 AB D1 AB BA 2B 90",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11013 H 4938",
+        "id": "EMPC"
     }
 ]
