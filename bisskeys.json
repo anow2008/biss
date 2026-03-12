@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11062 H 7200",
+    "id": "Fi15_GNVE",
+    "key": "EF 12 AB AC 34 CD 27 28"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "14 E3 BA B1 B4 4F 63 66"
