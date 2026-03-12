@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11062 H 7200",
-    "id": "F529_PARIS_MAIN",
-    "key": "6B 89 F6 EA 6B FC 49 B0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12510 V 7200",
-    "id": "D-312",
-    "key": "CE CE BA 56 62 FF 92 F3"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10966 H 3333",
     "id": "DEFAULT",
