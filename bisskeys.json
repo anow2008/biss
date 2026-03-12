@@ -7,6 +7,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11062 H 7200",
+    "id": "F529_PARIS_MAIN",
+    "key": "6B 89 F6 EA 6B FC 49 B0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11071 H 7200",
     "id": "DubaiBas vs.Baskonia BUL006 1",
     "key": "14 E3 BA B1 B4 4F 63 66"
@@ -19,14 +25,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11514 V 7200",
-    "id": "SNG 05 -  CHAIN A",
-    "key": "91 68 F4 ED 2B 5C DF 66"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11584 V 17140",
-    "id": "ITA-274 FEED1 Main",
+    "frequency": "11602 V 17140",
+    "id": "ITA-274 FEED2 MAIN",
     "key": "12 03 AC C1 DC 26 20 22"
   },
   {
@@ -42,14 +42,14 @@
     "key": "03 41 30 74 09 02 01 0C"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12655 V 9875",
-    "id": "GVA_Fi01",
-    "key": "D0 9B 2D 98 BB 77 A4 D6"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "12583 V 7200",
+    "id": "TV2NO-BER",
+    "key": "D0 31 2E 2F 44 FF BD 00"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10969 H 3333",
+    "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
@@ -67,9 +67,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11073 H 7500",
-    "id": "POL019",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "11098 H 7200",
+    "id": "D535_Berlin",
+    "key": "D0 31 2E 2F 44 FF DB 1E"
   },
   {
     "satellite": "Eutelsat 36B / Express AMU1 @ 36.0E",
