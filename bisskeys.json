@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11062 H 7200",
+    "id": "OER/F525/1/Paris-Nice Inter/MAIN",
+    "key": "DF 78 06 5D 50 22 01 73"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11523 V 7200",
+    "id": "Unname",
+    "key": "EC 2B C8 DF BF FD 43 FF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12631 V 9875",
+    "id": "NOR-035 IBU OECH MAIN",
+    "key": "3A B8 73 65 2E 77 E3 88"
+  }
+]
