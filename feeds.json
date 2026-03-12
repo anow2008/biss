@@ -1,11 +1,5 @@
 [
     {
-        "key": "77 93 52 5C 99 08 86 27",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11073 H 7500",
-        "id": "POL019"
-    },
-    {
         "key": "D0 31 2E 2F 44 FF DB 1E",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "11098 H 7200",
@@ -64,5 +58,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11062 H 7200",
         "id": "F529_PARIS_MAIN"
+    },
+    {
+        "key": "AA CD 33 AA 27 CB AB 9D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10966 H 3333",
+        "id": "DEFAULT"
     }
 ]
