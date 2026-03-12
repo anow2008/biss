@@ -1,27 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11013 H 4938",
-    "id": "EMPC",
-    "key": "12 14 AB D1 AB BA 2B 90"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11062 H 7200",
     "id": "F529_PARIS_MAIN",
     "key": "6B 89 F6 EA 6B FC 49 B0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11071 H 7200",
-    "id": "DubaiBas vs.Baskonia BUL006 1",
-    "key": "14 E3 BA B1 B4 4F 63 66"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11505 V 7200",
-    "id": "SNG 02 - Chain A",
-    "key": "C2 29 AD 98 AF 2B 69 43"
+    "frequency": "11584 V 17140",
+    "id": "ITA-274 FEED1 Main",
+    "key": "12 03 AC C1 DC 26 20 22"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -30,40 +18,10 @@
     "key": "12 03 AC C1 DC 26 20 22"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12641 H 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "20 25 AB F0 CD 20 26 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12650 H 7200",
-    "id": "MMG-D185 HD Encoder 2",
-    "key": "03 41 30 74 09 02 01 0C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12583 V 7200",
-    "id": "TV2NO-BER",
-    "key": "D0 31 2E 2F 44 FF BD 00"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10985 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 03 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11061 H 7200",
-    "id": "EHF",
-    "key": "D0 31 2E 2F 44 FF CF 12"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
