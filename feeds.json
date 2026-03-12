@@ -70,5 +70,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12629 V 7500",
         "id": "WBC - Dominican Republic V Venezuala"
+    },
+    {
+        "key": "DD AA EE 75 BB 12 03 D0",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11514 V 7500",
+        "id": "Womens Australian Open"
     }
 ]
