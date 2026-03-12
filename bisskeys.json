@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11013 H 4938",
+    "id": "EMPC",
+    "key": "12 14 AB D1 AB BA 2B 90"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11071 H 7200",
     "id": "DubaiBas vs.Baskonia BUL006 1",
     "key": "14 E3 BA B1 B4 4F 63 66"
@@ -43,6 +49,12 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10969 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10985 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 03 8D"
@@ -60,9 +72,9 @@
     "key": "77 93 52 5C 99 08 86 27"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11098 H 7200",
-    "id": "D535_Berlin",
-    "key": "D0 31 2E 2F 44 FF DB 1E"
+    "satellite": "Eutelsat 36B / Express AMU1 @ 36.0E",
+    "frequency": "11460 H 7200",
+    "id": "UAE-065",
+    "key": "23 DC 09 08 18 52 F4 5E"
   }
 ]
