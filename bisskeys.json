@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10998 H 9875",
-    "id": "GVA_Fi0_UCL_IHL",
-    "key": "63 12 83 F8 7E 93 03 14"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11062 H 7500",
     "id": "WBC Italy at Mexico",
     "key": "AA BB 20 85 26 03 AB D4"
