@@ -1,11 +1,5 @@
 [
     {
-        "key": "1C 78 D9 6D 78 54 C9 95",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11107 H 7200",
-        "id": "F489 MAIN"
-    },
-    {
         "key": "AB BA 26 8B DC AE 03 8D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10985 V 9600",
@@ -64,5 +58,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11071 H 7200",
         "id": "IMG A EU"
+    },
+    {
+        "key": "85 AD B4 E6 EA 32 DC F8",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10723 V 15000",
+        "id": "OCC 1"
     }
 ]
