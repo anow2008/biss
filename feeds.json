@@ -1,11 +1,5 @@
 [
     {
-        "key": "D0 31 2E 2F 44 FF CF 12",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11061 H 7200",
-        "id": "EHF"
-    },
-    {
         "key": "77 93 52 5C 99 08 86 27",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "11073 H 7500",
