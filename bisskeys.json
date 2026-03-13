@@ -7,15 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 V 9875",
-    "id": "GVA_Fi03",
-    "key": "9F C0 71 D0 DD 89 61 C7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11071 H 7200",
-    "id": "CBS Wrexham Pub OB",
-    "key": "71 64 81 56 81 88 12 1B"
+    "id": "IMG A EU",
+    "key": "78 49 20 E1 A2 37 C9 A2"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -25,45 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11181 H 7200",
-    "id": "ENC 10",
-    "key": "13 03 4A 60 29 20 26 6F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11462 V 4938",
+    "frequency": "11463 V 4938",
     "id": "Medialink CRO-025/1",
     "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11523 V 7200",
-    "id": "E-073 MAIN",
-    "key": "13 03 20 36 26 AD 26 F9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12510 V 7200",
-    "id": "HBL Melsungen",
-    "key": "20 26 AB F1 DC 13 03 F2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12573 H 7200",
-    "id": "UKI-1484 main",
-    "key": "20 26 03 49 14 00 10 24"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12650 H 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "11 A8 CB 84 DA 65 4A 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12728 V 7200",
-    "id": "Cage Warriors",
-    "key": "F2 34 AC D2 22 38 11 6B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
