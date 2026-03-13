@@ -1,29 +1,5 @@
 [
     {
-        "key": "AA CD 33 AA 27 CB AB 9D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10970 H 3333",
-        "id": "DEFAULT"
-    },
-    {
-        "key": "20 25 AE F3 EA 52 02 3E",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10976 H 3600",
-        "id": "Fal1 Enc2"
-    },
-    {
-        "key": "DF 78 06 5D 50 22 01 73",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11023 H 7200",
-        "id": "OER/F525/1/PN2026/MAIN"
-    },
-    {
-        "key": "FC 1F EA 05 E7 73 E1 3B",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "11616 H 9800",
-        "id": "NLEMG HOL270-1"
-    },
-    {
         "key": "B2 C5 D3 4A E6 F4 A7 81",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11607 V 7120",
@@ -70,5 +46,35 @@
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
         "id": "LIGA HYPERMOTION 1"
+    },
+    {
+        "key": "AA CD 33 AA 27 CB AB 9D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10966 H 3333",
+        "id": "DEFAULT"
+    },
+    {
+        "key": "26 5E 81 05 52 71 B7 7A",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11081 V 9875",
+        "id": "NOR-044 - FEED A"
+    },
+    {
+        "key": "20 26 A9 EF 97 AB DA 1C",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport"
+    },
+    {
+        "key": "14 03 DE F5 CC 06 50 22",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11106 H 7200",
+        "id": "Fal3Enc1"
+    },
+    {
+        "key": "20 26 03 49 14 00 10 24",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12573 H 7200",
+        "id": "UKI-1484 main"
     }
 ]
