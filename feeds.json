@@ -1,17 +1,5 @@
 [
     {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10970 V 4800",
-        "id": "POL - 054 Kielce"
-    },
-    {
-        "key": "BC EA 4A F0 6C 39 09 AE",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11090 H 4938",
-        "id": "SNG 05 - CHAIN B"
-    },
-    {
         "key": "02 13 AB C0 BA 20 26 00",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12736 V 7200",
@@ -88,5 +76,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11022 V 9875",
         "id": "GVA_Fi03"
+    },
+    {
+        "key": "F5 26 C3 DE 6B 32 59 F6",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10960 V 7120",
+        "id": "Pitch - EFL - Wrexham v Swansea"
     }
 ]
