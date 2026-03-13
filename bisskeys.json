@@ -31,21 +31,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11463 V 4938",
+    "frequency": "11462 V 4938",
     "id": "Medialink CRO-025/1",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11514 V 7200",
-    "id": "E-95 MAIN",
-    "key": "AB 13 03 C1 20 26 BA 00"
+    "frequency": "11523 V 7200",
+    "id": "E-073 MAIN",
+    "key": "13 03 20 36 26 AD 26 F9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12511 V 7200",
+    "frequency": "12510 V 7200",
     "id": "HBL Melsungen",
     "key": "20 26 AB F1 DC 13 03 F2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12573 H 7200",
+    "id": "UKI-1484 main",
+    "key": "20 26 03 49 14 00 10 24"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
