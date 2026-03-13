@@ -1,9 +1,27 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10960 V 7120",
+    "id": "Pitch - EFL - Wrexham v Swansea",
+    "key": "F5 26 C3 DE 6B 32 59 F6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11022 V 9875",
+    "id": "GVA_Fi03",
+    "key": "9F C0 71 D0 DD 89 61 C7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11071 H 7200",
     "id": "CBS Wrexham Pub OB",
     "key": "71 64 81 56 81 88 12 1B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11107 H 7200",
+    "id": "i390main",
+    "key": "C9 5C 16 3B CB CB 19 AF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -13,7 +31,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11462 V 4938",
+    "frequency": "11463 V 4938",
     "id": "Medialink CRO-025/1",
     "key": "AB BA 20 85 25 20 26 6B"
   },
@@ -25,21 +43,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11523 V 7200",
-    "id": "E-073 MAIN",
-    "key": "13 03 20 36 26 AD 26 F9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12510 V 7200",
     "id": "HBL Melsungen",
     "key": "20 26 AB F1 DC 13 03 F2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12641 H 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "20 25 AB F0 CD 20 26 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
