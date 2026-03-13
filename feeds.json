@@ -1,11 +1,5 @@
 [
     {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10985 V 9600",
-        "id": "POL 030"
-    },
-    {
         "key": "03 41 30 74 09 02 01 0C",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12650 H 7200",
@@ -22,6 +16,12 @@
         "satellite": "Eutelsat 36B / Express AMU1 @ 36.0E",
         "frequency": "11460 H 7200",
         "id": "UAE-065"
+    },
+    {
+        "key": "AB BA 26 8B DC AE 03 8D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10976 V 4800",
+        "id": "POL - 054 Kielce"
     },
     {
         "key": "23 21 20 64 25 45 41 AB",
@@ -64,5 +64,17 @@
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10723 V 15000",
         "id": "OCC 1"
+    },
+    {
+        "key": "C1 D5 AD 43 B4 81 0B 40",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11607 V 7500",
+        "id": "AFD"
+    },
+    {
+        "key": "DD AA EE 75 BB 13 03 D1",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11514 V 7500",
+        "id": "Womens Australian Open"
     }
 ]
