@@ -1,17 +1,5 @@
 [
     {
-        "key": "26 5E 81 05 52 71 B7 7A",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11081 V 9875",
-        "id": "NOR-044 - FEED A"
-    },
-    {
-        "key": "20 26 A9 EF 97 AB DA 1C",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12593 V 7200",
-        "id": "Polsat Sport"
-    },
-    {
         "key": "14 03 DE F5 CC 06 50 22",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "11106 H 7200",
@@ -82,5 +70,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11181 H 7200",
         "id": "ENC 10"
+    },
+    {
+        "key": "AB 13 03 C1 20 26 BA 00",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11514 V 7200",
+        "id": "E-95 MAIN"
     }
 ]
