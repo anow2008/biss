@@ -1,21 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10973 V 9875",
-    "id": "SWE-054 FIS Alpin Women Are",
-    "key": "2F 3A 1E 87 93 35 E8 B0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10986 V 9875",
-    "id": "SWE-054 Clean FIS Alpin Women Are",
-    "key": "8E 4B 48 21 45 43 E1 69"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11023 H 7200",
     "id": "OER/F525/1/PN2026/MAIN",
     "key": "DF 78 06 5D 50 22 01 73"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "78 49 20 E1 A2 37 C9 A2"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -30,21 +24,15 @@
     "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "11616 H 9800",
-    "id": "NLEMG HOL270-1",
-    "key": "FC 1F EA 05 E7 73 E1 3B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10969 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10975 H 3600",
+    "id": "Fal1 Enc2",
+    "key": "20 25 AE F3 EA 52 02 3E"
   }
 ]
