@@ -1,23 +1,5 @@
 [
     {
-        "key": "03 41 30 74 09 02 01 0C",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12650 H 7200",
-        "id": "MMG-D185 HD Encoder 2"
-    },
-    {
-        "key": "D0 9B 2D 98 BB 77 A4 D6",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12655 V 9875",
-        "id": "GVA_Fi01"
-    },
-    {
-        "key": "23 DC 09 08 18 52 F4 5E",
-        "satellite": "Eutelsat 36B / Express AMU1 @ 36.0E",
-        "frequency": "11460 H 7200",
-        "id": "UAE-065"
-    },
-    {
         "key": "AB BA 26 8B DC AE 03 8D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10976 V 4800",
@@ -76,5 +58,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11514 V 7500",
         "id": "Womens Australian Open"
+    },
+    {
+        "key": "EC 2B C8 DF BF FD 43 FF",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11523 V 7200",
+        "id": "Unname"
     }
 ]
