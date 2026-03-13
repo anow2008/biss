@@ -8,8 +8,14 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11071 H 7200",
-    "id": "IMG A EU",
-    "key": "78 49 20 E1 A2 37 C9 A2"
+    "id": "CBS Wrexham Pub OB",
+    "key": "71 64 81 56 81 88 12 1B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11081 V 9875",
+    "id": "NOR-044 - FEED A",
+    "key": "26 5E 81 05 52 71 B7 7A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -19,9 +25,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12650 H 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "11 A8 CB 84 DA 65 4A 89"
+    "frequency": "11607 V 7120",
+    "id": "EDM HD ENC-1",
+    "key": "B2 C5 D3 4A E6 F4 A7 81"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12573 H 7200",
+    "id": "UKI-1484 main",
+    "key": "20 26 03 49 14 00 10 24"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12678 V 7200",
+    "id": "Unname",
+    "key": "23 DA AC A9 C1 20 DC BD"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
@@ -31,8 +49,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10975 H 3600",
-    "id": "Fal1 Enc2",
-    "key": "20 25 AE F3 EA 52 02 3E"
+    "frequency": "10970 V 4800",
+    "id": "POL - 054 Kielce",
+    "key": "AB BA 26 8B DC AE 03 8D"
   }
 ]
