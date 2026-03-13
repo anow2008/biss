@@ -1,17 +1,5 @@
 [
     {
-        "key": "D9 7B DA 2E ED BC ED 96",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1"
-    },
-    {
-        "key": "AA CD 33 AA 27 CB AB 9D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT"
-    },
-    {
         "key": "26 5E 81 05 52 71 B7 7A",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11081 V 9875",
@@ -76,5 +64,23 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12641 H 7200",
         "id": "Medialink CRO-024/1"
+    },
+    {
+        "key": "95 F4 64 ED D7 E5 8E 4A",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12611 V 7500",
+        "id": "E333 M"
+    },
+    {
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "12509 H 4938",
+        "id": "YSM-021M"
+    },
+    {
+        "key": "13 03 4A 60 29 20 26 6F",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11181 H 7200",
+        "id": "ENC 10"
     }
 ]
