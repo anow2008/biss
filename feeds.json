@@ -2,8 +2,8 @@
     {
         "key": "AB BA 20 85 25 20 26 6B",
         "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12509 H 4938",
-        "id": "YSM-021M"
+        "frequency": "12556 H 4938",
+        "id": "YSM-012 MAIN"
     },
     {
         "key": "13 03 4A 60 29 20 26 6F",
@@ -70,5 +70,11 @@
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10985 V 9600",
         "id": "TVP POL-32  ENC 1"
+    },
+    {
+        "key": "78 49 20 E1 A2 37 C9 A2",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU"
     }
 ]
