@@ -1,11 +1,5 @@
 [
     {
-        "key": "C1 D5 AD 43 B4 81 0B 40",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11607 V 7500",
-        "id": "AFD"
-    },
-    {
         "key": "DD AA EE 75 BB 13 03 D1",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11514 V 7500",
