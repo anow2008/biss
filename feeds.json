@@ -1,23 +1,5 @@
 [
     {
-        "key": "DD AA EE 75 BB 13 03 D1",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11514 V 7500",
-        "id": "Womens Australian Open"
-    },
-    {
-        "key": "78 49 20 E1 A2 37 C9 A2",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU"
-    },
-    {
-        "key": "EC 2B C8 DF BF FD 43 FF",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11523 V 7200",
-        "id": "Unname"
-    },
-    {
         "key": "AA CD 33 AA 27 CB AB 9D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10970 H 3333",
@@ -64,5 +46,29 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12678 V 7200",
         "id": "Unname"
+    },
+    {
+        "key": "2F 3A 1E 87 93 35 E8 B0",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10973 V 9875",
+        "id": "SWE-054 FIS Alpin Women Are"
+    },
+    {
+        "key": "8E 4B 48 21 45 43 E1 69",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10986 V 9875",
+        "id": "SWE-054 Clean FIS Alpin Women Are"
+    },
+    {
+        "key": "46 0A 46 96 4E B5 D6 D9",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1"
+    },
+    {
+        "key": "D9 7B DA 2E ED BC ED 96",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1"
     }
 ]
