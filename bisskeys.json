@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10960 V 7120",
-    "id": "Pitch - EFL - Wrexham v Swansea",
-    "key": "F5 26 C3 DE 6B 32 59 F6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "78 49 20 E1 A2 37 C9 A2"
@@ -16,12 +10,6 @@
     "frequency": "11107 H 7200",
     "id": "i390main",
     "key": "C9 5C 16 3B CB CB 19 AF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11463 V 4938",
-    "id": "Medialink CRO-025/1",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
