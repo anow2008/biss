@@ -1,53 +1,5 @@
 [
     {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10976 V 4800",
-        "id": "POL - 054 Kielce"
-    },
-    {
-        "key": "23 21 20 64 25 45 41 AB",
-        "satellite": "Eutelsat 36B / Express AMU1 @ 36.0E",
-        "frequency": "11693 H 4000",
-        "id": "SNG 02 Chain B"
-    },
-    {
-        "key": "12 14 AB D1 AB BA 2B 90",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11013 H 4938",
-        "id": "EMPC"
-    },
-    {
-        "key": "D0 31 2E 2F 44 FF EE 31",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12592 V 7200",
-        "id": "E-289"
-    },
-    {
-        "key": "6B 89 F6 EA 6B FC 49 B0",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11062 H 7200",
-        "id": "F529_PARIS_MAIN"
-    },
-    {
-        "key": "AA CD 33 AA 27 CB AB 9D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT"
-    },
-    {
-        "key": "78 49 20 E1 A2 37 C9 A2",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU"
-    },
-    {
-        "key": "85 AD B4 E6 EA 32 DC F8",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10723 V 15000",
-        "id": "OCC 1"
-    },
-    {
         "key": "C1 D5 AD 43 B4 81 0B 40",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11607 V 7500",
@@ -60,9 +12,63 @@
         "id": "Womens Australian Open"
     },
     {
+        "key": "78 49 20 E1 A2 37 C9 A2",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU"
+    },
+    {
         "key": "EC 2B C8 DF BF FD 43 FF",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11523 V 7200",
+        "id": "Unname"
+    },
+    {
+        "key": "AA CD 33 AA 27 CB AB 9D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10970 H 3333",
+        "id": "DEFAULT"
+    },
+    {
+        "key": "20 25 AE F3 EA 52 02 3E",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10976 H 3600",
+        "id": "Fal1 Enc2"
+    },
+    {
+        "key": "DF 78 06 5D 50 22 01 73",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11023 H 7200",
+        "id": "OER/F525/1/PN2026/MAIN"
+    },
+    {
+        "key": "FC 1F EA 05 E7 73 E1 3B",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "11616 H 9800",
+        "id": "NLEMG HOL270-1"
+    },
+    {
+        "key": "B2 C5 D3 4A E6 F4 A7 81",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11607 V 7120",
+        "id": "EDM HD ENC-1"
+    },
+    {
+        "key": "11 A8 CB 84 DA 65 4A 89",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12650 H 7500",
+        "id": "NLFLEV_HOL328-3"
+    },
+    {
+        "key": "63 E9 BB 07 C8 4D 62 77",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12601 V 7200",
+        "id": "HOL311 MAIN"
+    },
+    {
+        "key": "23 DA AC A9 C1 20 DC BD",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12678 V 7200",
         "id": "Unname"
     }
 ]
