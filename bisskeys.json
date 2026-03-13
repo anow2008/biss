@@ -12,6 +12,18 @@
     "key": "C9 5C 16 3B CB CB 19 AF"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12650 H 7500",
+    "id": "NLFLEV_HOL328-3",
+    "key": "11 A8 CB 84 DA 65 4A 89"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12728 V 7200",
+    "id": "Cage Warriors",
+    "key": "F2 34 AC D2 22 38 11 6B"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10970 H 3333",
     "id": "DEFAULT",
