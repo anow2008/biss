@@ -19,15 +19,39 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11181 H 7200",
+    "id": "ENC 10",
+    "key": "13 03 4A 60 29 20 26 6F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11514 V 7200",
+    "id": "E-95 MAIN",
+    "key": "AB 13 03 C1 20 26 BA 00"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11523 V 7200",
     "id": "Unname",
     "key": "EC 2B C8 DF BF FD 43 FF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "20 26 A9 EF 97 AB DA 1C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12641 H 7200",
     "id": "Medialink CRO-024/1",
     "key": "20 25 AB F0 CD 20 26 13"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12650 H 7500",
+    "id": "NLFLEV_HOL328-3",
+    "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -46,18 +70,6 @@
     "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 V 4800",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 03 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11073 H 7500",
-    "id": "POL039 TVN24 KRK",
-    "key": "77 93 52 5C 99 08 86 27"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
