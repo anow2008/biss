@@ -1,47 +1,5 @@
 [
     {
-        "key": "B2 C5 D3 4A E6 F4 A7 81",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11607 V 7120",
-        "id": "EDM HD ENC-1"
-    },
-    {
-        "key": "11 A8 CB 84 DA 65 4A 89",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12650 H 7500",
-        "id": "NLFLEV_HOL328-3"
-    },
-    {
-        "key": "63 E9 BB 07 C8 4D 62 77",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12601 V 7200",
-        "id": "HOL311 MAIN"
-    },
-    {
-        "key": "23 DA AC A9 C1 20 DC BD",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12678 V 7200",
-        "id": "Unname"
-    },
-    {
-        "key": "2F 3A 1E 87 93 35 E8 B0",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10973 V 9875",
-        "id": "SWE-054 FIS Alpin Women Are"
-    },
-    {
-        "key": "8E 4B 48 21 45 43 E1 69",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10986 V 9875",
-        "id": "SWE-054 Clean FIS Alpin Women Are"
-    },
-    {
-        "key": "46 0A 46 96 4E B5 D6 D9",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1"
-    },
-    {
         "key": "D9 7B DA 2E ED BC ED 96",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
@@ -76,5 +34,47 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12573 H 7200",
         "id": "UKI-1484 main"
+    },
+    {
+        "key": "F2 34 AC D2 22 38 11 6B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12728 V 7200",
+        "id": "Cage Warriors"
+    },
+    {
+        "key": "71 64 81 56 81 88 12 1B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11071 H 7200",
+        "id": "CBS Wrexham Pub OB"
+    },
+    {
+        "key": "77 93 52 5C 99 08 86 27",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11073 H 7500",
+        "id": "POL039 TVN24 KRK"
+    },
+    {
+        "key": "AB BA 26 8B DC AE 03 8D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10970 V 4800",
+        "id": "POL - 054 Kielce"
+    },
+    {
+        "key": "BC EA 4A F0 6C 39 09 AE",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11090 H 4938",
+        "id": "SNG 05 - CHAIN B"
+    },
+    {
+        "key": "02 13 AB C0 BA 20 26 00",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 1"
+    },
+    {
+        "key": "20 25 AB F0 CD 20 26 13",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12641 H 7200",
+        "id": "Medialink CRO-024/1"
     }
 ]
