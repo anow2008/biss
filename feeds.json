@@ -1,17 +1,5 @@
 [
     {
-        "key": "71 64 81 56 81 88 12 1B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11071 H 7200",
-        "id": "CBS Wrexham Pub OB"
-    },
-    {
-        "key": "77 93 52 5C 99 08 86 27",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11073 H 7500",
-        "id": "POL039 TVN24 KRK"
-    },
-    {
         "key": "AB BA 26 8B DC AE 03 8D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10970 V 4800",
@@ -82,5 +70,23 @@
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "11062 H 9875",
         "id": "FFBL Freibg.-Nuernbg"
+    },
+    {
+        "key": "20 26 AB F1 DC 13 03 F2",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12510 V 7200",
+        "id": "HBL Melsungen"
+    },
+    {
+        "key": "C9 5C 16 3B CB CB 19 AF",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11107 H 7200",
+        "id": "i390main"
+    },
+    {
+        "key": "9F C0 71 D0 DD 89 61 C7",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11022 V 9875",
+        "id": "GVA_Fi03"
     }
 ]
