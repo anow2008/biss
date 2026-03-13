@@ -31,9 +31,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11523 V 7200",
-    "id": "Unname",
-    "key": "EC 2B C8 DF BF FD 43 FF"
+    "frequency": "11593 V 27000",
+    "id": "VISTA Encoder 3",
+    "key": "BA BA 21 95 4B 23 78 E6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -58,12 +58,6 @@
     "frequency": "12678 V 7200",
     "id": "Unname",
     "key": "23 DA AC A9 C1 20 DC BD"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12728 V 7200",
-    "id": "Cage Warriors",
-    "key": "F2 34 AC D2 22 38 11 6B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
