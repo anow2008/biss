@@ -43,7 +43,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12510 V 7200",
+    "frequency": "12511 V 7200",
     "id": "HBL Melsungen",
     "key": "20 26 AB F1 DC 13 03 F2"
   },
@@ -54,27 +54,15 @@
     "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12601 V 7200",
-    "id": "HOL311 MAIN",
-    "key": "63 E9 BB 07 C8 4D 62 77"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12728 V 7200",
+    "id": "Cage Warriors",
+    "key": "F2 34 AC D2 22 38 11 6B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11062 H 9875",
-    "id": "FFBL Freibg.-Nuernbg",
-    "key": "13 03 EF 05 AA 02 11 BD"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "12509 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
