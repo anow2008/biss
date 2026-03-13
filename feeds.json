@@ -1,23 +1,5 @@
 [
     {
-        "key": "14 03 DE F5 CC 06 50 22",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11106 H 7200",
-        "id": "Fal3Enc1"
-    },
-    {
-        "key": "20 26 03 49 14 00 10 24",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12573 H 7200",
-        "id": "UKI-1484 main"
-    },
-    {
-        "key": "F2 34 AC D2 22 38 11 6B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12728 V 7200",
-        "id": "Cage Warriors"
-    },
-    {
         "key": "71 64 81 56 81 88 12 1B",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11071 H 7200",
@@ -76,5 +58,29 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11514 V 7200",
         "id": "E-95 MAIN"
+    },
+    {
+        "key": "BA BA 21 95 4B 23 78 E6",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11593 V 27000",
+        "id": "VISTA Encoder 3"
+    },
+    {
+        "key": "13 03 20 36 26 AD 26 F9",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11523 V 7200",
+        "id": "E-073 MAIN"
+    },
+    {
+        "key": "15 58 35 A2 71 42 63 16",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12602 V 7200",
+        "id": "POL 058_T1"
+    },
+    {
+        "key": "13 03 EF 05 AA 02 11 BD",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11062 H 9875",
+        "id": "FFBL Freibg.-Nuernbg"
     }
 ]
