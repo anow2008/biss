@@ -1,11 +1,5 @@
 [
     {
-        "key": "30 F4 34 58 90 DD 2E 9B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12552 H 14240",
-        "id": "Pitch International - M6N - France v England Unbranded"
-    },
-    {
         "key": "AB BA 20 85 25 20 26 6B",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12522 H 4938",
@@ -54,6 +48,12 @@
         "id": "GCUK Enc 4"
     },
     {
+        "key": "30 F4 34 58 90 DD 2E 9B",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "10847 V 7200",
+        "id": "F634/11.8/BRANDED FEED BU"
+    },
+    {
         "key": "E6 3E F8 1C 76 DD 14 67",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12687 V 7200",
@@ -76,5 +76,11 @@
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "11256 H 7200",
         "id": "ENC 12"
+    },
+    {
+        "key": "14 03 20 37 26 AD 26 F9",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11487 V 7200",
+        "id": "E-073 MAIN"
     }
 ]
