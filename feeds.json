@@ -1,17 +1,5 @@
 [
     {
-        "key": "A3 B9 C5 21 D8 E8 F9 B9",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12548 H 9600",
-        "id": "ITA 593 Feed2"
-    },
-    {
-        "key": "8F 98 1D 44 78 24 B2 4E",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12629 V 7200",
-        "id": "E-228 Main"
-    },
-    {
         "key": "AA CD 33 AA 27 CB AB 9D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10966 H 3333",
@@ -70,5 +58,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11592 V 27000",
         "id": "VISTA Encoder 3"
+    },
+    {
+        "key": "E6 71 AE 05 18 EA 91 93",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11107 H 7200",
+        "id": "Fi01 ACB"
     }
 ]
