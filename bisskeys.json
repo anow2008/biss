@@ -25,12 +25,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11081 H 9875",
-    "id": "GVA_Fi02",
-    "key": "89 9A C1 E4 E0 DF 0C CB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11469 V 7200",
     "id": "EGY-017-main",
     "key": "92 34 14 DA 03 DB AF 8D"
@@ -49,33 +43,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12551 H 14240",
+    "frequency": "12552 H 14240",
     "id": "Pitch International - M6N - France v England Unbranded",
     "key": "30 F4 34 58 90 DD 2E 9B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12650 H 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "11 A8 CB 84 DA 65 4A 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12687 V 7200",
-    "id": "ENC 2",
-    "key": "E6 3E F8 1C 76 DD 14 67"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12728 V 7200",
-    "id": "enc-22",
-    "key": "BE 20 14 F2 02 BB 26 E3"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10722 H 7200",
-    "id": "GCUK Enc 1",
-    "key": "E5 0F F1 E5 4D 03 14 64"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
@@ -91,7 +61,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11255 H 7200",
+    "frequency": "11256 H 7200",
     "id": "ENC 12",
     "key": "92 34 14 DA 03 DB AF 8D"
   },
