@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10987 V 7200",
-    "id": "ITA_491_WORLD FEED_ PIACENZA",
-    "key": "B8 19 AB 7C CD 0D 4A 24"
+    "frequency": "10978 V 7200",
+    "id": "E-95 MAIN",
+    "key": "4D E9 8F C5 F9 41 91 CB"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -25,9 +25,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11093 V 9875",
-    "id": "GVA_Fi03",
-    "key": "47 65 8C 38 8F B4 B6 F9"
+    "frequency": "11081 H 9875",
+    "id": "GVA_Fi02",
+    "key": "89 9A C1 E4 E0 DF 0C CB"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -43,6 +43,18 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12522 H 4938",
+    "id": "MNE-001 main",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12552 H 14240",
+    "id": "Pitch International - M6N - France v England Unbranded",
+    "key": "30 F4 34 58 90 DD 2E 9B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12650 H 7500",
     "id": "NLFLEV_HOL328-3",
     "key": "11 A8 CB 84 DA 65 4A 89"
@@ -55,27 +67,39 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12678 V 7200",
-    "id": "ENC 3",
-    "key": "26 CA CA BA 14 03 20 37"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12700 V 14240",
     "id": "M6N Wales v Italy",
     "key": "DF 66 AE F3 EC 14 03 03"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12728 V 7200",
-    "id": "enc-22",
-    "key": "BE 20 14 F2 02 BB 26 E3"
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10722 H 7200",
+    "id": "GCUK Enc 1",
+    "key": "E5 0F F1 E5 4D 03 14 64"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "01 8D EE 7C 41 D9 F0 0A"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10973 V 9600",
+    "id": "POL-141 ENC1",
+    "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
