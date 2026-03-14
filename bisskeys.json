@@ -1,21 +1,45 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10987 V 7200",
+    "id": "ITA_491_WORLD FEED_ PIACENZA",
+    "key": "B8 19 AB 7C CD 0D 4A 24"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11018 H 14400",
     "id": "GVA_Fi07",
     "key": "65 63 EF B7 32 ED 1F 3E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11514 V 7200",
-    "id": "Cage Warriors",
-    "key": "F2 34 AC D2 22 38 11 6B"
+    "frequency": "11022 V 9875",
+    "id": "D451_2M12_1",
+    "key": "3D 01 76 B4 D9 61 8C C6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11569 V 9875",
-    "id": "ENC-27",
-    "key": "A3 C9 8F FB B4 FC E1 91"
+    "frequency": "11062 H 7500",
+    "id": "M6N Wales v Italy Unbranded",
+    "key": "AA BB 20 85 26 03 AB D4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11093 V 9875",
+    "id": "GVA_Fi03",
+    "key": "47 65 8C 38 8F B4 B6 F9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11107 H 7200",
+    "id": "Fi01 ACB",
+    "key": "E6 71 AE 05 18 EA 91 93"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11514 V 7200",
+    "id": "Cage Warriors",
+    "key": "F2 34 AC D2 22 38 11 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -46,12 +70,6 @@
     "frequency": "12728 V 7200",
     "id": "enc-22",
     "key": "BE 20 14 F2 02 BB 26 E3"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "03 DE 85 66 33 77 D6 80"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
