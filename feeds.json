@@ -1,15 +1,21 @@
 [
     {
-        "key": "EE 77 12 77 34 BC 67 57",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12682 V 14240",
-        "id": "Pitch International - M6N - Ireland v Scotland - Unbranded"
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "12509 H 4938",
+        "id": "YSM-012 MAIN"
     },
     {
-        "key": "A3 C9 8F FB B4 FC E1 91",
+        "key": "14 03 DE F5 CC 06 50 22",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11190 H 7200",
+        "id": "NHL Hockey RK"
+    },
+    {
+        "key": "92 34 14 DA 03 DB AF 8D",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11569 V 9875",
-        "id": "ENC-27"
+        "frequency": "11469 V 7200",
+        "id": "EGY-017-main"
     },
     {
         "key": "03 DE 85 66 33 77 D6 80",
@@ -18,75 +24,27 @@
         "id": "OVERON 1"
     },
     {
-        "key": "83 73 E8 DE EA 12 F1 ED",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2"
-    },
-    {
-        "key": "40 F3 D7 0A 1D AE ED B8",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 1"
-    },
-    {
-        "key": "78 AE 39 5F 7A 7D 3C 33",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR MENA 1"
-    },
-    {
-        "key": "92 34 14 DA 03 DB AF 8D",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11264 H 7200",
-        "id": "ENC 10"
-    },
-    {
-        "key": "B8 E8 80 20 49 99 80 62",
+        "key": "A9 F3 C7 63 E2 B4 D6 6C",
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "10847 V 7200",
-        "id": "OFI VS OSFP A"
+        "frequency": "12611 V 7200",
+        "id": "SUI-44-3"
     },
     {
-        "key": "0A A1 B7 62 77 91 5E 66",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "10839 V 7200",
-        "id": "E 363 M"
+        "key": "F2 34 AC D2 22 38 11 6B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11514 V 7200",
+        "id": "Cage Warriors"
     },
     {
-        "key": "8F B1 30 70 BB AC 97 FE",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12601 V 7500",
-        "id": "E333 M"
+        "key": "A3 B9 C5 21 D8 E8 F9 B9",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12548 H 9600",
+        "id": "ITA 593 Feed2"
     },
     {
-        "key": "AA CD 33 AA 27 CB AB 9D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10969 H 3333",
-        "id": "DEFAULT"
-    },
-    {
-        "key": "20 25 AE F3 EA 52 02 3E",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10980 H 3600",
-        "id": "F1-2 4.5MH"
-    },
-    {
-        "key": "14 03 DE F5 CC 06 50 22",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11106 H 7200",
-        "id": "Fal3Enc1"
-    },
-    {
-        "key": "14 03 DC F3 BB 15 66 36",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11177 H 9875",
-        "id": "FFBL RB Leipzig"
-    },
-    {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12509 H 4938",
-        "id": "YSM-012 MAIN"
+        "key": "8F 98 1D 44 78 24 B2 4E",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12629 V 7200",
+        "id": "E-228 Main"
     }
 ]
