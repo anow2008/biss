@@ -1,29 +1,5 @@
 [
     {
-        "key": "40 F3 D7 0A 1D AE ED B8",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "vs Elche"
-    },
-    {
-        "key": "78 AE 39 5F 7A 7D 3C 33",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "vs Elche"
-    },
-    {
-        "key": "E5 0F F1 E5 4D 03 14 64",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10722 H 7200",
-        "id": "GCUK Enc 1"
-    },
-    {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10973 V 9600",
-        "id": "POL-141 ENC1"
-    },
-    {
         "key": "89 9A C1 E4 E0 DF 0C CB",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11081 H 9875",
@@ -82,5 +58,17 @@
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
         "frequency": "12593 V 7200",
         "id": "GCUK Enc 4"
+    },
+    {
+        "key": "E6 3E F8 1C 76 DD 14 67",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12687 V 7200",
+        "id": "ENC 2"
+    },
+    {
+        "key": "D8 08 4A 2A 89 21 34 DE",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11005 H 7200",
+        "id": "LK ENC 09"
     }
 ]
