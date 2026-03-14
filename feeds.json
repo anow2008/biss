@@ -1,11 +1,5 @@
 [
     {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12509 H 4938",
-        "id": "YSM-012 MAIN"
-    },
-    {
         "key": "14 03 DE F5 CC 06 50 22",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "11190 H 7200",
@@ -46,5 +40,29 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12629 V 7200",
         "id": "E-228 Main"
+    },
+    {
+        "key": "AA CD 33 AA 27 CB AB 9D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10966 H 3333",
+        "id": "DEFAULT"
+    },
+    {
+        "key": "20 26 BA 00 CA 14 03 E1",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11061 H 7200",
+        "id": "POL-100 Main"
+    },
+    {
+        "key": "23 33 F6 4C 1A F4 48 56",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR EASTERN 1"
+    },
+    {
+        "key": "AD 24 04 D5 40 27 EE 55",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10768 V 34000",
+        "id": "LIGA HYPERMOTION 1"
     }
 ]
