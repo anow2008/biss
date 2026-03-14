@@ -1,15 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10978 V 7200",
-    "id": "E-95 MAIN",
-    "key": "4D E9 8F C5 F9 41 91 CB"
+    "frequency": "10960 V 7200",
+    "id": "WSHT ENC 58",
+    "key": "44 B2 C8 BE 36 BA 33 23"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10987 V 7200",
-    "id": "ITA_491_WORLD FEED_ PIACENZA",
-    "key": "B8 19 AB 7C CD 0D 4A 24"
+    "frequency": "10978 V 7200",
+    "id": "E-95 MAIN",
+    "key": "4D E9 8F C5 F9 41 91 CB"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -19,9 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 V 9875",
-    "id": "D451_2M12_1",
-    "key": "3D 01 76 B4 D9 61 8C C6"
+    "frequency": "11005 H 7200",
+    "id": "LK ENC 09",
+    "key": "D8 08 4A 2A 89 21 34 DE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -49,25 +49,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11514 V 7200",
-    "id": "Cage Warriors",
-    "key": "F2 34 AC D2 22 38 11 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12510 V 7200",
     "id": "HBL Kiel",
     "key": "20 26 AB F1 DC 14 03 F3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12522 H 4938",
-    "id": "MNE-001 main",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12552 H 14240",
+    "frequency": "12551 H 14240",
     "id": "Pitch International - M6N - France v England Unbranded",
     "key": "30 F4 34 58 90 DD 2E 9B"
   },
@@ -76,12 +64,6 @@
     "frequency": "12650 H 7500",
     "id": "NLFLEV_HOL328-3",
     "key": "11 A8 CB 84 DA 65 4A 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12678 H 7200",
-    "id": "TUR 141",
-    "key": "6E C7 AD E2 04 FE 77 79"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
