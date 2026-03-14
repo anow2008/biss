@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10987 H 7120",
+    "id": "PITCH - EFL Leicester V QPR",
+    "key": "CC 27 32 25 59 25 2A A8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11001 H 14400",
+    "id": "GVA_Fi05",
+    "key": "14 96 69 13 C1 A1 4F B1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11081 V 9875",
+    "id": "NOR-044 - FEED A",
+    "key": "AA 7E BA E2 95 E1 19 8F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11514 V 7200",
+    "id": "Cage Warriors",
+    "key": "F2 34 AC D2 22 38 11 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12678 H 7200",
+    "id": "TUR 141",
+    "key": "6E C7 AD E2 04 FE 77 79"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12682 V 14240",
+    "id": "Pitch International - M6N - Ireland v Scotland - Unbranded",
+    "key": "EE 77 12 77 34 BC 67 57"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12700 V 14240",
+    "id": "M6N Wales v Italy",
+    "key": "DF 66 AE F3 EC 14 03 03"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "03 DE 85 66 33 77 D6 80"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "10839 V 7200",
+    "id": "E 363 M",
+    "key": "0A A1 B7 62 77 91 5E 66"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "12601 V 7500",
+    "id": "E333 M",
+    "key": "8F B1 30 70 BB AC 97 FE"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10969 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10980 H 3600",
+    "id": "F1-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11106 H 7200",
+    "id": "Fal3Enc1",
+    "key": "14 03 DE F5 CC 06 50 22"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11177 H 9875",
+    "id": "FFBL RB Leipzig",
+    "key": "14 03 DC F3 BB 15 66 36"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11190 H 7200",
+    "id": "NHL Hockey RK",
+    "key": "14 03 DE F5 CC 06 50 22"
+  }
+]
