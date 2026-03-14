@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10960 V 7200",
-    "id": "WSHT ENC 58",
-    "key": "44 B2 C8 BE 36 BA 33 23"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "01 8D EE 7C 41 D9 F0 0A"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10768 V 34000",
-    "id": "SUPPONOR EASTERN 1",
-    "key": "23 33 F6 4C 1A F4 48 56"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10965 H 3333",
     "id": "DEFAULT",
