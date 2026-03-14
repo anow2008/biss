@@ -1,80 +1,68 @@
 [
     {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "12556 H 4938",
-        "id": "YSM-012 MAIN"
-    },
-    {
-        "key": "13 03 4A 60 29 20 26 6F",
+        "key": "78 49 20 E1 A2 37 C9 A2",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11181 H 7200",
-        "id": "ENC 10"
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU"
     },
     {
-        "key": "AB 13 03 C1 20 26 BA 00",
+        "key": "11 A8 CB 84 DA 65 4A 89",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11514 V 7200",
-        "id": "E-95 MAIN"
+        "frequency": "12650 H 7500",
+        "id": "NLFLEV_HOL328-3"
     },
     {
-        "key": "BA BA 21 95 4B 23 78 E6",
+        "key": "14 03 20 37 26 FA CA EA",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11593 V 27000",
-        "id": "VISTA Encoder 3"
+        "frequency": "12687 H 7200",
+        "id": "E-289"
     },
     {
-        "key": "13 03 20 36 26 AD 26 F9",
+        "key": "6E C7 AD E2 04 FE 77 79",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12678 H 7200",
+        "id": "TUR 141"
+    },
+    {
+        "key": "CC 27 32 25 59 25 2A A8",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10987 H 7120",
+        "id": "PITCH - EFL Leicester V QPR"
+    },
+    {
+        "key": "14 03 20 37 26 AD 26 F9",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11523 V 7200",
         "id": "E-073 MAIN"
     },
     {
-        "key": "15 58 35 A2 71 42 63 16",
+        "key": "20 26 FE 44 ED 14 99 9A",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12602 V 7200",
-        "id": "POL 058_T1"
+        "frequency": "12720 V 4800",
+        "id": "DWTS"
     },
     {
-        "key": "13 03 EF 05 AA 02 11 BD",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11062 H 9875",
-        "id": "FFBL Freibg.-Nuernbg"
+        "key": "14 96 69 13 C1 A1 4F B1",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11001 H 14400",
+        "id": "GVA_Fi05"
     },
     {
-        "key": "20 26 AB F1 DC 13 03 F2",
+        "key": "AA 7E BA E2 95 E1 19 8F",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12510 V 7200",
-        "id": "HBL Melsungen"
+        "frequency": "11081 V 9875",
+        "id": "NOR-044 - FEED A"
     },
     {
-        "key": "C9 5C 16 3B CB CB 19 AF",
+        "key": "47 65 8C 38 8F B4 B6 F9",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11107 H 7200",
-        "id": "i390main"
-    },
-    {
-        "key": "9F C0 71 D0 DD 89 61 C7",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11022 V 9875",
+        "frequency": "11093 V 9875",
         "id": "GVA_Fi03"
     },
     {
-        "key": "F5 26 C3 DE 6B 32 59 F6",
+        "key": "DF 66 AE F3 EC 14 03 03",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10960 V 7120",
-        "id": "Pitch - EFL - Wrexham v Swansea"
-    },
-    {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10985 V 9600",
-        "id": "TVP POL-32  ENC 1"
-    },
-    {
-        "key": "78 49 20 E1 A2 37 C9 A2",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU"
+        "frequency": "11482 V 14240",
+        "id": "M6N Wales v Italy Unbranded"
     }
 ]
