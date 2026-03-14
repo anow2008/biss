@@ -1,17 +1,5 @@
 [
     {
-        "key": "14 03 DE F5 CC 06 50 22",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11190 H 7200",
-        "id": "NHL Hockey RK"
-    },
-    {
-        "key": "92 34 14 DA 03 DB AF 8D",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11469 V 7200",
-        "id": "EGY-017-main"
-    },
-    {
         "key": "03 DE 85 66 33 77 D6 80",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
@@ -64,5 +52,35 @@
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10768 V 34000",
         "id": "LIGA HYPERMOTION 1"
+    },
+    {
+        "key": "65 63 EF B7 32 ED 1F 3E",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11018 H 14400",
+        "id": "GVA_Fi07"
+    },
+    {
+        "key": "3D 01 76 B4 D9 61 8C C6",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11022 V 9875",
+        "id": "D451_2M12_1"
+    },
+    {
+        "key": "26 CA CA BA 14 03 20 37",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12678 V 7200",
+        "id": "ENC 3"
+    },
+    {
+        "key": "BE 20 14 F2 02 BB 26 E3",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12727 V 7200",
+        "id": "enc-22"
+    },
+    {
+        "key": "12 49 59 B4 C2 4F C3 D4",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 21"
     }
 ]
