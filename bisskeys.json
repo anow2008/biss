@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11001 H 14400",
-    "id": "GVA_Fi05",
-    "key": "14 96 69 13 C1 A1 4F B1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11081 V 9875",
     "id": "NOR-044 - FEED A",
     "key": "AA 7E BA E2 95 E1 19 8F"
@@ -49,19 +43,19 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "10839 V 7200",
-    "id": "E 363 M",
-    "key": "0A A1 B7 62 77 91 5E 66"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
     "frequency": "12601 V 7500",
     "id": "E333 M",
     "key": "8F B1 30 70 BB AC 97 FE"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10969 H 3333",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
@@ -73,19 +67,31 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11061 H 7200",
+    "id": "POL-100 Main",
+    "key": "20 26 BA 00 CA 14 03 E1"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11090 H 4938",
+    "id": "POL-100  Backup",
+    "key": "20 26 BA 00 CA 14 03 E1"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "11106 H 7200",
     "id": "Fal3Enc1",
     "key": "14 03 DE F5 CC 06 50 22"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11177 H 9875",
+    "frequency": "11176 H 9875",
     "id": "FFBL RB Leipzig",
     "key": "14 03 DC F3 BB 15 66 36"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11190 H 7200",
+    "frequency": "11189 H 7200",
     "id": "NHL Hockey RK",
     "key": "14 03 DE F5 CC 06 50 22"
   }
