@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10978 V 7200",
-    "id": "E-95 MAIN",
-    "key": "4D E9 8F C5 F9 41 91 CB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "10996 H 7200",
     "id": "LK_ENC_15",
     "key": "92 9A C1 ED 48 89 C6 97"
@@ -37,27 +31,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11098 H 7200",
-    "id": "VOLLEY_WORLD_MAIN",
-    "key": "A9 3C 63 48 2C AD E7 C0"
+    "frequency": "11469 V 7200",
+    "id": "EGY-017-main",
+    "key": "92 34 14 DA 03 DB AF 8D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11107 H 7200",
-    "id": "Fi01 ACB",
-    "key": "E6 71 AE 05 18 EA 91 93"
+    "frequency": "11487 V 7200",
+    "id": "E-073 MAIN",
+    "key": "14 03 20 37 26 AD 26 F9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11514 V 7200",
     "id": "Cage Warriors",
     "key": "F2 34 AC D2 22 38 11 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12510 V 7200",
-    "id": "HBL Kiel",
-    "key": "20 26 AB F1 DC 14 03 F3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -103,7 +91,13 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11264 H 7200",
+    "frequency": "11256 H 7200",
+    "id": "ENC 12",
+    "key": "92 34 14 DA 03 DB AF 8D"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "11265 H 7200",
     "id": "ENC 11",
     "key": "92 34 14 DA 03 DB AF 8D"
   },
@@ -112,12 +106,6 @@
     "frequency": "10838 V 7200",
     "id": "GCUK Enc 6",
     "key": "30 F4 34 58 90 DD 2E 9B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10965 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
@@ -133,20 +121,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10980 H 3600",
+    "id": "F1-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "11061 H 7200",
     "id": "POL-100 Main",
     "key": "20 26 BA 00 CA 14 03 E1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11090 H 4938",
-    "id": "POL-100  Backup",
-    "key": "20 26 BA 00 CA 14 03 E1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11106 H 7200",
-    "id": "Fal3Enc1",
-    "key": "14 03 DE F5 CC 06 50 22"
   }
 ]
