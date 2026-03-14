@@ -7,15 +7,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 V 9875",
-    "id": "D451_2M12_1",
-    "key": "3D 01 76 B4 D9 61 8C C6"
+    "frequency": "11514 V 7200",
+    "id": "Cage Warriors",
+    "key": "F2 34 AC D2 22 38 11 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11081 V 9875",
-    "id": "NOR-044 - FEED A",
-    "key": "AA 7E BA E2 95 E1 19 8F"
+    "frequency": "11569 V 9875",
+    "id": "ENC-27",
+    "key": "A3 C9 8F FB B4 FC E1 91"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -42,34 +42,22 @@
     "key": "DF 66 AE F3 EC 14 03 03"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12728 V 7200",
+    "id": "enc-22",
+    "key": "BE 20 14 F2 02 BB 26 E3"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
     "key": "03 DE 85 66 33 77 D6 80"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12601 V 7500",
-    "id": "E333 M",
-    "key": "8F B1 30 70 BB AC 97 FE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10970 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10980 H 3600",
-    "id": "F1-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
@@ -87,18 +75,6 @@
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "11106 H 7200",
     "id": "Fal3Enc1",
-    "key": "14 03 DE F5 CC 06 50 22"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11176 H 9875",
-    "id": "FFBL RB Leipzig",
-    "key": "14 03 DC F3 BB 15 66 36"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11189 H 7200",
-    "id": "NHL Hockey RK",
     "key": "14 03 DE F5 CC 06 50 22"
   }
 ]
