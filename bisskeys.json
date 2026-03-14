@@ -49,13 +49,19 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11514 V 7200",
+    "id": "Cage Warriors",
+    "key": "F2 34 AC D2 22 38 11 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12510 V 7200",
     "id": "HBL Kiel",
     "key": "20 26 AB F1 DC 14 03 F3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12551 H 14240",
+    "frequency": "12552 H 14240",
     "id": "Pitch International - M6N - France v England Unbranded",
     "key": "30 F4 34 58 90 DD 2E 9B"
   },
@@ -67,9 +73,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12678 V 7200",
-    "id": "ENC 3",
-    "key": "26 CA CA BA 14 03 20 37"
+    "frequency": "12687 V 7200",
+    "id": "ENC 2",
+    "key": "E6 3E F8 1C 76 DD 14 67"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
