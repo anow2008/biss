@@ -70,5 +70,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11005 H 7200",
         "id": "LK ENC 09"
+    },
+    {
+        "key": "F1 07 45 3D E6 CB AD 5E",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11523 V 7500",
+        "id": "ENC 1"
     }
 ]
