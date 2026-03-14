@@ -1,23 +1,5 @@
 [
     {
-        "key": "03 DE 85 66 33 77 D6 80",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1"
-    },
-    {
-        "key": "A9 F3 C7 63 E2 B4 D6 6C",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "12611 V 7200",
-        "id": "SUI-44-3"
-    },
-    {
-        "key": "F2 34 AC D2 22 38 11 6B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11514 V 7200",
-        "id": "Cage Warriors"
-    },
-    {
         "key": "A3 B9 C5 21 D8 E8 F9 B9",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12548 H 9600",
@@ -82,5 +64,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12736 V 7200",
         "id": "ENC 21"
+    },
+    {
+        "key": "BA BA 21 95 4B 23 78 E6",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11592 V 27000",
+        "id": "VISTA Encoder 3"
     }
 ]
