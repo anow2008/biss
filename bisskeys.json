@@ -6,36 +6,6 @@
     "key": "44 B2 C8 BE 36 BA 33 23"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11005 H 7200",
-    "id": "LK ENC 09",
-    "key": "D8 08 4A 2A 89 21 34 DE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11062 H 7500",
-    "id": "M6N Wales v Italy Unbranded",
-    "key": "AA BB 20 85 26 03 AB D4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11487 V 7200",
-    "id": "E-073 MAIN",
-    "key": "14 03 20 37 26 AD 26 F9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11514 V 7200",
-    "id": "Cage Warriors",
-    "key": "F2 34 AC D2 22 38 11 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12551 H 14240",
-    "id": "Pitch International - M6N - France v England Unbranded",
-    "key": "30 F4 34 58 90 DD 2E 9B"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
@@ -48,27 +18,9 @@
     "key": "23 33 F6 4C 1A F4 48 56"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11256 H 7200",
-    "id": "ENC 12",
-    "key": "92 34 14 DA 03 DB AF 8D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "10838 V 7200",
-    "id": "GCUK Enc 6",
-    "key": "30 F4 34 58 90 DD 2E 9B"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10970 H 3333",
+    "frequency": "10965 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11061 H 7200",
-    "id": "POL-100 Main",
-    "key": "20 26 BA 00 CA 14 03 E1"
   }
 ]
