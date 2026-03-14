@@ -1,9 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10987 H 7120",
-    "id": "PITCH - EFL Leicester V QPR",
-    "key": "CC 27 32 25 59 25 2A A8"
+    "frequency": "11018 H 14400",
+    "id": "GVA_Fi07",
+    "key": "65 63 EF B7 32 ED 1F 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11022 V 9875",
+    "id": "D451_2M12_1",
+    "key": "3D 01 76 B4 D9 61 8C C6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -13,9 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11514 V 7200",
-    "id": "Cage Warriors",
-    "key": "F2 34 AC D2 22 38 11 6B"
+    "frequency": "12650 H 7500",
+    "id": "NLFLEV_HOL328-3",
+    "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -25,9 +31,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12682 V 14240",
-    "id": "Pitch International - M6N - Ireland v Scotland - Unbranded",
-    "key": "EE 77 12 77 34 BC 67 57"
+    "frequency": "12678 V 7200",
+    "id": "ENC 3",
+    "key": "26 CA CA BA 14 03 20 37"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
