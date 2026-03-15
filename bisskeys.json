@@ -13,6 +13,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11180 H 7200",
+    "id": "ENC 12",
+    "key": "80 50 15 E5 03 EA D5 C2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11190 H 7200",
     "id": "ENC 11",
     "key": "80 50 15 E5 03 EA D5 C2"
@@ -25,9 +31,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12536 V 3600",
-    "id": "ENC 01",
-    "key": "20 26 E2 28 1E 15 03 36"
+    "frequency": "11505 V 7200",
+    "id": "TUN 009 MAIN",
+    "key": "80 50 15 E5 03 EA D5 C2"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
@@ -40,18 +46,6 @@
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
     "key": "B1 5C 85 92 E0 AA F5 7F"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11265 V 4800",
-    "id": "GUENEGAN",
-    "key": "20 26 FE 44 ED A0 A1 2E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11271 V 4800",
-    "id": "BOTTET / DECLA",
-    "key": "20 26 FE 44 ED A0 A1 2E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
