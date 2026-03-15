@@ -1,41 +1,5 @@
 [
     {
-        "key": "57 AD B8 BC D2 AD 2D AC",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1"
-    },
-    {
-        "key": "AF 3D D4 C0 FF C0 AC 6B",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2"
-    },
-    {
-        "key": "66 A1 97 9E DC 67 08 4B",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 1"
-    },
-    {
-        "key": "BF CB 71 FB 1D 9A 0C C3",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1"
-    },
-    {
-        "key": "15 03 AA C2 DE 14 97 89",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12542 V 7200",
-        "id": "Red Bull Salzburg"
-    },
-    {
-        "key": "20 26 FE 44 ED A0 A1 2E",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11266 V 4800",
-        "id": "GUENEGAN"
-    },
-    {
         "key": "C7 F8 3F FE 56 32 AE 36",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12737 V 7200",
@@ -76,5 +40,47 @@
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "11189 H 9875",
         "id": "Frauen FB"
+    },
+    {
+        "key": "F1 D0 45 06 1E 07 06 2B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11172 H 7200",
+        "id": "SNG ABC 1"
+    },
+    {
+        "key": "AB BA 20 85 25 20 26 6B",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12516 H 4938",
+        "id": "YSM-013M"
+    },
+    {
+        "key": "B3 C5 7F F7 4E 41 AA 39",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10987 H 7200",
+        "id": "VOLLEY_WORLD_MAIN"
+    },
+    {
+        "key": "99 F6 38 C7 06 87 AA 37",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11569 V 9875",
+        "id": "ENC-27"
+    },
+    {
+        "key": "8E C9 E9 40 54 CC CF EF",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11010 H 9875",
+        "id": "GVA_Fi04"
+    },
+    {
+        "key": "15 03 20 38 26 AD 26 F9",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11505 V 7200",
+        "id": "E-073 MAIN"
+    },
+    {
+        "key": "11 A8 CB 84 DA 65 4A 89",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12650 H 7500",
+        "id": "NLFLEV_HOL328-3"
     }
 ]
