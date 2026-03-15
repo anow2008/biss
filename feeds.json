@@ -1,48 +1,12 @@
 [
     {
-        "key": "E6 3E F8 1C 76 DD 14 67",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12687 V 7200",
-        "id": "ENC 2"
-    },
-    {
-        "key": "44 B2 C8 BE 36 BA 33 23",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12737 V 7200",
-        "id": "UFC Fight Night 4 : All Fights"
-    },
-    {
-        "key": "D8 08 4A 2A 89 21 34 DE",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11005 H 7200",
-        "id": "LK ENC 09"
-    },
-    {
-        "key": "F1 07 45 3D E6 CB AD 5E",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11523 V 7500",
-        "id": "ENC 1"
-    },
-    {
-        "key": "92 34 14 DA 03 DB AF 8D",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11256 H 7200",
-        "id": "ENC 12"
-    },
-    {
-        "key": "14 03 20 37 26 AD 26 F9",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11487 V 7200",
-        "id": "E-073 MAIN"
-    },
-    {
         "key": "57 AD B8 BC D2 AD 2D AC",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
         "id": "OVERON 1"
     },
     {
-        "key": "97 45 67 43 05 FC 43 44",
+        "key": "AF 3D D4 C0 FF C0 AC 6B",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "10732 V 34000",
         "id": "OVERON 2"
@@ -60,27 +24,57 @@
         "id": "LIGA HYPERMOTION 1"
     },
     {
-        "key": "41 B7 A1 99 84 C1 4A 8F",
+        "key": "15 03 AA C2 DE 14 97 89",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11496 V 7500",
-        "id": "AFD"
+        "frequency": "12542 V 7200",
+        "id": "Red Bull Salzburg"
     },
     {
-        "key": "DD AA EE 75 BB 15 03 D3",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11514 V 7500",
-        "id": "Womens Australian Open"
+        "key": "20 26 FE 44 ED A0 A1 2E",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "11266 V 4800",
+        "id": "GUENEGAN"
     },
     {
-        "key": "AA BB 20 85 26 03 AD D6",
+        "key": "C7 F8 3F FE 56 32 AE 36",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11062 H 7500",
-        "id": "QTR Finals 4 - Venezuala vs Japan"
+        "frequency": "12737 V 7200",
+        "id": "ENC 2"
     },
     {
-        "key": "45 2F 01 75 5D 66 B3 76",
+        "key": "DF 78 06 5D 50 22 01 73",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11053 V 7200",
-        "id": "Adhoc Enc 9"
+        "frequency": "10996 H 7200",
+        "id": "OER/F525/1/PN2026/MAIN"
+    },
+    {
+        "key": "DC 55 F3 24 12 FB BC C9",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "11186 V 7200",
+        "id": "GCUK Enc 4"
+    },
+    {
+        "key": "0A A1 B7 62 77 91 5E 66",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "10839 V 7200",
+        "id": "E 363 M"
+    },
+    {
+        "key": "AA CD 33 AA 27 CB AB 9D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10969 H 3333",
+        "id": "DEFAULT"
+    },
+    {
+        "key": "AB BA 26 8B DC AE 03 8D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10973 V 9600",
+        "id": "pol-053_enc2"
+    },
+    {
+        "key": "15 03 BB D3 AA 90 01 3B",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11189 H 9875",
+        "id": "Frauen FB"
     }
 ]
