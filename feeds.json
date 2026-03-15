@@ -1,17 +1,5 @@
 [
     {
-        "key": "15 03 20 38 26 AD 26 F9",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11505 V 7200",
-        "id": "E-073 MAIN"
-    },
-    {
-        "key": "11 A8 CB 84 DA 65 4A 89",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12650 H 7500",
-        "id": "NLFLEV_HOL328-3"
-    },
-    {
         "key": "73 CD 25 65 74 83 CF C6",
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "11264 H 7200",
@@ -94,5 +82,17 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11021 H 9875",
         "id": "GVA_Fi03"
+    },
+    {
+        "key": "BA BA 21 95 4B 23 78 E6",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11593 V 27000",
+        "id": "eo | 4:2:0 | 25 FPS | 33.63 Mbit/s"
+    },
+    {
+        "key": "33 C9 6A 66 7B 53 AF 7D",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "11273 H 7200",
+        "id": "Encoder 3"
     }
 ]
