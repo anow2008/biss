@@ -1,39 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10969 H 7200",
-    "id": "LEUK_Fi04",
-    "key": "0C 0A FF 15 8A B9 23 66"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10987 H 7200",
-    "id": "VOLLEY_WORLD_MAIN",
-    "key": "B3 C5 7F F7 4E 41 AA 39"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11021 H 9875",
     "id": "GVA_Fi03",
     "key": "CC 14 9A 7A BC 4D 83 8C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 V 9875",
-    "id": "GVA_Fi07_GC1_AM",
-    "key": "78 98 7F 8F 6F 73 4F 31"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11045 V 9875",
-    "id": "GVA_Fi06",
-    "key": "24 3D FB 5C 86 E9 A7 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11069 V 9875",
-    "id": "GVA_Fi02_GC2_EMEA",
-    "key": "EE 67 43 98 D1 02 68 3B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -79,14 +49,14 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11264 H 7200",
-    "id": "Encoder 2",
-    "key": "73 CD 25 65 74 83 CF C6"
+    "frequency": "11265 V 4800",
+    "id": "GUENEGAN",
+    "key": "20 26 FE 44 ED A0 A1 2E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "11265 V 4800",
-    "id": "GUENEGAN",
+    "frequency": "11271 V 4800",
+    "id": "BOTTET / DECLA",
     "key": "20 26 FE 44 ED A0 A1 2E"
   },
   {
