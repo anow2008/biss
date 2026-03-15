@@ -1,21 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10969 H 7200",
-    "id": "LEUK_Fi04",
-    "key": "0C 0A FF 15 8A B9 23 66"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "10978 H 7200",
     "id": "WSHT ENC 58",
     "key": "D8 A5 AD 2A 96 FA 57 E7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11021 H 9875",
-    "id": "GVA_Fi03",
-    "key": "CC 14 9A 7A BC 4D 83 8C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -25,9 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11107 H 7200",
-    "id": "Fi01 ACB",
-    "key": "03 17 AC C6 34 F8 34 60"
+    "frequency": "11190 H 7200",
+    "id": "ENC 11",
+    "key": "80 50 15 E5 03 EA D5 C2"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -40,18 +28,6 @@
     "frequency": "12536 V 3600",
     "id": "ENC 01",
     "key": "20 26 E2 28 1E 15 03 36"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12629 V 7200",
-    "id": "F560 EQUIPE",
-    "key": "20 26 E2 28 1E 15 03 36"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12650 H 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
