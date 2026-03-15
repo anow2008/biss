@@ -1,17 +1,5 @@
 [
     {
-        "key": "99 F6 38 C7 06 87 AA 37",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11569 V 9875",
-        "id": "ENC-27"
-    },
-    {
-        "key": "8E C9 E9 40 54 CC CF EF",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11010 H 9875",
-        "id": "GVA_Fi04"
-    },
-    {
         "key": "15 03 20 38 26 AD 26 F9",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11505 V 7200",
@@ -88,5 +76,23 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11553 V 7200",
         "id": "E-228 Main"
+    },
+    {
+        "key": "D0 31 5E 5F 50 FF 14 63",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10722 H 7200",
+        "id": "GCUK Enc 1"
+    },
+    {
+        "key": "15 03 BB D3 AA 90 01 3B",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "11177 H 9875",
+        "id": "Frauen FB"
+    },
+    {
+        "key": "CC 14 9A 7A BC 4D 83 8C",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11021 H 9875",
+        "id": "GVA_Fi03"
     }
 ]
