@@ -7,15 +7,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 V 9875",
-    "id": "GVA_Fi07_GC1_AM",
-    "key": "78 98 7F 8F 6F 73 4F 31"
+    "frequency": "10996 H 7200",
+    "id": "OER/F525/1/PN2026/MAIN",
+    "key": "DF 78 06 5D 50 22 01 73"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 H 9875",
+    "frequency": "11010 H 9875",
+    "id": "GVA_Fi04",
+    "key": "8E C9 E9 40 54 CC CF EF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11021 H 9875",
     "id": "GVA_Fi03",
     "key": "76 F7 BC 29 8C 92 F7 15"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11022 V 9875",
+    "id": "GVA_Fi07_GC1_AM",
+    "key": "78 98 7F 8F 6F 73 4F 31"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -37,33 +49,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11505 V 7200",
-    "id": "TUN 009 MAIN",
-    "key": "80 50 15 E5 03 EA D5 C2"
+    "frequency": "11569 V 9875",
+    "id": "ENC-27",
+    "key": "99 F6 38 C7 06 87 AA 37"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12510 V 7200",
-    "id": "ENC 3",
-    "key": "6C 86 51 43 ED 9B 3C C4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12542 V 7200",
-    "id": "Red Bull Salzburg",
-    "key": "15 03 AA C2 DE 14 97 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12678 H 7200",
-    "id": "TUR 141",
-    "key": "0C 0A FF 15 8A B9 23 66"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "57 AD B8 BC D2 AD 2D AC"
+    "frequency": "12641 H 7200",
+    "id": "D-331 TX1",
+    "key": "15 03 DC F4 BA 20 26 00"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
