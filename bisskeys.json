@@ -1,8 +1,14 @@
 [
   {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10965 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10960 V 7200",
+    "id": "WSHT ENC 58",
+    "key": "44 B2 C8 BE 36 BA 33 23"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11062 H 7500",
+    "id": "QTR Finals 4 - Venezuala vs Japan",
+    "key": "AA BB 20 85 26 03 AD D6"
   }
 ]
