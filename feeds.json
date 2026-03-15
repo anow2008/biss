@@ -1,17 +1,5 @@
 [
     {
-        "key": "AB BA 26 8B DC AE 03 8D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10973 V 9600",
-        "id": "pol-053_enc2"
-    },
-    {
-        "key": "15 03 BB D3 AA 90 01 3B",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "11189 H 9875",
-        "id": "Frauen FB"
-    },
-    {
         "key": "F1 D0 45 06 1E 07 06 2B",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11172 H 7200",
@@ -70,5 +58,29 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12629 V 7200",
         "id": "F560 EQUIPE"
+    },
+    {
+        "key": "20 26 AB F1 DC 15 03 F4",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12510 V 7200",
+        "id": "HBL Fuechse Berlin"
+    },
+    {
+        "key": "95 4B 42 22 CD 42 76 85",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12696 V 7120",
+        "id": "F560 RUGBY INTER"
+    },
+    {
+        "key": "03 17 AC C6 34 F8 34 60",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11107 H 7200",
+        "id": "Fi01 ACB"
+    },
+    {
+        "key": "15 58 35 A2 71 42 63 16",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12602 V 7200",
+        "id": "POL-103 main"
     }
 ]
