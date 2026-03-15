@@ -1,27 +1,15 @@
 [
     {
-        "key": "73 CD 25 65 74 83 CF C6",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11264 H 7200",
-        "id": "Encoder 2"
-    },
-    {
-        "key": "0C 0A FF 15 8A B9 23 66",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10969 H 7200",
-        "id": "LEUK_Fi04"
-    },
-    {
-        "key": "20 26 E2 28 1E 15 03 36",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12629 V 7200",
-        "id": "F560 EQUIPE"
-    },
-    {
         "key": "20 26 AB F1 DC 15 03 F4",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12510 V 7200",
         "id": "HBL Fuechse Berlin"
+    },
+    {
+        "key": "20 26 E2 28 1E 15 03 36",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12536 V 3600",
+        "id": "ENC 01"
     },
     {
         "key": "95 4B 42 22 CD 42 76 85",
@@ -94,5 +82,23 @@
         "satellite": "Eutelsat 10A @ 10.0E",
         "frequency": "11273 H 7200",
         "id": "Encoder 3"
+    },
+    {
+        "key": "2B F9 A6 CA 6A AA CF E3",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU"
+    },
+    {
+        "key": "D8 A5 AD 2A 96 FA 57 E7",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10978 H 7200",
+        "id": "WSHT ENC 58"
+    },
+    {
+        "key": "80 50 15 E5 03 EA D5 C2",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11505 V 7200",
+        "id": "TUN 009 MAIN"
     }
 ]
