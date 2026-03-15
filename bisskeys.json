@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10960 V 7200",
-    "id": "WSHT ENC 58",
-    "key": "44 B2 C8 BE 36 BA 33 23"
+    "frequency": "11053 V 7200",
+    "id": "Adhoc Enc 9",
+    "key": "45 2F 01 75 5D 66 B3 76"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
