@@ -1,41 +1,5 @@
 [
     {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12522 H 4938",
-        "id": "MNE-001 main"
-    },
-    {
-        "key": "4D E9 8F C5 F9 41 91 CB",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10978 V 7200",
-        "id": "E-95 MAIN"
-    },
-    {
-        "key": "20 26 AB F1 DC 14 03 F3",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12510 V 7200",
-        "id": "HBL Kiel"
-    },
-    {
-        "key": "63 38 67 02 E6 C5 87 32",
-        "satellite": "Eutelsat 10A @ 10.0E",
-        "frequency": "11273 H 7200",
-        "id": "Encoder 1"
-    },
-    {
-        "key": "A9 3C 63 48 2C AD E7 C0",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11098 H 7200",
-        "id": "VOLLEY_WORLD_MAIN"
-    },
-    {
-        "key": "92 9A C1 ED 48 89 C6 97",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10996 H 7200",
-        "id": "LK_ENC_15"
-    },
-    {
         "key": "44 B2 C8 BE 36 BA 33 23",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "10960 V 7200",
@@ -82,5 +46,41 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11487 V 7200",
         "id": "E-073 MAIN"
+    },
+    {
+        "key": "57 AD B8 BC D2 AD 2D AC",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1"
+    },
+    {
+        "key": "97 45 67 43 05 FC 43 44",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2"
+    },
+    {
+        "key": "66 A1 97 9E DC 67 08 4B",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1"
+    },
+    {
+        "key": "BF CB 71 FB 1D 9A 0C C3",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1"
+    },
+    {
+        "key": "41 B7 A1 99 84 C1 4A 8F",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11496 V 7500",
+        "id": "AFD"
+    },
+    {
+        "key": "DD AA EE 75 BB 15 03 D3",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11514 V 7500",
+        "id": "Womens Australian Open"
     }
 ]
