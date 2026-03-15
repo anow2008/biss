@@ -1,35 +1,5 @@
 [
     {
-        "key": "C7 F8 3F FE 56 32 AE 36",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12737 V 7200",
-        "id": "ENC 2"
-    },
-    {
-        "key": "DF 78 06 5D 50 22 01 73",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10996 H 7200",
-        "id": "OER/F525/1/PN2026/MAIN"
-    },
-    {
-        "key": "DC 55 F3 24 12 FB BC C9",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "11186 V 7200",
-        "id": "GCUK Enc 4"
-    },
-    {
-        "key": "0A A1 B7 62 77 91 5E 66",
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-        "frequency": "10839 V 7200",
-        "id": "E 363 M"
-    },
-    {
-        "key": "AA CD 33 AA 27 CB AB 9D",
-        "satellite": "Eutelsat 16A @ 16.0E",
-        "frequency": "10969 H 3333",
-        "id": "DEFAULT"
-    },
-    {
         "key": "AB BA 26 8B DC AE 03 8D",
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10973 V 9600",
@@ -82,5 +52,23 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12650 H 7500",
         "id": "NLFLEV_HOL328-3"
+    },
+    {
+        "key": "73 CD 25 65 74 83 CF C6",
+        "satellite": "Eutelsat 10A @ 10.0E",
+        "frequency": "11264 H 7200",
+        "id": "Encoder 2"
+    },
+    {
+        "key": "0C 0A FF 15 8A B9 23 66",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "10969 H 7200",
+        "id": "LEUK_Fi04"
+    },
+    {
+        "key": "20 26 E2 28 1E 15 03 36",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "12629 V 7200",
+        "id": "F560 EQUIPE"
     }
 ]
