@@ -1,11 +1,5 @@
 [
     {
-        "key": "20 26 AB F1 DC 15 03 F4",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12510 V 7200",
-        "id": "HBL Fuechse Berlin"
-    },
-    {
         "key": "20 26 E2 28 1E 15 03 36",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12536 V 3600",
@@ -100,5 +94,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11505 V 7200",
         "id": "TUN 009 MAIN"
+    },
+    {
+        "key": "41 B7 A1 99 84 C1 4A 8F",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11496 V 7500",
+        "id": "AFD"
     }
 ]
