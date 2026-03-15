@@ -1,11 +1,5 @@
 [
     {
-        "key": "B3 C5 7F F7 4E 41 AA 39",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "10987 H 7200",
-        "id": "VOLLEY_WORLD_MAIN"
-    },
-    {
         "key": "99 F6 38 C7 06 87 AA 37",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "11569 V 9875",
@@ -88,5 +82,11 @@
         "satellite": "Eutelsat 16A @ 16.0E",
         "frequency": "10965 H 3333",
         "id": "DEFAULT"
+    },
+    {
+        "key": "15 03 20 38 26 FA CA EA",
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+        "frequency": "11553 V 7200",
+        "id": "E-228 Main"
     }
 ]
