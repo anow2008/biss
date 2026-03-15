@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10987 H 7200",
+    "id": "VOLLEY_WORLD_MAIN",
+    "key": "B3 C5 7F F7 4E 41 AA 39"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11022 V 9875",
+    "id": "GVA_Fi07_GC1_AM",
+    "key": "78 98 7F 8F 6F 73 4F 31"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11022 H 9875",
+    "id": "GVA_Fi03",
+    "key": "76 F7 BC 29 8C 92 F7 15"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11045 V 9875",
+    "id": "GVA_Fi06",
+    "key": "24 3D FB 5C 86 E9 A7 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11069 V 9875",
+    "id": "GVA_Fi02_GC2_EMEA",
+    "key": "EE 67 43 98 D1 02 68 3B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11081 V 9875",
+    "id": "NOR-044 - FEED A",
+    "key": "2E 5C 27 B1 CA BC 5F E5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11505 V 7200",
+    "id": "TUN 009 MAIN",
+    "key": "80 50 15 E5 03 EA D5 C2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12510 V 7200",
+    "id": "ENC 3",
+    "key": "6C 86 51 43 ED 9B 3C C4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12542 V 7200",
+    "id": "Red Bull Salzburg",
+    "key": "15 03 AA C2 DE 14 97 89"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12678 H 7200",
+    "id": "TUR 141",
+    "key": "0C 0A FF 15 8A B9 23 66"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "57 AD B8 BC D2 AD 2D AC"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "11266 V 4800",
+    "id": "GUENEGAN",
+    "key": "20 26 FE 44 ED A0 A1 2E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+    "frequency": "10839 V 7200",
+    "id": "E 363 M",
+    "key": "0A A1 B7 62 77 91 5E 66"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10969 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10973 V 9600",
+    "id": "pol-053_enc2",
+    "key": "AB BA 26 8B DC AE 03 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10985 V 9600",
+    "id": "TVP POL-32  ENC 1",
+    "key": "AB BA 26 8B DC AE 03 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11021 V 9600",
+    "id": "POL 48 ENC1",
+    "key": "AB BA 26 8B DC AE 03 8D"
+  }
+]
