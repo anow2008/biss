@@ -1,17 +1,5 @@
 [
     {
-        "key": "F1 D0 45 06 1E 07 06 2B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "11172 H 7200",
-        "id": "SNG ABC 1"
-    },
-    {
-        "key": "AB BA 20 85 25 20 26 6B",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12516 H 4938",
-        "id": "YSM-013M"
-    },
-    {
         "key": "B3 C5 7F F7 4E 41 AA 39",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "10987 H 7200",
@@ -82,5 +70,23 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12602 V 7200",
         "id": "POL-103 main"
+    },
+    {
+        "key": "FD 8C 24 AD A9 0F 6D 25",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "10829 V 7200",
+        "id": "ATRO VS AEK A"
+    },
+    {
+        "key": "42 51 8D 20 B7 98 A4 F3",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
+        "frequency": "12592 V 7500",
+        "id": "E333 M"
+    },
+    {
+        "key": "AA CD 33 AA 27 CB AB 9D",
+        "satellite": "Eutelsat 16A @ 16.0E",
+        "frequency": "10965 H 3333",
+        "id": "DEFAULT"
     }
 ]
