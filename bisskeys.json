@@ -1,14 +1,1 @@
-[
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11053 V 7200",
-    "id": "Adhoc Enc 9",
-    "key": "45 2F 01 75 5D 66 B3 76"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11062 H 7500",
-    "id": "QTR Finals 4 - Venezuala vs Japan",
-    "key": "AA BB 20 85 26 03 AD D6"
-  }
-]
+[]
