@@ -1,15 +1,27 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11190 H 7200",
-        "id": "ENC 11",
-        "key": "80 50 15 E5 03 EA D5 C2"
+        "frequency": "11062 H 7500",
+        "id": "WBC Semi Final 1",
+        "key": "AA BB 20 85 26 03 AD D6"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11496 V 7500",
+        "frequency": "11523 V 7500",
         "id": "AFD",
         "key": "41 B7 A1 99 84 C1 4A 8F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12728 V 7500",
+        "id": "ENC 21",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11190 H 7200",
+        "id": "ENC 11",
+        "key": "80 50 15 E5 03 EA D5 C2"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
@@ -76,23 +88,5 @@
         "frequency": "10829 V 7200",
         "id": "ATRO VS AEK A",
         "key": "FD 8C 24 AD A9 0F 6D 25"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12602 V 7200",
-        "id": "POL-103 main",
-        "key": "15 58 35 A2 71 42 63 16"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11107 H 7200",
-        "id": "Fi01 ACB",
-        "key": "03 17 AC C6 34 F8 34 60"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12696 V 7120",
-        "id": "F560 RUGBY INTER",
-        "key": "95 4B 42 22 CD 42 76 85"
     }
 ]
