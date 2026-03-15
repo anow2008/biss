@@ -13,6 +13,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11021 H 9875",
+    "id": "GVA_Fi03",
+    "key": "CC 14 9A 7A BC 4D 83 8C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11022 V 9875",
     "id": "GVA_Fi07_GC1_AM",
     "key": "78 98 7F 8F 6F 73 4F 31"
@@ -31,9 +37,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11107 H 7200",
-    "id": "Fi01 ACB",
-    "key": "03 17 AC C6 34 F8 34 60"
+    "frequency": "11553 V 7200",
+    "id": "E-228 Main",
+    "key": "15 03 20 38 26 FA CA EA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -60,16 +66,16 @@
     "key": "0C 0A FF 15 8A B9 23 66"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12687 V 7120",
-    "id": "U20 6N Ireland v Scotland",
-    "key": "B7 00 12 C9 34 43 21 98"
+    "satellite": "Eutelsat 10A @ 10.0E",
+    "frequency": "10722 H 7200",
+    "id": "GCUK Enc 1",
+    "key": "D0 31 5E 5F 50 FF 14 63"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
-    "key": "57 AD B8 BC D2 AD 2D AC"
+    "key": "B1 5C 85 92 E0 AA F5 7F"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0E",
@@ -106,5 +112,17 @@
     "frequency": "10985 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 03 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11021 V 9600",
+    "id": "POL 48 ENC1",
+    "key": "AB BA 26 8B DC AE 03 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "11177 H 9875",
+    "id": "Frauen FB",
+    "key": "15 03 BB D3 AA 90 01 3B"
   }
 ]
