@@ -1,11 +1,5 @@
 [
     {
-        "key": "20 26 E2 28 1E 15 03 36",
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-        "frequency": "12536 V 3600",
-        "id": "ENC 01"
-    },
-    {
         "key": "95 4B 42 22 CD 42 76 85",
         "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
         "frequency": "12696 V 7120",
