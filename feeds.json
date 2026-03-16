@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11062 H 7500",
+        "id": "WBC Semi Final 1",
+        "key": "AA BB 20 85 26 03 AD D6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12736 V 7200",
         "id": "ENC 2",
         "key": "12 3C AA F8 14 22 A3 D9"
@@ -52,11 +58,5 @@
         "frequency": "10732 V 34000",
         "id": "OVERON 1",
         "key": "5D 35 69 FB 76 DC C0 12"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11593 V 27000",
-        "id": "eo  420  25 FPS  33.15 Mbit/s",
-        "key": "BA BA 21 95 4B 23 78 E6"
     }
 ]
