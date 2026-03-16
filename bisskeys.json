@@ -1,18 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10959 V 4938",
-    "id": "SNG 05 -  CHAIN A",
-    "key": "37 9C 91 64 25 1A 66 A5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11592 V 27000",
-    "id": "VISTA Encoder 3",
-    "key": "BA BA 21 95 4B 23 78 E6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12593 V 7200",
     "id": "POL 058_T1",
     "key": "20 26 A9 EF 97 AB DA 1C"
