@@ -1,15 +1,27 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12593 V 7200",
-        "id": "POL 058_T1",
-        "key": "20 26 A9 EF 97 AB DA 1C"
+        "frequency": "12677 H 7200",
+        "id": "E-228 Main",
+        "key": "AB BA 16 7B 03 20 26 49"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12687 H 7200",
+        "id": "",
+        "key": "B6 A5 F4 4F E3 D2 C1 76"
     },
     {
         "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10970 H 3333",
+        "frequency": "10966 H 3333",
         "id": "DEFAULT",
         "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12593 V 7200",
+        "id": "POL 058_T1",
+        "key": "20 26 A9 EF 97 AB DA 1C"
     },
     {
         "satellite": "Eutelsat 10A  10.0E",
@@ -40,29 +52,5 @@
         "frequency": "10959 V 4938",
         "id": "SNG 05 -  CHAIN A",
         "key": "37 9C 91 64 25 1A 66 A5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11523 V 7500",
-        "id": "AFD",
-        "key": "41 B7 A1 99 84 C1 4A 8F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11062 H 7500",
-        "id": "WBC Semi Final 1",
-        "key": "AA BB 20 85 26 03 AD D6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "2B F9 A6 CA 6A AA CF E3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11180 H 7200",
-        "id": "ENC 12",
-        "key": "80 50 15 E5 03 EA D5 C2"
     }
 ]
