@@ -6,9 +6,9 @@
     "key": "37 9C 91 64 25 1A 66 A5"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11044 V 7200",
-    "id": "SNG 02 - Chain A",
-    "key": "C1 95 E0 36 94 B3 F2 39"
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
