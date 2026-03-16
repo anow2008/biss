@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11023 H 7200",
+        "id": "WSHT ENC52",
+        "key": "26 AE 82 56 51 56 EE 95"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11062 H 7500",
         "id": "WBC Semi Final 1",
         "key": "AA BB 20 85 26 03 AD D6"
