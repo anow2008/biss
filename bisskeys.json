@@ -1,8 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12593 V 7200",
-    "id": "POL 058_T1",
-    "key": "20 26 A9 EF 97 AB DA 1C"
+    "frequency": "10960 H 7120",
+    "id": "Pitch Portsmouth v Derby C",
+    "key": "3A 7A 25 D9 A2 26 8A 52"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
