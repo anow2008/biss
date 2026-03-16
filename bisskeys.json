@@ -19,15 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11189 H 7200",
-    "id": "ENC 11",
-    "key": "80 50 15 E5 03 EA D5 C2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11505 V 7200",
-    "id": "TUN 009 MAIN",
-    "key": "80 50 15 E5 03 EA D5 C2"
+    "frequency": "11514 V 7500",
+    "id": "AFD",
+    "key": "41 B7 A1 99 84 C1 4A 8F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
