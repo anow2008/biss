@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10970 H 3333",
+        "id": "DEFAULT",
+        "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "10732 V 34000",
         "id": "LIGA HYPERMOTION 1",
@@ -14,8 +20,20 @@
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11593 V 27000",
-        "id": "eo  420  25 FPS  33.49 Mbit/s",
+        "id": "eo  420  25 FPS  33.15 Mbit/s",
         "key": "BA BA 21 95 4B 23 78 E6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11044 V 7200",
+        "id": "SNG 02 - Chain A",
+        "key": "C1 95 E0 36 94 B3 F2 39"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10959 V 4938",
+        "id": "SNG 05 -  CHAIN A",
+        "key": "37 9C 91 64 25 1A 66 A5"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
@@ -40,23 +58,5 @@
         "frequency": "11180 H 7200",
         "id": "ENC 12",
         "key": "80 50 15 E5 03 EA D5 C2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12728 V 7500",
-        "id": "ENC 21",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10978 H 7200",
-        "id": "WSHT ENC 58",
-        "key": "D8 A5 AD 2A 96 FA 57 E7"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11273 H 7200",
-        "id": "Encoder 3",
-        "key": "33 C9 6A 66 7B 53 AF 7D"
     }
 ]
