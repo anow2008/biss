@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10959 V 4938",
+    "id": "SNG 05 -  CHAIN A",
+    "key": "37 9C 91 64 25 1A 66 A5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11044 V 7200",
+    "id": "SNG 02 - Chain A",
+    "key": "C1 95 E0 36 94 B3 F2 39"
+  }
+]
