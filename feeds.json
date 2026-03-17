@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "Service1",
+        "key": "F6 92 8E 16 17 89 82 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11023 H 7200",
         "id": "WSHT ENC52",
         "key": "26 AE 82 56 51 56 EE 95"
@@ -58,11 +64,5 @@
         "frequency": "10732 V 34000",
         "id": "LIGA HYPERMOTION 1",
         "key": "80 B1 68 99 64 B0 82 96"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "5D 35 69 FB 76 DC C0 12"
     }
 ]
