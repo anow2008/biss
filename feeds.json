@@ -1,9 +1,33 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11019 H 4830",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "6F 77 E4 CA 2E FC 44 6E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12634 V 17140",
+        "id": "",
+        "key": "AA 12 BB 77 11 22 34 67"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11102 V 17140",
+        "id": "C Chelsea v PSG",
+        "key": "BB AA 85 EA 46 CA BA CA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11013 H 4830",
         "id": "Unname",
         "key": "A1 E1 F6 78 90 2E DE 9C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12728 V 7200",
+        "id": "OB-09 A",
+        "key": "4E 5B 29 D2 6D D1 9A D8"
     },
     {
         "satellite": "Eutelsat 16A  16.0E",
@@ -40,23 +64,5 @@
         "frequency": "12705 V 7200",
         "id": "TUR 141",
         "key": "C9 FE 79 40 11 62 CA 3D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "HapoelTelA vs.ParisBask BUL006 1",
-        "key": "AA A7 3A 8B 99 23 85 41"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "Service1",
-        "key": "F6 92 8E 16 17 89 82 22"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11023 H 7200",
-        "id": "WSHT ENC52",
-        "key": "26 AE 82 56 51 56 EE 95"
     }
 ]
