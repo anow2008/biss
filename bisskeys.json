@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10998 H 9875",
-    "id": "LEUK_Fi01",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11062 H 7500",
     "id": "WBC Semi Final 1",
     "key": "AA BB 20 85 26 03 AD D6"
