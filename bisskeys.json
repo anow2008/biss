@@ -1,8 +1,20 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10996 V 7200",
+    "id": "LK ENC 10",
+    "key": "06 44 DE 28 70 57 FF C6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "10998 H 9875",
     "id": "LEUK_Fi01",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11013 H 4830",
+    "id": "Unname",
     "key": "A1 E1 F6 78 90 2E DE 9C"
   },
   {
@@ -19,25 +31,25 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11189 H 7200",
-    "id": "E-411_via 2",
-    "key": "FF 18 ED 04 19 ED 95 9B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12634 V 17140",
     "id": "Canal Plus Test",
     "key": "AA 12 BB 77 11 22 34 67"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12647 V 7200",
-    "id": "ITA 790 WORLD FEED MODENA",
-    "key": "51 08 7D D6 C8 34 79 75"
+    "frequency": "12656 V 7120",
+    "id": "EFL Barnsley v Wigan Ath",
+    "key": "43 92 0F E4 34 AD 22 03"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12687 H 7200",
+    "id": "UKI-1955-1",
+    "key": "B6 A5 F4 4F E3 D2 C1 76"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
