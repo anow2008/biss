@@ -1,15 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11013 H 4830",
-    "id": "Unname",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11014 V 7200",
     "id": "SNG 05 - CHAIN B",
     "key": "9D E9 75 FB EF 20 93 A2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11019 H 4830",
+    "id": "Unname",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -31,20 +31,20 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11180 H 7200",
+    "id": "FIBA WOMENS CYP vs POL_MAIN",
+    "key": "E2 31 21 34 D3 BA 8B 18"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12634 V 17140",
     "id": "Canal Plus Test",
     "key": "AA 12 BB 77 11 22 34 67"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12704 V 7200",
-    "id": "TUR 141",
-    "key": "C9 FE 79 40 11 62 CA 3D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
+    "frequency": "12687 H 7200",
+    "id": "UKI-1955-1",
+    "key": "B6 A5 F4 4F E3 D2 C1 76"
   }
 ]
