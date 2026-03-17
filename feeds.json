@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10996 V 7200",
+        "id": "LK ENC 10",
+        "key": "06 44 DE 28 70 57 FF C6"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
         "frequency": "10847 V 7200",
         "id": "D-331 TX1",
@@ -70,11 +76,5 @@
         "frequency": "11189 H 7200",
         "id": "E-411_via 2",
         "key": "FF 18 ED 04 19 ED 95 9B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12687 H 7200",
-        "id": "",
-        "key": "B6 A5 F4 4F E3 D2 C1 76"
     }
 ]
