@@ -1,21 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11005 V 7200",
-    "id": "Fi13_GNVE",
-    "key": "C9 FE 79 40 11 62 CA 3D"
+    "frequency": "11013 H 4830",
+    "id": "Unname",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11014 V 7200",
     "id": "SNG 05 - CHAIN B",
     "key": "9D E9 75 FB EF 20 93 A2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11019 H 4830",
-    "id": "Unname",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -26,8 +20,26 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11071 H 7200",
-    "id": "HapoelTelA vs.ParisBask BUL006 1",
-    "key": "AA A7 3A 8B 99 23 85 41"
+    "id": "IMG A EU",
+    "key": "6F 77 E4 CA 2E FC 44 6E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11102 V 17140",
+    "id": "C+ Chelsea v PSG",
+    "key": "BB AA 85 EA 46 CA BA CA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12634 V 17140",
+    "id": "Canal Plus Test",
+    "key": "AA 12 BB 77 11 22 34 67"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12704 V 7200",
+    "id": "TUR 141",
+    "key": "C9 FE 79 40 11 62 CA 3D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
