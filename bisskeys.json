@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11019 H 4830",
-    "id": "Unname",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11062 H 7500",
     "id": "WBC Semi Final 1",
     "key": "AA BB 20 85 26 03 AD D6"
@@ -31,20 +25,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11102 V 17140",
-    "id": "C+ Chelsea v PSG",
-    "key": "BB AA 85 EA 46 CA BA CA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12634 V 17140",
     "id": "Canal Plus Test",
     "key": "AA 12 BB 77 11 22 34 67"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12687 H 7200",
-    "id": "UKI-1955-1",
-    "key": "B6 A5 F4 4F E3 D2 C1 76"
   }
 ]
