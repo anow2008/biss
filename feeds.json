@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10847 V 7200",
+        "id": "D-331 TX1",
+        "key": "FE 48 BA 00 43 AA 57 44"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12656 V 7120",
+        "id": "EFL Barnsley v Wigan Ath",
+        "key": "43 92 0F E4 34 AD 22 03"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10998 H 9875",
+        "id": "LEUK_Fi01",
+        "key": "A1 E1 F6 78 90 2E DE 9C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12611 V 7200",
+        "id": "A1PRO Via1",
+        "key": "AA 77 AE CF 51 EB 64 A0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12602 V 7200",
+        "id": "MediaLink CRO-023/1",
+        "key": "CB 25 CC BC 99 AF 23 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11007 H 4938",
+        "id": "HOCKEY",
+        "key": "12 14 AB D1 AB BA 2B 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12647 V 7200",
+        "id": "ITA 790 WORLD FEED MODENA",
+        "key": "51 08 7D D6 C8 34 79 75"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "12556 H 4938",
         "id": "YSM-021M",
@@ -34,35 +76,5 @@
         "frequency": "12687 H 7200",
         "id": "",
         "key": "B6 A5 F4 4F E3 D2 C1 76"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11523 V 7200",
-        "id": "F489 MAIN",
-        "key": "17 03 AB C5 CD 20 26 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "6F 77 E4 CA 2E FC 44 6E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12634 V 17140",
-        "id": "",
-        "key": "AA 12 BB 77 11 22 34 67"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11102 V 17140",
-        "id": "C Chelsea v PSG",
-        "key": "BB AA 85 EA 46 CA BA CA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11013 H 4830",
-        "id": "Unname",
-        "key": "A1 E1 F6 78 90 2E DE 9C"
     }
 ]
