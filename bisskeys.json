@@ -19,12 +19,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11102 V 17140",
-    "id": "Canal Plus Test",
-    "key": "CA CA 23 B7 15 BA CA 99"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12516 H 4938",
     "id": "2sat.nl HOL319 B/U",
     "key": "AC 18 DC A0 03 DB 26 04"
@@ -37,8 +31,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12656 V 7120",
-    "id": "PITCH - EFL MK Dons v Colchester",
-    "key": "23 0C 25 54 1C AA 2C F2"
+    "frequency": "12593 V 7200",
+    "id": "POL 058_T2",
+    "key": "07 BB 01 C3 AE 26 CF A3"
   }
 ]
