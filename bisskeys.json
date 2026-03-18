@@ -7,6 +7,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11007 H 4830",
+    "id": "E 389 feed b path 2",
+    "key": "63 12 83 F8 7E 93 03 14"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11013 H 4830",
     "id": "Unname",
     "key": "63 12 83 F8 7E 93 03 14"
@@ -55,12 +61,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11190 H 7200",
-    "id": "YSM-012 MAIN",
-    "key": "13 CA FA D7 74 22 B6 4C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12510 V 7200",
     "id": "Medialink CRO-024/1",
     "key": "20 25 AB F0 CD 20 26 13"
@@ -91,9 +91,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12727 V 7200",
-    "id": "OB-09 A",
-    "key": "4E 5B 29 D2 6D D1 9A D8"
+    "frequency": "12656 V 7120",
+    "id": "PITCH - EFL MK Dons v Colchester",
+    "key": "23 0C 25 54 1C AA 2C F2"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
@@ -102,40 +102,22 @@
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12583 V 7200",
-    "id": "TUR 143",
-    "key": "CB 53 CE EC 99 AE 71 B8"
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12593 V 7200",
-    "id": "TKS.TRT.M17 - A",
-    "key": "BC 93 DA 29 19 BA 07 DA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12602 V 7200",
-    "id": "BASKET-CL",
-    "key": "AF 80 AF DE 96 DD 29 9C"
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "11062 H 9700",
     "id": "AVP_OU_A",
     "key": "BB 12 21 EE DF AA 12 9B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11176 H 9875",
-    "id": "FBL Frankfurt-Hoffen",
-    "key": "18 03 BA D5 DC 90 40 AC"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11188 H 9875",
-    "id": "FBL Jena-Wolfsburg",
-    "key": "18 03 BA D5 DC 90 40 AC"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
