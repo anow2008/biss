@@ -1,6 +1,18 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "10998 H 9875",
+    "id": "GVA_Fi01",
+    "key": "63 12 83 F8 7E 93 03 14"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11013 H 4830",
+    "id": "Unname",
+    "key": "63 12 83 F8 7E 93 03 14"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11023 H 7200",
     "id": "MAIN",
     "key": "59 B4 FE 0B E4 15 D6 CF"
@@ -37,7 +49,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11189 H 7200",
+    "frequency": "11180 H 7200",
+    "id": "ITA CEV(A) MAIN",
+    "key": "3E B9 FF F6 DD E9 58 1E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11190 H 7200",
     "id": "YSM-012 MAIN",
     "key": "13 CA FA D7 74 22 B6 4C"
   },
@@ -58,6 +76,18 @@
     "frequency": "12522 H 4938",
     "id": "NLFLEV_HOL-90 CH-A",
     "key": "AC 18 DC A0 03 DB 26 04"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12593 V 7200",
+    "id": "POL 058_T2",
+    "key": "07 BB 01 C3 AE 26 CF A3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12650 H 7500",
+    "id": "ITA 671",
+    "key": "DC BA 03 99 81 AB CD F9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -88,18 +118,6 @@
     "frequency": "12602 V 7200",
     "id": "BASKET-CL",
     "key": "AF 80 AF DE 96 DD 29 9C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10974 V 9600",
-    "id": "POL-78 ENC 1",
-    "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
