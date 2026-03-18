@@ -76,11 +76,5 @@
         "frequency": "12593 V 7200",
         "id": "TKS.TRT.M17 - A",
         "key": "BC 93 DA 29 19 BA 07 DA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12611 V 7200",
-        "id": "Alba Berlin",
-        "key": "FD 95 AE 40 72 AE 11 31"
     }
 ]
