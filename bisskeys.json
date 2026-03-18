@@ -1,55 +1,25 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10998 H 9875",
+    "frequency": "10997 H 9875",
     "id": "GVA_Fi01",
     "key": "63 12 83 F8 7E 93 03 14"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11007 H 4830",
-    "id": "E 389 feed b path 2",
-    "key": "63 12 83 F8 7E 93 03 14"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11013 H 4830",
-    "id": "Unname",
-    "key": "63 12 83 F8 7E 93 03 14"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11023 H 7200",
-    "id": "MAIN",
-    "key": "59 B4 FE 0B E4 15 D6 CF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "6F 77 E4 CA 2E FC 44 6E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11078 H 4938",
-    "id": "SNG 02 - Chain A",
-    "key": "C8 30 7D 75 56 45 5B F6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11084 H 4938",
-    "id": "Jernas#01-A",
-    "key": "65 83 F8 E0 F8 22 55 6F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11091 H 4938",
+    "frequency": "11090 H 4938",
     "id": "HOCKEY",
     "key": "12 14 AB D1 AB BA 2B 90"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11102 V 17140",
+    "frequency": "11101 V 17140",
     "id": "Canal Plus Test",
     "key": "CA CA 23 B7 15 BA CA 99"
   },
@@ -58,12 +28,6 @@
     "frequency": "11180 H 7200",
     "id": "ITA CEV(A) MAIN",
     "key": "3E B9 FF F6 DD E9 58 1E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12510 V 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "20 25 AB F0 CD 20 26 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -100,29 +64,5 @@
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "11062 H 9700",
-    "id": "AVP_OU_A",
-    "key": "BB 12 21 EE DF AA 12 9B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "12510 H 7200",
-    "id": "EHF",
-    "key": "13 57 AB 15 CD 24 68 59"
   }
 ]
