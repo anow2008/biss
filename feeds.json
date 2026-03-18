@@ -82,11 +82,5 @@
         "frequency": "12611 V 7200",
         "id": "Alba Berlin",
         "key": "FD 95 AE 40 72 AE 11 31"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11287 V 7200",
-        "id": "UKI-1852 C3",
-        "key": "8F 7E 6D 7A 5C 4B 3A E1"
     }
 ]
