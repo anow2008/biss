@@ -7,21 +7,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11013 H 4830",
+    "id": "Unname",
+    "key": "63 12 83 F8 7E 93 03 14"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "6F 77 E4 CA 2E FC 44 6E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11090 H 4938",
-    "id": "HOCKEY",
-    "key": "12 14 AB D1 AB BA 2B 90"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11180 H 7200",
-    "id": "ITA CEV(A) MAIN",
-    "key": "3E B9 FF F6 DD E9 58 1E"
+    "frequency": "11102 V 17140",
+    "id": "Canal Plus Test",
+    "key": "CA CA 23 B7 15 BA CA 99"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -37,38 +37,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12593 V 7200",
-    "id": "POL 058_T2",
-    "key": "07 BB 01 C3 AE 26 CF A3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12602 V 7200",
-    "id": "Polsat Sport",
-    "key": "20 26 DB 21 CA 18 03 E5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12649 H 7500",
-    "id": "ITA 671",
-    "key": "DC BA 03 99 81 AB CD F9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12656 V 7120",
     "id": "PITCH - EFL MK Dons v Colchester",
     "key": "23 0C 25 54 1C AA 2C F2"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "12562 H 4938",
-    "id": "YSM-013M",
-    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
