@@ -1,13 +1,13 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10997 H 9875",
+    "frequency": "10998 H 9875",
     "id": "GVA_Fi01",
     "key": "63 12 83 F8 7E 93 03 14"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11070 H 7200",
+    "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "6F 77 E4 CA 2E FC 44 6E"
   },
@@ -16,12 +16,6 @@
     "frequency": "11090 H 4938",
     "id": "HOCKEY",
     "key": "12 14 AB D1 AB BA 2B 90"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11101 V 17140",
-    "id": "Canal Plus Test",
-    "key": "CA CA 23 B7 15 BA CA 99"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -49,6 +43,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12602 V 7200",
+    "id": "Polsat Sport",
+    "key": "20 26 DB 21 CA 18 03 E5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12649 H 7500",
     "id": "ITA 671",
     "key": "DC BA 03 99 81 AB CD F9"
@@ -60,9 +60,15 @@
     "key": "23 0C 25 54 1C AA 2C F2"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0E",
-    "frequency": "12437 H 27500",
-    "id": "FEED 2",
-    "key": "12 34 56 9C 78 91 23 2C"
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "12562 H 4938",
+    "id": "YSM-013M",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
