@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12656 V 7120",
+        "id": "PITCH - EFL MK Dons v Colchester",
+        "key": "23 0C 25 54 1C AA 2C F2"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10962 H 3333",
+        "id": "DEFAULT",
+        "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11091 H 4938",
         "id": "HOCKEY",
         "key": "12 14 AB D1 AB BA 2B 90"
@@ -76,17 +88,5 @@
         "frequency": "11287 V 7200",
         "id": "UKI-1852 C3",
         "key": "8F 7E 6D 7A 5C 4B 3A E1"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11188 H 9875",
-        "id": "FBL Jena-Wolfsburg",
-        "key": "18 03 BA D5 DC 90 40 AC"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11062 H 9700",
-        "id": "AVP_OU_A",
-        "key": "BB 12 21 EE DF AA 12 9B"
     }
 ]
