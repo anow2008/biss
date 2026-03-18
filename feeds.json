@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12437 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11101 V 17140",
+        "id": "Canal Plus Test",
+        "key": "CA CA 23 B7 15 BA CA 99"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12728 V 7200",
+        "id": "OB-09 A",
+        "key": "4E 5B 29 D2 6D D1 9A D8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11012 H 4830",
+        "id": "Unname",
+        "key": "63 12 83 F8 7E 93 03 14"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "6F 77 E4 CA 2E FC 44 6E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11062 H 7500",
         "id": "WBC Semi Final 1",
@@ -46,41 +76,5 @@
         "frequency": "12602 V 7200",
         "id": "MediaLink CRO-023/1",
         "key": "CB 25 CC BC 99 AF 23 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11007 H 4938",
-        "id": "HOCKEY",
-        "key": "12 14 AB D1 AB BA 2B 90"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12647 V 7200",
-        "id": "ITA 790 WORLD FEED MODENA",
-        "key": "51 08 7D D6 C8 34 79 75"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "12556 H 4938",
-        "id": "YSM-021M",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12437 H 27500",
-        "id": "",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT",
-        "key": "AA CD 33 AA 27 CB AB 9D"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11287 V 7200",
-        "id": "",
-        "key": "8F 7E 6D 7A 5C 4B 3A E1"
     }
 ]
