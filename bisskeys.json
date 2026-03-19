@@ -1,27 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11013 H 4938",
-    "id": "Service 01",
-    "key": "12 14 AB D1 AB BA 2B 90"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11022 H 9875",
-    "id": "ITA633_Main",
-    "key": "0B A3 C8 76 03 9D D1 71"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "11062 H 7200",
     "id": "F529_PARIS_MAIN",
     "key": "E7 61 29 71 42 94 79 4F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "11463 V 4938",
-    "id": "Medialink CRO-025/1",
-    "key": "AB BA 20 85 25 20 26 6B"
+    "frequency": "11071 H 7200",
+    "id": "HapoelTelA vs.VirtusBol BUL006 1",
+    "key": "B8 72 89 B3 1B 82 63 00"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
@@ -37,6 +25,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12569 H 17140",
+    "id": "C+ F2 Villa v Lille",
+    "key": "AB AB 55 AB 66 12 34 AC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12629 V 7200",
     "id": "RUV enc 1",
     "key": "DE 2F 73 80 CA 34 21 1F"
@@ -49,12 +43,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12650 H 7200",
-    "id": "G18 E336 Main Via 1",
-    "key": "AA 5C 37 3D 95 CD 89 EB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12655 V 9875",
     "id": "GVA_Fi01",
     "key": "23 EA C3 D0 B5 59 04 12"
@@ -63,12 +51,6 @@
     "satellite": "Eutelsat 16A @ 16.0E",
     "frequency": "10964 V 4800",
     "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 03 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10973 V 9600",
-    "id": "POL 030",
     "key": "AB BA 26 8B DC AE 03 8D"
   }
 ]
