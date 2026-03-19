@@ -1,6 +1,48 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11013 H 4938",
+    "id": "Service 01",
+    "key": "12 14 AB D1 AB BA 2B 90"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11022 H 9875",
+    "id": "ITA633_Main",
+    "key": "0B A3 C8 76 03 9D D1 71"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11062 H 7200",
+    "id": "F529_PARIS_MAIN",
+    "key": "E7 61 29 71 42 94 79 4F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "11463 V 4938",
+    "id": "Medialink CRO-025/1",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12516 H 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12551 H 17140",
+    "id": "C+ F1 Villa v Lille",
+    "key": "12 03 AC C1 DC 11 12 FF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12629 V 7200",
+    "id": "RUV enc 1",
+    "key": "DE 2F 73 80 CA 34 21 1F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12643 V 9875",
     "id": "Fi15_GNVE",
     "key": "FF AD D1 7D 00 6E 83 F1"
@@ -19,8 +61,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10985 V 9600",
-    "id": "POL138_A",
+    "frequency": "10964 V 4800",
+    "id": "POL - 054 Kielce",
+    "key": "AB BA 26 8B DC AE 03 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10973 V 9600",
+    "id": "POL 030",
     "key": "AB BA 26 8B DC AE 03 8D"
   }
 ]
