@@ -1,7 +1,7 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12687 V 7500",
+        "frequency": "11468 V 7500",
         "id": "LPGA - Fortinet Founders Cup",
         "key": "80 E9 BE 27 BC 47 8A 8D"
     },
@@ -46,11 +46,5 @@
         "frequency": "12643 V 9875",
         "id": "Fi15_GNVE",
         "key": "FF AD D1 7D 00 6E 83 F1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12569 H 17140",
-        "id": "C F2 Villa v Lille",
-        "key": "AB AB 55 AB 66 12 34 AC"
     }
 ]
