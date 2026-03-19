@@ -1,8 +1,8 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "10998 H 9875",
-    "id": "GVA_Fi01",
-    "key": "63 12 83 F8 7E 93 03 14"
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
