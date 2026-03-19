@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12687 V 7500",
+        "id": "LPGA - Fortinet Founders Cup",
+        "key": "80 E9 BE 27 BC 47 8A 8D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12629 V 7200",
         "id": "RUV enc 1",
         "key": "DE 2F 73 80 CA 34 21 1F"
