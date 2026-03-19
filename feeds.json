@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12656 V 7200",
+        "id": "TBS ADHOC ENC 3",
+        "key": "FB 38 C8 FB A6 71 F7 0E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12656 V 7120",
         "id": "PITCH - EFL MK Dons v Colchester",
         "key": "23 0C 25 54 1C AA 2C F2"
