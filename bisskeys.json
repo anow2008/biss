@@ -7,32 +7,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12516 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12551 H 17140",
     "id": "C+ F1 Villa v Lille",
     "key": "12 03 AC C1 DC 11 12 FF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
-    "frequency": "12629 V 7200",
-    "id": "RUV enc 1",
-    "key": "DE 2F 73 80 CA 34 21 1F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
     "frequency": "12655 V 9875",
     "id": "GVA_Fi01",
     "key": "23 EA C3 D0 B5 59 04 12"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
