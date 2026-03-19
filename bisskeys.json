@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12650 H 7200",
+    "id": "G18 E336 Main Via 1",
+    "key": "AA 5C 37 3D 95 CD 89 EB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0E",
+    "frequency": "12655 V 9875",
+    "id": "GVA_Fi01",
+    "key": "23 EA C3 D0 B5 59 04 12"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0E",
+    "frequency": "10985 V 9600",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 03 8D"
+  }
+]
