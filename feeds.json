@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10969 H 7200",
+        "id": "EGY-HD22",
+        "key": "15 16 AC D7 DA A2 B2 2E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10960 H 7200",
+        "id": "ANA-1",
+        "key": "14 32 AD F3 DB B5 C3 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11005 H 7200",
+        "id": "Unname",
+        "key": "14 12 CC F2 DA A5 C2 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "10962 V 9875",
         "id": "GVA_Fi03_BULI07",
         "key": "D5 32 6E 75 07 E8 42 31"
@@ -52,11 +70,5 @@
         "frequency": "11013 H 4938",
         "id": "Service 01",
         "key": "12 14 AB D1 AB BA 2B 90"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12643 V 9875",
-        "id": "Fi15_GNVE",
-        "key": "FF AD D1 7D 00 6E 83 F1"
     }
 ]
