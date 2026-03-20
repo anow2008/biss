@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10962 V 9875",
+        "id": "GVA_Fi03_BULI07",
+        "key": "D5 32 6E 75 07 E8 42 31"
+    },
+    {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "10723 V 15000",
         "id": "OCC 1",
