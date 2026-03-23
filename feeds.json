@@ -46,11 +46,5 @@
         "frequency": "12656 V 7200",
         "id": "E380 MAIN",
         "key": "6A 64 D4 A2 E3 33 47 5D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
     }
 ]
