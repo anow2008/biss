@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11107 V 7200",
+        "id": "Fi09_GNVE",
+        "key": "14 40 9F F3 DD C8 AA 4F"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "12510 H 7200",
         "id": "Live Broadcasting Line 1",
@@ -46,11 +52,5 @@
         "frequency": "11005 H 7200",
         "id": "Unname",
         "key": "14 12 CC F2 DA A5 C2 41"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10962 V 9875",
-        "id": "GVA_Fi03_BULI07",
-        "key": "D5 32 6E 75 07 E8 42 31"
     }
 ]
