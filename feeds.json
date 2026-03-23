@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "12510 H 7200",
+        "id": "Live Broadcasting Line 1",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10962 H 3333",
+        "id": "DEFAULT",
+        "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "D9 48 E3 04 F0 A3 26 B9"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12656 V 7200",
         "id": "E380 MAIN",
@@ -34,29 +52,5 @@
         "frequency": "10962 V 9875",
         "id": "GVA_Fi03_BULI07",
         "key": "D5 32 6E 75 07 E8 42 31"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10723 V 15000",
-        "id": "OCC 1",
-        "key": "A2 23 AD 72 FC BC EE A6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11468 V 7500",
-        "id": "LPGA - Fortinet Founders Cup",
-        "key": "80 E9 BE 27 BC 47 8A 8D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12629 V 7200",
-        "id": "RUV enc 1",
-        "key": "DE 2F 73 80 CA 34 21 1F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12516 H 4938",
-        "id": "YSM-021M",
-        "key": "AB BA 20 85 25 20 26 6B"
     }
 ]
