@@ -3,36 +3,36 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
-    "key": "DDE8581D34F9F825"
+    "key": "DD E8 58 1D 34 F9 F8 25"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12510 V 7200",
     "id": "Medialink CRO-024/1",
-    "key": "2025ABF0CD202613"
+    "key": "20 25 AB F0 CD 20 26 13"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "LIGA HYPERMOTION 1",
-    "key": "D948E304F0A326B9"
+    "key": "D9 48 E3 04 F0 A3 26 B9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12438 H 27500",
     "id": "FEED 2",
-    "key": "1234569C7891232C"
+    "key": "12 34 56 9C 78 91 23 2C"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10962 H 3333",
     "id": "DEFAULT",
-    "key": "AACD33AA27CBAB9D"
+    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12510 H 7200",
     "id": "Live Broadcasting Line 1",
-    "key": "1357AB15CD246859"
+    "key": "13 57 AB 15 CD 24 68 59"
   }
 ]
