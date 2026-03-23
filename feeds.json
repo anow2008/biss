@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11062 H 9875",
+        "id": "FBL U.Berlin-Bremen",
+        "key": "23 03 FA 20 AF 56 14 19"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11107 V 7200",
         "id": "Fi09_GNVE",
@@ -46,11 +52,5 @@
         "frequency": "10960 H 7200",
         "id": "ANA-1",
         "key": "14 32 AD F3 DB B5 C3 53"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11005 H 7200",
-        "id": "Unname",
-        "key": "14 12 CC F2 DA A5 C2 41"
     }
 ]
