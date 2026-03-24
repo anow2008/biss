@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11098 H 7200",
-    "id": "F489 MAIN",
-    "key": "4F 69 6B 23 9E 5B 62 5B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11098 V 7200",
     "id": "LEUK_Fi01",
     "key": "54 87 69 44 90 3D E0 AD"
@@ -26,7 +20,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
-    "id": "POL-080 MAIN",
+    "id": "POL-080 Beckup",
     "key": "20 26 AB F1 CD 24 03 F4"
   },
   {
@@ -49,6 +43,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10834 V 14400",
+    "id": "BBC Canterbury",
+    "key": "DA C1 98 33 BB 5A 49 5E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10847 V 7200",
     "id": "YouTube Canterbury",
     "key": "DA C3 4D EA D1 B9 81 0B"
@@ -58,6 +58,18 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10976 V 4800",
+    "id": "pol-053_enc1",
+    "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
