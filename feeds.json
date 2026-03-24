@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11098 V 7200",
+        "id": "LEUK_Fi01",
+        "key": "0F F2 C1 C2 8C 32 93 51"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "10976 V 4800",
         "id": "pol-053_enc1",
@@ -88,11 +94,5 @@
         "frequency": "12705 V 7200",
         "id": "ENC 8",
         "key": "A5 CB FB 6B EA C7 12 C3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12656 V 7200",
-        "id": "E380 MAIN",
-        "key": "6A 64 D4 A2 E3 33 47 5D"
     }
 ]
