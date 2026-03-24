@@ -76,23 +76,5 @@
         "frequency": "10962 H 9875",
         "id": "CRO-23 UWCL M1 M",
         "key": "7A 56 29 F9 C2 31 3A 2D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12696 V 7200",
-        "id": "ENC 3",
-        "key": "9C 70 95 A1 3A B4 A6 94"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10974 H 9875",
-        "id": "UKI1866 Match 02 Main",
-        "key": "7A 56 29 F9 C2 31 3B 2E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12705 V 7200",
-        "id": "ENC 8",
-        "key": "A5 CB FB 6B EA C7 12 C3"
     }
 ]
