@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11089 V 7200",
+        "id": "VOLLEY_WORLD_MAIN",
+        "key": "27 A5 7C 48 89 7C 85 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "BUL-006 DUB-PAN Main",
+        "key": "53 8F 97 79 7A 1B DA 6F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11098 V 7200",
         "id": "LEUK_Fi01",
         "key": "0F F2 C1 C2 8C 32 93 51"
@@ -64,17 +76,5 @@
         "frequency": "11098 H 7200",
         "id": "F489 MAIN",
         "key": "4F 69 6B 23 9E 5B 62 5B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11098 V 7200",
-        "id": "LEUK_Fi01",
-        "key": "54 87 69 44 90 3D E0 AD"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10962 H 9875",
-        "id": "CRO-23 UWCL M1 M",
-        "key": "7A 56 29 F9 C2 31 3A 2D"
     }
 ]
