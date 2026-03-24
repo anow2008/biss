@@ -70,11 +70,5 @@
         "frequency": "12593 V 7200",
         "id": "POL-080 MAIN",
         "key": "20 26 AB F1 CD 24 03 F4"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11098 H 7200",
-        "id": "F489 MAIN",
-        "key": "4F 69 6B 23 9E 5B 62 5B"
     }
 ]
