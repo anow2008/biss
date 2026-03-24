@@ -13,6 +13,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11098 H 7200",
+    "id": "F489 MAIN",
+    "key": "4F 69 6B 23 9E 5B 62 5B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11098 V 7200",
     "id": "LEUK_Fi01",
     "key": "0F F2 C1 C2 8C 32 93 51"
@@ -58,18 +64,6 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "pol-053_enc1",
-    "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
