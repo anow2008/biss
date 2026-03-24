@@ -15,19 +15,19 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11098 V 7200",
     "id": "LEUK_Fi01",
-    "key": "54 87 69 44 90 3D E0 AD"
+    "key": "0F F2 C1 C2 8C 32 93 51"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 V 7200",
+    "id": "M-Three 622 FEED1",
+    "key": "14 40 9F F3 DD C8 AA 4F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
     "id": "POL-080 Beckup",
     "key": "20 26 AB F1 CD 24 03 F4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7200",
-    "id": "E380 MAIN",
-    "key": "6A 64 D4 A2 E3 33 47 5D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,7 +67,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 V 4800",
+    "frequency": "10977 V 4800",
     "id": "pol-053_enc1",
     "key": "AB BA 26 8B DC AE 03 8D"
   },
