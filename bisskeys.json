@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
-    "id": "BUL-006 DUB-PAN Main",
-    "key": "53 8F 97 79 7A 1B DA 6F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11089 V 7200",
     "id": "VOLLEY_WORLD_MAIN",
     "key": "27 A5 7C 48 89 7C 85 8A"
@@ -25,7 +19,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12705 V 7200",
+    "frequency": "12704 V 7200",
     "id": "ENC 8",
     "key": "A5 CB FB 6B EA C7 12 C3"
   },
