@@ -1,50 +1,74 @@
 [
     {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "DD E8 58 1D 34 F9 F8 25"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12510 V 7200",
-        "id": "Medialink CRO-024/1",
-        "key": "20 25 AB F0 CD 20 26 13"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11062 H 9875",
-        "id": "FBL U.Berlin-Bremen",
-        "key": "23 03 FA 20 AF 56 14 19"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11107 V 7200",
-        "id": "Fi09_GNVE",
-        "key": "14 40 9F F3 DD C8 AA 4F"
-    },
-    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "12510 H 7200",
         "id": "Live Broadcasting Line 1",
         "key": "13 57 AB 15 CD 24 68 59"
     },
     {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10962 H 3333",
-        "id": "DEFAULT",
-        "key": "AA CD 33 AA 27 CB AB 9D"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10847 V 7200",
+        "id": "YouTube Canterbury",
+        "key": "DA C3 4D EA D1 B9 81 0B"
     },
     {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "D9 48 E3 04 F0 A3 26 B9"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12593 V 7200",
+        "id": "POL-080 MAIN",
+        "key": "20 26 AB F1 CD 24 03 F4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11098 H 7200",
+        "id": "F489 MAIN",
+        "key": "4F 69 6B 23 9E 5B 62 5B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11098 V 7200",
+        "id": "LEUK_Fi01",
+        "key": "54 87 69 44 90 3D E0 AD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10962 H 9875",
+        "id": "CRO-23 UWCL M1 M",
+        "key": "7A 56 29 F9 C2 31 3A 2D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12696 V 7200",
+        "id": "ENC 3",
+        "key": "9C 70 95 A1 3A B4 A6 94"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10974 H 9875",
+        "id": "UKI1866 Match 02 Main",
+        "key": "7A 56 29 F9 C2 31 3B 2E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12705 V 7200",
+        "id": "ENC 8",
+        "key": "A5 CB FB 6B EA C7 12 C3"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12656 V 7200",
         "id": "E380 MAIN",
         "key": "6A 64 D4 A2 E3 33 47 5D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "DD E8 58 1D 34 F9 F8 25"
     }
 ]
