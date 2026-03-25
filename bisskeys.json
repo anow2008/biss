@@ -31,8 +31,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12522 H 4938",
-    "id": "YSM-012 MAIN",
+    "frequency": "12516 H 4938",
+    "id": "ROU-051 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -67,15 +67,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
+    "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
