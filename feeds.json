@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11126 H 5000",
+        "id": "ESZTERGOM",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10966 H 3333",
+        "id": "DEFAULT",
+        "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12522 H 4938",
+        "id": "YSM-012 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12630 V 9875",
+        "id": "SUI 066 MAIN",
+        "key": "FF AD D1 7D 00 6E 83 F1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "20 26 AB F1 CD 1E CA B5"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
         "frequency": "10976 V 4800",
         "id": "POL - 054 Kielce",
         "key": "AB BA 26 8B DC AE 03 8D"
@@ -52,17 +82,5 @@
         "frequency": "12696 V 7200",
         "id": "ENC 3",
         "key": "D3 B4 BC 43 1F 08 76 9D"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11125 H 3700",
-        "id": "ESZTERGOM",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10973 H 9875",
-        "id": "Unname",
-        "key": "3C F4 DE 0E 5D 6A 9B 62"
     }
 ]
