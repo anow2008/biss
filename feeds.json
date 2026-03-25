@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12641 H 7200",
+        "id": "D-331 TX1",
+        "key": "F1 E2 D3 A6 C4 B5 A6 1F"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "12562 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11484 H 7200",
+        "id": "2Sat HOL89 Main",
+        "key": "89 EA FE 71 ED 25 03 15"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11190 H 7200",
+        "id": "Studioline Main",
+        "key": "87 F4 5D D8 7B AC E7 0E"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "11126 H 5000",
         "id": "ESZTERGOM",
@@ -10,12 +34,6 @@
         "frequency": "10966 H 3333",
         "id": "DEFAULT",
         "key": "AA CD 33 AA 27 CB AB 9D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12522 H 4938",
-        "id": "YSM-012 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
@@ -64,23 +82,5 @@
         "frequency": "11107 V 7200",
         "id": "M-Three 622 FEED1",
         "key": "14 40 9F F3 DD C8 AA 4F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12647 V 7200",
-        "id": "Fi01_BEVRT",
-        "key": "66 D8 F2 30 81 B5 F9 2F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12705 V 7200",
-        "id": "EN 2",
-        "key": "E5 49 C1 EF 64 1E 0F 91"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12696 V 7200",
-        "id": "ENC 3",
-        "key": "D3 B4 BC 43 1F 08 76 9D"
     }
 ]
