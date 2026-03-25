@@ -55,12 +55,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12641 H 7200",
-    "id": "D-331 TX1",
-    "key": "F1 E2 D3 A6 C4 B5 A6 1F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12696 V 7200",
     "id": "ENC 3",
     "key": "D3 B4 BC 43 1F 08 76 9D"
