@@ -19,12 +19,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11189 H 7200",
-    "id": "Studioline Main",
-    "key": "87 F4 5D D8 7B AC E7 0E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11484 H 7200",
     "id": "2Sat HOL89 Main",
     "key": "89 EA FE 71 ED 25 03 15"
