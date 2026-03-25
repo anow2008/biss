@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12510 V 7200",
+        "id": "ITA556 HD16",
+        "key": "5B 76 84 55 75 4B EE AE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11089 V 7200",
+        "id": "VOLLEY_WORLD_MAIN",
+        "key": "27 A5 7C 48 89 7C 85 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12602 V 7200",
+        "id": "POL 058_T2",
+        "key": "20 26 A9 EF 97 AB DA 1C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12516 H 4938",
         "id": "ROU-051 MAIN",
         "key": "AB BA 20 85 25 20 26 6B"
@@ -58,23 +76,5 @@
         "frequency": "11107 H 7200",
         "id": "POL-102   MAIN",
         "key": "D1 02 AC 7F DC 25 03 04"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "72 15 84 0B C1 8E A2 F1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12728 V 7200",
-        "id": "SNG MEDYA / MAIN",
-        "key": "CD 3E E2 ED 5D 20 26 A3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12656 V 7200",
-        "id": "E380 MAIN",
-        "key": "6A 64 D4 A2 E3 33 47 5D"
     }
 ]
