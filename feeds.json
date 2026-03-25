@@ -64,17 +64,5 @@
         "frequency": "12593 V 7200",
         "id": "Polsat Sport",
         "key": "20 26 AB F1 CD 1E CA B5"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10976 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 03 8D"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11107 H 7200",
-        "id": "POL-102   MAIN",
-        "key": "D1 02 AC 7F DC 25 03 04"
     }
 ]
