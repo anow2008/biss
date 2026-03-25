@@ -31,6 +31,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12522 H 4938",
+    "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
     "id": "Polsat Sport",
     "key": "20 26 AB F1 CD 1E CA B5"
@@ -66,12 +72,6 @@
     "key": "CD 3E E2 ED 5D 20 26 A3"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11273 H 7200",
-    "id": "POL-100   MAIN",
-    "key": "FF 79 D0 48 32 5E 50 E0"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10834 V 14400",
     "id": "BBC Canterbury",
@@ -91,20 +91,26 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10962 H 3333",
+    "frequency": "10966 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 V 4800",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11107 H 7200",
     "id": "POL-102   MAIN",
     "key": "D1 02 AC 7F DC 25 03 04"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11126 H 5000",
+    "id": "ESZTERGOM",
+    "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12510 H 7200",
+    "id": "Live Broadcasting Line 1",
+    "key": "13 57 AB 15 CD 24 68 59"
   }
 ]
