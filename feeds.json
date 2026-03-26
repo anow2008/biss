@@ -1,32 +1,26 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10985 V 9600",
+        "id": "POL-90a",
+        "key": "AB BA 26 8B DC AE 03 8D"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10962 H 3333",
+        "id": "DEFAULT",
+        "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11273 H 7200",
+        "id": "POL-100   MAIN",
+        "key": "E5 0F F7 EB 9D 03 26 C6"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11062 H 7200",
         "id": "ita390_Main",
         "key": "93 9B 1B 49 FA 68 EF 51"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12511 V 7500",
-        "id": "S5 - INTER",
-        "key": "AB CD 06 7E 03 AA BB 68"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11105 H 9875",
-        "id": "DNK83_enc1",
-        "key": "26 F8 B6 D4 AC 8F 03 3E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12638 V 7200",
-        "id": "E380 MAIN",
-        "key": "6A 64 D4 A2 E3 33 47 5D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "BA 7C 4F 85 53 93 FF E5"
     }
 ]
