@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11523 V 7500",
+        "id": "LPGA - Ford Championship",
+        "key": "E9 52 BD F8 65 27 96 22"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10996 V 7500",
+        "id": "POL086 TVN24 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12647 V 7200",
         "id": "Fi17GNVE",
         "key": "DD 9E 2C A7 09 1F 0E 36"
@@ -34,11 +46,5 @@
         "frequency": "10962 H 3333",
         "id": "DEFAULT",
         "key": "AA CD 33 AA 27 CB AB 9D"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11273 H 7200",
-        "id": "POL-100   MAIN",
-        "key": "E5 0F F7 EB 9D 03 26 C6"
     }
 ]
