@@ -1,68 +1,32 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12510 V 7200",
-        "id": "ITA556 HD16",
-        "key": "5B 76 84 55 75 4B EE AE"
+        "frequency": "11062 H 7200",
+        "id": "ita390_Main",
+        "key": "93 9B 1B 49 FA 68 EF 51"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11089 V 7200",
-        "id": "VOLLEY_WORLD_MAIN",
-        "key": "27 A5 7C 48 89 7C 85 8A"
+        "frequency": "12511 V 7500",
+        "id": "S5 - INTER",
+        "key": "AB CD 06 7E 03 AA BB 68"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12602 V 7200",
-        "id": "POL 058_T2",
-        "key": "20 26 A9 EF 97 AB DA 1C"
+        "frequency": "11105 H 9875",
+        "id": "DNK83_enc1",
+        "key": "26 F8 B6 D4 AC 8F 03 3E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12516 H 4938",
-        "id": "ROU-051 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
+        "frequency": "12638 V 7200",
+        "id": "E380 MAIN",
+        "key": "6A 64 D4 A2 E3 33 47 5D"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12641 H 7200",
-        "id": "D-331 TX1",
-        "key": "F1 E2 D3 A6 C4 B5 A6 1F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11484 H 7200",
-        "id": "2Sat HOL89 Main",
-        "key": "89 EA FE 71 ED 25 03 15"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11190 H 7200",
-        "id": "Studioline Main",
-        "key": "87 F4 5D D8 7B AC E7 0E"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11126 H 5000",
-        "id": "ESZTERGOM",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT",
-        "key": "AA CD 33 AA 27 CB AB 9D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12630 V 9875",
-        "id": "SUI 066 MAIN",
-        "key": "FF AD D1 7D 00 6E 83 F1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12593 V 7200",
-        "id": "Polsat Sport",
-        "key": "20 26 AB F1 CD 1E CA B5"
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "BA 7C 4F 85 53 93 FF E5"
     }
 ]
