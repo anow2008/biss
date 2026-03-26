@@ -7,18 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10982 V 14400",
-    "id": "POL-142  M07 Main",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11001 V 14400",
-    "id": "NTF M08 Main",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11018 V 14400",
     "id": "CZE-012 M10 MAIN",
     "key": "26 F8 B6 D4 AC 8F 03 3E"
@@ -40,12 +28,6 @@
     "frequency": "12647 V 7200",
     "id": "Fi17GNVE",
     "key": "DD 9E 2C A7 09 1F 0E 36"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11265 H 7200",
-    "id": "LNR UK PROVENCE VS COLOMIERS PRO D2",
-    "key": "F5 76 26 91 03 26 F2 1B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
