@@ -19,20 +19,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11000 H 14400",
-    "id": "ITA 689 M02 M",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11001 V 14400",
     "id": "NTF M08 Main",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
-    "id": "M3 MAIN FEED",
     "key": "26 F8 B6 D4 AC 8F 03 3E"
   },
   {
@@ -46,12 +34,6 @@
     "frequency": "11062 H 7200",
     "id": "ita390_Main",
     "key": "93 9B 1B 49 FA 68 EF 51"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11066 V 14400",
-    "id": "E 363 M",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,9 +61,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12511 V 7500",
+    "id": "S5 - INTER",
+    "key": "AB CD 06 7E 03 AA BB 68"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12541 V 9600",
     "id": "SNG MEDYA / MAIN",
     "key": "CD 3E E2 ED 5D 20 26 A3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12647 V 7200",
+    "id": "Fi17GNVE",
+    "key": "DD 9E 2C A7 09 1F 0E 36"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -112,6 +106,12 @@
     "frequency": "12611 V 7200",
     "id": "GCUK Enc 1",
     "key": "FD DC 20 F9 26 DC FD FF"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10965 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
