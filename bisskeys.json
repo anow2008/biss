@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 H 9875",
+    "frequency": "10962 H 9875",
     "id": "SNG E-385 MAIN VBR",
     "key": "D9 85 DA 38 64 DA EF 2D"
   },
@@ -61,15 +61,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12511 V 7500",
-    "id": "S5 - INTER",
-    "key": "AB CD 06 7E 03 AA BB 68"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12541 V 9600",
-    "id": "SNG MEDYA / MAIN",
-    "key": "CD 3E E2 ED 5D 20 26 A3"
+    "frequency": "11523 V 7500",
+    "id": "LPGA - Ford Championship",
+    "key": "E9 52 BD F8 65 27 96 22"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -112,6 +106,12 @@
     "frequency": "10985 V 9600",
     "id": "POL-90a",
     "key": "AB BA 26 8B DC AE 03 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10996 V 7500",
+    "id": "POL086 TVN24 WAW",
+    "key": "77 93 52 5C 99 08 86 27"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
