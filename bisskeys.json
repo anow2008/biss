@@ -1,8 +1,176 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10961 H 9875",
+    "id": "SNG E-385 MAIN VBR",
+    "key": "D9 85 DA 38 64 DA EF 2D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10964 V 14400",
+    "id": "MD11 WALES MAIN UKI1965",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10982 H 14400",
+    "id": "E-289 - M1 - MAIN",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10982 V 14400",
+    "id": "POL-142  M07 Main",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11000 H 14400",
+    "id": "ITA 689 M02 M",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11001 V 14400",
+    "id": "NTF M08 Main",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11018 H 14400",
+    "id": "M3 MAIN FEED",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11018 V 14400",
+    "id": "CZE-012 M10 MAIN",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11048 V 14400",
+    "id": "ROU015 - 1 - M11",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11066 V 14400",
+    "id": "E 363 M",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "BA 7C 4F 85 53 93 FF E5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11081 H 9875",
+    "id": "ITA548 NTF M4 Main",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11084 V 14400",
+    "id": "NTF MATCH 13 EUROPE MAIN",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11093 H 9875",
+    "id": "E379 Feed 1",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11097 V 7200",
+    "id": "LEUK_Fi01",
+    "key": "7A 26 4E EE 08 6F 77 EE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11105 H 9875",
+    "id": "DNK83_enc1",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11107 V 7200",
     "id": "M-Three 622 FEED1",
     "key": "14 40 9F F3 DD C8 AA 4F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11607 V 7200",
+    "id": "LIVE_BR0ADCASTING_LINE1",
+    "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12541 V 9600",
+    "id": "SNG MEDYA / MAIN",
+    "key": "CD 3E E2 ED 5D 20 26 A3"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11273 H 7200",
+    "id": "POL-100   MAIN",
+    "key": "E5 0F F7 EB 9D 03 26 C6"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11062 H 9875",
+    "id": "SLQ-006",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11093 H 9875",
+    "id": "POL-143 M07 Main",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11105 H 9875",
+    "id": "UKI1457 WAL V BOS",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11126 H 5000",
+    "id": "TOROKSZENTMIKLOS",
+    "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11177 H 9875",
+    "id": "M3 BACKUP FEED",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11189 H 9875",
+    "id": "CZE-041 EQPO M10 MAIN",
+    "key": "26 F8 B6 D4 AC 8F 03 3E"
   }
 ]
