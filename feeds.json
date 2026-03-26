@@ -16,11 +16,5 @@
         "frequency": "11273 H 7200",
         "id": "POL-100   MAIN",
         "key": "E5 0F F7 EB 9D 03 26 C6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11062 H 7200",
-        "id": "ita390_Main",
-        "key": "93 9B 1B 49 FA 68 EF 51"
     }
 ]
