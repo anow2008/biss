@@ -1,18 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10964 V 14400",
-    "id": "MD11 WALES MAIN UKI1965",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 V 14400",
-    "id": "CZE-012 M10 MAIN",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "BA 7C 4F 85 53 93 FF E5"
@@ -34,41 +22,5 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL-90a",
-    "key": "AB BA 26 8B DC AE 03 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11093 H 9875",
-    "id": "POL-143 M07 Main",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11105 H 9875",
-    "id": "UKI1457 WAL V BOS",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11189 H 9875",
-    "id": "CZE-041 EQPO M10 MAIN",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
   }
 ]
