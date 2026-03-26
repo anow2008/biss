@@ -109,12 +109,6 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10965 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10985 V 9600",
     "id": "POL-90a",
     "key": "AB BA 26 8B DC AE 03 8D"
@@ -135,12 +129,6 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11105 H 9875",
     "id": "UKI1457 WAL V BOS",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11177 H 9875",
-    "id": "M3 BACKUP FEED",
     "key": "26 F8 B6 D4 AC 8F 03 3E"
   },
   {
