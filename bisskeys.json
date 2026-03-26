@@ -31,7 +31,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11001 V 14400",
+    "frequency": "11000 V 14400",
     "id": "NTF M08 Main",
     "key": "26 F8 B6 D4 AC 8F 03 3E"
   },
@@ -45,12 +45,6 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11018 V 14400",
     "id": "CZE-012 M10 MAIN",
-    "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11048 V 14400",
-    "id": "ROU015 - 1 - M11",
     "key": "26 F8 B6 D4 AC 8F 03 3E"
   },
   {
@@ -97,7 +91,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 V 7200",
+    "frequency": "11106 V 7200",
     "id": "M-Three 622 FEED1",
     "key": "14 40 9F F3 DD C8 AA 4F"
   },
@@ -127,15 +121,15 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10962 H 3333",
+    "frequency": "10966 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
+    "frequency": "10985 V 9600",
+    "id": "POL-90a",
+    "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -154,12 +148,6 @@
     "frequency": "11105 H 9875",
     "id": "UKI1457 WAL V BOS",
     "key": "26 F8 B6 D4 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11126 H 5000",
-    "id": "TOROKSZENTMIKLOS",
-    "key": "13 57 AB 15 CD 24 68 59"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
