@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12593 V 7200",
+        "id": "POL 058_T2",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10966 H 3333",
+        "id": "DEFAULT",
+        "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12543 V 7200",
+        "id": "U21 GER - IRL",
+        "key": "27 03 DB 05 BB 89 76 BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11607 V 7200",
+        "id": "LIVE_BR0ADCASTING_LINE1",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11044 V 7200",
         "id": "F419_MAIN",
         "key": "11 8B C1 5D F4 DE 50 22"
@@ -22,17 +46,5 @@
         "frequency": "10996 V 7500",
         "id": "POL037 TVN24 BIA",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12647 V 7200",
-        "id": "LEUK_Fi05",
-        "key": "7A 45 61 20 F3 23 17 2D"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10973 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "AB BA 26 8B DC AE 03 8D"
     }
 ]
