@@ -7,18 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "GVA_Fi04",
-    "key": "7A 45 61 20 F3 23 17 2D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
-    "id": "E394 1",
-    "key": "27 F8 B6 D5 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11062 H 7120",
     "id": "Pitch Newcastle Red B v Exeter",
     "key": "E9 09 AA 9C CC 7E 7E C8"
@@ -61,15 +49,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL 058_T2",
-    "key": "15 58 35 A2 71 42 63 16"
+    "frequency": "11523 V 7500",
+    "id": "LPGA - Ford Championship",
+    "key": "E9 52 BD F8 65 27 96 22"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12650 H 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "20 25 AB F0 CD 20 26 13"
+    "frequency": "12593 V 7200",
+    "id": "POL 058_T2",
+    "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -78,21 +66,21 @@
     "key": "21 26 9F E6 D5 B7 56 E2"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11274 H 7200",
-    "id": "POL-100   MAIN",
-    "key": "D0 32 7E 80 50 FF 79 C8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10846 V 9875",
-    "id": "GCUK Enc 1",
-    "key": "5D F5 AF 01 2D 85 70 22"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
