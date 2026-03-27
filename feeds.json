@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12542 V 7200",
+        "id": "U21 GER - IRL",
+        "key": "27 03 DB 05 BB 89 76 BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "DF AC 4F DA E7 81 76 DE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11062 H 7200",
+        "id": "Fi16_GNVE",
+        "key": "BA 8F 9C E5 37 23 6B C5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11523 V 7500",
         "id": "LPGA - Ford Championship",
         "key": "E9 52 BD F8 65 27 96 22"
@@ -34,17 +52,5 @@
         "frequency": "12592 V 7200",
         "id": "GCUK Enc 2",
         "key": "23 01 71 95 96 52 0A F2"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10985 V 9600",
-        "id": "POL-90a",
-        "key": "AB BA 26 8B DC AE 03 8D"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10962 H 3333",
-        "id": "DEFAULT",
-        "key": "AA CD 33 AA 27 CB AB 9D"
     }
 ]
