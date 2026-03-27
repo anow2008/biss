@@ -1,1 +1,158 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10961 H 9875",
+    "id": "E379 Feed 1",
+    "key": "27 F8 B6 D5 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10964 V 14400",
+    "id": "AZE-013  MAIN",
+    "key": "27 F8 B6 D5 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10983 H 14400",
+    "id": "AUT34M/M-5",
+    "key": "27 F8 B6 D5 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11001 H 14400",
+    "id": "YSM021 m M06",
+    "key": "27 F8 B6 D5 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7200",
+    "id": "GVA_Fi04",
+    "key": "7A 45 61 20 F3 23 17 2D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11019 H 14400",
+    "id": "E394 1",
+    "key": "27 F8 B6 D5 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11044 V 7200",
+    "id": "F419_MAIN",
+    "key": "11 8B C1 5D F4 DE 50 22"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11062 V 7200",
+    "id": "LEUK_Fi01",
+    "key": "97 A3 F8 32 43 44 A1 28"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "DF AC 4F DA E7 81 76 DE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11081 H 9875",
+    "id": "SUI76-1 M11 main",
+    "key": "27 F8 B6 D5 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11093 H 9875",
+    "id": "UKI1866 Match02 Main",
+    "key": "27 F8 B6 D5 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11105 H 9875",
+    "id": "2Sat HOL307 MAIN",
+    "key": "27 F8 B6 D5 AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 V 7200",
+    "id": "M-THREE 622 FEED1",
+    "key": "14 40 9F F3 DD C8 AA 4F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11189 H 7200",
+    "id": "UKI-1484 main",
+    "key": "20 25 03 48 28 12 13 4D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11523 V 7120",
+    "id": "EDM HD ENC-1",
+    "key": "B2 C5 D3 4A E6 F4 A7 81"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11607 V 7200",
+    "id": "LIVE_BR0ADCASTING_LINE1",
+    "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11166 V 7200",
+    "id": "NBA-BAL WORLD FEED",
+    "key": "B1 D3 F7 7B A6 C8 29 97"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11175 V 7200",
+    "id": "NBA-BAL AFRICA FEED",
+    "key": "4A 8C 1D F3 2B 9F 73 3D"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11273 H 7200",
+    "id": "POL-100   MAIN",
+    "key": "D0 32 7E 80 50 FF 79 C8"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10821 V 7500",
+    "id": "TUR156 Main",
+    "key": "C3 9C FC 5B 12 73 A1 26"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10829 V 7500",
+    "id": "E333 M",
+    "key": "4B 7C BA 81 83 5A A7 84"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10846 V 9875",
+    "id": "GCUK Enc 1",
+    "key": "5D F5 AF 01 2D 85 70 22"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12437 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12552 H 9875",
+    "id": "WSBK PORTIMAO",
+    "key": "CD CD 22 BC 22 CD CD BC"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "POL-141 ENC1",
+    "key": "AB BA 26 8B DC AE 03 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10996 V 7500",
+    "id": "POL037 TVN24 BIA",
+    "key": "77 93 52 5C 99 08 86 27"
+  }
+]
