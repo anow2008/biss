@@ -79,21 +79,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11189 H 7200",
-    "id": "UKI-1484 main",
-    "key": "20 25 03 48 28 12 13 4D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7120",
-    "id": "EDM HD ENC-1",
-    "key": "B2 C5 D3 4A E6 F4 A7 81"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11607 V 7200",
     "id": "LIVE_BR0ADCASTING_LINE1",
     "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12543 V 7200",
+    "id": "U21 GER - IRL",
+    "key": "27 03 DB 05 BB 89 76 BA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "POL 058_T2",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10768 V 34000",
+    "id": "LIGA HYPERMOTION 1",
+    "key": "21 26 9F E6 D5 B7 56 E2"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -115,7 +121,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10821 V 7500",
+    "frequency": "10820 V 7500",
     "id": "TUR156 Main",
     "key": "C3 9C FC 5B 12 73 A1 26"
   },
@@ -133,7 +139,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
+    "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -142,6 +148,18 @@
     "frequency": "12552 H 9875",
     "id": "WSBK PORTIMAO",
     "key": "CD CD 22 BC 22 CD CD BC"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
