@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11514 V 7500",
+        "id": "Argentina vs Mauritania",
+        "key": "B1 C2 D3 46 E4 F5 A6 7F"
+    },
+    {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "10768 V 34000",
         "id": "LIGA HYPERMOTION 2",
@@ -52,11 +58,5 @@
         "frequency": "12641 H 7200",
         "id": "F-509 PROD2 BEZIERS main",
         "key": "F5 10 26 2B 03 27 F1 1B"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11062 H 9875",
-        "id": "FBL Jena - Leipzig",
-        "key": "27 03 FD 27 EE 14 99 9B"
     }
 ]
