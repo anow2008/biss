@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10964 V 14400",
-    "id": "AZE-013  MAIN",
-    "key": "27 F8 B6 D5 AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10983 H 14400",
     "id": "AUT34M/M-5",
     "key": "27 F8 B6 D5 AC 8F 03 3E"
@@ -85,7 +79,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12543 V 7200",
+    "frequency": "12542 V 7200",
     "id": "U21 GER - IRL",
     "key": "27 03 DB 05 BB 89 76 BA"
   },
@@ -94,6 +88,12 @@
     "frequency": "12593 V 7200",
     "id": "POL 058_T2",
     "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12641 H 7200",
+    "id": "F-509 PROD2 BEZIERS main",
+    "key": "F5 10 26 2B 03 27 F1 1B"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -115,21 +115,15 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11264 H 7200",
+    "id": "F510 VALENCE PROD2",
+    "key": "F5 12 26 2D 03 27 F1 1B"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "11273 H 7200",
     "id": "POL-100   MAIN",
     "key": "D0 32 7E 80 50 FF 79 C8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10820 V 7500",
-    "id": "TUR156 Main",
-    "key": "C3 9C FC 5B 12 73 A1 26"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7500",
-    "id": "E333 M",
-    "key": "4B 7C BA 81 83 5A A7 84"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -139,21 +133,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12552 H 9875",
-    "id": "WSBK PORTIMAO",
-    "key": "CD CD 22 BC 22 CD CD BC"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
+    "frequency": "12583 V 7500",
+    "id": "TUR 112 MAIN",
+    "key": "95 58 F7 E4 B6 84 FC 36"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -169,8 +157,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL037 TVN24 BIA",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "11062 H 9875",
+    "id": "FBL Jena - Leipzig",
+    "key": "27 03 FD 27 EE 14 99 9B"
   }
 ]
