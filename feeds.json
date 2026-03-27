@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "28 F8 B6 D6 AC 8F 03 3E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11523 V 7500",
         "id": "LPGA - Ford Championship",
         "key": "E9 52 BD F8 65 27 96 22"
@@ -46,17 +58,5 @@
         "frequency": "11264 H 7200",
         "id": "F510 VALENCE PROD2",
         "key": "F5 12 26 2D 03 27 F1 1B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11098 V 7200",
-        "id": "Fi11_GNVE",
-        "key": "1C EC 25 2D CB AB 4E C4"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "21 26 9F E6 D5 B7 56 E2"
     }
 ]
