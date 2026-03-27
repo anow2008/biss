@@ -25,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11019 H 14400",
+    "frequency": "11018 H 14400",
     "id": "E394 1",
     "key": "27 F8 B6 D5 AC 8F 03 3E"
   },
@@ -61,6 +61,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11098 V 7200",
+    "id": "Fi11_GNVE",
+    "key": "1C EC 25 2D CB AB 4E C4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11105 H 9875",
     "id": "2Sat HOL307 MAIN",
     "key": "27 F8 B6 D5 AC 8F 03 3E"
@@ -73,13 +79,19 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11185 H 14400",
+    "id": "HOL311 Backup",
+    "key": "F3 11 D2 D6 7A B0 3E 68"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11607 V 7200",
     "id": "LIVE_BR0ADCASTING_LINE1",
     "key": "13 57 AB 15 CD 24 68 59"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12542 V 7200",
+    "frequency": "12543 V 7200",
     "id": "U21 GER - IRL",
     "key": "27 03 DB 05 BB 89 76 BA"
   },
@@ -94,6 +106,12 @@
     "frequency": "12641 H 7200",
     "id": "F-509 PROD2 BEZIERS main",
     "key": "F5 10 26 2B 03 27 F1 1B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12650 H 7200",
+    "id": "Medialink CRO-024/1",
+    "key": "20 25 AB F0 CD 20 26 13"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -142,12 +160,6 @@
     "frequency": "12583 V 7500",
     "id": "TUR 112 MAIN",
     "key": "95 58 F7 E4 B6 84 FC 36"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
