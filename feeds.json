@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12641 H 7200",
+        "id": "F-509 PROD2 BEZIERS main",
+        "key": "F5 10 26 2B 03 27 F1 1B"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11062 H 9875",
+        "id": "FBL Jena - Leipzig",
+        "key": "27 03 FD 27 EE 14 99 9B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12583 V 7500",
+        "id": "TUR 112 MAIN",
+        "key": "95 58 F7 E4 B6 84 FC 36"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11264 H 7200",
+        "id": "F510 VALENCE PROD2",
+        "key": "F5 12 26 2D 03 27 F1 1B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11098 V 7200",
+        "id": "Fi11_GNVE",
+        "key": "1C EC 25 2D CB AB 4E C4"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10768 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "21 26 9F E6 D5 B7 56 E2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12593 V 7200",
         "id": "POL 058_T2",
         "key": "15 58 35 A2 71 42 63 16"
@@ -28,23 +64,5 @@
         "frequency": "11044 V 7200",
         "id": "F419_MAIN",
         "key": "11 8B C1 5D F4 DE 50 22"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11107 V 7200",
-        "id": "M-THREE 622 FEED1",
-        "key": "14 40 9F F3 DD C8 AA 4F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11189 H 7200",
-        "id": "UKI-1484 main",
-        "key": "20 25 03 48 28 12 13 4D"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10996 V 7500",
-        "id": "POL037 TVN24 BIA",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
