@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11523 V 7500",
+        "id": "LPGA - Ford Championship",
+        "key": "E9 52 BD F8 65 27 96 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11062 H 7120",
         "id": "Pitch Newcastle Red B v Exeter",
         "key": "E9 09 AA 9C CC 7E 7E C8"
@@ -52,11 +58,5 @@
         "frequency": "10768 V 34000",
         "id": "LIGA HYPERMOTION 1",
         "key": "21 26 9F E6 D5 B7 56 E2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12593 V 7200",
-        "id": "POL 058_T2",
-        "key": "15 58 35 A2 71 42 63 16"
     }
 ]
