@@ -1,56 +1,38 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12542 V 7200",
-        "id": "U21 GER - IRL",
-        "key": "27 03 DB 05 BB 89 76 BA"
+        "frequency": "11044 V 7200",
+        "id": "F419_MAIN",
+        "key": "11 8B C1 5D F4 DE 50 22"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "DF AC 4F DA E7 81 76 DE"
+        "frequency": "11107 V 7200",
+        "id": "M-THREE 622 FEED1",
+        "key": "14 40 9F F3 DD C8 AA 4F"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11062 H 7200",
-        "id": "Fi16_GNVE",
-        "key": "BA 8F 9C E5 37 23 6B C5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11523 V 7500",
-        "id": "LPGA - Ford Championship",
-        "key": "E9 52 BD F8 65 27 96 22"
+        "frequency": "11189 H 7200",
+        "id": "UKI-1484 main",
+        "key": "20 25 03 48 28 12 13 4D"
     },
     {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "10996 V 7500",
-        "id": "POL086 TVN24 WAW",
+        "id": "POL037 TVN24 BIA",
         "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12647 V 7200",
-        "id": "Fi17GNVE",
-        "key": "DD 9E 2C A7 09 1F 0E 36"
+        "id": "LEUK_Fi05",
+        "key": "7A 45 61 20 F3 23 17 2D"
     },
     {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11265 H 7200",
-        "id": "LNR UK PROVENCE VS COLOMIERS PRO D2",
-        "key": "F5 76 26 91 03 26 F2 1B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12611 V 7200",
-        "id": "GCUK Enc 1",
-        "key": "FD DC 20 F9 26 DC FD FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12592 V 7200",
-        "id": "GCUK Enc 2",
-        "key": "23 01 71 95 96 52 0A F2"
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10973 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "AB BA 26 8B DC AE 03 8D"
     }
 ]
