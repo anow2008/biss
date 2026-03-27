@@ -91,18 +91,6 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11166 V 7200",
-    "id": "NBA-BAL WORLD FEED",
-    "key": "B1 D3 F7 7B A6 C8 29 97"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11175 V 7200",
-    "id": "NBA-BAL AFRICA FEED",
-    "key": "4A 8C 1D F3 2B 9F 73 3D"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "11264 H 7200",
     "id": "F510 VALENCE PROD2",
     "key": "F5 12 26 2D 03 27 F1 1B"
@@ -121,7 +109,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -130,23 +118,5 @@
     "frequency": "12583 V 7500",
     "id": "TUR 112 MAIN",
     "key": "95 58 F7 E4 B6 84 FC 36"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 03 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11062 H 9875",
-    "id": "FBL Jena - Leipzig",
-    "key": "27 03 FD 27 EE 14 99 9B"
   }
 ]
