@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11062 H 7120",
+        "id": "Pitch Newcastle Red B v Exeter",
+        "key": "E9 09 AA 9C CC 7E 7E C8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11185 H 14400",
         "id": "HOL311 Backup",
         "key": "F3 11 D2 D6 7A B0 3E 68"
@@ -58,17 +64,5 @@
         "frequency": "10966 H 3333",
         "id": "DEFAULT",
         "key": "AA CD 33 AA 27 CB AB 9D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12543 V 7200",
-        "id": "U21 GER - IRL",
-        "key": "27 03 DB 05 BB 89 76 BA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11607 V 7200",
-        "id": "LIVE_BR0ADCASTING_LINE1",
-        "key": "13 57 AB 15 CD 24 68 59"
     }
 ]
