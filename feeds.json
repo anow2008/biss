@@ -58,11 +58,5 @@
         "frequency": "12593 V 7200",
         "id": "POL 058_T2",
         "key": "15 58 35 A2 71 42 63 16"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT",
-        "key": "AA CD 33 AA 27 CB AB 9D"
     }
 ]
