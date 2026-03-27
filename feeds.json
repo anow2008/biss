@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11185 H 14400",
+        "id": "HOL311 Backup",
+        "key": "F3 11 D2 D6 7A B0 3E 68"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12650 H 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "20 25 AB F0 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12641 H 7200",
         "id": "F-509 PROD2 BEZIERS main",
         "key": "F5 10 26 2B 03 27 F1 1B"
@@ -58,11 +70,5 @@
         "frequency": "11607 V 7200",
         "id": "LIVE_BR0ADCASTING_LINE1",
         "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11044 V 7200",
-        "id": "F419_MAIN",
-        "key": "11 8B C1 5D F4 DE 50 22"
     }
 ]
