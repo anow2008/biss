@@ -76,11 +76,5 @@
         "frequency": "11484 H 7200",
         "id": "EHF WOMEN DIJON",
         "key": "FF DE D0 AD 32 8E 70 30"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11523 V 7200",
-        "id": "LIVE_BR0ADCASTING_LINE1",
-        "key": "13 57 AB 15 CD 24 68 59"
     }
 ]
