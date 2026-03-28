@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11523 V 7200",
+        "id": "LIVE_BR0ADCASTING_LINE1",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11062 V 7200",
+        "id": "LEUK_Fi01",
+        "key": "23 AE 07 D8 33 24 1A 71"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11107 V 7200",
+        "id": "M-TREE 622 FEED 1",
+        "key": "14 40 9F F3 DD C8 AA 4F"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "12562 H 4938",
+        "id": "ITA 415 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10996 V 7200",
+        "id": "F512 marseille d1",
+        "key": "4E AC FE F8 30 39 76 DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11475 H 7200",
+        "id": "B 123 DGI",
+        "key": "FF CD D0 9C 32 8E 70 30"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11589 V 7200",
+        "id": "E-073 MAIN",
+        "key": "AA BB 20 85 26 03 28 51"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "10962 H 3333",
         "id": "DEFAULT",
@@ -28,65 +70,5 @@
         "frequency": "12630 V 9875",
         "id": "SUI 066 MAIN",
         "key": "9E 46 45 29 19 2D 2D 73"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11469 V 7200",
-        "id": "Meydan-SNG_Bck-M",
-        "key": "CA FE D0 98 0D DE AD 98"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11044 V 7200",
-        "id": "F419_MAIN",
-        "key": "AD A7 B4 08 9A AE AB F3"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11176 V 7200",
-        "id": "NBA-BAL AFRICA FEED",
-        "key": "E1 B7 C3 5B F9 A4 62 FF"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11167 V 7200",
-        "id": "NBA-BAL WORLD FEED",
-        "key": "7C 9E 4B 65 1A 2D 68 AF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12552 H 9875",
-        "id": "WSBK PORTIMAO",
-        "key": "31 31 AC 0E CA 31 31 2C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10846 V 9875",
-        "id": "IPF",
-        "key": "E5 89 7D EB 29 EC AE C3"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11062 H 9875",
-        "id": "FBL FC Bayern",
-        "key": "28 03 BD E8 DE 08 77 5D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10821 V 7500",
-        "id": "E333 M",
-        "key": "D5 13 7E 66 27 E9 27 37"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11273 H 7200",
-        "id": "POL-100   MAIN",
-        "key": "FF 79 D0 48 32 8E 50 10"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12728 V 7500",
-        "id": "ENC 10",
-        "key": "F1 07 45 3D E6 CB AD 5E"
     }
 ]
