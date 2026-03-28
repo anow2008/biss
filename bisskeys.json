@@ -7,15 +7,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10983 H 14400",
-    "id": "ITA198 NTF M3 Main",
-    "key": "28 F8 B6 D6 AC 8F 03 3E"
+    "frequency": "10969 V 7120",
+    "id": "Pitch - Bristol V Harlequinns",
+    "key": "12 CD 00 DF EE 7F 7F EC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7120",
-    "id": "Pitch EFL - Harrogate v Notts County",
-    "key": "C6 6C 39 6B BC 32 73 61"
+    "frequency": "10978 V 7200",
+    "id": "E285 MAIN",
+    "key": "45 C6 31 3C A0 B6 89 DF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10983 H 14400",
+    "id": "ITA198 NTF M3 Main",
+    "key": "28 F8 B6 D6 AC 8F 03 3E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,15 +49,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11098 V 7200",
-    "id": "KAZ-004",
-    "key": "B8 B3 1A 85 16 6F 13 98"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11105 H 9875",
     "id": "ita315_Main",
     "key": "8B D0 54 AF 0F 81 D2 62"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11469 V 7200",
+    "id": "Meydan-SNG_Bck-M",
+    "key": "CA FE D0 98 0D DE AD 98"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,7 +67,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11509 V 15000",
+    "frequency": "11510 V 15000",
     "id": "Unname",
     "key": "23 DA AC A9 C1 20 DC BD"
   },
@@ -70,6 +76,12 @@
     "frequency": "11598 V 7200",
     "id": "Meydan World Feed Produced Programme",
     "key": "23 CD BA AA C2 12 EA BE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7200",
+    "id": "HBL Magdeburg-Berlin",
+    "key": "20 26 AB F1 DC 28 03 07"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -82,6 +94,12 @@
     "frequency": "12573 H 7200",
     "id": "F489 CLEAN MAIN",
     "key": "6A 7B 8C 71 9D AE FB 46"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12631 V 9875",
+    "id": "SUI 066 MAIN",
+    "key": "9E 46 45 29 19 2D 2D 73"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -103,27 +121,21 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11167 V 7200",
+    "frequency": "11166 V 7200",
     "id": "NBA-BAL WORLD FEED",
     "key": "7C 9E 4B 65 1A 2D 68 AF"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11176 V 7200",
+    "frequency": "11175 V 7200",
     "id": "NBA-BAL AFRICA FEED",
     "key": "E1 B7 C3 5B F9 A4 62 FF"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11273 H 7200",
+    "frequency": "11274 H 7200",
     "id": "POL-100   MAIN",
     "key": "FF 79 D0 48 32 8E 50 10"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10821 V 7500",
-    "id": "E333 M",
-    "key": "D5 13 7E 66 27 E9 27 37"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -133,7 +145,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -145,14 +157,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
+    "frequency": "10962 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11062 H 9875",
-    "id": "FBL FC Bayern",
-    "key": "28 03 BD E8 DE 08 77 5D"
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   }
 ]
