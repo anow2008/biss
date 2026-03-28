@@ -1,9 +1,81 @@
 [
     {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11176 V 7200",
+        "id": "NBA-BAL AFRICA FEED",
+        "key": "E1 B7 C3 5B F9 A4 62 FF"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11167 V 7200",
+        "id": "NBA-BAL WORLD FEED",
+        "key": "7C 9E 4B 65 1A 2D 68 AF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12552 H 9875",
+        "id": "WSBK PORTIMAO",
+        "key": "31 31 AC 0E CA 31 31 2C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10846 V 9875",
+        "id": "IPF",
+        "key": "E5 89 7D EB 29 EC AE C3"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11062 H 9875",
+        "id": "FBL FC Bayern",
+        "key": "28 03 BD E8 DE 08 77 5D"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10966 H 3333",
+        "id": "DEFAULT",
+        "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10821 V 7500",
+        "id": "E333 M",
+        "key": "D5 13 7E 66 27 E9 27 37"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11273 H 7200",
+        "id": "POL-100   MAIN",
+        "key": "FF 79 D0 48 32 8E 50 10"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11514 V 7500",
-        "id": "Argentina vs Mauritania",
-        "key": "B1 C2 D3 46 E4 F5 A6 7F"
+        "frequency": "12728 V 7500",
+        "id": "ENC 10",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12563 H 9600",
+        "id": "F529_DIRTY_MAIN",
+        "key": "7A 7B 7C 71 7D 7E 7F 7A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11598 V 7200",
+        "id": "Meydan World Feed Produced Programme",
+        "key": "23 CD BA AA C2 12 EA BE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11509 V 15000",
+        "id": "Unname",
+        "key": "23 DA AC A9 C1 20 DC BD"
     },
     {
         "satellite": "Eutelsat 10A  10.0E",
@@ -19,44 +91,20 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "12 3C AA F8 14 22 A3 D9"
+        "frequency": "11089 V 7200",
+        "id": "ITA390 A",
+        "key": "09 52 AF 0A 3B 98 09 DC"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "28 F8 B6 D6 AC 8F 03 3E"
+        "frequency": "12573 H 7200",
+        "id": "F489 CLEAN MAIN",
+        "key": "6A 7B 8C 71 9D AE FB 46"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11523 V 7500",
-        "id": "LPGA - Ford Championship",
-        "key": "E9 52 BD F8 65 27 96 22"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11062 H 7120",
-        "id": "Pitch Newcastle Red B v Exeter",
-        "key": "E9 09 AA 9C CC 7E 7E C8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11185 H 14400",
-        "id": "HOL311 Backup",
-        "key": "F3 11 D2 D6 7A B0 3E 68"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12650 H 7200",
-        "id": "Medialink CRO-024/1",
-        "key": "20 25 AB F0 CD 20 26 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12641 H 7200",
-        "id": "F-509 PROD2 BEZIERS main",
-        "key": "F5 10 26 2B 03 27 F1 1B"
+        "frequency": "11019 H 15000",
+        "id": "South Korea v Ivory Coast enc 1",
+        "key": "A2 24 CA 90 BC 15 A4 75"
     }
 ]
