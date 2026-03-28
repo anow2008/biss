@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 V 7200",
-    "id": "F512 marseille d1",
-    "key": "4E AC FE F8 30 39 76 DF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11005 V 7200",
     "id": "F511/APL NANTES PSG",
     "key": "4E AC FE F8 30 39 76 DF"
@@ -37,18 +31,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11189 H 7200",
-    "id": "enfusion 158",
-    "key": "9F 8E 7D AA 6C 5B 4A 11"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11484 H 7200",
-    "id": "EHF WOMEN DIJON",
-    "key": "FF DE D0 AD 32 8E 70 30"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11492 V 15000",
     "id": "Unname",
     "key": "23 DA AC A9 C1 20 DC BD"
@@ -58,12 +40,6 @@
     "frequency": "11510 V 15000",
     "id": "Unname",
     "key": "23 DA AC A9 C1 20 DC BD"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7200",
-    "id": "LIVE_BR0ADCASTING_LINE1",
-    "key": "13 57 AB 15 CD 24 68 59"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -103,7 +79,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10768 V 34000",
+    "frequency": "10767 V 34000",
     "id": "LIGA HYPERMOTION 1",
     "key": "BD 34 5E 4F C2 FB 95 52"
   },
@@ -139,7 +115,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
+    "frequency": "10962 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
   },
@@ -153,12 +129,6 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12556 H 4938",
     "id": "YSM-015BU",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12568 H 4938",
-    "id": "YSM-013M",
     "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
