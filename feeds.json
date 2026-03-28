@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12736 V 7200",
+        "id": "UFC Fight Night on P 6 All Fights",
+        "key": "33 71 9A 3E 12 1C 27 55"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10820 V 7200",
+        "id": "GCUK Enc 3",
+        "key": "CE 27 DE D3 F2 26 12 2A"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11256 H 7200",
+        "id": "URC",
+        "key": "1E 83 F2 93 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11107 H 7200",
+        "id": "Fi01 ACB",
+        "key": "C9 9A 11 74 5B 46 2A CB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12510 V 7200",
+        "id": "E-228 Main",
+        "key": "AA AA 28 7C 03 BB BB 79"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12522 H 4938",
         "id": "CRO-023/1",
         "key": "AB BA 20 85 25 20 26 6B"
@@ -58,11 +88,5 @@
         "frequency": "11062 V 7200",
         "id": "LEUK_Fi01",
         "key": "23 AE 07 D8 33 24 1A 71"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11107 V 7200",
-        "id": "M-TREE 622 FEED 1",
-        "key": "14 40 9F F3 DD C8 AA 4F"
     }
 ]
