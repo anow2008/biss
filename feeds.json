@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "20 26 A9 EF 97 AB DA 1C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12545 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11484 H 7200",
+        "id": "EHF WOMEN DIJON",
+        "key": "FF DE D0 AD 32 8E 70 30"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11523 V 7200",
         "id": "LIVE_BR0ADCASTING_LINE1",
         "key": "13 57 AB 15 CD 24 68 59"
@@ -16,12 +34,6 @@
         "frequency": "11107 V 7200",
         "id": "M-TREE 622 FEED 1",
         "key": "14 40 9F F3 DD C8 AA 4F"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "12562 H 4938",
-        "id": "ITA 415 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
@@ -58,17 +70,5 @@
         "frequency": "10978 V 7200",
         "id": "E285 MAIN",
         "key": "45 C6 31 3C A0 B6 89 DF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12511 V 7200",
-        "id": "HBL Magdeburg-Berlin",
-        "key": "20 26 AB F1 DC 28 03 07"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12630 V 9875",
-        "id": "SUI 066 MAIN",
-        "key": "9E 46 45 29 19 2D 2D 73"
     }
 ]
