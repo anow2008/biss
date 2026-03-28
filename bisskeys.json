@@ -61,7 +61,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11492 V 15000",
+    "frequency": "11491 V 15000",
     "id": "Unname",
     "key": "23 DA AC A9 C1 20 DC BD"
   },
@@ -97,6 +97,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12545 H 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12563 H 9600",
     "id": "F529_DIRTY_MAIN",
     "key": "7A 7B 7C 71 7D 7E 7F 7A"
@@ -109,9 +115,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7200",
-    "id": "E380 MAIN",
-    "key": "6A 64 D4 A2 E3 33 47 5D"
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "20 26 A9 EF 97 AB DA 1C"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
