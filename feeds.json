@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10960 V 7120",
+        "id": "Pitch Gallagher - Saracens v Northampton",
+        "key": "C6 6C 23 55 32 14 C4 0A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12602 V 7200",
         "id": "POL 058_T1",
         "key": "15 58 35 A2 71 42 63 16"
