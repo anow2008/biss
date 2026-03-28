@@ -1,8 +1,8 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12736 V 7200",
-        "id": "UFC Fight Night on P 6 All Fights",
+        "frequency": "11014 V 7200",
+        "id": "WSHT ENC 58",
         "key": "33 71 9A 3E 12 1C 27 55"
     },
     {
@@ -82,11 +82,5 @@
         "frequency": "11523 V 7200",
         "id": "LIVE_BR0ADCASTING_LINE1",
         "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11062 V 7200",
-        "id": "LEUK_Fi01",
-        "key": "23 AE 07 D8 33 24 1A 71"
     }
 ]
