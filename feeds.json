@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10978 V 7200",
+        "id": "E285 MAIN",
+        "key": "45 C6 31 3C A0 B6 89 DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12511 V 7200",
+        "id": "HBL Magdeburg-Berlin",
+        "key": "20 26 AB F1 DC 28 03 07"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12630 V 9875",
+        "id": "SUI 066 MAIN",
+        "key": "9E 46 45 29 19 2D 2D 73"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11469 V 7200",
+        "id": "Meydan-SNG_Bck-M",
+        "key": "CA FE D0 98 0D DE AD 98"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11044 V 7200",
+        "id": "F419_MAIN",
+        "key": "AD A7 B4 08 9A AE AB F3"
+    },
+    {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "11176 V 7200",
         "id": "NBA-BAL AFRICA FEED",
@@ -76,35 +106,5 @@
         "frequency": "11509 V 15000",
         "id": "Unname",
         "key": "23 DA AC A9 C1 20 DC BD"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 2",
-        "key": "B3 62 3D 52 C1 2B E0 CC"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "BD 34 5E 4F C2 FB 95 52"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11089 V 7200",
-        "id": "ITA390 A",
-        "key": "09 52 AF 0A 3B 98 09 DC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12573 H 7200",
-        "id": "F489 CLEAN MAIN",
-        "key": "6A 7B 8C 71 9D AE FB 46"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11019 H 15000",
-        "id": "South Korea v Ivory Coast enc 1",
-        "key": "A2 24 CA 90 BC 15 A4 75"
     }
 ]
