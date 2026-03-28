@@ -1,20 +1,26 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 V 7120",
+    "id": "Pitch Gallagher - Saracens v Northampton",
+    "key": "C6 6C 23 55 32 14 C4 0A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10965 H 14400",
     "id": "HUN-022 - 1 - M2",
     "key": "28 F8 B6 D6 AC 8F 03 3E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10969 V 7120",
-    "id": "Pitch - Bristol V Harlequinns",
-    "key": "12 CD 00 DF EE 7F 7F EC"
+    "frequency": "10996 V 7200",
+    "id": "F512 marseille d1",
+    "key": "4E AC FE F8 30 39 76 DF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 V 7200",
-    "id": "F512 marseille d1",
+    "frequency": "11005 V 7200",
+    "id": "F511/APL NANTES PSG",
     "key": "4E AC FE F8 30 39 76 DF"
   },
   {
@@ -37,7 +43,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11081 H 9875",
+    "frequency": "11080 H 9875",
     "id": "UKI-1957 Sco Japan",
     "key": "28 F8 B6 D6 AC 8F 03 3E"
   },
@@ -49,7 +55,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11491 V 15000",
+    "frequency": "11484 H 7200",
+    "id": "EHF WOMEN DIJON",
+    "key": "FF DE D0 AD 32 8E 70 30"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11492 V 15000",
     "id": "Unname",
     "key": "23 DA AC A9 C1 20 DC BD"
   },
