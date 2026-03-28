@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12602 V 7200",
+        "id": "POL 058_T1",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11247 H 7200",
+        "id": "Encoder 1",
+        "key": "9C 2B 3D 04 5D 94 C9 BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12593 V 7200",
         "id": "Polsat Sport",
         "key": "20 26 A9 EF 97 AB DA 1C"
@@ -52,23 +64,5 @@
         "frequency": "11589 V 7200",
         "id": "E-073 MAIN",
         "key": "AA BB 20 85 26 03 28 51"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10962 H 3333",
-        "id": "DEFAULT",
-        "key": "AA CD 33 AA 27 CB AB 9D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10969 V 7120",
-        "id": "Pitch - Bristol V Harlequinns",
-        "key": "12 CD 00 DF EE 7F 7F EC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10978 V 7200",
-        "id": "E285 MAIN",
-        "key": "45 C6 31 3C A0 B6 89 DF"
     }
 ]
