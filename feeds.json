@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10962 H 3333",
+        "id": "DEFAULT",
+        "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10969 V 7120",
+        "id": "Pitch - Bristol V Harlequinns",
+        "key": "12 CD 00 DF EE 7F 7F EC"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "10978 V 7200",
         "id": "E285 MAIN",
@@ -60,12 +72,6 @@
         "key": "28 03 BD E8 DE 08 77 5D"
     },
     {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT",
-        "key": "AA CD 33 AA 27 CB AB 9D"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
         "frequency": "10821 V 7500",
         "id": "E333 M",
@@ -82,29 +88,5 @@
         "frequency": "12728 V 7500",
         "id": "ENC 10",
         "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12563 H 9600",
-        "id": "F529_DIRTY_MAIN",
-        "key": "7A 7B 7C 71 7D 7E 7F 7A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11598 V 7200",
-        "id": "Meydan World Feed Produced Programme",
-        "key": "23 CD BA AA C2 12 EA BE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11509 V 15000",
-        "id": "Unname",
-        "key": "23 DA AC A9 C1 20 DC BD"
     }
 ]
