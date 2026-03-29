@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10723 V 15000",
+        "id": "OCC 1",
+        "key": "29 78 AB 4C 56 34 DA 64"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "10996 V 7200",
         "id": "VOLLEY_WORLD_MAIN",
@@ -82,11 +88,5 @@
         "frequency": "10829 V 7500",
         "id": "E333 M",
         "key": "18 8D EB 90 F7 C0 CB 82"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11176 H 9875",
-        "id": "FBL Wolfsburg-Berlin",
-        "key": "29 03 BA E6 CD 96 66 C9"
     }
 ]
