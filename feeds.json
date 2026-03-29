@@ -1,74 +1,110 @@
 [
     {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11014 V 7200",
-        "id": "WSHT ENC 58",
-        "key": "33 71 9A 3E 12 1C 27 55"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10820 V 7200",
-        "id": "GCUK Enc 3",
-        "key": "CE 27 DE D3 F2 26 12 2A"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11256 H 7200",
-        "id": "URC",
-        "key": "1E 83 F2 93 CA 53 9D BA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11107 H 7200",
-        "id": "Fi01 ACB",
-        "key": "C9 9A 11 74 5B 46 2A CB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12510 V 7200",
-        "id": "E-228 Main",
-        "key": "AA AA 28 7C 03 BB BB 79"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12522 H 4938",
-        "id": "CRO-023/1",
-        "key": "AB BA 20 85 25 20 26 6B"
+        "frequency": "10829 V 7500",
+        "id": "E333 M",
+        "key": "18 8D EB 90 F7 C0 CB 82"
     },
     {
         "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10986 V 9600",
-        "id": "POL 030",
+        "frequency": "11176 H 9875",
+        "id": "FBL Wolfsburg-Berlin",
+        "key": "29 03 BA E6 CD 96 66 C9"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10973 V 9600",
+        "id": "POL11_HARM",
         "key": "AB BA 26 8B DC AE 03 8D"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11189 H 7200",
-        "id": "ISMF",
-        "key": "9F 8E 7D AA 6C 5B 4A 11"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10960 V 7120",
-        "id": "Pitch Gallagher - Saracens v Northampton",
-        "key": "C6 6C 23 55 32 14 C4 0A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12602 V 7200",
-        "id": "POL 058_T1",
-        "key": "15 58 35 A2 71 42 63 16"
+        "frequency": "11014 V 7200",
+        "id": "E-228 Main",
+        "key": "A6 5F F5 FA A5 E6 96 21"
     },
     {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "11247 H 7200",
-        "id": "Encoder 1",
-        "key": "9C 2B 3D 04 5D 94 C9 BA"
+        "id": "Encoder 2",
+        "key": "58 37 6A F9 ED DD FD C7"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11255 H 7200",
+        "id": "Encoder 3",
+        "key": "C4 B9 52 CF 8E D2 7C DC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10846 V 9875",
+        "id": "IPF",
+        "key": "59 70 45 0E 79 AF DC 04"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11175 V 7200",
+        "id": "NBA-BAL AFRICA FEED",
+        "key": "A7 D2 C1 3A F3 E8 64 3F"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11166 V 7200",
+        "id": "NBA-BAL WORLD FEED",
+        "key": "3F 8A 6C 35 2D 1B 97 DF"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12593 V 7200",
-        "id": "Polsat Sport",
-        "key": "20 26 A9 EF 97 AB DA 1C"
+        "frequency": "11093 H 9875",
+        "id": "WSHT ENC49",
+        "key": "29 B8 82 63 50 08 FF 57"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 H 7200",
+        "id": "ITA",
+        "key": "3E 83 F2 B3 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10996 H 7200",
+        "id": "Fi16_GNVE",
+        "key": "A3 4D 5C 4C E6 32 F1 09"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10983 H 14400",
+        "id": "E 363 M",
+        "key": "29 F8 B6 D7 AC 8F 03 3E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12510 V 7200",
+        "id": "HBL Stuttgart-Lemgo",
+        "key": "20 26 AB F1 DC 29 03 08"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11484 H 7200",
+        "id": "D-312",
+        "key": "E7 0F FD F3 BD 03 29 E9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11081 H 9875",
+        "id": "ita315_Main",
+        "key": "8B D0 54 AF 0F 81 D2 62"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11135 H 7200",
+        "id": "VRT encoder 10",
+        "key": "E7 1F F2 F8 6D 03 29 99"
     }
 ]
