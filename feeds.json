@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10996 V 7200",
+        "id": "VOLLEY_WORLD_MAIN",
+        "key": "D3 DF 85 37 2B 14 6D AC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12687 H 7200",
+        "id": "SF LNR UK",
+        "key": "F4 94 26 AE 03 29 F2 1E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11607 V 7200",
         "id": "BT ATEME ENC 6",
         "key": "F1 C2 1F D2 07 11 AB C3"
@@ -76,11 +88,5 @@
         "frequency": "11176 H 9875",
         "id": "FBL Wolfsburg-Berlin",
         "key": "29 03 BA E6 CD 96 66 C9"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10973 V 9600",
-        "id": "POL11_HARM",
-        "key": "AB BA 26 8B DC AE 03 8D"
     }
 ]
