@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10768 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "6F BD E7 13 6F 61 67 37"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11044 V 7200",
+        "id": "F419_MAIN",
+        "key": "2C F4 87 A7 FF 29 AA D2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 V 7500",
+        "id": "ENC 21",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12602 V 7200",
+        "id": "POL-080 MAIN",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
         "frequency": "10829 V 7500",
         "id": "E333 M",
@@ -82,29 +106,5 @@
         "frequency": "10983 H 14400",
         "id": "E 363 M",
         "key": "29 F8 B6 D7 AC 8F 03 3E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12510 V 7200",
-        "id": "HBL Stuttgart-Lemgo",
-        "key": "20 26 AB F1 DC 29 03 08"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11484 H 7200",
-        "id": "D-312",
-        "key": "E7 0F FD F3 BD 03 29 E9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11081 H 9875",
-        "id": "ita315_Main",
-        "key": "8B D0 54 AF 0F 81 D2 62"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11135 H 7200",
-        "id": "VRT encoder 10",
-        "key": "E7 1F F2 F8 6D 03 29 99"
     }
 ]
