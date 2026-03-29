@@ -19,21 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 H 7200",
-    "id": "Fi01 ACB",
-    "key": "F4 4F 5F A2 C3 22 61 46"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11607 V 7200",
     "id": "BT ATEME ENC 6",
     "key": "F1 C2 1F D2 07 11 AB C3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
-    "id": "CRO-023/1",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,6 +55,12 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10723 V 15000",
+    "id": "OCC 1",
+    "key": "29 78 AB 4C 56 34 DA 64"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10768 V 34000",
     "id": "LIGA HYPERMOTION 1",
     "key": "6F BD E7 13 6F 61 67 37"
@@ -85,9 +79,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
