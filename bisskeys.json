@@ -7,9 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "E-228 Main",
-    "key": "A6 5F F5 FA A5 E6 96 21"
+    "frequency": "11005 V 7200",
+    "id": "ITA 790 WORLD FEED MODENA",
+    "key": "F9 00 70 69 6A EA 22 76"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,9 +31,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11135 H 7200",
-    "id": "VRT encoder 10",
-    "key": "E7 1F F2 F8 6D 03 29 99"
+    "frequency": "11107 H 7200",
+    "id": "Fi01 ACB",
+    "key": "F4 4F 5F A2 C3 22 61 46"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,9 +49,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12516 H 4938",
+    "id": "CRO-023/1",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12602 V 7200",
     "id": "POL-080 MAIN",
     "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12678 H 7200",
+    "id": "PGM SOS SF",
+    "key": "F4 94 26 AE 03 29 F1 1D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -109,15 +121,21 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
     "id": "POL11_HARM",
     "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11176 H 9875",
-    "id": "FBL Wolfsburg-Berlin",
-    "key": "29 03 BA E6 CD 96 66 C9"
+    "frequency": "10986 V 9600",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 03 8D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
