@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11607 V 7200",
+        "id": "BT ATEME ENC 6",
+        "key": "F1 C2 1F D2 07 11 AB C3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12521 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10820 V 7500",
+        "id": "TUR-119 Main",
+        "key": "5F 98 1D 14 23 38 6A C5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12678 H 7200",
         "id": "PGM SOS SF",
         "key": "F4 94 26 AE 03 29 F1 1D"
@@ -10,12 +28,6 @@
         "frequency": "11107 H 7200",
         "id": "Fi01 ACB",
         "key": "F4 4F 5F A2 C3 22 61 46"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12516 H 4938",
-        "id": "CRO-023/1",
-        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 16A  16.0E",
@@ -70,29 +82,5 @@
         "frequency": "10973 V 9600",
         "id": "POL11_HARM",
         "key": "AB BA 26 8B DC AE 03 8D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11014 V 7200",
-        "id": "E-228 Main",
-        "key": "A6 5F F5 FA A5 E6 96 21"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11247 H 7200",
-        "id": "Encoder 2",
-        "key": "58 37 6A F9 ED DD FD C7"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11255 H 7200",
-        "id": "Encoder 3",
-        "key": "C4 B9 52 CF 8E D2 7C DC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10846 V 9875",
-        "id": "IPF",
-        "key": "59 70 45 0E 79 AF DC 04"
     }
 ]
