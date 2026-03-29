@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 H 7200",
-    "id": "Fi16_GNVE",
-    "key": "A3 4D 5C 4C E6 32 F1 09"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 V 7200",
-    "id": "ITA 790 WORLD FEED MODENA",
-    "key": "F9 00 70 69 6A EA 22 76"
+    "frequency": "10996 V 7200",
+    "id": "VOLLEY_WORLD_MAIN",
+    "key": "D3 DF 85 37 2B 14 6D AC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -28,12 +22,6 @@
     "frequency": "11107 H 7200",
     "id": "Fi01 ACB",
     "key": "F4 4F 5F A2 C3 22 61 46"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7200",
-    "id": "EHF",
-    "key": "13 57 AB 15 CD 24 68 59"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -72,28 +60,16 @@
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 H 7200",
+    "id": "SF LNR UK",
+    "key": "F4 94 26 AE 03 29 F2 1E"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10768 V 34000",
     "id": "LIGA HYPERMOTION 1",
     "key": "6F BD E7 13 6F 61 67 37"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11166 V 7200",
-    "id": "NBA-BAL WORLD FEED",
-    "key": "3F 8A 6C 35 2D 1B 97 DF"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11175 V 7200",
-    "id": "NBA-BAL AFRICA FEED",
-    "key": "A7 D2 C1 3A F3 E8 64 3F"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11255 H 7200",
-    "id": "Encoder 3",
-    "key": "C4 B9 52 CF 8E D2 7C DC"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -115,14 +91,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
+    "frequency": "10986 V 9600",
     "id": "POL138_A",
     "key": "AB BA 26 8B DC AE 03 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11188 H 9875",
-    "id": "FBL Freiburg",
-    "key": "29 03 BA E6 CD 96 66 C9"
   }
 ]
