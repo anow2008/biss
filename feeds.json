@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 H 7200",
+        "id": "PGM SOS SF",
+        "key": "F4 94 26 AE 03 29 F1 1D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11107 H 7200",
+        "id": "Fi01 ACB",
+        "key": "F4 4F 5F A2 C3 22 61 46"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12516 H 4938",
+        "id": "CRO-023/1",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10962 H 3333",
+        "id": "DEFAULT",
+        "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11005 V 7200",
+        "id": "ITA 790 WORLD FEED MODENA",
+        "key": "F9 00 70 69 6A EA 22 76"
+    },
+    {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "10768 V 34000",
         "id": "LIGA HYPERMOTION 1",
@@ -64,47 +94,5 @@
         "frequency": "10846 V 9875",
         "id": "IPF",
         "key": "59 70 45 0E 79 AF DC 04"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11175 V 7200",
-        "id": "NBA-BAL AFRICA FEED",
-        "key": "A7 D2 C1 3A F3 E8 64 3F"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11166 V 7200",
-        "id": "NBA-BAL WORLD FEED",
-        "key": "3F 8A 6C 35 2D 1B 97 DF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11093 H 9875",
-        "id": "WSHT ENC49",
-        "key": "29 B8 82 63 50 08 FF 57"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12678 H 7200",
-        "id": "ITA",
-        "key": "3E 83 F2 B3 CA 53 9D BA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10996 H 7200",
-        "id": "Fi16_GNVE",
-        "key": "A3 4D 5C 4C E6 32 F1 09"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10983 H 14400",
-        "id": "E 363 M",
-        "key": "29 F8 B6 D7 AC 8F 03 3E"
     }
 ]
