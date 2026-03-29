@@ -70,11 +70,5 @@
         "frequency": "12593 V 7200",
         "id": "Polsat Sport",
         "key": "20 26 A9 EF 97 AB DA 1C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11484 H 7200",
-        "id": "EHF WOMEN DIJON",
-        "key": "FF DE D0 AD 32 8E 70 30"
     }
 ]
