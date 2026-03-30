@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10965 H 14400",
+    "id": "NTF MATCH 01 EUROPE MAIN",
+    "key": "30 F8 B6 DE AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10983 H 14400",
+    "id": "AZE-013  MAIN",
+    "key": "30 F8 B6 DE AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11081 H 9875",
+    "id": "HOL-241-Stuttgart-1",
+    "key": "30 F8 B6 DE AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12522 H 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
+  }
+]
