@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12737 V 7200",
+        "id": "EN 2",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12516 H 4938",
+        "id": "YSM-015BU",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11505 V 7200",
         "id": "KOSICE",
         "key": "13 57 AB 15 CD 24 68 59"
@@ -40,23 +52,5 @@
         "frequency": "11081 H 9875",
         "id": "HOL-241-Stuttgart-1",
         "key": "30 F8 B6 DE AC 8F 03 3E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12522 H 4938",
-        "id": "YSM-021M",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11523 V 7500",
-        "id": "LPGA - Ford Championship",
-        "key": "E9 52 BD F8 65 27 96 22"
     }
 ]
