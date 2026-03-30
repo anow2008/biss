@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11081 H 9875",
+        "id": "HOL-241-Stuttgart-1",
+        "key": "30 F8 B6 DE AC 8F 03 3E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12522 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11523 V 7500",
         "id": "LPGA - Ford Championship",
         "key": "E9 52 BD F8 65 27 96 22"
@@ -30,12 +48,6 @@
         "key": "F1 C2 1F D2 07 11 AB C3"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12521 H 4938",
-        "id": "YSM-021M",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
         "frequency": "10820 V 7500",
         "id": "TUR-119 Main",
@@ -46,47 +58,5 @@
         "frequency": "12678 H 7200",
         "id": "PGM SOS SF",
         "key": "F4 94 26 AE 03 29 F1 1D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11107 H 7200",
-        "id": "Fi01 ACB",
-        "key": "F4 4F 5F A2 C3 22 61 46"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10962 H 3333",
-        "id": "DEFAULT",
-        "key": "AA CD 33 AA 27 CB AB 9D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11005 V 7200",
-        "id": "ITA 790 WORLD FEED MODENA",
-        "key": "F9 00 70 69 6A EA 22 76"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "6F BD E7 13 6F 61 67 37"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11044 V 7200",
-        "id": "F419_MAIN",
-        "key": "2C F4 87 A7 FF 29 AA D2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12678 V 7500",
-        "id": "ENC 21",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12602 V 7200",
-        "id": "POL-080 MAIN",
-        "key": "15 58 35 A2 71 42 63 16"
     }
 ]
