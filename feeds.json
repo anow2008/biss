@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12687 V 7120",
+        "id": "Pitch International Football - Cote dIvoire v Scotland",
+        "key": "43 24 DD 44 CA 24 22 10"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12564 H 7200",
+        "id": "F419_MAIN",
+        "key": "31 03 CA FE BD 20 26 03"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11180 H 7200",
+        "id": "EHF WCUP VEN MIC",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12703 V 9600",
         "id": "E357 ESP-KOSOV",
         "key": "11 5A C1 2C 34 58 A1 2D"
@@ -28,12 +46,6 @@
         "frequency": "12678 V 7200",
         "id": "OB-09 A",
         "key": "4E 5B 29 D2 6D D1 9A D8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11523 V 7200",
-        "id": "LIVE_BR0ADCASTING_LINE1",
-        "key": "13 57 AB 15 CD 24 68 59"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
@@ -76,11 +88,5 @@
         "frequency": "10970 V 4800",
         "id": "POL-077 ENC-1",
         "key": "AB BA 26 8B DC AE 03 8D"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11093 H 9875",
-        "id": "BUL006 EQPO M5 Main",
-        "key": "31 F8 B6 DF AC 8F 03 3E"
     }
 ]
