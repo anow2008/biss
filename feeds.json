@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12703 V 9600",
+        "id": "E357 ESP-KOSOV",
+        "key": "11 5A C1 2C 34 58 A1 2D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11484 H 7200",
+        "id": "EHF EL MEN PGM MONTPELLIER VS ELVERUM HANDBALL",
+        "key": "FF AC D0 7B 33 1E 58 A9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11161 H 9875",
+        "id": "GVA_Fi05",
+        "key": "66 0C CA 3C 85 4D B0 82"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "ita315_Main",
+        "key": "77 13 C4 4E 64 58 25 E1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 V 7200",
+        "id": "OB-09 A",
+        "key": "4E 5B 29 D2 6D D1 9A D8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11523 V 7200",
         "id": "LIVE_BR0ADCASTING_LINE1",
         "key": "13 57 AB 15 CD 24 68 59"
@@ -52,11 +82,5 @@
         "frequency": "11093 H 9875",
         "id": "BUL006 EQPO M5 Main",
         "key": "31 F8 B6 DF AC 8F 03 3E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12621 H 9875",
-        "id": "GVA_Fi05",
-        "key": "66 0C CA 3C 85 4D B0 82"
     }
 ]
