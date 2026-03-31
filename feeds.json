@@ -1,8 +1,26 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12654 V 9875",
-        "id": "ITA198 NTF M19 Main",
+        "frequency": "12621 H 9875",
+        "id": "GVA_Fi05",
+        "key": "66 0C CA 3C 85 4D B0 82"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12516 H 4938",
+        "id": "YSM-015BU",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11105 H 9875",
+        "id": "YSM-016 M3 FEED B MAIN",
         "key": "31 F8 B6 DF AC 8F 03 3E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12677 H 7200",
+        "id": "Live Broadcasting Line 1",
+        "key": "13 57 AB 15 CD 24 68 59"
     }
 ]
