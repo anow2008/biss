@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11001 H 14400",
-    "id": "YSM-012 M3 FEED A MAIN",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11062 H 7200",
     "id": "Fi16_GNVE",
     "key": "C7 EA C8 79 2E B1 DB BA"
@@ -14,8 +8,8 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11514 V 7500",
-    "id": "ISMF",
-    "key": "9F 8E 7D AA 6C 5B 4A 11"
+    "id": "Argentina vs Mauritania",
+    "key": "8A 9B 1C 41 2D 3E 4F BA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -40,17 +34,5 @@
     "frequency": "10962 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11105 H 9875",
-    "id": "YSM-016 M3 FEED B MAIN",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
   }
 ]
