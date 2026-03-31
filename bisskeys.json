@@ -1,20 +1,8 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10965 H 14400",
-    "id": "LTU-005 - 1 - MATCH 01",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10965 V 14400",
     "id": "CZE-012 M06 MAIN",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10983 H 14400",
-    "id": "HOL-241-1",
     "key": "31 F8 B6 DF AC 8F 03 3E"
   },
   {
@@ -31,13 +19,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11001 V 14400",
-    "id": "YSM021 m M11",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
+    "frequency": "11019 H 14400",
     "id": "BUL007 EQPO M5  Main",
     "key": "31 F8 B6 DF AC 8F 03 3E"
   },
@@ -49,15 +31,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11045 V 9875",
-    "id": "NOR-044 - 1 - EQFM10",
+    "frequency": "11057 V 9875",
+    "id": "E380 MAIN 1",
     "key": "31 F8 B6 DF AC 8F 03 3E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11057 V 9875",
-    "id": "E380 MAIN 1",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
+    "frequency": "11062 H 7200",
+    "id": "Fi16_GNVE",
+    "key": "C7 EA C8 79 2E B1 DB BA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -115,45 +97,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11171 H 7200",
+    "id": "ALG - URU",
+    "key": "DB 34 90 9F FC C2 8D 4B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11180 H 7200",
     "id": "EHF WCUP VEN MIC",
     "key": "13 57 AB 15 CD 24 68 59"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11189 H 7200",
-    "id": "E394 MAIN",
-    "key": "F2 B3 AB 50 CD E1 C4 72"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7200",
-    "id": "LIVE_BR0ADCASTING_LINE1",
-    "key": "13 57 AB 15 CD 24 68 59"
+    "frequency": "11484 H 7200",
+    "id": "EHF EL MEN PGM MONTPELLIER VS ELVERUM HANDBALL",
+    "key": "FF AC D0 7B 33 1E 58 A9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11602 V 14400",
     "id": "HUN-010 - 1 - M12",
     "key": "EC 98 79 FD D6 4D 5C 7F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "SWE-054 Main",
-    "key": "AD 22 A1 70 3E 24 1B 7D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
-    "id": "YSM-020",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12522 H 4938",
-    "id": "YSM-013M",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -169,15 +133,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12634 V 14400",
-    "id": "ITA 415 M14 Main",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12655 V 9875",
-    "id": "ITA198 NTF M19 Main",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
+    "frequency": "12678 V 7200",
+    "id": "OB-09 A",
+    "key": "4E 5B 29 D2 6D D1 9A D8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -202,12 +160,6 @@
     "frequency": "10962 H 3333",
     "id": "DEFAULT",
     "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL-111",
-    "key": "CA 11 19 F4 40 EF 26 55"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
