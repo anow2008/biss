@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11602 V 14400",
+        "id": "HUN-010 - 1 - M12",
+        "key": "EC 98 79 FD D6 4D 5C 7F"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10970 V 4800",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 03 8D"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11093 H 9875",
+        "id": "BUL006 EQPO M5 Main",
+        "key": "31 F8 B6 DF AC 8F 03 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10966 H 3333",
+        "id": "DEFAULT",
+        "key": "AA CD 33 AA 27 CB AB 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12621 H 9875",
         "id": "GVA_Fi05",
         "key": "66 0C CA 3C 85 4D B0 82"
@@ -10,17 +34,5 @@
         "frequency": "12516 H 4938",
         "id": "YSM-015BU",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11105 H 9875",
-        "id": "YSM-016 M3 FEED B MAIN",
-        "key": "31 F8 B6 DF AC 8F 03 3E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12677 H 7200",
-        "id": "Live Broadcasting Line 1",
-        "key": "13 57 AB 15 CD 24 68 59"
     }
 ]
