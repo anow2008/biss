@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10964 H 14400",
+    "id": "LTU-005 - 1 - MATCH 01",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10964 V 14400",
+    "id": "CZE-012 M06 MAIN",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10983 H 14400",
+    "id": "HOL-241-1",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11000 H 14400",
+    "id": "YSM-012 M3 FEED A MAIN",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11001 V 14400",
+    "id": "YSM021 m M11",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11019 V 14400",
+    "id": "HUN-022 - 1 - M12",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11045 V 9875",
+    "id": "NOR-044 - 1 - EQFM10",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11057 V 9875",
+    "id": "E380 MAIN 1",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11069 V 9875",
+    "id": "NTF M15 Main",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11081 H 9875",
+    "id": "SWE-29 M4 BACKUP",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11081 V 9875",
+    "id": "SNG E-385 MAIN MATCH 16",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11093 H 9875",
+    "id": "UKI1866 Match07 Main",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11093 V 9875",
+    "id": "uki1482 M17 Main",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11105 H 9875",
+    "id": "2Sat HOL318  M08 MAIN",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11105 V 9875",
+    "id": "UKI1965 match 18 MAIN",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12633 V 14400",
+    "id": "ITA 415 M14 Main",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12654 V 9875",
+    "id": "ITA198 NTF M19 Main",
+    "key": "31 F8 B6 DF AC 8F 03 3E"
+  }
+]
