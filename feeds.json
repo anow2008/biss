@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10820 V 7200",
+        "id": "USSF USA vs Portugal",
+        "key": "CE 27 DE D3 F2 26 12 2A"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12737 V 7200",
         "id": "ENC 1",
@@ -70,23 +76,5 @@
         "frequency": "12573 H 7200",
         "id": "Fi18_GNVE",
         "key": "79 E1 37 91 FE 44 B3 F5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12522 H 4938",
-        "id": "YSM-013M",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11189 H 7200",
-        "id": "E394 MAIN",
-        "key": "F2 B3 AB 50 CD E1 C4 72"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12510 V 7200",
-        "id": "SWE-054 Main",
-        "key": "AD 22 A1 70 3E 24 1B 7D"
     }
 ]
