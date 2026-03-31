@@ -37,7 +37,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11019 H 14400",
+    "frequency": "11018 H 14400",
     "id": "BUL007 EQPO M5  Main",
     "key": "31 F8 B6 DF AC 8F 03 3E"
   },
@@ -64,6 +64,12 @@
     "frequency": "11069 V 9875",
     "id": "NTF M15 Main",
     "key": "31 F8 B6 DF AC 8F 03 3E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "ita315_Main",
+    "key": "77 13 C4 4E 64 58 25 E1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -103,7 +109,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11189 H 7200",
+    "frequency": "11161 H 9875",
+    "id": "GVA_Fi05",
+    "key": "66 0C CA 3C 85 4D B0 82"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11190 H 7200",
     "id": "E394 MAIN",
     "key": "F2 B3 AB 50 CD E1 C4 72"
   },
@@ -115,6 +127,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11602 V 14400",
+    "id": "HUN-010 - 1 - M12",
+    "key": "EC 98 79 FD D6 4D 5C 7F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12510 V 7200",
     "id": "SWE-054 Main",
     "key": "AD 22 A1 70 3E 24 1B 7D"
@@ -122,7 +140,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12516 H 4938",
-    "id": "YSM-015BU",
+    "id": "YSM-020",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -136,12 +154,6 @@
     "frequency": "12573 H 7200",
     "id": "Fi18_GNVE",
     "key": "79 E1 37 91 FE 44 B3 F5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12622 H 9875",
-    "id": "GVA_Fi05",
-    "key": "66 0C CA 3C 85 4D B0 82"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -160,6 +172,18 @@
     "frequency": "12678 H 7200",
     "id": "Live Broadcasting Line 1",
     "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12678 V 7200",
+    "id": "OB-09 A",
+    "key": "4E 5B 29 D2 6D D1 9A D8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12703 V 9600",
+    "id": "E357 ESP-KOSOV",
+    "key": "11 5A C1 2C 34 58 A1 2D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
