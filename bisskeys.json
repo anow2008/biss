@@ -13,33 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11019 H 14400",
-    "id": "BUL007 EQPO M5  Main",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11057 V 9875",
-    "id": "E380 MAIN 1",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11062 H 7200",
     "id": "Fi16_GNVE",
     "key": "C7 EA C8 79 2E B1 DB BA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11161 H 9875",
-    "id": "GVA_Fi05",
-    "key": "66 0C CA 3C 85 4D B0 82"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11171 H 7200",
-    "id": "ALG - URU",
-    "key": "DB 34 90 9F FC C2 8D 4B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,15 +25,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10820 V 7200",
+    "id": "USSF USA vs Portugal",
+    "key": "CE 27 DE D3 F2 26 12 2A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -69,12 +45,6 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11062 H 9875",
     "id": "CZE-041 M6 Backup 1",
-    "key": "31 F8 B6 DF AC 8F 03 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11093 H 9875",
-    "id": "BUL006 EQPO M5 Main",
     "key": "31 F8 B6 DF AC 8F 03 3E"
   },
   {
