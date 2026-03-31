@@ -2,6 +2,12 @@
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11514 V 7500",
+        "id": "Argentina vs Mauritania",
+        "key": "8A 9B 1C 41 2D 3E 4F BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11514 V 7500",
         "id": "ISMF",
         "key": "9F 8E 7D AA 6C 5B 4A 11"
     },
@@ -58,17 +64,5 @@
         "frequency": "11484 H 7200",
         "id": "EHF EL MEN PGM MONTPELLIER VS ELVERUM HANDBALL",
         "key": "FF AC D0 7B 33 1E 58 A9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11161 H 9875",
-        "id": "GVA_Fi05",
-        "key": "66 0C CA 3C 85 4D B0 82"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "ita315_Main",
-        "key": "77 13 C4 4E 64 58 25 E1"
     }
 ]
