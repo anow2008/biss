@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11075 H 5000",
+        "id": "EHF",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12573 H 7200",
+        "id": "E-229 Main",
+        "key": "FE 86 DF 63 94 BB 85 D4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12510 V 7200",
+        "id": "Medialink CRO-021/1",
+        "key": "20 25 AB F0 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11098 H 7200",
+        "id": "EHF - GOG vs HBC",
+        "key": "E4 4F FF 32 FD 04 01 02"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12687 H 7500",
         "id": "ITA671",
@@ -40,23 +64,5 @@
         "frequency": "10985 V 9600",
         "id": "POL 030",
         "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11081 H 5000",
-        "id": "EHF WCUP VEN MIC",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12593 V 7200",
-        "id": "POL 058_T2",
-        "key": "07 BB 01 C3 AE 26 CF A3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12696 V 7500",
-        "id": "Augusta National Womens Amateur - Asia Round 1",
-        "key": "55 8F 4A 2E 64 87 C1 AC"
     }
 ]
