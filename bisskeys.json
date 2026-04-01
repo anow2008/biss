@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10974 H 9875",
-    "id": "UK1457 UWCL M2 Chelsea Main",
-    "key": "2F C5 6F 63 72 96 DA E2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "AC 12 99 57 20 16 65 9B"
