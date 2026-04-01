@@ -19,9 +19,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11189 H 7200",
+    "id": "ITA556 HD16",
+    "key": "6D B6 4B 6E 64 9B DB DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12516 H 4938",
     "id": "Medialink CRO-024/2",
     "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12564 H 7200",
+    "id": "Studioline Main",
+    "key": "20 26 AA F0 BB 20 26 01"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -34,6 +46,12 @@
     "frequency": "12678 V 7200",
     "id": "ENC 3",
     "key": "6C CE 0F 49 8D 2D 2E E8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 H 7500",
+    "id": "ITA671",
+    "key": "CA BA 20 A4 26 10 4E 84"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,25 +103,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "AA CD 33 AA 27 CB AB 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11081 H 5000",
-    "id": "EHF WCUP VEN MIC",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11107 H 7200",
+    "frequency": "11106 H 7200",
     "id": "EHF",
     "key": "E4 4F FD 30 BD 04 01 C2"
   }
