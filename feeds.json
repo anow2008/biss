@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10985 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11107 H 7200",
+        "id": "EHF",
+        "key": "E4 4F FD 30 BD 04 01 C2"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11081 H 5000",
+        "id": "EHF WCUP VEN MIC",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12593 V 7200",
+        "id": "POL 058_T2",
+        "key": "07 BB 01 C3 AE 26 CF A3"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12696 V 7500",
         "id": "Augusta National Womens Amateur - Asia Round 1",
@@ -18,12 +42,6 @@
         "key": "6C CE 0F 49 8D 2D 2E E8"
     },
     {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11109 H 3700",
-        "id": "EHF WCUP VEN MIC",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "11176 V 7200",
         "id": "NBA-BAL AFRICA FEED",
@@ -40,41 +58,5 @@
         "frequency": "10973 H 9875",
         "id": "UK1457 UWCL M2 Chelsea Main",
         "key": "2F C5 6F 63 72 96 DA E2"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11062 H 9875",
-        "id": "POL-098 C1",
-        "key": "AB CD 01 79 04 AB CD 7C"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10962 H 3333",
-        "id": "DEFAULT",
-        "key": "AA CD 33 AA 27 CB AB 9D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12556 H 7200",
-        "id": "VRT encoder 9",
-        "key": "E7 1F FA 00 BD 04 01 C2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10961 H 9875",
-        "id": "CRO-025 M1 UWCL MAIN",
-        "key": "F8 A7 83 22 D1 65 AF E5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "AD FB FE A6 85 72 2C 23"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12547 H 7200",
-        "id": "VRT encoder 10",
-        "key": "E7 1F FF 05 DD 04 01 E2"
     }
 ]
