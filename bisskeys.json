@@ -1,21 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "10961 H 9875",
+    "id": "CRO-025 M1 UWCL MAIN",
+    "key": "F8 A7 83 22 D1 65 AF E5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "AC 12 99 57 20 16 65 9B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11492 V 25740",
-    "id": "UKI-1852-NTT1",
-    "key": "A2 CC B7 25 51 DA 25 50"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12547 H 7200",
-    "id": "VRT encoder 10",
-    "key": "E7 1F FF 05 DD 04 01 E2"
+    "key": "AD FB FE A6 85 72 2C 23"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -34,5 +28,23 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11062 H 9875",
+    "id": "POL-098 C1",
+    "key": "AB CD 01 79 04 AB CD 7C"
   }
 ]
