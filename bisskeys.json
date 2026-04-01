@@ -19,9 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12546 H 7200",
-    "id": "VRT encoder 10",
-    "key": "E7 1F FF 05 DD 04 01 E2"
+    "frequency": "12516 H 4938",
+    "id": "Medialink CRO-024/2",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -34,12 +34,6 @@
     "frequency": "12593 V 7200",
     "id": "POL 058_T2",
     "key": "07 BB 01 C3 AE 26 CF A3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7200",
-    "id": "Fi17GNVE",
-    "key": "CB 86 08 59 56 FD 3B 8E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,6 +79,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10847 V 7200",
+    "id": "OTE 1",
+    "key": "EE 69 EE 45 85 CE 42 95"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
@@ -118,11 +118,5 @@
     "frequency": "11081 H 5000",
     "id": "EHF WCUP VEN MIC",
     "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11107 H 7200",
-    "id": "EHF",
-    "key": "E4 4F FD 30 BD 04 01 C2"
   }
 ]
