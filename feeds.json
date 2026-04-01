@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12547 H 7200",
+        "id": "VRT encoder 10",
+        "key": "E7 1F FF 05 DD 04 01 E2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11492 V 25740",
+        "id": "UKI-1852-NTT1",
+        "key": "A2 CC B7 25 51 DA 25 50"
+    },
+    {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "10768 V 34000",
         "id": "LIGA HYPERMOTION 1",
@@ -40,23 +52,5 @@
         "frequency": "11514 V 7500",
         "id": "ISMF",
         "key": "9F 8E 7D AA 6C 5B 4A 11"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10820 V 7200",
-        "id": "USSF USA vs Portugal",
-        "key": "CE 27 DE D3 F2 26 12 2A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12737 V 7200",
-        "id": "ENC 1",
-        "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11062 H 7200",
-        "id": "Fi16_GNVE",
-        "key": "C7 EA C8 79 2E B1 DB BA"
     }
 ]
