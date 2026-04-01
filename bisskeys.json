@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10962 H 9875",
-    "id": "CRO-025 M1 UWCL MAIN",
-    "key": "F8 A7 83 22 D1 65 AF E5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10974 H 9875",
     "id": "UK1457 UWCL M2 Chelsea Main",
     "key": "2F C5 6F 63 72 96 DA E2"
@@ -15,7 +9,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
-    "key": "AD FB FE A6 85 72 2C 23"
+    "key": "AC 12 99 57 20 16 65 9B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -25,27 +19,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
-    "id": "Medialink CRO-024/2",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12564 H 7200",
     "id": "Studioline Main",
     "key": "20 26 AA F0 BB 20 26 01"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL 058_T2",
-    "key": "07 BB 01 C3 AE 26 CF A3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7200",
-    "id": "ENC 3",
-    "key": "6C CE 0F 49 8D 2D 2E E8"
+    "frequency": "12573 H 7200",
+    "id": "E-229 Main",
+    "key": "FE 86 DF 63 94 BB 85 D4"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -60,34 +42,10 @@
     "key": "E8 DC 00 C4 AF 6A 90 A9"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12696 V 7500",
-    "id": "Augusta National Women's Amateur - Asia Round 1",
-    "key": "55 8F 4A 2E 64 87 C1 AC"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10768 V 34000",
     "id": "LIGA HYPERMOTION 1",
     "key": "4F F8 86 CD 63 6D 9F 6F"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11166 V 7200",
-    "id": "NBA-BAL WORLD FEED",
-    "key": "2A 7E 1C C4 9D 4B 36 1E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11175 V 7200",
-    "id": "NBA-BAL AFRICA FEED",
-    "key": "F4 C8 A7 63 B1 D2 63 E6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10847 V 7200",
-    "id": "OTE 1",
-    "key": "EE 69 EE 45 85 CE 42 95"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -103,14 +61,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 04 8E"
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "AA CD 33 AA 27 CB AB 9D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11106 H 7200",
-    "id": "EHF",
-    "key": "E4 4F FD 30 BD 04 01 C2"
+    "frequency": "11098 H 7200",
+    "id": "EHF - GOG vs HBC",
+    "key": "E4 4F FF 32 FD 04 01 02"
   }
 ]
