@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "AC 12 99 57 20 16 65 9B"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "11075 H 5000",
         "id": "EHF",
