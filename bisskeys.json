@@ -7,7 +7,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7200",
+    "frequency": "12677 V 7200",
     "id": "ENC 3",
     "key": "DE 77 F3 48 63 A5 F6 FE"
   },
@@ -16,12 +16,6 @@
     "frequency": "12736 V 7200",
     "id": "UFC BJJ #7: All Fights",
     "key": "12 34 09 4F 76 A5 73 8E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10767 V 34000",
-    "id": "LIGA HYPERMOTION 1",
-    "key": "64 33 4A E1 39 0C 0D 52"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -38,6 +32,12 @@
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "D4 A7 F9 74 3C 2E 81 EB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10966 H 3333",
     "id": "DEFAULT",
     "key": "D4 A7 F9 74 3C 2E 81 EB"
   }
