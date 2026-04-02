@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10961 H 9875",
+    "id": "E380 Feed 1",
+    "key": "E8 47 87 B6 90 F9 41 CA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10973 H 9875",
+    "id": "F503/5/LYON_WOLFSBURG/MAIN",
+    "key": "78 B7 8D BC B4 AA 5E BC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "9D 99 7D B3 9A CB BF 24"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11088 H 7200",
+    "id": "Main",
+    "key": "39 51 63 ED CC 2A DD D3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "20 24 AB EF CD 13 11 F1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12696 V 7500",
+    "id": "Augusta National Women's Amateur - Asia Round 2",
+    "key": "55 8F 4A 2E 64 87 C1 AC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12704 V 7200",
+    "id": "ENC 4",
+    "key": "94 3D 6D 3E AC 2C C5 9D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7200",
+    "id": "Main",
+    "key": "13 CB BD 9B C1 20 CA AB"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10768 V 34000",
+    "id": "LIGA HYPERMOTION 1",
+    "key": "64 33 4A E1 39 0C 0D 52"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12437 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  }
+]
