@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "9D 99 7D B3 9A CB BF 24"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10973 H 9875",
+        "id": "F503/5/LYON_WOLFSBURG/MAIN",
+        "key": "78 B7 8D BC B4 AA 5E BC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10961 H 9875",
+        "id": "E380 Feed 1",
+        "key": "E8 47 87 B6 90 F9 41 CA"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "10966 H 3333",
         "id": "DEFAULT",
@@ -64,11 +82,5 @@
         "frequency": "11189 H 7200",
         "id": "ITA556 HD16",
         "key": "6D B6 4B 6E 64 9B DB DA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10847 V 7200",
-        "id": "OTE 1",
-        "key": "EE 69 EE 45 85 CE 42 95"
     }
 ]
