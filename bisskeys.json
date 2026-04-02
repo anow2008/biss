@@ -13,6 +13,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11053 V 7200",
+    "id": "UAE-065",
+    "key": "D4 36 A7 B1 C0 48 85 8D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "9D 99 7D B3 9A CB BF 24"
@@ -22,6 +28,12 @@
     "frequency": "11089 H 7200",
     "id": "Main",
     "key": "39 51 63 ED CC 2A DD D3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11098 H 7200",
+    "id": "BUL007 EL M4 Main",
+    "key": "B8 36 45 33 1F 32 E8 39"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,9 +49,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7200",
+    "id": "UKI-1462 - MAIN",
+    "key": "EE 76 FA 5E D3 FB DD AB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12516 H 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
     "id": "Polsat Sport",
     "key": "20 24 AB EF CD 13 11 F1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7200",
+    "id": "ENC 3",
+    "key": "DE 77 F3 48 63 A5 F6 FE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -55,7 +85,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10768 V 34000",
+    "frequency": "10767 V 34000",
     "id": "LIGA HYPERMOTION 1",
     "key": "64 33 4A E1 39 0C 0D 52"
   },
@@ -79,13 +109,25 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11098 H 7200",
-    "id": "E-289",
-    "key": "D0 40 2E 3E 44 FF DD 20"
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "D4 A7 F9 74 3C 2E 81 EB"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11107 H 7200",
+    "frequency": "10974 V 9600",
+    "id": "POL-110",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL 030",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11106 H 7200",
     "id": "LIVE_BR0ADCASTING_LINE1",
     "key": "D0 40 2E 3E 44 FF CB 0E"
   }
