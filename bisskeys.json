@@ -7,25 +7,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11044 V 7120",
-    "id": "EFL - Cambridge v Swindon",
-    "key": "B3 99 D2 1E 01 D3 22 F6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "F419_MAIN",
-    "key": "97 C3 97 F1 9F DB 54 CE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
-    "id": "IMG A EU",
-    "key": "9D 99 7D B3 9A CB BF 24"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7200",
+    "frequency": "12678 V 7200",
     "id": "ENC 3",
     "key": "DE 77 F3 48 63 A5 F6 FE"
   },
@@ -58,11 +40,5 @@
     "frequency": "10962 H 3333",
     "id": "DEFAULT",
     "key": "D4 A7 F9 74 3C 2E 81 EB"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
