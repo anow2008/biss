@@ -1,25 +1,25 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10973 H 9875",
+    "frequency": "10974 H 9875",
     "id": "F503/5/LYON_WOLFSBURG/MAIN",
     "key": "78 B7 8D BC B4 AA 5E BC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11043 V 7120",
+    "frequency": "11044 V 7120",
     "id": "EFL - Cambridge v Swindon",
     "key": "B3 99 D2 1E 01 D3 22 F6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
+    "frequency": "11062 H 7200",
     "id": "F419_MAIN",
     "key": "97 C3 97 F1 9F DB 54 CE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
+    "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "9D 99 7D B3 9A CB BF 24"
   },
@@ -28,6 +28,12 @@
     "frequency": "12677 V 7200",
     "id": "ENC 3",
     "key": "DE 77 F3 48 63 A5 F6 FE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "UFC BJJ #7: All Fights",
+    "key": "12 34 09 4F 76 A5 73 8E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -55,26 +61,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "D4 A7 F9 74 3C 2E 81 EB"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-110",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11097 H 7200",
-    "id": "E-289",
-    "key": "D0 40 2E 3E 44 FF DD 20"
   }
 ]
