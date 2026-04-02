@@ -1,9 +1,39 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11098 H 7200",
+        "id": "BUL007 EL M4 Main",
+        "key": "B8 36 45 33 1F 32 E8 39"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10986 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11107 H 7200",
+        "id": "LIVE_BR0ADCASTING_LINE1",
+        "key": "D0 40 2E 3E 44 FF CB 0E"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11098 H 7200",
+        "id": "E-289",
+        "key": "D0 40 2E 3E 44 FF DD 20"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10830 V 7200",
+        "id": "GCUK Enc 2",
+        "key": "AB CD EE 66 FF 02 04 05"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11053 V 7200",
         "id": "UAE-065",
-        "key": "83 28 1D C8 29 F8 3F 60"
+        "key": "D4 36 A7 B1 C0 48 85 8D"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
@@ -34,35 +64,5 @@
         "frequency": "12437 H 27500",
         "id": "FEED 2",
         "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 2",
-        "key": "C0 1C 6C 48 16 EE 3C 40"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "64 33 4A E1 39 0C 0D 52"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11088 H 7200",
-        "id": "Main",
-        "key": "39 51 63 ED CC 2A DD D3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12727 V 7200",
-        "id": "Main",
-        "key": "13 CB BD 9B C1 20 CA AB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12704 V 7200",
-        "id": "",
-        "key": "94 3D 6D 3E AC 2C C5 9D"
     }
 ]
