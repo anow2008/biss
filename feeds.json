@@ -58,11 +58,5 @@
         "frequency": "10830 V 7200",
         "id": "GCUK Enc 2",
         "key": "AB CD EE 66 FF 02 04 05"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11053 V 7200",
-        "id": "UAE-065",
-        "key": "D4 36 A7 B1 C0 48 85 8D"
     }
 ]
