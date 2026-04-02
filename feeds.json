@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10830 V 7200",
+        "id": "GCUK Enc 3",
+        "key": "91 45 71 47 EF AA AA 43"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11044 V 7120",
+        "id": "ge United vs Swindon Town",
+        "key": "B3 99 D2 1E 01 D3 22 F6"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "10965 V 4800",
         "id": "POL - 054 Kielce",
@@ -52,23 +64,5 @@
         "frequency": "11053 V 7200",
         "id": "UAE-065",
         "key": "D4 36 A7 B1 C0 48 85 8D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11107 H 7200",
-        "id": "Hapoel vs.Panath BUL006 Main",
-        "key": "EB E1 86 52 8B A7 21 53"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11062 H 7200",
-        "id": "F419_MAIN",
-        "key": "97 C3 97 F1 9F DB 54 CE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11189 H 7200",
-        "id": "D-331 TX1",
-        "key": "44 44 DC 64 BA 20 26 00"
     }
 ]
