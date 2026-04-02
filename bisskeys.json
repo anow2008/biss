@@ -1,27 +1,39 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 H 9875",
+    "frequency": "10962 H 9875",
     "id": "E380 Feed 1",
     "key": "E8 47 87 B6 90 F9 41 CA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10973 H 9875",
+    "frequency": "10974 H 9875",
     "id": "F503/5/LYON_WOLFSBURG/MAIN",
     "key": "78 B7 8D BC B4 AA 5E BC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
+    "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "9D 99 7D B3 9A CB BF 24"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11088 H 7200",
+    "frequency": "11089 H 7200",
     "id": "Main",
     "key": "39 51 63 ED CC 2A DD D3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 H 7200",
+    "id": "Hapoel vs.Panath BUL006 Main",
+    "key": "EB E1 86 52 8B A7 21 53"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11189 H 7200",
+    "id": "D-331 TX1",
+    "key": "44 44 DC 64 BA 20 26 00"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,15 +49,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12704 V 7200",
+    "frequency": "12705 V 7200",
     "id": "ENC 4",
     "key": "94 3D 6D 3E AC 2C C5 9D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7200",
-    "id": "Main",
-    "key": "13 CB BD 9B C1 20 CA AB"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -55,8 +61,32 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
+    "frequency": "10830 V 7200",
+    "id": "GCUK Enc 2",
+    "key": "AB CD EE 66 FF 02 04 05"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "D4 A7 F9 74 3C 2E 81 EB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11098 H 7200",
+    "id": "E-289",
+    "key": "D0 40 2E 3E 44 FF DD 20"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11107 H 7200",
+    "id": "LIVE_BR0ADCASTING_LINE1",
+    "key": "D0 40 2E 3E 44 FF CB 0E"
   }
 ]
