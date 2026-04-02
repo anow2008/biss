@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10962 H 9875",
-    "id": "E380 Feed 1",
-    "key": "E8 47 87 B6 90 F9 41 CA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10974 H 9875",
     "id": "F503/5/LYON_WOLFSBURG/MAIN",
     "key": "78 B7 8D BC B4 AA 5E BC"
@@ -16,12 +10,6 @@
     "frequency": "11044 V 7120",
     "id": "EFL - Cambridge v Swindon",
     "key": "B3 99 D2 1E 01 D3 22 F6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11053 V 7200",
-    "id": "UAE-065",
-    "key": "D4 36 A7 B1 C0 48 85 8D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,18 +31,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 H 7200",
-    "id": "Hapoel vs.Panath BUL006 Main",
-    "key": "EB E1 86 52 8B A7 21 53"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11189 H 7200",
-    "id": "D-331 TX1",
-    "key": "44 44 DC 64 BA 20 26 00"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12510 V 7200",
     "id": "UKI-1462 - MAIN",
     "key": "EE 76 FA 5E D3 FB DD AB"
@@ -67,21 +43,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12696 V 7500",
-    "id": "Augusta National Women's Amateur - Asia Round 2",
-    "key": "55 8F 4A 2E 64 87 C1 AC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12705 V 7200",
-    "id": "ENC 4",
-    "key": "94 3D 6D 3E AC 2C C5 9D"
+    "frequency": "12677 V 7200",
+    "id": "ENC 3",
+    "key": "DE 77 F3 48 63 A5 F6 FE"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10767 V 34000",
     "id": "LIGA HYPERMOTION 1",
     "key": "64 33 4A E1 39 0C 0D 52"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10830 V 7200",
+    "id": "GCUK Enc 3",
+    "key": "91 45 71 47 EF AA AA 43"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -94,12 +70,6 @@
     "frequency": "10962 H 3333",
     "id": "DEFAULT",
     "key": "D4 A7 F9 74 3C 2E 81 EB"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10965 V 4800",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
