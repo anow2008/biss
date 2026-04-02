@@ -1,19 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10974 H 9875",
-    "id": "F503/5/LYON_WOLFSBURG/MAIN",
-    "key": "78 B7 8D BC B4 AA 5E BC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7200",
-    "id": "ENC 3",
-    "key": "DE 77 F3 48 63 A5 F6 FE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
+    "frequency": "12737 V 7200",
     "id": "UFC BJJ #7: All Fights",
     "key": "12 34 09 4F 76 A5 73 8E"
   },
@@ -32,12 +20,6 @@
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "D4 A7 F9 74 3C 2E 81 EB"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
     "id": "DEFAULT",
     "key": "D4 A7 F9 74 3C 2E 81 EB"
   }
