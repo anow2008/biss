@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10962 V 9875",
+    "id": "GVA_Fi01",
+    "key": "82 09 59 E4 3F 9A 6B 44"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "6F 77 E4 CA 2E FC 44 6E"
@@ -48,6 +54,12 @@
     "key": "4E 5B 29 D2 6D D1 9A D8"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12728 V 7500",
+    "id": "EN 2",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
@@ -87,12 +99,6 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12509 H 4938",
     "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12556 H 4938",
-    "id": "YSM-013M",
     "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
