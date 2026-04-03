@@ -13,6 +13,24 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12545 H 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12573 H 7200",
+    "id": "F-509/ARES 39 C+",
+    "key": "11 12 AB CE DC 18 09 FD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12645 H 14400",
+    "id": "PRINCIPAL BRIV/PROV",
+    "key": "F5 78 04 71 03 26 F1 1A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12678 H 7200",
     "id": "EHF",
     "key": "13 57 AB 15 CD 24 68 59"
@@ -52,6 +70,12 @@
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "D4 A7 F9 74 3C 2E 81 EB"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
