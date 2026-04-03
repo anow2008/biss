@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10962 V 9875",
+        "id": "GVA_Fi01",
+        "key": "82 09 59 E4 3F 9A 6B 44"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12510 V 7200",
         "id": "PROD2-M2M",
         "key": "F1 95 04 8A 03 26 F1 1A"
@@ -58,17 +64,5 @@
         "frequency": "12583 V 7200",
         "id": "ehf euro 2026 qual isr gre",
         "key": "47 C6 BE CB B4 35 DF C8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11107 H 7200",
-        "id": "E-228 Main",
-        "key": "AB BA 03 68 04 20 26 4A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11023 V 8020",
-        "id": "Fi11 GNVE",
-        "key": "C6 63 DA 03 76 FD 61 D4"
     }
 ]
