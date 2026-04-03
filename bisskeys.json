@@ -7,6 +7,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7120",
+    "id": "EFL - Coventry v Derby",
+    "key": "CB 24 BC AB 32 69 9A 35"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "6F 77 E4 CA 2E FC 44 6E"
@@ -31,21 +37,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12645 H 14400",
+    "frequency": "12644 H 14400",
     "id": "PRINCIPAL BRIV/PROV",
     "key": "F5 78 04 71 03 26 F1 1A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 H 7200",
-    "id": "EHF",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7200",
-    "id": "TUR-M25-B",
-    "key": "4E 5B 29 D2 6D D1 9A D8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -55,9 +49,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7500",
-    "id": "EN 2",
-    "key": "F1 07 45 3D E6 CB AD 5E"
+    "frequency": "12696 V 7200",
+    "id": "EPCR Northampton v Castres",
+    "key": "34 AA 12 F0 AA 34 AA 88"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -88,17 +82,5 @@
     "frequency": "10962 H 3333",
     "id": "DEFAULT",
     "key": "D4 A7 F9 74 3C 2E 81 EB"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "D4 A7 F9 74 3C 2E 81 EB"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12509 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
