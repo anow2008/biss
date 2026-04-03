@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12696 V 7200",
+        "id": "EPCR Northampton v Castres",
+        "key": "34 AA 12 F0 AA 34 AA 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12728 V 7500",
+        "id": "EN 2",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "10962 V 9875",
         "id": "GVA_Fi01",
         "key": "82 09 59 E4 3F 9A 6B 44"
@@ -46,23 +58,5 @@
         "frequency": "10962 H 3333",
         "id": "DEFAULT",
         "key": "D4 A7 F9 74 3C 2E 81 EB"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11166 V 7200",
-        "id": "NBA-BAL WORLD FEED",
-        "key": "8B 1D 6F 17 3A 7C 92 48"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11175 V 7200",
-        "id": "NBA-BAL AFRICA FEED",
-        "key": "D2 A7 C9 42 B4 E1 63 F8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12583 V 7200",
-        "id": "ehf euro 2026 qual isr gre",
-        "key": "47 C6 BE CB B4 35 DF C8"
     }
 ]
