@@ -37,21 +37,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12545 H 4938",
-    "id": "YSM-012 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7200",
-    "id": "TUR-M25-A",
-    "key": "4E 5B 29 D2 6D D1 9A D8"
+    "frequency": "12573 H 7200",
+    "id": "F435-2",
+    "key": "D2 6F 1C 5D BA F4 35 E3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12678 H 7200",
     "id": "EHF",
     "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12678 V 7200",
+    "id": "TUR-M25-A",
+    "key": "4E 5B 29 D2 6D D1 9A D8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,15 +85,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12583 V 7200",
-    "id": "ehf euro 2026 qual isr gre",
-    "key": "47 C6 BE CB B4 35 DF C8"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -109,8 +103,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL019",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "12509 H 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12556 H 4938",
+    "id": "YSM-013M",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
