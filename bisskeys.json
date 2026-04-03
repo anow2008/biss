@@ -4,17 +4,5 @@
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "AC 12 99 57 20 16 65 9B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
-    "id": "FEED 2",
-    "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "D4 A7 F9 74 3C 2E 81 EB"
   }
 ]
