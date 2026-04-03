@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 V 7200",
+        "id": "TUR-M25-A",
+        "key": "4E 5B 29 D2 6D D1 9A D8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12645 H 14400",
+        "id": "PRINCIPAL BRIV/PROV",
+        "key": "F5 78 04 71 03 26 F1 1A"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10996 V 7500",
+        "id": "POL019",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10962 H 3333",
+        "id": "DEFAULT",
+        "key": "D4 A7 F9 74 3C 2E 81 EB"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11166 V 7200",
+        "id": "NBA-BAL WORLD FEED",
+        "key": "8B 1D 6F 17 3A 7C 92 48"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11175 V 7200",
+        "id": "NBA-BAL AFRICA FEED",
+        "key": "D2 A7 C9 42 B4 E1 63 F8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12583 V 7200",
+        "id": "ehf euro 2026 qual isr gre",
+        "key": "47 C6 BE CB B4 35 DF C8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11107 H 7200",
         "id": "E-228 Main",
         "key": "AB BA 03 68 04 20 26 4A"
@@ -12,63 +54,9 @@
         "key": "C6 63 DA 03 76 FD 61 D4"
     },
     {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT",
-        "key": "D4 A7 F9 74 3C 2E 81 EB"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
         "frequency": "12438 H 27500",
         "id": "FEED 2",
         "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "A0 CF D3 42 58 E3 51 8C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12705 V 7120",
-        "id": "EDM HD ENC-1",
-        "key": "B2 C5 D3 4A E6 F4 A7 81"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11044 V 7200",
-        "id": "F489 MAIN",
-        "key": "97 32 65 2E F2 14 19 1F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12573 H 7200",
-        "id": "F435-2",
-        "key": "D2 6F 1C 5D BA F4 35 E3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11005 V 7120",
-        "id": "PITCH EFL - Oxford Utd v Hull City",
-        "key": "25 69 0A 98 27 27 33 81"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10996 V 7120",
-        "id": "PITCH EFL - Leicester v Preston",
-        "key": "AF 44 7A 6D 12 41 61 B4"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12728 V 7200",
-        "id": "Main",
-        "key": "13 CB BD 9B C1 20 CA AB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "6F 77 E4 CA 2E FC 44 6E"
     }
 ]
