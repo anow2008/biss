@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11014 V 7120",
+        "id": "EFL - Coventry v Derby",
+        "key": "CB 24 BC AB 32 69 9A 35"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12696 V 7200",
         "id": "EPCR Northampton v Castres",
         "key": "34 AA 12 F0 AA 34 AA 88"
@@ -52,11 +58,5 @@
         "frequency": "10996 V 7500",
         "id": "POL019",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10962 H 3333",
-        "id": "DEFAULT",
-        "key": "D4 A7 F9 74 3C 2E 81 EB"
     }
 ]
