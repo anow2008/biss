@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "12556 H 4938",
+        "id": "YSM-013M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12678 V 7200",
         "id": "TUR-M25-A",
@@ -52,11 +58,5 @@
         "frequency": "11023 V 8020",
         "id": "Fi11 GNVE",
         "key": "C6 63 DA 03 76 FD 61 D4"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
     }
 ]
