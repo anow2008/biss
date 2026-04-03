@@ -1,68 +1,74 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "AC 12 99 57 20 16 65 9B"
+        "frequency": "11107 H 7200",
+        "id": "E-228 Main",
+        "key": "AB BA 03 68 04 20 26 4A"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12736 V 7200",
-        "id": "UFC BJJ 7 All Fights",
-        "key": "12 34 09 4F 76 A5 73 8E"
+        "frequency": "11023 V 8020",
+        "id": "Fi11 GNVE",
+        "key": "C6 63 DA 03 76 FD 61 D4"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10966 H 3333",
+        "id": "DEFAULT",
+        "key": "D4 A7 F9 74 3C 2E 81 EB"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10830 V 7200",
-        "id": "GCUK Enc 3",
-        "key": "91 45 71 47 EF AA AA 43"
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "A0 CF D3 42 58 E3 51 8C"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11044 V 7120",
-        "id": "ge United vs Swindon Town",
-        "key": "B3 99 D2 1E 01 D3 22 F6"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10965 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 04 8E"
+        "frequency": "12705 V 7120",
+        "id": "EDM HD ENC-1",
+        "key": "B2 C5 D3 4A E6 F4 A7 81"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12677 V 7200",
-        "id": "ENC 3",
-        "key": "DE 77 F3 48 63 A5 F6 FE"
+        "frequency": "11044 V 7200",
+        "id": "F489 MAIN",
+        "key": "97 32 65 2E F2 14 19 1F"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12516 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
+        "frequency": "12573 H 7200",
+        "id": "F435-2",
+        "key": "D2 6F 1C 5D BA F4 35 E3"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12510 V 7200",
-        "id": "UKI-1462 - MAIN",
-        "key": "EE 76 FA 5E D3 FB DD AB"
+        "frequency": "11005 V 7120",
+        "id": "PITCH EFL - Oxford Utd v Hull City",
+        "key": "25 69 0A 98 27 27 33 81"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11098 H 7200",
-        "id": "BUL007 EL M4 Main",
-        "key": "B8 36 45 33 1F 32 E8 39"
+        "frequency": "10996 V 7120",
+        "id": "PITCH EFL - Leicester v Preston",
+        "key": "AF 44 7A 6D 12 41 61 B4"
     },
     {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11107 H 7200",
-        "id": "LIVE_BR0ADCASTING_LINE1",
-        "key": "D0 40 2E 3E 44 FF CB 0E"
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12728 V 7200",
+        "id": "Main",
+        "key": "13 CB BD 9B C1 20 CA AB"
     },
     {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11098 H 7200",
-        "id": "E-289",
-        "key": "D0 40 2E 3E 44 FF DD 20"
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "6F 77 E4 CA 2E FC 44 6E"
     }
 ]
