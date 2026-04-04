@@ -1,0 +1,24 @@
+      - name: Merge JSON files
+        run: |
+          python -c "
+          import json, os
+          files = ['keys.json', 'feeds.json', 'bisskeys.json']
+          total = []
+          for f in files:
+              if os.path.exists(f):
+                  with open(f, 'r', encoding='utf-8') as j:
+                      data = json.load(j)
+                      if isinstance(data, list):
+                          total.extend(data)
+          
+          # تغيير الاسم هنا لـ all.json
+          with open('all.json', 'w', encoding='utf-8') as out:
+              json.dump(total, out, indent=2, ensure_ascii=False)
+          "
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add all.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'Update all.json' && git push)
