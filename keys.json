@@ -1,0 +1,44 @@
+[
+  {
+    "satellite": "N/A",
+    "frequency": "12630 V 7400",
+    "id": "OB-HD1",
+    "key": "FE EA CC B4 BD 22 54 33"
+  },
+  {
+    "satellite": "N/A",
+    "frequency": "12535 V 7400",
+    "id": "N/A",
+    "key": "FE EA CC B4 BD 22 54 33"
+  },
+  {
+    "satellite": "N/A",
+    "frequency": "12525 V 7200",
+    "id": "BBC FAC QF",
+    "key": "BC 11 02 CF CB AA 69 DE\nFA C"
+  },
+  {
+    "satellite": "N/A",
+    "frequency": "11668 H 6666",
+    "id": "E-069 MAIN",
+    "key": "AB BA 32 97 15 CE DA BD"
+  },
+  {
+    "satellite": "N/A",
+    "frequency": "11660 H 6666",
+    "id": "INTER DIRTY UK SAT TLS /BRI",
+    "key": "12 DE CA BA 31 24 DE 33"
+  },
+  {
+    "satellite": "N/A",
+    "frequency": "11023 V 9999",
+    "id": "F435-1",
+    "key": "9A 49 F1 D4 59 B2 AE B9"
+  },
+  {
+    "satellite": "N/A",
+    "frequency": "10984 V 5000",
+    "id": "TV MARKIZA",
+    "key": "47 52 C3 5C 52 39 9B 26"
+  }
+]
