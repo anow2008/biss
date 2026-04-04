@@ -37,6 +37,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11469 V 7500",
+    "id": "AFD",
+    "key": "26 41 AB 12 B1 C4 1D 92"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11492 V 25740",
     "id": "UKI-1852-NTT1",
     "key": "A2 BB 1D 7A A4 DA 55 D3"
@@ -64,12 +70,6 @@
     "frequency": "12678 V 7500",
     "id": "ENC 4",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
