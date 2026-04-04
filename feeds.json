@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11469 V 7500",
+        "id": "AFD",
+        "key": "26 41 AB 12 B1 C4 1D 92"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10960 V 7200",
+        "id": "WSHT ENC 58",
+        "key": "77 3A BC 6D 21 7A AC 47"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
         "frequency": "12437 H 27500",
         "id": "FEED 2",
@@ -48,33 +60,9 @@
         "key": "AB BA 32 97 15 CE DA BD"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12737 V 7200",
-        "id": "UFC Fight Night 7  All Fights",
-        "key": "77 3A BC 6D 21 7A AC 47"
-    },
-    {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "10768 V 34000",
         "id": "LIGA HYPERMOTION 2",
         "key": "B8 CE 7B 01 BB D3 C8 56"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "6D ED F1 4B D1 E8 DC 95"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR RUSIA 1",
-        "key": "7C 71 1A 07 2B 49 39 AD"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR EASTERN 1",
-        "key": "4D 91 DF BD D1 89 C4 1E"
     }
 ]
