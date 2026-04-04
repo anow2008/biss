@@ -1,24 +1,51 @@
+name: Merge All Keys Logic
+
+on:
+  push:
+    paths:
+      - '*.json'
+  workflow_dispatch:
+
+jobs:
+  merge-job:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
       - name: Merge JSON files
         run: |
           python -c "
           import json, os
-          files = ['keys.json', 'feeds.json', 'bisskeys.json']
-          total = []
-          for f in files:
-              if os.path.exists(f):
-                  with open(f, 'r', encoding='utf-8') as j:
-                      data = json.load(j)
-                      if isinstance(data, list):
-                          total.extend(data)
+          # أسماء ملفاتك
+          source_files = ['keys.json', 'feeds.json', 'bisskeys.json']
+          all_data = []
+          for filename in source_files:
+              if os.path.exists(filename):
+                  try:
+                      with open(filename, 'r', encoding='utf-8') as f:
+                          content = json.load(f)
+                          if isinstance(content, list):
+                              all_data.extend(content)
+                              print(f'Successfully merged: {filename}')
+                  except Exception as e:
+                      print(f'Error reading {filename}: {e}')
           
-          # تغيير الاسم هنا لـ all.json
           with open('all.json', 'w', encoding='utf-8') as out:
-              json.dump(total, out, indent=2, ensure_ascii=False)
+              json.dump(all_data, out, indent=2, ensure_ascii=False)
           "
 
       - name: Commit and Push
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add all.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m 'Update all.json' && git push)
+          git commit -m "Update all.json" || exit 0
+          git push
