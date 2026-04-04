@@ -58,17 +58,5 @@
         "frequency": "12556 H 4938",
         "id": "YSM-013M",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12645 H 14400",
-        "id": "PRINCIPAL BRIV/PROV",
-        "key": "F5 78 04 71 03 26 F1 1A"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10996 V 7500",
-        "id": "POL019",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
