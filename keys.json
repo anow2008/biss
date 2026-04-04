@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "Badr 26°E",
-    "frequency": "12630 V 7400",
-    "id": "OB-HD1",
-    "key": "FE EA CC B4 BD 22 54 33"
-  },
-  {
-    "satellite": "Arabsat 30.5°E",
-    "frequency": "12535 V 7400",
-    "id": "N/A",
-    "key": "FE EA CC B4 BD 22 54 33"
-  },
-  {
-    "satellite": "8.0°W",
-    "frequency": "12525 V 7200",
-    "id": "BBC FAC QF",
-    "key": "BC 11 02 CF CB AA 69 DE\nFA C"
-  },
-  {
     "satellite": "N/A",
     "frequency": "11668 H 6666",
     "id": "E-069 MAIN",
