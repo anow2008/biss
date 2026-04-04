@@ -19,6 +19,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11106 H 7200",
+    "id": "Fi01 ACB",
+    "key": "CF 53 61 83 90 79 B1 BA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11126 H 7200",
     "id": "EPCR",
     "key": "6A 94 A3 A1 DB 64 0E 4D"
@@ -64,12 +70,6 @@
     "frequency": "11589 V 7200",
     "id": "ENC 14",
     "key": "EF EE 34 11 5C FF 55 B0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12545 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -121,7 +121,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
+    "frequency": "12736 V 7200",
     "id": "UFC Fight Night 7 : All Fights",
     "key": "77 3A BC 6D 21 7A AC 47"
   },
