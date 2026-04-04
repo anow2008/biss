@@ -25,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11171 H 7200",
+    "frequency": "11172 H 7200",
     "id": "FEED 1 _M-TRHEE 622",
     "key": "A1 20 4B 0C 19 76 FF 8E"
   },
@@ -34,6 +34,12 @@
     "frequency": "11180 H 7200",
     "id": "FEED 2 _M-THREE 622",
     "key": "A1 20 4B 0C 19 76 FF 8E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11189 H 7200",
+    "id": "HBL Hannover",
+    "key": "20 26 AB F1 DC 04 04 E4"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -64,12 +70,6 @@
     "frequency": "12545 H 4938",
     "id": "YSM-021M",
     "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12564 H 7200",
-    "id": "FRBEIN_ENC_01",
-    "key": "55 8C BB 9C FF 74 DA 4D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -109,21 +109,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12687 V 7200",
-    "id": "Bath v Saracens",
-    "key": "34 AA 12 F0 AA 34 AA 88"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12696 V 7500",
     "id": "Augusta National Women's Amateur - Asia Round 3",
     "key": "55 8F 4A 2E 64 87 C1 AC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12705 V 7200",
-    "id": "Toulon v Stormers",
-    "key": "34 AB 12 F1 AB 34 AB 8A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -132,10 +120,22 @@
     "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12737 V 7200",
+    "id": "UFC Fight Night 7 : All Fights",
+    "key": "77 3A BC 6D 21 7A AC 47"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
-    "key": "C7 9B 4C AE CA 6E C1 F9"
+    "key": "82 23 AA 4F 76 DB BF 10"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10768 V 34000",
+    "id": "SUPPONOR EASTERN 1",
+    "key": "4D 91 DF BD D1 89 C4 1E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -175,7 +175,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10975 H 3600",
+    "frequency": "10974 V 9600",
+    "id": "POL 076",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10976 H 3600",
     "id": "F6-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
   },
@@ -190,5 +196,17 @@
     "frequency": "10986 V 9600",
     "id": "POL-141 ENC2",
     "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11022 V 10000",
+    "id": "F435-1",
+    "key": "9A 49 F1 D4 59 B2 AE B9"
+  },
+  {
+    "satellite": "Eutelsat 21B @ 21.5°E",
+    "frequency": "11668 H 6666",
+    "id": "E-069 MAIN",
+    "key": "AB BA 32 97 15 CE DA BD"
   }
 ]
