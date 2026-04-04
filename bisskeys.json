@@ -1,13 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
-    "id": "GVA_Fi07",
-    "key": "6B E7 CE 20 7F DC E4 3F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "69 21 88 12 42 B2 C6 BA"
   },
@@ -16,12 +10,6 @@
     "frequency": "11106 H 7200",
     "id": "Fi01 ACB",
     "key": "CF 53 61 83 90 79 B1 BA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11127 H 7200",
-    "id": "EPCR",
-    "key": "6A 94 A3 A1 DB 64 0E 4D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -58,12 +46,6 @@
     "frequency": "11523 V 7200",
     "id": "ICC Glasgow  w v Vodacom Bulls",
     "key": "34 AC 12 F2 AC 34 AC 8C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11589 V 7200",
-    "id": "ENC 14",
-    "key": "EF EE 34 11 5C FF 55 B0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -106,12 +88,6 @@
     "frequency": "12696 V 7500",
     "id": "Augusta National Women's Amateur - Asia Round 3",
     "key": "55 8F 4A 2E 64 87 C1 AC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
