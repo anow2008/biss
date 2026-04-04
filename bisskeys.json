@@ -150,12 +150,6 @@
     "key": "7D 4A 1B E2 3C 9F 62 3D"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11247 H 7200",
-    "id": "Encoder 1",
-    "key": "82 E4 F4 5A 76 C5 64 9F"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
     "id": "FEED 2",
