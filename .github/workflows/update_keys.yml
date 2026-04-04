@@ -1,0 +1,35 @@
+name: Update Satellite Keys
+
+on:
+  schedule:
+    # بيشتغل كل 15 دقيقة (تقدر تغير التوقيت)
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # زرار لتشغيله يدوياً
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12' # نفس الإصدار اللي بتفضله لمشاريعك
+
+    - name: Install dependencies
+      run: |
+        pip install cloudscraper
+
+    - name: Run Scraper
+      run: python keys.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add keys.json
+        git commit -m "Update keys [skip ci]" || exit 0
+        git push
