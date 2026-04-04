@@ -40,5 +40,11 @@
     "frequency": "10984 V 5000",
     "id": "TV MARKIZA",
     "key": "47 52 C3 5C 52 39 9B 26"
+  },
+  {
+    "satellite": "N/A",
+    "frequency": "11618 V 9600",
+    "id": "E-400 02",
+    "key": "CC A2 22 90 AA BA BA 1E"
   }
 ]
