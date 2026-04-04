@@ -1,6 +1,84 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11189 H 7200",
+        "id": "HBL Hannover",
+        "key": "20 26 AB F1 DC 04 04 E4"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10974 V 9600",
+        "id": "POL 076",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11022 V 10000",
+        "id": "F435-1",
+        "key": "9A 49 F1 D4 59 B2 AE B9"
+    },
+    {
+        "satellite": "Eutelsat 21B  21.5E",
+        "frequency": "11668 H 6666",
+        "id": "vs Barcelona",
+        "key": "AB BA 32 97 15 CE DA BD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12737 V 7200",
+        "id": "UFC Fight Night 7  All Fights",
+        "key": "77 3A BC 6D 21 7A AC 47"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10768 V 34000",
+        "id": "LIGA HYPERMOTION 2",
+        "key": "B8 CE 7B 01 BB D3 C8 56"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10768 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "6D ED F1 4B D1 E8 DC 95"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR RUSIA 1",
+        "key": "7C 71 1A 07 2B 49 39 AD"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "4D 91 DF BD D1 89 C4 1E"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "A1 AB D4 20 A5 84 BD E6"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "FA F2 DD C9 91 00 49 DA"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "CE 51 8A A9 3A 2F C8 31"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "82 23 AA 4F 76 DB BF 10"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12678 H 7200",
         "id": "enfusion 159",
         "key": "E1 F2 A3 76 B4 C5 D6 4F"
@@ -16,83 +94,5 @@
         "frequency": "12602 V 7200",
         "id": "POL-058_ch1",
         "key": "AD 26 AE 81 04 CB 04 D3"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10980 H 3600",
-        "id": "F1-2 4.5MH",
-        "key": "20 25 AE F3 EA 52 02 3E"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT",
-        "key": "D4 A7 F9 74 3C 2E 81 EB"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11247 H 7200",
-        "id": "Encoder 1",
-        "key": "82 E4 F4 5A 76 C5 64 9F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12705 V 7200",
-        "id": "Toulon v Stormers",
-        "key": "34 AB 12 F1 AB 34 AB 8A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12678 V 7500",
-        "id": "ENC 4",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR MENA 1",
-        "key": "B9 DC 39 CE AF 2F C0 9E"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 1",
-        "key": "14 31 51 96 B9 B5 05 73"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2",
-        "key": "CE 51 8A A9 3A 2F C8 31"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "C7 9B 4C AE CA 6E C1 F9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12437 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11175 V 7200",
-        "id": "NBA-BAL AFRICA FEED",
-        "key": "7D 4A 1B E2 3C 9F 62 3D"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11166 V 7200",
-        "id": "NBA-BAL WORLD FEED",
-        "key": "1C 9A 3F F5 6B 7D 28 10"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12737 V 7200",
-        "id": "ENC 5",
-        "key": "B7 B3 76 E0 9E 39 83 5A"
     }
 ]
