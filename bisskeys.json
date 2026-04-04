@@ -37,7 +37,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11492 V 25740",
+    "frequency": "11491 V 25740",
     "id": "UKI-1852-NTT1",
     "key": "A2 BB 1D 7A A4 DA 55 D3"
   },
@@ -73,12 +73,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12573 H 7200",
-    "id": "F419_MAIN",
-    "key": "55 8C BB 9C FF 74 DA 4D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12602 V 7200",
     "id": "POL-058_ch1",
     "key": "AD 26 AE 81 04 CB 04 D3"
@@ -97,7 +91,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7500",
+    "frequency": "12678 H 7200",
+    "id": "enfusion 159",
+    "key": "E1 F2 A3 76 B4 C5 D6 4F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12678 V 7500",
     "id": "ENC 4",
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
@@ -132,12 +132,6 @@
     "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
-    "id": "ENC 5",
-    "key": "B7 B3 76 E0 9E 39 83 5A"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
@@ -151,7 +145,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11175 V 7200",
+    "frequency": "11176 V 7200",
     "id": "NBA-BAL AFRICA FEED",
     "key": "7D 4A 1B E2 3C 9F 62 3D"
   },
