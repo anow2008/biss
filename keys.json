@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "39.0E",
-    "frequency": "10984 V 5000",
-    "id": "TV MARKIZA",
-    "key": "47 52 C3 5C 52 39 9B 26"
-  },
-  {
     "satellite": "7.0°",
     "frequency": "11590 V 7200",
     "id": "ENC 14",
@@ -70,5 +64,11 @@
     "frequency": "11071 V 7200",
     "id": "IMG A EU",
     "key": "69 21 88 12 42 B2 C6 BA"
+  },
+  {
+    "satellite": "3E",
+    "frequency": "11088 V 7200",
+    "id": "No name",
+    "key": "6B 84 D5 C4 35 CC 3E 3F"
   }
 ]
