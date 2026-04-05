@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "1W",
-    "frequency": "11495 V 15000",
-    "id": "&nbsp;No name",
-    "key": "66 72 38 10 92 FB 24 B1"
-  },
-  {
     "satellite": "0E",
     "frequency": "12678 V 7200",
     "id": "Cleopatra",
