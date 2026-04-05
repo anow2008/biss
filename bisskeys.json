@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 V 7200",
+    "id": "ITA 790 RAI FEED VERONA",
+    "key": "A4 97 49 84 DD 4E 90 BB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "14 D6 41 2B AA D2 99 15"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 H 7200",
+    "id": "Fi01 ACB",
+    "key": "A1 8D E2 10 48 D5 8B A8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11126 H 7200",
+    "id": "EPCR",
+    "key": "6A 94 A3 A1 DB 64 0E 4D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12545 H 4938",
+    "id": "MNE-001 main",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12551 H 4938",
+    "id": "ROU-051 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12557 H 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12622 H 9600",
+    "id": "SUI 066 MAIN",
+    "key": "B8 0D 7C 41 8E F9 5E E5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12696 V 7200",
+    "id": "EPCR ICC Leinster V Edinburgh",
+    "key": "34 AB 12 F1 AB 34 AB 8A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12728 V 7500",
+    "id": "NLFLEV_HOL328-3",
+    "key": "11 A8 CB 84 DA 65 4A 89"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "35 4B 26 A6 AF B0 BC 1B"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11166 V 7200",
+    "id": "NBA-BAL WORLD FEED",
+    "key": "A8 C3 D1 3C F7 B2 96 3F"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11175 V 7200",
+    "id": "NBA-BAL AFRICA FEED",
+    "key": "3E 7B 2A E3 6C 1D 94 1D"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11256 H 7200",
+    "id": "Encoder 3",
+    "key": "5F CD E3 0F A6 96 35 71"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10829 V 7200",
+    "id": "GCUK Enc 9",
+    "key": "AB CD EE 66 FF 06 04 09"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10838 V 7200",
+    "id": "PAOK VS PAO A",
+    "key": "74 39 01 AE DE 36 43 57"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "D4 A7 F9 74 3C 2E 81 EB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11062 H 9600",
+    "id": "SNG ABC 1",
+    "key": "CC BB 56 DD 78 CC BB FF"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12509 H 4938",
+    "id": "YSM-013M",
+    "key": "AB BA 20 85 25 20 26 6B"
+  }
+]
