@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11523 V 7500",
+        "id": "AFD",
+        "key": "26 41 AB 12 B1 C4 1D 92"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11584 V 15000",
         "id": "Zuffa",
         "key": "A1 23 B7 7B 41 C4 12 17"
@@ -64,17 +70,5 @@
         "frequency": "11175 V 7200",
         "id": "NBA-BAL AFRICA FEED",
         "key": "3E 7B 2A E3 6C 1D 94 1D"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11166 V 7200",
-        "id": "NBA-BAL WORLD FEED",
-        "key": "A8 C3 D1 3C F7 B2 96 3F"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "A1 90 C3 F4 43 D6 47 60"
     }
 ]
