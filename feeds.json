@@ -76,17 +76,5 @@
         "frequency": "10732 V 34000",
         "id": "OVERON 1",
         "key": "35 4B 26 A6 AF B0 BC 1B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10996 V 7200",
-        "id": "ITA 790 RAI FEED VERONA",
-        "key": "A4 97 49 84 DD 4E 90 BB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12696 V 7200",
-        "id": "EPCR ICC Leinster V Edinburgh",
-        "key": "34 AB 12 F1 AB 34 AB 8A"
     }
 ]
