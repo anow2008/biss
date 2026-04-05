@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "EF 1C 00 0B 12 74 FF 85"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11523 V 7500",
         "id": "AFD",
         "key": "26 41 AB 12 B1 C4 1D 92"
@@ -64,11 +70,5 @@
         "frequency": "11256 H 7200",
         "id": "Encoder 3",
         "key": "5F CD E3 0F A6 96 35 71"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11175 V 7200",
-        "id": "NBA-BAL AFRICA FEED",
-        "key": "3E 7B 2A E3 6C 1D 94 1D"
     }
 ]
