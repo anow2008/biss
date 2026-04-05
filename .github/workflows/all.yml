@@ -24,7 +24,6 @@ jobs:
         run: |
           python -c "
           import json, os
-          # أسماء ملفاتك
           source_files = ['keys.json', 'feeds.json', 'bisskeys.json']
           all_data = []
           for filename in source_files:
@@ -34,18 +33,16 @@ jobs:
                           content = json.load(f)
                           if isinstance(content, list):
                               all_data.extend(content)
-                              print(f'Successfully merged: {filename}')
                   except Exception as e:
-                      print(f'Error reading {filename}: {e}')
-          
+                      print(f'Error: {e}')
           with open('all.json', 'w', encoding='utf-8') as out:
               json.dump(all_data, out, indent=2, ensure_ascii=False)
           "
 
-      - name: Commit and Push
+      - name: Commit and Push All Changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add all.json
-          git commit -m "Update all.json" || exit 0
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add keys.json feeds.json bisskeys.json all.json
+          git commit -m "Update satellite data and all.json" || exit 0
           git push
