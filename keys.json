@@ -1,41 +1,5 @@
 [
   {
-    "satellite": "7.0°",
-    "frequency": "10960 V 7200",
-    "id": "WSHT ENC 58",
-    "key": "77 3A BC 6D 21 7A AC 47"
-  },
-  {
-    "satellite": "8E",
-    "frequency": "11172 H 7200",
-    "id": "FEED 2 _M-THREE 622",
-    "key": "A1 20 4B 0C 19 76 FF 8E"
-  },
-  {
-    "satellite": "8E",
-    "frequency": "11180 H 7200",
-    "id": "FEED 2 _M-THREE 622",
-    "key": "A1 20 4B 0C 19 76 FF 8E"
-  },
-  {
-    "satellite": "22.0W",
-    "frequency": "11553 H 7198",
-    "id": "UFC PATH C",
-    "key": "77 3A BC 6D 21 7A AC 47"
-  },
-  {
-    "satellite": "22.0°",
-    "frequency": "11552 V 7200",
-    "id": "UFC PATH CC",
-    "key": "77 3A BC 6D 21 7A AC 47"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "11071 V 7200",
-    "id": "IMG A EU",
-    "key": "69 21 88 12 42 B2 C6 BA"
-  },
-  {
     "satellite": "3E",
     "frequency": "11088 V 7200",
     "id": "No name",
@@ -82,5 +46,53 @@
     "frequency": "11495 V 15000",
     "id": "&nbsp;No name",
     "key": "66 72 38 10 92 FB 24 B1"
+  },
+  {
+    "satellite": "0E",
+    "frequency": "12678 V 7200",
+    "id": "Cleopatra",
+    "key": "88 88 FE 0E E7 B9 00 A0"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "12727 V 7500",
+    "id": "NLFLEV_HOL328-3",
+    "key": "11 A8 CB 84 DA 65 4A 89"
+  },
+  {
+    "satellite": "23 E",
+    "frequency": "11098 V 7120",
+    "id": "Pitch Quarter FInals",
+    "key": "12 34 DD 23 EE 05 04 F7"
+  },
+  {
+    "satellite": "5E",
+    "frequency": "11136 V 7200",
+    "id": "Ronde van Vlaanderen",
+    "key": "D0 40 5E 6E 71 FF 26 96"
+  },
+  {
+    "satellite": "10.0E",
+    "frequency": "11167 V 7200",
+    "id": "NBA-BAL WORLD FEED",
+    "key": "A8 C3 D1 3C F7 B2 96 3F"
+  },
+  {
+    "satellite": "3E",
+    "frequency": "11176 V 7200",
+    "id": "NBA-BAL AFRICA FEED",
+    "key": "3E 7B 2A E3 6C 1D 94 1D"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11020 V 9875",
+    "id": "GVA_Fi03",
+    "key": "3B 22 FE 5B 31 73 F3 97"
+  },
+  {
+    "satellite": "13E",
+    "frequency": "10847 V 7200",
+    "id": "GCUK Enc2",
+    "key": "CD 55 BC DE E1 56 12 49"
   }
 ]
