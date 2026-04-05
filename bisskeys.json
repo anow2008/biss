@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
-    "id": "IMG A EU",
-    "key": "14 D6 41 2B AA D2 99 15"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11523 V 7500",
     "id": "AFD",
     "key": "26 41 AB 12 B1 C4 1D 92"
@@ -16,12 +10,6 @@
     "frequency": "11584 V 15000",
     "id": "Zuffa",
     "key": "A1 23 B7 7B 41 C4 12 17"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
