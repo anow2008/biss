@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "7 E",
-    "frequency": "11190 V 7200",
-    "id": "Jena-Wolfsburg",
-    "key": "05 04 CE D7 ED 29 44 5A"
-  },
-  {
-    "satellite": "9E",
-    "frequency": "11246 V 7200",
-    "id": "Encoder 2",
-    "key": "2B 44 5D CC C5 9E DB 3E"
-  },
-  {
     "satellite": "3E",
     "frequency": "11175 V 7200",
     "id": "NBA-BAL AFRICA FEED",
@@ -82,5 +70,11 @@
     "frequency": "12642 V 7200",
     "id": "D-157 Saarbruecken 3 Liga",
     "key": "05 04 DE E7 FF 80 34 B3"
+  },
+  {
+    "satellite": "7E",
+    "frequency": "11524 V 7500",
+    "id": "AFD",
+    "key": "26 41 AB 12 B1 C4 1D 92"
   }
 ]
