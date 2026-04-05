@@ -19,19 +19,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12622 H 9600",
-    "id": "SUI 066 MAIN",
-    "key": "B8 0D 7C 41 8E F9 5E E5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12728 V 7500",
     "id": "NLFLEV_HOL328-3",
     "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
+    "frequency": "12737 V 7200",
     "id": "ENC 4",
     "key": "26 36 A7 03 6C CA B2 E8"
   },
