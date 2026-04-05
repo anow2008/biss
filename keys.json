@@ -1,1 +1,86 @@
-
+[
+  {
+    "satellite": "1E",
+    "frequency": "11618 V 9600",
+    "id": "E-400 02",
+    "key": "CC A2 22 90 AA BA BA 1E"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "10960 V 7200",
+    "id": "WSHT ENC 58",
+    "key": "77 3A BC 6D 21 7A AC 47"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "11172 H 7200",
+    "id": "FEED 2 _M-THREE 622",
+    "key": "A1 20 4B 0C 19 76 FF 8E"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "11180 H 7200",
+    "id": "FEED 2 _M-THREE 622",
+    "key": "A1 20 4B 0C 19 76 FF 8E"
+  },
+  {
+    "satellite": "22.0W",
+    "frequency": "11553 H 7198",
+    "id": "UFC PATH C",
+    "key": "77 3A BC 6D 21 7A AC 47"
+  },
+  {
+    "satellite": "22.0°",
+    "frequency": "11552 V 7200",
+    "id": "UFC PATH CC",
+    "key": "77 3A BC 6D 21 7A AC 47"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11071 V 7200",
+    "id": "IMG A EU",
+    "key": "69 21 88 12 42 B2 C6 BA"
+  },
+  {
+    "satellite": "3E",
+    "frequency": "11088 V 7200",
+    "id": "No name",
+    "key": "6B 84 D5 C4 35 CC 3E 3F"
+  },
+  {
+    "satellite": "5E",
+    "frequency": "11135 V 7200",
+    "id": "N/A",
+    "key": "D0 40 5E 6E 71 FF 26 96"
+  },
+  {
+    "satellite": "10.0E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "B9 13 C8 94 FB C6 85 46"
+  },
+  {
+    "satellite": "10.0E",
+    "frequency": "10732 V 34000",
+    "id": "LIGA HYPERMOTION 1",
+    "key": "A1 90 C3 F4 43 D6 47 60"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11523 V 7200",
+    "id": "ISMF",
+    "key": "FA BC DE 94 98 76 12 20"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11071 V 7200",
+    "id": "IMG A EU",
+    "key": "C3 53 56 6C D8 18 93 83"
+  },
+  {
+    "satellite": "1.0W",
+    "frequency": "12541 V 6658",
+    "id": "B 191 DGI",
+    "key": "05 04 20 29 26 AB C1 92"
+  }
+]
