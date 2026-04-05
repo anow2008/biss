@@ -1,12 +1,6 @@
 [
   {
     "satellite": "7.0°",
-    "frequency": "11590 V 7200",
-    "id": "ENC 14",
-    "key": "EF EE 34 11 5C FF 55 B0"
-  },
-  {
-    "satellite": "7.0°",
     "frequency": "12736 V 7200",
     "id": "UFC Fight Night 7 : All Fights",
     "key": "77 3A BC 6D 21 7A AC 47"
@@ -70,5 +64,11 @@
     "frequency": "11088 V 7200",
     "id": "No name",
     "key": "6B 84 D5 C4 35 CC 3E 3F"
+  },
+  {
+    "satellite": "5E",
+    "frequency": "11135 V 7200",
+    "id": "N/A",
+    "key": "D0 40 5E 6E 71 FF 26 96"
   }
 ]
