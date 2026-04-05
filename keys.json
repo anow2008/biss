@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "23 E",
-    "frequency": "11098 V 7120",
-    "id": "Pitch Quarter FInals",
-    "key": "12 34 DD 23 EE 05 04 F7"
-  },
-  {
-    "satellite": "5E",
-    "frequency": "11136 V 7200",
-    "id": "Ronde van Vlaanderen",
-    "key": "D0 40 5E 6E 71 FF 26 96"
-  },
-  {
-    "satellite": "10.0E",
-    "frequency": "11167 V 7200",
-    "id": "NBA-BAL WORLD FEED",
-    "key": "A8 C3 D1 3C F7 B2 96 3F"
-  },
-  {
     "satellite": "3E",
     "frequency": "11176 V 7200",
     "id": "NBA-BAL AFRICA FEED",
@@ -82,5 +64,17 @@
     "frequency": "11175 V 7200",
     "id": "NBA-BAL AFRICA FEED",
     "key": "3E 7B 2A E3 6C 1D 94 1D"
+  },
+  {
+    "satellite": "13.0E",
+    "frequency": "10830 V 7200",
+    "id": "GCUK Enc 9",
+    "key": "AB CD EE 66 FF 06 04 09"
+  },
+  {
+    "satellite": "16.0E",
+    "frequency": "11062 V 9600",
+    "id": "SNG ABC 1",
+    "key": "CC BB 56 DD 78 CC BB FF"
   }
 ]
