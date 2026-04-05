@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "1E",
-    "frequency": "11618 V 9600",
-    "id": "E-400 02",
-    "key": "CC A2 22 90 AA BA BA 1E"
-  },
-  {
     "satellite": "7.0°",
     "frequency": "10960 V 7200",
     "id": "WSHT ENC 58",
@@ -82,5 +76,11 @@
     "frequency": "12541 V 6658",
     "id": "B 191 DGI",
     "key": "05 04 20 29 26 AB C1 92"
+  },
+  {
+    "satellite": "1W",
+    "frequency": "11495 V 15000",
+    "id": "&nbsp;No name",
+    "key": "66 72 38 10 92 FB 24 B1"
   }
 ]
