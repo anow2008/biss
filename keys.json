@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "3E",
-    "frequency": "11176 V 7200",
-    "id": "NBA-BAL AFRICA FEED",
-    "key": "3E 7B 2A E3 6C 1D 94 1D"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "11020 V 9875",
-    "id": "GVA_Fi03",
-    "key": "3B 22 FE 5B 31 73 F3 97"
-  },
-  {
-    "satellite": "13E",
-    "frequency": "10847 V 7200",
-    "id": "GCUK Enc2",
-    "key": "CD 55 BC DE E1 56 12 49"
-  },
-  {
     "satellite": "7.0E",
     "frequency": "12544 V 4936",
     "id": "YSM-012 MAIN",
@@ -76,5 +58,17 @@
     "frequency": "11062 V 9600",
     "id": "SNG ABC 1",
     "key": "CC BB 56 DD 78 CC BB FF"
+  },
+  {
+    "satellite": "2 E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 4",
+    "key": "26 36 A7 03 6C CA B2 E8"
+  },
+  {
+    "satellite": "13.0E",
+    "frequency": "10830 V 7200",
+    "id": "GCUK Enc 9",
+    "key": "AB CD EE 66 FF 06 04 09"
   }
 ]
