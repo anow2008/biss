@@ -94,5 +94,11 @@
     "frequency": "10847 V 7200",
     "id": "GCUK Enc2",
     "key": "CD 55 BC DE E1 56 12 49"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "12544 V 4936",
+    "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
