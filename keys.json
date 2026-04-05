@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "7.0°",
-    "frequency": "12736 V 7200",
-    "id": "UFC Fight Night 7 : All Fights",
-    "key": "77 3A BC 6D 21 7A AC 47"
-  },
-  {
-    "satellite": "16.0°",
-    "frequency": "11022 V 10000",
-    "id": "F435-1",
-    "key": "9A 49 F1 D4 59 B2 AE B9"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "11107 V 7200",
-    "id": "Fi01 ACB",
-    "key": "CF 53 61 83 90 79 B1 BA"
-  },
-  {
     "satellite": "1E",
     "frequency": "11618 V 9600",
     "id": "E-400 02",
@@ -70,5 +52,35 @@
     "frequency": "11135 V 7200",
     "id": "N/A",
     "key": "D0 40 5E 6E 71 FF 26 96"
+  },
+  {
+    "satellite": "10.0E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "B9 13 C8 94 FB C6 85 46"
+  },
+  {
+    "satellite": "10.0E",
+    "frequency": "10732 V 34000",
+    "id": "LIGA HYPERMOTION 1",
+    "key": "A1 90 C3 F4 43 D6 47 60"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11523 V 7200",
+    "id": "ISMF",
+    "key": "FA BC DE 94 98 76 12 20"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11071 V 7200",
+    "id": "IMG A EU",
+    "key": "C3 53 56 6C D8 18 93 83"
+  },
+  {
+    "satellite": "1.0W",
+    "frequency": "12541 V 6658",
+    "id": "B 191 DGI",
+    "key": "05 04 20 29 26 AB C1 92"
   }
 ]
