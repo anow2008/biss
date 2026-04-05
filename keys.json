@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "1E",
-    "frequency": "12660 V 7200",
-    "id": "E394 BACK",
-    "key": "D7 1E AA 9F 88 9C 7F A3"
-  },
-  {
-    "satellite": "16.0E",
-    "frequency": "12509 V 4936",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
     "satellite": "7 E",
     "frequency": "11190 V 7200",
     "id": "Jena-Wolfsburg",
@@ -70,5 +58,29 @@
     "frequency": "10830 V 7200",
     "id": "GCUK Enc 9",
     "key": "AB CD EE 66 FF 06 04 09"
+  },
+  {
+    "satellite": "10.0E",
+    "frequency": "11255 V 7200",
+    "id": "Encoder 3",
+    "key": "5F CD E3 0F A6 96 35 71"
+  },
+  {
+    "satellite": "26.0E",
+    "frequency": "11128 V 8800",
+    "id": "SNG 01 - Chain B",
+    "key": "55 51 24 CA 45 45 41 CB"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11583 V 15000",
+    "id": "Zuffa",
+    "key": "FD 54 8B DF 74 A2 D0 5D"
+  },
+  {
+    "satellite": "28.2E",
+    "frequency": "12642 V 7200",
+    "id": "D-157 Saarbruecken 3 Liga",
+    "key": "05 04 DE E7 FF 80 34 B3"
   }
 ]
