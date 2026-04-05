@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "0E",
-    "frequency": "12678 V 7200",
-    "id": "Cleopatra",
-    "key": "88 88 FE 0E E7 B9 00 A0"
-  },
-  {
     "satellite": "7.0°",
     "frequency": "12727 V 7500",
     "id": "NLFLEV_HOL328-3",
@@ -88,5 +82,11 @@
     "frequency": "10847 V 7200",
     "id": "GCUK Enc2",
     "key": "CD 55 BC DE E1 56 12 49"
+  },
+  {
+    "satellite": "3E",
+    "frequency": "11175 V 7200",
+    "id": "NBA-BAL AFRICA FEED",
+    "key": "3E 7B 2A E3 6C 1D 94 1D"
   }
 ]
