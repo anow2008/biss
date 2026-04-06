@@ -52,5 +52,11 @@
     "frequency": "11080 V 7120",
     "id": "Hull v Coventry",
     "key": "C3 7A 15 52 22 AD 25 F4"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "12735 V 7200",
+    "id": "ENC 2",
+    "key": "AE 7A 5B 83 26 24 87 D1"
   }
 ]
