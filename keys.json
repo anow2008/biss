@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "3E",
-    "frequency": "11175 V 7200",
-    "id": "NBA-BAL AFRICA FEED",
-    "key": "3E 7B 2A E3 6C 1D 94 1D"
-  },
-  {
     "satellite": "N/A",
     "frequency": "10847 V 7200",
     "id": "GCUK Enc2",
