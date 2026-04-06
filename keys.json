@@ -1,35 +1,5 @@
 [
   {
-    "satellite": "3E",
-    "frequency": "11175 V 7200",
-    "id": "NBA-BAL AFRICA FEED",
-    "key": "3E 7B 2A E3 6C 1D 94 1D"
-  },
-  {
-    "satellite": "13.0E",
-    "frequency": "10830 V 7200",
-    "id": "GCUK Enc 9",
-    "key": "AB CD EE 66 FF 06 04 09"
-  },
-  {
-    "satellite": "16.0E",
-    "frequency": "11062 V 9600",
-    "id": "SNG ABC 1",
-    "key": "CC BB 56 DD 78 CC BB FF"
-  },
-  {
-    "satellite": "2 E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 4",
-    "key": "26 36 A7 03 6C CA B2 E8"
-  },
-  {
-    "satellite": "13.0E",
-    "frequency": "10830 V 7200",
-    "id": "GCUK Enc 9",
-    "key": "AB CD EE 66 FF 06 04 09"
-  },
-  {
     "satellite": "13.0E",
     "frequency": "10830 V 7200",
     "id": "GCUK Enc 9",
@@ -76,5 +46,41 @@
     "frequency": "11468 V 15000",
     "id": "No name",
     "key": "06 6F CE 43 E5 91 09 7F"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11061 V 7120",
+    "id": "Pitch Portsmouth v Oxford",
+    "key": "99 6B 32 36 74 DE 22 74"
+  },
+  {
+    "satellite": "0E",
+    "frequency": "12678 V 7200",
+    "id": "Cleopatra",
+    "key": "88 88 FE 0E E7 B9 00 A0"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11682 V 2500",
+    "id": "N/A",
+    "key": "12 34 51 97 23 45 12 7A"
+  },
+  {
+    "satellite": "2 E",
+    "frequency": "12703 V 7500",
+    "id": "FAC R5 WOL",
+    "key": "D2 E3 CB 80 45 F1 A6 DC"
+  },
+  {
+    "satellite": "13.0E",
+    "frequency": "10830 V 7200",
+    "id": "NLFLEV_HOL-90 CH-A",
+    "key": "86 53 A8 81 31 83 D6 8A"
+  },
+  {
+    "satellite": "84 E",
+    "frequency": "10969 V 7200",
+    "id": "BEL 69",
+    "key": "D6 86 84 E0 95 87 C2 DE"
   }
 ]
