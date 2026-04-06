@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "23 E",
-    "frequency": "10961 V 7119",
-    "id": "Pitch Chelsea v Spurs",
-    "key": "12 34 DD 23 EE 05 04 F7"
-  },
-  {
     "satellite": "7.0°",
     "frequency": "11070 V 7200",
     "id": "IMG A EU",
@@ -46,5 +40,17 @@
     "frequency": "11580 V 5000",
     "id": "MRCO05-BUCKUP",
     "key": "FE ED 06 F1 04 20 26 4A"
+  },
+  {
+    "satellite": "23 E",
+    "frequency": "11108 V 7119",
+    "id": "N/A",
+    "key": "12 34 DD 23 EE 05 04 F7"
+  },
+  {
+    "satellite": "7E",
+    "frequency": "11080 V 7120",
+    "id": "Hull v Coventry",
+    "key": "C3 7A 15 52 22 AD 25 F4"
   }
 ]
