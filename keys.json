@@ -1,35 +1,5 @@
 [
   {
-    "satellite": "2 E",
-    "frequency": "12703 V 7500",
-    "id": "FAC R5 WOL",
-    "key": "D2 E3 CB 80 45 F1 A6 DC"
-  },
-  {
-    "satellite": "13.0E",
-    "frequency": "10830 V 7200",
-    "id": "NLFLEV_HOL-90 CH-A",
-    "key": "86 53 A8 81 31 83 D6 8A"
-  },
-  {
-    "satellite": "84 E",
-    "frequency": "10969 V 7200",
-    "id": "BEL 69",
-    "key": "D6 86 84 E0 95 87 C2 DE"
-  },
-  {
-    "satellite": "1W",
-    "frequency": "10970 V 15000",
-    "id": "No name",
-    "key": "AF 93 33 75 62 B8 86 A0"
-  },
-  {
-    "satellite": "8E",
-    "frequency": "11500 V 7200",
-    "id": "No name",
-    "key": "8E A0 2A 58 49 BE 8C 93"
-  },
-  {
     "satellite": "23 E",
     "frequency": "10961 V 7119",
     "id": "Pitch Chelsea v Spurs",
@@ -64,5 +34,17 @@
     "frequency": "11817 V 31431",
     "id": "Astra 1 Service 1",
     "key": "85 D4 16 6F 4A 84 1C EA"
+  },
+  {
+    "satellite": "7E",
+    "frequency": "11607 V 7199",
+    "id": "N/A",
+    "key": "06 04 20 2A 26 FA CA EA"
+  },
+  {
+    "satellite": "21.6E",
+    "frequency": "11580 V 5000",
+    "id": "MRCO05-BUCKUP",
+    "key": "FE ED 06 F1 04 20 26 4A"
   }
 ]
