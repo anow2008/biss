@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "7E",
-    "frequency": "11524 V 7500",
-    "id": "AFD",
-    "key": "26 41 AB 12 B1 C4 1D 92"
-  },
-  {
-    "satellite": "43 E",
-    "frequency": "11088 V 7200",
-    "id": "No name",
-    "key": "06 6F CE 43 E5 91 09 7F"
-  },
-  {
-    "satellite": "43 E",
-    "frequency": "11468 V 15000",
-    "id": "No name",
-    "key": "06 6F CE 43 E5 91 09 7F"
-  },
-  {
     "satellite": "7.0°",
     "frequency": "11061 V 7120",
     "id": "Pitch Portsmouth v Oxford",
@@ -70,5 +52,11 @@
     "frequency": "10961 V 7119",
     "id": "Pitch Chelsea v Spurs",
     "key": "12 34 DD 23 EE 05 04 F7"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11070 V 7200",
+    "id": "IMG A EU",
+    "key": "EF 1C 00 0B 12 74 FF 85"
   }
 ]
