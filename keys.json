@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "7.0°",
-    "frequency": "11061 V 7120",
-    "id": "Pitch Portsmouth v Oxford",
-    "key": "99 6B 32 36 74 DE 22 74"
-  },
-  {
-    "satellite": "0E",
-    "frequency": "12678 V 7200",
-    "id": "Cleopatra",
-    "key": "88 88 FE 0E E7 B9 00 A0"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "11682 V 2500",
-    "id": "N/A",
-    "key": "12 34 51 97 23 45 12 7A"
-  },
-  {
     "satellite": "2 E",
     "frequency": "12703 V 7500",
     "id": "FAC R5 WOL",
@@ -58,5 +40,29 @@
     "frequency": "11070 V 7200",
     "id": "IMG A EU",
     "key": "EF 1C 00 0B 12 74 FF 85"
+  },
+  {
+    "satellite": "1.0°",
+    "frequency": "11481 V 8022",
+    "id": "HOL324 MAIN",
+    "key": "B0 1D 40 0D 64 FF 15 78"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "10985 V 9600",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "30.5°",
+    "frequency": "12535 V 7400",
+    "id": "OB-HD3",
+    "key": "FE EA CC B4 BD 22 54 33"
+  },
+  {
+    "satellite": "19.2°",
+    "frequency": "11817 V 31431",
+    "id": "Astra 1 Service 1",
+    "key": "85 D4 16 6F 4A 84 1C EA"
   }
 ]
