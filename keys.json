@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "N/A",
-    "frequency": "10847 V 7200",
-    "id": "GCUK Enc2",
-    "key": "CD 55 BC DE E1 56 12 49"
-  },
-  {
     "satellite": "3E",
     "frequency": "11175 V 7200",
     "id": "NBA-BAL AFRICA FEED",
@@ -70,5 +64,17 @@
     "frequency": "11524 V 7500",
     "id": "AFD",
     "key": "26 41 AB 12 B1 C4 1D 92"
+  },
+  {
+    "satellite": "43 E",
+    "frequency": "11088 V 7200",
+    "id": "No name",
+    "key": "06 6F CE 43 E5 91 09 7F"
+  },
+  {
+    "satellite": "43 E",
+    "frequency": "11468 V 15000",
+    "id": "No name",
+    "key": "06 6F CE 43 E5 91 09 7F"
   }
 ]
