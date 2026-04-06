@@ -1,35 +1,5 @@
 [
   {
-    "satellite": "13.0E",
-    "frequency": "10830 V 7200",
-    "id": "GCUK Enc 9",
-    "key": "AB CD EE 66 FF 06 04 09"
-  },
-  {
-    "satellite": "10.0E",
-    "frequency": "11255 V 7200",
-    "id": "Encoder 3",
-    "key": "5F CD E3 0F A6 96 35 71"
-  },
-  {
-    "satellite": "26.0E",
-    "frequency": "11128 V 8800",
-    "id": "SNG 01 - Chain B",
-    "key": "55 51 24 CA 45 45 41 CB"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "11583 V 15000",
-    "id": "Zuffa",
-    "key": "FD 54 8B DF 74 A2 D0 5D"
-  },
-  {
-    "satellite": "28.2E",
-    "frequency": "12642 V 7200",
-    "id": "D-157 Saarbruecken 3 Liga",
-    "key": "05 04 DE E7 FF 80 34 B3"
-  },
-  {
     "satellite": "7E",
     "frequency": "11524 V 7500",
     "id": "AFD",
@@ -82,5 +52,23 @@
     "frequency": "10969 V 7200",
     "id": "BEL 69",
     "key": "D6 86 84 E0 95 87 C2 DE"
+  },
+  {
+    "satellite": "1W",
+    "frequency": "10970 V 15000",
+    "id": "No name",
+    "key": "AF 93 33 75 62 B8 86 A0"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "11500 V 7200",
+    "id": "No name",
+    "key": "8E A0 2A 58 49 BE 8C 93"
+  },
+  {
+    "satellite": "23 E",
+    "frequency": "10961 V 7119",
+    "id": "Pitch Chelsea v Spurs",
+    "key": "12 34 DD 23 EE 05 04 F7"
   }
 ]
