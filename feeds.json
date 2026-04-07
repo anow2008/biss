@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11013 V 7200",
+        "id": "GVA_Fi08_Euroleague_M7",
+        "key": "19 2A 4D 90 19 27 9E DE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11106 V 7200",
+        "id": "EDS807HD.2",
+        "key": "AB 57 BD BF 62 CA 49 75"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11062 H 7200",
         "id": "GVA_Fi07_Euroleague_M3",
         "key": "43 15 81 D9 78 C3 82 BD"
@@ -70,11 +82,5 @@
         "frequency": "12647 V 7200",
         "id": "Fi17GNVE",
         "key": "77 72 11 FA A6 24 B1 7B"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10996 V 7500",
-        "id": "POL037 TVN24 BIA",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
