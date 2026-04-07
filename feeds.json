@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11606 V 7200",
+        "id": "E-228 Main",
+        "key": "AB BA 20 85 26 04 07 31"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11013 V 7200",
         "id": "GVA_Fi08_Euroleague_M7",
         "key": "19 2A 4D 90 19 27 9E DE"
