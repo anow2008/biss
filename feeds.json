@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11079 H 7120",
+        "id": "EFL - Bromley v Shrewsbury",
+        "key": "CC E9 53 08 95 A3 02 3A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11591 H 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "E5 8F FE 72 ED 04 07 F8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11088 H 7200",
+        "id": "WSHT ENC81",
+        "key": "ED DC F7 C0 DF 64 82 C5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12719 V 4800",
+        "id": "Studioline Main",
+        "key": "20 26 AA F0 BB 20 26 01"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11606 V 7200",
         "id": "E-228 Main",
         "key": "AB BA 20 85 26 04 07 31"
@@ -70,23 +94,5 @@
         "frequency": "12736 V 7200",
         "id": "vs Bayern München",
         "key": "78 71 37 20 81 11 99 2B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11051 V 19200",
-        "id": "vs Bayern München",
-        "key": "CA DA 46 EA 58 DA CA FC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10986 V 9875",
-        "id": "Unname",
-        "key": "F5 32 06 2D DC 06 94 76"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12647 V 7200",
-        "id": "Fi17GNVE",
-        "key": "77 72 11 FA A6 24 B1 7B"
     }
 ]
