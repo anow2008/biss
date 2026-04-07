@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11051 V 19200",
+        "id": "vs Bayern München",
+        "key": "CA DA 46 EA 58 DA CA FC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10986 V 9875",
+        "id": "Unname",
+        "key": "F5 32 06 2D DC 06 94 76"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12647 V 7200",
         "id": "Fi17GNVE",
         "key": "77 72 11 FA A6 24 B1 7B"
@@ -28,11 +40,5 @@
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "E3 71 2C 80 A1 84 63 88"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "EF 1C 00 0B 12 74 FF 85"
     }
 ]
