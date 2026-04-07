@@ -7,6 +7,18 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10988 H 4820",
+    "id": "E 408 Feed B Path 2",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11013 V 7200",
+    "id": "GVA_Fi08_Euroleague_M7",
+    "key": "19 2A 4D 90 19 27 9E DE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11051 V 19200",
     "id": "E64 Main",
     "key": "CA DA 46 EA 58 DA CA FC"
@@ -25,15 +37,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11088 V 7200",
-    "id": "Main",
-    "key": "25 79 14 B2 E7 07 08 F6"
+    "frequency": "11079 H 7120",
+    "id": "EFL - Bromley v Shrewsbury",
+    "key": "CC E9 53 08 95 A3 02 3A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11097 V 7200",
-    "id": "UAE-065",
-    "key": "A5 4D C2 B4 BC 91 66 B3"
+    "frequency": "11088 H 7200",
+    "id": "WSHT ENC81",
+    "key": "ED DC F7 C0 DF 64 82 C5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,9 +55,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11582 H 7200",
-    "id": "D-312",
-    "key": "E5 8F FC 70 ED 04 07 F8"
+    "frequency": "11591 H 7200",
+    "id": "Medialink CRO-024/1",
+    "key": "E5 8F FE 72 ED 04 07 F8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,6 +79,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12720 V 4800",
+    "id": "Studioline Main",
+    "key": "20 26 AA F0 BB 20 26 01"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "CBS R.MAD BAY",
     "key": "78 71 37 20 81 11 99 2B"
@@ -82,11 +100,5 @@
     "frequency": "10962 H 3333",
     "id": "DEFAULT",
     "key": "D4 A7 F9 74 3C 2E 81 EB"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-033 out1",
-    "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
