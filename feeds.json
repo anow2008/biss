@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12647 V 7200",
+        "id": "Fi17GNVE",
+        "key": "77 72 11 FA A6 24 B1 7B"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "10996 V 7500",
         "id": "POL037 TVN24 BIA",
@@ -28,23 +34,5 @@
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "EF 1C 00 0B 12 74 FF 85"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11523 V 7500",
-        "id": "AFD",
-        "key": "26 41 AB 12 B1 C4 1D 92"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11584 V 15000",
-        "id": "Zuffa",
-        "key": "A1 23 B7 7B 41 C4 12 17"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10830 V 7200",
-        "id": "GCUK Enc 3",
-        "key": "91 45 71 47 EF DD DD A9"
     }
 ]
