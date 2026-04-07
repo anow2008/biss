@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "1.0°",
-    "frequency": "11481 V 8022",
-    "id": "HOL324 MAIN",
-    "key": "B0 1D 40 0D 64 FF 15 78"
-  },
-  {
-    "satellite": "8E",
-    "frequency": "10985 V 9600",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
     "satellite": "30.5°",
     "frequency": "12535 V 7400",
     "id": "OB-HD3",
@@ -64,5 +52,35 @@
     "frequency": "11079 V 7119",
     "id": "Pitch EFL- Highlights",
     "key": "53 23 CF 45 32 88 42 FC"
+  },
+  {
+    "satellite": "1 E",
+    "frequency": "10988 V 4820",
+    "id": "E 408 Feed B",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "13.0°",
+    "frequency": "12438 V 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "1 E",
+    "frequency": "10982 V 4938",
+    "id": "Unname",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "1 E",
+    "frequency": "10982 V 4938",
+    "id": "Unname",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "13E",
+    "frequency": "12437 V 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
   }
 ]
