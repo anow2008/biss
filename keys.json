@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "7.0°",
-    "frequency": "11070 V 7200",
-    "id": "IMG A EU",
-    "key": "EF 1C 00 0B 12 74 FF 85"
-  },
-  {
     "satellite": "1.0°",
     "frequency": "11481 V 8022",
     "id": "HOL324 MAIN",
@@ -58,5 +52,11 @@
     "frequency": "12735 V 7200",
     "id": "ENC 2",
     "key": "AE 7A 5B 83 26 24 87 D1"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11070 H 7198",
+    "id": "IMG A EU",
+    "key": "E3 71 2C 80 A1 84 63 88"
   }
 ]
