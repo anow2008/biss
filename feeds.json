@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10996 V 7500",
+        "id": "POL037 TVN24 BIA",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "10988 H 4820",
         "id": "vs Bayern München",
@@ -40,17 +46,5 @@
         "frequency": "10830 V 7200",
         "id": "GCUK Enc 3",
         "key": "91 45 71 47 EF DD DD A9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 4",
-        "key": "26 36 A7 03 6C CA B2 E8"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10962 H 3333",
-        "id": "DEFAULT",
-        "key": "D4 A7 F9 74 3C 2E 81 EB"
     }
 ]
