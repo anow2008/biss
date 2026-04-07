@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "30.5°",
-    "frequency": "12535 V 7400",
-    "id": "OB-HD3",
-    "key": "FE EA CC B4 BD 22 54 33"
-  },
-  {
-    "satellite": "19.2°",
-    "frequency": "11817 V 31431",
-    "id": "Astra 1 Service 1",
-    "key": "85 D4 16 6F 4A 84 1C EA"
-  },
-  {
     "satellite": "7E",
     "frequency": "11607 V 7199",
     "id": "N/A",
@@ -82,5 +70,23 @@
     "frequency": "12437 V 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "12645 V 7199",
+    "id": "Fi17GNVE",
+    "key": "77 72 11 FA A6 24 B1 7B"
+  },
+  {
+    "satellite": "N/A",
+    "frequency": "12737 V 7200",
+    "id": "CBS R.MAD BAY",
+    "key": "79 31 37 20 81 11 99 2B"
+  },
+  {
+    "satellite": "46 E",
+    "frequency": "11050 V 19197",
+    "id": "VS Bayern",
+    "key": "CA DA 46 EA 58 DA CA FC"
   }
 ]
