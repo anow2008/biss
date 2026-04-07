@@ -1,6 +1,60 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11062 H 7200",
+        "id": "GVA_Fi07_Euroleague_M3",
+        "key": "43 15 81 D9 78 C3 82 BD"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10974 V 9600",
+        "id": "POL-033 out1",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11089 V 7200",
+        "id": "Main",
+        "key": "25 79 14 B2 E7 07 08 F6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11098 V 7200",
+        "id": "UAE-065",
+        "key": "A5 4D C2 B4 BC 91 66 B3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 H 7200",
+        "id": "Live Broadcasting Line 1",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10962 H 3333",
+        "id": "DEFAULT",
+        "key": "D4 A7 F9 74 3C 2E 81 EB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11582 H 7200",
+        "id": "D-312",
+        "key": "E5 8F FC 70 ED 04 07 F8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12736 V 7200",
+        "id": "vs Bayern München",
+        "key": "78 71 37 20 81 11 99 2B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11051 V 19200",
         "id": "vs Bayern München",
         "key": "CA DA 46 EA 58 DA CA FC"
@@ -22,23 +76,5 @@
         "frequency": "10996 V 7500",
         "id": "POL037 TVN24 BIA",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10988 H 4820",
-        "id": "vs Bayern München",
-        "key": "A1 E1 F6 78 90 2E DE 9C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "E3 71 2C 80 A1 84 63 88"
     }
 ]
