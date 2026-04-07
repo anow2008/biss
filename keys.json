@@ -1,18 +1,6 @@
 [
   {
     "satellite": "1 E",
-    "frequency": "10988 V 4820",
-    "id": "E 408 Feed B",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "13.0°",
-    "frequency": "12438 V 27500",
-    "id": "FEED 2",
-    "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "1 E",
     "frequency": "10982 V 4938",
     "id": "Unname",
     "key": "A1 E1 F6 78 90 2E DE 9C"
@@ -94,5 +82,17 @@
     "frequency": "11021 V 9875",
     "id": "UCL_IKL_GVA_Fi01",
     "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "7.0 E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 2",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "10E",
+    "frequency": "10767 V 34000",
+    "id": "OCC 1",
+    "key": "AA 11 4C 07 DE BC 56 F0"
   }
 ]
