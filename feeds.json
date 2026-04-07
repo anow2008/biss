@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10988 H 4820",
+        "id": "vs Bayern München",
+        "key": "A1 E1 F6 78 90 2E DE 9C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "E3 71 2C 80 A1 84 63 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "EF 1C 00 0B 12 74 FF 85"
@@ -34,41 +52,5 @@
         "frequency": "10962 H 3333",
         "id": "DEFAULT",
         "key": "D4 A7 F9 74 3C 2E 81 EB"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11062 H 9600",
-        "id": "SNG ABC 1",
-        "key": "CC BB 56 DD 78 CC BB FF"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "12509 H 4938",
-        "id": "YSM-013M",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10829 V 7200",
-        "id": "GCUK Enc 9",
-        "key": "AB CD EE 66 FF 06 04 09"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10838 V 7200",
-        "id": "PAOK VS PAO A",
-        "key": "74 39 01 AE DE 36 43 57"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11256 H 7200",
-        "id": "Encoder 3",
-        "key": "5F CD E3 0F A6 96 35 71"
     }
 ]
