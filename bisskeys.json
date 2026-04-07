@@ -7,8 +7,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10988 H 4820",
-    "id": "E 408 Feed B",
+    "frequency": "10989 H 4820",
+    "id": "E 408 Feed B Path 2",
     "key": "A1 E1 F6 78 90 2E DE 9C"
   },
   {
@@ -22,5 +22,11 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10996 V 7500",
+    "id": "POL037 TVN24 BIA",
+    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
