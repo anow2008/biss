@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10982 H 4938",
+    "id": "Unname",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10988 H 4820",
+    "id": "E 408 Feed B",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "E3 71 2C 80 A1 84 63 88"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  }
+]
