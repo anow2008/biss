@@ -88,5 +88,11 @@
     "frequency": "11050 V 19197",
     "id": "VS Bayern",
     "key": "CA DA 46 EA 58 DA CA FC"
+  },
+  {
+    "satellite": "9E",
+    "frequency": "10958 V 7500",
+    "id": "BIN SPORTS",
+    "key": "AD 54 9E 9F 52 89 7B 56"
   }
 ]
