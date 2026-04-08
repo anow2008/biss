@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11180 H 7200",
+        "id": "VRT encoder 9",
+        "key": "D0 40 8E 9E 71 FF 26 96"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11005 V 7200",
+        "id": "E462M",
+        "key": "F5 32 06 2D DC 06 94 76"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10983 H 4820",
+        "id": "",
+        "key": "63 12 83 F8 7E 93 03 14"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12647 V 7200",
         "id": "Fi17GNVE",
         "key": "77 72 11 FA A6 24 B1 7B"
@@ -18,12 +36,6 @@
         "key": "D4 A7 F9 74 3C 2E 81 EB"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12583 V 7200",
-        "id": "GCUK Enc 3",
-        "key": "D0 40 8E 9E 71 FF 26 96"
-    },
-    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11023 V 7200",
         "id": "Fi02_NE2",
@@ -34,41 +46,5 @@
         "frequency": "12437 H 27500",
         "id": "FEED 2",
         "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10989 H 4820",
-        "id": "F634/FLY11/Enc11.9/FEED B2",
-        "key": "63 12 83 F8 7E 93 03 14"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "7E 3D 89 44 49 22 FC 67"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10986 V 9600",
-        "id": "POL 030",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11600 H 7200",
-        "id": "D535_EHF_EL_Melsungen_1",
-        "key": "E5 8F FE 72 FD 04 07 08"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11079 H 7120",
-        "id": "EFL - Bromley v Shrewsbury",
-        "key": "CC E9 53 08 95 A3 02 3A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11591 H 7200",
-        "id": "Medialink CRO-024/1",
-        "key": "E5 8F FE 72 ED 04 07 F8"
     }
 ]
