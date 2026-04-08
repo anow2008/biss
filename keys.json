@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "1 E",
-    "frequency": "10982 V 4938",
-    "id": "Unname",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "13E",
-    "frequency": "12437 V 27500",
-    "id": "FEED 2",
-    "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
     "satellite": "7.0E",
     "frequency": "12645 V 7199",
     "id": "Fi17GNVE",
@@ -88,5 +76,11 @@
     "frequency": "10767 V 34000",
     "id": "OCC 1",
     "key": "AA 11 4C 07 DE BC 56 F0"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11023 V 7198",
+    "id": "Fi02_NE2",
+    "key": "FA 2A DE 02 C7 D8 6A 09"
   }
 ]
