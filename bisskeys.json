@@ -25,33 +25,33 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11062 H 7200",
+    "id": "F489 MAIN",
+    "key": "7B 49 67 2B DB 21 B4 B0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "7E 3D 89 44 49 22 FC 67"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11180 H 7200",
-    "id": "VRT encoder 9",
-    "key": "D0 40 8E 9E 71 FF 26 96"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11582 H 7200",
-    "id": "TKS.TRT.M29-B",
-    "key": "B7 7D 6E A2 F6 5F 5B B0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11591 H 7200",
-    "id": "EHF NANTES",
-    "key": "D0 40 8E 9E 44 FF AB EE"
+    "frequency": "11080 H 7200",
+    "id": "WSHT ENC81",
+    "key": "ED DC F7 C0 DF 64 82 C5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
     "id": "Polsat Sport",
     "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12647 V 7200",
+    "id": "Fi10_GNVE",
+    "key": "D0 A0 85 F5 EF 76 12 77"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -66,16 +66,16 @@
     "key": "22 73 23 B8 14 87 81 1C"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11274 H 7200",
+    "id": "F419_MAIN",
+    "key": "08 04 AB B7 CD 20 26 13"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12583 V 7200",
-    "id": "GCUK Enc 3",
-    "key": "D0 40 8E 9E 71 FF 26 96"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -94,12 +94,6 @@
     "frequency": "10986 V 9600",
     "id": "POL-141 ENC1",
     "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL020 TVN WRO",
-    "key": "77 93 52 5C 99 08 86 27"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
