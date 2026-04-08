@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11022 H 9875",
+        "id": "UCL_IHL_GVA_Fi01",
+        "key": "A1 E1 F6 78 90 2E DE 9C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12647 V 7200",
         "id": "Studioline Main",
         "key": "45 25 04 6E 17 20 93 CA"
@@ -58,17 +64,5 @@
         "frequency": "11062 H 7200",
         "id": "F489 MAIN",
         "key": "7B 49 67 2B DB 21 B4 B0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12647 V 7200",
-        "id": "Fi10_GNVE",
-        "key": "D0 A0 85 F5 EF 76 12 77"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10996 V 7200",
-        "id": "UAE-065",
-        "key": "FF 44 5E A1 06 41 6A B1"
     }
 ]
