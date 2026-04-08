@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10965 H 3333",
+        "id": "DEFAULT",
+        "key": "D4 A7 F9 74 3C 2E 81 EB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12583 V 7200",
+        "id": "GCUK Enc 3",
+        "key": "D0 40 8E 9E 71 FF 26 96"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11023 V 7200",
+        "id": "Fi02_NE2",
+        "key": "FA 2A DE 02 C7 D8 6A 09"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12437 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10989 H 4820",
+        "id": "F634/FLY11/Enc11.9/FEED B2",
+        "key": "63 12 83 F8 7E 93 03 14"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "7E 3D 89 44 49 22 FC 67"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
         "frequency": "10986 V 9600",
         "id": "POL 030",
         "key": "AB BA 26 8B DC AE 04 8E"
@@ -46,53 +82,5 @@
         "frequency": "11013 V 7200",
         "id": "GVA_Fi08_Euroleague_M7",
         "key": "19 2A 4D 90 19 27 9E DE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11106 V 7200",
-        "id": "EDS807HD.2",
-        "key": "AB 57 BD BF 62 CA 49 75"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11062 H 7200",
-        "id": "GVA_Fi07_Euroleague_M3",
-        "key": "43 15 81 D9 78 C3 82 BD"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11089 V 7200",
-        "id": "Main",
-        "key": "25 79 14 B2 E7 07 08 F6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11098 V 7200",
-        "id": "UAE-065",
-        "key": "A5 4D C2 B4 BC 91 66 B3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12678 H 7200",
-        "id": "Live Broadcasting Line 1",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10962 H 3333",
-        "id": "DEFAULT",
-        "key": "D4 A7 F9 74 3C 2E 81 EB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11582 H 7200",
-        "id": "D-312",
-        "key": "E5 8F FC 70 ED 04 07 F8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12593 V 7200",
-        "id": "Polsat Sport",
-        "key": "15 58 35 A2 71 42 63 16"
     }
 ]
