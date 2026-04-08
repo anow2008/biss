@@ -1,21 +1,39 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10983 H 4820",
+    "id": "ES-M04 FEED B2",
+    "key": "63 12 83 F8 7E 93 03 14"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10989 H 4820",
     "id": "F634/FLY11/Enc11.9/FEED B2",
     "key": "63 12 83 F8 7E 93 03 14"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "Fi02_NE2",
-    "key": "FA 2A DE 02 C7 D8 6A 09"
+    "frequency": "11005 V 7200",
+    "id": "E462M",
+    "key": "F5 32 06 2D DC 06 94 76"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "7E 3D 89 44 49 22 FC 67"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11180 H 7200",
+    "id": "VRT encoder 9",
+    "key": "D0 40 8E 9E 71 FF 26 96"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11581 H 7200",
+    "id": "TKS.TRT.M29-B",
+    "key": "B7 7D 6E A2 F6 5F 5B B0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
