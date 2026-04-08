@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "13E",
-    "frequency": "12438 V 27500",
-    "id": "FEED 2",
-    "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
     "satellite": "8E",
     "frequency": "11107 V 7200",
     "id": "POL-098 C1",
@@ -82,5 +76,11 @@
     "frequency": "11274 V 7200",
     "id": "F419_Main",
     "key": "08 04 AB B7 CD 20 26 13"
+  },
+  {
+    "satellite": "13.0E",
+    "frequency": "12437 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
   }
 ]
