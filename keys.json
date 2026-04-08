@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "7.0E",
-    "frequency": "12645 V 7199",
-    "id": "Fi17GNVE",
-    "key": "77 72 11 FA A6 24 B1 7B"
-  },
-  {
     "satellite": "N/A",
     "frequency": "12737 V 7200",
     "id": "CBS R.MAD BAY",
@@ -82,5 +76,11 @@
     "frequency": "11023 V 7198",
     "id": "Fi02_NE2",
     "key": "FA 2A DE 02 C7 D8 6A 09"
+  },
+  {
+    "satellite": "7E",
+    "frequency": "11070 H 7198",
+    "id": "IMG A EU",
+    "key": "7E 3D 89 44 49 22 FC 67"
   }
 ]
