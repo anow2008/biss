@@ -7,15 +7,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10989 H 4820",
-    "id": "F634/FLY11/Enc11.9/FEED B2",
-    "key": "63 12 83 F8 7E 93 03 14"
+    "frequency": "10996 V 7200",
+    "id": "UAE-065",
+    "key": "FF 44 5E A1 06 41 6A B1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11005 V 7200",
     "id": "E462M",
     "key": "F5 32 06 2D DC 06 94 76"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7200",
+    "id": "Main SAUDI015",
+    "key": "1A 16 4C 7C 2F BB D4 BE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,19 +37,37 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11581 H 7200",
+    "frequency": "11582 H 7200",
     "id": "TKS.TRT.M29-B",
     "key": "B7 7D 6E A2 F6 5F 5B B0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12647 V 7200",
-    "id": "Fi17GNVE",
-    "key": "77 72 11 FA A6 24 B1 7B"
+    "id": "Fi10_GNVE",
+    "key": "D0 A0 85 F5 EF 76 12 77"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12656 V 7200",
+    "id": "Fi15_LK",
+    "key": "D0 A0 85 F5 EF 76 12 77"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "E458 CBS UCL",
+    "key": "22 73 23 B8 14 87 81 1C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -58,5 +82,11 @@
     "frequency": "10962 H 3333",
     "id": "DEFAULT",
     "key": "D4 A7 F9 74 3C 2E 81 EB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL-141 ENC1",
+    "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
