@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11062 H 7200",
+        "id": "F489 MAIN",
+        "key": "7B 49 67 2B DB 21 B4 B0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12647 V 7200",
+        "id": "Fi10_GNVE",
+        "key": "D0 A0 85 F5 EF 76 12 77"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10996 V 7200",
+        "id": "UAE-065",
+        "key": "FF 44 5E A1 06 41 6A B1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12737 V 7200",
+        "id": "E458 CBS UCL",
+        "key": "22 73 23 B8 14 87 81 1C"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10977 V 4800",
+        "id": "POL - 054 Kielce",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11581 H 7200",
+        "id": "TKS.TRT.M29-B",
+        "key": "B7 7D 6E A2 F6 5F 5B B0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11180 H 7200",
         "id": "VRT encoder 9",
         "key": "D0 40 8E 9E 71 FF 26 96"
@@ -16,35 +58,5 @@
         "frequency": "10983 H 4820",
         "id": "",
         "key": "63 12 83 F8 7E 93 03 14"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12647 V 7200",
-        "id": "Fi17GNVE",
-        "key": "77 72 11 FA A6 24 B1 7B"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10996 V 7500",
-        "id": "POL021 p1 WAW",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10965 H 3333",
-        "id": "DEFAULT",
-        "key": "D4 A7 F9 74 3C 2E 81 EB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11023 V 7200",
-        "id": "Fi02_NE2",
-        "key": "FA 2A DE 02 C7 D8 6A 09"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12437 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
     }
 ]
