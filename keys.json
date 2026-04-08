@@ -1,77 +1,5 @@
 [
   {
-    "satellite": "30.5°",
-    "frequency": "12535 V 7400",
-    "id": "4K_23_MAIN",
-    "key": "FE EA CC B4 BD 22 54 33"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "11600 V 7200",
-    "id": "D535_EHF_EL_Melsungen_1",
-    "key": "E5 8F FE 72 FD 04 07 08"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "11080 V 7119",
-    "id": "EFL - Bromley v Shrewsbury",
-    "key": "CC E9 53 08 95 A3 02 3A"
-  },
-  {
-    "satellite": "7.0°",
-    "frequency": "12736 V 7200",
-    "id": "N/A",
-    "key": "78 71 37 20 81 11 99 2B"
-  },
-  {
-    "satellite": "72 E",
-    "frequency": "11591 V 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "E5 8F FE 72 ED 04 07 F8"
-  },
-  {
-    "satellite": "1 E",
-    "frequency": "11021 V 9875",
-    "id": "UCL_IKL_GVA_Fi01",
-    "key": "A1 E1 F6 78 90 2E DE 9C"
-  },
-  {
-    "satellite": "7.0 E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 2",
-    "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "10E",
-    "frequency": "10767 V 34000",
-    "id": "OCC 1",
-    "key": "AA 11 4C 07 DE BC 56 F0"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "11023 V 7198",
-    "id": "Fi02_NE2",
-    "key": "FA 2A DE 02 C7 D8 6A 09"
-  },
-  {
-    "satellite": "7E",
-    "frequency": "11070 H 7198",
-    "id": "IMG A EU",
-    "key": "7E 3D 89 44 49 22 FC 67"
-  },
-  {
-    "satellite": "8E",
-    "frequency": "12583 V 7200",
-    "id": "GCUK Enc 3",
-    "key": "D0 40 8E 9E 71 FF 26 96"
-  },
-  {
-    "satellite": "7E",
-    "frequency": "10989 V 4820",
-    "id": "F634/FLY11/Enc11.9/FEED B2",
-    "key": "63 12 83 F8 7E 93 03 14"
-  },
-  {
     "satellite": "7E",
     "frequency": "10983 V 4820",
     "id": "ES-M04 FEED B",
@@ -88,5 +16,71 @@
     "frequency": "10829 V 7200",
     "id": "ehf euro 2026 qual gre esp",
     "key": "7E 62 94 74 CB ED 56 0E"
+  },
+  {
+    "satellite": "13E",
+    "frequency": "12438 V 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "11107 V 7200",
+    "id": "POL-098 C1",
+    "key": "D0 40 8E 9E 44 FF DC 1F"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11014 V 7200",
+    "id": "Main SAUDI015",
+    "key": "1A 16 4C 7C 2F BB D4 BE"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "10985 V 9600",
+    "id": "POL-141 ENC1",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "36.0E",
+    "frequency": "11459 V 7199",
+    "id": "SAU-12A",
+    "key": "42 23 B1 16 52 45 0F A6"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "11468 V 7199",
+    "id": "SAU-045",
+    "key": "C6 8E 63 B7 F0 06 12 08"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11014 V 7200",
+    "id": "Main SAUDI015",
+    "key": "1A 16 4C 7C 2F BB D4 BE"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "12737 V 7200",
+    "id": "E458 CBS UCL",
+    "key": "22 73 23 B8 14 87 81 1C"
+  },
+  {
+    "satellite": "7E",
+    "frequency": "10983 V 4820",
+    "id": "ES-M04 FEED B2",
+    "key": "63 12 83 F8 7E 93 03 14"
+  },
+  {
+    "satellite": "5 E",
+    "frequency": "12647 V 7200",
+    "id": "Fi10_GNVE",
+    "key": "D0 A0 85 F5 EF 76 12 77"
+  },
+  {
+    "satellite": "6E",
+    "frequency": "11580 V 7200",
+    "id": "N/A",
+    "key": "B7 7D 6E A2 F6 5F 5B B0"
   }
 ]
