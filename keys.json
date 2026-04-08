@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "9E",
-    "frequency": "10958 V 7500",
-    "id": "BIN SPORTS",
-    "key": "AD 54 9E 9F 52 89 7B 56"
-  },
-  {
-    "satellite": "5E",
-    "frequency": "11668 V 6666",
-    "id": "PERSO B&#036;EIN MENA | 4:2:0",
-    "key": "D3 7B 1A 68 CF 5E 3B 68"
-  },
-  {
     "satellite": "30.5°",
     "frequency": "12535 V 7400",
     "id": "4K_23_MAIN",
@@ -84,9 +72,21 @@
     "key": "63 12 83 F8 7E 93 03 14"
   },
   {
-    "satellite": "7.0E",
-    "frequency": "11023 V 7200",
-    "id": "Fi02_NE2",
-    "key": "FA 2A DE 02 C7 D8 6A 09"
+    "satellite": "7E",
+    "frequency": "10983 V 4820",
+    "id": "ES-M04 FEED B",
+    "key": "63 12 83 F8 7E 93 03 14"
+  },
+  {
+    "satellite": "52 E",
+    "frequency": "12592 V 7200",
+    "id": "EHF WCUP VEN MIC",
+    "key": "AA E4 52 E0 BB 6F DE 08"
+  },
+  {
+    "satellite": "7E",
+    "frequency": "10829 V 7200",
+    "id": "ehf euro 2026 qual gre esp",
+    "key": "7E 62 94 74 CB ED 56 0E"
   }
 ]
