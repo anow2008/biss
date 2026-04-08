@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "N/A",
-    "frequency": "12737 V 7200",
-    "id": "CBS R.MAD BAY",
-    "key": "79 31 37 20 81 11 99 2B"
-  },
-  {
-    "satellite": "46 E",
-    "frequency": "11050 V 19197",
-    "id": "VS Bayern",
-    "key": "CA DA 46 EA 58 DA CA FC"
-  },
-  {
     "satellite": "9E",
     "frequency": "10958 V 7500",
     "id": "BIN SPORTS",
@@ -82,5 +70,23 @@
     "frequency": "11070 H 7198",
     "id": "IMG A EU",
     "key": "7E 3D 89 44 49 22 FC 67"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "12583 V 7200",
+    "id": "GCUK Enc 3",
+    "key": "D0 40 8E 9E 71 FF 26 96"
+  },
+  {
+    "satellite": "7E",
+    "frequency": "10989 V 4820",
+    "id": "F634/FLY11/Enc11.9/FEED B2",
+    "key": "63 12 83 F8 7E 93 03 14"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11023 V 7200",
+    "id": "Fi02_NE2",
+    "key": "FA 2A DE 02 C7 D8 6A 09"
   }
 ]
