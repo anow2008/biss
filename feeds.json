@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11591 H 7200",
+        "id": "EHF NANTES",
+        "key": "D0 40 8E 9E 44 FF AB EE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12728 V 7200",
+        "id": "tur 141 a",
+        "key": "4E 5B 29 D2 6D D1 9A D8"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10978 H 7200",
+        "id": "F1-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "12509 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11014 V 7200",
+        "id": "Main SAUDI015",
+        "key": "1A 16 4C 7C 2F BB D4 BE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11062 H 7200",
         "id": "F489 MAIN",
         "key": "7B 49 67 2B DB 21 B4 B0"
@@ -46,17 +76,5 @@
         "frequency": "11180 H 7200",
         "id": "VRT encoder 9",
         "key": "D0 40 8E 9E 71 FF 26 96"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11005 V 7200",
-        "id": "E462M",
-        "key": "F5 32 06 2D DC 06 94 76"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10983 H 4820",
-        "id": "",
-        "key": "63 12 83 F8 7E 93 03 14"
     }
 ]
