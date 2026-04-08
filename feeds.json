@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11274 H 7200",
+        "id": "F419_MAIN",
+        "key": "08 04 AB B7 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11080 H 7200",
+        "id": "WSHT ENC81",
+        "key": "ED DC F7 C0 DF 64 82 C5"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11107 H 7200",
+        "id": "POL-098 C1",
+        "key": "D0 40 8E 9E 44 FF DC 1F"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11591 H 7200",
         "id": "EHF NANTES",
@@ -46,35 +64,5 @@
         "frequency": "10996 V 7200",
         "id": "UAE-065",
         "key": "FF 44 5E A1 06 41 6A B1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12593 V 7200",
-        "id": "Polsat Sport",
-        "key": "15 58 35 A2 71 42 63 16"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12737 V 7200",
-        "id": "E458 CBS UCL",
-        "key": "22 73 23 B8 14 87 81 1C"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10977 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11581 H 7200",
-        "id": "TKS.TRT.M29-B",
-        "key": "B7 7D 6E A2 F6 5F 5B B0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11180 H 7200",
-        "id": "VRT encoder 9",
-        "key": "D0 40 8E 9E 71 FF 26 96"
     }
 ]
