@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12647 V 7200",
+        "id": "Studioline Main",
+        "key": "45 25 04 6E 17 20 93 CA"
+    },
+    {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "11274 H 7200",
         "id": "F419_MAIN",
