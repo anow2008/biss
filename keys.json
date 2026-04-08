@@ -72,14 +72,14 @@
     "key": "7E 3D 89 44 49 22 FC 67"
   },
   {
-    "satellite": "10e",
+    "satellite": "10.0 E",
     "frequency": "11274 V 7200",
     "id": "F419_Main",
     "key": "08 04 AB B7 CD 20 26 13"
   },
   {
     "satellite": "13.0E",
-    "frequency": "12437 H 27500",
+    "frequency": "12437 V 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   }
