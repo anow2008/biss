@@ -7,25 +7,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10989 H 4820",
-    "id": "F634/FLY11/Enc11.9/FEED B2",
-    "key": "63 12 83 F8 7E 93 03 14"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 V 7200",
-    "id": "UAE-065",
-    "key": "FF 44 5E A1 06 41 6A B1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "Main SAUDI015",
-    "key": "1A 16 4C 7C 2F BB D4 BE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
+    "frequency": "11061 H 7200",
     "id": "F489 MAIN",
     "key": "7B 49 67 2B DB 21 B4 B0"
   },
@@ -43,15 +25,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "Polsat Sport",
-    "key": "15 58 35 A2 71 42 63 16"
+    "frequency": "11591 H 7200",
+    "id": "EHF NANTES",
+    "key": "D0 40 8E 9E 44 FF AB EE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12647 V 7200",
-    "id": "Fi10_GNVE",
-    "key": "D0 A0 85 F5 EF 76 12 77"
+    "id": "Studioline Main",
+    "key": "45 25 04 6E 17 20 93 CA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,7 +43,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
+    "frequency": "12737 V 7200",
     "id": "E458 CBS UCL",
     "key": "22 73 23 B8 14 87 81 1C"
   },
@@ -88,23 +70,5 @@
     "frequency": "10978 H 7200",
     "id": "F1-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11107 H 7200",
-    "id": "POL-098 C1",
-    "key": "D0 40 8E 9E 44 FF DC 1F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12509 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
