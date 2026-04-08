@@ -1,25 +1,19 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10983 H 4820",
-    "id": "ES-M04 FEED B2",
-    "key": "63 12 83 F8 7E 93 03 14"
+    "frequency": "11022 H 9875",
+    "id": "UCL_IHL_GVA_Fi01",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
-    "id": "F489 MAIN",
-    "key": "7B 49 67 2B DB 21 B4 B0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "7E 3D 89 44 49 22 FC 67"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11080 H 7200",
+    "frequency": "11079 H 7200",
     "id": "WSHT ENC81",
     "key": "ED DC F7 C0 DF 64 82 C5"
   },
@@ -37,13 +31,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7200",
-    "id": "tur 141 a",
-    "key": "4E 5B 29 D2 6D D1 9A D8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
+    "frequency": "12736 V 7200",
     "id": "E458 CBS UCL",
     "key": "22 73 23 B8 14 87 81 1C"
   },
@@ -67,7 +55,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10978 H 7200",
+    "frequency": "10977 H 7200",
     "id": "F1-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
   }
