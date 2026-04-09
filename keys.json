@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "8E",
-    "frequency": "10985 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
     "satellite": "36.0E",
     "frequency": "11459 V 7199",
     "id": "SAU-12A",
