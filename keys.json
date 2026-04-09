@@ -88,5 +88,11 @@
     "frequency": "11606 V 7200",
     "id": "Montreal Casino",
     "key": "D6 C5 B4 4F A3 F2 E1 76"
+  },
+  {
+    "satellite": "19.2°",
+    "frequency": "11817 V 31428",
+    "id": "Astra 1 Service 5",
+    "key": "77 D4 54 8F 7A 96 4D 5D"
   }
 ]
