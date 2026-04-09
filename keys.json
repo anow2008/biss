@@ -82,5 +82,35 @@
     "frequency": "12437 V 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "19.2E",
+    "frequency": "11817 V 31428",
+    "id": "Astra 1 Service 1",
+    "key": "85 D4 16 6F 4A 84 1C EA"
+  },
+  {
+    "satellite": "19.2E",
+    "frequency": "11817 V 31428",
+    "id": "Astra 1 Service 2",
+    "key": "62 45 CF 76 84 A1 56 7B"
+  },
+  {
+    "satellite": "6E",
+    "frequency": "11817 V 31428",
+    "id": "Astra 1 Service 3",
+    "key": "5F 7A 95 6E 6C 87 65 58"
+  },
+  {
+    "satellite": "19.2E",
+    "frequency": "11817 V 31428",
+    "id": "Astra 1 Service 4",
+    "key": "37 D4 AA B5 52 64 12 C8"
+  },
+  {
+    "satellite": "19.2E",
+    "frequency": "11817 V 31428",
+    "id": "Astra 1 Service 5",
+    "key": "77 D4 54 9F 7A 96 4D 5D"
   }
 ]
