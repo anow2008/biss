@@ -1,35 +1,5 @@
 [
   {
-    "satellite": "36.0E",
-    "frequency": "11459 V 7199",
-    "id": "SAU-12A",
-    "key": "42 23 B1 16 52 45 0F A6"
-  },
-  {
-    "satellite": "8E",
-    "frequency": "11468 V 7199",
-    "id": "SAU-045",
-    "key": "C6 8E 63 B7 F0 06 12 08"
-  },
-  {
-    "satellite": "7.0°",
-    "frequency": "11014 V 7200",
-    "id": "Main SAUDI015",
-    "key": "1A 16 4C 7C 2F BB D4 BE"
-  },
-  {
-    "satellite": "7.0°",
-    "frequency": "12737 V 7200",
-    "id": "E458 CBS UCL",
-    "key": "22 73 23 B8 14 87 81 1C"
-  },
-  {
-    "satellite": "7E",
-    "frequency": "10983 V 4820",
-    "id": "ES-M04 FEED B2",
-    "key": "63 12 83 F8 7E 93 03 14"
-  },
-  {
     "satellite": "5 E",
     "frequency": "12647 V 7200",
     "id": "Fi10_GNVE",
@@ -94,5 +64,23 @@
     "frequency": "11817 V 31428",
     "id": "Astra 1 Service 5",
     "key": "77 D4 54 9F 7A 96 4D 5D"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "12647 V 7200",
+    "id": "Fi017GNVE",
+    "key": "77 72 11 FA A6 24 B1 7B"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "12628 V 7200",
+    "id": "E462M",
+    "key": "F5 32 06 2D DC 06 94 76"
+  },
+  {
+    "satellite": "30.5E",
+    "frequency": "11142 V 3500",
+    "id": "ISH-ENC1",
+    "key": "FD BC DA 93 C2 27 26 0F"
   }
 ]
