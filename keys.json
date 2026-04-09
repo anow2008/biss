@@ -1,18 +1,6 @@
 [
   {
     "satellite": "8E",
-    "frequency": "11107 V 7200",
-    "id": "POL-098 C1",
-    "key": "D0 40 8E 9E 44 FF DC 1F"
-  },
-  {
-    "satellite": "7.0°",
-    "frequency": "11014 V 7200",
-    "id": "Main SAUDI015",
-    "key": "1A 16 4C 7C 2F BB D4 BE"
-  },
-  {
-    "satellite": "8E",
     "frequency": "10985 V 9600",
     "id": "POL-141 ENC1",
     "key": "AB BA 26 8B DC AE 04 8E"
