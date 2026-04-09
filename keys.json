@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "19.2E",
-    "frequency": "11817 V 31428",
-    "id": "Astra 1 Service 5",
-    "key": "77 D4 54 9F 7A 96 4D 5D"
-  },
-  {
     "satellite": "7.0°",
     "frequency": "12647 V 7200",
     "id": "Fi017GNVE",
@@ -88,5 +82,17 @@
     "frequency": "12555 V 4938",
     "id": "N/A",
     "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "1 E",
+    "frequency": "12655 V 7200",
+    "id": "Fi16_GNVE",
+    "key": "D1 EE 67 26 29 97 8A 4A"
+  },
+  {
+    "satellite": "2 E",
+    "frequency": "11606 V 7200",
+    "id": "Montreal Casino",
+    "key": "D6 C5 B4 4F A3 F2 E1 76"
   }
 ]
