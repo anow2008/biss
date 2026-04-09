@@ -1,65 +1,5 @@
 [
   {
-    "satellite": "5 E",
-    "frequency": "12647 V 7200",
-    "id": "Fi10_GNVE",
-    "key": "D0 A0 85 F5 EF 76 12 77"
-  },
-  {
-    "satellite": "6E",
-    "frequency": "11580 V 7200",
-    "id": "N/A",
-    "key": "B7 7D 6E A2 F6 5F 5B B0"
-  },
-  {
-    "satellite": "13E",
-    "frequency": "10810 H 7200",
-    "id": "TUR 143",
-    "key": "CB 52 DD FA 31 DB 59 65"
-  },
-  {
-    "satellite": "7E",
-    "frequency": "11071 V 7200",
-    "id": "IMG A EU",
-    "key": "7E 3D 89 44 49 22 FC 67"
-  },
-  {
-    "satellite": "10.0 E",
-    "frequency": "11274 V 7200",
-    "id": "F419_Main",
-    "key": "08 04 AB B7 CD 20 26 13"
-  },
-  {
-    "satellite": "13.0E",
-    "frequency": "12437 V 27500",
-    "id": "FEED 2",
-    "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "19.2E",
-    "frequency": "11817 V 31428",
-    "id": "Astra 1 Service 1",
-    "key": "85 D4 16 6F 4A 84 1C EA"
-  },
-  {
-    "satellite": "19.2E",
-    "frequency": "11817 V 31428",
-    "id": "Astra 1 Service 2",
-    "key": "62 45 CF 76 84 A1 56 7B"
-  },
-  {
-    "satellite": "6E",
-    "frequency": "11817 V 31428",
-    "id": "Astra 1 Service 3",
-    "key": "5F 7A 95 6E 6C 87 65 58"
-  },
-  {
-    "satellite": "19.2E",
-    "frequency": "11817 V 31428",
-    "id": "Astra 1 Service 4",
-    "key": "37 D4 AA B5 52 64 12 C8"
-  },
-  {
     "satellite": "19.2E",
     "frequency": "11817 V 31428",
     "id": "Astra 1 Service 5",
@@ -82,5 +22,71 @@
     "frequency": "11142 V 3500",
     "id": "ISH-ENC1",
     "key": "FD BC DA 93 C2 27 26 0F"
+  },
+  {
+    "satellite": "7E",
+    "frequency": "11062 V 7200",
+    "id": "HapoelTVavOlimpiakos",
+    "key": "3C A2 6A 48 22 39 3C 97"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "11097 V 7200",
+    "id": "SAU 045",
+    "key": "09 B4 D1 8E 62 CB FC 29"
+  },
+  {
+    "satellite": "1 E",
+    "frequency": "12655 V 7200",
+    "id": "Fi16_GNVE",
+    "key": "D1 EE 67 26 29 97 8A 4A"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "12602 V 7200",
+    "id": "Polsat Sport",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11079 V 7200",
+    "id": "WSHT ENC81",
+    "key": "ED DC F7 C0 DF 64 82 C5"
+  },
+  {
+    "satellite": "1 E",
+    "frequency": "12650 V 7200",
+    "id": "N/A",
+    "key": "D1 EE 67 26 29 97 8A 4A"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11091 V 4937",
+    "id": "GN_SQUASH",
+    "key": "12 14 AB D1 AB BA 2B 90"
+  },
+  {
+    "satellite": "7E",
+    "frequency": "12676 V 7200",
+    "id": "N/A",
+    "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11524 V 7500",
+    "id": "ALG003 Main",
+    "key": "FA D4 BA 88 BA 10 04 CE"
+  },
+  {
+    "satellite": "16E",
+    "frequency": "12508 V 4938",
+    "id": "N/A",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "16E",
+    "frequency": "12555 V 4938",
+    "id": "N/A",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
