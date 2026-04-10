@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "7.0°",
-    "frequency": "12628 V 7200",
-    "id": "E462M",
-    "key": "F5 32 06 2D DC 06 94 76"
-  },
-  {
     "satellite": "30.5E",
     "frequency": "11142 V 3500",
     "id": "ISH-ENC1",
@@ -84,15 +78,9 @@
     "key": "D1 EE 67 26 29 97 8A 4A"
   },
   {
-    "satellite": "2 E",
-    "frequency": "11606 V 7200",
-    "id": "Montreal Casino",
-    "key": "D6 C5 B4 4F A3 F2 E1 76"
-  },
-  {
-    "satellite": "19.2°",
-    "frequency": "11817 V 31428",
-    "id": "Astra 1 Service 5",
-    "key": "77 D4 54 8F 7A 96 4D 5D"
+    "satellite": "1 E",
+    "frequency": "11524 V 7200",
+    "id": "EN 2",
+    "key": "EE 09 22 19 D1 E0 40 F1"
   }
 ]
