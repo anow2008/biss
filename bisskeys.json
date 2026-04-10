@@ -1,9 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11060 V 4938",
+    "frequency": "11053 V 7200",
+    "id": "WSHT ENC81",
+    "key": "ED DC F7 C0 DF 64 82 C5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11059 V 4938",
     "id": "GN-SQUASH",
     "key": "12 14 AB D1 AB BA 2B 90"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11098 H 7200",
+    "id": "F489 MAIN",
+    "key": "3B DE 85 9E 63 28 D2 5D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,7 +31,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11153 H 7200",
+    "frequency": "11154 H 7200",
     "id": "TNT-ManCty-Res",
     "key": "8F E8 9C 13 54 69 91 4E"
   },
@@ -28,12 +40,6 @@
     "frequency": "11469 V 7200",
     "id": "ENC 14",
     "key": "B9 22 38 13 E2 B7 56 EF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11478 V 7200",
-    "id": "ENC 6",
-    "key": "04 4E 29 7B F6 ED 70 53"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,9 +55,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11607 V 7200",
-    "id": "Unname",
-    "key": "81 64 D9 BE 7B 4C D0 97"
+    "frequency": "11514 V 7200",
+    "id": "E-228 Main",
+    "key": "AA BB 20 85 26 04 10 3A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11569 V 9875",
+    "id": "ENC 7",
+    "key": "78 1F A2 39 FE C7 83 48"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,15 +73,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12629 V 7200",
-    "id": "E462M",
-    "key": "F5 32 06 2D DC 06 94 76"
+    "frequency": "12602 V 7200",
+    "id": "POL 058_T2",
+    "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12705 V 7120",
-    "id": "EDM HD ENC-1",
-    "key": "B2 C5 D3 4A E6 F4 A7 81"
+    "frequency": "12678 H 7200",
+    "id": "HBL Eisenach-Hannov.",
+    "key": "20 26 AB F1 DC 10 04 F0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "UFC 327 Test",
+    "key": "54 65 68 21 E7 C8 2A D9"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -97,7 +115,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 H 3600",
+    "frequency": "10975 H 3600",
     "id": "F4-1 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
   },
@@ -106,5 +124,17 @@
     "frequency": "10980 H 3600",
     "id": "F5-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10996 V 7500",
+    "id": "POL082 TVN WAW",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11107 H 7200",
+    "id": "F-510 AURILLAC main",
+    "key": "F5 10 14 19 1F EE D1 DE"
   }
 ]
