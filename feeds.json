@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11022 V 9875",
+        "id": "GVA_Fi03",
+        "key": "26 62 79 01 04 4E 3C 8E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12696 V 7200",
+        "id": "ICC Bath vs Northampton Saints",
+        "key": "34 AB 12 F1 AB 34 AB 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12687 V 7200",
+        "id": "Ulster vs Stade Rochlais",
+        "key": "34 AA 12 F0 AA 34 AA 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11189 H 7200",
+        "id": "ENC 10",
+        "key": "FA D4 BA 88 BA 10 04 CE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12687 H 7500",
+        "id": "NLFLEV_HOL-328A",
+        "key": "AC DC 10 98 CC AB BA 31"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "12510 H 7200",
         "id": "F511/PROD2 BIARRITZ MAIN",
@@ -46,35 +76,5 @@
         "frequency": "11107 H 7200",
         "id": "F-510 AURILLAC main",
         "key": "F5 10 14 19 1F EE D1 DE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12602 V 7200",
-        "id": "POL 058_T2",
-        "key": "15 58 35 A2 71 42 63 16"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11053 V 7200",
-        "id": "WSHT ENC81",
-        "key": "ED DC F7 C0 DF 64 82 C5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12736 V 7200",
-        "id": "UFC 327 Test",
-        "key": "54 65 68 21 E7 C8 2A D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11060 V 4938",
-        "id": "GN-SQUASH",
-        "key": "12 14 AB D1 AB BA 2B 90"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11044 V 7200",
-        "id": "BUL007 EL M1 Main",
-        "key": "FB 4D B1 F9 EA 5B C5 0A"
     }
 ]
