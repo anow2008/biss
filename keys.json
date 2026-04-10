@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "0 E",
-    "frequency": "11149 V 4400",
-    "id": "SNG 01 - Chain A",
-    "key": "2C 21 A0 ED 25 45 41 AB"
-  },
-  {
     "satellite": "9 E",
     "frequency": "12591 V 7200",
     "id": "Polsat Sport",
@@ -100,5 +94,11 @@
     "frequency": "11023 V 9874",
     "id": "GVA Fi03",
     "key": "26 62 79 01 04 4E 3C 8E"
+  },
+  {
+    "satellite": "16.0E",
+    "frequency": "12633 V 14400",
+    "id": "PGM C+ PRO D2 VALENCE VS COLOMIERS",
+    "key": "F5 77 14 80 1F EE D1 DE"
   }
 ]
