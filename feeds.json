@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "12510 H 7200",
+        "id": "F511/PROD2 BIARRITZ MAIN",
+        "key": "F5 11 14 1A 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11274 H 7200",
+        "id": "Infront WCH SYN Salzburg AUT - Day 1",
+        "key": "E5 0F F2 E6 5D 04 10 71"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11569 V 9875",
+        "id": "ENC 7",
+        "key": "78 1F A2 39 FE C7 83 48"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11514 V 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 04 10 3A"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12678 H 7200",
         "id": "HBL Eisenach-Hannov.",
@@ -52,35 +76,5 @@
         "frequency": "11044 V 7200",
         "id": "BUL007 EL M1 Main",
         "key": "FB 4D B1 F9 EA 5B C5 0A"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10974 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11107 V 7200",
-        "id": "Main SAUDI015",
-        "key": "76 FC E7 59 8C 3F D7 A2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11098 H 7200",
-        "id": "F489 MAIN",
-        "key": "3B DE 85 9E 63 28 D2 5D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12510 V 7200",
-        "id": "OEBL Salzburg-LASK",
-        "key": "10 04 DE F2 FF 97 30 C6"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10980 H 3600",
-        "id": "F5-2 4.5MH",
-        "key": "20 25 AE F3 EA 52 02 3E"
     }
 ]
