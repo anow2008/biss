@@ -1,35 +1,5 @@
 [
   {
-    "satellite": "8E",
-    "frequency": "11097 V 7200",
-    "id": "SAU 045",
-    "key": "09 B4 D1 8E 62 CB FC 29"
-  },
-  {
-    "satellite": "1 E",
-    "frequency": "12655 V 7200",
-    "id": "Fi16_GNVE",
-    "key": "D1 EE 67 26 29 97 8A 4A"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "12602 V 7200",
-    "id": "Polsat Sport",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "7.0°",
-    "frequency": "11079 V 7200",
-    "id": "WSHT ENC81",
-    "key": "ED DC F7 C0 DF 64 82 C5"
-  },
-  {
-    "satellite": "1 E",
-    "frequency": "12650 V 7200",
-    "id": "N/A",
-    "key": "D1 EE 67 26 29 97 8A 4A"
-  },
-  {
     "satellite": "7.0°",
     "frequency": "11091 V 4937",
     "id": "GN_SQUASH",
@@ -88,5 +58,23 @@
     "frequency": "11477 V 7200",
     "id": "ENC 6",
     "key": "04 4E 29 7B F6 ED 70 53"
+  },
+  {
+    "satellite": "1.0W",
+    "frequency": "12528 V 6658",
+    "id": "BACKUP​",
+    "key": "10 04 20 34 26 AB C2 93"
+  },
+  {
+    "satellite": "4E",
+    "frequency": "11139 V 15000",
+    "id": "TNT-ManCty-Main",
+    "key": "8F E8 9C 13 54 69 91 4E"
+  },
+  {
+    "satellite": "0 E",
+    "frequency": "11149 V 4400",
+    "id": "SNG 01 - Chain A",
+    "key": "2C 21 A0 ED 25 45 41 AB"
   }
 ]
