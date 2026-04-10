@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "7.0°",
-    "frequency": "11091 V 4937",
-    "id": "GN_SQUASH",
-    "key": "12 14 AB D1 AB BA 2B 90"
-  },
-  {
-    "satellite": "7E",
-    "frequency": "12676 V 7200",
-    "id": "N/A",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "7.0°",
-    "frequency": "11524 V 7500",
-    "id": "ALG003 Main",
-    "key": "FA D4 BA 88 BA 10 04 CE"
-  },
-  {
     "satellite": "16E",
     "frequency": "12508 V 4938",
     "id": "N/A",
@@ -76,5 +58,23 @@
     "frequency": "11149 V 4400",
     "id": "SNG 01 - Chain A",
     "key": "2C 21 A0 ED 25 45 41 AB"
+  },
+  {
+    "satellite": "9 E",
+    "frequency": "12591 V 7200",
+    "id": "Polsat Sport",
+    "key": "20 26 A9 EF 97 AB CD 0F"
+  },
+  {
+    "satellite": "13 E",
+    "frequency": "11468 V 7199",
+    "id": "ENC 14",
+    "key": "B9 22 38 13 E2 B7 56 EF"
+  },
+  {
+    "satellite": "4E",
+    "frequency": "11562 V 7200",
+    "id": "2026 BJKC",
+    "key": "04 4E 29 7B F6 ED 70 53"
   }
 ]
