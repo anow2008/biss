@@ -1,29 +1,5 @@
 [
   {
-    "satellite": "16E",
-    "frequency": "12508 V 4938",
-    "id": "N/A",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "16E",
-    "frequency": "12555 V 4938",
-    "id": "N/A",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "1 E",
-    "frequency": "12655 V 7200",
-    "id": "Fi16_GNVE",
-    "key": "D1 EE 67 26 29 97 8A 4A"
-  },
-  {
-    "satellite": "1 E",
-    "frequency": "11524 V 7200",
-    "id": "EN 2",
-    "key": "EE 09 22 19 D1 E0 40 F1"
-  },
-  {
     "satellite": "1 E",
     "frequency": "11486 V 7200",
     "id": "ENC 3",
@@ -76,5 +52,23 @@
     "frequency": "11562 V 7200",
     "id": "2026 BJKC",
     "key": "04 4E 29 7B F6 ED 70 53"
+  },
+  {
+    "satellite": "3 E",
+    "frequency": "10975 V 3600",
+    "id": "F4-1 4 5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "3 E",
+    "frequency": "10981 V 3600",
+    "id": "F5-2 4 5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "12509 V 7200",
+    "id": "OEBL Salzburg-LASK",
+    "key": "10 04 DE F2 FF 97 30 C6"
   }
 ]
