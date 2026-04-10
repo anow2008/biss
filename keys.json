@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "30.5E",
-    "frequency": "11142 V 3500",
-    "id": "ISH-ENC1",
-    "key": "FD BC DA 93 C2 27 26 0F"
-  },
-  {
     "satellite": "7E",
     "frequency": "11062 V 7200",
     "id": "HapoelTVavOlimpiakos",
@@ -82,5 +76,11 @@
     "frequency": "11524 V 7200",
     "id": "EN 2",
     "key": "EE 09 22 19 D1 E0 40 F1"
+  },
+  {
+    "satellite": "1 E",
+    "frequency": "11486 V 7200",
+    "id": "ENC 3",
+    "key": "D1 EF 33 F3 C0 1A C8 A2"
   }
 ]
