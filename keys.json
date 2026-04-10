@@ -1,29 +1,5 @@
 [
   {
-    "satellite": "7.0E",
-    "frequency": "11568 V 9875",
-    "id": "ENC 7",
-    "key": "78 1F A2 39 FE C7 83 48"
-  },
-  {
-    "satellite": "4E",
-    "frequency": "11477 V 7200",
-    "id": "ENC 6",
-    "key": "04 4E 29 7B F6 ED 70 53"
-  },
-  {
-    "satellite": "1.0W",
-    "frequency": "12528 V 6658",
-    "id": "BACKUP​",
-    "key": "10 04 20 34 26 AB C2 93"
-  },
-  {
-    "satellite": "4E",
-    "frequency": "11139 V 15000",
-    "id": "TNT-ManCty-Main",
-    "key": "8F E8 9C 13 54 69 91 4E"
-  },
-  {
     "satellite": "0 E",
     "frequency": "11149 V 4400",
     "id": "SNG 01 - Chain A",
@@ -81,6 +57,48 @@
     "satellite": "4E",
     "frequency": "11022 V 9875",
     "id": "GVA_Fi03",
+    "key": "26 62 79 01 04 4E 3C 8E"
+  },
+  {
+    "satellite": "7 E",
+    "frequency": "10959 H 7120",
+    "id": "EFL - West Brom v Millwall",
+    "key": "B7 B7 E4 52 23 07 47 71"
+  },
+  {
+    "satellite": "7E",
+    "frequency": "11190 V 7200",
+    "id": "N/A",
+    "key": "FA D4 BA 88 BA 10 04 CE"
+  },
+  {
+    "satellite": "9E",
+    "frequency": "11096 V 7199",
+    "id": "F489 MAIN",
+    "key": "3B DE 85 9E 63 28 D2 5D"
+  },
+  {
+    "satellite": "7 E",
+    "frequency": "10959 V 7120",
+    "id": "N/A",
+    "key": "B7 B7 E4 52 23 07 47 71"
+  },
+  {
+    "satellite": "5 E",
+    "frequency": "11505 V 7200",
+    "id": "ENC 10",
+    "key": "29 C5 E6 D4 57 FB 1D 6F"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11513 V 7200",
+    "id": "E228 Main",
+    "key": "AA BB 20 85 26 04 10 3A"
+  },
+  {
+    "satellite": "4E",
+    "frequency": "11023 V 9874",
+    "id": "GVA Fi03",
     "key": "26 62 79 01 04 4E 3C 8E"
   }
 ]
