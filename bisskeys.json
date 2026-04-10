@@ -1,6 +1,36 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11140 H 15000",
+    "id": "TNT-ManCty-Main",
+    "key": "8F E8 9C 13 54 69 91 4E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11153 H 7200",
+    "id": "TNT-ManCty-Res",
+    "key": "8F E8 9C 13 54 69 91 4E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11469 V 7200",
+    "id": "ENC 14",
+    "key": "B9 22 38 13 E2 B7 56 EF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11478 V 7200",
+    "id": "ENC 6",
+    "key": "04 4E 29 7B F6 ED 70 53"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11496 V 7200",
+    "id": "ENC-13",
+    "key": "65 67 9B 67 CF F2 AB 6C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11505 V 7200",
     "id": "ENC 10",
     "key": "29 C5 E6 D4 57 FB 1D 6F"
@@ -12,9 +42,57 @@
     "key": "04 04 20 28 26 AD 26 F9"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11607 V 7200",
+    "id": "Unname",
+    "key": "81 64 D9 BE 7B 4C D0 97"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "20 26 A9 EF 97 AB CD 0F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12629 V 7200",
+    "id": "E462M",
+    "key": "F5 32 06 2D DC 06 94 76"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12705 V 7120",
+    "id": "EDM HD ENC-1",
+    "key": "B2 C5 D3 4A E6 F4 A7 81"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "2B E6 AA BB CA 6E AD E5"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "D4 A7 F9 74 3C 2E 81 EB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10975 H 3600",
+    "id": "F4-1 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10980 H 3600",
+    "id": "F5-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
   }
 ]
