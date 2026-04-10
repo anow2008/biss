@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "9 E",
-    "frequency": "12591 V 7200",
-    "id": "Polsat Sport",
-    "key": "20 26 A9 EF 97 AB CD 0F"
-  },
-  {
     "satellite": "13 E",
     "frequency": "11468 V 7199",
     "id": "ENC 14",
@@ -100,5 +94,11 @@
     "frequency": "12633 V 14400",
     "id": "PGM C+ PRO D2 VALENCE VS COLOMIERS",
     "key": "F5 77 14 80 1F EE D1 DE"
+  },
+  {
+    "satellite": "26E",
+    "frequency": "11022 V 4440",
+    "id": "FLY HD2 MOD1",
+    "key": "FE ED 10 FB 04 20 26 4A"
   }
 ]
