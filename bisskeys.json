@@ -1,13 +1,19 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11044 V 7200",
+    "id": "BUL007 EL M1 Main",
+    "key": "FB 4D B1 F9 EA 5B C5 0A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11053 V 7200",
     "id": "WSHT ENC81",
     "key": "ED DC F7 C0 DF 64 82 C5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11059 V 4938",
+    "frequency": "11060 V 4938",
     "id": "GN-SQUASH",
     "key": "12 14 AB D1 AB BA 2B 90"
   },
@@ -31,21 +37,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11154 H 7200",
+    "frequency": "11153 H 7200",
     "id": "TNT-ManCty-Res",
     "key": "8F E8 9C 13 54 69 91 4E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11189 H 7200",
+    "id": "ENC 10",
+    "key": "FA D4 BA 88 BA 10 04 CE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11469 V 7200",
     "id": "ENC 14",
     "key": "B9 22 38 13 E2 B7 56 EF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11496 V 7200",
-    "id": "ENC-13",
-    "key": "65 67 9B 67 CF F2 AB 6C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,20 +67,20 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11569 V 9875",
-    "id": "ENC 7",
-    "key": "78 1F A2 39 FE C7 83 48"
+    "frequency": "11523 V 7500",
+    "id": "ALG003 MAIN",
+    "key": "FA D4 BA 88 BA 10 04 CE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "Polsat Sport",
-    "key": "20 26 A9 EF 97 AB CD 0F"
+    "frequency": "12510 V 7200",
+    "id": "OEBL Salzburg-LASK",
+    "key": "10 04 DE F2 FF 97 30 C6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12602 V 7200",
-    "id": "POL 058_T2",
+    "id": "POL 058_T1",
     "key": "15 58 35 A2 71 42 63 16"
   },
   {
@@ -85,15 +91,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "UFC 327 Test",
-    "key": "54 65 68 21 E7 C8 2A D9"
+    "frequency": "12687 H 7500",
+    "id": "NLFLEV_HOL-328A",
+    "key": "AC DC 10 98 CC AB BA 31"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 V 7200",
+    "id": "Ulster vs Stade Rochlais",
+    "key": "34 AA 12 F0 AA 34 AA 88"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
     "key": "2B E6 AA BB CA 6E AD E5"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11274 H 7200",
+    "id": "Infront WCH SYN Salzburg (AUT) - Day 1",
+    "key": "E5 0F F2 E6 5D 04 10 71"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -115,7 +133,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10975 H 3600",
+    "frequency": "10976 H 3600",
     "id": "F4-1 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
   },
@@ -136,5 +154,11 @@
     "frequency": "11107 H 7200",
     "id": "F-510 AURILLAC main",
     "key": "F5 10 14 19 1F EE D1 DE"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12510 H 7200",
+    "id": "F511/PROD2 BIARRITZ MAIN",
+    "key": "F5 11 14 1A 1F EE D1 DE"
   }
 ]
