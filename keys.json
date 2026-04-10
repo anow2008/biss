@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "1 E",
-    "frequency": "11486 V 7200",
-    "id": "ENC 3",
-    "key": "D1 EF 33 F3 C0 1A C8 A2"
-  },
-  {
     "satellite": "7.0E",
     "frequency": "11568 V 9875",
     "id": "ENC 7",
@@ -82,5 +76,11 @@
     "frequency": "11662 V 7200",
     "id": "MRC004-MAIN",
     "key": "DA FA BA 8E BA 11 04 CF"
+  },
+  {
+    "satellite": "4E",
+    "frequency": "11022 V 9875",
+    "id": "GVA_Fi03",
+    "key": "26 62 79 01 04 4E 3C 8E"
   }
 ]
