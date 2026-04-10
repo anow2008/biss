@@ -1,6 +1,18 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11060 V 4938",
+    "id": "GN-SQUASH",
+    "key": "12 14 AB D1 AB BA 2B 90"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 V 7200",
+    "id": "Main SAUDI015",
+    "key": "76 FC E7 59 8C 3F D7 A2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11140 H 15000",
     "id": "TNT-ManCty-Main",
     "key": "8F E8 9C 13 54 69 91 4E"
@@ -34,12 +46,6 @@
     "frequency": "11505 V 7200",
     "id": "ENC 10",
     "key": "29 C5 E6 D4 57 FB 1D 6F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7200",
-    "id": "Unname",
-    "key": "04 04 20 28 26 AD 26 F9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,7 +91,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10975 H 3600",
+    "frequency": "10974 V 9600",
+    "id": "POL-141 ENC1",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10976 H 3600",
     "id": "F4-1 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
   },
