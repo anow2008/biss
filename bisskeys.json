@@ -6,6 +6,12 @@
     "key": "ED DC F7 C0 DF 64 82 C5"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "EN 2",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
