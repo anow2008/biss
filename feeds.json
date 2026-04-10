@@ -1,5 +1,59 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 H 7200",
+        "id": "HBL Eisenach-Hannov.",
+        "key": "20 26 AB F1 DC 10 04 F0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11089 H 7200",
+        "id": "F419_MAIN",
+        "key": "4A 4E 62 FA A1 E6 D2 59"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10996 V 7500",
+        "id": "POL082 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11107 H 7200",
+        "id": "F-510 AURILLAC main",
+        "key": "F5 10 14 19 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12602 V 7200",
+        "id": "POL 058_T2",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11053 V 7200",
+        "id": "WSHT ENC81",
+        "key": "ED DC F7 C0 DF 64 82 C5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12736 V 7200",
+        "id": "UFC 327 Test",
+        "key": "54 65 68 21 E7 C8 2A D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11060 V 4938",
+        "id": "GN-SQUASH",
+        "key": "12 14 AB D1 AB BA 2B 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11044 V 7200",
+        "id": "BUL007 EL M1 Main",
+        "key": "FB 4D B1 F9 EA 5B C5 0A"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "10974 V 9600",
         "id": "POL-141 ENC1",
@@ -28,71 +82,5 @@
         "frequency": "10980 H 3600",
         "id": "F5-2 4.5MH",
         "key": "20 25 AE F3 EA 52 02 3E"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10962 H 3333",
-        "id": "DEFAULT",
-        "key": "D4 A7 F9 74 3C 2E 81 EB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12647 V 7200",
-        "id": "Fi17GNVE",
-        "key": "77 72 11 FA A6 24 B1 7B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12629 V 7200",
-        "id": "E462M",
-        "key": "F5 32 06 2D DC 06 94 76"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR MENA 1",
-        "key": "22 C2 ED D1 44 5F 74 17"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR EASTERN 1",
-        "key": "B0 F4 05 A9 44 23 AF 16"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 1",
-        "key": "44 D6 E7 01 82 3B 5B 18"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "2B E6 AA BB CA 6E AD E5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12705 V 7120",
-        "id": "EDM HD ENC-1",
-        "key": "B2 C5 D3 4A E6 F4 A7 81"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11487 V 7200",
-        "id": "ENC 3",
-        "key": "D1 EF 33 F3 C0 1A C8 A2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11496 V 7200",
-        "id": "ENC-13",
-        "key": "65 67 9B 67 CF F2 AB 6C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11469 V 7200",
-        "id": "ENC 14",
-        "key": "B9 22 38 13 E2 B7 56 EF"
     }
 ]
