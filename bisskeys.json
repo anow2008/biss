@@ -1,6 +1,18 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 H 7120",
+    "id": "EFL - West Brom v Millwall",
+    "key": "B7 B7 E4 52 23 07 47 71"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11022 V 9875",
+    "id": "GVA_Fi03",
+    "key": "26 62 79 01 04 4E 3C 8E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11044 V 7200",
     "id": "BUL007 EL M1 Main",
     "key": "FB 4D B1 F9 EA 5B C5 0A"
@@ -19,15 +31,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11098 H 7200",
-    "id": "F489 MAIN",
-    "key": "3B DE 85 9E 63 28 D2 5D"
+    "frequency": "11089 H 7200",
+    "id": "F419_MAIN",
+    "key": "4A 4E 62 FA A1 E6 D2 59"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 V 7200",
-    "id": "Main SAUDI015",
-    "key": "76 FC E7 59 8C 3F D7 A2"
+    "frequency": "11098 H 7200",
+    "id": "F489 MAIN",
+    "key": "3B DE 85 9E 63 28 D2 5D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -102,6 +114,12 @@
     "key": "34 AA 12 F0 AA 34 AA 88"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12696 V 7200",
+    "id": "ICC Bath vs Northampton Saints",
+    "key": "34 AB 12 F1 AB 34 AB 8A"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
@@ -127,13 +145,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 04 8E"
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "D4 A7 F9 74 3C 2E 81 EB"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 H 3600",
+    "frequency": "10975 H 3600",
     "id": "F4-1 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
   },
@@ -142,12 +160,6 @@
     "frequency": "10980 H 3600",
     "id": "F5-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL082 TVN WAW",
-    "key": "77 93 52 5C 99 08 86 27"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
