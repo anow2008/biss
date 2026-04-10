@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11505 V 7200",
+    "id": "ENC 10",
+    "key": "29 C5 E6 D4 57 FB 1D 6F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11523 V 7200",
+    "id": "Unname",
+    "key": "04 04 20 28 26 AD 26 F9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  }
+]
