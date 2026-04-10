@@ -70,5 +70,17 @@
     "frequency": "12509 V 7200",
     "id": "OEBL Salzburg-LASK",
     "key": "10 04 DE F2 FF 97 30 C6"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11052 V 7200",
+    "id": "WSHT ENC81",
+    "key": "ED DC F7 C0 DF 64 82 C5"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "11662 V 7200",
+    "id": "MRC004-MAIN",
+    "key": "DA FA BA 8E BA 11 04 CF"
   }
 ]
