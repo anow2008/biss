@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "7E",
-    "frequency": "11062 V 7200",
-    "id": "HapoelTVavOlimpiakos",
-    "key": "3C A2 6A 48 22 39 3C 97"
-  },
-  {
     "satellite": "8E",
     "frequency": "11097 V 7200",
     "id": "SAU 045",
@@ -82,5 +76,17 @@
     "frequency": "11486 V 7200",
     "id": "ENC 3",
     "key": "D1 EF 33 F3 C0 1A C8 A2"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11568 V 9875",
+    "id": "ENC 7",
+    "key": "78 1F A2 39 FE C7 83 48"
+  },
+  {
+    "satellite": "4E",
+    "frequency": "11477 V 7200",
+    "id": "ENC 6",
+    "key": "04 4E 29 7B F6 ED 70 53"
   }
 ]
