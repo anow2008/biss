@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12437 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12656 V 7200",
+        "id": "Fi20_GNVE",
+        "key": "D2 D1 1F C2 81 2F EE 9E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11569 V 9875",
         "id": "ENC 7",
@@ -58,11 +70,5 @@
         "frequency": "11274 H 7200",
         "id": "Infront WCH SYN Salzburg AUT - Day 1",
         "key": "E5 0F F2 E6 5D 04 10 71"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11569 V 9875",
-        "id": "ENC 7",
-        "key": "78 1F A2 39 FE C7 83 48"
     }
 ]
