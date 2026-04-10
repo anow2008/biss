@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11569 V 9875",
+        "id": "ENC 7",
+        "key": "C4 71 07 3C 3F EA 03 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10960 H 7120",
+        "id": "EFL - West Brom v Millwall",
+        "key": "B7 B7 E4 52 23 07 47 71"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10966 H 3333",
+        "id": "DEFAULT",
+        "key": "D4 A7 F9 74 3C 2E 81 EB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11022 V 9875",
         "id": "GVA_Fi03",
         "key": "26 62 79 01 04 4E 3C 8E"
@@ -52,29 +70,5 @@
         "frequency": "11514 V 7200",
         "id": "E-228 Main",
         "key": "AA BB 20 85 26 04 10 3A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12678 H 7200",
-        "id": "HBL Eisenach-Hannov.",
-        "key": "20 26 AB F1 DC 10 04 F0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11089 H 7200",
-        "id": "F419_MAIN",
-        "key": "4A 4E 62 FA A1 E6 D2 59"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10996 V 7500",
-        "id": "POL082 TVN WAW",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11107 H 7200",
-        "id": "F-510 AURILLAC main",
-        "key": "F5 10 14 19 1F EE D1 DE"
     }
 ]
