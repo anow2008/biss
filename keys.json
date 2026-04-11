@@ -1,12 +1,6 @@
 [
   {
     "satellite": "26.0E",
-    "frequency": "11142 V 8800",
-    "id": "SNG 01 Chain B",
-    "key": "98 76 12 20 34 67 89 24"
-  },
-  {
-    "satellite": "26.0E",
     "frequency": "11155 V 4400",
     "id": "SNG 02 - Chain B",
     "key": "98 76 67 75 89 12 34 CF"
@@ -70,5 +64,11 @@
     "frequency": "12630 V 4200",
     "id": "EGY-017-main",
     "key": "FA AE CC 74 BD 22 05 E4"
+  },
+  {
+    "satellite": "8E",
+    "frequency": "11665 V 7200",
+    "id": "MRC004-MAIN",
+    "key": "DA FA BA 8E BA 11 04 CF"
   }
 ]
