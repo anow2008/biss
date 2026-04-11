@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "26.0E",
-    "frequency": "11142 V 8800",
-    "id": "SNG 02 - Chain B",
-    "key": "98 76 12 20 34 67 89 24"
-  },
-  {
-    "satellite": "26.0E",
-    "frequency": "11155 V 4400",
-    "id": "SNG 02 - Chain B",
-    "key": "98 76 12 20 34 67 89 24"
-  },
-  {
-    "satellite": "6 E",
-    "frequency": "12677 V 7200",
-    "id": "ENC 3",
-    "key": "76 D2 43 8B D6 E9 79 38"
-  },
-  {
     "satellite": "1E",
     "frequency": "12610 V 7200",
     "id": "POL-102 MAIN",
@@ -64,5 +46,17 @@
     "frequency": "12678 V 7200",
     "id": "ENC 3",
     "key": "76 D2 43 8B D6 E9 79 38"
+  },
+  {
+    "satellite": "21 E",
+    "frequency": "11553 V 7198",
+    "id": "UFC PATH C PRI",
+    "key": "54 65 68 21 E7 C8 2A D9"
+  },
+  {
+    "satellite": "21 E",
+    "frequency": "10995 V 7199",
+    "id": "WSHT ENC58",
+    "key": "54 65 68 21 E7 C8 2A D9"
   }
 ]
