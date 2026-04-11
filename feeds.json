@@ -1,75 +1,27 @@
 [
     {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12647 V 7200",
-        "id": "E-289",
-        "key": "25 8D 25 D7 D8 43 A3 BE"
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11107 H 7200",
+        "id": "SOS PRINCIPAL OYONNAX VS BRIVE PRO D2",
+        "key": "F5 76 24 8F 1F EE D5 E2"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12638 V 7200",
-        "id": "Fi15_GNVE",
-        "key": "D2 D1 1F C2 81 2F EE 9E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10962 H 9875",
-        "id": "OER/F33/1/ROUBAIX",
-        "key": "5F 43 20 C2 85 72 29 20"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12678 H 7200",
-        "id": "HBL",
-        "key": "20 26 AB F1 DC 11 04 F1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12545 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11514 V 7200",
-        "id": "ENC 8",
-        "key": "DE 12 CA BA 82 AB 73 A0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11022 V 9875",
-        "id": "D451_2M12_1",
-        "key": "DF 36 05 1A 07 2D D2 06"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12602 V 7200",
-        "id": "POL 058_T2",
-        "key": "15 58 35 A2 71 42 63 16"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11162 H 7200",
-        "id": "E-228 Main",
-        "key": "AA BB 20 85 26 04 11 3B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11018 H 14400",
-        "id": "GVA_Fi07",
-        "key": "36 5F 11 A6 12 4A 6D C9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "10829 V 7200",
-        "id": "FIG Osijek",
-        "key": "FA 23 56 73 BF E9 98 40"
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11098 H 7200",
+        "id": "LNR UK OYONNAX VS BRIVE PRO D2",
+        "key": "F5 76 24 8F 1F EE D2 DF"
     },
     {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "10732 V 34000",
         "id": "SUPPONOR AFRICA 2",
         "key": "00 53 31 84 BD A6 5F C2"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11080 H 7200",
+        "id": "UPLINK ADVALEM",
+        "key": "F0 08 F5 ED 76 F5 77 E2"
     },
     {
         "satellite": "Eutelsat 10A  10.0E",
@@ -87,18 +39,42 @@
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "10732 V 34000",
         "id": "OVERON 1",
-        "key": "F0 92 3E C0 E4 44 A1 C9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12705 V 7200",
-        "id": "ENC 21",
-        "key": "BA C2 34 B0 DA CE E1 89"
+        "key": "57 18 96 05 DA B5 8F 1E"
     },
     {
         "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10975 H 3600",
-        "id": "F6-2 4.5MH",
-        "key": "20 25 AE F3 EA 52 02 3E"
+        "frequency": "11065 H 14400",
+        "id": "PGM C PRO D2 OYONNAX VS BRIVE",
+        "key": "F5 77 24 90 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10767 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "27 AC FB CE 0B E3 85 73"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10767 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "BE 84 7C BE D2 EC 7D 3B"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10767 V 34000",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "34 77 B9 64 7B 65 70 50"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10966 H 3333",
+        "id": "DEFAULT",
+        "key": "D4 A7 F9 74 3C 2E 81 EB"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10722 H 7200",
+        "id": "Encoder 1",
+        "key": "AD D6 4C CF 48 54 6F 0B"
     }
 ]
