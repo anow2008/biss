@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "4E",
-    "frequency": "11478 V 7200",
-    "id": "ENC 3",
-    "key": "04 4E 29 7B F6 ED 70 53"
-  },
-  {
     "satellite": "1 E",
     "frequency": "11487 V 7200",
     "id": "ENC 4",
