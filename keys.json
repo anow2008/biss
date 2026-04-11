@@ -1,35 +1,5 @@
 [
   {
-    "satellite": "9E",
-    "frequency": "12655 V 7200",
-    "id": "Fi20_GNVE",
-    "key": "D2 D1 1F C2 81 2F EE 9E"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "12727 V 7200",
-    "id": "ECC MHR vs Connacht Rugby",
-    "key": "32 BB 12 FF BB 34 BB AA"
-  },
-  {
-    "satellite": "35 E",
-    "frequency": "10977 V 7120",
-    "id": "Pitch EFL - Norwich v Ipswich",
-    "key": "52 37 F3 7C 4A 35 E4 63"
-  },
-  {
-    "satellite": "3E",
-    "frequency": "11264 V 7200",
-    "id": "ITA",
-    "key": "3E 83 F2 B3 CA 53 9D BA"
-  },
-  {
-    "satellite": "5 E",
-    "frequency": "11506 V 7200",
-    "id": "ENC 7",
-    "key": "29 C5 E6 D4 57 FB 1D 6F"
-  },
-  {
     "satellite": "7.0E",
     "frequency": "12685 V 7200",
     "id": "ICC Glasgow Warriors vs RC Toulon",
@@ -94,5 +64,35 @@
     "frequency": "11155 V 4400",
     "id": "SNG 02 - Chain B",
     "key": "98 76 67 75 89 12 34 CF"
+  },
+  {
+    "satellite": "N/A",
+    "frequency": "11189 V 7199",
+    "id": "TUN004 BC",
+    "key": "DA F3 BA 87 BA 12 04 D0"
+  },
+  {
+    "satellite": "26.0E",
+    "frequency": "11142 V 8800",
+    "id": "SNG 02 - Chain B",
+    "key": "98 76 12 20 34 67 89 24"
+  },
+  {
+    "satellite": "26.0E",
+    "frequency": "11155 V 4400",
+    "id": "SNG 02 - Chain B",
+    "key": "98 76 12 20 34 67 89 24"
+  },
+  {
+    "satellite": "6 E",
+    "frequency": "12677 V 7200",
+    "id": "ENC 3",
+    "key": "76 D2 43 8B D6 E9 79 38"
+  },
+  {
+    "satellite": "1E",
+    "frequency": "12610 V 7200",
+    "id": "POL-102 MAIN",
+    "key": "D0 41 1E 2F 50 FF 25 74"
   }
 ]
