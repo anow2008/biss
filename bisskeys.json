@@ -14,7 +14,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
-    "id": "Service1",
+    "id": "IMG A EU",
     "key": "54 65 68 21 E7 C8 2A D9"
   },
   {
@@ -40,12 +40,6 @@
     "frequency": "12736 V 7200",
     "id": "UFC 327 : All Fights",
     "key": "54 65 68 21 E7 C8 2A D9"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "57 18 96 05 DA B5 8F 1E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
