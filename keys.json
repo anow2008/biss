@@ -1,53 +1,5 @@
 [
   {
-    "satellite": "1 E",
-    "frequency": "11487 V 7200",
-    "id": "ENC 4",
-    "key": "D1 EF 33 F3 C0 1A C8 A2"
-  },
-  {
-    "satellite": "1 E",
-    "frequency": "12591 V 7200",
-    "id": "POLSAT SPORT",
-    "key": "20 26 A1 E7 12 AB CD 8A"
-  },
-  {
-    "satellite": "1 E",
-    "frequency": "12593 V 7200",
-    "id": "Polsat Sport",
-    "key": "20 26 A1 E7 12 AB CD 8A"
-  },
-  {
-    "satellite": "13.0°",
-    "frequency": "12436 V 27500",
-    "id": "FEED 2",
-    "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "7.0°",
-    "frequency": "12678 V 7200",
-    "id": "ENC 1",
-    "key": "1A 50 09 73 45 49 DC 6A"
-  },
-  {
-    "satellite": "0 E",
-    "frequency": "11568 V 9875",
-    "id": "ENC-27",
-    "key": "23 19 B0 EC 2E 79 DB 82"
-  },
-  {
-    "satellite": "0.8W",
-    "frequency": "11540 V 6666",
-    "id": "B115DGS",
-    "key": "11 04 20 35 26 AB C1 92"
-  },
-  {
-    "satellite": "7.0°",
-    "frequency": "11106 V 9876",
-    "id": "MXGP Main",
-    "key": "0A 45 6C BB 55 73 58 20"
-  },
-  {
     "satellite": "1.0W",
     "frequency": "12542 V 6658",
     "id": "B115DGS",
@@ -88,5 +40,47 @@
     "frequency": "10977 V 7120",
     "id": "Pitch EFL - Norwich v Ipswich",
     "key": "52 37 F3 7C 4A 35 E4 63"
+  },
+  {
+    "satellite": "3E",
+    "frequency": "11264 V 7200",
+    "id": "ITA",
+    "key": "3E 83 F2 B3 CA 53 9D BA"
+  },
+  {
+    "satellite": "5 E",
+    "frequency": "11506 V 7200",
+    "id": "ENC 7",
+    "key": "29 C5 E6 D4 57 FB 1D 6F"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "12685 V 7200",
+    "id": "ICC Glasgow Warriors vs RC Toulon",
+    "key": "34 AC 12 F2 AC 34 AC 8C"
+  },
+  {
+    "satellite": "1E",
+    "frequency": "11273 H 7200",
+    "id": "Infront WCH SYN Salzburg",
+    "key": "D0 41 1E 2F 50 FF 25 74"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "10982 H 14400",
+    "id": "Fi 13",
+    "key": "BA F5 48 F7 1C 5F 4C C7"
+  },
+  {
+    "satellite": "45 E",
+    "frequency": "12533 V 2400",
+    "id": "OB-HD1",
+    "key": "DB BC AE 45 EF 20 05 14"
+  },
+  {
+    "satellite": "4E",
+    "frequency": "11562 V 7200",
+    "id": "2026 BJKC",
+    "key": "04 4E 29 7B F6 ED 70 53"
   }
 ]
