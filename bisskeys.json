@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11053 V 7200",
-    "id": "WSHT ENC81",
-    "key": "ED DC F7 C0 DF 64 82 C5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11171 H 7200",
     "id": "EPCR",
     "key": "6A 94 A3 A1 DB 64 0E 4D"
@@ -37,32 +31,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11569 V 9875",
-    "id": "ENC-27",
-    "key": "C4 71 07 3C 3F EA 03 2C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12510 V 7200",
     "id": "ITA 494 MAIN",
     "key": "9A 9B 9C D1 9D 9E 9F DA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12522 H 4938",
-    "id": "Medialink CRO-025/1",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12545 H 4938",
     "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12551 H 4938",
-    "id": "YSM-012 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -85,27 +61,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7200",
-    "id": "E-289",
-    "key": "25 8D 25 D7 D8 43 A3 BE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12678 V 7200",
     "id": "ENC 3",
     "key": "76 D2 43 8B D6 E9 79 38"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12696 V 7200",
-    "id": "ICC Leinster v Sales Sharks",
-    "key": "34 AD 12 F3 AD 34 AD 8E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12705 V 7200",
-    "id": "ENC 21",
-    "key": "BA C2 34 B0 DA CE E1 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -118,12 +76,6 @@
     "frequency": "12737 V 7200",
     "id": "UFC 327 : All Fights",
     "key": "54 65 68 21 E7 C8 2A D9"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10722 H 7200",
-    "id": "Encoder 1",
-    "key": "AD D6 4C CF 48 54 6F 0B"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
