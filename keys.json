@@ -1,18 +1,6 @@
 [
   {
     "satellite": "26.0E",
-    "frequency": "11155 V 4400",
-    "id": "SNG 02 - Chain B",
-    "key": "98 76 67 75 89 12 34 CF"
-  },
-  {
-    "satellite": "N/A",
-    "frequency": "11189 V 7199",
-    "id": "TUN004 BC",
-    "key": "DA F3 BA 87 BA 12 04 D0"
-  },
-  {
-    "satellite": "26.0E",
     "frequency": "11142 V 8800",
     "id": "SNG 02 - Chain B",
     "key": "98 76 12 20 34 67 89 24"
@@ -70,5 +58,11 @@
     "frequency": "11665 V 7200",
     "id": "MRC004-MAIN",
     "key": "DA FA BA 8E BA 11 04 CF"
+  },
+  {
+    "satellite": "6 E",
+    "frequency": "12678 V 7200",
+    "id": "ENC 3",
+    "key": "76 D2 43 8B D6 E9 79 38"
   }
 ]
