@@ -1,9 +1,45 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12736 V 7200",
-        "id": "EN 2",
-        "key": "12 3C AA F8 14 22 A3 D9"
+        "frequency": "11523 V 7500",
+        "id": "ALG005 MAIN",
+        "key": "DA FA BA 8E BA 11 04 CF"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11306 V 7200",
+        "id": "Unname",
+        "key": "AB BA 11 76 04 20 26 4A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10996 H 7120",
+        "id": "Pitch EFL - Sheffield Utd v Hull City",
+        "key": "86 88 AD BB 33 74 21 C8"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11005 V 7500",
+        "id": "POL020 TVN WRO",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10980 H 3600",
+        "id": "F2-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10962 H 3333",
+        "id": "DEFAULT",
+        "key": "D4 A7 F9 74 3C 2E 81 EB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
     },
     {
         "satellite": "Eutelsat 10A  10.0E",
@@ -30,63 +66,33 @@
         "key": "F0 92 3E C0 E4 44 A1 C9"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12437 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12656 V 7200",
-        "id": "Fi20_GNVE",
-        "key": "D2 D1 1F C2 81 2F EE 9E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11569 V 9875",
-        "id": "ENC 7",
-        "key": "C4 71 07 3C 3F EA 03 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10960 H 7120",
-        "id": "EFL - West Brom v Millwall",
-        "key": "B7 B7 E4 52 23 07 47 71"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT",
-        "key": "D4 A7 F9 74 3C 2E 81 EB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11022 V 9875",
-        "id": "GVA_Fi03",
-        "key": "26 62 79 01 04 4E 3C 8E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12696 V 7200",
-        "id": "ICC Bath vs Northampton Saints",
-        "key": "34 AB 12 F1 AB 34 AB 8A"
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11273 H 7200",
+        "id": "Infront WCH SYN Salzburg AUT - Day 2",
+        "key": "D0 41 1E 2F 50 FF 25 74"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12687 V 7200",
-        "id": "Ulster vs Stade Rochlais",
-        "key": "34 AA 12 F0 AA 34 AA 88"
+        "id": "ICC Glasgow Warriors vs RC Toulon",
+        "key": "34 AC 12 F2 AC 34 AC 8C"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11189 H 7200",
-        "id": "ENC 10",
-        "key": "FA D4 BA 88 BA 10 04 CE"
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "20 26 A1 E7 12 AB CD 8A"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12687 H 7500",
-        "id": "NLFLEV_HOL-328A",
-        "key": "AC DC 10 98 CC AB BA 31"
+        "frequency": "12573 H 7200",
+        "id": "E380 MAIN 1",
+        "key": "04 11 DD F2 EC 20 26 32"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11598 V 7200",
+        "id": "Tower OB TX3",
+        "key": "81 64 D9 BE 7B 4C D0 97"
     }
 ]
