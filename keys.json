@@ -88,5 +88,11 @@
     "frequency": "12727 V 7200",
     "id": "ECC MHR vs Connacht Rugby",
     "key": "32 BB 12 FF BB 34 BB AA"
+  },
+  {
+    "satellite": "35 E",
+    "frequency": "10977 V 7120",
+    "id": "Pitch EFL - Norwich v Ipswich",
+    "key": "52 37 F3 7C 4A 35 E4 63"
   }
 ]
