@@ -1,41 +1,5 @@
 [
   {
-    "satellite": "7 E",
-    "frequency": "10959 V 7120",
-    "id": "N/A",
-    "key": "B7 B7 E4 52 23 07 47 71"
-  },
-  {
-    "satellite": "5 E",
-    "frequency": "11505 V 7200",
-    "id": "ENC 10",
-    "key": "29 C5 E6 D4 57 FB 1D 6F"
-  },
-  {
-    "satellite": "7.0°",
-    "frequency": "11513 V 7200",
-    "id": "E228 Main",
-    "key": "AA BB 20 85 26 04 10 3A"
-  },
-  {
-    "satellite": "4E",
-    "frequency": "11023 V 9874",
-    "id": "GVA Fi03",
-    "key": "26 62 79 01 04 4E 3C 8E"
-  },
-  {
-    "satellite": "16.0E",
-    "frequency": "12633 V 14400",
-    "id": "PGM C+ PRO D2 VALENCE VS COLOMIERS",
-    "key": "F5 77 14 80 1F EE D1 DE"
-  },
-  {
-    "satellite": "26E",
-    "frequency": "11022 V 4440",
-    "id": "FLY HD2 MOD1",
-    "key": "FE ED 10 FB 04 20 26 4A"
-  },
-  {
     "satellite": "4E",
     "frequency": "11478 V 7200",
     "id": "ENC 3",
@@ -112,5 +76,17 @@
     "frequency": "11151 V 5000",
     "id": "ITA 491 BUCINTORO",
     "key": "04 41 7B C0 07 B1 0D C5"
+  },
+  {
+    "satellite": "9E",
+    "frequency": "12655 V 7200",
+    "id": "Fi20_GNVE",
+    "key": "D2 D1 1F C2 81 2F EE 9E"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "12727 V 7200",
+    "id": "ECC MHR vs Connacht Rugby",
+    "key": "32 BB 12 FF BB 34 BB AA"
   }
 ]
