@@ -1,47 +1,5 @@
 [
   {
-    "satellite": "4E",
-    "frequency": "11562 V 7200",
-    "id": "2026 BJKC",
-    "key": "04 4E 29 7B F6 ED 70 53"
-  },
-  {
-    "satellite": "3 E",
-    "frequency": "10975 V 3600",
-    "id": "F4-1 4 5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "3 E",
-    "frequency": "10981 V 3600",
-    "id": "F5-2 4 5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "12509 V 7200",
-    "id": "OEBL Salzburg-LASK",
-    "key": "10 04 DE F2 FF 97 30 C6"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "11052 V 7200",
-    "id": "WSHT ENC81",
-    "key": "ED DC F7 C0 DF 64 82 C5"
-  },
-  {
-    "satellite": "8E",
-    "frequency": "11662 V 7200",
-    "id": "MRC004-MAIN",
-    "key": "DA FA BA 8E BA 11 04 CF"
-  },
-  {
-    "satellite": "4E",
-    "frequency": "11022 V 9875",
-    "id": "GVA_Fi03",
-    "key": "26 62 79 01 04 4E 3C 8E"
-  },
-  {
     "satellite": "7 E",
     "frequency": "10959 H 7120",
     "id": "EFL - West Brom v Millwall",
@@ -94,5 +52,65 @@
     "frequency": "11022 V 4440",
     "id": "FLY HD2 MOD1",
     "key": "FE ED 10 FB 04 20 26 4A"
+  },
+  {
+    "satellite": "4E",
+    "frequency": "11478 V 7200",
+    "id": "ENC 3",
+    "key": "04 4E 29 7B F6 ED 70 53"
+  },
+  {
+    "satellite": "1 E",
+    "frequency": "11487 V 7200",
+    "id": "ENC 4",
+    "key": "D1 EF 33 F3 C0 1A C8 A2"
+  },
+  {
+    "satellite": "1 E",
+    "frequency": "12591 V 7200",
+    "id": "POLSAT SPORT",
+    "key": "20 26 A1 E7 12 AB CD 8A"
+  },
+  {
+    "satellite": "1 E",
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "20 26 A1 E7 12 AB CD 8A"
+  },
+  {
+    "satellite": "13.0°",
+    "frequency": "12436 V 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "12678 V 7200",
+    "id": "ENC 1",
+    "key": "1A 50 09 73 45 49 DC 6A"
+  },
+  {
+    "satellite": "0 E",
+    "frequency": "11568 V 9875",
+    "id": "ENC-27",
+    "key": "23 19 B0 EC 2E 79 DB 82"
+  },
+  {
+    "satellite": "0.8W",
+    "frequency": "11540 V 6666",
+    "id": "B115DGS",
+    "key": "11 04 20 35 26 AB C1 92"
+  },
+  {
+    "satellite": "7.0°",
+    "frequency": "11106 V 9876",
+    "id": "MXGP Main",
+    "key": "0A 45 6C BB 55 73 58 20"
+  },
+  {
+    "satellite": "1.0W",
+    "frequency": "12542 V 6658",
+    "id": "B115DGS",
+    "key": "11 04 20 35 26 AB C1 92"
   }
 ]
