@@ -1,9 +1,39 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11523 V 7500",
-        "id": "ALG005 MAIN",
+        "frequency": "11062 V 7120",
+        "id": "Pitch W6N Wales v Scotland Branded",
+        "key": "20 AD 35 02 21 C5 87 6D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 V 7200",
+        "id": "ENC 3",
+        "key": "76 D2 43 8B D6 E9 79 38"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12737 V 7200",
+        "id": "ENC 14",
+        "key": "9A B1 77 C2 82 C5 A7 EE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11181 H 7200",
+        "id": "ENC 10",
         "key": "DA FA BA 8E BA 11 04 CF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11044 V 8020",
+        "id": "Fi14_GNVE",
+        "key": "58 A9 45 46 54 56 20 CA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12728 V 7200",
+        "id": "ECC MHR vs Connacht Rugby",
+        "key": "34 BB 12 01 BB 34 BB AA"
     },
     {
         "satellite": "Eutelsat 10A  10.0E",
@@ -52,47 +82,5 @@
         "frequency": "10732 V 34000",
         "id": "SUPPONOR AFRICA 1",
         "key": "19 23 B0 EC C0 4B DB E6"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2",
-        "key": "C1 14 B6 8B 00 1A 3D 57"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "F0 92 3E C0 E4 44 A1 C9"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11273 H 7200",
-        "id": "Infront WCH SYN Salzburg AUT - Day 2",
-        "key": "D0 41 1E 2F 50 FF 25 74"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12687 V 7200",
-        "id": "ICC Glasgow Warriors vs RC Toulon",
-        "key": "34 AC 12 F2 AC 34 AC 8C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12593 V 7200",
-        "id": "Polsat Sport",
-        "key": "20 26 A1 E7 12 AB CD 8A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12573 H 7200",
-        "id": "E380 MAIN 1",
-        "key": "04 11 DD F2 EC 20 26 32"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11598 V 7200",
-        "id": "Tower OB TX3",
-        "key": "81 64 D9 BE 7B 4C D0 97"
     }
 ]
