@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 V 7120",
+    "id": "Pitch W6N Eng v Ire UNBRANDED",
+    "key": "51 57 13 BB 5D AA 39 40"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10969 V 7120",
+    "id": "W6N Eng v Ire BRANDED",
+    "key": "51 57 13 BB 5D AA 39 40"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10987 V 7120",
+    "id": "F503/RUGBY 6 NATION FRANCE ITALIE GRENOBLE/BRANDED MAIN",
+    "key": "43 92 19 EE 23 DD 2D 2D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 H 7120",
+    "id": "Pitch EFL - Sheffield Utd v Hull City",
+    "key": "86 88 AD BB 33 74 21 C8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11010 V 9875",
+    "id": "Unname",
+    "key": "F5 32 06 2D DC 06 94 76"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7120",
+    "id": "F503/RUGBY 6 NATION FRANCE ITALIE GRENOBLE/UNBRANDED MAIN",
+    "key": "43 92 19 EE 23 DD 2D 2D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11105 V 9875",
+    "id": "MXGP_Main",
+    "key": "0A 45 6C BB 55 73 58 20"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11469 V 7200",
+    "id": "ENC-13",
+    "key": "20 26 A1 E7 12 AB CD 8A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11496 V 7200",
+    "id": "ENC 2",
+    "key": "65 67 9B 67 CF F2 AB 6C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11505 V 7200",
+    "id": "ENC 7",
+    "key": "29 C5 E6 D4 57 FB 1D 6F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11514 V 7200",
+    "id": "E-073 MAIN",
+    "key": "AC BD 11 7A 04 20 26 4A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11523 V 7500",
+    "id": "ALG005 MAIN",
+    "key": "DA FA BA 8E BA 11 04 CF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11569 V 9875",
+    "id": "ENC-27",
+    "key": "23 19 B0 EC 2E 79 DB 82"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11598 V 7200",
+    "id": "Tower OB TX3",
+    "key": "81 64 D9 BE 7B 4C D0 97"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11607 V 7200",
+    "id": "Unname",
+    "key": "81 64 D9 BE 7B 4C D0 97"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12573 H 7200",
+    "id": "E380 MAIN 1",
+    "key": "04 11 DD F2 EC 20 26 32"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "20 26 A1 E7 12 AB CD 8A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12656 V 7200",
+    "id": "Fi20_GNVE",
+    "key": "D2 D1 1F C2 81 2F EE 9E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12678 V 7200",
+    "id": "ENC 1",
+    "key": "1A 50 09 73 45 49 DC 6A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 V 7200",
+    "id": "ICC Glasgow Warriors vs RC Toulon",
+    "key": "34 AC 12 F2 AC 34 AC 8C"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "F0 92 3E C0 E4 44 A1 C9"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11273 H 7200",
+    "id": "Infront WCH SYN Salzburg (AUT) - Day 2",
+    "key": "D0 41 1E 2F 50 FF 25 74"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11306 V 7200",
+    "id": "Unname",
+    "key": "AB BA 11 76 04 20 26 4A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "D4 A7 F9 74 3C 2E 81 EB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10980 H 3600",
+    "id": "F2-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10996 V 7500",
+    "id": "POL029 TVN WAW",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11005 V 7500",
+    "id": "POL020 TVN WRO",
+    "key": "77 93 52 5C 99 08 86 27"
+  }
+]
