@@ -121,6 +121,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12705 V 7200",
+    "id": "ENC 21",
+    "key": "BA C2 34 B0 DA CE E1 89"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12737 V 7200",
     "id": "ENC 14",
     "key": "9A B1 77 C2 82 C5 A7 EE"
@@ -133,15 +139,15 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11273 H 7200",
+    "frequency": "11274 H 7200",
     "id": "Infront WCH SYN Salzburg (AUT) - Day 2",
     "key": "D0 41 1E 2F 50 FF 25 74"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11305 V 7200",
-    "id": "Unname",
-    "key": "AB BA 11 76 04 20 26 4A"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10829 V 7200",
+    "id": "FIG Osijek",
+    "key": "FA 23 56 73 BF E9 98 40"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -154,6 +160,12 @@
     "frequency": "10962 H 3333",
     "id": "DEFAULT",
     "key": "D4 A7 F9 74 3C 2E 81 EB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10975 H 3600",
+    "id": "F6-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
