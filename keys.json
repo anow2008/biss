@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "1.0W",
-    "frequency": "12542 V 6658",
-    "id": "B115DGS",
-    "key": "11 04 20 35 26 AB C1 92"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "11551 V 7200",
-    "id": "E-228 Main",
-    "key": "AB BA 11 76 04 20 26 4A"
-  },
-  {
-    "satellite": "9E",
-    "frequency": "12655 V 7200",
-    "id": "Fi20_GNVE",
-    "key": "D2 D1 1F C2 81 2F EE 9E"
-  },
-  {
     "satellite": "7.0 E",
     "frequency": "11151 V 5000",
     "id": "ITA 491 BUCINTORO",
@@ -82,5 +64,23 @@
     "frequency": "11562 V 7200",
     "id": "2026 BJKC",
     "key": "04 4E 29 7B F6 ED 70 53"
+  },
+  {
+    "satellite": "21.6E",
+    "frequency": "11651 V 6666",
+    "id": "INTER DIRTY UK SAT MTP/CON",
+    "key": "A1 2B CD 99 54 DA 80 AE"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "10995 H 7120",
+    "id": "Pitch EFL - Sheffield Utd v Hull City",
+    "key": "86 88 AD BB 33 74 21 C8"
+  },
+  {
+    "satellite": "1E",
+    "frequency": "11273 V 7200",
+    "id": "Infront WCH SYN Salzburg",
+    "key": "D0 41 1E 2F 50 FF 25 74"
   }
 ]
