@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10996 V 7200",
+        "id": "WSHT ENC58",
+        "key": "54 65 68 21 E7 C8 2A D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11569 V 9875",
+        "id": "ENC-27",
+        "key": "C4 71 07 3C 3F EA 03 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12564 H 7500",
+        "id": "S4 INTER MMA PARIS",
+        "key": "AB CD 16 8E 12 AA BB 77"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "11001 V 15000",
+        "id": "POL085",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "12550 H 9875",
+        "id": "D366_RTL_DIGI_Path1",
+        "key": "AB CD 11 89 04 DC AB 8B"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "11107 H 7200",
         "id": "SOS PRINCIPAL OYONNAX VS BRIVE PRO D2",
@@ -22,59 +52,5 @@
         "frequency": "11080 H 7200",
         "id": "UPLINK ADVALEM",
         "key": "F0 08 F5 ED 76 F5 77 E2"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 1",
-        "key": "19 23 B0 EC C0 4B DB E6"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2",
-        "key": "15 60 0A 7F 64 EE C4 16"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "57 18 96 05 DA B5 8F 1E"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11065 H 14400",
-        "id": "PGM C PRO D2 OYONNAX VS BRIVE",
-        "key": "F5 77 24 90 1F EE D1 DE"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10767 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "27 AC FB CE 0B E3 85 73"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10767 V 34000",
-        "id": "SUPPONOR MENA 1",
-        "key": "BE 84 7C BE D2 EC 7D 3B"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10767 V 34000",
-        "id": "SUPPONOR EASTERN 1",
-        "key": "34 77 B9 64 7B 65 70 50"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT",
-        "key": "D4 A7 F9 74 3C 2E 81 EB"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10722 H 7200",
-        "id": "Encoder 1",
-        "key": "AD D6 4C CF 48 54 6F 0B"
     }
 ]
