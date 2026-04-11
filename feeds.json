@@ -1,9 +1,15 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11071 H 7200",
-        "id": "Service1",
+        "frequency": "12705 V 7200",
+        "id": "UFC RMC PRI",
         "key": "54 65 68 21 E7 C8 2A D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 V 7500",
+        "id": "ENC 1",
+        "key": "F1 07 45 3D E6 CB AD 5E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
@@ -34,11 +40,5 @@
         "frequency": "11107 H 7200",
         "id": "SOS PRINCIPAL OYONNAX VS BRIVE PRO D2",
         "key": "F5 76 24 8F 1F EE D5 E2"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11098 H 7200",
-        "id": "LNR UK OYONNAX VS BRIVE PRO D2",
-        "key": "F5 76 24 8F 1F EE D2 DF"
     }
 ]
