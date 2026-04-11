@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "7.0 E",
-    "frequency": "11151 V 5000",
-    "id": "ITA 491 BUCINTORO",
-    "key": "04 41 7B C0 07 B1 0D C5"
-  },
-  {
     "satellite": "9E",
     "frequency": "12655 V 7200",
     "id": "Fi20_GNVE",
@@ -82,5 +76,23 @@
     "frequency": "11273 V 7200",
     "id": "Infront WCH SYN Salzburg",
     "key": "D0 41 1E 2F 50 FF 25 74"
+  },
+  {
+    "satellite": "05 E",
+    "frequency": "12630 V 4200",
+    "id": "4K_23_MAIN",
+    "key": "FA AE CC 74 BD 22 05 E4"
+  },
+  {
+    "satellite": "26.0E",
+    "frequency": "11142 V 8800",
+    "id": "SNG 01 Chain B",
+    "key": "98 76 12 20 34 67 89 24"
+  },
+  {
+    "satellite": "26.0E",
+    "frequency": "11155 V 4400",
+    "id": "SNG 02 - Chain B",
+    "key": "98 76 67 75 89 12 34 CF"
   }
 ]
