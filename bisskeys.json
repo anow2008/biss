@@ -25,6 +25,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11053 V 7200",
+    "id": "WSHT ENC81",
+    "key": "ED DC F7 C0 DF 64 82 C5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11062 V 7120",
     "id": "Pitch W6N Wales v Scotland Branded",
     "key": "20 AD 35 02 21 C5 87 6D"
@@ -43,7 +49,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11181 H 7200",
+    "frequency": "11180 H 7200",
     "id": "ENC 10",
     "key": "DA FA BA 8E BA 11 04 CF"
   },
@@ -91,6 +97,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7200",
+    "id": "ITA 494 MAIN",
+    "key": "9A 9B 9C D1 9D 9E 9F DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12573 H 7200",
     "id": "E380 MAIN 1",
     "key": "04 11 DD F2 EC 20 26 32"
@@ -121,13 +133,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7200",
-    "id": "ECC MHR vs Connacht Rugby",
-    "key": "34 BB 12 01 BB 34 BB AA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
+    "frequency": "12736 V 7200",
     "id": "ENC 14",
     "key": "9A B1 77 C2 82 C5 A7 EE"
   },
@@ -166,17 +172,5 @@
     "frequency": "10980 H 3600",
     "id": "F2-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL029 TVN WAW",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
-    "id": "POL020 TVN WRO",
-    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
