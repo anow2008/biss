@@ -46,11 +46,5 @@
         "frequency": "10732 V 34000",
         "id": "SUPPONOR AFRICA 2",
         "key": "00 53 31 84 BD A6 5F C2"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11080 H 7200",
-        "id": "UPLINK ADVALEM",
-        "key": "F0 08 F5 ED 76 F5 77 E2"
     }
 ]
