@@ -1,41 +1,5 @@
 [
   {
-    "satellite": "45 E",
-    "frequency": "12533 V 2400",
-    "id": "OB-HD1",
-    "key": "DB BC AE 45 EF 20 05 14"
-  },
-  {
-    "satellite": "4E",
-    "frequency": "11562 V 7200",
-    "id": "2026 BJKC",
-    "key": "04 4E 29 7B F6 ED 70 53"
-  },
-  {
-    "satellite": "21.6E",
-    "frequency": "11651 V 6666",
-    "id": "INTER DIRTY UK SAT MTP/CON",
-    "key": "A1 2B CD 99 54 DA 80 AE"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "10995 H 7120",
-    "id": "Pitch EFL - Sheffield Utd v Hull City",
-    "key": "86 88 AD BB 33 74 21 C8"
-  },
-  {
-    "satellite": "1E",
-    "frequency": "11273 V 7200",
-    "id": "Infront WCH SYN Salzburg",
-    "key": "D0 41 1E 2F 50 FF 25 74"
-  },
-  {
-    "satellite": "05 E",
-    "frequency": "12630 V 4200",
-    "id": "4K_23_MAIN",
-    "key": "FA AE CC 74 BD 22 05 E4"
-  },
-  {
     "satellite": "26.0E",
     "frequency": "11142 V 8800",
     "id": "SNG 01 Chain B",
@@ -82,5 +46,29 @@
     "frequency": "12510 V 7200",
     "id": "ITA 494 MAIN",
     "key": "9A 9B 9C D1 9D 9E 9F DA"
+  },
+  {
+    "satellite": "26.0E",
+    "frequency": "11128 V 4400",
+    "id": "UAE 074- 1",
+    "key": "98 75 65 72 78 37 28 D7"
+  },
+  {
+    "satellite": "9E",
+    "frequency": "12637 V 7200",
+    "id": "Fi15_GNVE",
+    "key": "D2 D1 1F C2 81 2F EE 9E"
+  },
+  {
+    "satellite": "05 E",
+    "frequency": "12630 V 3600",
+    "id": "Unname",
+    "key": "FA AE CC 74 BD 22 05 E4"
+  },
+  {
+    "satellite": "05 E",
+    "frequency": "12630 V 4200",
+    "id": "EGY-017-main",
+    "key": "FA AE CC 74 BD 22 05 E4"
   }
 ]
