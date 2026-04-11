@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10829 V 7200",
+        "id": "FIG Osijek",
+        "key": "FA 23 56 73 BF E9 98 40"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 2",
+        "key": "00 53 31 84 BD A6 5F C2"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "19 23 B0 EC C0 4B DB E6"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "15 60 0A 7F 64 EE C4 16"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "F0 92 3E C0 E4 44 A1 C9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12705 V 7200",
+        "id": "ENC 21",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10975 H 3600",
+        "id": "F6-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11053 V 7200",
         "id": "WSHT ENC81",
@@ -40,29 +82,5 @@
         "frequency": "11044 V 8020",
         "id": "Fi14_GNVE",
         "key": "58 A9 45 46 54 56 20 CA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12728 V 7200",
-        "id": "ECC MHR vs Connacht Rugby",
-        "key": "34 BB 12 01 BB 34 BB AA"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11306 V 7200",
-        "id": "Unname",
-        "key": "AB BA 11 76 04 20 26 4A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10996 H 7120",
-        "id": "Pitch EFL - Sheffield Utd v Hull City",
-        "key": "86 88 AD BB 33 74 21 C8"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11005 V 7500",
-        "id": "POL020 TVN WRO",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
