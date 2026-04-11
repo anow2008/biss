@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10987 V 7200",
+    "id": "VOLLEY_WORLD_MAIN",
+    "key": "C9 48 1F 30 55 DC 2A 5B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11022 V 9875",
     "id": "D451_2M12_1",
     "key": "DF 36 05 1A 07 2D D2 06"
@@ -13,15 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 V 7120",
-    "id": "Pitch W6N Wales v Scotland Branded",
-    "key": "20 AD 35 02 21 C5 87 6D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 V 7120",
-    "id": "Pitch W6N Wales v Scotland Unbranded",
-    "key": "20 AD 35 02 21 C5 87 6D"
+    "frequency": "11062 H 7200",
+    "id": "ITA 790 RAI FEED VERONA",
+    "key": "7B ED 48 B0 A9 25 24 F2"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,27 +31,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11181 H 7200",
+    "frequency": "11172 H 7200",
+    "id": "EPCR",
+    "key": "6A 94 A3 A1 DB 64 0E 4D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11180 H 7200",
     "id": "ENC 10",
     "key": "DA FA BA 8E BA 11 04 CF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11469 V 7200",
-    "id": "ENC-13",
-    "key": "20 26 A1 E7 12 AB CD 8A"
+    "frequency": "11189 H 7200",
+    "id": "ENC 11",
+    "key": "DA FA BA 8E BA 11 04 CF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11496 V 7200",
     "id": "ENC 2",
     "key": "65 67 9B 67 CF F2 AB 6C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11505 V 7200",
-    "id": "ENC 7",
-    "key": "29 C5 E6 D4 57 FB 1D 6F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -73,8 +73,20 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12522 H 4938",
+    "id": "Medialink CRO-025/1",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12545 H 4938",
     "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12551 H 4938",
+    "id": "YSM-012 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -86,7 +98,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12602 V 7200",
-    "id": "POL 058_T2",
+    "id": "POL 058_T1",
     "key": "15 58 35 A2 71 42 63 16"
   },
   {
@@ -115,9 +127,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12705 V 7200",
+    "frequency": "12696 V 7200",
+    "id": "ICC Leinster v Sales Sharks",
+    "key": "34 AD 12 F3 AD 34 AD 8E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12704 V 7200",
     "id": "ENC 21",
     "key": "BA C2 34 B0 DA CE E1 89"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7200",
+    "id": "Zebre v Dragons",
+    "key": "34 AB 12 F1 AB 34 AB 8A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -127,21 +151,21 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "F0 92 3E C0 E4 44 A1 C9"
+    "frequency": "10722 H 7200",
+    "id": "Encoder 1",
+    "key": "AD D6 4C CF 48 54 6F 0B"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11274 H 7200",
-    "id": "Infront WCH SYN Salzburg (AUT) - Day 2",
-    "key": "D0 41 1E 2F 50 FF 25 74"
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "57 18 96 05 DA B5 8F 1E"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7200",
-    "id": "FIG Osijek",
-    "key": "FA 23 56 73 BF E9 98 40"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10767 V 34000",
+    "id": "SUPPONOR EASTERN 1",
+    "key": "34 77 B9 64 7B 65 70 50"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -151,8 +175,44 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10975 H 3600",
-    "id": "F6-2 4.5MH",
+    "frequency": "10962 H 3333",
+    "id": "DEFAULT",
+    "key": "D4 A7 F9 74 3C 2E 81 EB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10966 H 3333",
+    "id": "DEFAULT",
+    "key": "D4 A7 F9 74 3C 2E 81 EB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10980 H 3600",
+    "id": "F2-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11065 H 14400",
+    "id": "PGM C+ PRO D2 OYONNAX VS BRIVE",
+    "key": "F5 77 24 90 1F EE D1 DE"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11080 H 7200",
+    "id": "UPLINK ADVALEM",
+    "key": "F0 08 F5 ED 76 F5 77 E2"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11098 H 7200",
+    "id": "LNR UK OYONNAX VS BRIVE PRO D2",
+    "key": "F5 76 24 8F 1F EE D2 DF"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11107 H 7200",
+    "id": "SOS PRINCIPAL OYONNAX VS BRIVE PRO D2",
+    "key": "F5 76 24 8F 1F EE D5 E2"
   }
 ]
