@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12647 V 7200",
+        "id": "E-289",
+        "key": "25 8D 25 D7 D8 43 A3 BE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12638 V 7200",
+        "id": "Fi15_GNVE",
+        "key": "D2 D1 1F C2 81 2F EE 9E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10962 H 9875",
+        "id": "OER/F33/1/ROUBAIX",
+        "key": "5F 43 20 C2 85 72 29 20"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12678 H 7200",
         "id": "HBL",
         "key": "20 26 AB F1 DC 11 04 F1"
