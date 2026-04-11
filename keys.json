@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "7.0E",
-    "frequency": "12685 V 7200",
-    "id": "ICC Glasgow Warriors vs RC Toulon",
-    "key": "34 AC 12 F2 AC 34 AC 8C"
-  },
-  {
-    "satellite": "1E",
-    "frequency": "11273 H 7200",
-    "id": "Infront WCH SYN Salzburg",
-    "key": "D0 41 1E 2F 50 FF 25 74"
-  },
-  {
-    "satellite": "7.0E",
-    "frequency": "10982 H 14400",
-    "id": "Fi 13",
-    "key": "BA F5 48 F7 1C 5F 4C C7"
-  },
-  {
     "satellite": "45 E",
     "frequency": "12533 V 2400",
     "id": "OB-HD1",
@@ -94,5 +76,11 @@
     "frequency": "12610 V 7200",
     "id": "POL-102 MAIN",
     "key": "D0 41 1E 2F 50 FF 25 74"
+  },
+  {
+    "satellite": "9E",
+    "frequency": "12510 V 7200",
+    "id": "ITA 494 MAIN",
+    "key": "9A 9B 9C D1 9D 9E 9F DA"
   }
 ]
