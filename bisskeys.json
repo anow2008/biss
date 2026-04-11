@@ -7,9 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 9875",
-    "id": "D451_2M12_1",
-    "key": "DF 36 05 1A 07 2D D2 06"
+    "frequency": "10996 V 7200",
+    "id": "WSHT ENC58",
+    "key": "54 65 68 21 E7 C8 2A D9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,27 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "ITA 790 RAI FEED VERONA",
-    "key": "7B ED 48 B0 A9 25 24 F2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11162 H 7200",
-    "id": "E-228 Main",
-    "key": "AA BB 20 85 26 04 11 3B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11172 H 7200",
+    "frequency": "11171 H 7200",
     "id": "EPCR",
     "key": "6A 94 A3 A1 DB 64 0E 4D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11180 H 7200",
-    "id": "ENC 10",
-    "key": "DA FA BA 8E BA 11 04 CF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,21 +31,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11496 V 7200",
-    "id": "ENC 2",
-    "key": "65 67 9B 67 CF F2 AB 6C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11514 V 7200",
     "id": "ENC 8",
     "key": "DE 12 CA BA 82 AB 73 A0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7500",
-    "id": "ALG005 MAIN",
-    "key": "DA FA BA 8E BA 11 04 CF"
+    "frequency": "11569 V 9875",
+    "id": "ENC-27",
+    "key": "C4 71 07 3C 3F EA 03 2C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -91,9 +67,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12573 H 7200",
-    "id": "E380 MAIN 1",
-    "key": "04 11 DD F2 EC 20 26 32"
+    "frequency": "12564 H 7500",
+    "id": "S4 INTER MMA PARIS",
+    "key": "AB CD 16 8E 12 AA BB 77"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -115,12 +91,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 H 7200",
-    "id": "HBL",
-    "key": "20 26 AB F1 DC 11 04 F1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12678 V 7200",
     "id": "ENC 3",
     "key": "76 D2 43 8B D6 E9 79 38"
@@ -133,21 +103,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12704 V 7200",
+    "frequency": "12705 V 7200",
     "id": "ENC 21",
     "key": "BA C2 34 B0 DA CE E1 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7200",
+    "frequency": "12728 V 7200",
     "id": "Zebre v Dragons",
     "key": "34 AB 12 F1 AB 34 AB 8A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12737 V 7200",
-    "id": "ENC 14",
-    "key": "9A B1 77 C2 82 C5 A7 EE"
+    "id": "UFC 327 : All Fights",
+    "key": "54 65 68 21 E7 C8 2A D9"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -193,6 +163,12 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11001 V 15000",
+    "id": "POL085",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11065 H 14400",
     "id": "PGM C+ PRO D2 OYONNAX VS BRIVE",
     "key": "F5 77 24 90 1F EE D1 DE"
@@ -214,5 +190,11 @@
     "frequency": "11107 H 7200",
     "id": "SOS PRINCIPAL OYONNAX VS BRIVE PRO D2",
     "key": "F5 76 24 8F 1F EE D5 E2"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12550 H 9875",
+    "id": "D366_RTL_DIGI_Path1",
+    "key": "AB CD 11 89 04 DC AB 8B"
   }
 ]
