@@ -1,24 +1,6 @@
 [
   {
     "satellite": "7 E",
-    "frequency": "10959 H 7120",
-    "id": "EFL - West Brom v Millwall",
-    "key": "B7 B7 E4 52 23 07 47 71"
-  },
-  {
-    "satellite": "7E",
-    "frequency": "11190 V 7200",
-    "id": "N/A",
-    "key": "FA D4 BA 88 BA 10 04 CE"
-  },
-  {
-    "satellite": "9E",
-    "frequency": "11096 V 7199",
-    "id": "F489 MAIN",
-    "key": "3B DE 85 9E 63 28 D2 5D"
-  },
-  {
-    "satellite": "7 E",
     "frequency": "10959 V 7120",
     "id": "N/A",
     "key": "B7 B7 E4 52 23 07 47 71"
@@ -112,5 +94,23 @@
     "frequency": "12542 V 6658",
     "id": "B115DGS",
     "key": "11 04 20 35 26 AB C1 92"
+  },
+  {
+    "satellite": "7.0E",
+    "frequency": "11551 V 7200",
+    "id": "E-228 Main",
+    "key": "AB BA 11 76 04 20 26 4A"
+  },
+  {
+    "satellite": "9E",
+    "frequency": "12655 V 7200",
+    "id": "Fi20_GNVE",
+    "key": "D2 D1 1F C2 81 2F EE 9E"
+  },
+  {
+    "satellite": "7.0 E",
+    "frequency": "11151 V 5000",
+    "id": "ITA 491 BUCINTORO",
+    "key": "04 41 7B C0 07 B1 0D C5"
   }
 ]
