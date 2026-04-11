@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 H 7200",
+        "id": "HBL",
+        "key": "20 26 AB F1 DC 11 04 F1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12545 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11514 V 7200",
+        "id": "ENC 8",
+        "key": "DE 12 CA BA 82 AB 73 A0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11022 V 9875",
+        "id": "D451_2M12_1",
+        "key": "DF 36 05 1A 07 2D D2 06"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12602 V 7200",
+        "id": "POL 058_T2",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11162 H 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 04 11 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11018 H 14400",
+        "id": "GVA_Fi07",
+        "key": "36 5F 11 A6 12 4A 6D C9"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
         "frequency": "10829 V 7200",
         "id": "FIG Osijek",
@@ -40,47 +82,5 @@
         "frequency": "10975 H 3600",
         "id": "F6-2 4.5MH",
         "key": "20 25 AE F3 EA 52 02 3E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11053 V 7200",
-        "id": "WSHT ENC81",
-        "key": "ED DC F7 C0 DF 64 82 C5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12511 V 7200",
-        "id": "ITA 494 MAIN",
-        "key": "9A 9B 9C D1 9D 9E 9F DA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11062 V 7120",
-        "id": "Pitch W6N Wales v Scotland Branded",
-        "key": "20 AD 35 02 21 C5 87 6D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12678 V 7200",
-        "id": "ENC 3",
-        "key": "76 D2 43 8B D6 E9 79 38"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12737 V 7200",
-        "id": "ENC 14",
-        "key": "9A B1 77 C2 82 C5 A7 EE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11181 H 7200",
-        "id": "ENC 10",
-        "key": "DA FA BA 8E BA 11 04 CF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11044 V 8020",
-        "id": "Fi14_GNVE",
-        "key": "58 A9 45 46 54 56 20 CA"
     }
 ]
