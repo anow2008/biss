@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12593 V 7200",
+        "id": "POL-080 MAIN",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
         "satellite": "Eutelsat 10A  10.0E",
         "frequency": "10722 H 7200",
         "id": "Encoder 2",
@@ -94,17 +100,5 @@
         "frequency": "11523 V 7200",
         "id": "ENC 3",
         "key": "C2 54 C2 D8 A4 26 B5 7F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11053 V 7200",
-        "id": "WSHT ENC81",
-        "key": "ED DC F7 C0 DF 64 82 C5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12516 H 4938",
-        "id": "Medialink CRO-025/1",
-        "key": "AB BA 20 85 25 20 26 6B"
     }
 ]
