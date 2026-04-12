@@ -1,7 +1,49 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11172 H 7200",
+        "id": "EPCR",
+        "key": "6A 94 A3 A1 DB 64 0E 4D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12737 V 7200",
+        "id": "ENC 2",
+        "key": "FC 66 67 C9 4E AD C5 C0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11569 V 9875",
+        "id": "ENC-27",
+        "key": "78 1F A2 39 FE C7 83 48"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11105 V 9875",
+        "id": "MXGP_Main",
+        "key": "0A 45 6C BB 55 73 58 20"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12565 H 7200",
+        "id": "Mediapro Portugal",
+        "key": "AB BA 12 77 04 20 26 4A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11106 H 7200",
+        "id": "Fi01 ACB",
+        "key": "D7 88 5F BE AE 23 52 23"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10962 H 3333",
+        "frequency": "10976 H 3600",
+        "id": "F5-1 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10966 H 3333",
         "id": "DEFAULT",
         "key": "D4 A7 F9 74 3C 2E 81 EB"
     },
@@ -40,35 +82,5 @@
         "frequency": "11005 H 7200",
         "id": "Fi12_GNVE",
         "key": "A2 0B 02 AF B0 C0 2A 9A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11097 H 7200",
-        "id": "POR 24",
-        "key": "F8 50 33 7B C8 07 0A D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11190 H 7200",
-        "id": "UZB 0001",
-        "key": "00 10 BA CA A4 98 3C 78"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12629 V 7200",
-        "id": "GVA_Fi05",
-        "key": "D3 AF 40 C2 C7 75 76 B2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12574 H 7200",
-        "id": "E380 MAIN 1",
-        "key": "04 11 DD F2 EC 20 26 32"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "10961 H 9875",
-        "id": "OER/F33/1/ROUBAIX",
-        "key": "5F 43 20 C2 85 72 29 20"
     }
 ]
