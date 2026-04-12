@@ -25,12 +25,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11089 H 7120",
-    "id": "Pitch Vertu Trophy Final - Stockport v Luton",
-    "key": "44 B6 2D 27 47 AD 55 49"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11098 H 7200",
     "id": "POR 24",
     "key": "F8 50 33 7B C8 07 0A D9"
@@ -55,25 +49,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7200",
-    "id": "ENC 3",
-    "key": "C2 54 C2 D8 A4 26 B5 7F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11553 V 7200",
-    "id": "E-228 Main",
-    "key": "AA AA 12 66 04 BB BB 7A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11582 H 7200",
     "id": "SLO-008 Tx 1",
     "key": "F4 8F D9 5C 26 72 B4 4C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11590 H 7200",
+    "frequency": "11591 H 7200",
     "id": "POL 058_T1",
     "key": "F4 3D 4C 7D E2 C6 36 DE"
   },
@@ -88,6 +70,12 @@
     "frequency": "12516 H 4938",
     "id": "Medialink CRO-025/1",
     "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "POL-080 MAIN",
+    "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
