@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 2",
+        "key": "34 9D 5B 2C D1 FD 09 D7"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "2D 32 AE 0D 63 50 AC 5F"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "50 7B BC 87 07 68 86 F5"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "85 29 4F FD 6D C1 7A A8"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12736 V 7200",
         "id": "ENC 10",
@@ -76,29 +100,5 @@
         "frequency": "11484 H 7200",
         "id": "NLFLEV_HOL328-3",
         "key": "7B FD 38 B0 B3 B8 97 02"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 2",
-        "key": "34 9D 5B 2C D1 FD 09 D7"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "2D 32 AE 0D 63 50 AC 5F"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2",
-        "key": "73 3E B8 69 F8 B8 E6 96"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "85 29 4F FD 6D C1 7A A8"
     }
 ]
