@@ -1,6 +1,72 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11591 H 7200",
+        "id": "POL 058_T1",
+        "key": "F4 3D 4C 7D E2 C6 36 DE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11582 H 7200",
+        "id": "SLO-008 Tx 1",
+        "key": "F4 8F D9 5C 26 72 B4 4C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11484 H 7200",
+        "id": "NLFLEV_HOL328-3",
+        "key": "7B FD 38 B0 B3 B8 97 02"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 2",
+        "key": "34 9D 5B 2C D1 FD 09 D7"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "2D 32 AE 0D 63 50 AC 5F"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "73 3E B8 69 F8 B8 E6 96"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "85 29 4F FD 6D C1 7A A8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11475 H 7200",
+        "id": "TV2NO-BER",
+        "key": "92 74 94 9A 6C F6 53 B5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11062 H 7200",
+        "id": "Studioline Main",
+        "key": "70 B1 02 23 05 2C A4 D5"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10974 V 9600",
+        "id": "POL-78 ENC 1",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11010 H 9875",
+        "id": "GVA_Fi04",
+        "key": "25 92 D3 8A CC D7 71 14"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12656 V 7200",
         "id": "Fi16_GNVE",
         "key": "D3 AF 40 C2 C7 75 76 B2"
@@ -40,35 +106,5 @@
         "frequency": "11553 V 7200",
         "id": "E-228 Main",
         "key": "AA AA 12 66 04 BB BB 7A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12696 V 7200",
-        "id": "ICC UBB v Stade Toulousain",
-        "key": "34 AB 12 F1 AB 34 AB 8A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11088 H 7120",
-        "id": "Pitch Vertu Trophy Final - Stockport v Luton",
-        "key": "44 B6 2D 27 47 AD 55 49"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11021 H 9875",
-        "id": "GVA_Fi03",
-        "key": "10 B3 EB AE 88 99 13 34"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12677 H 7200",
-        "id": "HBL",
-        "key": "20 26 AB F1 DC 12 04 F2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11181 H 7200",
-        "id": "E-72 MAIN",
-        "key": "AB 12 04 C1 20 26 AB F1"
     }
 ]
