@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12696 V 7200",
+        "id": "ICC UBB v Stade Toulousain",
+        "key": "34 AB 12 F1 AB 34 AB 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11088 H 7120",
         "id": "Pitch Vertu Trophy Final - Stockport v Luton",
         "key": "44 B6 2D 27 47 AD 55 49"
