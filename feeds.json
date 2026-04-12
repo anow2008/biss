@@ -88,11 +88,5 @@
         "frequency": "12678 V 7500",
         "id": "ENC-13",
         "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11591 H 7200",
-        "id": "POL 058_T1",
-        "key": "F4 3D 4C 7D E2 C6 36 DE"
     }
 ]
