@@ -7,27 +7,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11079 H 7120",
-    "id": "Pitch Birmingham v Wrexham",
-    "key": "C4 CC 35 C5 34 94 0D D5"
+    "frequency": "11021 H 9875",
+    "id": "GVA_Fi03",
+    "key": "10 B3 EB AE 88 99 13 34"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11088 H 7120",
+    "id": "Pitch Vertu Trophy Final - Stockport v Luton",
+    "key": "44 B6 2D 27 47 AD 55 49"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11097 H 7200",
     "id": "POR 24",
     "key": "F8 50 33 7B C8 07 0A D9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 V 9875",
-    "id": "MXGP_Main",
-    "key": "0A 45 6C BB 55 73 58 20"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11106 H 7200",
-    "id": "Fi01 ACB",
-    "key": "D7 88 5F BE AE 23 52 23"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,18 +37,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11190 H 7200",
-    "id": "UZB 0001",
-    "key": "00 10 BA CA A4 98 3C 78"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11569 V 9875",
-    "id": "ENC-27",
-    "key": "E5 13 57 4F F6 44 B8 F2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12574 H 7200",
     "id": "E380 MAIN 1",
     "key": "04 11 DD F2 EC 20 26 32"
@@ -67,13 +49,19 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 H 7200",
+    "id": "HBL",
+    "key": "20 26 AB F1 DC 12 04 F2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12737 V 7200",
     "id": "ENC 2",
     "key": "FC 66 67 C9 4E AD C5 C0"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10733 V 34000",
+    "frequency": "10732 V 34000",
     "id": "OVERON 1",
     "key": "08 05 B6 C3 B1 FA CF 7A"
   },
