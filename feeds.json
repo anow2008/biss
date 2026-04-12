@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11569 V 9875",
+        "id": "ENC-27",
+        "key": "E5 13 57 4F F6 44 B8 F2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11079 H 7120",
         "id": "Pitch Birmingham v Wrexham",
         "key": "C4 CC 35 C5 34 94 0D D5"
@@ -34,29 +40,5 @@
         "frequency": "12565 H 7200",
         "id": "Mediapro Portugal",
         "key": "AB BA 12 77 04 20 26 4A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11106 H 7200",
-        "id": "Fi01 ACB",
-        "key": "D7 88 5F BE AE 23 52 23"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10976 H 3600",
-        "id": "F5-1 4.5MH",
-        "key": "20 25 AE F3 EA 52 02 3E"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10966 H 3333",
-        "id": "DEFAULT",
-        "key": "D4 A7 F9 74 3C 2E 81 EB"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 2",
-        "key": "34 9D 5B 2C D1 FD 09 D7"
     }
 ]
