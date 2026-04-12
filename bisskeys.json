@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 H 9875",
-    "id": "GVA_Fi03",
-    "key": "86 F9 89 08 AD 04 5F 10"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11053 V 7200",
     "id": "WSHT ENC81",
     "key": "ED DC F7 C0 DF 64 82 C5"
@@ -19,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 H 7200",
-    "id": "Fi01 ACB",
-    "key": "D7 88 5F BE AE 23 52 23"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11180 H 7200",
     "id": "ENC 10",
     "key": "DA F3 BA 87 BA 12 04 D0"
@@ -34,12 +22,6 @@
     "frequency": "11189 H 7200",
     "id": "TUN004 MAI",
     "key": "DA F3 BA 87 BA 12 04 D0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11475 H 7200",
-    "id": "TV2NO-BER",
-    "key": "92 74 94 9A 6C F6 53 B5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -66,10 +48,10 @@
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10722 H 7200",
-    "id": "Encoder 2",
-    "key": "D9 D2 A2 4D 2F 99 C9 91"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 10",
+    "key": "F3 E1 B5 89 D2 A5 6F E6"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -85,14 +67,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-78 ENC 1",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-141 ENC1",
+    "frequency": "10973 V 9600",
+    "id": "POL-10 ENC2",
     "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
