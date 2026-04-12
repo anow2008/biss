@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11189 H 7200",
+        "id": "TUN004 MAI",
+        "key": "DA F3 BA 87 BA 12 04 D0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12728 V 7200",
+        "id": "SLQ-006 MAIN",
+        "key": "A1 B4 BB 10 32 DA CA D6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11022 H 9875",
+        "id": "GVA_Fi03",
+        "key": "86 F9 89 08 AD 04 5F 10"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12593 V 7200",
         "id": "POL-080 MAIN",
         "key": "15 58 35 A2 71 42 63 16"
@@ -82,23 +100,5 @@
         "frequency": "10974 V 9600",
         "id": "POL-78 ENC 1",
         "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11010 H 9875",
-        "id": "GVA_Fi04",
-        "key": "25 92 D3 8A CC D7 71 14"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12656 V 7200",
-        "id": "Fi16_GNVE",
-        "key": "D3 AF 40 C2 C7 75 76 B2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11523 V 7200",
-        "id": "ENC 3",
-        "key": "C2 54 C2 D8 A4 26 B5 7F"
     }
 ]
