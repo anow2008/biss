@@ -94,11 +94,5 @@
         "frequency": "11582 H 7200",
         "id": "SLO-008 Tx 1",
         "key": "F4 8F D9 5C 26 72 B4 4C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11484 H 7200",
-        "id": "NLFLEV_HOL328-3",
-        "key": "7B FD 38 B0 B3 B8 97 02"
     }
 ]
