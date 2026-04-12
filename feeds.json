@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11088 H 7120",
+        "id": "Pitch Vertu Trophy Final - Stockport v Luton",
+        "key": "44 B6 2D 27 47 AD 55 49"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11021 H 9875",
+        "id": "GVA_Fi03",
+        "key": "10 B3 EB AE 88 99 13 34"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12677 H 7200",
+        "id": "HBL",
+        "key": "20 26 AB F1 DC 12 04 F2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11181 H 7200",
         "id": "E-72 MAIN",
         "key": "AB 12 04 C1 20 26 AB F1"
@@ -16,23 +34,5 @@
         "frequency": "11079 H 7120",
         "id": "Pitch Birmingham v Wrexham",
         "key": "C4 CC 35 C5 34 94 0D D5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11172 H 7200",
-        "id": "EPCR",
-        "key": "6A 94 A3 A1 DB 64 0E 4D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12737 V 7200",
-        "id": "ENC 2",
-        "key": "FC 66 67 C9 4E AD C5 C0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11569 V 9875",
-        "id": "ENC-27",
-        "key": "78 1F A2 39 FE C7 83 48"
     }
 ]
