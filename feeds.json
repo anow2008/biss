@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12656 V 7200",
+        "id": "Fi16_GNVE",
+        "key": "D3 AF 40 C2 C7 75 76 B2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11523 V 7200",
+        "id": "ENC 3",
+        "key": "C2 54 C2 D8 A4 26 B5 7F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11053 V 7200",
+        "id": "WSHT ENC81",
+        "key": "ED DC F7 C0 DF 64 82 C5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12516 H 4938",
+        "id": "Medialink CRO-025/1",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12633 H 5000",
+        "id": "DZ TDA",
+        "key": "20 26 FA 40 CB 13 15 F3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12602 V 7200",
+        "id": "Polsat Sport",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11553 V 7200",
+        "id": "E-228 Main",
+        "key": "AA AA 12 66 04 BB BB 7A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12696 V 7200",
         "id": "ICC UBB v Stade Toulousain",
         "key": "34 AB 12 F1 AB 34 AB 8A"
@@ -28,17 +70,5 @@
         "frequency": "11181 H 7200",
         "id": "E-72 MAIN",
         "key": "AB 12 04 C1 20 26 AB F1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11569 V 9875",
-        "id": "ENC-27",
-        "key": "E5 13 57 4F F6 44 B8 F2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11079 H 7120",
-        "id": "Pitch Birmingham v Wrexham",
-        "key": "C4 CC 35 C5 34 94 0D D5"
     }
 ]
