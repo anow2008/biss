@@ -1,44 +1,74 @@
 [
     {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12705 V 7200",
-        "id": "UFC RMC PRI",
-        "key": "54 65 68 21 E7 C8 2A D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12678 V 7500",
-        "id": "ENC 1",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11569 V 9875",
-        "id": "ENC-27",
-        "key": "C4 71 07 3C 3F EA 03 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12564 H 7500",
-        "id": "S4 INTER MMA PARIS",
-        "key": "AB CD 16 8E 12 AA BB 77"
-    },
-    {
         "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11001 V 15000",
-        "id": "POL085",
-        "key": "77 93 52 5C 99 08 86 27"
+        "frequency": "10962 H 3333",
+        "id": "DEFAULT",
+        "key": "D4 A7 F9 74 3C 2E 81 EB"
     },
     {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "12550 H 9875",
-        "id": "D366_RTL_DIGI_Path1",
-        "key": "AB CD 11 89 04 DC AB 8B"
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 2",
+        "key": "34 9D 5B 2C D1 FD 09 D7"
     },
     {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "11107 H 7200",
-        "id": "SOS PRINCIPAL OYONNAX VS BRIVE PRO D2",
-        "key": "F5 76 24 8F 1F EE D5 E2"
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "2D 32 AE 0D 63 50 AC 5F"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "73 3E B8 69 F8 B8 E6 96"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "08 05 B6 C3 B1 FA CF 7A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11005 H 7200",
+        "id": "Fi12_GNVE",
+        "key": "A2 0B 02 AF B0 C0 2A 9A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11097 H 7200",
+        "id": "POR 24",
+        "key": "F8 50 33 7B C8 07 0A D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11190 H 7200",
+        "id": "UZB 0001",
+        "key": "00 10 BA CA A4 98 3C 78"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12629 V 7200",
+        "id": "GVA_Fi05",
+        "key": "D3 AF 40 C2 C7 75 76 B2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12574 H 7200",
+        "id": "E380 MAIN 1",
+        "key": "04 11 DD F2 EC 20 26 32"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10961 H 9875",
+        "id": "OER/F33/1/ROUBAIX",
+        "key": "5F 43 20 C2 85 72 29 20"
     }
 ]
