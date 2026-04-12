@@ -7,6 +7,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11079 H 7120",
+    "id": "Pitch Birmingham v Wrexham",
+    "key": "C4 CC 35 C5 34 94 0D D5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11097 H 7200",
     "id": "POR 24",
     "key": "F8 50 33 7B C8 07 0A D9"
@@ -34,6 +40,12 @@
     "frequency": "11190 H 7200",
     "id": "UZB 0001",
     "key": "00 10 BA CA A4 98 3C 78"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11569 V 9875",
+    "id": "ENC-27",
+    "key": "E5 13 57 4F F6 44 B8 F2"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -70,23 +82,5 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10962 H 3333",
-    "id": "DEFAULT",
-    "key": "D4 A7 F9 74 3C 2E 81 EB"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10966 H 3333",
-    "id": "DEFAULT",
-    "key": "D4 A7 F9 74 3C 2E 81 EB"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 H 3600",
-    "id": "F5-1 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
   }
 ]
