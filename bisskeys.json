@@ -37,9 +37,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 V 9875",
-    "id": "MXGP_Main",
-    "key": "0A 45 6C BB 55 73 58 20"
+    "frequency": "11107 H 7200",
+    "id": "Fi01 ACB",
+    "key": "D7 88 5F BE AE 23 52 23"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -73,9 +73,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11591 H 7200",
+    "frequency": "11590 H 7200",
     "id": "POL 058_T1",
     "key": "F4 3D 4C 7D E2 C6 36 DE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7200",
+    "id": "ENC 7",
+    "key": "88 77 54 53 56 35 48 D3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -91,21 +97,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12629 V 7200",
-    "id": "GVA_Fi05",
-    "key": "D3 AF 40 C2 C7 75 76 B2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12656 V 7200",
     "id": "Fi16_GNVE",
     "key": "D3 AF 40 C2 C7 75 76 B2"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12678 V 7500",
+    "id": "ENC-13",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12696 V 7200",
     "id": "ICC UBB v Stade Toulousain",
     "key": "34 AB 12 F1 AB 34 AB 8A"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10722 H 7200",
+    "id": "Encoder 2",
+    "key": "D9 D2 A2 4D 2F 99 C9 91"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
