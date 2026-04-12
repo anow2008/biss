@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10722 H 7200",
+        "id": "Encoder 2",
+        "key": "D9 D2 A2 4D 2F 99 C9 91"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12510 V 7200",
+        "id": "ENC 7",
+        "key": "88 77 54 53 56 35 48 D3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12678 V 7500",
+        "id": "ENC-13",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11591 H 7200",
         "id": "POL 058_T1",
@@ -88,23 +106,5 @@
         "frequency": "12516 H 4938",
         "id": "Medialink CRO-025/1",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12633 H 5000",
-        "id": "DZ TDA",
-        "key": "20 26 FA 40 CB 13 15 F3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12602 V 7200",
-        "id": "Polsat Sport",
-        "key": "15 58 35 A2 71 42 63 16"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11553 V 7200",
-        "id": "E-228 Main",
-        "key": "AA AA 12 66 04 BB BB 7A"
     }
 ]
