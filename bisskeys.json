@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10962 H 9875",
-    "id": "OER/F33/1/ROUBAIX",
-    "key": "5F 43 20 C2 85 72 29 20"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11010 H 9875",
-    "id": "GVA_Fi04",
-    "key": "25 92 D3 8A CC D7 71 14"
+    "frequency": "11022 H 9875",
+    "id": "GVA_Fi03",
+    "key": "86 F9 89 08 AD 04 5F 10"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -25,15 +19,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11098 H 7200",
-    "id": "POR 24",
-    "key": "F8 50 33 7B C8 07 0A D9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11107 H 7200",
     "id": "Fi01 ACB",
     "key": "D7 88 5F BE AE 23 52 23"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11189 H 7200",
+    "id": "TUN004 MAI",
+    "key": "DA F3 BA 87 BA 12 04 D0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,13 +43,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11582 H 7200",
-    "id": "SLO-008 Tx 1",
-    "key": "F4 8F D9 5C 26 72 B4 4C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11591 H 7200",
+    "frequency": "11590 H 7200",
     "id": "POL 058_T1",
     "key": "F4 3D 4C 7D E2 C6 36 DE"
   },
@@ -64,12 +52,6 @@
     "frequency": "12510 V 7200",
     "id": "ENC 7",
     "key": "88 77 54 53 56 35 48 D3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
-    "id": "Medialink CRO-025/1",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -96,12 +78,6 @@
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12696 V 7200",
-    "id": "ICC UBB v Stade Toulousain",
-    "key": "34 AB 12 F1 AB 34 AB 8A"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10722 H 7200",
     "id": "Encoder 2",
@@ -115,7 +91,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
+    "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -123,6 +99,12 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10974 V 9600",
     "id": "POL-78 ENC 1",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL-141 ENC1",
     "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
