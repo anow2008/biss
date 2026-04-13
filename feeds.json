@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "10847 V 7500",
+        "id": "DT SNG 2 MAIN",
+        "key": "81 FE 78 F7 C9 8E 82 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11023 H 7200",
+        "id": "Main SAUDI015",
+        "key": "5B 5C F7 AE 87 37 94 52"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11544 V 7200",
+        "id": "OVERON E-457 V1",
+        "key": "20 23 DD 20 AA 20 22 EC"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12629 V 7200",
         "id": "SAU-031 B",
@@ -34,11 +52,5 @@
         "frequency": "12633 H 5000",
         "id": "DZ TDA",
         "key": "20 26 FA 40 CB 13 15 F3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11514 V 7500",
-        "id": "AFD",
-        "key": "27 41 A1 09 89 C1 AD F7"
     }
 ]
