@@ -1,26 +1,26 @@
 [
   {
-    "satellite": "0°E",
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11514 V 7500",
-    "id": "N/A",
+    "id": "AFD",
     "key": "27 41 A1 09 89 C1 AD F7"
   },
   {
-    "satellite": "0°E",
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
-    "id": "N/A",
+    "id": "ENC 2",
     "key": "C1 78 18 51 82 28 29 D3E"
   },
   {
-    "satellite": "0°E",
+    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
-    "id": "N/A",
+    "id": "OVERON 1",
     "key": "89 86 6C 7B 7E 4C 83 4DE"
   },
   {
-    "satellite": "0°E",
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
-    "id": "N/A",
+    "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   }
 ]
