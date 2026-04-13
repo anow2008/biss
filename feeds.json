@@ -52,23 +52,5 @@
         "frequency": "10732 V 34000",
         "id": "OVERON 2",
         "key": "50 7B BC 87 07 68 86 F5"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "85 29 4F FD 6D C1 7A A8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 10",
-        "key": "F3 E1 B5 89 D2 A5 6F E6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11180 H 7200",
-        "id": "ENC 10",
-        "key": "DA F3 BA 87 BA 12 04 D0"
     }
 ]
