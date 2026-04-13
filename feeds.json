@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "10722 H 7200",
+        "id": "Encoder 3",
+        "key": "5C D7 48 7B B4 DA FD 8B"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12551 H 4938",
         "id": "Medialink CRO-025/1",
@@ -46,11 +52,5 @@
         "frequency": "12629 V 7200",
         "id": "SAU-031 B",
         "key": "7B 49 99 5D 4D 19 9F 05"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11061 H 7200",
-        "id": "SAU-030-M",
-        "key": "EC 94 B6 36 A8 56 E2 E0"
     }
 ]
