@@ -1,15 +1,27 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11014 H 7200",
-        "id": "UAE065B",
-        "key": "96 DF 25 9A 81 03 7D 01"
+        "frequency": "12551 H 4938",
+        "id": "Medialink CRO-025/1",
+        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12522 H 4938",
-        "id": "MNE-001 main",
-        "key": "AB BA 20 85 25 20 26 6B"
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "07 BB 01 C3 AE 26 CF A3"
+    },
+    {
+        "satellite": "Eutelsat 10A  10.0E",
+        "frequency": "11305 V 7200",
+        "id": "E-228 Main",
+        "key": "CA CA 20 B4 20 CA CA B4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11014 H 7200",
+        "id": "UAE065B",
+        "key": "96 DF 25 9A 81 03 7D 01"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
@@ -40,23 +52,5 @@
         "frequency": "11061 H 7200",
         "id": "SAU-030-M",
         "key": "EC 94 B6 36 A8 56 E2 E0"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "CF BF 7E 0C E4 BA 33 D1"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "89 86 6C 7B 7E 4C 83 4D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
     }
 ]
