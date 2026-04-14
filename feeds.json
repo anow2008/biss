@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11022 H 9875",
+        "id": "GVA_Fi01_stadium_HL",
+        "key": "46 EC BD EF 61 25 4E D4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11089 H 7120",
         "id": "Pitch Southampton v Blackburn R",
         "key": "92 43 CC A1 14 A3 15 CC"
