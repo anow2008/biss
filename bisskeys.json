@@ -1,8 +1,44 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "satellite": "7.0°E",
     "frequency": "10983 H 4820",
     "id": "E467 feed B2",
-    "key": "11 8D C7 65 5E 4D AE 59"
+    "key": "118DC7655E4DAE59"
+  },
+  {
+    "satellite": "7.0°E",
+    "frequency": "10989 H 4820",
+    "id": "Unname",
+    "key": "118DC7655E4DAE59"
+  },
+  {
+    "satellite": "7.0°E",
+    "frequency": "11022 H 9875",
+    "id": "GVA_Fi01_matchnight_HL",
+    "key": "118DC7655E4DAE59"
+  },
+  {
+    "satellite": "7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "OVERON E-457 V1",
+    "key": "76716148618813FC"
+  },
+  {
+    "satellite": "7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 21",
+    "key": "123CAAF81422A3D9"
+  },
+  {
+    "satellite": "10.0°E",
+    "frequency": "10768 V 34000",
+    "id": "OCC 1",
+    "key": "2AD2E5E1C4FFF9BC"
+  },
+  {
+    "satellite": "13.0°E",
+    "frequency": "12437 H 27500",
+    "id": "FEED 2",
+    "key": "1234569C7891232C"
   }
 ]
