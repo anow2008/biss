@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12573 H 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "20 25 AB F0 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12638 V 7200",
+        "id": "Fi15_GNVE",
+        "key": "D4 B8 BD 49 D4 A2 12 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11070 V 7120",
+        "id": "Pitch WWQC England V Spain",
+        "key": "DD EE 45 10 AF 14 04 C7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11079 V 7120",
         "id": "WWCQ Sweden V Denmark",
         "key": "34 AA BC 9A D8 14 04 F0"
@@ -40,17 +58,5 @@
         "frequency": "12737 V 7200",
         "id": "ENC 2",
         "key": "DA 26 BD BD 68 AC 28 3C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11048 V 17140",
-        "id": "Canal Plus Anfield Main",
-        "key": "47 65 8C 38 8F B4 B6 F9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11107 H 7200",
-        "id": "Main SAUDI015",
-        "key": "B8 A8 40 A0 98 B6 63 B1"
     }
 ]
