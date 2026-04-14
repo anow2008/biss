@@ -1,6 +1,24 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10983 H 4820",
+    "id": "E467 feed B2",
+    "key": "11 8D C7 65 5E 4D AE 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 H 7200",
+    "id": "Main SAUDI015",
+    "key": "B8 A8 40 A0 98 B6 63 B1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12511 V 7200",
+    "id": "POL-102   MAIN",
+    "key": "AB 14 CD 8C 04 20 26 4A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12633 H 5000",
     "id": "DZ TDA",
     "key": "20 26 FA 40 CB 13 15 F3E"
@@ -13,14 +31,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10971 V 4800",
+    "frequency": "10970 V 4800",
     "id": "POL-077 ENC-1",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "POL-10 ENC2",
     "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
