@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10977 V 4800",
+        "id": "pol-053_enc2",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
         "frequency": "12438 H 27500",
         "id": "FEED 2",
@@ -34,23 +40,5 @@
         "frequency": "12551 H 4938",
         "id": "Medialink CRO-025/1",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12593 V 7200",
-        "id": "Polsat Sport",
-        "key": "07 BB 01 C3 AE 26 CF A3"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "11305 V 7200",
-        "id": "E-228 Main",
-        "key": "CA CA 20 B4 20 CA CA B4"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11014 H 7200",
-        "id": "UAE065B",
-        "key": "96 DF 25 9A 81 03 7D 01"
     }
 ]
