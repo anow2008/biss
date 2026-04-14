@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12630 V 7200",
+        "id": "SAU-031 B",
+        "key": "6C 7F 8F 7A A1 03 C4 68"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10982 H 4820",
+        "id": "E467 B2 Match",
+        "key": "11 8D C7 65 5E 4D AE 59"
+    },
+    {
         "satellite": "Eutelsat 16A  16.0E",
         "frequency": "10977 V 4800",
         "id": "pol-053_enc2",
@@ -22,23 +34,5 @@
         "frequency": "11514 V 7500",
         "id": "AFD",
         "key": "27 41 A1 09 89 C1 AD F7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12737 V 7200",
-        "id": "ENC 2",
-        "key": "C1 78 18 51 82 28 29 D3"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10722 H 7200",
-        "id": "Encoder 3",
-        "key": "5C D7 48 7B B4 DA FD 8B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12551 H 4938",
-        "id": "Medialink CRO-025/1",
-        "key": "AB BA 20 85 25 20 26 6B"
     }
 ]
