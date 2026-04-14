@@ -1,27 +1,9 @@
 [
   {
     "satellite": "7.0°E",
-    "frequency": "10983 H 4820",
-    "id": "E467 feed B2",
-    "key": "118DC7655E4DAE59"
-  },
-  {
-    "satellite": "7.0°E",
-    "frequency": "10989 H 4820",
-    "id": "Unname",
-    "key": "118DC7655E4DAE59"
-  },
-  {
-    "satellite": "7.0°E",
     "frequency": "11022 H 9875",
     "id": "GVA_Fi01_matchnight_HL",
     "key": "118DC7655E4DAE59"
-  },
-  {
-    "satellite": "7.0°E",
-    "frequency": "11071 H 7200",
-    "id": "OVERON E-457 V1",
-    "key": "76716148618813FC"
   },
   {
     "satellite": "7.0°E",
