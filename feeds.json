@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11071 H 7200",
+        "id": "OVERON E-457 V1",
+        "key": "76 71 61 48 61 88 13 FC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "11062 H 7200",
         "id": "SAU-030-B",
         "key": "9B 44 3E 1D 47 34 11 8C"
@@ -40,11 +46,5 @@
         "frequency": "10982 H 4820",
         "id": "E467 B2 Match",
         "key": "11 8D C7 65 5E 4D AE 59"
-    },
-    {
-        "satellite": "Eutelsat 16A  16.0E",
-        "frequency": "10977 V 4800",
-        "id": "pol-053_enc2",
-        "key": "AB BA 26 8B DC AE 04 8E"
     }
 ]
