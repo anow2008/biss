@@ -23,7 +23,6 @@ def parse_sat_data(text):
         raw_key = re.sub(r'[\s:-]', '', key_match.group(0)).upper()
         formatted_key = " ".join([raw_key[i:i+2] for i in range(0, 16, 2)])
 
-        # تقسيم النص لأسطر
         lines = [l.strip() for l in text.split('\n') if l.strip()]
         sat, freq, cid = "Unknown", "N/A", "N/A"
         key_line_index = -1
@@ -33,30 +32,20 @@ def parse_sat_data(text):
                 key_line_index = i
                 break
 
-        # 2. المسح الشامل (Scanning) - حل مشكلة الـ 2 قمر
+        # 2. المسح الشامل للأسطر (صيد القمر والتردد والاسم)
         for line in lines:
             line_low = line.lower()
-            
-            # لو السطر فيه إيموجي قمر وفيه علامة @ يبقى ده القمر المقصود (مش العنوان)
-            if '📡' in line and '@' in line:
+            if '📡' in line and ('@' in line or '°' in line):
                 sat = clean_val(line)
-            # لو مفيش إيموجي بس السطر فيه @ (احتياطي)
-            elif sat == "Unknown" and '@' in line and not any(x in line for x in ['📶', '🆔', '🔑']):
-                sat = clean_val(line)
-                
-            # سحب التردد
-            if '📶' in line or re.search(r'\d{5}\s+[hv]', line_low):
+            elif '📶' in line or re.search(r'\d{5}\s+[hv]', line_low):
                 freq = clean_val(line)
-                
-            # سحب اسم القناة (الـ ID)
-            if '🆔' in line:
+            elif '🆔' in line:
                 cid = clean_val(line)
 
-        # 3. خطة الطوارئ لاسم القناة (زي VRT و GCUK)
+        # 3. خطة الطوارئ لاسم القناة (ID)
         if (cid == "N/A" or cid == "") and key_line_index > 0:
             for j in range(key_line_index - 1, -1, -1):
                 potential = lines[j]
-                # نتجاهل الأسطر التقنية واحنا طالعين لفوق ندور على الاسم
                 if not any(x in potential for x in ['📡', '📶', '@', '🔑', '🎬', '📊', 'Live Feed']):
                     if not re.search(r'\d{5}', potential): 
                         cid = clean_val(potential)
@@ -80,19 +69,25 @@ def run_scraper():
     except Exception: return []
 
     soup = BeautifulSoup(response.text, 'html.parser')
+    # جلب كل المنشورات
     posts = soup.find_all('div', class_='tgme_widget_message_text')
     
     database = []
+    # البدء من آخر منشور في القناة (الأحدث) والنزول للأقدم
     for post in reversed(posts):
         content = post.get_text(separator="\n").strip()
         data = parse_sat_data(content)
         if data:
+            # التأكد من عدم التكرار
             if not any(d['key'] == data['key'] for d in database):
-                database.insert(0, data)
+                # نستخدم append هنا لأننا بدأنا بالفعل بالأحدث بفضل reversed(posts)
+                database.append(data)
+    
     return database
 
 if __name__ == "__main__":
     results = run_scraper()
     with open('feeds.json', 'w', encoding='utf-8') as f:
+        # indent=4 لجعل الملف سهل القراءة
         json.dump(results, f, ensure_ascii=False, indent=4)
-    print(f"✅ تم سحب {len(results)} بلوك بنجاح.")
+    print(f"✅ Success: Saved {len(results)} items (Newest first).")
