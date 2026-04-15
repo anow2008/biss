@@ -1,7 +1,7 @@
 [
   {
     "satellite": "7.0°E",
-    "frequency": "10982 H 4820",
+    "frequency": "10983 H 4820",
     "id": "UKIMDY24 M1 B2",
     "key": "46ECBDEF61254ED4"
   },
@@ -25,21 +25,27 @@
   },
   {
     "satellite": "7.0°E",
-    "frequency": "12629 V 7200",
-    "id": "GVA_Fi05",
-    "key": "D5B18208262B71C2"
-  },
-  {
-    "satellite": "7.0°E",
     "frequency": "12656 V 7200",
     "id": "Fi20_GNVE",
     "key": "D5B18208262B71C2"
   },
   {
     "satellite": "13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "RMG Dubai HD",
+    "key": "1234569C7891232C"
+  },
+  {
+    "satellite": "13.0°E",
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "1234569C7891232C"
+  },
+  {
+    "satellite": "13.0°E",
+    "frequency": "12584 V 7200",
+    "id": "GCUK Enc 3",
+    "key": "D0408E9E71FF2696"
   },
   {
     "satellite": "16.0°E",
