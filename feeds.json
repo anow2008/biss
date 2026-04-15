@@ -70,17 +70,5 @@
         "frequency": "12516 H 4938",
         "id": "YSM-016 MAIN",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "AVP_OU_A",
-        "key": "CC 20 DF CB 18 BB 31 04"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10829 H 7500",
-        "id": "TUR156 Main",
-        "key": "18 91 3C E5 AE 43 B4 A5"
     }
 ]
