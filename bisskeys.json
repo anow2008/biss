@@ -70,17 +70,5 @@
     "frequency": "12611 V 7200",
     "id": "AVP_OU_A",
     "key": "CC 20 DF CB 18 BB 31 04"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-78 ENC 1",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 21B @ 21.5°E",
-    "frequency": "11659 H 6666",
-    "id": "FRBEIN_ENC_01",
-    "key": "BB DE 58 F1 47 BA DE DF"
   }
 ]
