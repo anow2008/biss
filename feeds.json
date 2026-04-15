@@ -58,11 +58,5 @@
         "frequency": "10767 V 34000",
         "id": "OCC 5",
         "key": "F1 C1 5E 10 B3 EE 48 E9"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10767 V 34000",
-        "id": "OCC 4",
-        "key": "8A C1 4F 9A B3 E4 48 DF"
     }
 ]
