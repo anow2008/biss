@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12555 H 7200",
+        "id": "E-229 Main",
+        "key": "AB 79 DE 02 79 BE 56 8D"
+    },
+    {
+        "satellite": "Eutelsat 21B @ 21.5°E",
+        "frequency": "11659 H 6666",
+        "id": "FRBEIN_ENC_01",
+        "key": "BB DE 58 F1 47 BA DE DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12687 H 7200",
         "id": "D-312",
         "key": "1A 2B 3C 81 4D 5E 6F 1A"
@@ -46,11 +58,5 @@
         "frequency": "12569 H 17140",
         "id": "MUN-RMD",
         "key": "BB AA 52 B7 82 CC AA F8"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12575 H 7200",
-        "id": "Bonjour Uwe",
-        "key": "CB ED 23 DB 02 AC DE 8C"
     }
 ]
