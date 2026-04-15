@@ -5,11 +5,12 @@ import json
 
 def clean_text(text):
     if not text: return "N/A"
+    # حذف الرموز التعبيرية والجمل الثابتة
     clean = re.sub(r'[📡📶🎬📊🆔🔑🔓]|BISS • KEY FOUND', '', text)
     return clean.strip()
 
 def format_key(raw_key):
-    # تنظيف الشفرة من أي مسافات أو سطور جديدة أولاً
+    # تنظيف الشفرة من أي مسافات أو سطور جديدة
     clean_key = raw_key.strip().replace("\n", "").replace(" ", "")
     # تقسيم الشفرة كل حرفين ووضع مسافة بينهم
     return " ".join(clean_key[i:i+2] for i in range(0, len(clean_key), 2))
@@ -37,13 +38,15 @@ def scrape_to_json():
                 cw_match = re.search(r'(?:🔑|CW:?)\s*([A-F0-9\s]{16,50})', block_text, re.IGNORECASE)
 
                 if freq_match and cw_match:
-                    sat_match = re.search(r'(\d+\.?\d?°\s?[EW])', block_text)
+                    # تعديل هنا: البحث عن سطر القمر بالكامل اللي بيحتوي على الموقع المداري
+                    # بياخد النص اللي قبل @ والدرجة اللي بعدها
+                    sat_match = re.search(r'([^\n\r]+?\d+\.?\d?°\s?[EW])', block_text)
                     id_match = re.search(r'(?:🆔|ID:?)\s*([^\n\r]+)', block_text)
                     
-                    sat_name = sat_match.group(1) if sat_match else "Unknown"
+                    # تنظيف اسم القمر من أي أيقونات زي 📡
+                    sat_name = clean_text(sat_match.group(1)) if sat_match else "Unknown"
                     channel_id = clean_text(id_match.group(1)) if id_match else "N/A"
                     
-                    # استخدام الدالة الجديدة لتنسيق الشفرة بمسافات
                     formatted_key = format_key(cw_match.group(1))
                     
                     feed_item = {
@@ -59,7 +62,7 @@ def scrape_to_json():
         with open('bisskeys.json', 'w', encoding='utf-8') as f:
             json.dump(active_feeds, f, ensure_ascii=False, indent=2)
             
-        print(f"تم بنجاح! تم العثور على {len(active_feeds)} تردد مشفر بالتنسيق الجديد.")
+        print(f"تم بنجاح! تم العثور على {len(active_feeds)} تردد.")
 
     except Exception as e:
         print(f"حدث خطأ: {e}")
