@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-78 ENC 1",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12647 V 7200",
         "id": "UAE-065",
@@ -16,12 +22,6 @@
         "frequency": "12569 H 17140",
         "id": "MUN-RMD",
         "key": "BB AA 52 B7 82 CC AA F8"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10976 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 04 8E"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
