@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "satellite": "7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "6B22BB4881CCC310"
+  },
+  {
+    "satellite": "7.0°E",
+    "frequency": "12630 V 7200",
+    "id": "GVA_Fi05",
+    "key": "D5B18208262B71C2"
+  },
+  {
+    "satellite": "7.0°E",
+    "frequency": "12633 H 5000",
+    "id": "DZ TDA",
+    "key": "2026FA40CB1315F3"
+  },
+  {
+    "satellite": "13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "1234569C7891232C"
+  },
+  {
+    "satellite": "16.0°E",
+    "frequency": "10971 V 4800",
+    "id": "POL-077 ENC-1",
+    "key": "ABBA268BDCAE048E"
+  }
+]
