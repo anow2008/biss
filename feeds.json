@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 5",
+        "key": "BA D2 8B 17 C4 F4 49 01"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 4",
+        "key": "ED D2 B8 77 C4 FF F9 BC"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 3",
+        "key": "A2 D2 B8 2C C4 F3 F9 B0"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 2",
+        "key": "73 D2 8B D0 C4 F9 49 06"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 1",
+        "key": "31 D2 A9 AC C4 FC F9 B9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11022 H 9875",
+        "id": "GVA_Fi01_matchnight_HL",
+        "key": "46 EC BD EF 61 25 4E D4"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11022 H 9875",
         "id": "GVA_Fi01_matchnight_HL",
@@ -46,17 +82,5 @@
         "frequency": "10829 H 7500",
         "id": "TUR156 Main",
         "key": "18 91 3C E5 AE 43 B4 A5"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-78 ENC 1",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12647 V 7200",
-        "id": "UAE-065",
-        "key": "E6 33 BC D5 61 C5 AB D1"
     }
 ]
