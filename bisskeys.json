@@ -1,13 +1,25 @@
 [
   {
     "satellite": "7.0°E",
+    "frequency": "10988 H 4820",
+    "id": "CRO-025 M02 FEED B2",
+    "key": "46ECBDEF61254ED4"
+  },
+  {
+    "satellite": "7.0°E",
+    "frequency": "11062 H 7200",
+    "id": "TLCAT-002-1",
+    "key": "53B35C620354176E"
+  },
+  {
+    "satellite": "7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "6B22BB4881CCC310"
   },
   {
     "satellite": "7.0°E",
-    "frequency": "12630 V 7200",
+    "frequency": "12629 V 7200",
     "id": "GVA_Fi05",
     "key": "D5B18208262B71C2"
   },
