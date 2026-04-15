@@ -3,17 +3,18 @@ from bs4 import BeautifulSoup
 import json
 import re
 
-def clean_val(text):
+def clean_for_json(text):
+    """تنظيف النص مع الحفاظ على الأرقام والدرجة ° و @ والعربي"""
     if not text: return ""
-    # تحويل أي مسافات غريبة لمسافات عادية عشان الـ JSON يقبلها
+    # تحويل المسافات الغريبة لمسافات عادية لضمان عدم ضياع النص
     text = text.replace('\xa0', ' ').replace('\t', ' ')
-    # حذف الإيموجي من النتيجة النهائية مع الإبقاء على الكلام والدرجات °
-    clean = re.sub(r'[^\w\s\d\.\-\/°@]+', '', text)
+    # الإبقاء على الحروف (عربي وإنجليزي)، الأرقام، والرموز الأساسية
+    clean = re.sub(r'[^\w\s\d\u0600-\u06FF\.\-\/°@]+', '', text)
     return clean.strip()
 
 def parse_sat_data(text):
-    # 1. البحث عن الشفرة (🔑) - دي أهم حاجة
-    # بندور على الـ 16 حرف اللي بييجوا بعد الإيموجي أو كلمة CW
+    # 1. البحث عن أي تتابع لـ 16 حرف هكس (الشفرة) - ده المحرك الأساسي
+    # النمط ده هيقفش أي شفرة حتى لو وسط كلام كتير أو رموز غريبة
     key_pattern = re.compile(r'([A-F0-9]{2}[\s:-]*){8}', re.IGNORECASE)
     key_match = key_pattern.search(text)
     
@@ -21,34 +22,46 @@ def parse_sat_data(text):
         return None
 
     try:
+        # تنسيق الشفرة لشكلها النهائي (XX XX XX XX XX XX XX XX)
         raw_key = re.sub(r'[\s:-]', '', key_match.group(0)).upper()
         if len(raw_key) != 16: return None
         formatted_key = " ".join([raw_key[i:i+2] for i in range(0, 16, 2)])
 
-        # 2. البحث الذكي بالإيموجي (📡، 📶، 🆔)
-        sat, freq, cid = "Unknown", "N/A", "N/A"
-        
+        # تقسيم النص لأسطر عشان نبحث في كل سطر بشكل مستقل
         lines = [l.strip() for l in text.split('\n') if l.strip()]
         
-        for line in lines:
-            # لو السطر فيه رادار القمر
-            if '📡' in line:
-                sat = clean_val(line.split('📡')[-1])
-            # لو السطر فيه رادار التردد
-            elif '📶' in line:
-                freq = clean_val(line.split('📶')[-1])
-            # لو السطر فيه رادار اسم القناة
-            elif '🆔' in line:
-                cid = clean_val(line.split('🆔')[-1])
+        # قيم افتراضية في حالة ملقيناش الرموز
+        sat, freq, cid = "Unknown", "N/A", "N/A"
+        key_line_index = -1
 
-        # 3. تأكيد إضافي لاسم القناة (زي حالة GCUK Enc 3)
-        # لو الـ id لسه فاضي، بنشوف السطر اللي فوق الشفرة مباشرة
-        if cid == "N/A" or cid == "":
-            for i, line in enumerate(lines):
-                if key_match.group(0) in line and i > 0:
-                    potential_id = lines[i-1]
-                    if not any(x in potential_id for x in ['📡', '📶', '🔑']):
-                        cid = clean_val(potential_id)
+        # تحديد سطر الشفرة
+        for i, line in enumerate(lines):
+            if key_match.group(0) in line:
+                key_line_index = i
+                break
+
+        # 2. المسح الشامل (Scanning) لكل سطر في البلوك
+        for line in lines:
+            line_low = line.lower()
+            # صيد القمر: بالإيموجي أو كلمة SAT أو علامة @
+            if '📡' in line or 'sat' in line_low or '@' in line:
+                sat = clean_for_json(line.split('📡')[-1] if '📡' in line else line)
+            
+            # صيد التردد: بالإيموجي أو نمط الأرقام (مثل 11000 H)
+            elif '📶' in line or re.search(r'\d{5}\s+[hv]', line_low):
+                freq = clean_for_json(line.split('📶')[-1] if '📶' in line else line)
+            
+            # صيد اسم القناة (ID): بالإيموجي الصريح
+            elif '🆔' in line:
+                cid = clean_for_json(line.split('🆔')[-1])
+
+        # 3. خطة الطوارئ لاسم القناة (عشان ميفوتش GCUK أو Unname)
+        # لو الـ ID لسه مجهول، بياخد السطر اللي فوق الشفرة فوراً
+        if (cid == "N/A" or cid == "") and key_line_index > 0:
+            potential_id = lines[key_line_index - 1]
+            # نتأكد إن السطر ده مش هو التردد أو القمر اللي سحبناهم
+            if not any(x in potential_id for x in ['📡', '📶', '@', '🔑']) and not re.search(r'\d{5}', potential_id):
+                cid = clean_for_json(potential_id)
 
         return {
             "satellite": sat,
@@ -62,6 +75,7 @@ def parse_sat_data(text):
 def run_scraper():
     url = "https://t.me/s/live_sat_feeds"
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    
     try:
         response = requests.get(url, headers=headers, timeout=20)
         response.raise_for_status()
@@ -71,12 +85,15 @@ def run_scraper():
     posts = soup.find_all('div', class_='tgme_widget_message_text')
     
     database = []
-    for post in posts:
+    # reversed عشان نجيب الأحدث الأول في الملف
+    for post in reversed(posts):
         content = post.get_text(separator="\n").strip()
         data = parse_sat_data(content)
         if data:
+            # منع التكرار بناءً على الشفرة (Key)
             if not any(d['key'] == data['key'] for d in database):
-                database.insert(0, data)
+                database.append(data)
+                
     return database
 
 if __name__ == "__main__":
