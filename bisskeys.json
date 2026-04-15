@@ -7,21 +7,33 @@
   },
   {
     "satellite": "7.0°E",
-    "frequency": "10988 H 4820",
+    "frequency": "10989 H 4820",
     "id": "CRO-025 M02 FEED B2",
     "key": "46ECBDEF61254ED4"
   },
   {
     "satellite": "7.0°E",
-    "frequency": "11061 H 7200",
+    "frequency": "11062 H 7200",
     "id": "TLCAT-002-1",
     "key": "53B35C620354176E"
   },
   {
     "satellite": "7.0°E",
-    "frequency": "11070 H 7200",
+    "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "6B22BB4881CCC310"
+  },
+  {
+    "satellite": "7.0°E",
+    "frequency": "12511 V 7200",
+    "id": "VRT - Ronde van Limburg",
+    "key": "FF26D0F5415E7110"
+  },
+  {
+    "satellite": "7.0°E",
+    "frequency": "12629 V 7200",
+    "id": "GVA_Fi05",
+    "key": "D5B18208262B71C2"
   },
   {
     "satellite": "7.0°E",
@@ -45,11 +57,11 @@
     "satellite": "13.0°E",
     "frequency": "12584 V 7200",
     "id": "GCUK Enc 3",
-    "key": "D0408E9E71FF2696"
+    "key": "FF26D0F5415E7110"
   },
   {
     "satellite": "16.0°E",
-    "frequency": "10971 V 4800",
+    "frequency": "10970 V 4800",
     "id": "POL-077 ENC-1",
     "key": "ABBA268BDCAE048E"
   }
