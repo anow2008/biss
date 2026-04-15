@@ -1,44 +1,44 @@
 [
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10982 H 4820",
-        "id": "Unname",
-        "key": "46 EC BD EF 61 25 4E D4"
+        "satellite": "Unknown",
+        "frequency": "12569 H 17140",
+        "id": "MUN-RMD",
+        "key": "BB AA 52 B7 82 CC AA F8"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12584 V 7200",
-        "id": "GCUK Enc 3",
-        "key": "FF 26 D0 F5 41 5E 71 10"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11569 V 9600",
-        "id": "M-THREE_FEED 1",
-        "key": "A1 97 6B A3 12 04 CC E2"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12509 H 4938",
-        "id": "YSM-012 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12575 H 7200",
-        "id": "Bonjour Uwe",
-        "key": "CB ED 23 DB 02 AC DE 8C"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
+        "satellite": "Unknown",
         "frequency": "10976 V 4800",
         "id": "POL - 054 Kielce",
         "key": "AB BA 26 8B DC AE 04 8E"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12569 H 17140",
-        "id": "MUN-RMD",
-        "key": "BB AA 52 B7 82 CC AA F8"
+        "satellite": "Unknown",
+        "frequency": "12575 H 7200",
+        "id": "Bonjour Uwe",
+        "key": "CB ED 23 DB 02 AC DE 8C"
+    },
+    {
+        "satellite": "Unknown",
+        "frequency": "12509 H 4938",
+        "id": "YSM-012 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Unknown",
+        "frequency": "11569 V 9600",
+        "id": "M-THREE_FEED 1",
+        "key": "A1 97 6B A3 12 04 CC E2"
+    },
+    {
+        "satellite": "Unknown",
+        "frequency": "12584 V 7200",
+        "id": "GCUK Enc 3",
+        "key": "FF 26 D0 F5 41 5E 71 10"
+    },
+    {
+        "satellite": "Unknown",
+        "frequency": "10982 H 4820",
+        "id": "Unname",
+        "key": "46 EC BD EF 61 25 4E D4"
     }
 ]
