@@ -23,7 +23,7 @@ def parse_sat_data(text):
         raw_key = re.sub(r'[\s:-]', '', key_match.group(0)).upper()
         formatted_key = " ".join([raw_key[i:i+2] for i in range(0, 16, 2)])
 
-        # تقسيم النص لأسطر نظيفة
+        # تقسيم النص لأسطر
         lines = [l.strip() for l in text.split('\n') if l.strip()]
         sat, freq, cid = "Unknown", "N/A", "N/A"
         key_line_index = -1
@@ -33,26 +33,34 @@ def parse_sat_data(text):
                 key_line_index = i
                 break
 
-        # 2. المسح الشامل لكل الأسطر
+        # 2. المسح الشامل (Scanning) - حل مشكلة الـ 2 قمر
         for line in lines:
             line_low = line.lower()
-            if '📡' in line or '@' in line:
+            
+            # لو السطر فيه إيموجي قمر وفيه علامة @ يبقى ده القمر المقصود (مش العنوان)
+            if '📡' in line and '@' in line:
                 sat = clean_val(line)
-            elif '📶' in line or re.search(r'\d{5}\s+[hv]', line_low):
+            # لو مفيش إيموجي بس السطر فيه @ (احتياطي)
+            elif sat == "Unknown" and '@' in line and not any(x in line for x in ['📶', '🆔', '🔑']):
+                sat = clean_val(line)
+                
+            # سحب التردد
+            if '📶' in line or re.search(r'\d{5}\s+[hv]', line_low):
                 freq = clean_val(line)
-            elif '🆔' in line:
+                
+            # سحب اسم القناة (الـ ID)
+            if '🆔' in line:
                 cid = clean_val(line)
 
-        # 3. الحل "العبقري" لاسم القناة (ID) المفقود
-        # لو ملقيناش رمز 🆔، هنطلع من سطر الشفرة لفوق "سطر بسطر" لحد ما نلاقي أول نص
+        # 3. خطة الطوارئ لاسم القناة (زي VRT و GCUK)
         if (cid == "N/A" or cid == "") and key_line_index > 0:
             for j in range(key_line_index - 1, -1, -1):
                 potential = lines[j]
-                # لو السطر فيه نص ومش هو التردد ولا القمر ولا فيه كلمة CW
-                if not any(x in potential for x in ['📡', '📶', '@', '🔑', 'CW']):
-                    if not re.search(r'\d{5}', potential): # مش تردد
+                # نتجاهل الأسطر التقنية واحنا طالعين لفوق ندور على الاسم
+                if not any(x in potential for x in ['📡', '📶', '@', '🔑', '🎬', '📊', 'Live Feed']):
+                    if not re.search(r'\d{5}', potential): 
                         cid = clean_val(potential)
-                        break # لقينا الاسم، وقف بحث
+                        break
 
         return {
             "satellite": sat,
@@ -87,4 +95,4 @@ if __name__ == "__main__":
     results = run_scraper()
     with open('feeds.json', 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
-    print(f"✅ Success: Captured {len(results)} items.")
+    print(f"✅ تم سحب {len(results)} بلوك بنجاح.")
