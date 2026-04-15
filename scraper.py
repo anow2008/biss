@@ -4,16 +4,14 @@ import json
 import re
 
 def clean_val(text):
-    """تنظيف النص مع الحفاظ على الأرقام والدرجة ° و @ والعربي"""
     if not text: return ""
-    # تحويل المسافات الغريبة \xa0 لمسافات عادية
     text = text.replace('\xa0', ' ').replace('\t', ' ')
-    # حذف الإيموجي فقط من النتيجة النهائية
+    # تنظيف النص مع الإبقاء على الحروف والأرقام والدرجات
     clean = re.sub(r'[^\w\s\d\u0600-\u06FF\.\-\/°@]+', '', text)
     return clean.strip()
 
 def parse_sat_data(text):
-    # 1. صيد الشفرة (المحرك الأساسي)
+    # 1. البحث عن الشفرة (16 حرف هكس)
     key_pattern = re.compile(r'([A-F0-9]{2}[\s:-]*){8}', re.IGNORECASE)
     key_match = key_pattern.search(text)
     if not key_match: return None
@@ -22,7 +20,6 @@ def parse_sat_data(text):
         raw_key = re.sub(r'[\s:-]', '', key_match.group(0)).upper()
         formatted_key = " ".join([raw_key[i:i+2] for i in range(0, 16, 2)])
 
-        # تقسيم النص لأسطر مع تجاهل الأسطر الفارغة تماماً
         lines = [l.strip() for l in text.split('\n') if l.strip()]
         sat, freq, cid = "Unknown", "N/A", "N/A"
         key_line_index = -1
@@ -32,31 +29,25 @@ def parse_sat_data(text):
                 key_line_index = i
                 break
 
-        # 2. المسح الشامل للبيانات (القمر والتردد)
+        # 2. المسح الشامل للبيانات
         for line in lines:
             line_low = line.lower()
-            # صيد القمر بالدرجة المدارية @
             if '@' in line or '°' in line:
-                if not re.search(r'\d{5}', line): # عشان مياخدش سطر التردد
+                if not re.search(r'\d{5}', line):
                     sat = clean_val(line)
-            # صيد التردد
             if '📶' in line or re.search(r'\d{5}\s+[hv]', line_low):
                 freq = clean_val(line)
-            # صيد الاسم لو فيه إيموجي 🆔
             if '🆔' in line:
                 cid = clean_val(line)
 
-        # 3. خطة "الرادار" لاسم القناة المفقود (ID)
-        # لو الـ ID لسه مجهول، نطلع من سطر الشفرة لفوق "سطر بسطر"
+        # 3. صيد اسم القناة (ID) لو مش موجود
         if (cid == "N/A" or cid == "") and key_line_index > 0:
             for j in range(key_line_index - 1, -1, -1):
                 potential = lines[j]
-                # لو السطر فيه كلام ومش هو التردد ولا القمر ولا فيه بيانات تقنية
                 if not any(x in potential for x in ['📡', '📶', '@', '°', '🔑', 'CW', '🎬', '📊', 'views']):
-                    # نتأكد إنه مش مجرد أرقام (تردد)
                     if not re.search(r'\d{5}', potential):
                         cid = clean_val(potential)
-                        break # أول ما نلاقي نص، نعتبره هو الاسم ونوقف
+                        break
 
         return {
             "satellite": sat,
@@ -79,17 +70,22 @@ def run_scraper():
     posts = soup.find_all('div', class_='tgme_widget_message_text')
     
     database = []
-    # reversed لضمان سحب الأحدث
+    # التعديل الجوهري هنا:
+    # نقرأ البوستات من الأحدث (أسفل القناة) للأقدم (أعلى القناة)
     for post in reversed(posts):
         content = post.get_text(separator="\n").strip()
         data = parse_sat_data(content)
         if data:
+            # نتأكد إن الشفرة مش متكررة
             if not any(d['key'] == data['key'] for d in database):
-                database.insert(0, data) # الأحدث دائماً في الأول
+                # نضيفها في نهاية القائمة بالترتيب (الأحدث أولاً)
+                database.append(data)
+    
     return database
 
 if __name__ == "__main__":
     results = run_scraper()
     with open('feeds.json', 'w', encoding='utf-8') as f:
+        # حفظ الملف بترتيب الأحدث فوق
         json.dump(results, f, ensure_ascii=False, indent=4)
-    print(f"✅ Success: Saved {len(results)} items (Newest first).")
+    print(f"✅ تم الحفظ بنجاح: {len(results)} بلوك. (الأحدث في أول الملف)")
