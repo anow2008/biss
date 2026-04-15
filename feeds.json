@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12633 H 5000",
+        "id": "DZ TDA",
+        "key": "20 26 FA 40 CB 13 15 F3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12737 V 7200",
         "id": "ENC 21",
         "key": "12 3C AA F8 14 22 A3 D9"
@@ -88,11 +94,5 @@
         "frequency": "11070 V 7120",
         "id": "Pitch WWQC England V Spain",
         "key": "DD EE 45 10 AF 14 04 C7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11079 V 7120",
-        "id": "WWCQ Sweden V Denmark",
-        "key": "34 AA BC 9A D8 14 04 F0"
     }
 ]
