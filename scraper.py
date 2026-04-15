@@ -4,18 +4,18 @@ import json
 import re
 
 def clean_for_json(text):
-    """تنظيف النصوص لضمان عملها على الرسيفر بدون مشاكل"""
+    """تنظيف النصوص مع الإبقاء على الدرجات المدارية ورموز الأقمار"""
     if not text: return ""
-    # استبدال المسافات المخفية بمسافات عادية
+    # حل مشكلة المسافات المخفية والتبويبات التي تمنع السحب
     text = text.replace('\xa0', ' ').replace('\t', ' ')
-    # السماح بالأرقام، الحروف، النقط، السلاش، وعلامة الدرجة ° و @
+    # السماح فقط بالأرقام، الحروف، النقط، السلاش، وعلامة الدرجة ° و @
     clean = re.sub(r'[^\w\s\d\.\-\/°@]+', '', text)
     return clean.strip()
 
 def parse_sat_data(text):
-    """سحب البيانات فقط إذا وجدت شفرة 16 حرفاً"""
-    # بحث مرن جداً عن أي 16 حرف Hex متتالية (BISS أو CW)
-    # هذا النمط سيلتقط الشفرة حتى لو كان قبلها رموز أو مسافات غريبة
+    """سحب البيانات فقط إذا وجدت شفرة مكونة من 16 حرفاً"""
+    # بحث مرن جداً عن أي 16 حرف ست عشري متتالية
+    # سيلتقط الشفرة حتى لو كان قبلها رموز أو مسافات غريبة أو كلمة CW
     key_pattern = re.compile(r'([A-F0-9]{2}[\s:-]*){8}', re.IGNORECASE)
     key_match = key_pattern.search(text)
     
@@ -29,17 +29,19 @@ def parse_sat_data(text):
         if len(raw_key) != 16: return None
         formatted_key = " ".join([raw_key[i:i+2] for i in range(0, 16, 2)])
 
-        # سحب البيانات بناءً على الرموز (📡، 📶، 🆔)
+        # سحب القمر من بعد رمز الطبق 📡
         sat_match = re.search(r'📡\s*([^\n]+)', text)
         data['satellite'] = clean_for_json(sat_match.group(1)) if sat_match else "Unknown"
 
+        # سحب التردد من بعد رمز الإشارة 📶
         freq_match = re.search(r'📶\s*([^\n🎬📊🆔]+)', text)
         data['frequency'] = clean_for_json(freq_match.group(1)) if freq_match else "N/A"
         
+        # سحب اسم القناة (ID) من بعد رمز الهوية 🆔
         id_match = re.search(r'🆔\s*([^\n🔑]+)', text)
         data['id'] = clean_for_json(id_match.group(1)) if id_match else "N/A"
 
-        # الشفرة هي الحقل الرابع والأخير
+        # إضافة الشفرة في الحقل الرابع كما طلبت لبلجن BissPro-Smart
         data['key'] = formatted_key
         return data
     except Exception:
@@ -66,7 +68,7 @@ def run_scraper():
         structured_data = parse_sat_data(content)
         
         if structured_data:
-            # منع التكرار ووضع الأحدث في البداية
+            # منع التكرار وإضافة الأحدث في البداية
             if not any(d['key'] == structured_data['key'] for d in database):
                 database.insert(0, structured_data)
                 
@@ -75,11 +77,11 @@ def run_scraper():
 if __name__ == "__main__":
     results = run_scraper()
     
-    # مسح الملف القديم تماماً وكتابة النتائج الجديدة
+    # مسح الملف القديم تماماً وكتابة البيانات الجديدة فقط
     with open('feeds.json', 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
     
     if results:
-        print(f"✅ Success! Found {len(results)} keys.")
+        print(f"✅ تم سحب {len(results)} شفرة بنجاح، بما في ذلك بلوكات دوري الأبطال.")
     else:
-        print("⚠️ Still empty? Check if the Telegram page is loading correctly in your browser.")
+        print("⚠️ لم يتم العثور على أي شفرات صالحة.")
