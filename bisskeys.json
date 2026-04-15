@@ -19,6 +19,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11022 H 9875",
+    "id": "GVA_Fi01_matchnight_HL",
+    "key": "A1 E1 F6 78 90 2E DE 9C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "6B 22 BB 48 81 CC C3 10"
@@ -37,9 +43,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12687 H 7200",
-    "id": "D-312",
-    "key": "1A 2B 3C 81 4D 5E 6F 1A"
+    "frequency": "12569 H 17140",
+    "id": "MUN-RMD",
+    "key": "BB AA 52 B7 82 CC AA F8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
