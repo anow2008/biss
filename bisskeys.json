@@ -1,92 +1,80 @@
 [
   {
-    "satellite": "7.0°E",
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10983 H 4820",
     "id": "UKIMDY24 M1 B2",
     "key": "46 EC BD EF 61 25 4E D4"
   },
   {
-    "satellite": "7.0°E",
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10989 H 4820",
     "id": "CRO-025 M02 FEED B2",
     "key": "46 EC BD EF 61 25 4E D4"
   },
   {
-    "satellite": "7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "TLCAT-002-1",
-    "key": "53 B3 5C 62 03 54 17 6E"
-  },
-  {
-    "satellite": "7.0°E",
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "6B 22 BB 48 81 CC C3 10"
   },
   {
-    "satellite": "7.0°E",
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11569 V 9600",
     "id": "M-THREE_FEED 1",
     "key": "A1 97 6B A3 12 04 CC E2"
   },
   {
-    "satellite": "7.0°E",
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12510 V 7200",
     "id": "VRT - Ronde van Limburg",
     "key": "FF 26 D0 F5 41 5E 71 10"
   },
   {
-    "satellite": "7.0°E",
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12569 H 17140",
     "id": "MUN-RMD",
     "key": "BB AA 52 B7 82 CC AA F8"
   },
   {
-    "satellite": "7.0°E",
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12629 V 7200",
     "id": "GVA_Fi05",
     "key": "D5 B1 82 08 26 2B 71 C2"
   },
   {
-    "satellite": "7.0°E",
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12656 V 7200",
     "id": "Fi20_GNVE",
     "key": "D5 B1 82 08 26 2B 71 C2"
   },
   {
-    "satellite": "13.0°E",
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10819 V 3670",
     "id": "RMG Dubai HD",
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
-    "satellite": "13.0°E",
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
-    "satellite": "13.0°E",
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12583 V 7200",
     "id": "GCUK Enc 3",
     "key": "FF 26 D0 F5 41 5E 71 10"
   },
   {
-    "satellite": "16.0°E",
-    "frequency": "10976 V 4800",
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10977 V 4800",
     "id": "POL - 054 Kielce",
     "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
-    "satellite": "16.0°E",
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12509 H 4938",
     "id": "YSM-012 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "16.0°E",
-    "frequency": "12575 H 7200",
-    "id": "Bonjour Uwe",
-    "key": "CB ED 23 DB 02 AC DE 8C"
   }
 ]
