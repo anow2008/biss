@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "12656 V 7200",
+        "id": "Fi20_GNVE",
+        "key": "D5 B1 82 08 26 2B 71 C2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11062 H 7200",
+        "id": "TLCAT-002-2",
+        "key": "53 B3 5C 62 03 54 17 6E"
+    },
+    {
+        "satellite": "Eutelsat 16A  16.0E",
+        "frequency": "10971 V 4800",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G  13.0E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "6B 22 BB 48 81 CC C3 10"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12633 H 5000",
         "id": "DZ TDA",
         "key": "20 26 FA 40 CB 13 15 F3"
@@ -52,47 +82,5 @@
         "frequency": "11022 H 9875",
         "id": "GVA_Fi01_stadium_HL",
         "key": "46 EC BD EF 61 25 4E D4"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11089 H 7120",
-        "id": "Pitch Southampton v Blackburn R",
-        "key": "92 43 CC A1 14 A3 15 CC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11080 H 7120",
-        "id": "Pitch Portsmouth v Ipswich",
-        "key": "B5 B9 A2 10 D4 33 C3 CA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11062 V 7200",
-        "id": "ISRUV enc 1",
-        "key": "DE 2F 73 80 CA 34 21 1F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11514 V 7120",
-        "id": "RBM TV",
-        "key": "2D A5 7A 4C 1E E3 2A 2B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12573 H 7200",
-        "id": "Medialink CRO-024/1",
-        "key": "20 25 AB F0 CD 20 26 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "12638 V 7200",
-        "id": "Fi15_GNVE",
-        "key": "D4 B8 BD 49 D4 A2 12 88"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11070 V 7120",
-        "id": "Pitch WWQC England V Spain",
-        "key": "DD EE 45 10 AF 14 04 C7"
     }
 ]
