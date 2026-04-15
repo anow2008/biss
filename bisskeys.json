@@ -1,13 +1,19 @@
 [
   {
     "satellite": "7.0°E",
+    "frequency": "10982 H 4820",
+    "id": "UKIMDY24 M1 B2",
+    "key": "46ECBDEF61254ED4"
+  },
+  {
+    "satellite": "7.0°E",
     "frequency": "10988 H 4820",
     "id": "CRO-025 M02 FEED B2",
     "key": "46ECBDEF61254ED4"
   },
   {
     "satellite": "7.0°E",
-    "frequency": "11062 H 7200",
+    "frequency": "11061 H 7200",
     "id": "TLCAT-002-1",
     "key": "53B35C620354176E"
   },
