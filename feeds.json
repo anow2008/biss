@@ -40,5 +40,11 @@
         "frequency": "10988 H 4820",
         "id": "CRO-025 M02 FEED B2",
         "key": "46 EC BD EF 61 25 4E D4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12511 V 7200",
+        "id": "VRT - Ronde van Limburg",
+        "key": "FF 26 D0 F5 41 5E 71 10"
     }
 ]
