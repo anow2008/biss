@@ -3,18 +3,16 @@ from bs4 import BeautifulSoup
 import json
 import re
 
-def clean_for_json(text):
+def clean_val(text):
     """تنظيف النص مع الحفاظ على الأرقام والدرجة ° و @ والعربي"""
     if not text: return ""
-    # تحويل المسافات الغريبة لمسافات عادية لضمان عدم ضياع النص
     text = text.replace('\xa0', ' ').replace('\t', ' ')
-    # الإبقاء على الحروف (عربي وإنجليزي)، الأرقام، والرموز الأساسية
+    # حذف الإيموجي فقط من النتيجة النهائية
     clean = re.sub(r'[^\w\s\d\u0600-\u06FF\.\-\/°@]+', '', text)
     return clean.strip()
 
 def parse_sat_data(text):
-    # 1. البحث عن أي تتابع لـ 16 حرف هكس (الشفرة) - ده المحرك الأساسي
-    # النمط ده هيقفش أي شفرة حتى لو وسط كلام كتير أو رموز غريبة
+    # 1. البحث عن الشفرة (16 حرف هكس)
     key_pattern = re.compile(r'([A-F0-9]{2}[\s:-]*){8}', re.IGNORECASE)
     key_match = key_pattern.search(text)
     
@@ -22,46 +20,39 @@ def parse_sat_data(text):
         return None
 
     try:
-        # تنسيق الشفرة لشكلها النهائي (XX XX XX XX XX XX XX XX)
         raw_key = re.sub(r'[\s:-]', '', key_match.group(0)).upper()
-        if len(raw_key) != 16: return None
         formatted_key = " ".join([raw_key[i:i+2] for i in range(0, 16, 2)])
 
-        # تقسيم النص لأسطر عشان نبحث في كل سطر بشكل مستقل
+        # تقسيم النص لأسطر نظيفة
         lines = [l.strip() for l in text.split('\n') if l.strip()]
-        
-        # قيم افتراضية في حالة ملقيناش الرموز
         sat, freq, cid = "Unknown", "N/A", "N/A"
         key_line_index = -1
 
-        # تحديد سطر الشفرة
         for i, line in enumerate(lines):
             if key_match.group(0) in line:
                 key_line_index = i
                 break
 
-        # 2. المسح الشامل (Scanning) لكل سطر في البلوك
+        # 2. المسح الشامل لكل الأسطر
         for line in lines:
             line_low = line.lower()
-            # صيد القمر: بالإيموجي أو كلمة SAT أو علامة @
-            if '📡' in line or 'sat' in line_low or '@' in line:
-                sat = clean_for_json(line.split('📡')[-1] if '📡' in line else line)
-            
-            # صيد التردد: بالإيموجي أو نمط الأرقام (مثل 11000 H)
+            if '📡' in line or '@' in line:
+                sat = clean_val(line)
             elif '📶' in line or re.search(r'\d{5}\s+[hv]', line_low):
-                freq = clean_for_json(line.split('📶')[-1] if '📶' in line else line)
-            
-            # صيد اسم القناة (ID): بالإيموجي الصريح
+                freq = clean_val(line)
             elif '🆔' in line:
-                cid = clean_for_json(line.split('🆔')[-1])
+                cid = clean_val(line)
 
-        # 3. خطة الطوارئ لاسم القناة (عشان ميفوتش GCUK أو Unname)
-        # لو الـ ID لسه مجهول، بياخد السطر اللي فوق الشفرة فوراً
+        # 3. الحل "العبقري" لاسم القناة (ID) المفقود
+        # لو ملقيناش رمز 🆔، هنطلع من سطر الشفرة لفوق "سطر بسطر" لحد ما نلاقي أول نص
         if (cid == "N/A" or cid == "") and key_line_index > 0:
-            potential_id = lines[key_line_index - 1]
-            # نتأكد إن السطر ده مش هو التردد أو القمر اللي سحبناهم
-            if not any(x in potential_id for x in ['📡', '📶', '@', '🔑']) and not re.search(r'\d{5}', potential_id):
-                cid = clean_for_json(potential_id)
+            for j in range(key_line_index - 1, -1, -1):
+                potential = lines[j]
+                # لو السطر فيه نص ومش هو التردد ولا القمر ولا فيه كلمة CW
+                if not any(x in potential for x in ['📡', '📶', '@', '🔑', 'CW']):
+                    if not re.search(r'\d{5}', potential): # مش تردد
+                        cid = clean_val(potential)
+                        break # لقينا الاسم، وقف بحث
 
         return {
             "satellite": sat,
@@ -75,7 +66,6 @@ def parse_sat_data(text):
 def run_scraper():
     url = "https://t.me/s/live_sat_feeds"
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-    
     try:
         response = requests.get(url, headers=headers, timeout=20)
         response.raise_for_status()
@@ -85,15 +75,12 @@ def run_scraper():
     posts = soup.find_all('div', class_='tgme_widget_message_text')
     
     database = []
-    # reversed عشان نجيب الأحدث الأول في الملف
     for post in reversed(posts):
         content = post.get_text(separator="\n").strip()
         data = parse_sat_data(content)
         if data:
-            # منع التكرار بناءً على الشفرة (Key)
             if not any(d['key'] == data['key'] for d in database):
-                database.append(data)
-                
+                database.insert(0, data)
     return database
 
 if __name__ == "__main__":
