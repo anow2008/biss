@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12647 V 7200",
+        "id": "UAE-065",
+        "key": "E6 33 BC D5 61 C5 AB D1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 V 7200",
+        "id": "Main SAUDI015",
+        "key": "67 BB 82 A4 74 CC 2F 6F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12569 H 17140",
         "id": "MUN-RMD",
         "key": "BB AA 52 B7 82 CC AA F8"
@@ -34,11 +46,5 @@
         "frequency": "12584 V 7200",
         "id": "GCUK Enc 3",
         "key": "FF 26 D0 F5 41 5E 71 10"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10982 H 4820",
-        "id": "Unname",
-        "key": "46 EC BD EF 61 25 4E D4"
     }
 ]
