@@ -1,12 +1,6 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7200",
-        "id": "Fi20_GNVE",
-        "key": "D5 B1 82 08 26 2B 71 C2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10982 H 4820",
         "id": "Unname",
         "key": "46 EC BD EF 61 25 4E D4"
@@ -40,5 +34,11 @@
         "frequency": "10976 V 4800",
         "id": "POL - 054 Kielce",
         "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12569 H 17140",
+        "id": "MUN-RMD",
+        "key": "BB AA 52 B7 82 CC AA F8"
     }
 ]
