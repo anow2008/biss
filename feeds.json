@@ -1,39 +1,9 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12633 H 5000",
-        "id": "DZ TDA",
-        "key": "20 26 FA 40 CB 13 15 F3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "6B 22 BB 48 81 CC C3 10"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12629 V 7200",
-        "id": "GVA_Fi05",
-        "key": "D5 B1 82 08 26 2B 71 C2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL-077 ENC-1",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11062 H 7200",
-        "id": "TLCAT-002-2",
-        "key": "53 B3 5C 62 03 54 17 6E"
+        "frequency": "12511 V 7200",
+        "id": "VRT - Ronde van Limburg",
+        "key": "FF 26 D0 F5 41 5E 71 10"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,8 +13,38 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12511 V 7200",
-        "id": "VRT - Ronde van Limburg",
-        "key": "FF 26 D0 F5 41 5E 71 10"
+        "frequency": "11062 H 7200",
+        "id": "TLCAT-002-2",
+        "key": "53 B3 5C 62 03 54 17 6E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10971 V 4800",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12629 V 7200",
+        "id": "GVA_Fi05",
+        "key": "D5 B1 82 08 26 2B 71 C2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "6B 22 BB 48 81 CC C3 10"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12633 H 5000",
+        "id": "DZ TDA",
+        "key": "20 26 FA 40 CB 13 15 F3"
     }
 ]
