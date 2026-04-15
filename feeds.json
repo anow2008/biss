@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C  7.0E",
+        "frequency": "10982 H 4820",
+        "id": "Unname",
+        "key": "46 EC BD EF 61 25 4E D4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C  7.0E",
         "frequency": "12656 V 7200",
         "id": "Fi20_GNVE",
         "key": "D5 B1 82 08 26 2B 71 C2"
@@ -58,29 +64,5 @@
         "frequency": "10767 V 34000",
         "id": "OCC 4",
         "key": "8A C1 4F 9A B3 E4 48 DF"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10767 V 34000",
-        "id": "OCC 3",
-        "key": "43 C1 4F 53 B3 E9 48 E4"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10767 V 34000",
-        "id": "OCC 2",
-        "key": "BD C1 6D EB B3 E4 48 DF"
-    },
-    {
-        "satellite": "Eutelsat 10A  10.0E",
-        "frequency": "10767 V 34000",
-        "id": "OCC 1",
-        "key": "2A D2 E5 E1 C4 FF F9 BC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C  7.0E",
-        "frequency": "11022 H 9875",
-        "id": "GVA_Fi01_stadium_HL",
-        "key": "46 EC BD EF 61 25 4E D4"
     }
 ]
