@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12647 V 7200",
+        "id": "Fi14_GNVE",
+        "key": "47 BE 56 5B 22 A8 4E 18"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10842 H 9875",
+        "id": "SBK Round 3",
+        "key": "A3 4B 56 44 CA C1 22 AD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12656 V 7200",
+        "id": "Fi11_GNVE",
+        "key": "D6 94 9F 09 E9 85 D1 3F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12679 V 9875",
         "id": "YLE",
         "key": "11 11 22 44 22 33 33 88"
@@ -28,17 +46,5 @@
         "frequency": "11518 V 15000",
         "id": "MAIN BskyB",
         "key": "F3 18 DA E5 16 CB 04 E5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11062 H 7200",
-        "id": "SAU-031 A",
-        "key": "5A AE 1E 26 06 47 F3 40"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11105 V 9875",
-        "id": "TUR-119 Main",
-        "key": "33 50 C1 44 D2 46 53 6B"
     }
 ]
