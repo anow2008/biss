@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "SAU-031 A",
-    "key": "5A AE 1E 26 06 47 F3 40"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "2C 78 8E 32 7E 46 B4 78"
@@ -49,7 +43,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7120",
+    "frequency": "12677 V 7120",
     "id": "Pitch - Bromley V Cambridge UTD",
     "key": "09 C3 03 CF 22 DA 48 44"
   },
@@ -73,8 +67,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12524 H 4800",
-    "id": "CZE 001/2",
+    "frequency": "12567 H 8020",
+    "id": "TVN D-564 Enc II MAIN",
     "key": "CB ED 23 DB 02 AC DE 8C"
   },
   {
