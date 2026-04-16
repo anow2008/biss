@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11105 V 9875",
+        "id": "TUR-119 Main",
+        "key": "33 50 C1 44 D2 46 53 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "2C 78 8E 32 7E 46 B4 78"
@@ -28,35 +34,5 @@
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "6B 22 BB 48 81 CC C3 10"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 5",
-        "key": "BA D2 8B 17 C4 F4 49 01"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 4",
-        "key": "ED D2 B8 77 C4 FF F9 BC"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 3",
-        "key": "A2 D2 B8 2C C4 F3 F9 B0"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 2",
-        "key": "73 D2 8B D0 C4 F9 49 06"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 1",
-        "key": "31 D2 A9 AC C4 FC F9 B9"
     }
 ]
