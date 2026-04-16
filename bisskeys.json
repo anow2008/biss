@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
-    "id": "SAU-031 A",
-    "key": "5A AE 1E 26 06 47 F3 40"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "2C 78 8E 32 7E 46 B4 78"
@@ -18,15 +12,45 @@
     "key": "33 50 C1 44 D2 46 53 6B"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12679 V 9875",
+    "id": "YLE",
+    "key": "11 11 22 44 22 33 33 88"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
+    "frequency": "10819 V 3670",
     "id": "RMG Dubai HD",
-    "key": "12 34 56 9C 78 91 23 2C"
+    "key": "34 24 CC 24 DD 16 04 F7"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10829 V 7120",
+    "id": "GCUK Enc 3",
+    "key": "34 24 CC 24 DD 16 04 F7"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12519 H 4800",
+    "id": "SNG 042",
+    "key": "CB ED 23 DB 02 AC DE 8C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12566 H 8020",
+    "id": "TVN D-564 Enc II MAIN",
+    "key": "CB ED 23 DB 02 AC DE 8C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12575 H 7200",
+    "id": "Bonjour Uwe",
+    "key": "CB ED 23 DB 02 AC DE 8C"
   }
 ]
