@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11062 H 7200",
+        "id": "SAU-031 A",
+        "key": "5A AE 1E 26 06 47 F3 40"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11105 V 9875",
         "id": "TUR-119 Main",
         "key": "33 50 C1 44 D2 46 53 6B"
