@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7200",
-    "id": "Fi11_GNVE",
-    "key": "D6 94 9F 09 E9 85 D1 3F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12696 V 7200",
     "id": "PFL CB",
     "key": "CC FF 52 1D 52 AC 12 10"
