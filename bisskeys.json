@@ -19,9 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7200",
-    "id": "Fi14_GNVE",
-    "key": "47 BE 56 5B 22 A8 4E 18"
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "07 BB 01 C3 AE 26 CF A3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -30,9 +30,15 @@
     "key": "D6 94 9F 09 E9 85 D1 3F"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12696 V 7200",
+    "id": "PFL CB",
+    "key": "CC FF 52 1D 52 AC 12 10"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 V 3670",
-    "id": "RMG Dubai HD",
+    "frequency": "10823 V 3670",
+    "id": "GCUK Enc 2",
     "key": "34 24 CC 24 DD 16 04 F7"
   },
   {
@@ -43,25 +49,19 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10842 H 9875",
-    "id": "SBK Round 3",
-    "key": "A3 4B 56 44 CA C1 22 AD"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12524 H 4800",
-    "id": "CZE 001/2",
+    "frequency": "12518 H 4800",
+    "id": "CZE 044",
     "key": "CB ED 23 DB 02 AC DE 8C"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12567 H 8020",
+    "frequency": "12566 H 8020",
     "id": "TVN D-564 Enc II MAIN",
     "key": "CB ED 23 DB 02 AC DE 8C"
   },
