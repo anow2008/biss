@@ -7,33 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11519 V 15000",
-    "id": "MAIN BskyB",
-    "key": "F3 18 DA E5 16 CB 04 E5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11544 V 7200",
     "id": "OVERON E-413 MAIN",
     "key": "AB AB 12 68 34 BA BA A8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "Fi15_GNVE",
-    "key": "7B DE 33 8C 9D E5 9F 21"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "Polsat Sport",
-    "key": "07 BB 01 C3 AE 26 CF A3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7200",
-    "id": "Fi14_GNVE",
-    "key": "47 BE 56 5B 22 A8 4E 18"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,21 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7120",
-    "id": "Pitch - Bromley V Cambridge UTD",
-    "key": "09 C3 03 CF 22 DA 48 44"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12696 V 7200",
     "id": "PFL CB",
     "key": "CC FF 52 1D 52 AC 12 10"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10823 V 3670",
-    "id": "GCUK Enc 2",
-    "key": "12 34 56 9C 78 91 23 2C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
