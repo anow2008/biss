@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12727 V 7500",
+        "id": "LPGA - JM Eagle LA Championship",
+        "key": "37 DC 54 67 1C 64 A4 24"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 5",
+        "key": "61 E3 E5 29 D5 1C FA EB"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 4",
+        "key": "13 E3 31 27 D5 19 4A 38"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 3",
+        "key": "C1 D2 4F E2 C4 FE 49 0B"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 2",
+        "key": "5A E3 21 5E D5 14 4A 33"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 1",
+        "key": "EA E3 C7 94 D5 1F FA EE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12678 V 7120",
         "id": "Pitch - Bromley V Cambridge UTD",
         "key": "09 C3 03 CF 22 DA 48 44"
@@ -34,23 +70,5 @@
         "frequency": "12647 V 7200",
         "id": "Fi14_GNVE",
         "key": "47 BE 56 5B 22 A8 4E 18"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10842 H 9875",
-        "id": "SBK Round 3",
-        "key": "A3 4B 56 44 CA C1 22 AD"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7200",
-        "id": "Fi11_GNVE",
-        "key": "D6 94 9F 09 E9 85 D1 3F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12679 V 9875",
-        "id": "YLE",
-        "key": "11 11 22 44 22 33 33 88"
     }
 ]
