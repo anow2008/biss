@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 V 9875",
-    "id": "TUR-119 Main",
-    "key": "33 50 C1 44 D2 46 53 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12679 V 9875",
     "id": "YLE",
     "key": "11 11 22 44 22 33 33 88"
@@ -37,8 +31,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12519 H 4800",
-    "id": "SNG 042",
+    "frequency": "10976 V 4800",
+    "id": "POL49 EN1 Bytom",
     "key": "CB ED 23 DB 02 AC DE 8C"
   },
   {
