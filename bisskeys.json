@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "SAU-030-M",
-    "key": "B1 09 AE 68 D4 08 52 2E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "6C 58 47 0B B5 FB B9 69"
@@ -22,6 +16,12 @@
     "frequency": "11098 H 7200",
     "id": "F489 MAIN",
     "key": "11 6C 9D 1A F5 FA D9 C8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 H 7200",
+    "id": "BUL007 EL M1 Main",
+    "key": "C3 8D D2 22 96 DC 8A FC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,7 +49,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11476 V 4938",
+    "frequency": "11477 V 4938",
     "id": "Medialink CRO-025/1",
     "key": "AB BA 20 85 25 20 26 6B"
   },
@@ -61,7 +61,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11607 V 7200",
+    "frequency": "11606 V 7200",
     "id": "E-228 Main",
     "key": "AB BA 20 85 26 04 17 41"
   },
@@ -82,6 +82,18 @@
     "frequency": "12525 H 4938",
     "id": "YSM-013M",
     "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "07 BB 01 C3 AE 26 CF A3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12629 V 7200",
+    "id": "SAU-031 A",
+    "key": "D6 38 A4 B2 52 7C BF 8D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -111,13 +123,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10819 V 3670",
     "id": "RMG Dubai HD",
-    "key": "13 31 CD 11 AD 17 04 C8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7120",
-    "id": "GCUK Enc 3",
-    "key": "13 31 CD 11 AD 17 04 C8"
+    "key": "79 4D 91 57 75 BF 21 55"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
