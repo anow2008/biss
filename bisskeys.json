@@ -21,18 +21,12 @@
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "LIGA HYPERMOTION 1",
-    "key": "F8 D3 3F 0A 91 A4 88 BD"
+    "key": "13 8D 45 E5 F3 42 3F 74"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11084 H 15000",
-    "id": "UKI-1797 DAZN Boxing Collins v Lorente",
-    "key": "BA 51 D4 DF 4C D5 61 82"
   }
 ]
