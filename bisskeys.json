@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 9875",
-    "id": "GVA_Fi03",
-    "key": "E1 7E E1 40 F0 86 2A A0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11044 V 7120",
     "id": "Pitch - Blackburn V Coventry",
     "key": "7E 35 EE A1 F6 21 92 A9"
@@ -25,48 +19,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 H 7200",
-    "id": "BUL007 EL M1 Main",
-    "key": "C3 8D D2 22 96 DC 8A FC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11176 H 9875",
-    "id": "NEP 1",
-    "key": "78 1F A2 39 FE C7 83 48"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11188 H 9875",
-    "id": "E455 SERVICE PARK MAIN",
-    "key": "94 69 33 30 AD D6 17 9A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11569 V 9600",
-    "id": "M-THREE_FEED 1",
-    "key": "A1 97 6B A3 12 04 CC E2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "VRT - Brabantse Pijl",
-    "key": "D0 41 7E 8F 71 FF 26 96"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "Polsat Sport",
-    "key": "07 BB 01 C3 AE 26 CF A3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12629 V 7200",
-    "id": "SAU-031 A",
-    "key": "D6 38 A4 B2 52 7C BF 8D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12650 H 7500",
     "id": "NLFLEV_HOL-90 CH-A",
     "key": "11 A8 CB 84 DA 65 4A 89"
@@ -78,6 +30,12 @@
     "key": "37 DC 54 67 1C 64 A4 24"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 2",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "LIGA HYPERMOTION 1",
@@ -85,7 +43,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
