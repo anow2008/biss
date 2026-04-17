@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10974 H 9875",
+    "id": "F419_YOUTH_SF",
+    "key": "47 9C 3E 21 A1 CC 02 6F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11105 V 9875",
+    "id": "TUR-119 Main",
+    "key": "33 50 C1 44 D2 46 53 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12650 H 7500",
+    "id": "NLFLEV_HOL-90 CH-A",
+    "key": "11 A8 CB 84 DA 65 4A 89"
+  }
+]
