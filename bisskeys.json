@@ -13,19 +13,19 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11098 H 7200",
-    "id": "F489 MAIN",
-    "key": "11 6C 9D 1A F5 FA D9 C8"
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "6C 58 47 0B B5 FB B9 69"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11126 H 7200",
+    "frequency": "11127 H 7200",
     "id": "EGY-017-main",
     "key": "CA F1 FE B9 ED 17 04 08"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11136 H 7200",
+    "frequency": "11135 H 7200",
     "id": "ENC 10",
     "key": "CA F1 FE B9 ED 17 04 08"
   },
@@ -43,15 +43,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12545 H 4938",
-    "id": "YSM-012 MAIN",
+    "frequency": "12518 H 7200",
+    "id": "YSM-016 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12650 H 7500",
-    "id": "NLFLEV_HOL-90 CH-A",
-    "key": "11 A8 CB 84 DA 65 4A 89"
+    "frequency": "12525 H 4938",
+    "id": "YSM-013M",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -67,7 +67,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
+    "frequency": "10819 V 3670",
     "id": "RMG Dubai HD",
     "key": "13 31 CD 11 AD 17 04 C8"
   },
@@ -76,12 +76,6 @@
     "frequency": "10829 V 7120",
     "id": "GCUK Enc 3",
     "key": "13 31 CD 11 AD 17 04 C8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10841 H 9875",
-    "id": "SBK Round 3",
-    "key": "AB DC 74 FB 32 CD BA B9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -100,5 +94,17 @@
     "frequency": "10980 H 3600",
     "id": "F2-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10988 V 4800",
+    "id": "TVP POL-32  ENC 1",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11084 H 15000",
+    "id": "UKI-1797 DAZN Boxing Collins v Lorente",
+    "key": "BA 51 D4 DF 4C D5 61 82"
   }
 ]
