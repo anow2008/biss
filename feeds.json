@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "07 BB 01 C3 AE 26 CF A3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11176 H 9875",
         "id": "NEP 1",
         "key": "78 1F A2 39 FE C7 83 48"
@@ -58,17 +64,5 @@
         "frequency": "11107 H 7200",
         "id": "BUL007 EL M1 Back",
         "key": "C3 8D D2 22 96 DC 8A FC"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "F8 D3 3F 0A 91 A4 88 BD"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11098 H 7200",
-        "id": "F489 MAIN",
-        "key": "11 6C 9D 1A F5 FA D9 C8"
     }
 ]
