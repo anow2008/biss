@@ -70,11 +70,5 @@
         "frequency": "12728 V 7500",
         "id": "LPGA - JM Eagle LA Championship",
         "key": "37 DC 54 67 1C 64 A4 24"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11607 V 7200",
-        "id": "E-228 Main",
-        "key": "AB BA 20 85 26 04 17 41"
     }
 ]
