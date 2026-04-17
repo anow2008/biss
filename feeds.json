@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12650 H 7500",
+        "id": "NLFLEV_HOL-90 CH-A",
+        "key": "11 A8 CB 84 DA 65 4A 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10974 H 9875",
+        "id": "F419_YOUTH_SF",
+        "key": "47 9C 3E 21 A1 CC 02 6F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11105 V 9875",
+        "id": "TUR-119 Main",
+        "key": "33 50 C1 44 D2 46 53 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12727 V 7500",
         "id": "LPGA - JM Eagle LA Championship",
         "key": "37 DC 54 67 1C 64 A4 24"
@@ -46,29 +64,5 @@
         "frequency": "11544 V 7200",
         "id": "OVERON E-413 MAIN",
         "key": "AB AB 12 68 34 BA BA A8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12696 V 7200",
-        "id": "PFL CB",
-        "key": "CC FF 52 1D 52 AC 12 10"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12593 V 7200",
-        "id": "Polsat Sport",
-        "key": "07 BB 01 C3 AE 26 CF A3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7200",
-        "id": "Fi15_GNVE",
-        "key": "7B DE 33 8C 9D E5 9F 21"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12647 V 7200",
-        "id": "Fi14_GNVE",
-        "key": "47 BE 56 5B 22 A8 4E 18"
     }
 ]
