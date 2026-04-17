@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11044 V 7120",
+        "id": "Pitch - Blackburn V Coventry",
+        "key": "7E 35 EE A1 F6 21 92 A9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11089 H 7120",
+        "id": "Pitch  Gallagher - Bristol Bears V Gloucester",
+        "key": "18 CC E7 CB E6 32 11 29"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11022 V 9875",
+        "id": "GVA_Fi03",
+        "key": "E1 7E E1 40 F0 86 2A A0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12593 V 7200",
         "id": "Polsat Sport",
         "key": "07 BB 01 C3 AE 26 CF A3"
@@ -58,11 +76,5 @@
         "frequency": "11084 H 15000",
         "id": "UKI-1797 DAZN Boxing Collins v Lorente",
         "key": "BA 51 D4 DF 4C D5 61 82"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11107 H 7200",
-        "id": "BUL007 EL M1 Back",
-        "key": "C3 8D D2 22 96 DC 8A FC"
     }
 ]
