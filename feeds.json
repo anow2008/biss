@@ -1,5 +1,59 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10973 V 9600",
+        "id": "POL 48 ENC1",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10981 H 3600",
+        "id": "F2-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12546 H 4938",
+        "id": "YSM-012 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11061 H 7200",
+        "id": "SAU-030-M",
+        "key": "B1 09 AE 68 D4 08 52 2E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7120",
+        "id": "GCUK Enc 3",
+        "key": "13 31 CD 11 AD 17 04 C8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12511 V 7200",
+        "id": "VRT - Brabantse Pijl",
+        "key": "D0 41 7E 8F 71 FF 26 96"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10841 H 9875",
+        "id": "SBK Round 3",
+        "key": "AB DC 74 FB 32 CD BA B9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11248 H 9875",
+        "id": "F529_BKUP_MAIN",
+        "key": "47 9C 3E 21 A1 CC 02 6F"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12650 H 7500",
         "id": "NLFLEV_HOL-90 CH-A",
@@ -7,62 +61,8 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10974 H 9875",
-        "id": "F419_YOUTH_SF",
-        "key": "47 9C 3E 21 A1 CC 02 6F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11105 V 9875",
         "id": "TUR-119 Main",
         "key": "33 50 C1 44 D2 46 53 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12727 V 7500",
-        "id": "LPGA - JM Eagle LA Championship",
-        "key": "37 DC 54 67 1C 64 A4 24"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 5",
-        "key": "61 E3 E5 29 D5 1C FA EB"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 4",
-        "key": "13 E3 31 27 D5 19 4A 38"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 3",
-        "key": "C1 D2 4F E2 C4 FE 49 0B"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 2",
-        "key": "5A E3 21 5E D5 14 4A 33"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 1",
-        "key": "EA E3 C7 94 D5 1F FA EE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 V 7120",
-        "id": "Pitch - Bromley V Cambridge UTD",
-        "key": "09 C3 03 CF 22 DA 48 44"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11544 V 7200",
-        "id": "OVERON E-413 MAIN",
-        "key": "AB AB 12 68 34 BA BA A8"
     }
 ]
