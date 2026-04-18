@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 H 7200",
-    "id": "E-95 MAIN",
-    "key": "18 04 20 3C 26 FA CA EA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10978 V 7120",
     "id": "Pitch W6N Wal v Fran UNBRANDED",
     "key": "63 6D D2 A2 15 99 32 E0"
@@ -19,9 +13,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 V 7120",
+    "id": "Pitch W6N Ire v Italy BRANDED",
+    "key": "37 87 BC 7A 14 AA 11 CF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11005 H 7120",
     "id": "BT_SES_12_SDI",
     "key": "34 AA BC 9A D8 18 04 F4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11005 V 7120",
+    "id": "W6N Ire v Italy UNBRANDED",
+    "key": "37 87 BC 7A 14 AA 11 CF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11062 H 7200",
+    "id": "ITA633_MAIN",
+    "key": "E2 5D 2C 6B 82 AC 34 62"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -52,6 +64,18 @@
     "frequency": "11127 H 7200",
     "id": "ENC 10",
     "key": "FE ED CA B5 F1 18 04 0D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11164 H 9875",
+    "id": "Service 1",
+    "key": "18 04 FE 1A ED 20 26 33"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11176 H 9875",
+    "id": "NEP 1",
+    "key": "78 1F A2 39 FE C7 83 48"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -97,6 +121,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12629 V 7200",
+    "id": "SAU-031 B",
+    "key": "00 0B 5D 68 B8 14 AA 76"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12638 V 7200",
     "id": "E-228 Backup",
     "key": "31 97 CD 95 F4 60 88 DC"
@@ -109,15 +139,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12650 H 7500",
-    "id": "NLFLEV_HOL-90 CH-A",
-    "key": "11 A8 CB 84 DA 65 4A 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12656 V 7120",
     "id": "BT_SES_22_SDI",
     "key": "9A 1E 04 BC 04 C1 23 E8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "UFC Fight Night on P+ #8: All Fights",
+    "key": "77 91 2A 32 A4 91 52 87"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -126,34 +156,40 @@
     "key": "13 8D 45 E5 F3 42 3F 74"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11264 H 7200",
+    "id": "ITA",
+    "key": "3E 83 F2 B3 CA 53 9D BA"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11287 V 7200",
+    "id": "INTER FEM FRA VS NED",
+    "key": "EF DA 18 E1 04 CB DF AE"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10819 V 3670",
     "id": "RMG Dubai HD",
-    "key": "AC DC 23 AB 45 AA AA 99"
+    "key": "24 B0 BA 8E C7 C6 15 A2"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10841 H 9875",
+    "frequency": "10838 V 7500",
+    "id": "TUR 161 Main",
+    "key": "24 B0 BA 8E C7 C6 15 A2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10842 H 9875",
     "id": "SBK Round 3",
     "key": "AC DC 23 AB 45 AA AA 99"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10847 V 7120",
-    "id": "GCUK Enc 5",
-    "key": "21 21 DD 1F DC 13 3A 29"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12611 V 7500",
-    "id": "TUR156 Main",
-    "key": "30 E3 99 AC 5A 8A CB AF"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -163,14 +199,26 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11054 H 4938",
-    "id": "POL-100 FEED  Backup",
-    "key": "18 04 20 3C 26 11 11 48"
+    "frequency": "11084 H 14240",
+    "id": "Iceland",
+    "key": "DE 31 B7 C6 6C C5 AA DB"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11062 H 7200",
-    "id": "POL-100 FEED  Main",
-    "key": "18 04 20 3C 26 11 11 48"
+    "frequency": "12548 H 7200",
+    "id": "F419_MAIN",
+    "key": "AB CF 18 92 04 ED FF F0"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12565 H 4938",
+    "id": "YSM-020",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12571 H 4938",
+    "id": "ITA 415 Main",
+    "key": "20 25 CC 11 CC 20 24 10"
   }
 ]
