@@ -1,9 +1,33 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12551 H 4938",
-        "id": "YSM-012 MAIN",
+        "frequency": "11556 V 10000",
+        "id": "E393 ENGLISH BUP",
+        "key": "F6 89 90 0F A0 61 F7 F8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12557 H 4938",
+        "id": "YSM-021M",
         "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10987 H 7200",
+        "id": "ISRUV enc 1",
+        "key": "DE 2F 73 80 CA 34 21 1F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11022 V 9875",
+        "id": "D-462",
+        "key": "9D 28 81 46 06 75 22 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12647 V 7120",
+        "id": "Gallagher PREM - Bath Rugby v Harlequins",
+        "key": "34 DD 81 92 81 F7 7F F7"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -58,29 +82,5 @@
         "frequency": "11084 H 14240",
         "id": "Iceland",
         "key": "DE 31 B7 C6 6C C5 AA DB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10838 V 7500",
-        "id": "TUR 161 Main",
-        "key": "24 B0 BA 8E C7 C6 15 A2"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11264 H 7200",
-        "id": "ITA",
-        "key": "3E 83 F2 B3 CA 53 9D BA"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11287 V 7200",
-        "id": "INTER FEM FRA VS NED",
-        "key": "EF DA 18 E1 04 CB DF AE"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11062 H 7200",
-        "id": "POL-100 FEED  Main",
-        "key": "18 04 20 3C 26 11 11 48"
     }
 ]
