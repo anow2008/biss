@@ -37,6 +37,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7500",
+    "id": "AFD",
+    "key": "14 1A C8 F6 1A BD 19 F0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12638 V 7200",
     "id": "Fi15_GNVE",
     "key": "D7 F0 8F 56 A4 A8 CB 17"
@@ -46,6 +52,12 @@
     "frequency": "12678 V 7500",
     "id": "ENC 3",
     "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12728 V 7500",
+    "id": "LPGA - JM Eagle LA Championship",
+    "key": "37 DC 54 67 1C 64 A4 24"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
