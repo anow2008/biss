@@ -1,15 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7120",
-    "id": "W6N Scot v Eng BRANDED",
-    "key": "F3 A4 39 D0 92 E0 AD 1F"
+    "frequency": "10960 H 7200",
+    "id": "E-95 MAIN",
+    "key": "18 04 20 3C 26 FA CA EA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 H 7200",
-    "id": "E-95 MAIN",
-    "key": "18 04 20 3C 26 FA CA EA"
+    "frequency": "10960 V 7120",
+    "id": "W6N Scot v Eng BRANDED",
+    "key": "F3 A4 39 D0 92 E0 AD 1F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,15 +19,39 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11052 V 7120",
-    "id": "Pitch Portsmouth v Leicester",
-    "key": "AA 7C 65 8B 43 21 11 75"
+    "frequency": "10978 V 7120",
+    "id": "Pitch W6N Wal v Fran UNBRANDED",
+    "key": "63 6D D2 A2 15 99 32 E0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11093 V 9875",
-    "id": "TUR-119 Main",
-    "key": "33 50 C1 44 D2 46 53 6B"
+    "frequency": "10987 V 7120",
+    "id": "Pitch W6N Wal v Fran BRANDED",
+    "key": "63 6D D2 A2 15 99 32 E0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11005 H 7120",
+    "id": "BT_SES_12_SDI",
+    "key": "34 AA BC 9A D8 18 04 F4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11062 V 7120",
+    "id": "EFL - Hull v Birmingham",
+    "key": "4F 3A 35 BE 36 38 23 91"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 V 7200",
+    "id": "GVA_Fi04 111 AM",
+    "key": "D1 0E 57 36 8F 0B 3C D6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11081 V 9875",
+    "id": "GVA_Fi03 LFP 03",
+    "key": "8D 3B B0 78 39 76 6A 19"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,7 +73,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11579 V 7200",
+    "frequency": "11579 H 7200",
+    "id": "B 191 DGI",
+    "key": "F8 AC D0 74 41 8E 45 14"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11580 V 7200",
     "id": "Ireland v Poland world",
     "key": "20 26 FB 41 DE 04 18 FA"
   },
@@ -67,15 +97,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12638 V 7200",
+    "id": "E-228 Backup",
+    "key": "31 97 CD 95 F4 60 88 DC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12641 H 7200",
+    "id": "DHB Pokal",
+    "key": "18 04 FB 17 AA 14 59 17"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12650 H 7500",
     "id": "NLFLEV_HOL-90 CH-A",
     "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7200",
-    "id": "ENC 1",
-    "key": "BC AA 45 AB 56 BB CA DB"
+    "frequency": "12656 V 7120",
+    "id": "BT_SES_22_SDI",
+    "key": "9A 1E 04 BC 04 C1 23 E8"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
