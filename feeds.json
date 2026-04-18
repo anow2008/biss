@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "C1 00 A6 67 19 4C A7 0C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12728 V 7500",
+        "id": "LPGA - JM Eagle LA Championship",
+        "key": "37 DC 54 67 1C 64 A4 24"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12678 V 7500",
         "id": "ENC 3",
@@ -76,11 +88,5 @@
         "frequency": "11107 H 7200",
         "id": "Fi01 ACB",
         "key": "D6 02 F3 CB 70 0B 28 A3"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12558 H 7200",
-        "id": "SWE-041 EHF ESB-CSM",
-        "key": "F2 CD D0 8F 41 8E 45 14"
     }
 ]
