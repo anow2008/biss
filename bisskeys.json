@@ -13,21 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 H 7200",
-    "id": "ISRUV enc 1",
-    "key": "DE 2F 73 80 CA 34 21 1F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 V 7120",
-    "id": "Pitch W6N Ire v Italy BRANDED",
-    "key": "37 87 BC 7A 14 AA 11 CF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 V 7120",
-    "id": "W6N Ire v Italy UNBRANDED",
-    "key": "37 87 BC 7A 14 AA 11 CF"
+    "frequency": "11005 H 7120",
+    "id": "WWCQ Belgium - Scotland",
+    "key": "4B 21 A9 15 E7 3D 8F B3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,21 +25,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 9875",
-    "id": "D-462",
-    "key": "9D 28 81 46 06 75 22 9D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11044 V 7200",
     "id": "G18 E336 Main Via 1",
     "key": "AA 12 DD 99 22 32 AD 01"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "ITA633_MAIN",
-    "key": "E2 5D 2C 6B 82 AC 34 62"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,13 +37,19 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11164 H 9875",
-    "id": "Service 1",
-    "key": "18 04 FE 1A ED 20 26 33"
+    "frequency": "11126 H 7200",
+    "id": "ENC 11",
+    "key": "FE ED CA B5 F1 18 04 0D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11557 V 10000",
+    "frequency": "11153 H 7200",
+    "id": "Medialink CRO-021/1",
+    "key": "20 25 AB F0 CD 20 26 13"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11556 V 10000",
     "id": "E393 ENGLISH BUP",
     "key": "F6 89 90 0F A0 61 F7 F8"
   },
@@ -85,33 +67,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12522 H 4938",
-    "id": "YSM-013M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12545 H 4938",
     "id": "YSM-016 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12557 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL 058_T2",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12602 V 7200",
-    "id": "POL103",
-    "key": "15 58 35 A2 71 42 63 16"
+    "frequency": "12573 H 7200",
+    "id": "E-228 Main",
+    "key": "AB BA 18 7D 04 20 26 4A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -124,12 +88,6 @@
     "frequency": "12641 H 7200",
     "id": "DHB Pokal",
     "key": "18 04 FB 17 AA 14 59 17"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7120",
-    "id": "Gallagher PREM - Bath Rugby v Harlequins",
-    "key": "34 DD 81 92 81 F7 7F F7"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -154,12 +112,6 @@
     "frequency": "11265 H 7200",
     "id": "URC",
     "key": "1E 83 F2 93 CA 53 9D BA"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11274 H 7200",
-    "id": "Encoder 1",
-    "key": "6E EF 36 93 3B 29 86 EA"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -223,15 +175,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12558 H 7200",
-    "id": "SWE-041 EHF ESB-CSM",
-    "key": "F2 CD D0 8F 41 8E 45 14"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12565 H 4938",
-    "id": "YSM-020",
-    "key": "AB BA 20 85 25 20 26 6B"
+    "frequency": "12549 H 7200",
+    "id": "F419_MAIN",
+    "key": "AB CF 18 92 04 ED FF F0"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
