@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11062 H 7200",
+        "id": "POL-100 FEED  Main",
+        "key": "18 04 20 3C 26 11 11 48"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11580 H 7200",
+        "id": "B 191 DGI",
+        "key": "F8 AC D0 74 41 8E 45 14"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11081 V 9875",
+        "id": "GVA_Fi03 LFP 03",
+        "key": "8D 3B B0 78 39 76 6A 19"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11005 H 7120",
+        "id": "BT_SES_12_SDI",
+        "key": "34 AA BC 9A D8 18 04 F4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11062 V 7120",
+        "id": "EFL - Hull v Birmingham",
+        "key": "4F 3A 35 BE 36 38 23 91"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12656 V 7120",
         "id": "BT_SES_22_SDI",
@@ -34,23 +64,5 @@
         "frequency": "11070 V 7200",
         "id": "GVA_Fi04 111 AM",
         "key": "D1 0E 57 36 8F 0B 3C D6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11569 V 9875",
-        "id": "SLO-008 Tx 1",
-        "key": "08 75 72 EF 54 4E 4C EE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12610 V 7500",
-        "id": "TUR156 Main",
-        "key": "30 E3 99 AC 5A 8A CB AF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12593 V 7200",
-        "id": "POL 058_T2",
-        "key": "15 58 35 A2 71 42 63 16"
     }
 ]
