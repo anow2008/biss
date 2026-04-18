@@ -31,12 +31,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 H 7200",
-    "id": "Fi01 ACB",
-    "key": "D6 02 F3 CB 70 0B 28 A3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11126 H 7200",
     "id": "ENC 11",
     "key": "FE ED CA B5 F1 18 04 0D"
