@@ -1,5 +1,65 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7120",
+        "id": "GCUK Enc 5",
+        "key": "21 21 DD 1F DC 13 3A 29"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10841 H 9875",
+        "id": "SBK Round 3",
+        "key": "AC DC 23 AB 45 AA AA 99"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10981 H 3600",
+        "id": "F5-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11105 V 9875",
+        "id": "MXGP M",
+        "key": "DB 7F 81 DB E0 A8 54 DC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11093 V 9875",
+        "id": "TUR-119 Main",
+        "key": "33 50 C1 44 D2 46 53 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11127 H 7200",
+        "id": "ENC 10",
+        "key": "FE ED CA B5 F1 18 04 0D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11053 V 7120",
+        "id": "Pitch Portsmouth v Leicester",
+        "key": "AA 7C 65 8B 43 21 11 75"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12728 V 7200",
+        "id": "ENC 1",
+        "key": "BC AA 45 AB 56 BB CA DB"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 34000",
         "id": "LIGA HYPERMOTION 1",
@@ -7,68 +67,20 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 2",
-        "key": "12 3C AA F8 14 22 A3 D9"
+        "frequency": "10960 H 7200",
+        "id": "E-95 MAIN",
+        "key": "18 04 20 3C 26 FA CA EA"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11044 V 7120",
-        "id": "Pitch - Blackburn V Coventry",
-        "key": "7E 35 EE A1 F6 21 92 A9"
+        "frequency": "12564 H 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 04 18 42"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11089 H 7120",
-        "id": "Pitch  Gallagher - Bristol Bears V Gloucester",
-        "key": "18 CC E7 CB E6 32 11 29"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 V 9875",
-        "id": "GVA_Fi03",
-        "key": "E1 7E E1 40 F0 86 2A A0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12593 V 7200",
-        "id": "Polsat Sport",
-        "key": "07 BB 01 C3 AE 26 CF A3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11176 H 9875",
-        "id": "NEP 1",
-        "key": "78 1F A2 39 FE C7 83 48"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11188 H 9875",
-        "id": "E455 SERVICE PARK MAIN",
-        "key": "94 69 33 30 AD D6 17 9A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11476 V 4938",
-        "id": "Medialink CRO-025/1",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10847 V 7500",
-        "id": "E333 M",
-        "key": "79 4D 91 57 75 BF 21 55"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12728 V 7500",
-        "id": "LPGA - JM Eagle LA Championship",
-        "key": "37 DC 54 67 1C 64 A4 24"
+        "frequency": "12629 V 7200",
+        "id": "SAU-031 A",
+        "key": "00 0B 5D 68 B8 14 AA 76"
     }
 ]
