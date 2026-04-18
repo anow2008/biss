@@ -43,15 +43,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12638 V 7200",
-    "id": "Fi15_GNVE",
-    "key": "D7 F0 8F 56 A4 A8 CB 17"
+    "frequency": "11556 V 10000",
+    "id": "E393 ENGLISH BUP",
+    "key": "F6 89 90 0F A0 61 F7 F8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12650 H 7500",
-    "id": "NLFLEV_HOL-90 CH-A",
-    "key": "11 A8 CB 84 DA 65 4A 89"
+    "frequency": "12638 V 7200",
+    "id": "Fi15_GNVE",
+    "key": "D7 F0 8F 56 A4 A8 CB 17"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,7 +61,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
+    "frequency": "12728 V 7500",
+    "id": "LPGA - JM Eagle LA Championship",
+    "key": "37 DC 54 67 1C 64 A4 24"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12737 V 7200",
     "id": "UFC Fight Night on P+ #8: All Fights",
     "key": "77 91 2A 32 A4 91 52 87"
   },
@@ -69,7 +75,7 @@
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "LIGA HYPERMOTION 1",
-    "key": "13 8D 45 E5 F3 42 3F 74"
+    "key": "C1 00 A6 67 19 4C A7 0C"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -85,7 +91,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11287 V 7200",
+    "frequency": "11288 V 7200",
     "id": "INTER FEM FRA VS NED",
     "key": "EF DA 18 E1 04 CB DF AE"
   },
@@ -93,7 +99,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10830 V 7120",
     "id": "GCUK Enc 3",
-    "key": "12 34 56 9C 78 91 23 2C"
+    "key": "14 34 AA F2 CC 18 04 E8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -102,22 +108,10 @@
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10980 H 3600",
-    "id": "F5-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-110",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11001 V 15000",
-    "id": "POL085",
-    "key": "77 93 52 5C 99 08 86 27"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12609 V 9875",
+    "id": "EMG HOL309-1",
+    "key": "B7 3C 11 04 8E AA D4 0C"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -130,12 +124,6 @@
     "frequency": "11062 H 7200",
     "id": "POL-100 FEED  Main",
     "key": "18 04 20 3C 26 11 11 48"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11084 H 14240",
-    "id": "Iceland",
-    "key": "DE 31 B7 C6 6C C5 AA DB"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
