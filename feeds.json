@@ -1,15 +1,33 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11274 H 7200",
+        "id": "Encoder 1",
+        "key": "6E EF 36 93 3B 29 86 EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12516 H 4938",
+        "id": "YSM-015BU",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11597 V 7200",
+        "id": "Mediapro Portugal",
+        "key": "18 04 AA C6 BB 20 26 01"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11044 V 7200",
+        "id": "G18 E336 Main Via 1",
+        "key": "AA 12 DD 99 22 32 AD 01"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11556 V 10000",
         "id": "E393 ENGLISH BUP",
         "key": "F6 89 90 0F A0 61 F7 F8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12557 H 4938",
-        "id": "YSM-021M",
-        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -46,41 +64,5 @@
         "frequency": "11005 V 7120",
         "id": "W6N Ire v Italy UNBRANDED",
         "key": "37 87 BC 7A 14 AA 11 CF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11164 H 9875",
-        "id": "Service 1",
-        "key": "18 04 FE 1A ED 20 26 33"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11062 H 7200",
-        "id": "ITA633_MAIN",
-        "key": "E2 5D 2C 6B 82 AC 34 62"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11176 H 9875",
-        "id": "NEP 1",
-        "key": "78 1F A2 39 FE C7 83 48"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12571 H 4938",
-        "id": "ITA 415 Main",
-        "key": "20 25 CC 11 CC 20 24 10"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12548 H 7200",
-        "id": "F419_MAIN",
-        "key": "AB CF 18 92 04 ED FF F0"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11084 H 14240",
-        "id": "Iceland",
-        "key": "DE 31 B7 C6 6C C5 AA DB"
     }
 ]
