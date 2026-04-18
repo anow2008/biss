@@ -1,21 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10978 V 7120",
-    "id": "Pitch W6N Wal v Fran UNBRANDED",
-    "key": "63 6D D2 A2 15 99 32 E0"
+    "frequency": "10962 H 9875",
+    "id": "E378 VIA1",
+    "key": "F6 89 90 0F A0 61 F7 F8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10974 H 9875",
+    "id": "E-378 VIA 2",
+    "key": "F6 89 90 0F A0 61 F7 F8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10987 H 7200",
     "id": "ISRUV enc 1",
     "key": "DE 2F 73 80 CA 34 21 1F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7120",
-    "id": "Pitch W6N Wal v Fran BRANDED",
-    "key": "63 6D D2 A2 15 99 32 E0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,7 +31,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11019 H 14400",
+    "frequency": "11018 H 14400",
     "id": "GVA_Fi07",
     "key": "12 04 77 8D B8 48 63 63"
   },
@@ -55,21 +55,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 V 7200",
-    "id": "GVA_Fi04 111 AM",
-    "key": "D1 0E 57 36 8F 0B 3C D6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11081 V 9875",
-    "id": "GVA_Fi03 LFP 03",
-    "key": "8D 3B B0 78 39 76 6A 19"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11127 H 7200",
-    "id": "ENC 10",
-    "key": "FE ED CA B5 F1 18 04 0D"
+    "frequency": "11107 H 7200",
+    "id": "Fi01 ACB",
+    "key": "D6 02 F3 CB 70 0B 28 A3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,21 +67,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11188 H 9875",
-    "id": "E455 SERVICE PARK MAIN",
-    "key": "94 69 33 30 AD D6 17 9A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11556 V 10000",
     "id": "E393 ENGLISH BUP",
     "key": "F6 89 90 0F A0 61 F7 F8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11569 V 9875",
-    "id": "SLO-008 Tx 1",
-    "key": "08 75 72 EF 54 4E 4C EE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -109,14 +85,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12545 H 4938",
-    "id": "YSM-016 MAIN",
+    "frequency": "12522 H 4938",
+    "id": "YSM-013M",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12551 H 4938",
-    "id": "YSM-012 MAIN",
+    "frequency": "12545 H 4938",
+    "id": "YSM-016 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -193,7 +169,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -205,15 +181,39 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL-110",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11001 V 15000",
+    "id": "POL085",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11054 H 4938",
+    "id": "POL-100 FEED  Backup",
+    "key": "18 04 20 3C 26 11 11 48"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11062 H 7200",
+    "id": "POL-100 FEED  Main",
+    "key": "18 04 20 3C 26 11 11 48"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11084 H 14240",
     "id": "Iceland",
     "key": "DE 31 B7 C6 6C C5 AA DB"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12548 H 7200",
-    "id": "F419_MAIN",
-    "key": "AB CF 18 92 04 ED FF F0"
+    "frequency": "12558 H 7200",
+    "id": "SWE-041 EHF ESB-CSM",
+    "key": "F2 CD D0 8F 41 8E 45 14"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
