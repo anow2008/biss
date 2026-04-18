@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12638 V 7200",
+        "id": "Fi15_GNVE",
+        "key": "D7 F0 8F 56 A4 A8 CB 17"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 V 7200",
+        "id": "WSHT ENC58",
+        "key": "77 91 2A 32 A4 91 52 87"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11468 V 9600",
+        "id": "Svc1",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11268 V 9875",
         "id": "NLEMG HOL312-1",
@@ -64,11 +82,5 @@
         "frequency": "11001 V 15000",
         "id": "POL085",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11274 H 7200",
-        "id": "Encoder 1",
-        "key": "6E EF 36 93 3B 29 86 EA"
     }
 ]
