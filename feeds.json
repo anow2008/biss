@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11268 V 9875",
+        "id": "NLEMG HOL312-1",
+        "key": "DD F0 BE 8B 4F D0 1B 3A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12573 H 7200",
+        "id": "E-228 Main",
+        "key": "AB BA 18 7D 04 20 26 4A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11188 H 9875",
+        "id": "YLE",
+        "key": "45 7B DF 9F 3A 3E 7A F2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11005 H 7120",
+        "id": "WWCQ Belgium - Scotland",
+        "key": "4B 21 A9 15 E7 3D 8F B3"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11153 H 7200",
         "id": "Medialink CRO-021/1",
@@ -46,17 +70,5 @@
         "frequency": "11274 H 7200",
         "id": "Encoder 1",
         "key": "6E EF 36 93 3B 29 86 EA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11597 V 7200",
-        "id": "Mediapro Portugal",
-        "key": "18 04 AA C6 BB 20 26 01"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11044 V 7200",
-        "id": "G18 E336 Main Via 1",
-        "key": "AA 12 DD 99 22 32 AD 01"
     }
 ]
