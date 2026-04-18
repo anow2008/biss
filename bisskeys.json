@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 V 7120",
+    "id": "W6N Scot v Eng BRANDED",
+    "key": "F3 A4 39 D0 92 E0 AD 1F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10961 H 7200",
+    "id": "E-95 MAIN",
+    "key": "18 04 20 3C 26 FA CA EA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10969 V 7120",
+    "id": "W6N Scot v England UNBRANDED",
+    "key": "F3 A4 39 D0 92 E0 AD 1F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11052 V 7120",
+    "id": "Pitch Portsmouth v Leicester",
+    "key": "AA 7C 65 8B 43 21 11 75"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11093 V 9875",
+    "id": "TUR-119 Main",
+    "key": "33 50 C1 44 D2 46 53 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11105 V 9875",
+    "id": "MXGP M",
+    "key": "DB 7F 81 DB E0 A8 54 DC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11127 H 7200",
+    "id": "ENC 10",
+    "key": "FE ED CA B5 F1 18 04 0D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11189 H 9875",
+    "id": "E455 SERVICE PARK MAIN",
+    "key": "94 69 33 30 AD D6 17 9A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11579 V 7200",
+    "id": "Ireland v Poland world",
+    "key": "20 26 FB 41 DE 04 18 FA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12574 H 7200",
+    "id": "E242 WEC IMOLA main",
+    "key": "07 15 AA C6 BC 20 26 02"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "POL 058_T2",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12650 H 7500",
+    "id": "NLFLEV_HOL-90 CH-A",
+    "key": "11 A8 CB 84 DA 65 4A 89"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12728 V 7200",
+    "id": "ENC 1",
+    "key": "BC AA 45 AB 56 BB CA DB"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 34000",
+    "id": "LIGA HYPERMOTION 1",
+    "key": "13 8D 45 E5 F3 42 3F 74"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "RMG Dubai HD",
+    "key": "AC DC 23 AB 45 AA AA 99"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10841 H 9875",
+    "id": "SBK Round 3",
+    "key": "AC DC 23 AB 45 AA AA 99"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10848 V 7120",
+    "id": "GCUK Enc 5",
+    "key": "21 21 DD 1F DC 13 3A 29"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12611 V 7500",
+    "id": "TUR156 Main",
+    "key": "30 E3 99 AC 5A 8A CB AF"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10981 H 3600",
+    "id": "F5-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL 030",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  }
+]
