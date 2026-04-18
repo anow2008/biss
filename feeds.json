@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12609 V 9875",
+        "id": "EMG HOL309-1",
+        "key": "B7 3C 11 04 8E AA D4 0C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7120",
+        "id": "GCUK Enc 3",
+        "key": "14 34 AA F2 CC 18 04 E8"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 34000",
         "id": "LIGA HYPERMOTION 1",
@@ -82,11 +94,5 @@
         "frequency": "10974 H 9875",
         "id": "E-378 VIA 2",
         "key": "F6 89 90 0F A0 61 F7 F8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11107 H 7200",
-        "id": "Fi01 ACB",
-        "key": "D6 02 F3 CB 70 0B 28 A3"
     }
 ]
