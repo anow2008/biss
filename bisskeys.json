@@ -19,12 +19,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 H 7120",
-    "id": "WWCQ Belgium - Scotland",
-    "key": "4B 21 A9 15 E7 3D 8F B3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11044 V 7200",
     "id": "G18 E336 Main Via 1",
     "key": "AA 12 DD 99 22 32 AD 01"
@@ -49,18 +43,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12545 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12573 H 7200",
-    "id": "E-228 Main",
-    "key": "AB BA 18 7D 04 20 26 4A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12638 V 7200",
     "id": "Fi15_GNVE",
     "key": "D7 F0 8F 56 A4 A8 CB 17"
@@ -73,7 +55,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
+    "frequency": "12678 V 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
     "id": "UFC Fight Night on P+ #8: All Fights",
     "key": "77 91 2A 32 A4 91 52 87"
   },
