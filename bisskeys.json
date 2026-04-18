@@ -25,18 +25,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11126 H 7200",
-    "id": "ENC 11",
-    "key": "FE ED CA B5 F1 18 04 0D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11153 H 7200",
-    "id": "Medialink CRO-021/1",
-    "key": "20 25 AB F0 CD 20 26 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11468 V 9600",
     "id": "Svc1",
     "key": "B8 0D 7C 41 8E F9 5E E5"
@@ -61,13 +49,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7500",
-    "id": "LPGA - JM Eagle LA Championship",
-    "key": "37 DC 54 67 1C 64 A4 24"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
+    "frequency": "12736 V 7200",
     "id": "UFC Fight Night on P+ #8: All Fights",
     "key": "77 91 2A 32 A4 91 52 87"
   },
@@ -76,24 +58,6 @@
     "frequency": "10732 V 34000",
     "id": "LIGA HYPERMOTION 1",
     "key": "C1 00 A6 67 19 4C A7 0C"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11265 H 7200",
-    "id": "URC",
-    "key": "1E 83 F2 93 CA 53 9D BA"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11268 V 9875",
-    "id": "NLEMG HOL312-1",
-    "key": "DD F0 BE 8B 4F D0 1B 3A"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11288 V 7200",
-    "id": "INTER FEM FRA VS NED",
-    "key": "EF DA 18 E1 04 CB DF AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -108,12 +72,6 @@
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12609 V 9875",
-    "id": "EMG HOL309-1",
-    "key": "B7 3C 11 04 8E AA D4 0C"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11054 H 4938",
     "id": "POL-100 FEED  Backup",
@@ -124,11 +82,5 @@
     "frequency": "11062 H 7200",
     "id": "POL-100 FEED  Main",
     "key": "18 04 20 3C 26 11 11 48"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12549 H 7200",
-    "id": "F419_MAIN",
-    "key": "AB CF 18 92 04 ED FF F0"
   }
 ]
