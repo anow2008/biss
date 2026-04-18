@@ -88,11 +88,5 @@
         "frequency": "11265 H 7200",
         "id": "URC",
         "key": "1E 83 F2 93 CA 53 9D BA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12522 H 4938",
-        "id": "YSM-013M",
-        "key": "AB BA 20 85 25 20 26 6B"
     }
 ]
