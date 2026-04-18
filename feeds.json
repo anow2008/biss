@@ -1,15 +1,39 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12522 H 4938",
+        "id": "YSM-013M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10974 H 9875",
+        "id": "E-378 VIA 2",
+        "key": "F6 89 90 0F A0 61 F7 F8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11107 H 7200",
+        "id": "Fi01 ACB",
+        "key": "D6 02 F3 CB 70 0B 28 A3"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12558 H 7200",
+        "id": "SWE-041 EHF ESB-CSM",
+        "key": "F2 CD D0 8F 41 8E 45 14"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11001 V 15000",
+        "id": "POL085",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11274 H 7200",
         "id": "Encoder 1",
         "key": "6E EF 36 93 3B 29 86 EA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12516 H 4938",
-        "id": "YSM-015BU",
-        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -25,44 +49,8 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11556 V 10000",
-        "id": "E393 ENGLISH BUP",
-        "key": "F6 89 90 0F A0 61 F7 F8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10987 H 7200",
         "id": "ISRUV enc 1",
         "key": "DE 2F 73 80 CA 34 21 1F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 V 9875",
-        "id": "D-462",
-        "key": "9D 28 81 46 06 75 22 9D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12647 V 7120",
-        "id": "Gallagher PREM - Bath Rugby v Harlequins",
-        "key": "34 DD 81 92 81 F7 7F F7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11018 H 14400",
-        "id": "GVA_Fi07",
-        "key": "12 04 77 8D B8 48 63 63"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "UFC Fight Night on P 8 All Fights",
-        "key": "77 91 2A 32 A4 91 52 87"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11005 V 7120",
-        "id": "W6N Ire v Italy UNBRANDED",
-        "key": "37 87 BC 7A 14 AA 11 CF"
     }
 ]
