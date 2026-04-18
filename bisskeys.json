@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 V 7200",
+    "id": "WSHT ENC58",
+    "key": "77 91 2A 32 A4 91 52 87"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10962 H 9875",
     "id": "E378 VIA1",
     "key": "F6 89 90 0F A0 61 F7 F8"
@@ -16,12 +22,6 @@
     "frequency": "11005 H 7120",
     "id": "WWCQ Belgium - Scotland",
     "key": "4B 21 A9 15 E7 3D 8F B3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
-    "id": "GVA_Fi07",
-    "key": "12 04 77 8D B8 48 63 63"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,21 +49,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11556 V 10000",
-    "id": "E393 ENGLISH BUP",
-    "key": "F6 89 90 0F A0 61 F7 F8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11597 V 7200",
-    "id": "Mediapro Portugal",
-    "key": "18 04 AA C6 BB 20 26 01"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
-    "id": "YSM-015BU",
-    "key": "AB BA 20 85 25 20 26 6B"
+    "frequency": "11468 V 9600",
+    "id": "Svc1",
+    "key": "B8 0D 7C 41 8E F9 5E E5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,15 +67,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12629 V 7200",
-    "id": "SAU-031 B",
-    "key": "00 0B 5D 68 B8 14 AA 76"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12641 H 7200",
-    "id": "DHB Pokal",
-    "key": "18 04 FB 17 AA 14 59 17"
+    "frequency": "12638 V 7200",
+    "id": "Fi15_GNVE",
+    "key": "D7 F0 8F 56 A4 A8 CB 17"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -115,21 +97,21 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11268 V 9875",
+    "id": "NLEMG HOL312-1",
+    "key": "DD F0 BE 8B 4F D0 1B 3A"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "11287 V 7200",
     "id": "INTER FEM FRA VS NED",
     "key": "EF DA 18 E1 04 CB DF AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 V 3670",
-    "id": "RMG Dubai HD",
-    "key": "24 B0 BA 8E C7 C6 15 A2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10838 V 7500",
-    "id": "TUR 161 Main",
-    "key": "24 B0 BA 8E C7 C6 15 A2"
+    "frequency": "10830 V 7120",
+    "id": "GCUK Enc 3",
+    "key": "12 34 56 9C 78 91 23 2C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -178,11 +160,5 @@
     "frequency": "12549 H 7200",
     "id": "F419_MAIN",
     "key": "AB CF 18 92 04 ED FF F0"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12571 H 4938",
-    "id": "ITA 415 Main",
-    "key": "20 25 CC 11 CC 20 24 10"
   }
 ]
