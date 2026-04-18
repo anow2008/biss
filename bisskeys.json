@@ -67,7 +67,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11556 V 10000",
+    "frequency": "11557 V 10000",
     "id": "E393 ENGLISH BUP",
     "key": "F6 89 90 0F A0 61 F7 F8"
   },
@@ -151,9 +151,21 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11265 H 7200",
+    "id": "URC",
+    "key": "1E 83 F2 93 CA 53 9D BA"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "11274 H 7200",
     "id": "Encoder 1",
     "key": "6E EF 36 93 3B 29 86 EA"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11287 V 7200",
+    "id": "INTER FEM FRA VS NED",
+    "key": "EF DA 18 E1 04 CB DF AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
