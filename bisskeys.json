@@ -31,6 +31,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11018 H 14400",
+    "id": "GVA_Fi07",
+    "key": "12 04 77 8D B8 48 63 63"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11062 H 7200",
     "id": "ITA633_MAIN",
     "key": "E2 5D 2C 6B 82 AC 34 62"
@@ -55,12 +61,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 V 9875",
-    "id": "MXGP M",
-    "key": "DB 7F 81 DB E0 A8 54 DC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11127 H 7200",
     "id": "ENC 10",
     "key": "FE ED CA B5 F1 18 04 0D"
@@ -70,12 +70,6 @@
     "frequency": "11164 H 9875",
     "id": "Service 1",
     "key": "18 04 FE 1A ED 20 26 33"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11176 H 9875",
-    "id": "NEP 1",
-    "key": "78 1F A2 39 FE C7 83 48"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -91,12 +85,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11579 H 7200",
-    "id": "B 191 DGI",
-    "key": "F8 AC D0 74 41 8E 45 14"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11580 V 7200",
     "id": "Ireland v Poland world",
     "key": "20 26 FB 41 DE 04 18 FA"
@@ -105,6 +93,12 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12545 H 4938",
     "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12551 H 4938",
+    "id": "YSM-012 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -127,15 +121,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12638 V 7200",
-    "id": "E-228 Backup",
-    "key": "31 97 CD 95 F4 60 88 DC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12641 H 7200",
-    "id": "DHB Pokal",
-    "key": "18 04 FB 17 AA 14 59 17"
+    "frequency": "12647 V 7120",
+    "id": "Gallagher PREM - Bath Rugby v Harlequins",
+    "key": "34 DD 81 92 81 F7 7F F7"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
