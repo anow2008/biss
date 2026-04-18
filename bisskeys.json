@@ -7,6 +7,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10987 H 7200",
+    "id": "ISRUV enc 1",
+    "key": "DE 2F 73 80 CA 34 21 1F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10987 V 7120",
     "id": "Pitch W6N Wal v Fran BRANDED",
     "key": "63 6D D2 A2 15 99 32 E0"
@@ -19,33 +25,33 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 H 7120",
-    "id": "BT_SES_12_SDI",
-    "key": "34 AA BC 9A D8 18 04 F4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11005 V 7120",
     "id": "W6N Ire v Italy UNBRANDED",
     "key": "37 87 BC 7A 14 AA 11 CF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
+    "frequency": "11019 H 14400",
     "id": "GVA_Fi07",
     "key": "12 04 77 8D B8 48 63 63"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11022 V 9875",
+    "id": "D-462",
+    "key": "9D 28 81 46 06 75 22 9D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11044 V 7200",
+    "id": "G18 E336 Main Via 1",
+    "key": "AA 12 DD 99 22 32 AD 01"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11062 H 7200",
     "id": "ITA633_MAIN",
     "key": "E2 5D 2C 6B 82 AC 34 62"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 V 7120",
-    "id": "EFL - Hull v Birmingham",
-    "key": "4F 3A 35 BE 36 38 23 91"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,15 +85,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11556 V 10000",
+    "id": "E393 ENGLISH BUP",
+    "key": "F6 89 90 0F A0 61 F7 F8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11569 V 9875",
     "id": "SLO-008 Tx 1",
     "key": "08 75 72 EF 54 4E 4C EE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11580 V 7200",
-    "id": "Ireland v Poland world",
-    "key": "20 26 FB 41 DE 04 18 FA"
+    "frequency": "11597 V 7200",
+    "id": "Mediapro Portugal",
+    "key": "18 04 AA C6 BB 20 26 01"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12516 H 4938",
+    "id": "YSM-015BU",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -99,6 +117,12 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12551 H 4938",
     "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12557 H 4938",
+    "id": "YSM-021M",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -121,19 +145,25 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12641 H 7200",
+    "id": "DHB Pokal",
+    "key": "18 04 FB 17 AA 14 59 17"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12647 V 7120",
     "id": "Gallagher PREM - Bath Rugby v Harlequins",
     "key": "34 DD 81 92 81 F7 7F F7"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7120",
-    "id": "BT_SES_22_SDI",
-    "key": "9A 1E 04 BC 04 C1 23 E8"
+    "frequency": "12650 H 7500",
+    "id": "NLFLEV_HOL-90 CH-A",
+    "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
+    "frequency": "12737 V 7200",
     "id": "UFC Fight Night on P+ #8: All Fights",
     "key": "77 91 2A 32 A4 91 52 87"
   },
@@ -145,15 +175,9 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11264 H 7200",
-    "id": "ITA",
-    "key": "3E 83 F2 B3 CA 53 9D BA"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11287 V 7200",
-    "id": "INTER FEM FRA VS NED",
-    "key": "EF DA 18 E1 04 CB DF AE"
+    "frequency": "11274 H 7200",
+    "id": "Encoder 1",
+    "key": "6E EF 36 93 3B 29 86 EA"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -166,12 +190,6 @@
     "frequency": "10838 V 7500",
     "id": "TUR 161 Main",
     "key": "24 B0 BA 8E C7 C6 15 A2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10842 H 9875",
-    "id": "SBK Round 3",
-    "key": "AC DC 23 AB 45 AA AA 99"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
