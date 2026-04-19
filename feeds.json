@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11127 H 7200",
+        "id": "ENC 10",
+        "key": "CA F1 FE B9 ED 19 04 0A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12525 H 4938",
+        "id": "YSM-012 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11265 H 7200",
         "id": "Encoder 3",
@@ -10,12 +22,6 @@
         "frequency": "11098 H 7200",
         "id": "VOLLEY_MAIN",
         "key": "A6 7A 0F 2F E7 FA F7 D8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11476 V 4938",
-        "id": "Medialink CRO-024/1",
-        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -70,11 +76,5 @@
         "frequency": "12678 V 7200",
         "id": "E349 Main",
         "key": "E3 3E BE DF 94 20 26 DA"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12557 H 7200",
-        "id": "DNK47 ENC1",
-        "key": "E4 5F 3D 80 FD 04 19 1A"
     }
 ]
