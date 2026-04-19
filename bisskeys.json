@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 H 7200",
-    "id": "HUN-017/LINE1",
-    "key": "24 00 C6 EA 52 93 2E 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10962 V 9875",
     "id": "GVA_Fi02",
     "key": "ED 52 F5 34 0A B5 58 17"
@@ -31,9 +25,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 H 7200",
-    "id": "Fi01 ACB",
-    "key": "C5 C5 E4 6E 16 FB F0 01"
+    "frequency": "11062 H 7200",
+    "id": "UAE110 M",
+    "key": "7D DD AC 06 F3 31 72 96"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,15 +37,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11467 V 9600",
+    "frequency": "11468 V 9600",
     "id": "Gryphon PVE-3",
     "key": "B8 0D 7C 41 8E F9 5E E5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11476 V 4938",
-    "id": "Medialink CRO-024/1",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,9 +49,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11589 V 7200",
-    "id": "SNG1 M",
-    "key": "9E D1 12 81 77 EC BA 1D"
+    "frequency": "12510 V 7500",
+    "id": "AFD",
+    "key": "14 1A C8 F6 1A BD 19 F0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -96,26 +84,14 @@
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12696 V 7200",
-    "id": "ENC 2",
-    "key": "42 53 AD 42 E5 11 DC D2"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "LIGA HYPERMOTION 1",
     "key": "C1 00 A6 67 19 4C A7 0C"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11265 H 7200",
-    "id": "Encoder 3",
-    "key": "5B 37 46 D8 FC BF 7E 39"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7120",
+    "frequency": "10830 V 7120",
     "id": "GCUK Enc 3",
     "key": "32 32 CD 31 AA 19 04 C7"
   },
@@ -136,12 +112,6 @@
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
-    "id": "pol-053_enc2",
-    "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
