@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11291 H 7200",
+        "id": "URG-019",
+        "key": "20 26 F1 37 D4 13 62 49"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10998 H 9875",
+        "id": "GVA_Fi06",
+        "key": "D2 DB D5 82 F0 FE 1C 0A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 H 7200",
+        "id": "AEK VS PAOK A",
+        "key": "DB 22 1B 18 32 F0 6B 8D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11131 H 14400",
+        "id": "NEP 2",
+        "key": "78 1F A2 39 FE C7 83 48"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10964 V 4800",
+        "id": "POL - 054 Kielce",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11580 V 7200",
+        "id": "Qat037 M",
+        "key": "FE B1 11 C0 78 29 1A BB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11195 V 7500",
+        "id": "TUR-062 A",
+        "key": "DB CC 17 BE 74 65 E5 BE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10841 H 9875",
+        "id": "SBK Round 3",
+        "key": "AB DC 74 FB 32 AB CA A7"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11062 H 7200",
         "id": "UAE110 M",
@@ -16,59 +64,5 @@
         "frequency": "11187 V 7120",
         "id": "GCUK Enc 5",
         "key": "21 21 DD 1F DC 24 4B 4B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "C1 00 A6 67 19 4C A7 0C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12573 H 7200",
-        "id": "E242 WEC IMOLA main",
-        "key": "07 15 AA C6 BC 20 26 02"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12705 V 7200",
-        "id": "ENC 1",
-        "key": "BC AA 45 AB 56 BB CA DB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12547 H 7200",
-        "id": "BMC-SNG1 MAIN",
-        "key": "F5 44 00 39 AA B6 01 61"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7200",
-        "id": "A Wien-RB Salzburg",
-        "key": "19 04 DF FC BB 90 09 54"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11512 V 4938",
-        "id": "Medialink CRO-024/1",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11021 H 9875",
-        "id": "GVA_Fi03_Buli7",
-        "key": "5E DA 09 41 F2 4A 3D 79"
     }
 ]
