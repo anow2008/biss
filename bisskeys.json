@@ -13,27 +13,33 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 H 9875",
-    "id": "GVA_Fi03_Buli7",
-    "key": "5E DA 09 41 F2 4A 3D 79"
+    "frequency": "11098 H 7200",
+    "id": "VOLLEY_MAIN",
+    "key": "A6 7A 0F 2F E7 FA F7 D8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "UAE110 M",
-    "key": "B3 00 87 3A D9 3D 80 96"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 V 9875",
-    "id": "MXGP M",
-    "key": "DB 7F 81 DB E0 A8 54 DC"
+    "frequency": "11107 H 7200",
+    "id": "Fi01 ACB",
+    "key": "C5 C5 E4 6E 16 FB F0 01"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11131 H 14400",
     "id": "NEP 1",
     "key": "78 1F A2 39 FE C7 83 48"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11467 V 9600",
+    "id": "Gryphon PVE-3",
+    "key": "B8 0D 7C 41 8E F9 5E E5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11476 V 4938",
+    "id": "Medialink CRO-024/1",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -46,6 +52,12 @@
     "frequency": "11580 V 7200",
     "id": "Qat037 M",
     "key": "FE B1 11 C0 78 29 1A BB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11589 V 7200",
+    "id": "SNG1 M",
+    "key": "9E D1 12 81 77 EC BA 1D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,15 +79,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12641 H 7200",
-    "id": "DHB Pokal",
-    "key": "18 04 FB 17 AA 14 59 17"
+    "frequency": "12593 V 7200",
+    "id": "POL-080 Beckup",
+    "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7120",
-    "id": "EFL - Ipswich v Middlesbrough",
-    "key": "C5 11 AA 80 AA 87 65 96"
+    "frequency": "12650 H 7500",
+    "id": "NLFLEV_HOL-90 CH-A",
+    "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,21 +97,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7200",
-    "id": "E349 Main",
-    "key": "E3 3E BE DF 94 20 26 DA"
+    "frequency": "12687 V 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12696 V 7200",
     "id": "ENC 2",
     "key": "42 53 AD 42 E5 11 DC D2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12705 V 7200",
-    "id": "ENC 1",
-    "key": "BC AA 45 AB 56 BB CA DB"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -109,15 +115,9 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11274 H 7200",
-    "id": "Encoder 2",
-    "key": "7A D2 AB F7 45 33 DD 55"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11290 H 7200",
-    "id": "URG-019",
-    "key": "20 26 F1 37 D4 13 62 49"
+    "frequency": "11265 H 7200",
+    "id": "Encoder 3",
+    "key": "5B 37 46 D8 FC BF 7E 39"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -151,26 +151,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10964 V 4800",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
+    "frequency": "10986 V 9600",
     "id": "POL 48 ENC1",
     "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12557 H 7200",
-    "id": "DNK47 ENC1",
-    "key": "E4 5F 3D 80 FD 04 19 1A"
+    "frequency": "12509 H 4938",
+    "id": "YSM-013M",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
