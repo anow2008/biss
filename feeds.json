@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11476 V 4938",
+        "id": "Medialink CRO-024/1",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11589 V 7200",
+        "id": "SNG1 M",
+        "key": "9E D1 12 81 77 EC BA 1D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11107 H 7200",
+        "id": "Fi01 ACB",
+        "key": "C5 C5 E4 6E 16 FB F0 01"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12687 V 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11623 V 9875",
+        "id": "EMG HOL309-1",
+        "key": "2B D5 3A 3A 7B C6 D2 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12696 V 7200",
         "id": "ENC 2",
         "key": "42 53 AD 42 E5 11 DC D2"
@@ -16,12 +46,6 @@
         "frequency": "11010 H 9875",
         "id": "GVA_Fi04_Buli8",
         "key": "20 46 4E B4 6C 27 83 16"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12518 H 7200",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -64,35 +88,5 @@
         "frequency": "11291 H 7200",
         "id": "URG-019",
         "key": "20 26 F1 37 D4 13 62 49"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10998 H 9875",
-        "id": "GVA_Fi06",
-        "key": "D2 DB D5 82 F0 FE 1C 0A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 H 7200",
-        "id": "AEK VS PAOK A",
-        "key": "DB 22 1B 18 32 F0 6B 8D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11131 H 14400",
-        "id": "NEP 2",
-        "key": "78 1F A2 39 FE C7 83 48"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10964 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11580 V 7200",
-        "id": "Qat037 M",
-        "key": "FE B1 11 C0 78 29 1A BB"
     }
 ]
