@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11010 H 9875",
+    "id": "GVA_Fi04",
+    "key": "5E DA 09 41 F2 4A 3D 79"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11021 H 9875",
+    "id": "GVA_Fi03_Buli7",
+    "key": "5E DA 09 41 F2 4A 3D 79"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11044 V 7120",
+    "id": "EFL - Ipswich v Middlesborough",
+    "key": "33 39 EA 56 A3 A2 77 BC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11093 V 9875",
+    "id": "TUR-119 Main",
+    "key": "33 50 C1 44 D2 46 53 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11105 V 9875",
+    "id": "MXGP M",
+    "key": "DB 7F 81 DB E0 A8 54 DC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11512 V 4938",
+    "id": "Medialink CRO-024/1",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11589 V 7200",
+    "id": "E-228 Main",
+    "key": "AA BB 20 85 26 04 19 43"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7200",
+    "id": "A Wien-RB Salzburg",
+    "key": "19 04 DF FC BB 90 09 54"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12547 H 7200",
+    "id": "BMC-SNG1 MAIN",
+    "key": "F5 44 00 39 AA B6 01 61"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12573 H 7200",
+    "id": "E242 WEC IMOLA main",
+    "key": "07 15 AA C6 BC 20 26 02"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "POL 058_T1",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12602 V 7200",
+    "id": "POL103",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12641 H 7200",
+    "id": "DHB Pokal",
+    "key": "18 04 FB 17 AA 14 59 17"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12650 H 7500",
+    "id": "NLFLEV_HOL-90 CH-A",
+    "key": "11 A8 CB 84 DA 65 4A 89"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12705 V 7200",
+    "id": "ENC 1",
+    "key": "BC AA 45 AB 56 BB CA DB"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 34000",
+    "id": "LIGA HYPERMOTION 1",
+    "key": "C1 00 A6 67 19 4C A7 0C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "RMG Dubai HD",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  }
+]
