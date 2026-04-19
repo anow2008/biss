@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11010 H 9875",
-    "id": "GVA_Fi04_Buli8",
-    "key": "20 46 4E B4 6C 27 83 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11098 H 7200",
     "id": "VOLLEY_MAIN",
     "key": "A6 7A 0F 2F E7 FA F7 D8"
@@ -31,13 +25,19 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11468 V 9600",
+    "frequency": "11127 H 7200",
+    "id": "ENC 10",
+    "key": "CA F1 FE B9 ED 19 04 0A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11467 V 9600",
     "id": "Gryphon PVE-3",
     "key": "B8 0D 7C 41 8E F9 5E E5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11476 V 4938",
+    "frequency": "11477 V 4938",
     "id": "Medialink CRO-024/1",
     "key": "AB BA 20 85 25 20 26 6B"
   },
@@ -91,15 +91,15 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11265 H 7200",
+    "frequency": "11264 H 7200",
     "id": "Encoder 3",
     "key": "5B 37 46 D8 FC BF 7E 39"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7500",
-    "id": "TUR156 Main",
-    "key": "C5 42 D9 E0 5A BD C0 D7"
+    "frequency": "10829 V 7120",
+    "id": "GCUK Enc 3",
+    "key": "2B D5 3A 3A 7B C6 D2 13"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
