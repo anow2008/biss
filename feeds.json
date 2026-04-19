@@ -76,17 +76,5 @@
         "frequency": "11005 H 7120",
         "id": "WWCQ Belgium - Scotland",
         "key": "4B 21 A9 15 E7 3D 8F B3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11153 H 7200",
-        "id": "Medialink CRO-021/1",
-        "key": "20 25 AB F0 CD 20 26 13"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11265 H 7200",
-        "id": "URC",
-        "key": "1E 83 F2 93 CA 53 9D BA"
     }
 ]
