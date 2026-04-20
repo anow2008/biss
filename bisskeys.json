@@ -1,9 +1,27 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12522 V 4938",
-    "id": "PTRTP POR22",
-    "key": "25 FF EE 12 DD 26 DE E1 E"
+    "frequency": "10959 V 4938",
+    "id": "WSHT ENC 52",
+    "key": "BD 26 2B 0E 88 4E 1B F1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10974 H 9875",
+    "id": "F419_MAIN_YOUTH",
+    "key": "BD 26 2B 0E 88 4E 1B F1"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11195 V 7200",
+    "id": "E-404",
+    "key": "BD 26 2B 0E 88 4E 1B F1"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11248 H 9875",
+    "id": "F489 BKUP FEED M",
+    "key": "BD 26 2B 0E 88 4E 1B F1"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -13,8 +31,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11632 H 9875",
-    "id": "ES test 22HD",
+    "frequency": "10801 H 7200",
+    "id": "GCUK Enc 3",
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
@@ -28,5 +46,11 @@
     "frequency": "12601 V 7200",
     "id": "ITA 671WFeed",
     "key": "D0 42 0E 20 71 FF AF 1F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12611 V 7200",
+    "id": "ITA 671",
+    "key": "D0 42 0E 20 71 FF BA 2A"
   }
 ]
