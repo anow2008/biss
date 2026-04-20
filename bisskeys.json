@@ -58,35 +58,5 @@
     "frequency": "12611 V 7500",
     "id": "DT SNG 2 MAIN",
     "key": "AC 4C D1 C9 5B 15 5D CD"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "POL 48 ENC1",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL029 TVN WAW",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 36B / Express AMU1 @ 36.0°E",
-    "frequency": "12564 H 7200",
-    "id": "E-303 MAIN",
-    "key": "91 A1 AA DC 9A D8 7F F1"
-  },
-  {
-    "satellite": "Eutelsat 36B / Express AMU1 @ 36.0°E",
-    "frequency": "12573 H 7200",
-    "id": "UAE-065",
-    "key": "91 A1 AA DC 9A D8 7F F1"
   }
 ]
