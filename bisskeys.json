@@ -13,33 +13,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 H 7200",
-    "id": "SAU045A",
-    "key": "C4 B5 15 8E CC A4 A8 18"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "UWW-TIRANA",
-    "key": "E4 73 51 A8 37 8E AB 70"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11062 H 7200",
     "id": "SAU-030-M",
     "key": "95 1A D7 86 97 AE F0 35"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12547 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12687 V 7200",
     "id": "ENC 4",
     "key": "E3 3E D9 FA 9D 20 26 E3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12720 V 4800",
+    "id": "Studioline Main",
+    "key": "19 82 AA 45 BB 01 06 C2"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
