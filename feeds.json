@@ -40,35 +40,5 @@
         "frequency": "10974 V 9875",
         "id": "GVA_Fi07",
         "key": "80 2B AA 55 35 C7 C2 BE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10962 V 9875",
-        "id": "GVA_Fi02",
-        "key": "ED 52 F5 34 0A B5 58 17"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11635 V 9700",
-        "id": "GRC-020 MAIN",
-        "key": "77 22 AB 44 CD 88 55 AA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10838 V 7200",
-        "id": "E399 MAIN",
-        "key": "E7 55 64 A0 A8 05 00 AD"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11127 H 7200",
-        "id": "ENC 10",
-        "key": "CA F1 FE B9 ED 19 04 0A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12525 H 4938",
-        "id": "YSM-012 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
     }
 ]
