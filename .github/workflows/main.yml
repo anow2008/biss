@@ -20,4 +20,4 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run Scraper
-        run: python ForMe.py # تأكد إن اسم الملف صح
+        run: python Forme.py # تم تعديل الحرف لـ m صغيرة ليطابق اسم ملفك
