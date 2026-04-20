@@ -64,11 +64,5 @@
         "frequency": "11014 V 7200",
         "id": "UWW-TIRANA",
         "key": "E4 73 51 A8 37 8E AB 70"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10996 H 7200",
-        "id": "SAU045A",
-        "key": "C4 B5 15 8E CC A4 A8 18"
     }
 ]
