@@ -1,4 +1,4 @@
-name: Update Biss Keys
+name: key for me
 on:
   schedule:
     - cron: '0 * * * *' # هيشتغل لوحده كل ساعة
