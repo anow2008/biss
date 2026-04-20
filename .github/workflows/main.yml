@@ -1,4 +1,4 @@
-name: key for me
+name: Forme
 on:
   schedule:
     - cron: '0 * * * *' # هيشتغل لوحده كل ساعة
