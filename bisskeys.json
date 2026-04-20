@@ -1,13 +1,13 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12610 V 4600",
-    "id": "NIM WDC ENC 6",
+    "frequency": "11612 H 1480",
+    "id": "satview",
     "key": "E3 3E BE DF 94 20 26 DA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7200",
+    "frequency": "12677 V 7200",
     "id": "E349 Main",
     "key": "E3 3E BE DF 94 20 26 DA"
   },
