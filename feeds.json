@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12720 V 4800",
+        "id": "Studioline Main",
+        "key": "19 82 AA 45 BB 01 06 C2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10987 H 7200",
+        "id": "Main SAUDI015",
+        "key": "9F 8E 27 54 A8 14 EA A6"
+    },
+    {
+        "satellite": "Eutelsat 36B / Express AMU1 @ 36.0°E",
+        "frequency": "12573 H 7200",
+        "id": "UAE-065",
+        "key": "91 A1 AA DC 9A D8 7F F1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12687 V 7200",
         "id": "ENC 4",
         "key": "E3 3E D9 FA 9D 20 26 E3"
@@ -40,11 +58,5 @@
         "frequency": "12547 H 4938",
         "id": "YSM-021M",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "ITA 671",
-        "key": "D0 42 0E 20 71 FF BA 2A"
     }
 ]
