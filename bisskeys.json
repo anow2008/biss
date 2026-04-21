@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 V 7200",
+    "id": "UAE-065",
+    "key": "27 38 E3 42 41 E7 8B B3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10969 V 7200",
+    "id": "SAU-12A",
+    "key": "EE E0 C4 92 18 ED 21 26"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10978 V 7200",
+    "id": "Main SAUDI015",
+    "key": "C2 7D 20 5F 7E 83 AF B0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10987 V 7200",
+    "id": "UWW-TIRANA",
+    "key": "E4 73 51 A8 37 8E AB 70"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11061 H 7200",
+    "id": "SAU-031 A",
+    "key": "24 D5 96 8F 66 D9 77 B6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "15 58 35 A2 71 42 63 16"
+  }
+]
