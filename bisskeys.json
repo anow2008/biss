@@ -1,14 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
-    "id": "BIH007",
+    "frequency": "12610 V 4600",
+    "id": "AP LDN UPA",
     "key": "D4 44 A5 BD D2 35 21 28 E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
-    "id": "BIH007",
+    "frequency": "12610 V 4600",
+    "id": "AP LDN UPA",
     "key": "D4 44 A5 BD D2 35 21 28"
   },
   {
@@ -16,12 +16,6 @@
     "frequency": "12656 V 7120",
     "id": "EFL - Leicester v Hull City",
     "key": "D4 44 A5 BD D2 35 21 28"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "C7 01 F7 BF 70 28 9F 37"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -46,11 +40,5 @@
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12548 H 7200",
-    "id": "SNG 022 MAIN",
-    "key": "A8 F7 B6 55 E5 C4 D3 7C"
   }
 ]
