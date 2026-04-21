@@ -14,11 +14,13 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 cloudscraper
       - name: Run Scraper
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
+          SAT_USER: ${{ secrets.SAT_USER }}
+          SAT_PASS: ${{ secrets.SAT_PASS }}
         run: python Forme.py
       - name: Commit and Push
         run: |
