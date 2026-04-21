@@ -1,35 +1,33 @@
 import requests
-import re
 import json
 
 # --- الإعدادات ---
 TOKEN = "8597807354:AAFmY6aCvTfm2YRpkv7tlb0X_z6zMh2h_Rw"
 CHAT_ID = "@keyforbiss"
-URL = "https://live-feed.net/"
+# الرابط المباشر اللي شايل الداتا الخام
+API_URL = "https://live-feed.net/api/feeds"
 
-def get_data_now():
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+def get_live_data():
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Accept': 'application/json',
+        'Referer': 'https://live-feed.net/'
+    }
     try:
-        # 1. سحب الصفحة
-        print("🔍 Connecting...")
-        r = requests.get(URL, headers=headers, timeout=20)
-        content = r.text
+        print("🔍 سحب البيانات من السيرفر مباشرة...")
+        response = requests.get(API_URL, headers=headers, timeout=30)
         
-        # 2. البحث عن أي مصفوفة فيها شفرات (cw) مهما كان اسم المتغير
-        # الطريقة دي بتجيب الداتا حتى لو الموقع مغير اسمها
-        match = re.search(r'(\[[\s\S]*?\{[\s\S]*?"cw"[\s\S]*?\}[\s\S]*?\])', content)
-        
-        if not match:
-            print("❌ No Data Found in Page Source")
+        if response.status_code != 200:
+            print(f"❌ الموقع رفض الطلب: {response.status_code}")
             return
 
-        feeds = json.loads(match.group(1))
-        print(f"✅ Found {len(feeds)} items")
+        feeds = response.json()
+        print(f"✅ تم العثور على {len(feeds)} قناة.")
 
         for item in feeds:
             key = str(item.get('cw', '')).strip().upper()
             
-            # لو لقينا شفرة طولها 16 حرف
+            # التأكد إنها شفرة BISS (16 حرف)
             if len(key) == 16:
                 sat = item.get('sat', 'N/A')
                 freq = item.get('freq', '0000')
@@ -37,19 +35,19 @@ def get_data_now():
                 sr = item.get('sr', '0000')
                 name = item.get('name', 'Feed')
 
-                # تنسيق الشفرة (14 1A C8...)
+                # تنسيق الشفرة بمسافات (14 1A C8...)
                 fmt_key = ' '.join(key[i:i+2] for i in range(0, len(key), 2))
 
-                # الرسالة الإنجليزي اللي طلبتها
+                # التنسيق الإنجليزي اللي إنت عايزه
                 msg = f"Sat: {sat}\nFreq: {freq} {pol} {sr}\nId: {name}\n🔑 CW: {fmt_key}"
                 
-                # إرسال فوري لتلجرام (عشان نتأكد إن السحب شغال)
+                # إرسال فوري لتلجرام
                 t_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
                 requests.post(t_url, data={"chat_id": CHAT_ID, "text": msg})
-                print(f"🚀 Sent: {name}")
+                print(f"🚀 Sent to Telegram: {name}")
 
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"❌ خطأ: {e}")
 
 if __name__ == "__main__":
-    get_data_now()
+    get_live_data()
