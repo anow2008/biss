@@ -4,7 +4,7 @@ import re
 import os
 import json
 
-# --- الإعدادات (مسحوبة من Secrets) ---
+# --- الإعدادات (اسحبها من الـ Secrets لأمان المستودع العام) ---
 TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 URL = "https://live-feed.net/"
@@ -19,8 +19,11 @@ def update_json_file(new_data_list):
                 current_data = json.load(f)
         except:
             current_data = []
+
+    # إضافة الجديد في الأول
     updated_data = new_data_list + current_data
     updated_data = updated_data[:100]
+
     with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(updated_data, f, ensure_ascii=False, indent=4)
 
@@ -28,12 +31,10 @@ def get_feeds():
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     try:
         response = requests.get(URL, headers=headers, timeout=25)
+        # التقسيم بالكلمة اللي الموقع بيستخدمها لكل كارت شفرة (أضمن من الإيموجي)
+        # الموقع حالياً بيستخدم div بـ class معين
         soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # بنجيب كل كروت الشفرات بناءً على الـ class بتاعها في الموقع
-        cards = soup.find_all('div', class_='text-gray-600')
-        if not cards: # محاولة تانية لو الـ class اتغير
-             cards = soup.find_all('div', class_='p-4')
+        cards = soup.find_all('div', class_='text-gray-600') # الكلاس ده هو اللي شايل الشفرات حالياً
 
         old_keys = ""
         if os.path.exists(DB_FILE):
@@ -47,25 +48,25 @@ def get_feeds():
         for card in cards:
             text = card.get_text(separator='|')
             
-            # البحث عن الشفرة أولاً (لو مفيش شفرة مش محتاجين الكارت)
+            # 1. سحب الشفرة (CW) - بنجيبها الأول عشان نتأكد إن الكارت فيه شفرة
             key_m = re.search(r'([A-Fa-f0-9]{2}(?:\s?[A-Fa-f0-9]{2}){7})', text)
             if key_m:
                 raw_key = key_m.group(1).replace(" ", "").upper()
                 
-                # لو الشفرة جديدة
+                # لو الشفرة جديدة (مش في الـ txt)
                 if len(raw_key) == 16 and raw_key not in old_keys:
-                    # سحب القمر
+                    # 2. سحب القمر
                     sat = "Satellite Feed"
                     sat_m = re.search(r'([^|]+@[^|]+)', text)
                     if sat_m: sat = sat_m.group(1).strip()
 
-                    # سحب التردد
+                    # 3. سحب التردد
                     freq = "00000 V 0000"
                     freq_m = re.search(r'(\d{5}\s?[VH]\s?\d{4,5})', text)
                     if freq_m: freq = freq_m.group(1).strip()
 
-                    # سحب الـ ID
-                    channel = "Feed ID"
+                    # 4. سحب الـ ID
+                    channel = "Feed"
                     id_m = re.search(r'🆔\s*\|?([^|]+)', text)
                     if id_m: channel = id_m.group(1).strip()
 
@@ -85,13 +86,10 @@ def get_feeds():
             with open(DB_FILE, "a") as f:
                 for k in new_keys: f.write(k + "\n")
             update_json_file(json_entries)
-            print(f"✅ Found {len(new_keys)} new keys!")
-        else:
-            print("ℹ️ No new keys found in this run.")
-            
+            print(f"Done! Found {len(new_keys)} new keys.")
         return messages
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"Error: {e}")
         return []
 
 if __name__ == "__main__":
