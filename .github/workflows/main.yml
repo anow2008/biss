@@ -14,14 +14,6 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install dependencies
-        run: pip install requests cloudscraper
+        run: pip install requests
       - name: Run Scraper
         run: python Forme.py
-      - name: Commit and Push
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          touch last_keys_list.txt
-          git add last_keys_list.txt
-          git commit -m "Auto-create log file" || echo "No changes"
-          git push || echo "No changes"
