@@ -1,0 +1,22 @@
+name: Daily Reset
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Reset Files
+        run: |
+          echo "" > last_keys_list.txt
+          echo "[]" > "for me.json"
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add last_keys_list.txt "for me.json"
+          git commit -m "Daily Reset" || exit 0
+          git push
