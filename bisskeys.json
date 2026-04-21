@@ -1,33 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10978 V 7200",
-    "id": "Main SAUDI015",
-    "key": "C2 7D 20 5F 7E 83 AF B0"
+    "frequency": "12516 H 4938",
+    "id": "BIH007",
+    "key": "D4 44 A5 BD D2 35 21 28 E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7200",
-    "id": "UWW-TIRANA",
-    "key": "E4 73 51 A8 37 8E AB 70"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "SAU-031 A",
-    "key": "24 D5 96 8F 66 D9 77 B6"
+    "frequency": "12516 H 4938",
+    "id": "BIH007",
+    "key": "D4 44 A5 BD D2 35 21 28"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12656 V 7120",
     "id": "EFL - Leicester v Hull City",
     "key": "D4 44 A5 BD D2 35 21 28"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7200",
-    "id": "EST-003 MAIN",
-    "key": "33 44 CD 44 EF AA 99 32"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
