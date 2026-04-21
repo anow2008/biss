@@ -4,7 +4,7 @@ import re
 import os
 import json
 
-# سحب الإعدادات من Secrets لأمان المستودع
+# سحب الإعدادات من Secrets (تأكد من إضافتها في GitHub Settings)
 TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 URL = "https://live-feed.net/"
@@ -19,6 +19,7 @@ def update_json_file(new_data_list):
                 current_data = json.load(f)
         except:
             current_data = []
+    # دمج الجديد مع القديم
     updated_data = new_data_list + current_data
     updated_data = updated_data[:100]
     with open(JSON_FILE, "w", encoding="utf-8") as f:
@@ -28,7 +29,7 @@ def get_feeds():
     headers = {'User-Agent': 'Mozilla/5.0'}
     try:
         response = requests.get(URL, headers=headers, timeout=20)
-        # كودك الأصلي في التقسيم
+        # تقسيم بالـ Satellite icon (كودك الأصلي)
         cards = re.split(r'📡', response.text)
         
         old_keys = ""
@@ -44,24 +45,24 @@ def get_feeds():
             soup = BeautifulSoup(card, 'html.parser')
             text = soup.get_text(separator='|')
 
-            # سحب القمر (كودك)
+            # سحب القمر (كودك الأصلي)
             sat = "Unknown Sat"
             sat_m = re.search(r'([^|]+)@', text)
             if sat_m: sat = sat_m.group(1).strip()
 
-            # سحب التردد (كودك)
+            # سحب التردد (كودك الأصلي)
             freq = "00000 V 0000"
             freq_m = re.search(r'(\d{5}\s[VH]\s\d{4,5})', text)
             if freq_m: freq = freq_m.group(1).strip()
 
-            # سحب الـ ID (كودك)
+            # سحب الـ ID (كودك الأصلي)
             channel = "Feed"
             id_m = re.search(r'🆔\s*\|?([^|]+)', text)
             if id_m: 
                 val = id_m.group(1).strip()
                 if "snapshot" not in val.lower(): channel = val
 
-            # سحب الشفرة (كودك)
+            # سحب الشفرة (كودك الأصلي)
             key_m = re.search(r'([A-Fa-f0-9]{2}(?:\s[A-Fa-f0-9]{2}){7})', text)
             
             if key_m:
@@ -70,9 +71,10 @@ def get_feeds():
                     new_keys.append(raw_key)
                     fmt_key = ' '.join(raw_key[i:i+2] for i in range(0, 16, 2))
                     
+                    # تخزين رسالة التلجرام
                     messages.append(f"Sat: {sat}\nFreq: {freq}\nId: {channel}\n🔑 CW: {fmt_key}")
                     
-                    # إضافة للـ JSON بنفس التنسيق اللي طلبته
+                    # تخزين بيانات الـ JSON
                     json_entries.append({
                         "satellite": sat,
                         "frequency": freq,
@@ -83,6 +85,7 @@ def get_feeds():
         if new_keys:
             with open(DB_FILE, "a") as f:
                 for k in new_keys: f.write(k + "\n")
+            # تحديث ملف الـ JSON
             update_json_file(json_entries)
             
         return messages
@@ -92,6 +95,7 @@ def get_feeds():
 
 if __name__ == "__main__":
     results = get_feeds()
+    # إرسال الرسايل للقناة
     if TOKEN and CHAT_ID:
         for m in results:
             requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data={"chat_id": CHAT_ID, "text": m})
