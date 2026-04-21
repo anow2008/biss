@@ -1,70 +1,66 @@
-import requests
+import cloudscraper
 import re
 import json
-import time
 
 # --- الإعدادات ---
 TOKEN = "8597807354:AAFmY6aCvTfm2YRpkv7tlb0X_z6zMh2h_Rw"
 CHAT_ID = "@keyforbiss"
 URL = "https://live-feed.net/"
 
-def get_feeds():
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        'Cache-Control': 'no-cache'
-    }
-    
-    for attempt in range(3): # هيحاول 3 مرات
-        try:
-            print(f"🔄 Attempt {attempt+1}...")
-            response = requests.get(URL, headers=headers, timeout=30)
-            content = response.text
-            
-            # لو لقينا كلمة data = [ يبقى السحب نجح
-            json_data_match = re.search(r'data\s+=\s+(\[.*?\]);', content, re.DOTALL)
-            
-            if json_data_match:
-                feeds_list = json.loads(json_data_match.group(1))
-                messages = []
+def get_all_feeds():
+    # بنعمل سكريبر ببيانات متصفح حقيقي (Chrome على Windows)
+    scraper = cloudscraper.create_scraper(
+        browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False}
+    ) 
+    try:
+        response = scraper.get(URL, timeout=30)
+        content = response.text
+        
+        # بنبحث عن المصفوفة اللي بتبدأ بـ [ وتنتهي بـ ]
+        # دي الطريقة الأضمن لسحب كل الشفرات مرة واحدة
+        json_match = re.search(r'=\s*(\[.*\]);', content)
+        
+        if not json_match:
+            print("⚠️ لم يتم العثور على مصفوفة البيانات، قد تكون الحماية قوية جداً حالياً.")
+            return []
 
-                for item in feeds_list:
-                    key = item.get('cw', '').strip().upper()
-                    if key and len(key) == 16:
-                        sat = item.get('sat', 'Unknown')
-                        freq = item.get('freq', '00000')
-                        pol = item.get('pol', 'V')
-                        sr = item.get('sr', '0000')
-                        name = item.get('name', 'Feed')
-                        
-                        formatted_key = ' '.join(key[i:i+2] for i in range(0, len(key), 2))
+        feeds_list = json.loads(json_match.group(1))
+        messages = []
 
-                        msg = f"Sat: {sat}\nFreq: {freq} {pol} {sr}\nId: {name}\n🔑 CW: {formatted_key}"
-                        messages.append(msg)
-                
-                return messages
+        for item in feeds_list:
+            key = item.get('cw', '').strip().upper()
             
-            print("⚠️ Data not found in this attempt, retrying...")
-            time.sleep(5) # يستنى 5 ثواني قبل المحاولة الجاية
-            
-        except Exception as e:
-            print(f"❌ Error: {e}")
-    
-    return []
+            # سحب أي قناة فيها شفرة بيس (16 رقم)
+            if key and len(key) == 16:
+                sat = item.get('sat', 'Unknown')
+                freq = item.get('freq', '00000')
+                pol = item.get('pol', 'V')
+                sr = item.get('sr', '0000')
+                name = item.get('name', 'Feed')
+
+                # تنسيق الشفرة بمسافات (14 1A C8...)
+                formatted_key = ' '.join(key[i:i+2] for i in range(0, len(key), 2))
+
+                # التنسيق الإنجليزي اللي طلبته بالمللي
+                msg = f"Sat: {sat}\nFreq: {freq} {pol} {sr}\nId: {name}\n🔑 CW: {formatted_key}"
+                messages.append(msg)
+                    
+        return messages
+
+    except Exception as e:
+        print(f"❌ Error: {e}")
+        return []
 
 def send_to_telegram(msgs):
-    # رسالة تأكيد إن السكربت شغال
-    requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", 
-                  data={"chat_id": CHAT_ID, "text": "🤖 Script Started Checking..."})
-    
+    import requests
     if not msgs:
-        requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", 
-                      data={"chat_id": CHAT_ID, "text": "ℹ️ No new keys found on site right now."})
+        print("No keys found.")
         return
 
     for m in msgs:
-        requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data={"chat_id": CHAT_ID, "text": m})
+        url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+        requests.post(url, data={"chat_id": CHAT_ID, "text": m})
 
 if __name__ == "__main__":
-    results = get_feeds()
-    send_to_telegram(results)
+    all_msgs = get_all_feeds()
+    send_to_telegram(all_msgs)
