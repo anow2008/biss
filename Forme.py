@@ -1,4 +1,5 @@
 import requests
+from bs4 import BeautifulSoup
 import re
 import os
 
@@ -8,54 +9,62 @@ CHAT_ID = "@keyforbiss"
 URL = "https://live-feed.net/"
 DB_FILE = "last_keys_list.txt"
 
-def get_all_feeds():
+def get_clean_feeds():
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     try:
         response = requests.get(URL, headers=headers, timeout=20)
-        content = response.text
+        soup = BeautifulSoup(response.text, 'html.parser')
         
-        # التقسيم بأيقونة القمر لضمان فصل كل قناة
+        # بنلاقي كل "كارت" في الموقع
+        # الموقع بيستخدم div كلاس card أو صفوف في جدول
+        content = response.text
         cards = re.split(r'📡', content)
         
         messages = []
         new_keys_found = []
 
+        # الذاكرة
+        old_keys = ""
         if os.path.exists(DB_FILE):
             with open(DB_FILE, "r") as f:
                 old_keys = f.read()
-        else:
-            old_keys = ""
 
-        for card in cards[1:]:
+        for card_html in cards[1:]:
+            # تحويل القطعة لـ BeautifulSoup عشان نعرف نتحكم فيها
+            item = BeautifulSoup(card_html, 'html.parser')
+            text_only = item.get_text(separator='|')
+
             # 1. اسم القمر (قبل علامة @)
-            sat_match = re.search(r'([A-Za-z0-9\s\.\/\-]+)\s?@', card)
+            sat_match = re.search(r'([A-Za-z0-9\s\.\/\-]+)\s?@', text_only)
             sat = sat_match.group(1).strip() if sat_match else "Unknown Sat"
 
-            # 2. التردد (5 أرقام، V أو H، ثم 4-5 أرقام)
-            freq_match = re.search(r'(\d{5}\s[VH]\s\d{4,5})', card)
+            # 2. التردد
+            freq_match = re.search(r'(\d{5}\s[VH]\s\d{4,5})', text_only)
             freq = freq_match.group(1).strip() if freq_match else "00000 V 0000"
 
-            # 3. اسم القناة (ID) - بيمسك النص اللي بعد أيقونة الـ ID مباشرة
-            # التعديل هنا عشان يصطاد "AFD"
-            id_match = re.search(r'(?:🆔|ID|Id)[\s\S]*?<td>\s*([^<]+)', card)
-            if not id_match:
-                # محاولة تانية لو الموقع مغير الكود
-                id_match = re.search(r'(?:🆔|ID|Id):\s*([^\n<]+)', card)
-            
-            channel_id = id_match.group(1).strip() if id_match else "Feed"
+            # 3. اسم القناة (الـ ID) - بنصطاد النص اللي بين أيقونة الـ ID والسطر اللي بعده
+            # بنهمل أي حاجة فيها snapshot أو { }
+            channel_id = "Feed"
+            id_patterns = [r'🆔\s*([^|]+)', r'ID:\s*([^|]+)', r'Id:\s*([^|]+)']
+            for p in id_patterns:
+                m = re.search(p, text_only)
+                if m:
+                    temp_id = m.group(1).strip()
+                    if "snapshot" not in temp_id and "{" not in temp_id:
+                        channel_id = temp_id
+                        break
 
-            # 4. الشفرة (16 حرف)
-            key_match = re.search(r'([A-Fa-f0-9]{2}(?:\s?[A-Fa-f0-9]{2}){7})', card)
+            # 4. الشفرة (CW)
+            key_match = re.search(r'([A-Fa-f0-9]{2}(?:\s[A-Fa-f0-9]{2}){7})', text_only)
             
             if key_match:
-                clean_key = key_match.group(1).replace(" ", "").upper()
+                raw_key = key_match.group(1).replace(" ", "").upper()
                 
-                if len(clean_key) == 16 and clean_key not in old_keys:
-                    new_keys_found.append(clean_key)
-                    
-                    fmt_key = ' '.join(clean_key[k:k+2] for k in range(0, 16, 2))
+                if len(raw_key) == 16 and raw_key not in old_keys:
+                    new_keys_found.append(raw_key)
+                    fmt_key = ' '.join(raw_key[k:k+2] for k in range(0, 16, 2))
 
-                    # التنسيق النهائي
+                    # التنسيق النهائي النضيف
                     msg = f"Sat: {sat}\n"
                     msg += f"Freq: {freq}\n"
                     msg += f"Id: {channel_id}\n"
@@ -73,13 +82,11 @@ def get_all_feeds():
         print(f"Error: {e}")
         return []
 
-def send_to_telegram(msgs):
+def send(msgs):
     for m in msgs:
-        url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-        requests.post(url, data={"chat_id": CHAT_ID, "text": m})
+        requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data={"chat_id": CHAT_ID, "text": m})
 
 if __name__ == "__main__":
-    results = get_all_feeds()
+    results = get_clean_feeds()
     if results:
-        send_to_telegram(results)
-        print(f"✅ تم الإرسال بنجاح.")
+        send(results)
