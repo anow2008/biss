@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10987 V 7200",
+        "id": "UWW-TIRANA",
+        "key": "E4 73 51 A8 37 8E AB 70"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "15 58 35 A2 71 42 63 16"
+    }
+]
