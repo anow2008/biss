@@ -11,26 +11,25 @@ URL = "https://live-feed.net/"
 DB_FILE = "last_keys_list.txt"
 
 def get_all_feeds():
-    # إنشاء سكريبر يتخطى حماية Cloudflare
     scraper = cloudscraper.create_scraper(
         browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False}
     ) 
     try:
-        print("🔍 Connecting to site...")
+        print("🌐 Connecting to Live-Feed...")
         response = scraper.get(URL, timeout=30)
         content = response.text
         
-        # البحث عن مصفوفة البيانات JSON
-        json_data_match = re.search(r'data\s+=\s+(\[.*?\]);', content, re.DOTALL)
+        # البحث عن مصفوفة البيانات بأي اسم متغير (feedsData أو data أو feeds)
+        json_match = re.search(r'=\s*(\[[\s\S]*?\]);', content)
         
-        if not json_data_match:
-            print("⚠️ Data not found - Site might be blocking or changed layout.")
+        if not json_match:
+            print("❌ Could not find data array in page source.")
             return []
 
-        feeds_list = json.loads(json_data_match.group(1))
-        messages = []
+        feeds_list = json.loads(json_match.group(1))
+        print(f"📊 Found {len(feeds_list)} cards on site.")
         
-        # قراءة الشفرات المرسلة سابقاً
+        messages = []
         old_keys = ""
         if os.path.exists(DB_FILE):
             with open(DB_FILE, "r") as f:
@@ -41,25 +40,23 @@ def get_all_feeds():
         for item in feeds_list:
             key = item.get('cw', '').strip().upper()
             
-            # سحب الشفرات الـ 16 حرف
+            # التأكد إنها شفرة BISS (16 حرف)
             if key and len(key) == 16:
-                if key not in old_keys: # التأكد إنها شفرة جديدة
+                if key not in old_keys:
                     new_keys_found.append(key)
                     
-                    sat = item.get('sat', 'Unknown')
+                    sat = item.get('sat', 'Unknown Sat')
                     freq = item.get('freq', '00000')
                     pol = item.get('pol', 'V')
                     sr = item.get('sr', '0000')
-                    name = item.get('name', 'Feed')
+                    name = item.get('name', 'Feed ID')
 
-                    # تنسيق الشفرة بمسافات (14 1A C8...)
                     formatted_key = ' '.join(key[i:i+2] for i in range(0, len(key), 2))
 
                     # التنسيق الإنجليزي اللي طلبته
                     msg = f"Sat: {sat}\nFreq: {freq} {pol} {sr}\nId: {name}\n🔑 CW: {formatted_key}"
                     messages.append(msg)
                     
-        # حفظ الشفرات الجديدة في الملف
         if new_keys_found:
             with open(DB_FILE, "a") as f:
                 for k in new_keys_found:
@@ -68,21 +65,18 @@ def get_all_feeds():
         return messages
 
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"❌ Python Error: {e}")
         return []
 
 def send_to_telegram(msgs):
     if not msgs:
-        print("ℹ️ No NEW feeds found.")
+        print("ℹ️ Everything is up-to-date. No new keys.")
         return
 
     for m in msgs:
         url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
-        r = requests.post(url, data={"chat_id": CHAT_ID, "text": m})
-        if r.status_code == 200:
-            print(f"✅ Message sent successfully!")
-        else:
-            print(f"❌ Telegram Error: {r.status_code}")
+        requests.post(url, data={"chat_id": CHAT_ID, "text": m})
+        print(f"✅ Sent to Telegram.")
 
 if __name__ == "__main__":
     results = get_all_feeds()
