@@ -14,8 +14,7 @@ def get_all_feeds():
         response = requests.get(URL, headers=headers, timeout=20)
         content = response.text
         
-        # تقسيم الصفحة لقطع بناءً على أيقونة القمر أو اسم القمر
-        # بنقسم الصفحة "كروت" عشان كل كارت يبقى لوحده
+        # التقسيم بأيقونة القمر لضمان فصل كل قناة
         cards = re.split(r'📡', content)
         
         messages = []
@@ -27,33 +26,36 @@ def get_all_feeds():
         else:
             old_keys = ""
 
-        for card in cards[1:]: # بنبدأ من بعد أول تقسيم
-            # 1. سحب اسم القمر (بيكون في أول السطر قبل علامة @)
+        for card in cards[1:]:
+            # 1. اسم القمر (قبل علامة @)
             sat_match = re.search(r'([A-Za-z0-9\s\.\/\-]+)\s?@', card)
             sat = sat_match.group(1).strip() if sat_match else "Unknown Sat"
 
-            # 2. سحب التردد (النمط المشهور 5 أرقام ثم V/H ثم 4-5 أرقام)
+            # 2. التردد (5 أرقام، V أو H، ثم 4-5 أرقام)
             freq_match = re.search(r'(\d{5}\s[VH]\s\d{4,5})', card)
             freq = freq_match.group(1).strip() if freq_match else "00000 V 0000"
 
-            # 3. سحب الـ ID (بيكون بعد أيقونة 🆔 أو كلمة ID)
-            id_match = re.search(r'(?:🆔|ID|Id):\s?([^\n<]+)', card)
-            channel_id = id_match.group(1).strip() if id_match else "Feed ID"
+            # 3. اسم القناة (ID) - بيمسك النص اللي بعد أيقونة الـ ID مباشرة
+            # التعديل هنا عشان يصطاد "AFD"
+            id_match = re.search(r'(?:🆔|ID|Id)[\s\S]*?<td>\s*([^<]+)', card)
+            if not id_match:
+                # محاولة تانية لو الموقع مغير الكود
+                id_match = re.search(r'(?:🆔|ID|Id):\s*([^\n<]+)', card)
+            
+            channel_id = id_match.group(1).strip() if id_match else "Feed"
 
-            # 4. سحب الشفرة (16 حرف)
+            # 4. الشفرة (16 حرف)
             key_match = re.search(r'([A-Fa-f0-9]{2}(?:\s?[A-Fa-f0-9]{2}){7})', card)
             
             if key_match:
                 clean_key = key_match.group(1).replace(" ", "").upper()
                 
-                # لو الشفرة جديدة
                 if len(clean_key) == 16 and clean_key not in old_keys:
                     new_keys_found.append(clean_key)
                     
-                    # تنسيق الشفرة بمسافات
                     fmt_key = ' '.join(clean_key[k:k+2] for k in range(0, 16, 2))
 
-                    # التنسيق اللي إنت عايزه بالمللي
+                    # التنسيق النهائي
                     msg = f"Sat: {sat}\n"
                     msg += f"Freq: {freq}\n"
                     msg += f"Id: {channel_id}\n"
@@ -80,4 +82,4 @@ if __name__ == "__main__":
     results = get_all_feeds()
     if results:
         send_to_telegram(results)
-        print(f"✅ Sent {len(results)} feeds.")
+        print(f"✅ تم الإرسال بنجاح.")
