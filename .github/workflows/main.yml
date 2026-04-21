@@ -1,23 +1,32 @@
 name: Forme
+
 on:
   schedule:
-    - cron: '0 * * * *' # هيشتغل لوحده كل ساعة
-  workflow_dispatch: # زرار تشغيل يدوي
+    - cron: '*/15 * * * *' # هيشتغل كل 15 دقيقة عشان يلحق الفيدات الجديدة بسرعة
+  workflow_dispatch: # زرار تشغيل يدوي من الـ Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3 # تحديث للإصدار 3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4 # تحديث للإصدار 4
         with:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 cloudscraper
 
       - name: Run Scraper
-        run: python Forme.py # تم تعديل الحرف لـ m صغيرة ليطابق اسم ملفك
+        run: python Forme.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add last_keys_list.txt || echo "No changes to add"
+          git commit -m "Update keys list" || echo "No changes to commit"
+          git push || echo "No changes to push"
