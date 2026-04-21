@@ -14,6 +14,13 @@ jobs:
         with:
           python-version: '3.9'
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests beautifulsoup4
       - name: Run Scraper
         run: python Forme.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add last_keys_list.txt
+          git commit -m "Auto update keys" || echo "No changes"
+          git push || echo "No changes"
