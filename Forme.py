@@ -4,7 +4,7 @@ import re
 import os
 import json
 
-# سحب الإعدادات من الـ Secrets عشان الأمان
+# --- الإعدادات (مسحوبة من Secrets) ---
 TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 URL = "https://live-feed.net/"
@@ -20,15 +20,21 @@ def update_json_file(new_data_list):
         except:
             current_data = []
     updated_data = new_data_list + current_data
-    updated_data = updated_data[:100] 
+    updated_data = updated_data[:100]
     with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(updated_data, f, ensure_ascii=False, indent=4)
 
 def get_feeds():
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     try:
-        response = requests.get(URL, headers=headers, timeout=20)
-        cards = re.split(r'📡', response.text)
+        response = requests.get(URL, headers=headers, timeout=25)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # بنجيب كل كروت الشفرات بناءً على الـ class بتاعها في الموقع
+        cards = soup.find_all('div', class_='text-gray-600')
+        if not cards: # محاولة تانية لو الـ class اتغير
+             cards = soup.find_all('div', class_='p-4')
+
         old_keys = ""
         if os.path.exists(DB_FILE):
             with open(DB_FILE, "r") as f:
@@ -38,47 +44,54 @@ def get_feeds():
         new_keys = []
         json_entries = []
 
-        for card in cards[1:]:
-            soup = BeautifulSoup(card, 'html.parser')
-            text = soup.get_text(separator='|')
-            sat = "Unknown Satellite"
-            sat_m = re.search(r'([^|]+@[^|]+)', text)
-            if sat_m:
-                sat = sat_m.group(1).strip()
-            else:
-                sat_m2 = re.search(r'([^|]+)@', text)
-                if sat_m2: sat = f"{sat_m2.group(1).strip()} @ 7.0°E"
-
-            freq = "00000 V 0000"
-            freq_m = re.search(r'(\d{5}\s[VH]\s\d{4,5})', text)
-            if freq_m: freq = freq_m.group(1).strip()
-
-            channel = "Feed"
-            id_m = re.search(r'🆔\s*\|?([^|]+)', text)
-            if id_m: 
-                val = id_m.group(1).strip()
-                if "snapshot" not in val.lower(): channel = val
-
-            key_m = re.search(r'([A-Fa-f0-9]{2}(?:\s[A-Fa-f0-9]{2}){7})', text)
+        for card in cards:
+            text = card.get_text(separator='|')
+            
+            # البحث عن الشفرة أولاً (لو مفيش شفرة مش محتاجين الكارت)
+            key_m = re.search(r'([A-Fa-f0-9]{2}(?:\s?[A-Fa-f0-9]{2}){7})', text)
             if key_m:
                 raw_key = key_m.group(1).replace(" ", "").upper()
+                
+                # لو الشفرة جديدة
                 if len(raw_key) == 16 and raw_key not in old_keys:
-                    new_keys.append(raw_key)
+                    # سحب القمر
+                    sat = "Satellite Feed"
+                    sat_m = re.search(r'([^|]+@[^|]+)', text)
+                    if sat_m: sat = sat_m.group(1).strip()
+
+                    # سحب التردد
+                    freq = "00000 V 0000"
+                    freq_m = re.search(r'(\d{5}\s?[VH]\s?\d{4,5})', text)
+                    if freq_m: freq = freq_m.group(1).strip()
+
+                    # سحب الـ ID
+                    channel = "Feed ID"
+                    id_m = re.search(r'🆔\s*\|?([^|]+)', text)
+                    if id_m: channel = id_m.group(1).strip()
+
                     fmt_key = ' '.join(raw_key[i:i+2] for i in range(0, 16, 2))
-                    messages.append(f"Sat: {sat}\nFreq: {freq}\nId: {channel}\n🔑 CW: {fmt_key}")
+                    
+                    messages.append(f"🛰 Sat: {sat}\n📡 Freq: {freq}\n🆔 Id: {channel}\n🔑 CW: {fmt_key}")
+                    
                     json_entries.append({
                         "satellite": sat,
                         "frequency": freq,
                         "id": channel,
                         "key": fmt_key
                     })
+                    new_keys.append(raw_key)
+
         if new_keys:
             with open(DB_FILE, "a") as f:
                 for k in new_keys: f.write(k + "\n")
             update_json_file(json_entries)
+            print(f"✅ Found {len(new_keys)} new keys!")
+        else:
+            print("ℹ️ No new keys found in this run.")
+            
         return messages
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"❌ Error: {e}")
         return []
 
 if __name__ == "__main__":
