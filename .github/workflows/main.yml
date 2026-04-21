@@ -21,6 +21,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add last_keys_list.txt
-          git commit -m "Auto update keys" || echo "No changes"
+          git add last_keys_list.txt "for me.json"
+          git commit -m "Update keys and for me.json" || echo "No changes"
           git push || echo "No changes"
