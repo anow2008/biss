@@ -11,6 +11,7 @@ URL = "https://live-feed.net/"
 DB_FILE = "last_keys_list.txt"
 
 def get_all_feeds():
+    # استخدام محاكي متصفح متقدم لتخطي الحماية
     scraper = cloudscraper.create_scraper(
         browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False}
     ) 
@@ -19,15 +20,15 @@ def get_all_feeds():
         response = scraper.get(URL, timeout=30)
         content = response.text
         
-        # البحث عن مصفوفة البيانات بأي اسم متغير (feedsData أو data أو feeds)
+        # البحث عن مصفوفة البيانات بأي اسم (تعديل مرن جداً)
         json_match = re.search(r'=\s*(\[[\s\S]*?\]);', content)
         
         if not json_match:
-            print("❌ Could not find data array in page source.")
+            print("❌ Data array not found. Check if site layout changed.")
             return []
 
         feeds_list = json.loads(json_match.group(1))
-        print(f"📊 Found {len(feeds_list)} cards on site.")
+        print(f"📊 Found {len(feeds_list)} cards in the source.")
         
         messages = []
         old_keys = ""
@@ -40,7 +41,7 @@ def get_all_feeds():
         for item in feeds_list:
             key = item.get('cw', '').strip().upper()
             
-            # التأكد إنها شفرة BISS (16 حرف)
+            # فلترة شفرات BISS فقط (16 حرف)
             if key and len(key) == 16:
                 if key not in old_keys:
                     new_keys_found.append(key)
@@ -51,9 +52,10 @@ def get_all_feeds():
                     sr = item.get('sr', '0000')
                     name = item.get('name', 'Feed ID')
 
+                    # تنسيق الشفرة بمسافات كما طلبت
                     formatted_key = ' '.join(key[i:i+2] for i in range(0, len(key), 2))
 
-                    # التنسيق الإنجليزي اللي طلبته
+                    # التنسيق الإنجليزي النهائي
                     msg = f"Sat: {sat}\nFreq: {freq} {pol} {sr}\nId: {name}\n🔑 CW: {formatted_key}"
                     messages.append(msg)
                     
@@ -70,13 +72,13 @@ def get_all_feeds():
 
 def send_to_telegram(msgs):
     if not msgs:
-        print("ℹ️ Everything is up-to-date. No new keys.")
+        print("ℹ️ No new keys discovered this time.")
         return
 
     for m in msgs:
         url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
         requests.post(url, data={"chat_id": CHAT_ID, "text": m})
-        print(f"✅ Sent to Telegram.")
+        print(f"✅ Message sent to Telegram!")
 
 if __name__ == "__main__":
     results = get_all_feeds()
