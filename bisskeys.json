@@ -25,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
+    "frequency": "11062 H 7200",
     "id": "SAU-031 A",
     "key": "24 D5 96 8F 66 D9 77 B6"
   },
@@ -34,5 +34,11 @@
     "frequency": "12593 V 7200",
     "id": "Polsat Sport",
     "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12678 V 7200",
+    "id": "EST-003 MAIN",
+    "key": "33 44 CD 44 EF AA 99 32"
   }
 ]
