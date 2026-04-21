@@ -1,69 +1,55 @@
 import requests
 import re
 import json
-import os
 
 # --- الإعدادات ---
 TOKEN = "8597807354:AAFmY6aCvTfm2YRpkv7tlb0X_z6zMh2h_Rw"
 CHAT_ID = "@keyforbiss"
 URL = "https://live-feed.net/"
-DB_FILE = "last_keys_list.txt"
 
-def get_data():
-    headers = {'User-Agent': 'Mozilla/5.0'}
+def get_data_now():
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     try:
-        response = requests.get(URL, headers=headers, timeout=20)
-        content = response.text
+        # 1. سحب الصفحة
+        print("🔍 Connecting...")
+        r = requests.get(URL, headers=headers, timeout=20)
+        content = r.text
         
-        # بنبحث عن أي مصفوفة [ ] فيها كلمة "cw" عشان نضمن السحب
-        json_match = re.search(r'(\[[\s\S]*?\{[\s\S]*?"cw"[\s\S]*?\}[\s\S]*?\])', content)
+        # 2. البحث عن أي مصفوفة فيها شفرات (cw) مهما كان اسم المتغير
+        # الطريقة دي بتجيب الداتا حتى لو الموقع مغير اسمها
+        match = re.search(r'(\[[\s\S]*?\{[\s\S]*?"cw"[\s\S]*?\}[\s\S]*?\])', content)
         
-        if not json_match:
-            print("❌ ملقيتش بيانات في الصفحة")
-            return []
+        if not match:
+            print("❌ No Data Found in Page Source")
+            return
 
-        feeds_list = json.loads(json_match.group(1))
-        
-        # لو الملف مش موجود بنعمله عشان ميديناش Error في GitHub
-        if not os.path.exists(DB_FILE):
-            with open(DB_FILE, "w") as f: f.write("")
+        feeds = json.loads(match.group(1))
+        print(f"✅ Found {len(feeds)} items")
 
-        with open(DB_FILE, "r") as f:
-            old_keys = f.read().splitlines()
-
-        messages = []
-        new_keys = []
-
-        for item in feeds_list:
+        for item in feeds:
             key = str(item.get('cw', '')).strip().upper()
-            if len(key) == 16 and key not in old_keys:
+            
+            # لو لقينا شفرة طولها 16 حرف
+            if len(key) == 16:
                 sat = item.get('sat', 'N/A')
                 freq = item.get('freq', '0000')
                 pol = item.get('pol', 'V')
                 sr = item.get('sr', '0000')
                 name = item.get('name', 'Feed')
 
-                formatted_key = ' '.join(key[i:i+2] for i in range(0, len(key), 2))
+                # تنسيق الشفرة (14 1A C8...)
+                fmt_key = ' '.join(key[i:i+2] for i in range(0, len(key), 2))
+
+                # الرسالة الإنجليزي اللي طلبتها
+                msg = f"Sat: {sat}\nFreq: {freq} {pol} {sr}\nId: {name}\n🔑 CW: {fmt_key}"
                 
-                # التنسيق الإنجليزي النضيف
-                msg = f"Sat: {sat}\nFreq: {freq} {pol} {sr}\nId: {name}\n🔑 CW: {formatted_key}"
-                messages.append(msg)
-                new_keys.append(key)
+                # إرسال فوري لتلجرام (عشان نتأكد إن السحب شغال)
+                t_url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+                requests.post(t_url, data={"chat_id": CHAT_ID, "text": msg})
+                print(f"🚀 Sent: {name}")
 
-        if new_keys:
-            with open(DB_FILE, "a") as f:
-                for nk in new_keys: f.write(nk + "\n")
-                    
-        return messages
     except Exception as e:
-        print(f"Error: {e}")
-        return []
-
-def send(msgs):
-    for m in msgs:
-        requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data={"chat_id": CHAT_ID, "text": m})
+        print(f"❌ Error: {e}")
 
 if __name__ == "__main__":
-    results = get_data()
-    if results:
-        send(results)
+    get_data_now()
