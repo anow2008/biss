@@ -35,7 +35,7 @@ def update_json_file(new_data_list):
 
 def get_feeds():
     """الموقع الأول: live-feed.net (بدون تعديل على المنطق الأصلي)"""
-    URL = "https://live-feed.net/"
+    URL = "https://1live-feed.net/"
     headers = {'User-Agent': 'Mozilla/5.0'}
     try:
         response = requests.get(URL, headers=headers, timeout=20)
