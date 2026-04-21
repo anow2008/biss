@@ -1,32 +1,27 @@
 name: Forme
-
 on:
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4 # تحديث لـ v4
-
+        uses: actions/checkout@v3
       - name: Set up Python
-        uses: actions/setup-python@v5 # تحديث لـ v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-
       - name: Install dependencies
-        run: pip install requests
-
+        run: pip install requests cloudscraper
       - name: Run Scraper
         run: python Forme.py
-
-      - name: Commit and Push changes
+      - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add last_keys_list.txt || echo "No changes"
-          git commit -m "Update keys" || echo "No changes"
+          touch last_keys_list.txt
+          git add last_keys_list.txt
+          git commit -m "Auto-create log file" || echo "No changes"
           git push || echo "No changes"
