@@ -9,29 +9,27 @@ CHAT_ID = "@keyforbiss"
 URL = "https://live-feed.net/"
 DB_FILE = "last_keys_list.txt"
 
-def get_all_feeds_clean():
+def get_all_feeds():
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36'
     }
     try:
-        response = requests.get(URL, headers=headers, timeout=20)
+        response = requests.get(URL, headers=headers, timeout=30)
         content = response.text
         
-        # استخراج مصفوفة البيانات JSON من الصفحة
-        # جربنا كل الاحتمالات لأسماء المتغيرات (data, feeds, feedsData)
-        json_data_match = re.search(r'(?:const|let|var)\s+(?:data|feeds|feedsData)\s+=\s+(\[.*?\]);', content, re.DOTALL)
+        # دي أقوى طريقة بحث: بتدور على أي مصفوفة JSON شايلة بيانات "cw" 
+        # مهما كان اسم المتغير (data, feeds, feedsData)
+        json_pattern = r'(\[[\s\S]*?\{[\s\S]*?"cw"[\s\S]*?\}[\s\S]*?\])'
+        json_match = re.search(json_pattern, content)
         
-        if not json_data_match:
-            # محاولة أخيرة لو الموقع غير طريقة التعريف تماماً
-            json_data_match = re.search(r'=\s*(\[[\s\S]*?\{[\s\S]*?"cw"[\s\S]*?\}[\s\S]*?\])', content)
-
-        if not json_data_match:
-            print("❌ Data array not found in source.")
+        if not json_match:
+            print("❌ لم يتم العثور على مصفوفة البيانات في الصفحة")
             return []
 
-        feeds_list = json.loads(json_data_match.group(1))
-        
+        feeds_list = json.loads(json_match.group(1))
         messages = []
+        
+        # الذاكرة عشان ميبعتش نفس الحاجة مرتين
         old_keys = ""
         if os.path.exists(DB_FILE):
             with open(DB_FILE, "r") as f:
@@ -40,10 +38,9 @@ def get_all_feeds_clean():
         new_keys_to_save = []
 
         for item in feeds_list:
-            key = item.get('cw', '').strip().upper()
-            
-            # التأكد إنها شفرة BISS وطولها 16 حرف
-            if key and len(key) == 16:
+            # التأكد إن فيه شفرة وطولها 16
+            key = str(item.get('cw', '')).strip().upper()
+            if len(key) == 16:
                 if key not in old_keys:
                     new_keys_to_save.append(key)
                     
@@ -56,7 +53,7 @@ def get_all_feeds_clean():
                     # تنسيق الشفرة بمسافات (14 1A C8...)
                     formatted_key = ' '.join(key[i:i+2] for i in range(0, len(key), 2))
 
-                    # التنسيق الإنجليزي اللي طلبت تعديله بالظبط
+                    # التنسيق الإنجليزي اللي طلبته بالظبط
                     msg = f"Sat: {sat}\n"
                     msg += f"Freq: {freq} {pol} {sr}\n"
                     msg += f"Id: {name}\n"
@@ -64,7 +61,6 @@ def get_all_feeds_clean():
                     
                     messages.append(msg)
 
-        # حفظ الجديد لمنع التكرار
         if new_keys_to_save:
             with open(DB_FILE, "a") as f:
                 for k in new_keys_to_save:
@@ -73,7 +69,7 @@ def get_all_feeds_clean():
         return messages
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"❌ Error: {e}")
         return []
 
 def send_to_telegram(msgs):
@@ -82,7 +78,9 @@ def send_to_telegram(msgs):
         requests.post(url, data={"chat_id": CHAT_ID, "text": m})
 
 if __name__ == "__main__":
-    all_msgs = get_all_feeds_clean()
-    if all_msgs:
-        send_to_telegram(all_msgs)
-        print(f"Done! Sent {len(all_msgs)} feeds.")
+    results = get_all_feeds()
+    if results:
+        send_to_telegram(results)
+        print(f"✅ Success: Sent {len(results)} feeds.")
+    else:
+        print("ℹ️ No new keys found right now.")
