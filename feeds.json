@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11014 V 7200",
+        "id": "UWW-TIRANA",
+        "key": "E4 73 51 A8 37 8E AB 70"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12552 H 4938",
+        "id": "YSM-012 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR RUSIA 1",
+        "key": "BA EC 70 16 65 EB DC 2C"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "F1 46 E9 20 3B A0 9C 77"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "BC F7 9B 4E C6 39 AD AC"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "C4 1B 76 55 6B 30 CF 6A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12511 V 7200",
+        "id": "RB Salzburg",
+        "key": "22 04 FB 21 EA 98 31 B3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10996 H 7200",
+        "id": "F-510 Marseille MAIN",
+        "key": "B8 A7 12 71 D1 06 E5 BC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11061 H 7200",
         "id": "UAE110 M",
         "key": "CE DD 2B D6 A4 86 D5 FF"
@@ -22,41 +70,5 @@
         "frequency": "10987 H 7200",
         "id": "F-509 PSG main",
         "key": "DB AC 54 DB 8D 65 47 39"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12610 V 7200",
-        "id": "ITA 671",
-        "key": "E7 1F FB 01 CD 04 22 F3"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12601 V 7200",
-        "id": "ITA 671WFeed",
-        "key": "E7 1F FE 04 AD 04 22 D3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10973 H 9875",
-        "id": "WOMEN MAIN",
-        "key": "DD D4 59 0A 9D 6E E7 F2"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10983 V 4800",
-        "id": "POL 076",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10733 V 34000",
-        "id": "SUPPONOR AFRICA 2",
-        "key": "C4 1B 76 55 6B 30 CF 6A"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10733 V 34000",
-        "id": "OVERON 3",
-        "key": "F5 66 F4 4F E6 37 43 60"
     }
 ]
