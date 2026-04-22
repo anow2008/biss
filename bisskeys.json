@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 H 9875",
+    "frequency": "10962 H 9875",
     "id": "2Sat HOL307 MEN MAIN",
     "key": "DD D4 59 0A 9D 6E E7 F2"
   },
@@ -25,6 +25,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7200",
+    "id": "UWW-TIRANA",
+    "key": "E4 73 51 A8 37 8E AB 70"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11023 V 7200",
     "id": "GVA_Fi01",
     "key": "EF 24 1F 32 D7 9F D6 4C"
@@ -37,8 +43,26 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
+    "frequency": "11105 H 9875",
+    "id": "GVA_Fi08",
+    "key": "89 FE EE 75 A7 BB 1D 7F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12515 H 4938",
     "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12522 H 4938",
+    "id": "YSM-013M",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12552 H 4938",
+    "id": "YSM-012 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -49,13 +73,19 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11291 H 7200",
+    "frequency": "10768 V 34000",
+    "id": "SUPPONOR AFRICA 1",
+    "key": "C4 1B 76 55 6B 30 CF 6A"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11290 H 7200",
     "id": "URG 019",
     "key": "20 26 FE 44 ED A2 C5 54"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
+    "frequency": "10819 V 3670",
     "id": "RMG Dubai HD",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -64,5 +94,17 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10980 H 3600",
+    "id": "F4-2 4.5MH",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10985 V 9600",
+    "id": "POL-111",
+    "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
