@@ -1,12 +1,6 @@
 [
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11306 V 7200",
-        "id": "SINTRA 1 MN",
-        "key": "C1 5E F7 16 6A D5 B3 F2"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 34000",
         "id": "SUPPONOR AFRICA 2",
         "key": "1E 7E EA 86 18 8F CA 71"
@@ -15,13 +9,31 @@
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 34000",
         "id": "OVERON 3",
-        "key": "F5 66 F4 4F E6 37 43 60"
+        "key": "8E 9B DD 06 99 43 2C 08"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 34000",
         "id": "OVERON 2",
         "key": "05 67 24 90 04 16 A3 BD"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "DE 52 6D 9D F0 E6 04 DA"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11306 V 7200",
+        "id": "SINTRA 1 MN",
+        "key": "C1 5E F7 16 6A D5 B3 F2"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 3",
+        "key": "F5 66 F4 4F E6 37 43 60"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
@@ -64,23 +76,5 @@
         "frequency": "12728 V 7200",
         "id": "OB-09 A",
         "key": "4E 5B 29 D2 6D D1 9A D8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12547 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11014 H 7200",
-        "id": "E-073 MAIN",
-        "key": "BC 20 26 02 04 22 CB F1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11607 V 7200",
-        "id": "MAIN AFRIQUE",
-        "key": "44 44 55 DD 55 66 66 21"
     }
 ]
