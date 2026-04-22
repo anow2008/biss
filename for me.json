@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12516 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11291 H 7200",
+        "id": "URG 019",
+        "key": "20 26 FE 44 ED A2 C5 54"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10987 H 7200",
         "id": "F-509 PSG main",
         "key": "DB AC 54 DB 8D 65 47 39"
