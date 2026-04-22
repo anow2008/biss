@@ -7,27 +7,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10962 H 9875",
-    "id": "2Sat HOL307 MEN MAIN",
-    "key": "DD D4 59 0A 9D 6E E7 F2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10974 H 9875",
-    "id": "WOMEN MAIN",
-    "key": "DD D4 59 0A 9D 6E E7 F2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 H 7200",
-    "id": "F-509 PSG main",
-    "key": "DB AC 54 DB 8D 65 47 39"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10996 H 7200",
     "id": "F-510 Marseille MAIN",
     "key": "B8 A7 12 71 D1 06 E5 BC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 H 7200",
+    "id": "E-073 MAIN",
+    "key": "BC 20 26 02 04 22 CB F1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,21 +31,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "GVA_Fi01",
-    "key": "EF 24 1F 32 D7 9F D6 4C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11062 H 7200",
     "id": "UAE110 M",
     "key": "CE DD 2B D6 A4 86 D5 FF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
-    "id": "IMG A EU",
-    "key": "E7 91 CC 44 ED 12 99 98"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -73,21 +49,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
+    "frequency": "12510 V 7200",
+    "id": "RB Salzburg",
+    "key": "22 04 FB 21 EA 98 31 B3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12515 H 4938",
     "id": "YSM-015BU",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12522 H 4938",
-    "id": "YSM-013M",
+    "frequency": "12547 H 4938",
+    "id": "YSM-016 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12552 H 4938",
-    "id": "YSM-012 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
+    "frequency": "12728 V 7200",
+    "id": "OB-09 A",
+    "key": "4E 5B 29 D2 6D D1 9A D8"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -97,7 +79,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10768 V 34000",
+    "frequency": "10767 V 34000",
     "id": "SUPPONOR AFRICA 1",
     "key": "C4 1B 76 55 6B 30 CF 6A"
   },
@@ -127,7 +109,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
+    "frequency": "10986 V 9600",
     "id": "POL-111",
     "key": "AB BA 26 8B DC AE 04 8E"
   },
