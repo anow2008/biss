@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11014 V 7200",
+        "id": "UWW-TIRANA",
+        "key": "E4 73 51 A8 37 8E AB 70"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "C4 1B 76 55 6B 30 CF 6A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12516 H 4938",
         "id": "YSM-021M",
         "key": "AB BA 20 85 25 20 26 6B"
