@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10961 H 9875",
+        "id": "2Sat HOL307 MEN MAIN",
+        "key": "DD D4 59 0A 9D 6E E7 F2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10973 H 9875",
+        "id": "WOMEN MAIN",
+        "key": "DD D4 59 0A 9D 6E E7 F2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11070 H 7200",
         "id": "IMG A EU",
         "key": "E7 91 CC 44 ED 12 99 98"
