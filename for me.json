@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11306 V 7200",
+        "id": "SINTRA 1 MN",
+        "key": "C1 5E F7 16 6A D5 B3 F2"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 H 7200",
         "id": "Fi09_GNVE",
