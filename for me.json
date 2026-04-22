@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "Main SAUDI015",
+        "key": "BE 0F A0 6D 35 90 4E 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10996 H 7200",
+        "id": "F-510 Marseille MAIN",
+        "key": "B8 A7 12 71 D1 06 E5 BC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 H 7200",
+        "id": "SNG ATLAS-SAT 1",
+        "key": "78 9A C4 D6 5B FA 43 98"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11062 H 7200",
+        "id": "UAE110 M",
+        "key": "CE DD 2B D6 A4 86 D5 FF"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11067 H 9875",
+        "id": "FBL Werder Bremen",
+        "key": "22 04 BC E2 FF 92 47 D8"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11079 H 9875",
+        "id": "FBL Union Berlin",
+        "key": "22 04 BC E2 FF 92 47 D8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11014 V 7200",
         "id": "UWW-TIRANA",
         "key": "E4 73 51 A8 37 8E AB 70"
