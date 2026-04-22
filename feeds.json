@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10973 H 9875",
+        "id": "WOMEN MAIN",
+        "key": "DD D4 59 0A 9D 6E E7 F2"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10983 V 4800",
+        "id": "POL 076",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10733 V 34000",
+        "id": "SUPPONOR AFRICA 2",
+        "key": "C4 1B 76 55 6B 30 CF 6A"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10733 V 34000",
+        "id": "OVERON 3",
+        "key": "F5 66 F4 4F E6 37 43 60"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10733 V 34000",
+        "id": "OVERON 2",
+        "key": "05 67 24 90 04 16 A3 BD"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10733 V 34000",
+        "id": "OVERON 1",
+        "key": "C7 74 81 BC 65 99 3A 38"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11070 H 7200",
         "id": "IMG A EU",
         "key": "E7 91 CC 44 ED 12 99 98"
@@ -12,27 +48,9 @@
         "key": "77 93 52 5C 99 08 86 27"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10989 V 4800",
-        "id": "POL-10 ENC2",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12438 H 27500",
         "id": "FEED 2",
         "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 2",
-        "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7120",
-        "id": "EFL - Leicester v Hull City",
-        "key": "D4 44 A5 BD D2 35 21 28"
     }
 ]
