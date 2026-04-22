@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 H 7200",
+        "id": "Fi09_GNVE",
+        "key": "63 C8 41 6C AD F7 56 FA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11080 H 7200",
+        "id": "VOLLEY_WORLD_MAIN",
+        "key": "64 BB 03 22 57 9D 52 46"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11105 H 9875",
+        "id": "GVA_Fi08",
+        "key": "89 FE EE 75 A7 BB 1D 7F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12656 V 7120",
+        "id": "Pitch - EFL - Charlton Athletic v Ipswich",
+        "key": "93 0D EE 8E 34 37 27 92"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12538 V 7200",
         "id": "ITA556 HD16",
         "key": "44 A4 76 5E F8 B8 D9 89"
