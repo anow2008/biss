@@ -1,21 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 H 7200",
-    "id": "Fi09_GNVE",
-    "key": "63 C8 41 6C AD F7 56 FA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "E7 91 CC 44 ED 12 99 98"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 H 9875",
-    "id": "GVA_Fi08",
-    "key": "89 FE EE 75 A7 BB 1D 7F"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -31,7 +19,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11306 V 7200",
+    "frequency": "11305 V 7200",
     "id": "SINTRA 1 MN",
     "key": "C1 5E F7 16 6A D5 B3 F2"
   },
