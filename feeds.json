@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10987 H 7200",
+        "id": "F-509 PSG main",
+        "key": "DB AC 54 DB 8D 65 47 39"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12610 V 7200",
+        "id": "ITA 671",
+        "key": "E7 1F FB 01 CD 04 22 F3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12601 V 7200",
+        "id": "ITA 671WFeed",
+        "key": "E7 1F FE 04 AD 04 22 D3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10973 H 9875",
         "id": "WOMEN MAIN",
         "key": "DD D4 59 0A 9D 6E E7 F2"
@@ -46,11 +64,5 @@
         "frequency": "11006 V 7500",
         "id": "POL046",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
     }
 ]
