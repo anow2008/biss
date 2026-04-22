@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11306 V 7200",
+        "id": "SINTRA 1 MN",
+        "key": "C1 5E F7 16 6A D5 B3 F2"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 2",
+        "key": "1E 7E EA 86 18 8F CA 71"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 3",
+        "key": "F5 66 F4 4F E6 37 43 60"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "05 67 24 90 04 16 A3 BD"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "C7 74 81 BC 65 99 3A 38"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12656 V 7120",
         "id": "Pitch - EFL - Charlton Athletic v Ipswich",
@@ -52,35 +82,5 @@
         "frequency": "11607 V 7200",
         "id": "MAIN AFRIQUE",
         "key": "44 44 55 DD 55 66 66 21"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11598 V 7200",
-        "id": "WORLD FEED",
-        "key": "11 11 22 44 22 33 33 88"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11023 H 7200",
-        "id": "SNG ATLAS-SAT 1",
-        "key": "78 9A C4 D6 5B FA 43 98"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11079 H 9875",
-        "id": "FBL Union Berlin",
-        "key": "22 04 BC E2 FF 92 47 D8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 V 7200",
-        "id": "Main SAUDI015",
-        "key": "BE 0F A0 6D 35 90 4E 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11105 H 9875",
-        "id": "GVA_Fi08",
-        "key": "89 FE EE 75 A7 BB 1D 7F"
     }
 ]
