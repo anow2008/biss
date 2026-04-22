@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12547 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11014 H 7200",
+        "id": "E-073 MAIN",
+        "key": "BC 20 26 02 04 22 CB F1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11607 V 7200",
+        "id": "MAIN AFRIQUE",
+        "key": "44 44 55 DD 55 66 66 21"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11598 V 7200",
+        "id": "WORLD FEED",
+        "key": "11 11 22 44 22 33 33 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 H 7200",
+        "id": "SNG ATLAS-SAT 1",
+        "key": "78 9A C4 D6 5B FA 43 98"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11079 H 9875",
         "id": "FBL Union Berlin",
@@ -16,12 +46,6 @@
         "frequency": "11105 H 9875",
         "id": "GVA_Fi08",
         "key": "89 FE EE 75 A7 BB 1D 7F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12522 H 4938",
-        "id": "YSM-013M",
-        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -58,17 +82,5 @@
         "frequency": "10768 V 34000",
         "id": "SUPPONOR AFRICA 1",
         "key": "C4 1B 76 55 6B 30 CF 6A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12511 V 7200",
-        "id": "RB Salzburg",
-        "key": "22 04 FB 21 EA 98 31 B3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10996 H 7200",
-        "id": "F-510 Marseille MAIN",
-        "key": "B8 A7 12 71 D1 06 E5 BC"
     }
 ]
