@@ -1,15 +1,39 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11079 H 9875",
+        "id": "FBL Union Berlin",
+        "key": "22 04 BC E2 FF 92 47 D8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 V 7200",
+        "id": "Main SAUDI015",
+        "key": "BE 0F A0 6D 35 90 4E 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11105 H 9875",
+        "id": "GVA_Fi08",
+        "key": "89 FE EE 75 A7 BB 1D 7F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12522 H 4938",
+        "id": "YSM-013M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10985 V 9600",
+        "id": "POL-111",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11014 V 7200",
         "id": "UWW-TIRANA",
         "key": "E4 73 51 A8 37 8E AB 70"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12552 H 4938",
-        "id": "YSM-012 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
@@ -46,29 +70,5 @@
         "frequency": "10996 H 7200",
         "id": "F-510 Marseille MAIN",
         "key": "B8 A7 12 71 D1 06 E5 BC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11061 H 7200",
-        "id": "UAE110 M",
-        "key": "CE DD 2B D6 A4 86 D5 FF"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11291 H 7200",
-        "id": "URG 019",
-        "key": "20 26 FE 44 ED A2 C5 54"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11023 V 7200",
-        "id": "GVA_Fi01",
-        "key": "EF 24 1F 32 D7 9F D6 4C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10987 H 7200",
-        "id": "F-509 PSG main",
-        "key": "DB AC 54 DB 8D 65 47 39"
     }
 ]
