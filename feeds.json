@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12538 V 7200",
+        "id": "ITA556 HD16",
+        "key": "44 A4 76 5E F8 B8 D9 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL 058_T1",
+        "key": "60 24 33 B7 28 62 38 C2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12728 V 7200",
+        "id": "OB-09 A",
+        "key": "4E 5B 29 D2 6D D1 9A D8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12547 H 4938",
         "id": "YSM-016 MAIN",
         "key": "AB BA 20 85 25 20 26 6B"
@@ -64,23 +82,5 @@
         "frequency": "10768 V 34000",
         "id": "SUPPONOR RUSIA 1",
         "key": "BA EC 70 16 65 EB DC 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR MENA 1",
-        "key": "F1 46 E9 20 3B A0 9C 77"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR EASTERN 1",
-        "key": "BC F7 9B 4E C6 39 AD AC"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR AFRICA 1",
-        "key": "C4 1B 76 55 6B 30 CF 6A"
     }
 ]
