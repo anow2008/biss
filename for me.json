@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12538 V 7200",
+        "id": "ITA556 HD16",
+        "key": "44 A4 76 5E F8 B8 D9 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL 058_T1",
+        "key": "60 24 33 B7 28 62 38 C2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11014 H 7200",
         "id": "E-073 MAIN",
         "key": "BC 20 26 02 04 22 CB F1"
