@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11061 H 7200",
+        "id": "UAE110 M",
+        "key": "CE DD 2B D6 A4 86 D5 FF"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11291 H 7200",
+        "id": "URG 019",
+        "key": "20 26 FE 44 ED A2 C5 54"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 V 7200",
+        "id": "GVA_Fi01",
+        "key": "EF 24 1F 32 D7 9F D6 4C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10987 H 7200",
         "id": "F-509 PSG main",
         "key": "DB AC 54 DB 8D 65 47 39"
@@ -40,29 +58,5 @@
         "frequency": "10733 V 34000",
         "id": "OVERON 3",
         "key": "F5 66 F4 4F E6 37 43 60"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10733 V 34000",
-        "id": "OVERON 2",
-        "key": "05 67 24 90 04 16 A3 BD"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10733 V 34000",
-        "id": "OVERON 1",
-        "key": "C7 74 81 BC 65 99 3A 38"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "E7 91 CC 44 ED 12 99 98"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11006 V 7500",
-        "id": "POL046",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
