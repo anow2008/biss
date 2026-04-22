@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11014 H 7200",
+        "id": "E-073 MAIN",
+        "key": "BC 20 26 02 04 22 CB F1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11598 V 7200",
+        "id": "WORLD FEED",
+        "key": "11 11 22 44 22 33 33 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11607 V 7200",
+        "id": "MAIN AFRIQUE",
+        "key": "44 44 55 DD 55 66 66 21"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "RB Salzburg",
+        "key": "22 04 FB 21 EA 98 31 B3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 V 7200",
         "id": "Main SAUDI015",
         "key": "BE 0F A0 6D 35 90 4E 13"
