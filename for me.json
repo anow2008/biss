@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 V 7200",
+        "id": "UWW-TIRANA",
+        "key": "E4 73 51 A8 37 8E AB 70"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11598 V 7200",
+        "id": "WORLD FEED",
+        "key": "A3 F1 C6 5A D9 B2 7E 09"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11607 V 7200",
+        "id": "MAIN AFRIQUE",
+        "key": "4B 9D 2F 17 7A 8C 13 19"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12687 V 7200",
+        "id": "SNG1 M",
+        "key": "CE 81 77 C6 92 B1 2A 6D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7500",
+        "id": "E333 M",
+        "key": "BD D0 6F FC 5A 7B B7 8C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10973 V 9600",
+        "id": "POL-111",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11291 H 7200",
         "id": "URG 019",
