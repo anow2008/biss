@@ -18,12 +18,6 @@
     "key": "89 5C 64 49 A8 16 4C 0A"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "74 E6 F3 4D F3 DB FE CC"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10846 V 9875",
     "id": "IPF",
