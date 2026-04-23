@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "F1 46 E9 20 3B A0 9C 77"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "BC F7 9B 4E C6 39 AD AC"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "C4 1B 76 55 6B 30 CF 6A"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "74 E6 F3 4D F3 DB FE CC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10846 V 9875",
+        "id": "IPF",
+        "key": "D6 A0 17 8D 9F F7 44 DA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 V 7500",
+        "id": "AFD",
+        "key": "17 38 C1 10 2A BD D1 B8"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10846 V 9875",
         "id": "GCUK Enc 2",
@@ -58,23 +94,5 @@
         "frequency": "12510 V 7200",
         "id": "HBL Berlin",
         "key": "20 26 AB F1 DC 23 04 03"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11607 V 7200",
-        "id": "MAIN AFRIQUE",
-        "key": "4B 9D 2F 17 7A 8C 13 19"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11598 V 7200",
-        "id": "WORLD FEED",
-        "key": "A3 F1 C6 5A D9 B2 7E 09"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7500",
-        "id": "E333 M",
-        "key": "BD D0 6F FC 5A 7B B7 8C"
     }
 ]
