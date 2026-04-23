@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "E7 91 CC 44 ED 12 99 98"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11607 V 7200",
+        "id": "E-073 MAIN",
+        "key": "23 04 AA D1 BB 20 26 01"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11306 V 7200",
+        "id": "SINTRA 1 MN",
+        "key": "F5 7A E6 55 C1 9D B3 11"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11044 V 7120",
         "id": "Pitch - EFL - Salford v Bromley",
         "key": "BC 5B 27 3E 34 A3 44 1B"
