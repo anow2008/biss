@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11105 H 9875",
+        "id": "GVA_Fi08",
+        "key": "E6 3A F7 17 84 13 BF 56"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 V 7200",
+        "id": "UWW-TIRANA",
+        "key": "E4 73 51 A8 37 8E AB 70"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12566 H 7200",
+        "id": "DNK83_TUC_C1_MAIN",
+        "key": "B3 F1 A9 4D D4 E2 C6 7C"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12611 V 7200",
         "id": "ITA 671",
@@ -58,23 +76,5 @@
         "frequency": "12696 V 7500",
         "id": "LPGA - The Chevron Championship",
         "key": "89 5C 64 49 A8 16 4C 0A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 V 7200",
-        "id": "MAIN AFRIQUE",
-        "key": "44 44 55 DD 55 66 66 21"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11598 V 7200",
-        "id": "WORLD FEED",
-        "key": "11 11 22 44 22 33 33 88"
     }
 ]
