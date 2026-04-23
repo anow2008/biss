@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7200",
+        "id": "ITA 671",
+        "key": "D0 42 3E 50 71 FF AC 1C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12601 V 7200",
+        "id": "ITA 671WFeed",
+        "key": "D0 42 3E 50 71 FF FD 6D"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11291 H 7200",
+        "id": "URG 019",
+        "key": "20 26 F1 37 C4 DA BD 5B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11569 V 9875",
+        "id": "ENC-27",
+        "key": "85 82 C9 D0 8B 81 99 A5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "71 85 7C 72 CE 9E 3A A6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12593 V 7120",
         "id": "GCUK Enc 5",
         "key": "FF DE 23 00 9A 23 04 C1"
@@ -52,17 +82,5 @@
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "E7 91 CC 44 ED 12 99 98"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 2",
-        "key": "1E 7E EA 86 18 8F CA 71"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2",
-        "key": "05 67 24 90 04 16 A3 BD"
     }
 ]
