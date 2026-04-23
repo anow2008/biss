@@ -76,11 +76,5 @@
         "frequency": "11598 V 7200",
         "id": "WORLD FEED",
         "key": "11 11 22 44 22 33 33 88"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "E7 91 CC 44 ED 12 99 98"
     }
 ]
