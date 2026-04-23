@@ -1,9 +1,9 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 2",
-        "key": "1E 7E EA 86 18 8F CA 71"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12593 V 7120",
+        "id": "GCUK Enc 5",
+        "key": "FF DE 23 00 9A 23 04 C1"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
@@ -15,54 +15,54 @@
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 34000",
         "id": "OVERON 2",
-        "key": "05 67 24 90 04 16 A3 BD"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
         "key": "DE 52 6D 9D F0 E6 04 DA"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11306 V 7200",
-        "id": "SINTRA 1 MN",
-        "key": "C1 5E F7 16 6A D5 B3 F2"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 3",
-        "key": "F5 66 F4 4F E6 37 43 60"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 34000",
         "id": "OVERON 1",
-        "key": "C7 74 81 BC 65 99 3A 38"
+        "key": "74 E6 F3 4D F3 DB FE CC"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7120",
-        "id": "Pitch - EFL - Charlton Athletic v Ipswich",
-        "key": "93 0D EE 8E 34 37 27 92"
+        "frequency": "12696 V 7500",
+        "id": "LPGA - The Chevron Championship",
+        "key": "89 5C 64 49 A8 16 4C 0A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11080 H 7200",
-        "id": "VOLLEY_WORLD_MAIN",
-        "key": "64 BB 03 22 57 9D 52 46"
+        "frequency": "11606 V 7200",
+        "id": "MAIN AFRIQUE",
+        "key": "44 44 55 DD 55 66 66 21"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 H 7200",
-        "id": "Fi09_GNVE",
-        "key": "63 C8 41 6C AD F7 56 FA"
+        "frequency": "11598 V 7200",
+        "id": "WORLD FEED",
+        "key": "11 11 22 44 22 33 33 88"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12538 V 7200",
-        "id": "ITA556 HD16",
-        "key": "44 A4 76 5E F8 B8 D9 89"
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "E7 91 CC 44 ED 12 99 98"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 2",
+        "key": "1E 7E EA 86 18 8F CA 71"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "05 67 24 90 04 16 A3 BD"
     }
 ]
