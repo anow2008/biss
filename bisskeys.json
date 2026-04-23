@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11044 V 7120",
-    "id": "Pitch - EFL - Salford v Bromley",
-    "key": "BC 5B 27 3E 34 A3 44 1B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "E7 91 CC 44 ED 12 99 98"
@@ -28,12 +22,6 @@
     "frequency": "12696 V 7500",
     "id": "LPGA - The Chevron Championship",
     "key": "89 5C 64 49 A8 16 4C 0A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
-    "id": "ENC 2",
-    "key": "E5 36 4C 67 78 56 62 30"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -58,11 +46,5 @@
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
