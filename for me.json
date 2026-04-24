@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10969 V 7200",
+        "id": "F489 MAIN",
+        "key": "67 2B 53 E5 B1 DF 49 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10978 V 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "20 25 AB F0 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR RUSIA 1",
+        "key": "4B DB 32 58 04 B7 36 F1"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10997 V 10000",
+        "id": "POL027",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12575 H 7200",
+        "id": "F435-1",
+        "key": "F6 42 64 9C 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12593 V 7200",
         "id": "POL 058_T2",
         "key": "15 58 35 A2 71 42 63 16"
