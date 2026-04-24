@@ -25,15 +25,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 H 7200",
-    "id": "Fi15_GNVE",
-    "key": "E9 87 8A FA FB 83 FC 7A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11022 V 9875",
     "id": "GVA_Fi03_Buli7",
     "key": "53 61 17 CB FA 3A 0B 3F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11569 V 9875",
+    "id": "ENC-27",
+    "key": "85 82 C9 D0 8B 81 99 A5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -46,6 +46,12 @@
     "frequency": "11607 V 7200",
     "id": "AFRIQUE FEED",
     "key": "9C 4A 7F 65 1E 2B 8D D6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7200",
+    "id": "HBL Flensburg",
+    "key": "20 26 AB F1 DC 24 04 04"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,6 +73,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12656 V 7120",
+    "id": "Pitch Newcastle Red Bulls v Bristol",
+    "key": "21 CC 78 65 91 F7 7F 07"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12696 V 7500",
     "id": "LPGA - The Chevron Championship",
     "key": "89 5C 64 49 A8 16 4C 0A"
@@ -85,25 +97,31 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11273 H 7200",
+    "frequency": "11264 H 7200",
     "id": "URC",
     "key": "1E 83 F2 93 CA 53 9D BA"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11291 H 7200",
-    "id": "URG 019",
-    "key": "FF CA 20 E9 26 B1 23 FA"
+    "frequency": "11273 H 7200",
+    "id": "URC",
+    "key": "1E 83 F2 93 CA 53 9D BA"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10819 V 3670",
     "id": "RMG Dubai HD",
-    "key": "12 34 56 9C 78 91 23 2C"
+    "key": "6A CB BD F2 EE 43 51 82"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "10829 V 7200",
+    "id": "GCUK Enc 2",
+    "key": "6A CB BD F2 EE 43 51 82"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -133,12 +151,6 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10997 V 10000",
-    "id": "POL027",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11015 V 9600",
     "id": "POL-056 ENC 2",
     "key": "AB BA 26 8B DC AE 04 8E"
@@ -151,13 +163,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11079 H 9600",
-    "id": "POL-111",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12511 H 7200",
+    "frequency": "12510 H 7200",
     "id": "F-509/PROD2-VANNES-MAIN",
     "key": "F5 09 64 62 1F EE D1 DE"
   },
