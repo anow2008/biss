@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "EB 7B B5 1B 21 D2 5B 4E"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "8F B4 0F 52 2A 9F AA 73"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "B3 14 B2 79 BD 34 CC BD"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "99 90 CD F6 C8 88 84 D4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11597 V 7200",
+        "id": "WORLD FEED",
+        "key": "7E 21 A9 48 C4 D5 B6 4F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12696 V 7500",
+        "id": "LPGA - The Chevron Championship",
+        "key": "89 5C 64 49 A8 16 4C 0A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11607 V 7200",
+        "id": "AFRIQUE FEED",
+        "key": "9C 4A 7F 65 1E 2B 8D D6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10961 H 9875",
+        "id": "UWCL M01 MD-1 M",
+        "key": "F3 08 C9 C4 A3 33 C9 9F"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12553 H 4938",
         "id": "YSM-016 MAIN",
@@ -34,47 +82,5 @@
         "frequency": "12601 V 7200",
         "id": "ITA 671WFeed",
         "key": "FF CE D0 9D 42 4E 71 01"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12593 V 7120",
-        "id": "GCUK Enc 5",
-        "key": "FF DE 23 00 9A 24 04 C2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10847 V 9875",
-        "id": "IPF",
-        "key": "D6 A0 17 8D 9F F7 44 DA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12728 V 7120",
-        "id": "EDM HD ENC-1",
-        "key": "B2 C5 D3 4A E6 F4 A7 81"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11043 V 7200",
-        "id": "Fi12_GNVE",
-        "key": "BB 4B 19 1F 5B 16 13 84"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12575 H 7200",
-        "id": "DNK83_TUC_C2_MAIN",
-        "key": "A3 F7 C9 63 1E 5B 6D E6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11014 H 7200",
-        "id": "Fi16_GNVE",
-        "key": "E9 87 8A FA FB 83 FC 7A"
     }
 ]
