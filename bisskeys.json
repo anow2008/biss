@@ -19,9 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 H 7200",
-    "id": "Fi16_GNVE",
-    "key": "E9 87 8A FA FB 83 FC 7A"
+    "frequency": "11022 V 9875",
+    "id": "GVA_Fi03_Buli7",
+    "key": "53 61 17 CB FA 3A 0B 3F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,8 +37,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12553 H 4938",
-    "id": "YSM-016 MAIN",
+    "frequency": "12516 H 4938",
+    "id": "YSM-013M",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -81,13 +81,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "RMG Dubai HD",
-    "key": "D6 A0 17 8D 9F F7 44 DA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10846 V 9875",
-    "id": "IPF",
-    "key": "D6 A0 17 8D 9F F7 44 DA"
+    "key": "12 34 56 9C 78 91 23 2C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -97,7 +91,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12584 V 7200",
+    "frequency": "12583 V 7200",
     "id": "InFront Kip Keino Classic",
     "key": "FF EE D0 BD 42 4E 74 04"
   },
@@ -106,5 +100,29 @@
     "frequency": "12592 V 7120",
     "id": "GCUK Enc 5",
     "key": "FF DE 23 00 9A 24 04 C2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12611 V 7500",
+    "id": "E333 M",
+    "key": "33 2E 72 D3 BC 96 63 B5"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "POL 030",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10980 H 3600",
+    "id": "F1-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11079 H 9600",
+    "id": "POL-111",
+    "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
