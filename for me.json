@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11569 V 9875",
+        "id": "ENC-27",
+        "key": "85 82 C9 D0 8B 81 99 A5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "HBL Flensburg",
+        "key": "20 26 AB F1 DC 24 04 04"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12656 V 7120",
+        "id": "Pitch Newcastle Red Bulls v Bristol",
+        "key": "21 CC 78 65 91 F7 7F 07"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10829 V 7200",
+        "id": "GCUK Enc 2",
+        "key": "6A CB BD F2 EE 43 51 82"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10969 V 7200",
         "id": "F489 MAIN",
         "key": "67 2B 53 E5 B1 DF 49 D9"
