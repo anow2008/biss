@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 H 7200",
-    "id": "Fi13_GNVE",
-    "key": "E9 87 8A FA FB 83 FC 7A"
+    "frequency": "10961 H 9875",
+    "id": "UWCL M01 MD-1 M",
+    "key": "F3 08 C9 C4 A3 33 C9 9F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,6 +31,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12553 H 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12566 H 7200",
     "id": "DNK83_TUC_C1_MAIN",
     "key": "B3 F1 A9 4D D4 E2 C6 7C"
@@ -48,6 +54,18 @@
     "key": "B2 C5 D3 4A E6 F4 A7 81"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11291 H 7200",
+    "id": "URG 019",
+    "key": "FF CA 20 E9 26 B1 23 FA"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "RMG Dubai HD",
+    "key": "D6 A0 17 8D 9F F7 44 DA"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10847 V 9875",
     "id": "IPF",
@@ -58,6 +76,12 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12584 V 7200",
+    "id": "InFront Kip Keino Classic",
+    "key": "FF EE D0 BD 42 4E 74 04"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
