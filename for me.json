@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10961 H 9875",
+        "id": "UWCL M01 MD-1 M",
+        "key": "F3 08 C9 C4 A3 33 C9 9F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11597 V 7200",
+        "id": "WORLD FEED",
+        "key": "7E 21 A9 48 C4 D5 B6 4F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11607 V 7200",
+        "id": "AFRIQUE FEED",
+        "key": "9C 4A 7F 65 1E 2B 8D D6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12696 V 7500",
+        "id": "LPGA - The Chevron Championship",
+        "key": "89 5C 64 49 A8 16 4C 0A"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "99 90 CD F6 C8 88 84 D4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12553 H 4938",
         "id": "YSM-016 MAIN",
         "key": "AB BA 20 85 25 20 26 6B"
