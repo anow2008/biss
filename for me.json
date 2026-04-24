@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL 058_T2",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR RUSIA 1",
+        "key": "2B 15 E9 29 BA 1E 8D 65"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11273 H 7200",
+        "id": "URC",
+        "key": "1E 83 F2 93 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11067 H 9875",
+        "id": "FBL Nuernberg",
+        "key": "24 04 BC E4 DA 71 42 8D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12511 H 7200",
+        "id": "F-509/PROD2-VANNES-MAIN",
+        "key": "F5 09 64 62 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 V 7200",
         "id": "UWW-TIRANA",
         "key": "E4 73 51 A8 37 8E AB 70"
