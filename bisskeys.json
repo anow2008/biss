@@ -1,21 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 9875",
-    "id": "GVA_Fi03_Buli7",
-    "key": "53 61 17 CB FA 3A 0B 3F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12566 H 7200",
     "id": "DNK83_TUC_C1_MAIN",
     "key": "B3 F1 A9 4D D4 E2 C6 7C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12575 H 7200",
-    "id": "DNK83_TUC_C2_MAIN",
-    "key": "A3 F7 C9 63 1E 5B 6D E6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -28,12 +16,6 @@
     "frequency": "12647 V 7120",
     "id": "Pitch EFL Leicester v Millwall",
     "key": "21 99 A2 5C 26 14 5A 94"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7120",
-    "id": "Pitch Newcastle Red Bulls v Bristol",
-    "key": "21 CC 78 65 91 F7 7F 07"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -76,12 +58,6 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
-    "id": "POL-056 ENC 2",
-    "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
