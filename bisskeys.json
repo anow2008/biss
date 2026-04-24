@@ -7,18 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL 058_T2",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7120",
-    "id": "Pitch EFL Leicester v Millwall",
-    "key": "21 99 A2 5C 26 14 5A 94"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12696 V 7500",
     "id": "LPGA - The Chevron Championship",
     "key": "89 5C 64 49 A8 16 4C 0A"
@@ -36,39 +24,9 @@
     "key": "4B DB 32 58 04 B7 36 F1"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11264 H 7200",
-    "id": "URC",
-    "key": "1E 83 F2 93 CA 53 9D BA"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11273 H 7200",
-    "id": "URC",
-    "key": "1E 83 F2 93 CA 53 9D BA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7200",
-    "id": "GCUK Enc 2",
-    "key": "6A CB BD F2 EE 43 51 82"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10980 H 3600",
-    "id": "F1-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
