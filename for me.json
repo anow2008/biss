@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12553 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11291 H 7200",
+        "id": "URG 019",
+        "key": "FF CA 20 E9 26 B1 23 FA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12584 V 7200",
+        "id": "InFront Kip Keino Classic",
+        "key": "FF EE D0 BD 42 4E 74 04"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11005 H 7200",
         "id": "Fi15_GNVE",
         "key": "E9 87 8A FA FB 83 FC 7A"
