@@ -7,9 +7,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 H 9875",
+    "frequency": "10962 H 9875",
     "id": "UWCL M01 MD-1 M",
     "key": "F3 08 C9 C4 A3 33 C9 9F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10978 V 7200",
+    "id": "Medialink CRO-024/1",
+    "key": "20 25 AB F0 CD 20 26 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -55,21 +61,33 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12696 V 7500",
-    "id": "LPGA - The Chevron Championship",
-    "key": "89 5C 64 49 A8 16 4C 0A"
+    "frequency": "12593 V 7200",
+    "id": "POL 058_T2",
+    "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7120",
-    "id": "EDM HD ENC-1",
-    "key": "B2 C5 D3 4A E6 F4 A7 81"
+    "frequency": "12696 V 7500",
+    "id": "LPGA - The Chevron Championship",
+    "key": "89 5C 64 49 A8 16 4C 0A"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
     "key": "99 90 CD F6 C8 88 84 D4"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10768 V 34000",
+    "id": "SUPPONOR RUSIA 1",
+    "key": "2B 15 E9 29 BA 1E 8D 65"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11273 H 7200",
+    "id": "URC",
+    "key": "1E 83 F2 93 CA 53 9D BA"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -97,12 +115,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12592 V 7120",
-    "id": "GCUK Enc 5",
-    "key": "FF DE 23 00 9A 24 04 C2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12611 V 7500",
     "id": "E333 M",
     "key": "33 2E 72 D3 BC 96 63 B5"
@@ -121,8 +133,26 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11015 V 9600",
+    "id": "POL-056 ENC 2",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11067 H 9875",
+    "id": "FBL Nuernberg",
+    "key": "24 04 BC E4 DA 71 42 8D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11079 H 9600",
     "id": "POL-111",
     "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12511 H 7200",
+    "id": "F-509/PROD2-VANNES-MAIN",
+    "key": "F5 09 64 62 1F EE D1 DE"
   }
 ]
