@@ -13,6 +13,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10969 V 7200",
+    "id": "F489 MAIN",
+    "key": "67 2B 53 E5 B1 DF 49 D9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10978 V 7200",
     "id": "Medialink CRO-024/1",
     "key": "20 25 AB F0 CD 20 26 13"
@@ -40,12 +46,6 @@
     "frequency": "11607 V 7200",
     "id": "AFRIQUE FEED",
     "key": "9C 4A 7F 65 1E 2B 8D D6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
-    "id": "YSM-013M",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -81,7 +81,7 @@
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10768 V 34000",
     "id": "SUPPONOR RUSIA 1",
-    "key": "2B 15 E9 29 BA 1E 8D 65"
+    "key": "4B DB 32 58 04 B7 36 F1"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -97,7 +97,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
+    "frequency": "10819 V 3670",
     "id": "RMG Dubai HD",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -106,12 +106,6 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12583 V 7200",
-    "id": "InFront Kip Keino Classic",
-    "key": "FF EE D0 BD 42 4E 74 04"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -130,6 +124,18 @@
     "frequency": "10980 H 3600",
     "id": "F1-2 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10985 V 9600",
+    "id": "TVP POL-32  ENC 1",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10997 V 10000",
+    "id": "POL027",
+    "key": "77 93 52 5C 99 08 86 27"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -154,5 +160,11 @@
     "frequency": "12511 H 7200",
     "id": "F-509/PROD2-VANNES-MAIN",
     "key": "F5 09 64 62 1F EE D1 DE"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12575 H 7200",
+    "id": "F435-1",
+    "key": "F6 42 64 9C 1F EE D1 DE"
   }
 ]
