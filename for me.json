@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12737 V 7200",
+        "id": "ENC 1",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12647 V 7120",
         "id": "Pitch EFL Leicester v Millwall",
         "key": "21 99 A2 5C 26 14 5A 94"
