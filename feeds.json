@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12647 V 7120",
+        "id": "Pitch EFL Leicester v Millwall",
+        "key": "21 99 A2 5C 26 14 5A 94"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12656 V 7120",
         "id": "Pitch Newcastle Red Bulls v Bristol",
         "key": "21 CC 78 65 91 F7 7F 07"
@@ -58,17 +64,5 @@
         "frequency": "10978 V 7200",
         "id": "Medialink CRO-024/1",
         "key": "20 25 AB F0 CD 20 26 13"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12511 H 7200",
-        "id": "F-509/PROD2-VANNES-MAIN",
-        "key": "F5 09 64 62 1F EE D1 DE"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11067 H 9875",
-        "id": "FBL Nuernberg",
-        "key": "24 04 BC E4 DA 71 42 8D"
     }
 ]
