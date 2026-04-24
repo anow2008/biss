@@ -1,39 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "UWW-TIRANA",
-    "key": "E4 73 51 A8 37 8E AB 70"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10962 H 9875",
-    "id": "UWCL M01 MD-1 M",
-    "key": "F3 08 C9 C4 A3 33 C9 9F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10969 V 7200",
     "id": "F489 MAIN",
     "key": "67 2B 53 E5 B1 DF 49 D9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10978 V 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "20 25 AB F0 CD 20 26 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11022 V 9875",
     "id": "GVA_Fi03_Buli7",
     "key": "53 61 17 CB FA 3A 0B 3F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11569 V 9875",
-    "id": "ENC-27",
-    "key": "85 82 C9 D0 8B 81 99 A5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
+    "frequency": "12511 V 7200",
     "id": "HBL Flensburg",
     "key": "20 26 AB F1 DC 24 04 04"
   },
@@ -70,6 +46,12 @@
     "frequency": "12593 V 7200",
     "id": "POL 058_T2",
     "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12647 V 7120",
+    "id": "Pitch EFL Leicester v Millwall",
+    "key": "21 99 A2 5C 26 14 5A 94"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -121,21 +103,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
+    "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12611 V 7500",
-    "id": "E333 M",
-    "key": "33 2E 72 D3 BC 96 63 B5"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -157,13 +127,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FBL Nuernberg",
-    "key": "24 04 BC E4 DA 71 42 8D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12510 H 7200",
+    "frequency": "12511 H 7200",
     "id": "F-509/PROD2-VANNES-MAIN",
     "key": "F5 09 64 62 1F EE D1 DE"
   },
