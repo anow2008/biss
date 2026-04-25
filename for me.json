@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10978 V 7200",
+        "id": "UWW-TIRANA",
+        "key": "E4 73 51 A8 37 8E AB 70"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11069 V 9875",
+        "id": "GVA_Fi04 Angers AMERICAS",
+        "key": "1B 25 26 66 81 54 72 47"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11107 V 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 04 25 4F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12629 V 7120",
+        "id": "ITA727ENC1",
+        "key": "32 99 FA C5 EE 12 15 15"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12638 V 7120",
+        "id": "ITA727 Enc2",
+        "key": "32 99 FA C5 EE 12 15 15"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12647 V 7120",
+        "id": "Gallagher PREM - Northampton Saints v Bath Rugby",
+        "key": "11 CC 45 22 54 AA 11 0F"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11291 H 7200",
+        "id": "URG 019",
+        "key": "20 26 F6 3C F1 DB BA 86"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10996 H 7200",
         "id": "Pitch Pre Match Man C V Southampton",
         "key": "12 34 AC F2 FB 87 65 E7"
