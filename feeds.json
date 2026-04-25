@@ -1,57 +1,57 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11107 V 7200",
-        "id": "E-228 Main",
-        "key": "AA BB 20 85 26 04 25 4F"
+        "frequency": "11107 H 7200",
+        "id": "Fi01 ACB",
+        "key": "DE F5 47 1A F0 62 2E 80"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11069 V 9875",
-        "id": "GVA_Fi04 Angers AMERICAS",
-        "key": "1B 25 26 66 81 54 72 47"
+        "frequency": "11005 H 7200",
+        "id": "F-510 DIJON main",
+        "key": "CF 4F 83 A1 69 4C 97 4C"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 V 9875",
-        "id": "D535_2M12_1",
-        "key": "3C E4 F5 15 B0 EA 50 EA"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11291 H 7200",
-        "id": "URG 019",
-        "key": "20 26 F6 3C F1 DB BA 86"
+        "frequency": "12687 H 7200",
+        "id": "ENC 1",
+        "key": "F5 D9 63 31 26 D6 54 50"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12638 V 7120",
-        "id": "ITA727 Enc2",
-        "key": "32 99 FA C5 EE 12 15 15"
+        "frequency": "12678 V 7500",
+        "id": "ENC 5",
+        "key": "F1 07 45 3D E6 CB AD 5E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10978 V 7200",
-        "id": "UWW-TIRANA",
-        "key": "E4 73 51 A8 37 8E AB 70"
+        "frequency": "11589 V 7200",
+        "id": "Encoder 1",
+        "key": "44 48 25 B1 C5 A7 46 B2"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12647 V 7120",
-        "id": "Gallagher PREM - Northampton Saints v Bath Rugby",
-        "key": "11 CC 45 22 54 AA 11 0F"
+        "frequency": "11588 H 7200",
+        "id": "EHF Metz AMC",
+        "key": "E4 5F FD 40 FD 04 25 26"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11057 V 9875",
-        "id": "GVA_Fi05 LFP 5",
-        "key": "FA B7 DB 8C 61 37 13 AB"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11084 H 15000",
+        "id": "POL085",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12696 V 7500",
-        "id": "LPGA - The Chevron Championship",
-        "key": "89 5C 64 49 A8 16 4C 0A"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12550 H 9875",
+        "id": "D366_RTL_DIGI_Path1",
+        "key": "F1 13 B2 B6 CF 67 7E B4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11635 V 9700",
+        "id": "SNG ATLAS-SAT 1",
+        "key": "98 98 AA DA CC 12 34 12"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
@@ -75,18 +75,30 @@
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 34000",
         "id": "OVERON 1",
-        "key": "02 00 5E 60 5E 0F C8 35"
+        "key": "FB AF 96 40 C4 92 53 A9"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11012 V 4938",
-        "id": "YSM-013M",
-        "key": "AB BA 20 85 25 20 26 6B"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10838 V 7200",
+        "id": "GCUK Enc 2",
+        "key": "EB BC DE 85 6A BE 37 5F"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10996 H 7200",
-        "id": "Pitch Pre Match Man C V Southampton",
-        "key": "12 34 AC F2 FB 87 65 E7"
+        "frequency": "11107 V 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 04 25 4F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11069 V 9875",
+        "id": "GVA_Fi04 Angers AMERICAS",
+        "key": "1B 25 26 66 81 54 72 47"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11022 V 9875",
+        "id": "D535_2M12_1",
+        "key": "3C E4 F5 15 B0 EA 50 EA"
     }
 ]
