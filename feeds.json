@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12696 V 7500",
+        "id": "LPGA - The Chevron Championship",
+        "key": "89 5C 64 49 A8 16 4C 0A"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "F7 5F 18 6E 94 2E 5A 1C"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "B0 61 07 18 E9 DB 98 5C"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "9F 9C 3C 77 A5 D7 77 F3"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "02 00 5E 60 5E 0F C8 35"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11012 V 4938",
+        "id": "YSM-013M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10996 H 7200",
+        "id": "Pitch Pre Match Man C V Southampton",
+        "key": "12 34 AC F2 FB 87 65 E7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10969 V 7200",
+        "id": "F-509/fleury-MAIN",
+        "key": "E9 33 32 4E 56 18 EB 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11580 V 7200",
         "id": "NLEMG HOL312-1",
         "key": "12 3A BC 08 45 6D EF A1"
@@ -46,47 +94,5 @@
         "frequency": "11088 V 7120",
         "id": "Pitch - EFL - QPR v Derby County",
         "key": "20 0C 32 5E 5A 24 31 AF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11580 H 7200",
-        "id": "EHF Metz vs Cargo",
-        "key": "E4 5F 6F B2 ED 04 25 16"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7120",
-        "id": "Pitch Saracens v Leicester",
-        "key": "81 23 7D 21 DE 33 11 22"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11006 V 5000",
-        "id": "Live Broadcasting Line 1",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12511 H 7200",
-        "id": "LIVE_BR0ADCASTING_LINE1",
-        "key": "E4 5F 2A 6D CD 04 25 F6"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10981 H 3600",
-        "id": "F2-2 4.5MH",
-        "key": "20 25 AE F3 EA 52 02 3E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11213 V 7120",
-        "id": "GCUK Enc 5",
-        "key": "FF DE 23 00 9A 25 04 C3"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11079 H 9875",
-        "id": "FBL RB Leipzig",
-        "key": "25 04 CB F4 DC 17 41 34"
     }
 ]
