@@ -37,12 +37,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12696 V 7500",
-    "id": "LPGA - The Chevron Championship",
-    "key": "89 5C 64 49 A8 16 4C 0A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "UFC Fight Night on P+ #9: All Fights",
     "key": "99 CB 43 A7 7A BB 12 47"
@@ -64,11 +58,5 @@
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12550 H 9875",
-    "id": "D366_RTL_DIGI_Path1",
-    "key": "F1 13 B2 B6 CF 67 7E B4"
   }
 ]
