@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11580 V 7200",
+        "id": "NLEMG HOL312-1",
+        "key": "12 3A BC 08 45 6D EF A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 H 7200",
+        "id": "E399 BACK",
+        "key": "A0 D1 3A AB A6 43 42 2B"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11273 H 7200",
+        "id": "ITA",
+        "key": "3E 83 F2 B3 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12569 H 3750",
+        "id": "ITA349 grafica",
+        "key": "AA AA AA FE 11 11 11 33"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12601 V 7500",
+        "id": "E333 M",
+        "key": "6F 55 41 05 2E 80 9C 4A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12687 V 7200",
+        "id": "ENC-13",
+        "key": "CF 04 E6 B9 2F BB 9F 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12687 H 7200",
+        "id": "ENC 1",
+        "key": "38 54 3D C9 9A 61 FF FA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11088 V 7120",
         "id": "Pitch - EFL - QPR v Derby County",
         "key": "20 0C 32 5E 5A 24 31 AF"
@@ -46,41 +88,5 @@
         "frequency": "11079 H 9875",
         "id": "FBL RB Leipzig",
         "key": "25 04 CB F4 DC 17 41 34"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12566 H 7200",
-        "id": "DNK83_TUC_C1_MAIN",
-        "key": "9A 4C 2F 15 1E 6B 3D C6"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12519 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11080 V 7200",
-        "id": "GB GT Cars B/U",
-        "key": "E5 B0 66 FB 01 2D B1 DF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12575 H 7200",
-        "id": "DNK83_TUC_C2_MAIN",
-        "key": "4E 7B 2F F8 9A 1D 3C F3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11607 V 7200",
-        "id": "AFRIQUE FEED",
-        "key": "6A 1E 9D 25 4B 2F 73 ED"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11597 V 7200",
-        "id": "WORLD FEED",
-        "key": "2F 8B 6D 27 3A 7C 91 47"
     }
 ]
