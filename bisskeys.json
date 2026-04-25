@@ -19,12 +19,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11006 V 5000",
-    "id": "Live Broadcasting Line 1",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11043 V 7200",
     "id": "Fi12_GNVE",
     "key": "BB 4B 19 1F 5B 16 13 84"
@@ -43,19 +37,25 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11088 V 7120",
+    "id": "Pitch - EFL - QPR v Derby County",
+    "key": "20 0C 32 5E 5A 24 31 AF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11098 V 7200",
     "id": "E378 VIA1",
     "key": "25 04 20 49 26 AD 26 F9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11597 V 7200",
+    "frequency": "11598 V 7200",
     "id": "WORLD FEED",
     "key": "2F 8B 6D 27 3A 7C 91 47"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11607 V 7200",
+    "frequency": "11606 V 7200",
     "id": "AFRIQUE FEED",
     "key": "6A 1E 9D 25 4B 2F 73 ED"
   },
@@ -85,21 +85,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "Polsat Sport",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12602 V 7200",
     "id": "POL103",
     "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12629 V 7120",
-    "id": "Pitch EFL - West Brom v Ipswich",
-    "key": "32 55 30 B7 12 A3 DD 92"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -109,15 +97,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7200",
-    "id": "Fi17GNVE",
-    "key": "7E 9A 5D 75 54 3C A2 32"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12648 H 9600",
     "id": "ITA 593 Feed1-DAZN",
     "key": "A3 B9 C5 21 D8 E8 F9 B9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12656 V 7120",
+    "id": "Pitch Saracens v Leicester",
+    "key": "81 23 7D 21 DE 33 11 22"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 H 7200",
+    "id": "ENC 1",
+    "key": "38 54 3D C9 9A 61 FF FA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 V 7200",
+    "id": "ENC-13",
+    "key": "CF 04 E6 B9 2F BB 9F 89"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -130,12 +130,6 @@
     "frequency": "10768 V 34000",
     "id": "SUPPONOR EASTERN 1",
     "key": "64 EF 33 86 34 D1 A8 AD"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11291 H 7200",
-    "id": "TAS-002-MA",
-    "key": "E7 2F FA 10 FD 04 25 26"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -169,9 +163,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12610 V 7200",
-    "id": "GCUK Enc 1",
-    "key": "E7 2F FA 10 FD 04 25 26"
+    "frequency": "12601 V 7500",
+    "id": "E333 M",
+    "key": "6F 55 41 05 2E 80 9C 4A"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -190,12 +184,6 @@
     "frequency": "10997 V 10000",
     "id": "POL027",
     "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11079 H 9875",
-    "id": "FBL RB Leipzig",
-    "key": "25 04 CB F4 DC 17 41 34"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
