@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7500",
-    "id": "Llandovery",
-    "key": "F3 08 C9 C4 A3 33 C9 9F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10962 H 9875",
     "id": "UWCL M01 M",
     "key": "F3 08 C9 C4 A3 33 C9 9F"
@@ -20,26 +14,26 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10978 V 7200",
-    "id": "UWW-TIRANA",
-    "key": "E4 73 51 A8 37 8E AB 70"
+    "id": "F-509/fleury-MAIN",
+    "key": "E9 33 32 4E 56 18 EB 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10987 V 7200",
+    "id": "Post-match multilateral feed - FACSF - Manchester City v Southampton",
+    "key": "12 34 AC F2 FB 87 65 E7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 H 7200",
+    "id": "Fi11_GNVE",
+    "key": "46 10 33 89 4A 7D EA B1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11005 H 7200",
     "id": "F-510 DIJON main",
     "key": "CF 4F 83 A1 69 4C 97 4C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
-    "id": "GVA_Fi07",
-    "key": "3C E4 F5 15 B0 EA 50 EA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 9875",
-    "id": "D535_2M12_1",
-    "key": "3C E4 F5 15 B0 EA 50 EA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -68,8 +62,8 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11089 V 7120",
-    "id": "Pitch - EFL - QPR v Derby County",
-    "key": "20 0C 32 5E 5A 24 31 AF"
+    "id": "OER/F504/2/W6N FRvIR BRANDED",
+    "key": "F4 94 A4 2C 10 24 14 48"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,21 +79,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11579 H 7200",
-    "id": "EHF Metz vs Cargo",
-    "key": "E4 5F 6F B2 ED 04 25 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11580 V 7200",
     "id": "NLEMG HOL312-1",
     "key": "12 3A BC 08 45 6D EF A1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 H 7200",
-    "id": "EHF Metz AMC",
-    "key": "E4 5F FD 40 FD 04 25 26"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -118,6 +100,18 @@
     "frequency": "11607 V 7200",
     "id": "BAL AFR",
     "key": "6A 1E 9D 25 4B 2F 73 ED"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12548 H 7200",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12555 H 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -145,24 +139,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12629 V 7120",
-    "id": "ITA727ENC1",
-    "key": "32 99 FA C5 EE 12 15 15"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12638 V 7120",
-    "id": "ITA727 Enc2",
-    "key": "32 99 FA C5 EE 12 15 15"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7120",
-    "id": "Gallagher PREM - Northampton Saints v Bath Rugby",
-    "key": "11 CC 45 22 54 AA 11 0F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12678 V 7500",
     "id": "ENC 5",
     "key": "F1 07 45 3D E6 CB AD 5E"
@@ -172,12 +148,6 @@
     "frequency": "12687 H 7200",
     "id": "ENC 1",
     "key": "F5 D9 63 31 26 D6 54 50"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12687 V 7200",
-    "id": "ENC-13",
-    "key": "CF 04 E6 B9 2F BB 9F 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -196,6 +166,12 @@
     "frequency": "10768 V 34000",
     "id": "SUPPONOR EASTERN 1",
     "key": "64 EF 33 86 34 D1 A8 AD"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11273 H 7200",
+    "id": "ITA",
+    "key": "3E 83 F2 B3 CA 53 9D BA"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
