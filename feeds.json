@@ -1,8 +1,14 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "UFC Fight Night on P 9 All Fights",
+        "frequency": "10960 V 7500",
+        "id": "AFD",
+        "key": "17 38 C1 10 2A BD D1 B8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11005 V 7200",
+        "id": "WSHT ENC 58",
         "key": "99 CB 43 A7 7A BB 12 47"
     },
     {
@@ -70,23 +76,5 @@
         "frequency": "11589 V 7200",
         "id": "Encoder 1",
         "key": "44 48 25 B1 C5 A7 46 B2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11588 H 7200",
-        "id": "EHF Metz AMC",
-        "key": "E4 5F FD 40 FD 04 25 26"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11084 H 15000",
-        "id": "POL085",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12550 H 9875",
-        "id": "D366_RTL_DIGI_Path1",
-        "key": "F1 13 B2 B6 CF 67 7E B4"
     }
 ]
