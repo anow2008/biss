@@ -4,5 +4,209 @@
     "frequency": "10961 H 9875",
     "id": "UWCL M01 M",
     "key": "F3 08 C9 C4 A3 33 C9 9F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10987 V 7120",
+    "id": "W6N England vs Wales ( Branded )",
+    "key": "23 0C 32 61 1C 2C C4 0C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 V 7120",
+    "id": "W6N England vs Wales ( un Branded )",
+    "key": "23 0C 32 61 1C 2C C4 0C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11006 V 5000",
+    "id": "Live Broadcasting Line 1",
+    "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11043 V 7200",
+    "id": "Fi12_GNVE",
+    "key": "BB 4B 19 1F 5B 16 13 84"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11057 V 9875",
+    "id": "GVA_Fi05",
+    "key": "23 00 C0 E3 D5 73 53 9B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11069 V 9875",
+    "id": "GVA_Fi04",
+    "key": "AC D9 1B A0 AB DC 48 CF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11098 V 7200",
+    "id": "E378 VIA1",
+    "key": "25 04 20 49 26 AD 26 F9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11597 V 7200",
+    "id": "WORLD FEED",
+    "key": "2F 8B 6D 27 3A 7C 91 47"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11607 V 7200",
+    "id": "AFRIQUE FEED",
+    "key": "6A 1E 9D 25 4B 2F 73 ED"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12511 V 7200",
+    "id": "SF LNR UK",
+    "key": "F4 94 94 1C 1F EE D2 DF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12519 H 9875",
+    "id": "IPF",
+    "key": "C4 41 99 9E 64 E7 48 93"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12566 H 7200",
+    "id": "DNK83_TUC_C1_MAIN",
+    "key": "9A 4C 2F 15 1E 6B 3D C6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12575 H 7200",
+    "id": "DNK83_TUC_C2_MAIN",
+    "key": "4E 7B 2F F8 9A 1D 3C F3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "Polsat Sport",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12602 V 7200",
+    "id": "POL103",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12629 V 7120",
+    "id": "Pitch EFL - West Brom v Ipswich",
+    "key": "32 55 30 B7 12 A3 DD 92"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12636 H 9600",
+    "id": "ITA 593 Feed2-INT",
+    "key": "A3 B9 C5 21 D8 E8 F9 B9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12647 V 7200",
+    "id": "Fi17GNVE",
+    "key": "7E 9A 5D 75 54 3C A2 32"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12648 H 9600",
+    "id": "ITA 593 Feed1-DAZN",
+    "key": "A3 B9 C5 21 D8 E8 F9 B9"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "02 00 5E 60 5E 0F C8 35"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10768 V 34000",
+    "id": "SUPPONOR EASTERN 1",
+    "key": "64 EF 33 86 34 D1 A8 AD"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11291 H 7200",
+    "id": "TAS-002-MA",
+    "key": "E7 2F FA 10 FD 04 25 26"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "RMG Dubai HD",
+    "key": "C4 41 99 9E 64 E7 48 93"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10847 V 9875",
+    "id": "IPF",
+    "key": "C4 41 99 9E 64 E7 48 93"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11213 V 7120",
+    "id": "GCUK Enc 5",
+    "key": "FF DE 23 00 9A 25 04 C3"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11632 H 9875",
+    "id": "UWCL M01 M",
+    "key": "F3 08 C9 C4 A3 33 C9 9F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12610 V 7200",
+    "id": "GCUK Enc 1",
+    "key": "E7 2F FA 10 FD 04 25 26"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "POL 48 ENC1",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10981 H 3600",
+    "id": "F2-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10997 V 10000",
+    "id": "POL027",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11079 H 9875",
+    "id": "FBL RB Leipzig",
+    "key": "25 04 CB F4 DC 17 41 34"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12511 H 7200",
+    "id": "LIVE_BR0ADCASTING_LINE1",
+    "key": "E4 5F 2A 6D CD 04 25 F6"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12519 H 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
