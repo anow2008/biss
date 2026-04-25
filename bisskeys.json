@@ -7,15 +7,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 H 9875",
+    "frequency": "10962 H 9875",
     "id": "UWCL M01 M",
     "key": "F3 08 C9 C4 A3 33 C9 9F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10969 V 7200",
+    "id": "F-509/fleury-MAIN",
+    "key": "E9 33 32 4E 56 18 EB 59"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10978 V 7200",
     "id": "UWW-TIRANA",
     "key": "E4 73 51 A8 37 8E AB 70"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11005 H 7200",
+    "id": "F-510 DIJON main",
+    "key": "CF 4F 83 A1 69 4C 97 4C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -28,12 +40,6 @@
     "frequency": "11022 V 9875",
     "id": "D535_2M12_1",
     "key": "3C E4 F5 15 B0 EA 50 EA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11043 V 7200",
-    "id": "Fi12_GNVE",
-    "key": "BB 4B 19 1F 5B 16 13 84"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -52,6 +58,24 @@
     "frequency": "11069 V 9875",
     "id": "GVA_Fi04 Angers AMERICAS",
     "key": "1B 25 26 66 81 54 72 47"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11080 V 7120",
+    "id": "OER/F504/5/W6N FRvIR UNBRANDED",
+    "key": "F4 94 A4 2C 10 24 14 48"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11089 V 7120",
+    "id": "Pitch - EFL - QPR v Derby County",
+    "key": "20 0C 32 5E 5A 24 31 AF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 H 7200",
+    "id": "Fi01 ACB",
+    "key": "DE F5 47 1A F0 62 2E 80"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -76,6 +100,12 @@
     "frequency": "11588 H 7200",
     "id": "EHF Metz AMC",
     "key": "E4 5F FD 40 FD 04 25 26"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11589 V 7200",
+    "id": "Encoder 1",
+    "key": "44 48 25 B1 C5 A7 46 B2"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -133,15 +163,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 H 7200",
-    "id": "E399 BACK",
-    "key": "A0 D1 3A AB A6 43 42 2B"
+    "frequency": "12678 V 7500",
+    "id": "ENC 5",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12687 H 7200",
     "id": "ENC 1",
-    "key": "38 54 3D C9 9A 61 FF FA"
+    "key": "F5 D9 63 31 26 D6 54 50"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
