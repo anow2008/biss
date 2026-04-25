@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "97 D5 54 C0 D0 A7 AF 26"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR RUSIA 1",
+        "key": "2B 15 E9 29 BA 1E 8D 65"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "9F 9C 3C 77 A5 D7 77 F3"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "FB AF 96 40 C4 92 53 A9"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
@@ -58,23 +82,5 @@
         "frequency": "11107 H 7200",
         "id": "Fi01 ACB",
         "key": "DE F5 47 1A F0 62 2E 80"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11005 H 7200",
-        "id": "F-510 DIJON main",
-        "key": "CF 4F 83 A1 69 4C 97 4C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12687 H 7200",
-        "id": "ENC 1",
-        "key": "F5 D9 63 31 26 D6 54 50"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 V 7500",
-        "id": "ENC 5",
-        "key": "F1 07 45 3D E6 CB AD 5E"
     }
 ]
