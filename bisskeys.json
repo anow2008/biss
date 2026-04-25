@@ -13,19 +13,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7200",
-    "id": "Post-match multilateral feed - FACSF - Manchester City v Southampton",
-    "key": "12 34 AC F2 FB 87 65 E7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10995 H 7200",
+    "frequency": "10996 H 7200",
     "id": "Fi11_GNVE",
     "key": "46 10 33 89 4A 7D EA B1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11004 H 7200",
+    "frequency": "11005 H 7200",
     "id": "F-510 DIJON main",
     "key": "CF 4F 83 A1 69 4C 97 4C"
   },
@@ -43,12 +37,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "SAU-030-M",
-    "key": "B9 6E E8 0F 55 26 31 AC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11080 V 7120",
     "id": "OER/F504/5/W6N FRvIR UNBRANDED",
     "key": "F4 94 A4 2C 10 24 14 48"
@@ -61,7 +49,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11106 H 7200",
+    "frequency": "11107 H 7200",
     "id": "Fi01 ACB",
     "key": "DE F5 47 1A F0 62 2E 80"
   },
@@ -121,7 +109,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
+    "frequency": "12737 V 7200",
     "id": "UFC Fight Night on P+ #9: All Fights",
     "key": "99 CB 43 A7 7A BB 12 47"
   },
@@ -133,7 +121,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10768 V 34000",
+    "frequency": "10767 V 34000",
     "id": "SUPPONOR EASTERN 1",
     "key": "64 EF 33 86 34 D1 A8 AD"
   },
@@ -145,8 +133,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10823 V 3670",
-    "id": "GCUK Enc 3",
+    "frequency": "10850 V 3670",
+    "id": "GCUK Enc 7",
     "key": "98 98 AA DA CC 12 34 12"
   },
   {
@@ -157,33 +145,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10980 H 3600",
-    "id": "F2-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11084 H 15000",
     "id": "POL085",
     "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12524 H 4938",
-    "id": "YSM-012 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
