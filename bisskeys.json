@@ -13,27 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7120",
-    "id": "W6N England vs Wales ( Branded )",
-    "key": "23 0C 32 61 1C 2C C4 0C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 H 7200",
-    "id": "Pitch Pre Match Man C V Southampton",
-    "key": "12 34 AC F2 FB 87 65 E7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 V 7120",
-    "id": "W6N England vs Wales ( un Branded )",
-    "key": "23 0C 32 61 1C 2C C4 0C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11006 V 5000",
-    "id": "Live Broadcasting Line 1",
-    "key": "13 57 AB 15 CD 24 68 59"
+    "frequency": "10978 V 7200",
+    "id": "UWW-TIRANA",
+    "key": "E4 73 51 A8 37 8E AB 70"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,7 +25,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11043 V 7200",
+    "frequency": "11022 V 9875",
+    "id": "D535_2M12_1",
+    "key": "3C E4 F5 15 B0 EA 50 EA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11044 V 7200",
     "id": "Fi12_GNVE",
     "key": "BB 4B 19 1F 5B 16 13 84"
   },
@@ -61,15 +49,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11080 V 7200",
-    "id": "British GT Cars Main",
-    "key": "E5 B0 66 FB 01 2D B1 DF"
+    "frequency": "11069 V 9875",
+    "id": "GVA_Fi04 Angers AMERICAS",
+    "key": "1B 25 26 66 81 54 72 47"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11089 V 7120",
-    "id": "Pitch - EFL - QPR v Derby County",
-    "key": "20 0C 32 5E 5A 24 31 AF"
+    "frequency": "11107 V 7200",
+    "id": "E-228 Main",
+    "key": "AA AA 25 79 04 BB BB 7A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -121,21 +109,33 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7120",
-    "id": "Pitch Saracens v Leicester",
-    "key": "81 23 7D 21 DE 33 11 22"
+    "frequency": "12602 V 7200",
+    "id": "POL 058_T1",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12629 V 7120",
+    "id": "ITA727ENC1",
+    "key": "32 99 FA C5 EE 12 15 15"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12638 V 7120",
+    "id": "ITA727 Enc2",
+    "key": "32 99 FA C5 EE 12 15 15"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12647 V 7120",
+    "id": "Gallagher PREM - Northampton Saints v Bath Rugby",
+    "key": "11 CC 45 22 54 AA 11 0F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12678 H 7200",
     "id": "E399 BACK",
     "key": "A0 D1 3A AB A6 43 42 2B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12687 H 7200",
-    "id": "ENC 1",
-    "key": "38 54 3D C9 9A 61 FF FA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -160,6 +160,12 @@
     "frequency": "11273 H 7200",
     "id": "ITA",
     "key": "3E 83 F2 B3 CA 53 9D BA"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11291 H 7200",
+    "id": "URG 019",
+    "key": "20 26 F6 3C F1 DB BA 86"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
