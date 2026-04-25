@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "F7 5F 18 6E 94 2E 5A 1C"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "B0 61 07 18 E9 DB 98 5C"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "74 02 E1 57 C6 79 C9 08"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "02 00 5E 60 5E 0F C8 35"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12611 V 7200",
         "id": "GCUK Enc 1",
@@ -58,17 +82,5 @@
         "frequency": "12575 H 7200",
         "id": "F435-1",
         "key": "F6 42 64 9C 1F EE D1 DE"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "C2 C2 B2 36 75 AF 13 37"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR RUSIA 1",
-        "key": "4B DB 32 58 04 B7 36 F1"
     }
 ]
