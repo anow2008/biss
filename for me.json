@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10996 H 7200",
+        "id": "Fi11_GNVE",
+        "key": "46 10 33 89 4A 7D EA B1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "UFC Fight Night on P+ #9: All Fights",
+        "key": "99 CB 43 A7 7A BB 12 47"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11273 H 7200",
+        "id": "URC",
+        "key": "1E 83 F2 93 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11080 V 7120",
         "id": "OER/F504/5/W6N FRvIR UNBRANDED",
         "key": "F4 94 A4 2C 10 24 14 48"
