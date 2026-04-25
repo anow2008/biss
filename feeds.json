@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11291 H 7200",
+        "id": "URG 019",
+        "key": "20 26 F6 3C F1 DB BA 86"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12638 V 7120",
+        "id": "ITA727 Enc2",
+        "key": "32 99 FA C5 EE 12 15 15"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10978 V 7200",
+        "id": "UWW-TIRANA",
+        "key": "E4 73 51 A8 37 8E AB 70"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12647 V 7120",
+        "id": "Gallagher PREM - Northampton Saints v Bath Rugby",
+        "key": "11 CC 45 22 54 AA 11 0F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11018 H 14400",
+        "id": "GVA_Fi07",
+        "key": "3C E4 F5 15 B0 EA 50 EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11057 V 9875",
+        "id": "GVA_Fi05 LFP 5",
+        "key": "FA B7 DB 8C 61 37 13 AB"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12696 V 7500",
         "id": "LPGA - The Chevron Championship",
@@ -58,41 +94,5 @@
         "frequency": "12678 H 7200",
         "id": "E399 BACK",
         "key": "A0 D1 3A AB A6 43 42 2B"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11273 H 7200",
-        "id": "ITA",
-        "key": "3E 83 F2 B3 CA 53 9D BA"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12569 H 3750",
-        "id": "ITA349 grafica",
-        "key": "AA AA AA FE 11 11 11 33"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12601 V 7500",
-        "id": "E333 M",
-        "key": "6F 55 41 05 2E 80 9C 4A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12687 V 7200",
-        "id": "ENC-13",
-        "key": "CF 04 E6 B9 2F BB 9F 89"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12687 H 7200",
-        "id": "ENC 1",
-        "key": "38 54 3D C9 9A 61 FF FA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11088 V 7120",
-        "id": "Pitch - EFL - QPR v Derby County",
-        "key": "20 0C 32 5E 5A 24 31 AF"
     }
 ]
