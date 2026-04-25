@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11080 V 7120",
+        "id": "OER/F504/5/W6N FRvIR UNBRANDED",
+        "key": "F4 94 A4 2C 10 24 14 48"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11089 V 7120",
+        "id": "OER/F504/2/W6N FRvIR BRANDED",
+        "key": "F4 94 A4 2C 10 24 14 48"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11107 H 7200",
+        "id": "Fi01 ACB",
+        "key": "DE F5 47 1A F0 62 2E 80"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11005 H 7200",
         "id": "F-510 DIJON main",
         "key": "CF 4F 83 A1 69 4C 97 4C"
