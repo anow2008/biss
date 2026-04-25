@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10996 H 7200",
+        "id": "Pitch Pre Match Man C V Southampton",
+        "key": "12 34 AC F2 FB 87 65 E7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11018 H 14400",
+        "id": "GVA_Fi07",
+        "key": "3C E4 F5 15 B0 EA 50 EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11057 V 9875",
+        "id": "GVA_Fi05 LFP 5",
+        "key": "FA B7 DB 8C 61 37 13 AB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11062 H 7200",
+        "id": "SAU-030-M",
+        "key": "B9 6E E8 0F 55 26 31 AC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11579 H 7200",
+        "id": "EHF Metz vs Cargo",
+        "key": "E4 5F 6F B2 ED 04 25 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12696 V 7500",
+        "id": "LPGA - The Chevron Championship",
+        "key": "89 5C 64 49 A8 16 4C 0A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10969 V 7200",
         "id": "F-509/fleury-MAIN",
         "key": "E9 33 32 4E 56 18 EB 59"
