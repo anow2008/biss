@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11088 V 7120",
+        "id": "Pitch - EFL - QPR v Derby County",
+        "key": "20 0C 32 5E 5A 24 31 AF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11580 H 7200",
+        "id": "EHF Metz vs Cargo",
+        "key": "E4 5F 6F B2 ED 04 25 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12656 V 7120",
+        "id": "Pitch Saracens v Leicester",
+        "key": "81 23 7D 21 DE 33 11 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11006 V 5000",
+        "id": "Live Broadcasting Line 1",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12511 H 7200",
+        "id": "LIVE_BR0ADCASTING_LINE1",
+        "key": "E4 5F 2A 6D CD 04 25 F6"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10981 H 3600",
+        "id": "F2-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11213 V 7120",
         "id": "GCUK Enc 5",
@@ -46,53 +82,5 @@
         "frequency": "11597 V 7200",
         "id": "WORLD FEED",
         "key": "2F 8B 6D 27 3A 7C 91 47"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11291 H 7200",
-        "id": "TAS-002-MA",
-        "key": "E7 2F FA 10 FD 04 25 26"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12647 V 7200",
-        "id": "Fi17GNVE",
-        "key": "7E 9A 5D 75 54 3C A2 32"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "97 D5 54 C0 D0 A7 AF 26"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR RUSIA 1",
-        "key": "2B 15 E9 29 BA 1E 8D 65"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "SUPPONOR EASTERN 1",
-        "key": "64 EF 33 86 34 D1 A8 AD"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11061 H 7200",
-        "id": "SAU-030-M",
-        "key": "B9 6E E8 0F 55 26 31 AC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11098 V 7200",
-        "id": "E378 VIA1",
-        "key": "25 04 20 49 26 AD 26 F9"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10998 V 10000",
-        "id": "POL027",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
