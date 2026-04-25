@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10969 V 7200",
+        "id": "F-509/fleury-MAIN",
+        "key": "E9 33 32 4E 56 18 EB 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11080 V 7200",
+        "id": "British GT Cars Main",
+        "key": "E5 B0 66 FB 01 2D B1 DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11580 V 7200",
+        "id": "NLEMG HOL312-1",
+        "key": "12 3A BC 08 45 6D EF A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12678 H 7200",
+        "id": "E399 BACK",
+        "key": "A0 D1 3A AB A6 43 42 2B"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11273 H 7200",
+        "id": "ITA",
+        "key": "3E 83 F2 B3 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11088 V 7120",
         "id": "Pitch - EFL - QPR v Derby County",
         "key": "20 0C 32 5E 5A 24 31 AF"
