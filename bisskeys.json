@@ -1,9 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12696 V 7500",
-    "id": "LPGA - The Chevron Championship",
-    "key": "89 5C 64 49 A8 16 4C 0A"
+    "frequency": "10960 V 7500",
+    "id": "AFD",
+    "key": "12 3C AA F8 14 22 A3 D9 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 V 7500",
+    "id": "AFD",
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
