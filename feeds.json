@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11569 V 9875",
+        "id": "ENC-27",
+        "key": "0F 5C 14 7F 4A FA 5D A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10996 H 7200",
+        "id": "Fi11_GNVE",
+        "key": "07 B8 C1 80 F0 39 11 3A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12576 H 7200",
+        "id": "LNR UK TLS/CLMT",
+        "key": "F5 78 14 81 1F EE D2 DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12522 H 4938",
         "id": "YSM-016 MAIN",
         "key": "AB BA 20 85 25 20 26 6B"
@@ -64,17 +82,5 @@
         "frequency": "11580 V 7200",
         "id": "Encoder 3",
         "key": "F4 7E 9E 10 BC BE 39 B3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12728 V 7200",
-        "id": "ENC 2",
-        "key": "7A D9 F9 4C 39 43 9F 1B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11023 V 7200",
-        "id": "UWW-TIRANA",
-        "key": "E4 73 51 A8 37 8E AB 70"
     }
 ]
