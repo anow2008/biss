@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10996 H 7200",
+        "id": "Fi11_GNVE",
+        "key": "07 B8 C1 80 F0 39 11 3A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11569 V 9875",
+        "id": "ENC-27",
+        "key": "0F 5C 14 7F 4A FA 5D A1"
+    },
+    {
         "satellite": "Eutelsat 16A",
         "frequency": "12576 H 7200",
         "id": "LNR UK TLS/CLMT",
