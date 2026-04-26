@@ -7,25 +7,19 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10973 H 9875",
+    "frequency": "10973 V 9875",
+    "id": "WOMEN MAIN",
+    "key": "A2 F4 6C 02 C9 69 D5 07"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10974 H 9875",
     "id": "ARSENAL v OL LYONNES",
     "key": "8F 8D AB C7 5C CA BF E5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "Pitch - Pre Match Multilateral Chelsea",
-    "key": "12 34 AC F2 FB 56 78 C9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11043 V 7200",
-    "id": "Fi12_GNVE",
-    "key": "BB 4B 19 1F 5B 16 13 84"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
+    "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "E7 91 CC 44 ED 12 99 98"
   },
@@ -37,9 +31,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11097 V 7200",
+    "frequency": "11098 V 7200",
     "id": "E-073 MAIN",
     "key": "AA BB 20 85 26 04 26 50"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11543 V 7200",
+    "id": "E-228 Main",
+    "key": "AB BA 26 8B 04 20 26 4A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,13 +49,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11589 H 7200",
-    "id": "EHF BREST",
-    "key": "D0 42 6E 80 45 FF DE 22"
+    "frequency": "11589 V 7200",
+    "id": "Encoder 2",
+    "key": "93 E9 37 B3 33 FF 93 C5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11597 V 7200",
+    "frequency": "11598 V 7200",
     "id": "WORLD FEED",
     "key": "B5 C7 A2 1E D1 8E 4F AE"
   },
@@ -67,7 +67,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12511 V 7200",
+    "frequency": "12510 V 7200",
     "id": "Rapid-RB Salzburg",
     "key": "26 04 BE E8 FD 26 47 6A"
   },
@@ -91,15 +91,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7120",
-    "id": "EFL - Coventry v Wrexham",
-    "key": "32 0C 32 70 00 14 DE F2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12648 H 9600",
     "id": "ITA 593 Feed1-DAZN",
     "key": "A3 B9 C5 21 D8 E8 F9 B9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12656 V 7120",
+    "id": "Pitch Gallagher - Gloucester V Exeter",
+    "key": "99 C2 A7 02 6A D4 3D 7B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -108,16 +108,22 @@
     "key": "20 26 AB F1 DC 26 04 06"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12696 V 7500",
+    "id": "LPGA - The Chevron Championship",
+    "key": "89 5C 64 49 A8 16 4C 0A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12705 V 7500",
+    "id": "ENC-16",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
     "key": "E0 01 6A 4B B8 70 58 80"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11291 H 7200",
-    "id": "URG 019",
-    "key": "CA DE 56 FE D1 B1 E7 69"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
