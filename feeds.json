@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "75 F9 6E DC 96 8B 94 B5"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR RUSIA 1",
+        "key": "F5 5E CC 1F BE D0 F0 7E"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "75 F9 6E DC 96 8B 9E BF"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "B7 C6 3B B8 1B 2C AC F3"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11569 V 9875",
         "id": "ENC-27",
@@ -42,24 +66,6 @@
         "key": "DE 79 04 5B 44 81 9C 61"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR RUSIA 1",
-        "key": "F5 5E CC 1F BE D0 F0 7E"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2",
-        "key": "75 F9 6E DC 96 8B 9E BF"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "B7 C6 3B B8 1B 2C AC F3"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10829 V 7500",
         "id": "beINSPORTS TURKEY 4",
@@ -70,17 +76,5 @@
         "frequency": "10838 V 7200",
         "id": "GCUK Enc 2",
         "key": "6A CB BD F2 EE 43 51 82"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10962 H 9875",
-        "id": "GVA_Fi08",
-        "key": "12 34 12 58 34 12 34 7A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11580 V 7200",
-        "id": "Encoder 3",
-        "key": "F4 7E 9E 10 BC BE 39 B3"
     }
 ]
