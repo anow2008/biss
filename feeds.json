@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12522 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL103",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12566 H 7200",
+        "id": "SEC PRINC C TLS/CLMT",
+        "key": "F5 78 14 81 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "DE 79 04 5B 44 81 9C 61"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR RUSIA 1",
+        "key": "F5 5E CC 1F BE D0 F0 7E"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "75 F9 6E DC 96 8B 9E BF"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "B7 C6 3B B8 1B 2C AC F3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10829 V 7500",
+        "id": "beINSPORTS TURKEY 4",
+        "key": "8D A4 75 A6 6A 4F 1D D6"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10838 V 7200",
         "id": "GCUK Enc 2",
@@ -19,12 +67,6 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12516 H 4938",
-        "id": "YSM-012 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12728 V 7200",
         "id": "ENC 2",
         "key": "7A D9 F9 4C 39 43 9F 1B"
@@ -34,53 +76,5 @@
         "frequency": "11023 V 7200",
         "id": "UWW-TIRANA",
         "key": "E4 73 51 A8 37 8E AB 70"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11007 V 5000",
-        "id": "EHF WCL FTC MET",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11010 H 9875",
-        "id": "GVA_Fi04",
-        "key": "B0 C9 2A A3 88 41 6E 37"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11080 H 7200",
-        "id": "UAE-065",
-        "key": "1C E4 1D 1D A6 9F 81 C6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12602 V 7200",
-        "id": "Polsat Sport",
-        "key": "15 58 35 A2 71 42 63 16"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10973 V 9600",
-        "id": "POL-78 ENC 1",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11543 V 7200",
-        "id": "E-228 Main",
-        "key": "AB BA 26 8B 04 20 26 4A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10973 V 9875",
-        "id": "WOMEN MAIN",
-        "key": "A2 F4 6C 02 C9 69 D5 07"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12705 V 7500",
-        "id": "ENC-16",
-        "key": "F1 07 45 3D E6 CB AD 5E"
     }
 ]
