@@ -3,7 +3,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10996 H 7200",
     "id": "Fi11_GNVE",
-    "key": "E7 91 CC 44 ED 12 99 98"
+    "key": "07 B8 C1 80 F0 39 11 3A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -13,21 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11580 V 7200",
-    "id": "Encoder 3",
-    "key": "F4 7E 9E 10 BC BE 39 B3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11598 V 7200",
-    "id": "WORLD FEED",
-    "key": "B5 C7 A2 1E D1 8E 4F AE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11607 V 7200",
-    "id": "AFRIQUE FEED",
-    "key": "8D 3F 1B E7 6A 9C 72 78"
+    "frequency": "11569 V 9875",
+    "id": "ENC-27",
+    "key": "0F 5C 14 7F 4A FA 5D A1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,12 +49,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12602 V 7200",
-    "id": "Polsat Sport",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12696 V 7500",
     "id": "LPGA - The Chevron Championship",
     "key": "89 5C 64 49 A8 16 4C 0A"
@@ -85,8 +67,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 V 3670",
-    "id": "RMG Dubai HD",
+    "frequency": "10850 V 3670",
+    "id": "GCUK Enc 7",
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
@@ -97,13 +79,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
-    "id": "POL-78 ENC 1",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
+    "frequency": "10985 V 9600",
     "id": "POL 48 ENC1",
     "key": "AB BA 26 8B DC AE 04 8E"
   },
@@ -115,7 +91,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12576 H 7200",
+    "frequency": "12575 H 7200",
     "id": "LNR UK TLS/CLMT",
     "key": "F5 78 14 81 1F EE D2 DF"
   }
