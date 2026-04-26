@@ -13,18 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11569 V 9875",
-    "id": "ENC-27",
-    "key": "0F 5C 14 7F 4A FA 5D A1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 H 4938",
-    "id": "YSM-012 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12522 H 4938",
     "id": "YSM-016 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
