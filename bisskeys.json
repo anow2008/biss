@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10961 V 9875",
+    "id": "2Sat HOL307 MEN MAIN",
+    "key": "A2 F4 6C 02 C9 69 D5 07"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10973 H 9875",
+    "id": "ARSENAL v OL LYONNES",
+    "key": "8F 8D AB C7 5C CA BF E5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11043 V 7200",
+    "id": "Fi12_GNVE",
+    "key": "BB 4B 19 1F 5B 16 13 84"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "E7 91 CC 44 ED 12 99 98"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11097 V 7200",
+    "id": "E-073 MAIN",
+    "key": "AA BB 20 85 26 04 26 50"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 H 7200",
+    "id": "Fi01 ACB",
+    "key": "CD 35 71 73 CE 53 65 86"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12566 H 7200",
+    "id": "DNK83_TUC_C1_MAIN",
+    "key": "F2 B9 C4 6F A1 D8 E3 5C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12575 H 7200",
+    "id": "DNK83_TUC_C2_MAIN",
+    "key": "C9 A3 F6 62 B1 E8 D2 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12636 H 9600",
+    "id": "ITA 593 Feed2-INT",
+    "key": "A3 B9 C5 21 D8 E8 F9 B9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12648 H 9600",
+    "id": "ITA 593 Feed1-DAZN",
+    "key": "A3 B9 C5 21 D8 E8 F9 B9"
+  }
+]
