@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11589 H 7200",
+        "id": "EHF BREST",
+        "key": "D0 42 6E 80 45 FF DE 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11007 V 5000",
         "id": "EHF WCL FTC MET",
         "key": "13 57 AB 15 CD 24 68 59"
