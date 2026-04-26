@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12576 H 7200",
+        "id": "LNR UK TLS/CLMT",
+        "key": "F5 78 14 81 1F EE D2 DF"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "10732 V 34000",
         "id": "OVERON 1",
