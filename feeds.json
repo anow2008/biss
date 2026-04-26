@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10838 V 7200",
+        "id": "GCUK Enc 2",
+        "key": "6A CB BD F2 EE 43 51 82"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10962 H 9875",
+        "id": "GVA_Fi08",
+        "key": "12 34 12 58 34 12 34 7A"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11580 V 7200",
         "id": "Encoder 3",
@@ -70,23 +82,5 @@
         "frequency": "12705 V 7500",
         "id": "ENC-16",
         "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7120",
-        "id": "Pitch Gallagher - Gloucester V Exeter",
-        "key": "99 C2 A7 02 6A D4 3D 7B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12696 V 7500",
-        "id": "LPGA - The Chevron Championship",
-        "key": "89 5C 64 49 A8 16 4C 0A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11588 V 7200",
-        "id": "Encoder 2",
-        "key": "93 E9 37 B3 33 FF 93 C5"
     }
 ]
