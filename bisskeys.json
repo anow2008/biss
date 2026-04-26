@@ -7,30 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10974 H 9875",
-    "id": "ARSENAL v OL LYONNES",
-    "key": "8F 8D AB C7 5C CA BF E5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11006 V 5000",
-    "id": "EHF WCL FTC MET",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11010 H 9875",
-    "id": "GVA_Fi04",
-    "key": "B0 C9 2A A3 88 41 6E 37"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "Pitch - post Match Multilateral Chelsea",
-    "key": "12 34 AC F2 FB 56 78 C9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11023 V 7200",
     "id": "UWW-TIRANA",
     "key": "E4 73 51 A8 37 8E AB 70"
@@ -79,6 +55,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12522 H 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12547 H 4938",
     "id": "YSM-021M",
     "key": "AB BA 20 85 25 20 26 6B"
@@ -94,6 +76,12 @@
     "frequency": "12575 H 7200",
     "id": "DNK83_TUC_C2_MAIN",
     "key": "C9 A3 F6 62 B1 E8 D2 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "POL103",
+    "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -114,27 +102,27 @@
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7200",
-    "id": "ENC 2",
-    "key": "7A D9 F9 4C 39 43 9F 1B"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
-    "key": "E0 01 6A 4B B8 70 58 80"
+    "key": "B7 C6 3B B8 1B 2C AC F3"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10801 H 7200",
-    "id": "TVS UE1 HD Sendeweg1",
-    "key": "6A CB BD F2 EE 43 51 82"
+    "frequency": "10819 V 3670",
+    "id": "RMG Dubai HD",
+    "key": "8D A4 75 A6 6A 4F 1D D6"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 H 7200",
-    "id": "GCUK Enc 9",
+    "frequency": "10829 V 7500",
+    "id": "beINSPORTS TURKEY 4",
+    "key": "8D A4 75 A6 6A 4F 1D D6"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10838 V 7200",
+    "id": "GCUK Enc 2",
     "key": "6A CB BD F2 EE 43 51 82"
   },
   {
@@ -151,14 +139,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "TVP POL-32  ENC 1",
+    "frequency": "10986 V 9600",
+    "id": "POL 48 ENC1",
     "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11079 H 9875",
-    "id": "FBL B.Leverkusen",
-    "key": "26 04 DB 05 FC 45 67 A8"
+    "frequency": "12566 H 7200",
+    "id": "SEC PRINC C+ TLS/CLMT",
+    "key": "F5 78 14 81 1F EE D1 DE"
   }
 ]
