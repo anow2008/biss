@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12737 V 7200",
+        "id": "ENC 4",
+        "key": "2C 5D 93 1C 67 FF 72 D8"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 34000",
         "id": "LIGA HYPERMOTION 1",
