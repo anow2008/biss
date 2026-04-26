@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12728 V 7200",
+        "id": "ENC 2",
+        "key": "7A D9 F9 4C 39 43 9F 1B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11023 V 7200",
         "id": "UWW-TIRANA",
         "key": "E4 73 51 A8 37 8E AB 70"
@@ -94,11 +100,5 @@
         "frequency": "11589 H 7200",
         "id": "EHF BREST",
         "key": "D0 42 6E 80 45 FF DE 22"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "TVS UE1 HD Sendeweg1",
-        "key": "CE 1F 53 40 EE CD CD 88"
     }
 ]
