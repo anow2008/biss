@@ -1,14 +1,8 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 V 9875",
+    "frequency": "10962 V 9875",
     "id": "2Sat HOL307 MEN MAIN",
-    "key": "A2 F4 6C 02 C9 69 D5 07"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10973 V 9875",
-    "id": "WOMEN MAIN",
     "key": "A2 F4 6C 02 C9 69 D5 07"
   },
   {
@@ -19,21 +13,39 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10974 V 9875",
+    "id": "WOMEN MAIN",
+    "key": "A2 F4 6C 02 C9 69 D5 07"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11006 V 5000",
+    "id": "EHF WCL FTC MET",
+    "key": "13 57 AB 15 CD 24 68 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11010 H 9875",
+    "id": "GVA_Fi04",
+    "key": "B0 C9 2A A3 88 41 6E 37"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7200",
+    "id": "UWW-TIRANA",
+    "key": "E4 73 51 A8 37 8E AB 70"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "E7 91 CC 44 ED 12 99 98"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11079 V 7200",
-    "id": "British GT Cars Main",
-    "key": "E5 B0 66 FB 01 2D B1 DF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11098 V 7200",
-    "id": "E-073 MAIN",
-    "key": "AA BB 20 85 26 04 26 50"
+    "frequency": "11080 H 7200",
+    "id": "UAE-065",
+    "key": "1C E4 1D 1D A6 9F 81 C6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,9 +55,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11580 H 7200",
+    "frequency": "11579 H 7200",
     "id": "B 123 DGI",
     "key": "D0 42 6E 80 45 FF FC 40"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11589 H 7200",
+    "id": "EHF BREST",
+    "key": "D0 42 6E 80 45 FF DE 22"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,9 +85,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "Rapid-RB Salzburg",
-    "key": "26 04 BE E8 FD 26 47 6A"
+    "frequency": "12547 H 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,15 +103,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12636 H 9600",
-    "id": "ITA 593 Feed2-INT",
-    "key": "A3 B9 C5 21 D8 E8 F9 B9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12648 H 9600",
-    "id": "ITA 593 Feed1-DAZN",
-    "key": "A3 B9 C5 21 D8 E8 F9 B9"
+    "frequency": "12602 V 7200",
+    "id": "Polsat Sport",
+    "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -118,6 +130,12 @@
     "frequency": "12705 V 7500",
     "id": "ENC-16",
     "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12728 V 7200",
+    "id": "ENC 2",
+    "key": "7A D9 F9 4C 39 43 9F 1B"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -145,15 +163,15 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "TVP POL-32  ENC 1",
+    "frequency": "10973 V 9600",
+    "id": "POL-78 ENC 1",
     "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FBL Frankfurt",
-    "key": "26 04 DB 05 FC 45 67 A8"
+    "frequency": "10985 V 9600",
+    "id": "TVP POL-32  ENC 1",
+    "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
