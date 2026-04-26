@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12522 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12566 H 7200",
     "id": "DNK83_TUC_C1_MAIN",
     "key": "F2 B9 C4 6F A1 D8 E3 5C"
@@ -31,12 +25,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL103",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12696 V 7500",
     "id": "LPGA - The Chevron Championship",
     "key": "89 5C 64 49 A8 16 4C 0A"
@@ -46,6 +34,12 @@
     "frequency": "12705 V 7500",
     "id": "ENC-16",
     "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12737 V 7200",
+    "id": "ENC 4",
+    "key": "2C 5D 93 1C 67 FF 72 D8"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -67,19 +61,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL 48 ENC1",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12566 H 7200",
     "id": "SEC PRINC C+ TLS/CLMT",
     "key": "F5 78 14 81 1F EE D1 DE"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12575 H 7200",
+    "frequency": "12576 H 7200",
     "id": "LNR UK TLS/CLMT",
     "key": "F5 78 14 81 1F EE D2 DF"
   }
