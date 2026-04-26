@@ -13,15 +13,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7200",
+    "id": "Pitch - Pre Match Multilateral Chelsea",
+    "key": "12 34 AC F2 FB 56 78 C9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11043 V 7200",
     "id": "Fi12_GNVE",
     "key": "BB 4B 19 1F 5B 16 13 84"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "E7 91 CC 44 ED 12 99 98"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11079 V 7200",
+    "id": "British GT Cars Main",
+    "key": "E5 B0 66 FB 01 2D B1 DF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,9 +43,33 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 H 7200",
-    "id": "Fi01 ACB",
-    "key": "CD 35 71 73 CE 53 65 86"
+    "frequency": "11580 H 7200",
+    "id": "B 123 DGI",
+    "key": "D0 42 6E 80 45 FF FC 40"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11589 H 7200",
+    "id": "EHF BREST",
+    "key": "D0 42 6E 80 45 FF DE 22"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11597 V 7200",
+    "id": "WORLD FEED",
+    "key": "B5 C7 A2 1E D1 8E 4F AE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11607 V 7200",
+    "id": "AFRIQUE FEED",
+    "key": "8D 3F 1B E7 6A 9C 72 78"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12511 V 7200",
+    "id": "Rapid-RB Salzburg",
+    "key": "26 04 BE E8 FD 26 47 6A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -55,8 +91,68 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12647 V 7120",
+    "id": "EFL - Coventry v Wrexham",
+    "key": "32 0C 32 70 00 14 DE F2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12648 H 9600",
     "id": "ITA 593 Feed1-DAZN",
     "key": "A3 B9 C5 21 D8 E8 F9 B9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 H 7200",
+    "id": "HBL Wetzlar",
+    "key": "20 26 AB F1 DC 26 04 06"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "E0 01 6A 4B B8 70 58 80"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11291 H 7200",
+    "id": "URG 019",
+    "key": "CA DE 56 FE D1 B1 E7 69"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10801 H 7200",
+    "id": "TVS UE1 HD Sendeweg1",
+    "key": "6A CB BD F2 EE 43 51 82"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10819 H 7200",
+    "id": "GCUK Enc 9",
+    "key": "6A CB BD F2 EE 43 51 82"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "TVP POL-32  ENC 1",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11067 H 9875",
+    "id": "FBL Frankfurt",
+    "key": "26 04 DB 05 FC 45 67 A8"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11079 H 9875",
+    "id": "FBL B.Leverkusen",
+    "key": "26 04 DB 05 FC 45 67 A8"
   }
 ]
