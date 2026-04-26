@@ -8,6 +8,12 @@
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "E5 30 C7 DC 39 FA F9 2C"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
         "id": "SUPPONOR RUSIA 1",
         "key": "F5 5E CC 1F BE D0 F0 7E"
     },
@@ -64,17 +70,5 @@
         "frequency": "12593 V 7200",
         "id": "POL103",
         "key": "15 58 35 A2 71 42 63 16"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12566 H 7200",
-        "id": "SEC PRINC C TLS/CLMT",
-        "key": "F5 78 14 81 1F EE D1 DE"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "DE 79 04 5B 44 81 9C 61"
     }
 ]
