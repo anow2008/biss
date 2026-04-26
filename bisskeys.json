@@ -132,12 +132,6 @@
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7200",
-    "id": "ENC 2",
-    "key": "7A D9 F9 4C 39 43 9F 1B"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
