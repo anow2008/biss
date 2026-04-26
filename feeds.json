@@ -1,80 +1,86 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "TVS UE1 HD Sendeweg1",
+        "key": "CE 1F 53 40 EE CD CD 88"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
+        "frequency": "11291 H 7200",
+        "id": "URG 019",
+        "key": "CA DE 56 FE D1 B1 E7 69"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11068 H 9875",
+        "id": "FBL Frankfurt",
+        "key": "26 04 DB 05 FC 45 67 A8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10819 H 7200",
+        "id": "GCUK Enc 9",
+        "key": "6A CB BD F2 EE 43 51 82"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10847 V 9875",
+        "id": "IPF",
+        "key": "98 FB 57 EA 94 4E 2E 10"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7200",
+        "id": "AFRIQUE FEED",
+        "key": "8D 3F 1B E7 6A 9C 72 78"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10733 V 34000",
         "id": "LIGA HYPERMOTION 1",
-        "key": "97 D5 54 C0 D0 A7 AF 26"
+        "key": "DE 79 04 5B 44 81 9C 61"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
+        "frequency": "10733 V 34000",
         "id": "SUPPONOR RUSIA 1",
-        "key": "2B 15 E9 29 BA 1E 8D 65"
+        "key": "F5 5E CC 1F BE D0 F0 7E"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
+        "frequency": "10733 V 34000",
         "id": "OVERON 2",
-        "key": "9F 9C 3C 77 A5 D7 77 F3"
+        "key": "CF B8 E1 68 46 3D 49 CC"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
+        "frequency": "10733 V 34000",
         "id": "OVERON 1",
-        "key": "FB AF 96 40 C4 92 53 A9"
+        "key": "E0 01 6A 4B B8 70 58 80"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "E7 91 CC 44 ED 12 99 98"
+        "frequency": "11014 V 7200",
+        "id": "Pitch - Pre Match Multilateral Chelsea",
+        "key": "12 34 AC F2 FB 56 78 C9"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 V 7500",
-        "id": "AFD",
-        "key": "17 38 C1 10 2A BD D1 B8"
+        "frequency": "11079 V 7200",
+        "id": "British GT Cars Main",
+        "key": "E5 B0 66 FB 01 2D B1 DF"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11005 V 7200",
-        "id": "WSHT ENC 58",
-        "key": "99 CB 43 A7 7A BB 12 47"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11273 H 7200",
-        "id": "URC",
-        "key": "1E 83 F2 93 CA 53 9D BA"
+        "frequency": "11597 V 7200",
+        "id": "WORLD FEED",
+        "key": "B5 C7 A2 1E D1 8E 4F AE"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10996 H 7200",
-        "id": "Fi11_GNVE",
-        "key": "46 10 33 89 4A 7D EA B1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10978 V 7200",
-        "id": "F-509/fleury-MAIN",
-        "key": "E9 33 32 4E 56 18 EB 59"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10987 V 7200",
-        "id": "Post-match multilateral feed - FACSF - Manchester City v Southampton",
-        "key": "12 34 AC F2 FB 87 65 E7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12548 H 7200",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11089 V 7120",
-        "id": "OER/F504/2/W6N FRvIR BRANDED",
-        "key": "F4 94 A4 2C 10 24 14 48"
+        "frequency": "12687 H 7200",
+        "id": "HBL Wetzlar",
+        "key": "20 26 AB F1 DC 26 04 06"
     }
 ]
