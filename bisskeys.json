@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10962 H 9875",
-    "id": "GVA_Fi08",
-    "key": "12 34 12 58 34 12 34 7A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "UWW-TIRANA",
-    "key": "E4 73 51 A8 37 8E AB 70"
+    "frequency": "10996 H 7200",
+    "id": "Fi11_GNVE",
+    "key": "E7 91 CC 44 ED 12 99 98"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,21 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11080 H 7200",
-    "id": "UAE-065",
-    "key": "1C E4 1D 1D A6 9F 81 C6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11580 V 7200",
     "id": "Encoder 3",
     "key": "F4 7E 9E 10 BC BE 39 B3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 H 7200",
-    "id": "EHF BREST",
-    "key": "D0 42 6E 80 45 FF DE 22"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -57,12 +39,6 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12522 H 4938",
     "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12547 H 4938",
-    "id": "YSM-021M",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -111,19 +87,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10819 V 3670",
     "id": "RMG Dubai HD",
-    "key": "8D A4 75 A6 6A 4F 1D D6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7500",
-    "id": "beINSPORTS TURKEY 4",
-    "key": "8D A4 75 A6 6A 4F 1D D6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10838 V 7200",
-    "id": "GCUK Enc 2",
-    "key": "6A CB BD F2 EE 43 51 82"
+    "key": "12 34 56 9C 78 91 23 2C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -148,5 +112,11 @@
     "frequency": "12566 H 7200",
     "id": "SEC PRINC C+ TLS/CLMT",
     "key": "F5 78 14 81 1F EE D1 DE"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12576 H 7200",
+    "id": "LNR UK TLS/CLMT",
+    "key": "F5 78 14 81 1F EE D2 DF"
   }
 ]
