@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11274 H 7120",
+        "id": "EMG HOL309-1",
+        "key": "B4 C2 A2 18 25 B1 85 5B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12650 H 7200",
+        "id": "GCUK Enc 1",
+        "key": "FF FC D0 CB 42 7E 73 33"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12656 V 7200",
+        "id": "Fi17GNVE",
+        "key": "7E 9A 5D 75 54 3C A2 32"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12567 H 7200",
         "id": "DNK83_TUC_C1_MAIN",
@@ -46,11 +64,5 @@
         "frequency": "10733 V 34000",
         "id": "OVERON 1",
         "key": "E5 30 C7 DC 39 FA F9 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR RUSIA 1",
-        "key": "F5 5E CC 1F BE D0 F0 7E"
     }
 ]
