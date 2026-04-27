@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10978 H 7200",
+        "id": "SAU-12A",
+        "key": "1A 73 8E 1B CC 98 98 FC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12521 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12546 H 4938",
+        "id": "MNE-001 main",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12687 H 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 04 27 51"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 H 7200",
         "id": "Main SAUDI015",
         "key": "43 CB 60 6E 3F 19 F6 4E"
