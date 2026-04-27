@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "98 2C 12 D6 0A AC E1 97"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12567 H 7200",
+    "id": "DNK83_TUC_C1_MAIN",
+    "key": "1D 6A 3F C6 9B 4C 2E 15"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12575 H 7200",
+    "id": "DNK83_TUC_C2_MAIN",
+    "key": "F2 D8 C4 8E A7 E1 B9 41"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10733 V 34000",
+    "id": "OVERON 1",
+    "key": "E5 30 C7 DC 39 FA F9 2C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11632 H 9875",
+    "id": "ES test 22HD",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10971 V 4800",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10997 V 7500",
+    "id": "POL082 TVN WAW",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11006 V 7500",
+    "id": "POL039 TVN24 KRK",
+    "key": "77 93 52 5C 99 08 86 27"
+  }
+]
