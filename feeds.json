@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 H 7200",
+        "id": "Main SAUDI015",
+        "key": "43 CB 60 6E 3F 19 F6 4E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11543 V 7200",
+        "id": "UCL-PSG v BAYERN M MAIN FEED E414",
+        "key": "8A 8B 8C A1 8D 8E 8F AA"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11274 H 7120",
         "id": "EMG HOL309-1",
@@ -40,29 +52,5 @@
         "frequency": "11006 V 7500",
         "id": "POL039 TVN24 KRK",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10733 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "7A 1A 99 2D 2C 01 36 63"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10733 V 34000",
-        "id": "OVERON 1",
-        "key": "E5 30 C7 DC 39 FA F9 2C"
     }
 ]
