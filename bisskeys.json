@@ -1,39 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 H 7200",
-    "id": "Main SAUDI015",
-    "key": "43 CB 60 6E 3F 19 F6 4E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10969 H 7200",
-    "id": "SAU045A",
-    "key": "09 B4 D1 8E 62 CB FC 29"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10978 H 7200",
-    "id": "SAU-12A",
-    "key": "1A 73 8E 1B CC 98 98 FC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12521 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12546 H 4938",
-    "id": "MNE-001 main",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12566 H 7200",
-    "id": "DNK83_TUC_C1_MAIN",
-    "key": "1D 6A 3F C6 9B 4C 2E 15"
+    "frequency": "11098 V 7200",
+    "id": "TV-101",
+    "key": "F2 D8 C4 8E A7 E1 B9 41"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,9 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12687 H 7200",
-    "id": "E-228 Main",
-    "key": "AA BB 20 85 26 04 27 51"
+    "frequency": "12737 V 7200",
+    "id": "ENC 7",
+    "key": "A6 47 B2 9F 19 38 C8 19"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -55,32 +25,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 V 3670",
-    "id": "RMG Dubai HD",
-    "key": "53 22 A1 16 32 9F 2F 00"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10847 V 7500",
-    "id": "TUR 161 Main",
-    "key": "53 22 A1 16 32 9F 2F 00"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10960 V 2400",
-    "id": "PLTVP6",
-    "key": "27 04 FD 28 EE 79 14 7B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FBL Hoffenheim",
-    "key": "27 04 FD 28 EE 79 14 7B"
   }
 ]
