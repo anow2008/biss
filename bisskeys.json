@@ -19,15 +19,39 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11516 H 7200",
+    "id": "MediaLink CRO-023/1",
+    "key": "E5 8F FC 70 AD 04 28 D9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7200",
+    "id": "PSG-BAY UNILATERAL MOVISTAR CHAMPIONS LEAGUE E414 MAIN FEED",
+    "key": "8A 8B 8C A1 8D 8E 8F AA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12518 H 7200",
+    "id": "E-228 Main",
+    "key": "AB BA 28 8D 04 20 26 4A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12566 H 7200",
     "id": "DNK83_TUC_C1_MAIN",
     "key": "C5 E1 B9 5F F3 A2 D4 69"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 H 6970",
-    "id": "Flavia-8A",
-    "key": "BB A9 92 F6 9E BB E2 3B"
+    "frequency": "12575 H 7200",
+    "id": "DNK83_TUC_C2_MAIN",
+    "key": "1A 6E 9C 24 3F 4B 8D 17"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 H 7200",
+    "id": "F419_MAIN",
+    "key": "28 04 BD E9 AC 20 26 F2"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -40,12 +64,6 @@
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "pol-053_enc2",
-    "key": "AB BA 26 8B DC AE 04 8E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
