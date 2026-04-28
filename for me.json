@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12516 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12567 H 7200",
+        "id": "DNK83_TUC_C1_MAIN",
+        "key": "C5 E1 B9 5F F3 A2 D4 69"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12576 H 7200",
+        "id": "DNK83_TUC_C2_MAIN",
+        "key": "1A 6E 9C 24 3F 4B 8D 17"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    }
+]
