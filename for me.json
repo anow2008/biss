@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10983 H 14400",
+        "id": "Fi11_GNVE",
+        "key": "C1 39 10 0A AE 82 44 74"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11022 H 9875",
+        "id": "GVA_Fi01",
+        "key": "59 C3 AC C8 67 C4 6D 98"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11044 V 7120",
         "id": "EFL - Southampton v Ipswich",
         "key": "C4 54 24 3C 41 25 A4 0A"
