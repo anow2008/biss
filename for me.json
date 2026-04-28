@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11044 V 7120",
+        "id": "EFL - Southampton v Ipswich",
+        "key": "C4 54 24 3C 41 25 A4 0A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11588 H 7200",
+        "id": "D-312",
+        "key": "E5 8F FB 6F ED 04 28 19"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11598 V 7200",
+        "id": "WORLD FEED",
+        "key": "3A 7C 9E 54 2D 5F 18 A4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11607 V 7200",
+        "id": "AFRIQUE FEED",
+        "key": "F1 D6 A8 6F B3 C7 29 A3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11516 H 7200",
         "id": "MediaLink CRO-023/1",
         "key": "E5 8F FC 70 AD 04 28 D9"
