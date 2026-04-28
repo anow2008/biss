@@ -19,7 +19,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 H 7200",
+    "frequency": "11589 H 7200",
     "id": "D-312",
     "key": "E5 8F FB 6F ED 04 28 19"
   },
@@ -31,7 +31,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11607 V 7200",
+    "frequency": "11606 V 7200",
     "id": "AFRIQUE FEED",
     "key": "F1 D6 A8 6F B3 C7 29 A3"
   },
@@ -40,12 +40,6 @@
     "frequency": "12510 V 7200",
     "id": "PSG-BAY UNILATERAL MOVISTAR CHAMPIONS LEAGUE E414 MAIN FEED",
     "key": "8A 8B 8C A1 8D 8E 8F AA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12518 H 7200",
-    "id": "E-228 Main",
-    "key": "AB BA 28 8D 04 20 26 4A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
