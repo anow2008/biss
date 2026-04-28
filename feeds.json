@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "90 23 EF A2 CA 12 DE BA"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 5",
+        "key": "BD E3 A9 49 D5 1F FA EE"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 4",
+        "key": "5D E3 4F 8F D5 14 4A 33"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 3",
+        "key": "F1 E3 8B 5F D5 1E 4A 3D"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 2",
+        "key": "72 E3 A9 FE D5 13 FA E2"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 1",
+        "key": "3B E3 B8 D6 D5 1C FA EB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11022 H 9875",
+        "id": "GVA_Fi01",
+        "key": "59 C3 AC C8 67 C4 6D 98"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10982 H 14400",
+        "id": "Fi11_GNVE",
+        "key": "C1 39 10 0A AE 82 44 74"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11022 H 9875",
         "id": "GVA_Fi01",
         "key": "8B 01 E7 73 DA F6 A3 73"
@@ -28,29 +76,5 @@
         "frequency": "11598 V 7200",
         "id": "WORLD FEED",
         "key": "3A 7C 9E 54 2D 5F 18 A4"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12687 H 7200",
-        "id": "F419_MAIN",
-        "key": "28 04 BD E9 AC 20 26 F2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11517 H 7200",
-        "id": "MediaLink CRO-023/1",
-        "key": "E5 8F FC 70 AD 04 28 D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7200",
-        "id": "PSG-BAY UNILATERAL MOVISTAR CHAMPIONS LEAGUE E414 MAIN FEED",
-        "key": "8A 8B 8C A1 8D 8E 8F AA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12518 H 7200",
-        "id": "E-228 Main",
-        "key": "AB BA 28 8D 04 20 26 4A"
     }
 ]
