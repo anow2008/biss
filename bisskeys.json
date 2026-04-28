@@ -1,39 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10971 H 4820",
-    "id": "GCR/F563/2/FEED B2",
-    "key": "8B 01 E7 73 DA F6 A3 73"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10982 H 14400",
-    "id": "Fi11_GNVE",
-    "key": "C1 39 10 0A AE 82 44 74"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11022 H 9875",
     "id": "GVA_Fi01",
     "key": "59 C3 AC C8 67 C4 6D 98"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
+    "frequency": "11071 H 7200",
     "id": "IMG A EU",
-    "key": "7E F7 1A 8F DC 27 89 8C"
+    "key": "90 23 EF A2 CA 12 DE BA"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "PSG-BAY UNILATERAL MOVISTAR CHAMPIONS LEAGUE E414 MAIN FEED",
-    "key": "8A 8B 8C A1 8D 8E 8F AA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12566 H 7200",
-    "id": "DNK83_TUC_C1_MAIN",
-    "key": "C5 E1 B9 5F F3 A2 D4 69"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10768 V 34000",
+    "id": "OCC 1",
+    "key": "3B E3 B8 D6 D5 1C FA EB"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
