@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "7E F7 1A 8F DC 27 89 8C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12656 V 7200",
+        "id": "Fi17GNVE",
+        "key": "7E 9A 5D 75 54 3C A2 32"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12678 H 6970",
+        "id": "Flavia-8A",
+        "key": "BB A9 92 F6 9E BB E2 3B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10970 V 4800",
+        "id": "POL-10 ENC1",
+        "key": "AB BA 26 8B DC AE 04 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10996 V 7500",
+        "id": "POL086 TVN24 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10970 H 4820",
         "id": "GCR/F563/2/FEED B2",
         "key": "8B 01 E7 73 DA F6 A3 73"
