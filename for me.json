@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10970 H 4820",
+        "id": "GCR/F563/2/FEED B2",
+        "key": "8B 01 E7 73 DA F6 A3 73"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12516 H 4938",
         "id": "YSM-021M",
         "key": "AB BA 20 85 25 20 26 6B"
