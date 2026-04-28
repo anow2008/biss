@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12575 H 7200",
+        "id": "DNK83_TUC_C2_MAIN",
+        "key": "1A 6E 9C 24 3F 4B 8D 17"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12516 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 H 6970",
+        "id": "Flavia-8A",
+        "key": "BB A9 92 F6 9E BB E2 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12566 H 7200",
+        "id": "DNK83_TUC_C1_MAIN",
+        "key": "C5 E1 B9 5F F3 A2 D4 69"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12592 V 7200",
         "id": "GCUK Enc 9",
@@ -10,41 +40,5 @@
         "frequency": "12737 V 7200",
         "id": "ENC 7",
         "key": "A6 47 B2 9F 19 38 C8 19"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11272 H 9875",
-        "id": "NLEMG HOL219-1",
-        "key": "20 EC DA E6 32 A7 26 FF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12546 H 4938",
-        "id": "MNE-001 main",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10978 H 7200",
-        "id": "SAU-12A",
-        "key": "1A 73 8E 1B CC 98 98 FC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12687 H 7200",
-        "id": "E-228 Main",
-        "key": "AA BB 20 85 26 04 27 51"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11067 H 9875",
-        "id": "FBL Hoffenheim",
-        "key": "27 04 FD 28 EE 79 14 7B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10847 V 7500",
-        "id": "TUR 161 Main",
-        "key": "53 22 A1 16 32 9F 2F 00"
     }
 ]
