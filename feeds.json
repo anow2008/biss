@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11588 H 7200",
+        "id": "D-312",
+        "key": "E5 8F FB 6F ED 04 28 19"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11044 V 7120",
+        "id": "EFL - Southampton v Ipswich",
+        "key": "C4 54 24 3C 41 25 A4 0A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7200",
+        "id": "AFRIQUE FEED",
+        "key": "F1 D6 A8 6F B3 C7 29 A3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11598 V 7200",
+        "id": "WORLD FEED",
+        "key": "3A 7C 9E 54 2D 5F 18 A4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12687 H 7200",
         "id": "F419_MAIN",
         "key": "28 04 BD E9 AC 20 26 F2"
@@ -28,29 +52,5 @@
         "frequency": "11053 V 7200",
         "id": "Main SAUDI015",
         "key": "9F 8E 27 54 A8 14 EA A6"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL 030",
-        "key": "AB BA 26 8B DC AE 04 8E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL086 TVN24 WAW",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11025 V 4938",
-        "id": "GVA_Fi05",
-        "key": "40 26 49 AF DC DB 12 C9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7200",
-        "id": "Fi17GNVE",
-        "key": "7E 9A 5D 75 54 3C A2 32"
     }
 ]
