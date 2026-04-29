@@ -1,21 +1,33 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12545 H 7200",
-        "id": "MUN-RMD",
+        "frequency": "11579 H 7200",
+        "id": "E-289",
+        "key": "D0 42 9E B0 44 FF EB 2E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12518 H 7200",
+        "id": "EHF",
         "key": "D0 42 9E B0 44 FF EA 2D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11588 H 7200",
+        "id": "D-312",
+        "key": "D0 42 9E B0 58 FF DA 31"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12553 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11067 H 9875",
         "id": "FBL Bremen",
         "key": "29 04 CD FA AB 39 74 58"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12525 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -28,41 +40,5 @@
         "frequency": "12736 V 7200",
         "id": "OVERON E-457 V1",
         "key": "28 28 00 50 04 20 26 4A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12593 V 7200",
-        "id": "POL 058_T1",
-        "key": "07 BB 01 C3 AE 26 CF A3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10965 V 17140",
-        "id": "E387 M1 MAIN",
-        "key": "CB DA 28 CD 34 CD AB AC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11607 V 7200",
-        "id": "AFRIQUE FEED",
-        "key": "5B 8D 3A 22 7C 1F 26 C1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "3E ED 4E 79 2D A4 6A 3B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11598 V 7200",
-        "id": "WORLD FEED",
-        "key": "C4 E2 B7 5D A1 D9 5F D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 V 7200",
-        "id": "ENC 3",
-        "key": "BA 14 DE AC 82 AC 71 9F"
     }
 ]
