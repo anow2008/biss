@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10971 H 4820",
-    "id": "E467 B2 M1",
-    "key": "6A 56 E9 A9 84 E2 FC 62"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "3E ED 4E 79 2D A4 6A 3B"
@@ -85,8 +79,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 V 3670",
-    "id": "RMG Dubai HD",
+    "frequency": "10823 V 3670",
+    "id": "GCUK Enc 1",
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
@@ -97,13 +91,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
-    "id": "POL-55 ENC2",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
+    "frequency": "10985 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 04 8E"
   },
