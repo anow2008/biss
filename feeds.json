@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12524 V 9875",
+        "id": "POR 24",
+        "key": "F8 50 33 7B C8 07 0A D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10986 V 9875",
         "id": "Fi11_GNVE",
         "key": "34 03 2B 62 A0 40 12 F2"
@@ -58,11 +64,5 @@
         "frequency": "12553 H 4938",
         "id": "YSM-021M",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11067 H 9875",
-        "id": "FBL Bremen",
-        "key": "29 04 CD FA AB 39 74 58"
     }
 ]
