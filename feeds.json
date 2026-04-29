@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10965 V 17140",
+        "id": "E387 M1 MAIN",
+        "key": "CB DA 28 CD 34 CD AB AC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11607 V 7200",
+        "id": "AFRIQUE FEED",
+        "key": "5B 8D 3A 22 7C 1F 26 C1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "3E ED 4E 79 2D A4 6A 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11598 V 7200",
+        "id": "WORLD FEED",
+        "key": "C4 E2 B7 5D A1 D9 5F D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 V 7200",
+        "id": "ENC 3",
+        "key": "BA 14 DE AC 82 AC 71 9F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 H 6970",
+        "id": "Flavia-8A",
+        "key": "CC 0C 81 59 CB DE 07 B0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11062 H 7200",
         "id": "Fi13_GNVE",
         "key": "76 DB 06 57 27 15 5D 99"
@@ -16,35 +52,5 @@
         "frequency": "12566 H 7200",
         "id": "DNK83_TUC_C1_MAIN",
         "key": "4F 2D 8A 06 1C 6E 9B 25"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12575 H 7200",
-        "id": "DNK83_TUC_C2_MAIN",
-        "key": "E4 B2 D7 6D F9 C1 A3 5D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10971 H 4820",
-        "id": "E467 B2 M1",
-        "key": "6A 56 E9 A9 84 E2 FC 62"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7200",
-        "id": "Fi17GNVE",
-        "key": "7E 9A 5D 75 54 3C A2 32"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "90 23 EF A2 CA 12 DE BA"
     }
 ]
