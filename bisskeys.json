@@ -7,15 +7,33 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10971 H 4820",
+    "id": "E467 B2 M1",
+    "key": "6A 56 E9 A9 84 E2 FC 62"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10986 V 9875",
+    "id": "Fi11_GNVE",
+    "key": "34 03 2B 62 A0 40 12 F2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11062 H 7200",
+    "id": "Fi13_GNVE",
+    "key": "76 DB 06 57 27 15 5D 99"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "3E ED 4E 79 2D A4 6A 3B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11579 H 7200",
-    "id": "E-289",
-    "key": "D0 42 9E B0 44 FF EB 2E"
+    "frequency": "11588 H 7200",
+    "id": "D-312",
+    "key": "D0 42 9E B0 58 FF DA 31"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,45 +49,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12518 H 7200",
-    "id": "EHF",
-    "key": "D0 42 9E B0 44 FF EA 2D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12525 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12553 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12566 H 7200",
     "id": "DNK83_TUC_C1_MAIN",
     "key": "4F 2D 8A 06 1C 6E 9B 25"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12575 H 7200",
-    "id": "DNK83_TUC_C2_MAIN",
-    "key": "E4 B2 D7 6D F9 C1 A3 5D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL 058_T1",
-    "key": "07 BB 01 C3 AE 26 CF A3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7200",
-    "id": "ENC 3",
-    "key": "BA 14 DE AC 82 AC 71 9F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,26 +61,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10823 V 3670",
-    "id": "GCUK Enc 1",
-    "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
+    "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 04 8E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FBL Bremen",
-    "key": "29 04 CD FA AB 39 74 58"
+    "satellite": "Astra 1KR/1L/1M/1N @ 19.2°E",
+    "frequency": "11817 V 31430",
+    "id": "Astra 1 Service 1",
+    "key": "CD 2B 6C 64 2A 2D 6F C6"
   }
 ]
