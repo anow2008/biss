@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OCC 5",
+        "key": "BD BF B8 34 A2 DF F7 78"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OCC 4",
+        "key": "12 BF 5E 2F A2 D9 47 C2"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OCC 3",
+        "key": "3B BF D6 D0 A2 DC F7 75"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OCC 2",
+        "key": "EA BF E5 8E A2 DF F7 78"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OCC 1",
+        "key": "6B F4 E5 44 E6 2C FB 0D"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12524 V 9875",
         "id": "POR 24",
@@ -40,29 +70,5 @@
         "frequency": "11817 V 31430",
         "id": "Astra 1 Service 1",
         "key": "CD 2B 6C 64 2A 2D 6F C6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11579 H 7200",
-        "id": "E-289",
-        "key": "D0 42 9E B0 44 FF EB 2E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12518 H 7200",
-        "id": "EHF",
-        "key": "D0 42 9E B0 44 FF EA 2D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11588 H 7200",
-        "id": "D-312",
-        "key": "D0 42 9E B0 58 FF DA 31"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12553 H 4938",
-        "id": "YSM-021M",
-        "key": "AB BA 20 85 25 20 26 6B"
     }
 ]
