@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10965 V 17140",
+        "id": "E387 M1 MAIN",
+        "key": "CB DA 28 CD 34 CD AB AC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11579 H 7200",
+        "id": "E-289",
+        "key": "D0 42 9E B0 44 FF EB 2E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12518 H 7200",
+        "id": "EHF",
+        "key": "D0 42 9E B0 44 FF EA 2D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12525 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12553 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11067 H 9875",
+        "id": "FBL Bremen",
+        "key": "29 04 CD FA AB 39 74 58"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10971 H 4820",
         "id": "E467 B2 M1",
         "key": "6A 56 E9 A9 84 E2 FC 62"
