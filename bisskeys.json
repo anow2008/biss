@@ -1,27 +1,33 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10971 H 4820",
+    "id": "E467 B2 M1",
+    "key": "6A 56 E9 A9 84 E2 FC 62"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
-    "key": "90 23 EF A2 CA 12 DE BA"
+    "key": "3E ED 4E 79 2D A4 6A 3B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12566 H 7200",
-    "id": "DNK83_TUC_C1_MAIN",
-    "key": "4F 2D 8A 06 1C 6E 9B 25"
+    "frequency": "11598 V 7200",
+    "id": "WORLD FEED",
+    "key": "C4 E2 B7 5D A1 D9 5F D9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12575 H 7200",
-    "id": "DNK83_TUC_C2_MAIN",
-    "key": "E4 B2 D7 6D F9 C1 A3 5D"
+    "frequency": "11607 V 7200",
+    "id": "AFRIQUE FEED",
+    "key": "5B 8D 3A 22 7C 1F 26 C1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7200",
-    "id": "Fi17GNVE",
-    "key": "7E 9A 5D 75 54 3C A2 32"
+    "frequency": "12593 V 7200",
+    "id": "POL 058_T1",
+    "key": "07 BB 01 C3 AE 26 CF A3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -30,15 +36,39 @@
     "key": "CC 0C 81 59 CB DE 07 B0"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12678 V 7200",
+    "id": "ENC 3",
+    "key": "BA 14 DE AC 82 AC 71 9F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12737 V 7200",
+    "id": "OVERON E-457 V1",
+    "key": "28 28 00 50 04 20 26 4A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10823 V 3670",
+    "id": "GCUK Enc 1",
+    "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12592 V 7200",
-    "id": "ShenZhen-M",
-    "key": "D0 42 9E B0 67 FF 58 BE"
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "POL-55 ENC2",
+    "key": "AB BA 26 8B DC AE 04 8E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10985 V 9600",
+    "id": "POL 030",
+    "key": "AB BA 26 8B DC AE 04 8E"
   }
 ]
