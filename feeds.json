@@ -1,74 +1,50 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 H 9875",
-        "id": "GVA_Fi01",
+        "frequency": "11062 H 7200",
+        "id": "Fi13_GNVE",
+        "key": "76 DB 06 57 27 15 5D 99"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12592 V 7200",
+        "id": "ShenZhen-M",
+        "key": "D0 42 9E B0 67 FF 58 BE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12566 H 7200",
+        "id": "DNK83_TUC_C1_MAIN",
+        "key": "4F 2D 8A 06 1C 6E 9B 25"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12575 H 7200",
+        "id": "DNK83_TUC_C2_MAIN",
+        "key": "E4 B2 D7 6D F9 C1 A3 5D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10971 H 4820",
+        "id": "E467 B2 M1",
         "key": "6A 56 E9 A9 84 E2 FC 62"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12656 V 7200",
+        "id": "Fi17GNVE",
+        "key": "7E 9A 5D 75 54 3C A2 32"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "90 23 EF A2 CA 12 DE BA"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 5",
-        "key": "BD E3 A9 49 D5 1F FA EE"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 4",
-        "key": "5D E3 4F 8F D5 14 4A 33"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 3",
-        "key": "F1 E3 8B 5F D5 1E 4A 3D"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 2",
-        "key": "72 E3 A9 FE D5 13 FA E2"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 1",
-        "key": "3B E3 B8 D6 D5 1C FA EB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 H 9875",
-        "id": "GVA_Fi01",
-        "key": "59 C3 AC C8 67 C4 6D 98"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10982 H 14400",
-        "id": "Fi11_GNVE",
-        "key": "C1 39 10 0A AE 82 44 74"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 H 9875",
-        "id": "GVA_Fi01",
-        "key": "8B 01 E7 73 DA F6 A3 73"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11588 H 7200",
-        "id": "D-312",
-        "key": "E5 8F FB 6F ED 04 28 19"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11044 V 7120",
-        "id": "EFL - Southampton v Ipswich",
-        "key": "C4 54 24 3C 41 25 A4 0A"
     }
 ]
