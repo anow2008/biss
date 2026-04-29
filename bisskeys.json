@@ -31,21 +31,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 H 7200",
-    "id": "D-312",
-    "key": "D0 42 9E B0 58 FF DA 31"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11598 V 7200",
-    "id": "WORLD FEED",
-    "key": "C4 E2 B7 5D A1 D9 5F D9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11607 V 7200",
-    "id": "AFRIQUE FEED",
-    "key": "5B 8D 3A 22 7C 1F 26 C1"
+    "frequency": "12524 V 9875",
+    "id": "POR 24",
+    "key": "F8 50 33 7B C8 07 0A D9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,7 +49,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
