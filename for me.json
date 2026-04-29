@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10986 V 9875",
+        "id": "Fi11_GNVE",
+        "key": "34 03 2B 62 A0 40 12 F2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11062 H 7200",
+        "id": "Fi13_GNVE",
+        "key": "76 DB 06 57 27 15 5D 99"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11588 H 7200",
+        "id": "D-312",
+        "key": "D0 42 9E B0 58 FF DA 31"
+    },
+    {
+        "satellite": "Astra 1KR/1L/1M/1N",
+        "frequency": "11817 V 31430",
+        "id": "Astra 1 Service 1",
+        "key": "CD 2B 6C 64 2A 2D 6F C6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10965 V 17140",
         "id": "E387 M1 MAIN",
         "key": "CB DA 28 CD 34 CD AB AC"
