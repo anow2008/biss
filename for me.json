@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "90 23 EF A2 CA 12 DE BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12567 H 7200",
+        "id": "DNK83_TUC_C1_MAIN",
+        "key": "E9 B3 F2 8E D1 A4 C8 3D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12576 H 7200",
+        "id": "DNK83_TUC_C2_MAIN",
+        "key": "9C 1A 8E 44 2D 6F 4B E7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12593 V 7200",
+        "id": "ShenZhen-M",
+        "key": "FF 58 D0 27 43 0E 67 B8"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10997 V 7500",
+        "id": "POL082 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    }
+]
