@@ -19,27 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "32 18 A7 F1 CD 85 55 A7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "HBL Gummersbach",
-    "key": "20 26 AB F1 DC 30 04 10"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12518 H 7200",
-    "id": "EHF",
-    "key": "FF CA D0 99 43 0E 44 95"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12525 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,33 +61,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11052 H 4800",
-    "id": "CZE 046",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12509 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12515 H 4938",
-    "id": "YSM-013M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12521 H 4938",
-    "id": "YSM-012 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12565 H 4938",
-    "id": "YSM-015BU",
-    "key": "AB BA 20 85 25 20 26 6B"
+    "frequency": "11058 H 4800",
+    "id": "CZE 040",
+    "key": "DC BA 30 C6 04 AB CD 7C"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
