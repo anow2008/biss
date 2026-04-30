@@ -1,6 +1,60 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "HBL Gummersbach",
+        "key": "20 26 AB F1 DC 30 04 10"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12525 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12616 H 7200",
+        "id": "RAI ITA 475 B",
+        "key": "9F FF 6A 08 07 B4 CF 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12624 H 5000",
+        "id": "RAI ITA 475 A",
+        "key": "9F FF 6A 08 07 B4 CF 8A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12509 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12515 H 4938",
+        "id": "YSM-013M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12521 H 4938",
+        "id": "YSM-012 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12565 H 4938",
+        "id": "YSM-015BU",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12576 H 7200",
+        "id": "DECBC Cologne",
+        "key": "DC BA 30 C6 04 AB CD 7C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10965 V 17140",
         "id": "E387 M1 MAIN",
         "key": "BB AA 06 6B 88 11 12 AB"
