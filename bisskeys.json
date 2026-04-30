@@ -7,51 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11007 H 4830",
-    "id": "Match 1 B2 Main",
-    "key": "A3 CB AF 1D 52 9A 54 40"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "Fi13_GNVE",
-    "key": "76 DB 06 57 27 15 5D 99"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
+    "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "32 18 A7 F1 CD 85 55 A7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12566 H 7200",
-    "id": "DNK83_TUC_C1_MAIN",
-    "key": "E9 B3 F2 8E D1 A4 C8 3D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12575 H 7200",
-    "id": "DNK83_TUC_C2_MAIN",
-    "key": "9C 1A 8E 44 2D 6F 4B E7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12616 H 7200",
-    "id": "RAI ITA 475 B",
-    "key": "9F FF 6A 08 07 B4 CF 8A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12624 H 5000",
-    "id": "RAI ITA 475 A",
-    "key": "9F FF 6A 08 07 B4 CF 8A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10823 V 3670",
-    "id": "GCUK Enc 2",
-    "key": "12 34 56 9C 78 91 23 2C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -61,8 +19,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11058 H 4800",
-    "id": "CZE 040",
+    "frequency": "12550 H 9875",
+    "id": "D-KOL-033",
     "key": "DC BA 30 C6 04 AB CD 7C"
   },
   {
