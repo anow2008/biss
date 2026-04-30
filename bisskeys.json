@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10965 V 17140",
+    "id": "E387 M1 MAIN",
+    "key": "BB AA 06 6B 88 11 12 AB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11062 H 7200",
     "id": "Fi13_GNVE",
     "key": "76 DB 06 57 27 15 5D 99"
@@ -13,15 +19,33 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12650 H 7500",
-    "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
-    "key": "A2 13 87 3C F6 2B 89 AA"
+    "frequency": "12518 H 7200",
+    "id": "EHF",
+    "key": "FF CA D0 99 43 0E 44 95"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 H 6970",
-    "id": "Flavia-8A",
-    "key": "E2 89 D8 43 8A 8B 3C 51"
+    "frequency": "12525 H 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12566 H 7200",
+    "id": "DNK83_TUC_C1_MAIN",
+    "key": "E9 B3 F2 8E D1 A4 C8 3D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12575 H 7200",
+    "id": "DNK83_TUC_C2_MAIN",
+    "key": "9C 1A 8E 44 2D 6F 4B E7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12650 H 7500",
+    "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
+    "key": "A2 13 87 3C F6 2B 89 AA"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -34,5 +58,35 @@
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11052 H 4800",
+    "id": "CZE 046",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12509 H 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12515 H 4938",
+    "id": "YSM-013M",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12521 H 4938",
+    "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12576 H 7200",
+    "id": "DECBC Cologne",
+    "key": "DC BA 30 C6 04 AB CD 7C"
   }
 ]
