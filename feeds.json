@@ -1,9 +1,27 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12518 H 7200",
-        "id": "EHF",
+        "frequency": "12525 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12576 H 7200",
+        "id": "DECBC Cologne",
+        "key": "DC BA 30 C6 04 AB CD 7C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12545 H 7200",
+        "id": "MUN-RMD",
         "key": "FF CA D0 99 43 0E 44 95"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12631 V 9875",
+        "id": "Eschborn-FrankfurtBU",
+        "key": "46 C9 9D AC 9E 6C 17 21"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -22,29 +40,5 @@
         "frequency": "12650 H 7500",
         "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
         "key": "A2 13 87 3C F6 2B 89 AA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7200",
-        "id": "Fi17GNVE",
-        "key": "7E 9A 5D 75 54 3C A2 32"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11061 H 7200",
-        "id": "Fi13_GNVE",
-        "key": "76 DB 06 57 27 15 5D 99"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "32 18 A7 F1 CD 85 55 A7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11006 H 4830",
-        "id": "Match 1 B2 Main",
-        "key": "A3 CB AF 1D 52 9A 54 40"
     }
 ]
