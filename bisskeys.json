@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10965 V 17140",
-    "id": "E387 M1 MAIN",
-    "key": "BB AA 06 6B 88 11 12 AB"
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "90 23 EF A2 CA 12 DE BA E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -16,17 +16,5 @@
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12550 H 9875",
-    "id": "D-KOL-033",
-    "key": "DC BA 30 C6 04 AB CD 7C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12576 H 7200",
-    "id": "DECBC Cologne",
-    "key": "DC BA 30 C6 04 AB CD 7C"
   }
 ]
