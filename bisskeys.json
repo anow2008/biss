@@ -1,9 +1,27 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10962 H 9875",
+    "frequency": "10961 H 9875",
     "id": "F563/FLY4/Encoder 4.13/HD FEED B MAIN",
-    "key": "9F FF 6A 08 07 B4 CF 8A"
+    "key": "91 1C 37 E4 0D B5 24 E6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11589 V 7120",
+    "id": "EDM HD ENC-1",
+    "key": "B2 C5 D3 4A E6 F4 A7 81"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11598 V 7200",
+    "id": "WORLD FEED",
+    "key": "1F 6B 8C 16 3A 9D 72 49"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11607 V 7200",
+    "id": "AFRIQUE FEED",
+    "key": "D9 A7 F1 71 B3 C8 24 9F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -16,5 +34,35 @@
     "frequency": "12625 H 5000",
     "id": "RAI ITA 475 A",
     "key": "9F FF 6A 08 07 B4 CF 8A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12630 V 9875",
+    "id": "Eschborn-Frankfurt26",
+    "key": "46 C9 9D AC 9E 6C 17 21"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12650 H 7500",
+    "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
+    "key": "A2 13 87 3C F6 2B 89 AA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12656 V 7200",
+    "id": "Fi17GNVE_ASO_Antalya",
+    "key": "7E 9A 5D 75 54 3C A2 32"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12678 H 6970",
+    "id": "Flavia-8A",
+    "key": "96 D8 6D DB 59 F7 29 79"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "FEED 2",
+    "key": "12 34 56 9C 78 91 23 2C"
   }
 ]
