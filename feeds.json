@@ -1,44 +1,80 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11589 V 7120",
+        "id": "EDM HD ENC-1",
+        "key": "B2 C5 D3 4A E6 F4 A7 81"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12650 H 7500",
+        "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
+        "key": "A2 13 87 3C F6 2B 89 AA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 H 6970",
+        "id": "Flavia-8A",
+        "key": "96 D8 6D DB 59 F7 29 79"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11607 V 7200",
+        "id": "AFRIQUE FEED",
+        "key": "D9 A7 F1 71 B3 C8 24 9F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11598 V 7200",
+        "id": "WORLD FEED",
+        "key": "1F 6B 8C 16 3A 9D 72 49"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12557 H 7200",
+        "id": "E-72 BACKUP",
+        "key": "AB 01 05 B1 20 26 AB F1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11088 V 7200",
+        "id": "ENC-1 main",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10962 H 9875",
+        "id": "F563/FLY4/Encoder 4.13/HD FEED B MAIN",
+        "key": "91 1C 37 E4 0D B5 24 E6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12656 V 7200",
+        "id": "Fi17GNVE_ASO_Antalya",
+        "key": "7E 9A 5D 75 54 3C A2 32"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12630 V 9875",
+        "id": "Eschborn-Frankfurt26",
+        "key": "46 C9 9D AC 9E 6C 17 21"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11098 V 7200",
         "id": "Fi14_GNVE",
         "key": "A6 AE CC 20 38 38 2E 9E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "90 23 EF A2 CA 12 DE BA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11580 H 7200",
-        "id": "EHF NANTES",
-        "key": "FF BD D0 8C 43 0E 44 95"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12624 H 5000",
+        "frequency": "12625 H 5000",
         "id": "RAI ITA 475 A",
         "key": "9F FF 6A 08 07 B4 CF 8A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12565 H 4938",
-        "id": "YSM-015BU",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7200",
-        "id": "HBL Gummersbach",
-        "key": "20 26 AB F1 DC 30 04 10"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12576 H 7200",
-        "id": "DECBC Cologne",
-        "key": "DC BA 30 C6 04 AB CD 7C"
     }
 ]
