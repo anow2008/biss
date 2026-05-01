@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11098 V 7200",
+        "id": "Fi14_GNVE",
+        "key": "A6 AE CC 20 38 38 2E 9E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12617 H 7200",
+        "id": "RAI ITA 475 B",
+        "key": "9F FF 6A 08 07 B4 CF 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12625 H 5000",
+        "id": "RAI ITA 475 A",
+        "key": "9F FF 6A 08 07 B4 CF 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12630 V 9875",
+        "id": "Eschborn-Frankfurt26",
+        "key": "46 C9 9D AC 9E 6C 17 21"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12656 V 7200",
+        "id": "Fi17GNVE_ASO_Antalya",
+        "key": "7E 9A 5D 75 54 3C A2 32"
+    }
+]
