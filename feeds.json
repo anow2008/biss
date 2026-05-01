@@ -46,11 +46,5 @@
         "frequency": "12545 H 7200",
         "id": "MUN-RMD",
         "key": "FF CA D0 99 43 0E 44 95"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12631 V 9875",
-        "id": "Eschborn-FrankfurtBU",
-        "key": "46 C9 9D AC 9E 6C 17 21"
     }
 ]
