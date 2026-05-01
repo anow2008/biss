@@ -40,11 +40,5 @@
         "frequency": "12576 H 7200",
         "id": "DECBC Cologne",
         "key": "DC BA 30 C6 04 AB CD 7C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12545 H 7200",
-        "id": "MUN-RMD",
-        "key": "FF CA D0 99 43 0E 44 95"
     }
 ]
