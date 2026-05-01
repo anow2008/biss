@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10962 H 9875",
+    "id": "F563/FLY4/Encoder 4.13/HD FEED B MAIN",
+    "key": "9F FF 6A 08 07 B4 CF 8A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12617 H 7200",
+    "id": "RAI ITA 475 B",
+    "key": "9F FF 6A 08 07 B4 CF 8A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12625 H 5000",
+    "id": "RAI ITA 475 A",
+    "key": "9F FF 6A 08 07 B4 CF 8A"
+  }
+]
