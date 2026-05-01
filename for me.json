@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10987 V 7200",
+        "id": "Main SAUDI015",
+        "key": "B2 94 29 6F EA 94 DA 58"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11108 H 4938",
+        "id": "UAE074 - 1",
+        "key": "44 14 7D D5 08 0B C4 D7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12547 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12557 H 7200",
+        "id": "E-72 BACKUP",
+        "key": "AB 01 05 B1 20 26 AB F1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12566 H 7200",
+        "id": "DNK83_TUC_C1_MAIN",
+        "key": "2C 4E 9B 15 6F 3D 1A C6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12575 H 7200",
+        "id": "DNK83_TUC_C2_MAIN",
+        "key": "D7 F3 B9 83 A2 C4 E1 47"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12641 H 7200",
+        "id": "LIVE_BR0ADCASTING_LINE1",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11067 H 9875",
+        "id": "FBL Hamburg",
+        "key": "01 05 BF C5 CC 71 04 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10961 H 9875",
         "id": "F563/FLY4/Encoder 4.13/HD FEED B MAIN",
         "key": "91 1C 37 E4 0D B5 24 E6"
