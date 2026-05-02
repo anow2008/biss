@@ -1,69 +1,27 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10974 V 9875",
+    "frequency": "10973 V 9875",
     "id": "POL-098 Backup",
     "key": "98 A9 5E 9F 8F 55 B5 99"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 9875",
-    "id": "D-408 ENC1",
-    "key": "B5 8F 09 4D D8 A6 3C BA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "Fi01 ACB",
-    "key": "C7 E6 DB 88 AB 80 81 AC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11098 H 7200",
+    "frequency": "11097 H 7200",
     "id": "SAU-12A",
     "key": "FF 09 08 10 F2 BE 80 30"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11126 H 7200",
-    "id": "UAE-065",
-    "key": "FF 09 08 10 F2 BE 80 30"
+    "frequency": "12510 V 7500",
+    "id": "AFD",
+    "key": "7B B2 A1 CE 9D DD 34 AE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11135 H 7200",
-    "id": "Main SAUDI015",
-    "key": "FF 09 08 10 F2 BE 80 30"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11496 V 7500",
-    "id": "ENC 14",
-    "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11598 V 7200",
-    "id": "WORLD FEED",
-    "key": "7B 2C 4D F4 1A 8E 95 3D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11607 V 7200",
-    "id": "AFRIQUE FEED",
-    "key": "E3 F7 A2 7C C9 B6 18 97"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12566 H 7200",
-    "id": "DNK83_TUC_C1_MAIN",
-    "key": "A1 D5 C3 39 E9 F2 B4 8F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12575 H 7200",
-    "id": "DNK83_TUC_C2_MAIN",
-    "key": "A2 E8 D1 5B F3 B9 C6 72"
+    "frequency": "12548 H 7200",
+    "id": "ENC 2",
+    "key": "AD 18 DC A1 26 BA 37 17"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -73,45 +31,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12650 H 7200",
-    "id": "enfusion 160",
-    "key": "7F 6E 5D 4A 4C 3B 2A B1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12687 H 7200",
+    "frequency": "12686 H 7200",
     "id": "TKS.TRT.M13",
     "key": "4E 5B 23 CC 6D D4 3A 7B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
+    "frequency": "12736 V 7200",
     "id": "ENC 3",
     "key": "5F 75 88 5C C1 9F B7 17"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 34000",
+    "frequency": "10732 V 33990",
     "id": "OVERON 1",
     "key": "75 3B CC 7C A3 24 6B 32"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10768 V 34000",
-    "id": "SUPPONOR MENA 1",
-    "key": "7C 1E BF 59 45 EA E7 16"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 V 3670",
+    "frequency": "10818 V 3670",
     "id": "Dubai Racing Channel",
-    "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
-    "id": "FEED 2",
-    "key": "12 34 56 9C 78 91 23 2C"
+    "key": "FF 45 D0 14 50 2E 66 E4"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
