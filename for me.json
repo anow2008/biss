@@ -1,1 +1,182 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10961 V 9875",
+        "id": "OER/F40/2/FEED CLEAN",
+        "key": "5D 55 08 BA F6 65 BE 19"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10962 H 9875",
+        "id": "F563/FLY4/Encoder 4.9/HD FEED B MAIN",
+        "key": "91 1C 37 E4 0D B5 24 E6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10974 H 9875",
+        "id": "E379 Feed 1",
+        "key": "ED C2 10 BF 87 8D 0B 1F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10986 H 9875",
+        "id": "F563/FLY4/Encoder 4.8/HD FEED A NON VBR MAIN",
+        "key": "DD 06 E6 C9 95 BE 1A 6D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10987 V 7200",
+        "id": "WSHT ENC 53",
+        "key": "87 28 E5 94 47 4A 7D 0E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10997 H 9875",
+        "id": "Fi17_GNVE",
+        "key": "64 A7 3A 45 64 32 5D F3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11010 H 9875",
+        "id": "Fi18GNVE",
+        "key": "48 D5 C3 E0 81 8C 1B 28"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11053 V 7120",
+        "id": "Pitch - EFL Match 1",
+        "key": "DD DC 71 2A 3A 24 E3 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11071 V 7120",
+        "id": "Pitch EFL Wrexham v Middlesbrough",
+        "key": "29 2C 20 75 23 24 55 9C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11080 V 7120",
+        "id": "Hull City v Norwich",
+        "key": "44 55 25 BE 52 25 66 DD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11098 V 7200",
+        "id": "Fi13_GNVE",
+        "key": "0B 22 8F BC D4 EB BD 7C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11107 V 8020",
+        "id": "Fi14_GNVE",
+        "key": "AF FD 78 24 2D D8 4B 50"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11190 H 7200",
+        "id": "ENC 10",
+        "key": "E7 19 10 10 EF 9A 71 FA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11598 V 7200",
+        "id": "WORLD FEED",
+        "key": "7B 2C 4D F4 1A 8E 95 3D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12539 V 9875",
+        "id": "lyon v arsenal",
+        "key": "01 05 01 07 90 20 26 D6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12647 V 7120",
+        "id": "BeIn Derby v Sheffield Utd",
+        "key": "39 2D 22 88 90 22 43 F5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12678 H 6970",
+        "id": "Flavia-8A",
+        "key": "FD 87 38 BC 84 8B AD BC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12687 H 7200",
+        "id": "TKS.TRT.M13",
+        "key": "4E 5B 23 CC 6D D4 3A 7B"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "0C A2 49 F7 AE 86 71 A5"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "76 53 B6 7F 4A B8 03 05"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11172 V 15000",
+        "id": "F558 PATH2",
+        "key": "83 C7 FD 47 B4 D5 C9 52"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10842 H 9875",
+        "id": "E-412 SBK Main",
+        "key": "AB 52 BA B7 C2 CA 24 B0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11610 V 7500",
+        "id": "TUR156 Main",
+        "key": "AA 38 F6 D8 E6 46 7F AB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12438 H 27500",
+        "id": "FEED 2",
+        "key": "12 34 56 9C 78 91 23 2C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12592 V 7200",
+        "id": "ShenZhen-M",
+        "key": "FF 58 D0 27 50 2E 67 E5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12609 V 9700",
+        "id": "POL-142  Main",
+        "key": "FF 45 D0 14 50 2E 66 E4"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10981 H 3600",
+        "id": "Fal7 Enc2",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10985 V 9600",
+        "id": "POL-90a",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11079 H 9875",
+        "id": "FBL Wolfsburg",
+        "key": "02 05 FE 05 DA 98 70 E2"
+    }
+]
