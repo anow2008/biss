@@ -1,13 +1,13 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 H 9875",
+    "frequency": "10962 H 9875",
     "id": "F563/FLY4/Encoder 4.9/HD FEED B MAIN",
     "key": "91 1C 37 E4 0D B5 24 E6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 V 9875",
+    "frequency": "10962 V 9875",
     "id": "OER/F40/2/FEED CLEAN",
     "key": "5D 55 08 BA F6 65 BE 19"
   },
@@ -25,13 +25,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7200",
-    "id": "WSHT ENC 53",
-    "key": "87 28 E5 94 47 4A 7D 0E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10997 H 9875",
+    "frequency": "10998 H 9875",
     "id": "Fi17_GNVE",
     "key": "64 A7 3A 45 64 32 5D F3"
   },
@@ -73,21 +67,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 V 8020",
-    "id": "Fi14_GNVE",
-    "key": "AF FD 78 24 2D D8 4B 50"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11190 H 7200",
+    "frequency": "11189 H 7200",
     "id": "ENC 10",
     "key": "E7 19 10 10 EF 9A 71 FA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11589 V 7200",
-    "id": "UFC Fight Night on P+ #10 : All Fights",
-    "key": "87 28 E5 94 47 4A 7D 0E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -103,9 +85,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12540 V 9875",
+    "frequency": "12539 V 9875",
     "id": "lyon v arsenal",
     "key": "01 05 01 07 90 20 26 D6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12548 H 7200",
+    "id": "E-95 MAIN",
+    "key": "02 05 AA B1 BB 20 26 01"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -118,12 +106,6 @@
     "frequency": "12638 V 7120",
     "id": "Pitch Exeter  City v Bradford",
     "key": "91 23 DE 92 E2 71 76 C9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 H 6970",
-    "id": "Flavia-8A",
-    "key": "FD 87 38 BC 84 8B AD BC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -145,25 +127,25 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11172 V 15000",
+    "frequency": "11171 V 15000",
     "id": "F558 PATH2",
     "key": "83 C7 FD 47 B4 D5 C9 52"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
+    "frequency": "10819 V 3670",
     "id": "Dubai Racing Channel",
-    "key": "AB 52 BA B7 C2 CA 24 B0"
+    "key": "82 9A 7F 9B 58 34 4A D6"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10842 H 9875",
-    "id": "E-412 SBK Main",
-    "key": "AB 52 BA B7 C2 CA 24 B0"
+    "frequency": "10847 V 7500",
+    "id": "E333 M",
+    "key": "82 9A 7F 9B 58 34 4A D6"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11610 V 7500",
+    "frequency": "11609 V 7500",
     "id": "TUR156 Main",
     "key": "AA 38 F6 D8 E6 46 7F AB"
   },
@@ -175,19 +157,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12592 V 7200",
-    "id": "ShenZhen-M",
-    "key": "FF 58 D0 27 50 2E 67 E5"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12609 V 9700",
     "id": "POL-142  Main",
     "key": "FF 45 D0 14 50 2E 66 E4"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10981 H 3600",
+    "frequency": "10980 H 3600",
     "id": "Fal7 Enc2",
     "key": "20 25 AE F3 EA 52 02 3E"
   },
