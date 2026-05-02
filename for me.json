@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10974 V 9875",
+        "id": "POL-098 Backup",
+        "key": "98 A9 5E 9F 8F 55 B5 99"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12555 H 7200",
+        "id": "OER/F656/COD17/MLMC LE CASTELLET26_INTERFEED RACE",
+        "key": "05 15 EE 08 DC 20 26 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12566 H 7200",
+        "id": "DNK83_TUC_C1_MAIN",
+        "key": "A1 D5 C3 39 E9 F2 B4 8F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12575 H 7200",
+        "id": "DNK83_TUC_C2_MAIN",
+        "key": "A2 E8 D1 5B F3 B9 C6 72"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12629 V 7200",
+        "id": "Fi11_GNVE",
+        "key": "1D C5 45 27 4A B4 1A 18"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12509 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11062 H 7200",
         "id": "Fi01 ACB",
         "key": "C7 E6 DB 88 AB 80 81 AC"
