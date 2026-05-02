@@ -1,15 +1,63 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11062 H 7200",
-        "id": "Fi01 ACB",
-        "key": "C7 E6 DB 88 AB 80 81 AC"
+        "frequency": "12629 V 7200",
+        "id": "Fi11_GNVE",
+        "key": "1D C5 45 27 4A B4 1A 18"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11126 H 7200",
-        "id": "UAE065B",
+        "frequency": "12566 H 7200",
+        "id": "DNK83_TUC_C1_MAIN",
+        "key": "A1 D5 C3 39 E9 F2 B4 8F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11135 H 7200",
+        "id": "Main SAUDI015",
         "key": "FF 09 08 10 F2 BE 80 30"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12575 H 7200",
+        "id": "DNK83_TUC_C2_MAIN",
+        "key": "A2 E8 D1 5B F3 B9 C6 72"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12509 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "E0 0A 40 2A 14 CE 8E 70"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "C6 94 24 7E DA 58 A3 D5"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "94 0A C9 67 B4 54 50 58"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "0C A2 49 F7 AE 86 71 A5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11062 H 7200",
+        "id": "Fi01 ACB",
+        "key": "C7 E6 DB 88 AB 80 81 AC"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -46,53 +94,5 @@
         "frequency": "11057 V 9875",
         "id": "GVA_Fi04",
         "key": "80 29 B8 61 2A 3E 35 9D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11010 V 9875",
-        "id": "Fi09_ GNVE",
-        "key": "9C 58 FC F0 27 EE 05 1A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11589 V 7200",
-        "id": "UFC Fight Night on P 10  All Fights",
-        "key": "87 28 E5 94 47 4A 7D 0E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12638 V 7120",
-        "id": "Pitch Exeter  City v Bradford",
-        "key": "91 23 DE 92 E2 71 76 C9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10997 H 9875",
-        "id": "Fi17_GNVE",
-        "key": "64 A7 3A 45 64 32 5D F3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11107 V 8020",
-        "id": "Fi14_GNVE",
-        "key": "AF FD 78 24 2D D8 4B 50"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12592 V 7200",
-        "id": "ShenZhen-M",
-        "key": "FF 58 D0 27 50 2E 67 E5"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
-        "id": "POL-90a",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11079 H 9875",
-        "id": "FBL Wolfsburg",
-        "key": "02 05 FE 05 DA 98 70 E2"
     }
 ]
