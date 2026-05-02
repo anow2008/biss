@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 V 9600",
-    "id": "ITA340 Accordi & Disaccordi",
-    "key": "F1 07 45 3D E6 CB AD 5E"
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "90 23 EF A2 CA 12 DE BA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -16,12 +16,6 @@
     "frequency": "12510 V 7500",
     "id": "AFD",
     "key": "7B B2 A1 CE 9D DD 34 AE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12548 H 7200",
-    "id": "ENC 2",
-    "key": "AD 18 DC A1 26 BA 37 17"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
