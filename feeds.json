@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11496 V 7500",
+        "id": "ENC 14",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 3",
+        "key": "5F 75 88 5C C1 9F B7 17"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12650 H 7200",
         "id": "enfusion 160",
         "key": "7F 6E 5D 4A 4C 3B 2A B1"
@@ -58,29 +70,5 @@
         "frequency": "10732 V 34000",
         "id": "SUPPONOR EASTERN 1",
         "key": "E0 0A 40 2A 14 CE 8E 70"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 1",
-        "key": "C6 94 24 7E DA 58 A3 D5"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2",
-        "key": "94 0A C9 67 B4 54 50 58"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "0C A2 49 F7 AE 86 71 A5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11062 H 7200",
-        "id": "Fi01 ACB",
-        "key": "C7 E6 DB 88 AB 80 81 AC"
     }
 ]
