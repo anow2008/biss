@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7500",
+        "id": "AFD",
+        "key": "7B B2 A1 CE 9D DD 34 AE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12548 H 7200",
+        "id": "ENC 2",
+        "key": "AD 18 DC A1 26 BA 37 17"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "75 3B CC 7C A3 24 6B 32"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "7C 1E BF 59 45 EA E7 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11496 V 7500",
         "id": "ENC 14",
         "key": "F1 07 45 3D E6 CB AD 5E"
