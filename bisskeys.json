@@ -1,27 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10962 H 9875",
-    "id": "F563/FLY4/Encoder 4.9/HD FEED B MAIN",
-    "key": "91 1C 37 E4 0D B5 24 E6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10962 V 9875",
-    "id": "OER/F40/2/FEED CLEAN",
-    "key": "5D 55 08 BA F6 65 BE 19"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10974 H 9875",
     "id": "E379 Feed 1",
     "key": "ED C2 10 BF 87 8D 0B 1F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10986 H 9875",
-    "id": "F563/FLY4/Encoder 4.8/HD FEED A NON VBR MAIN",
-    "key": "DD 06 E6 C9 95 BE 1A 6D"
+    "frequency": "10974 V 9875",
+    "id": "POL-098 Backup",
+    "key": "98 A9 5E 9F 8F 55 B5 99"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -34,6 +22,12 @@
     "frequency": "11010 V 9875",
     "id": "Fi09_ GNVE",
     "key": "9C 58 FC F0 27 EE 05 1A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11022 V 9875",
+    "id": "D-408 ENC1",
+    "key": "B5 8F 09 4D D8 A6 3C BA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,6 +55,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11098 H 7200",
+    "id": "SAU-12A",
+    "key": "FF 09 08 10 F2 BE 80 30"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11098 V 7200",
     "id": "Fi13_GNVE",
     "key": "0B 22 8F BC D4 EB BD 7C"
@@ -73,9 +73,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11189 H 7200",
-    "id": "ENC 10",
-    "key": "E7 19 10 10 EF 9A 71 FA"
+    "frequency": "11135 H 7200",
+    "id": "Main SAUDI015",
+    "key": "FF 09 08 10 F2 BE 80 30"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -91,15 +91,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12566 H 7200",
+    "id": "DNK83_TUC_C1_MAIN",
+    "key": "A1 D5 C3 39 E9 F2 B4 8F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12575 H 7200",
     "id": "DNK83_TUC_C2_MAIN",
     "key": "A2 E8 D1 5B F3 B9 C6 72"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12638 V 7120",
-    "id": "Pitch Exeter  City v Bradford",
-    "key": "91 23 DE 92 E2 71 76 C9"
+    "frequency": "12629 V 7200",
+    "id": "Fi11_GNVE",
+    "key": "1D C5 45 27 4A B4 1A 18"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12650 H 7200",
+    "id": "enfusion 160",
+    "key": "7F 6E 5D 4A 4C 3B 2A B1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -120,12 +132,6 @@
     "key": "76 53 B6 7F 4A B8 03 05"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11171 V 15000",
-    "id": "F558 PATH2",
-    "key": "83 C7 FD 47 B4 D5 C9 52"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10819 V 3670",
     "id": "Dubai Racing Channel",
@@ -139,7 +145,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
@@ -148,6 +154,12 @@
     "frequency": "12609 V 9700",
     "id": "POL-142  Main",
     "key": "FF 45 D0 14 50 2E 66 E4"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10977 V 4800",
+    "id": "POL-55 ENC1",
+    "key": "20 25 AE F3 EA 52 02 3E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -163,8 +175,20 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11001 V 15000",
+    "id": "POL085",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12509 H 4938",
     "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12515 H 4938",
+    "id": "YSM-021M",
     "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
