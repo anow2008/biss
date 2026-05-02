@@ -64,17 +64,5 @@
         "frequency": "10732 V 34000",
         "id": "SUPPONOR EASTERN 1",
         "key": "B1 B4 57 BC 90 B0 EC 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 1",
-        "key": "C8 44 23 2F 46 8C 11 E3"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 2",
-        "key": "94 0A C9 67 B4 54 50 58"
     }
 ]
