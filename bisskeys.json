@@ -31,12 +31,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11010 H 9875",
-    "id": "Fi18GNVE",
-    "key": "48 D5 C3 E0 81 8C 1B 28"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11010 V 9875",
     "id": "Fi09_ GNVE",
     "key": "9C 58 FC F0 27 EE 05 1A"
@@ -46,6 +40,12 @@
     "frequency": "11057 V 9875",
     "id": "GVA_Fi04",
     "key": "80 29 B8 61 2A 3E 35 9D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11062 H 7200",
+    "id": "Fi01 ACB",
+    "key": "C7 E6 DB 88 AB 80 81 AC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,6 +67,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11126 H 7200",
+    "id": "UAE-065",
+    "key": "FF 09 08 10 F2 BE 80 30"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11189 H 7200",
     "id": "ENC 10",
     "key": "E7 19 10 10 EF 9A 71 FA"
@@ -85,21 +91,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12539 V 9875",
-    "id": "lyon v arsenal",
-    "key": "01 05 01 07 90 20 26 D6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12548 H 7200",
-    "id": "E-95 MAIN",
-    "key": "02 05 AA B1 BB 20 26 01"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "Polsat Sport",
-    "key": "15 58 35 A2 71 42 63 16"
+    "frequency": "12575 H 7200",
+    "id": "DNK83_TUC_C2_MAIN",
+    "key": "A2 E8 D1 5B F3 B9 C6 72"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -139,15 +133,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10847 V 7500",
+    "frequency": "10848 V 7500",
     "id": "E333 M",
     "key": "82 9A 7F 9B 58 34 4A D6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 V 7500",
-    "id": "TUR156 Main",
-    "key": "AA 38 F6 D8 E6 46 7F AB"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -169,14 +157,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
+    "frequency": "10986 V 9600",
     "id": "POL-90a",
     "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11079 H 9875",
-    "id": "FBL Wolfsburg",
-    "key": "02 05 FE 05 DA 98 70 E2"
+    "frequency": "12509 H 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
