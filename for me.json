@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11010 V 9875",
+        "id": "Fi09_ GNVE",
+        "key": "9C 58 FC F0 27 EE 05 1A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11057 V 9875",
+        "id": "GVA_Fi04",
+        "key": "80 29 B8 61 2A 3E 35 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11069 V 9875",
+        "id": "Fi15_GNVE",
+        "key": "51 58 62 0B 5B 8E B3 9C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11081 V 9875",
+        "id": "Fi16_GNVE",
+        "key": "B0 B7 DE 45 32 51 E7 6A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11607 V 7200",
+        "id": "AFRIQUE FEED",
+        "key": "E3 F7 A2 7C C9 B6 18 97"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12638 V 7120",
+        "id": "Pitch Exeter  City v Bradford",
+        "key": "91 23 DE 92 E2 71 76 C9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10961 V 9875",
         "id": "OER/F40/2/FEED CLEAN",
         "key": "5D 55 08 BA F6 65 BE 19"
