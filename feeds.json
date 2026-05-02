@@ -1,110 +1,86 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11067 H 9875",
-        "id": "FBL Hamburg",
-        "key": "01 05 BF C5 CC 71 04 41"
+        "frequency": "10985 V 9600",
+        "id": "POL-90a",
+        "key": "AB BA 26 8B DC AE 05 8F"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12566 H 7200",
-        "id": "DNK83_TUC_C1_MAIN",
-        "key": "2C 4E 9B 15 6F 3D 1A C6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12547 H 4938",
-        "id": "YSM-021M",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10987 V 7200",
-        "id": "Main SAUDI015",
-        "key": "B2 94 29 6F EA 94 DA 58"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12575 H 7200",
-        "id": "DNK83_TUC_C2_MAIN",
-        "key": "D7 F3 B9 83 A2 C4 E1 47"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12640 H 7200",
-        "id": "LIVE_BR0ADCASTING_LINE1",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11107 H 4938",
-        "id": "UAE074 - 1",
-        "key": "44 14 7D D5 08 0B C4 D7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11589 V 7120",
-        "id": "EDM HD ENC-1",
-        "key": "B2 C5 D3 4A E6 F4 A7 81"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12650 H 7500",
-        "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
-        "key": "A2 13 87 3C F6 2B 89 AA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 H 6970",
-        "id": "Flavia-8A",
-        "key": "96 D8 6D DB 59 F7 29 79"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11607 V 7200",
-        "id": "AFRIQUE FEED",
-        "key": "D9 A7 F1 71 B3 C8 24 9F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11598 V 7200",
-        "id": "WORLD FEED",
-        "key": "1F 6B 8C 16 3A 9D 72 49"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12557 H 7200",
-        "id": "E-72 BACKUP",
-        "key": "AB 01 05 B1 20 26 AB F1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11088 V 7200",
-        "id": "ENC-1 main",
-        "key": "B8 0D 7C 41 8E F9 5E E5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10962 H 9875",
-        "id": "F563/FLY4/Encoder 4.13/HD FEED B MAIN",
-        "key": "91 1C 37 E4 0D B5 24 E6"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11079 H 9875",
+        "id": "FBL Wolfsburg",
+        "key": "02 05 FE 05 DA 98 70 E2"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
+        "frequency": "11610 V 7500",
+        "id": "TUR156 Main",
+        "key": "AA 38 F6 D8 E6 46 7F AB"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "E0 0A 40 2A 14 CE 8E 70"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "C6 94 24 7E DA 58 A3 D5"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 2",
+        "key": "70 73 2F 12 0A 0D 64 7B"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "0C A2 49 F7 AE 86 71 A5"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7200",
-        "id": "Fi17GNVE_ASO_Antalya",
-        "key": "7E 9A 5D 75 54 3C A2 32"
+        "frequency": "10986 H 9875",
+        "id": "F563/FLY4/Encoder 4.8/HD FEED A NON VBR MAIN",
+        "key": "DD 06 E6 C9 95 BE 1A 6D"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12630 V 9875",
-        "id": "Eschborn-Frankfurt26",
-        "key": "46 C9 9D AC 9E 6C 17 21"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "2D 32 5A B9 47 74 F9 B4"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR RUSIA 2",
+        "key": "AC CC 6F E7 2E 10 24 62"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR RUSIA 1",
+        "key": "CA 1D 2F 16 6F 16 EB 70"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "76 53 B6 7F 4A B8 03 05"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10981 H 3600",
+        "id": "Fal7 Enc2",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12609 V 9700",
+        "id": "POL-142  Main",
+        "key": "FF 45 D0 14 50 2E 66 E4"
     }
 ]
