@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12631 V 9875",
+        "id": "E349 Main",
+        "key": "6E E6 AF 03 11 BF CF 9F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 V 7500",
+        "id": "TUR 112 MAIN",
+        "key": "FE 46 44 88 88 87 8B 9A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11635 V 9700",
+        "id": "POL-142  Main",
+        "key": "E6 6F F4 49 5D 05 03 65"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 V 7200",
         "id": "AZE-013_MAIN_CHAIN",
         "key": "6E CD 59 94 F0 83 43 B6"
