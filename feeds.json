@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-080 MAIN",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12557 H 7200",
+        "id": "ENC 3",
+        "key": "AC 17 DA 9D 28 BD 39 1E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11021 H 9875",
+        "id": "GVA_Fi03_BULI_07",
+        "key": "50 33 6A ED AF BF B1 1F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12548 H 7200",
+        "id": "ENC 2",
+        "key": "BA 26 AD 8D 17 CE 48 2D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12649 H 7500",
+        "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
+        "key": "A2 13 87 3C F6 2B 89 AA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 V 7200",
+        "id": "ITA633_MAIN",
+        "key": "E2 5D 2C 6B 82 AC 34 62"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10969 V 7200",
+        "id": "Main SAUDI015",
+        "key": "BB 4E 0C 15 0E 1C 4F 79"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11162 H 7200",
         "id": "DNK83_TUC_C1B_MAIN",
         "key": "6B 9E 1D 26 4A 3F 2C B5"
@@ -58,35 +100,5 @@
         "frequency": "11255 H 7200",
         "id": "Encoder 1",
         "key": "C4 E7 E9 94 DE A2 6D ED"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11246 H 7200",
-        "id": "Encoder 2",
-        "key": "72 AE B2 D2 35 CD 77 79"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 V 7200",
-        "id": "E-95 MAIN",
-        "key": "03 05 20 28 26 FA CA EA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11588 V 7200",
-        "id": "ENC 21",
-        "key": "31 5D A6 34 E7 CD 32 E6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11190 H 7200",
-        "id": "ENC 10",
-        "key": "52 5A 01 AD 8A 2A 12 C6"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11079 H 9875",
-        "id": "FBL Jena",
-        "key": "03 05 BF C7 DB 76 86 D7"
     }
 ]
