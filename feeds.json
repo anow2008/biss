@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 H 6970",
+        "id": "Flavia-8A",
+        "key": "B9 47 94 94 86 63 8C 75"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12576 H 7200",
+        "id": "HOL319 B/U",
+        "key": "F3 19 AD B9 03 CB 05 D3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 V 7200",
+        "id": "GCUK Enc 2",
+        "key": "C4 AA CB 39 AD D2 D2 51"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "B7 96 01 4E C6 E6 00 AC"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "72 F4 2A 90 B6 D3 3E C7"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "OVERON 2",
+        "key": "08 BF 11 D8 45 65 E9 93"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "OVERON 1",
+        "key": "6E 59 F3 BA 5B 4F 50 FA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11053 V 7200",
+        "id": "ECC Montpellier v Dragons",
+        "key": "34 AB 12 F1 AB 34 AB 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12631 V 9875",
         "id": "E349 Main",
         "key": "6E E6 AF 03 11 BF CF 9F"
@@ -34,77 +82,5 @@
         "frequency": "10732 V 33990",
         "id": "SUPPONOR EASTERN 1",
         "key": "B1 B4 57 BC 90 B0 EC 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "SUPPONOR AFRICA 1",
-        "key": "72 F4 2A 90 B6 D3 3E C7"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "OVERON 2",
-        "key": "08 BF 11 D8 45 65 E9 93"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "OVERON 1",
-        "key": "6E 59 F3 BA 5B 4F 50 FA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12593 V 7200",
-        "id": "ShenZhen-M",
-        "key": "E6 7F F5 5A 8D 05 03 95"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10841 H 9875",
-        "id": "E-412 SBK Main",
-        "key": "AC B1 BC 19 C3 CB 21 AF"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 33990",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "ED 36 E9 0C 65 AC FA 0B"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 33990",
-        "id": "SUPPONOR RUSIA 1",
-        "key": "F2 5B 32 7F 19 80 A8 41"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 33990",
-        "id": "SUPPONOR MENA 1",
-        "key": "5B D3 6B 99 62 CE 09 39"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11544 V 7200",
-        "id": "E378 VIA1",
-        "key": "03 05 20 28 26 AD 26 F9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11107 V 7200",
-        "id": "TXout-1 RXout-9",
-        "key": "F3 4A FB 38 78 99 BF D0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12566 H 7200",
-        "id": "DNK83_TUC_C1A_MAIN",
-        "key": "6B 9E 1D 26 4A 3F 2C B5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12556 H 7200",
-        "id": "OER/F656/COD17/ELMS LE CASTELLET26_INTERFEED RACE",
-        "key": "05 15 EE 08 DC 20 26 22"
     }
 ]
