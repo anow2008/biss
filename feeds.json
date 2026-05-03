@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7200",
+        "id": "AFRIQUE FEED",
+        "key": "2D 6B 9A 32 3F 1C 87 E2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11597 V 7200",
+        "id": "WORLD FEED",
+        "key": "8A 1C 7E 24 4D 2B 93 0B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12575 H 7200",
+        "id": "TKS.TRT.M13",
+        "key": "4E 5B 23 CC 6D D4 3A 7B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12640 H 7200",
+        "id": "E-228 Main",
+        "key": "AB BA 03 68 05 20 26 4B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12509 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11022 H 9875",
+        "id": "GVA_Fi03_BULI_01",
+        "key": "74 FC A8 18 9F 8B D6 00"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12538 V 7200",
+        "id": "HBL Hamburg",
+        "key": "20 26 AB F1 DC 03 05 E4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12510 V 7200",
+        "id": "RB Salzburg",
+        "key": "03 05 EA F2 BD 50 79 86"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11067 H 9875",
         "id": "FBL Essen",
@@ -10,53 +58,5 @@
         "frequency": "11171 V 15000",
         "id": "F558 PATH 2",
         "key": "39 AF F6 DE 0D 35 66 A8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12727 V 7200",
-        "id": "ENC 7",
-        "key": "C5 63 9E C6 F7 58 56 A5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 H 6970",
-        "id": "Flavia-8A",
-        "key": "B9 47 94 94 86 63 8C 75"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12576 H 7200",
-        "id": "HOL319 B/U",
-        "key": "F3 19 AD B9 03 CB 05 D3"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "GCUK Enc 2",
-        "key": "C4 AA CB 39 AD D2 D2 51"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "SUPPONOR EASTERN 1",
-        "key": "B7 96 01 4E C6 E6 00 AC"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "SUPPONOR AFRICA 1",
-        "key": "72 F4 2A 90 B6 D3 3E C7"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "OVERON 2",
-        "key": "08 BF 11 D8 45 65 E9 93"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "OVERON 1",
-        "key": "6E 59 F3 BA 5B 4F 50 FA"
     }
 ]
