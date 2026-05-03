@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11079 H 9875",
+        "id": "FBL Jena",
+        "key": "03 05 BF C7 DB 76 86 D7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11009 H 9875",
+        "id": "GVA_Fi04_BULI_02",
+        "key": "A6 56 8F 8B C4 AD 4E BF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11061 V 7200",
+        "id": "UBB Bath Rugby",
+        "key": "34 AA 12 F0 AA 34 AA 88"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11606 V 7200",
         "id": "AFRIQUE FEED",
@@ -46,17 +64,5 @@
         "frequency": "12510 V 7200",
         "id": "RB Salzburg",
         "key": "03 05 EA F2 BD 50 79 86"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11067 H 9875",
-        "id": "FBL Essen",
-        "key": "03 05 BF C7 DB 76 86 D7"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11171 V 15000",
-        "id": "F558 PATH 2",
-        "key": "39 AF F6 DE 0D 35 66 A8"
     }
 ]
