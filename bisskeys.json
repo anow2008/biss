@@ -7,7 +7,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10974 H 9875",
+    "frequency": "10973 H 9875",
     "id": "E379 Feed 1",
     "key": "ED C2 10 BF 87 8D 0B 1F"
   },
@@ -16,12 +16,6 @@
     "frequency": "11053 V 7200",
     "id": "ECC Montpellier v Dragons",
     "key": "34 AB 12 F1 AB 34 AB 8A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 V 7200",
-    "id": "TXout-1 RXout-9",
-    "key": "F3 4A FB 38 78 99 BF D0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -78,9 +72,15 @@
     "key": "5B D3 6B 99 62 CE 09 39"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11171 V 15000",
+    "id": "F558 PATH 2",
+    "key": "39 AF F6 DE 0D 35 66 A8"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10823 V 3670",
-    "id": "Dubai Racing Newmarket ITV",
+    "frequency": "10819 V 3670",
+    "id": "RMG Dubai HD",
     "key": "C4 AA CB 39 AD D2 D2 51"
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-90a",
+    "frequency": "10974 V 9600",
+    "id": "POL49 EN1 CHORZOW",
     "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
@@ -136,6 +136,12 @@
     "frequency": "11016 V 9600",
     "id": "pol-053_enc2",
     "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11067 H 9875",
+    "id": "FBL Essen",
+    "key": "03 05 BF C7 DB 76 86 D7"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
