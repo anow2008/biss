@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "RB Salzburg",
+        "key": "03 05 EA F2 BD 50 79 86"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11246 H 7200",
+        "id": "Encoder 2",
+        "key": "72 AE B2 D2 35 CD 77 79"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11255 H 7200",
+        "id": "Encoder 1",
+        "key": "C4 E7 E9 94 DE A2 6D ED"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11264 H 7200",
+        "id": "Encoder 3",
+        "key": "2A A9 68 3B 79 96 7E 8D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10838 V 7200",
+        "id": "PAOK VS OSFP A",
+        "key": "63 6B E7 B5 8E 6B D6 CF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10847 V 7500",
+        "id": "E333 M",
+        "key": "CF A4 AB 1E 13 4C 2D 8C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 V 7200",
         "id": "E-95 MAIN",
         "key": "03 05 20 28 26 FA CA EA"
