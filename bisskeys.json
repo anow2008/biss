@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 H 7200",
-    "id": "Fi01 ACB",
-    "key": "B8 EB 30 D3 8A 64 EC DA"
+    "frequency": "11021 H 9875",
+    "id": "GVA_Fi03_BULI_07",
+    "key": "50 33 6A ED AF BF B1 1F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -16,18 +16,6 @@
     "frequency": "11478 V 7500",
     "id": "ENC 4",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11597 V 7200",
-    "id": "WORLD FEED",
-    "key": "8A 1C 7E 24 4D 2B 93 0B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "AFRIQUE FEED",
-    "key": "2D 6B 9A 32 3F 1C 87 E2"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -55,21 +43,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12575 H 7200",
-    "id": "TKS.TRT.M13",
-    "key": "4E 5B 23 CC 6D D4 3A 7B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
     "id": "POL-080 MAIN",
     "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7500",
-    "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
-    "key": "A2 13 87 3C F6 2B 89 AA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -124,11 +100,5 @@
     "frequency": "10985 V 9600",
     "id": "POL 48 ENC1",
     "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12509 H 4938",
-    "id": "YSM-012 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
