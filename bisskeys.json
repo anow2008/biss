@@ -25,15 +25,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11052 V 7200",
-    "id": "ECC Montpellier v Dragons",
-    "key": "34 AB 12 F1 AB 34 AB 8A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11061 V 7200",
     "id": "UBB Bath Rugby",
     "key": "34 AA 12 F0 AA 34 AA 88"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11190 H 7200",
+    "id": "ENC 10",
+    "key": "52 5A 01 AD 8A 2A 12 C6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11588 V 7200",
+    "id": "ENC 21",
+    "key": "31 5D A6 34 E7 CD 32 E6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,33 +67,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12566 H 7200",
-    "id": "DNK83_TUC_C1A_MAIN",
-    "key": "6B 9E 1D 26 4A 3F 2C B5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12575 H 7200",
     "id": "TKS.TRT.M13",
     "key": "4E 5B 23 CC 6D D4 3A 7B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12630 V 9875",
-    "id": "E349 Main",
-    "key": "6E E6 AF 03 11 BF CF 9F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12640 H 7200",
     "id": "E-228 Main",
     "key": "AB BA 03 68 05 20 26 4B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7200",
-    "id": "DNK83_TUC_C1B_MAIN",
-    "key": "6B 9E 1D 26 4A 3F 2C B5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -165,6 +153,12 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11067 H 9875",
     "id": "FBL Essen",
+    "key": "03 05 BF C7 DB 76 86 D7"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11079 H 9875",
+    "id": "FBL Jena",
     "key": "03 05 BF C7 DB 76 86 D7"
   },
   {
