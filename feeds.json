@@ -1,6 +1,72 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11162 H 7200",
+        "id": "DNK83_TUC_C1B_MAIN",
+        "key": "6B 9E 1D 26 4A 3F 2C B5"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12556 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10838 V 7200",
+        "id": "PAOK VS OSFP A",
+        "key": "63 6B E7 B5 8E 6B D6 CF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10847 V 7500",
+        "id": "E333 M",
+        "key": "CF A4 AB 1E 13 4C 2D 8C"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "B7 96 01 4E C6 E6 00 AC"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "72 F4 2A 90 B6 D3 3E C7"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "OVERON 2",
+        "key": "72 44 5B 11 2C BE F5 DF"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "OVERON 1",
+        "key": "6E 59 F3 BA 5B 4F 50 FA"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11264 H 7200",
+        "id": "Encoder 3",
+        "key": "2A A9 68 3B 79 96 7E 8D"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11255 H 7200",
+        "id": "Encoder 1",
+        "key": "C4 E7 E9 94 DE A2 6D ED"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11246 H 7200",
+        "id": "Encoder 2",
+        "key": "72 AE B2 D2 35 CD 77 79"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10960 V 7200",
         "id": "E-95 MAIN",
         "key": "03 05 20 28 26 FA CA EA"
@@ -22,41 +88,5 @@
         "frequency": "11079 H 9875",
         "id": "FBL Jena",
         "key": "03 05 BF C7 DB 76 86 D7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11009 H 9875",
-        "id": "GVA_Fi04_BULI_02",
-        "key": "A6 56 8F 8B C4 AD 4E BF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11061 V 7200",
-        "id": "UBB Bath Rugby",
-        "key": "34 AA 12 F0 AA 34 AA 88"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 V 7200",
-        "id": "AFRIQUE FEED",
-        "key": "2D 6B 9A 32 3F 1C 87 E2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11597 V 7200",
-        "id": "WORLD FEED",
-        "key": "8A 1C 7E 24 4D 2B 93 0B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12575 H 7200",
-        "id": "TKS.TRT.M13",
-        "key": "4E 5B 23 CC 6D D4 3A 7B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12640 H 7200",
-        "id": "E-228 Main",
-        "key": "AB BA 03 68 05 20 26 4B"
     }
 ]
