@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11478 V 7500",
+        "id": "ENC 4",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7500",
+        "id": "AFD",
+        "key": "7B B2 A1 CE 9D DD 34 AE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 5",
+        "key": "B1 7C 73 A0 C7 3F DC E2"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10829 V 7200",
         "id": "TANDBERG",
