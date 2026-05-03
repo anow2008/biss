@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10829 V 7200",
+        "id": "TANDBERG",
+        "key": "53 ED F3 33 43 BD 2F 2F"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10996 H 7200",
         "id": "Fi01 ACB",
