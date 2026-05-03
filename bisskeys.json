@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11021 H 9875",
-    "id": "GVA_Fi03_BULI_07",
-    "key": "50 33 6A ED AF BF B1 1F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11162 H 7200",
     "id": "DNK83_TUC_C1B_MAIN",
     "key": "6B 9E 1D 26 4A 3F 2C B5"
@@ -43,12 +37,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL-080 MAIN",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 5",
     "key": "B1 7C 73 A0 C7 3F DC E2"
@@ -69,13 +57,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10823 V 3670",
     "id": "GCUK Enc 9",
-    "key": "53 ED F3 33 43 BD 2F 2F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7200",
-    "id": "TANDBERG",
-    "key": "53 ED F3 33 43 BD 2F 2F"
+    "key": "E6 6F F4 49 5D 05 03 65"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -93,12 +75,6 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10973 V 9600",
     "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL 48 ENC1",
     "key": "AB BA 26 8B DC AE 05 8F"
   }
 ]
