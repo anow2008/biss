@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "E-95 MAIN",
+        "key": "03 05 20 28 26 FA CA EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11190 H 7200",
+        "id": "ENC 10",
+        "key": "52 5A 01 AD 8A 2A 12 C6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11588 V 7200",
+        "id": "ENC 21",
+        "key": "31 5D A6 34 E7 CD 32 E6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11009 H 9875",
         "id": "GVA_Fi04_BULI_02",
         "key": "A6 56 8F 8B C4 AD 4E BF"
