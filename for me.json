@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10969 V 7200",
+        "id": "Main SAUDI015",
+        "key": "BB 4E 0C 15 0E 1C 4F 79"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 V 7200",
+        "id": "ITA633_MAIN",
+        "key": "E2 5D 2C 6B 82 AC 34 62"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12649 H 7500",
+        "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
+        "key": "A2 13 87 3C F6 2B 89 AA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12510 V 7200",
         "id": "RB Salzburg",
         "key": "03 05 EA F2 BD 50 79 86"
