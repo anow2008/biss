@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10996 H 7200",
+        "id": "Fi01 ACB",
+        "key": "B8 EB 30 D3 8A 64 EC DA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11021 H 9875",
+        "id": "GVA_Fi03_BULI_07",
+        "key": "50 33 6A ED AF BF B1 1F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12548 H 7200",
+        "id": "ENC 2",
+        "key": "BA 26 AD 8D 17 CE 48 2D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12557 H 7200",
+        "id": "ENC 3",
+        "key": "AC 17 DA 9D 28 BD 39 1E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL-080 MAIN",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10732 V 33990",
+        "id": "OVERON 1",
+        "key": "3B 8F 1E E8 0E 2E D5 11"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10969 V 7200",
         "id": "Main SAUDI015",
         "key": "BB 4E 0C 15 0E 1C 4F 79"
