@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11067 H 9875",
+        "id": "FBL Essen",
+        "key": "03 05 BF C7 DB 76 86 D7"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11171 V 15000",
+        "id": "F558 PATH 2",
+        "key": "39 AF F6 DE 0D 35 66 A8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12727 V 7200",
+        "id": "ENC 7",
+        "key": "C5 63 9E C6 F7 58 56 A5"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12677 H 6970",
         "id": "Flavia-8A",
@@ -40,47 +58,5 @@
         "frequency": "10732 V 33990",
         "id": "OVERON 1",
         "key": "6E 59 F3 BA 5B 4F 50 FA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11053 V 7200",
-        "id": "ECC Montpellier v Dragons",
-        "key": "34 AB 12 F1 AB 34 AB 8A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12631 V 9875",
-        "id": "E349 Main",
-        "key": "6E E6 AF 03 11 BF CF 9F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11635 V 9700",
-        "id": "POL-142  Main",
-        "key": "E6 6F F4 49 5D 05 03 65"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7500",
-        "id": "TUR 112 MAIN",
-        "key": "FE 46 44 88 88 87 8B 9A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11204 V 7200",
-        "id": "E-OCC 8",
-        "key": "AC CE 26 A0 BB 03 05 C3"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "SUPPONOR EASTERN 1",
-        "key": "B1 B4 57 BC 90 B0 EC 2C"
     }
 ]
