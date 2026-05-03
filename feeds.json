@@ -76,11 +76,5 @@
         "frequency": "12548 H 7200",
         "id": "ENC 2",
         "key": "BA 26 AD 8D 17 CE 48 2D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12649 H 7500",
-        "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
-        "key": "A2 13 87 3C F6 2B 89 AA"
     }
 ]
