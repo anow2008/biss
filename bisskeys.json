@@ -7,15 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10973 H 9875",
-    "id": "E379 Feed 1",
-    "key": "ED C2 10 BF 87 8D 0B 1F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11009 H 9875",
-    "id": "GVA_Fi04_BULI_02",
-    "key": "A6 56 8F 8B C4 AD 4E BF"
+    "frequency": "10996 H 7200",
+    "id": "Fi01 ACB",
+    "key": "B8 EB 30 D3 8A 64 EC DA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,6 +31,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11478 V 7500",
+    "id": "ENC 4",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11597 V 7200",
     "id": "WORLD FEED",
     "key": "8A 1C 7E 24 4D 2B 93 0B"
@@ -46,12 +46,6 @@
     "frequency": "11606 V 7200",
     "id": "AFRIQUE FEED",
     "key": "2D 6B 9A 32 3F 1C 87 E2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "RB Salzburg",
-    "key": "03 05 EA F2 BD 50 79 86"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -93,7 +87,7 @@
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 33990",
     "id": "OVERON 1",
-    "key": "6E 59 F3 BA 5B 4F 50 FA"
+    "key": "3B 8F 1E E8 0E 2E D5 11"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -103,15 +97,9 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11246 H 7200",
-    "id": "Encoder 2",
-    "key": "72 AE B2 D2 35 CD 77 79"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11255 H 7200",
-    "id": "Encoder 1",
-    "key": "C4 E7 E9 94 DE A2 6D ED"
+    "frequency": "11171 V 15000",
+    "id": "F558 PATH 1",
+    "key": "39 AF F6 DE 0D 35 66 A8"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -121,8 +109,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "RMG Dubai HD",
+    "frequency": "10823 V 3670",
+    "id": "GCUK Enc 9",
     "key": "63 6B E7 B5 8E 6B D6 CF"
   },
   {
@@ -160,6 +148,12 @@
     "frequency": "10985 V 9600",
     "id": "POL 48 ENC1",
     "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12509 H 4938",
+    "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
