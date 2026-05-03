@@ -1,74 +1,110 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12631 V 9875",
+        "id": "E349 Main",
+        "key": "6E E6 AF 03 11 BF CF 9F"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "FEED 2",
-        "key": "12 34 56 9C 78 91 23 2C"
+        "frequency": "11635 V 9700",
+        "id": "POL-142  Main",
+        "key": "E6 6F F4 49 5D 05 03 65"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7200",
-        "id": "Fi17GNVE",
-        "key": "7E 9A 5D 75 54 3C A2 32"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7500",
+        "id": "TUR 112 MAIN",
+        "key": "FE 46 44 88 88 87 8B 9A"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "90 23 EF A2 CA 12 DE BA"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11204 V 7200",
+        "id": "E-OCC 8",
+        "key": "AC CE 26 A0 BB 03 05 C3"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10973 H 9875",
-        "id": "E379 Feed 1",
-        "key": "ED C2 10 BF 87 8D 0B 1F"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10965 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 05 8F"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12538 V 7200",
-        "id": "E-95 MAIN",
-        "key": "AB BA 20 85 26 05 02 2D"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "B1 B4 57 BC 90 B0 EC 2C"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "72 F4 2A 90 B6 D3 3E C7"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "OVERON 2",
+        "key": "08 BF 11 D8 45 65 E9 93"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "OVERON 1",
+        "key": "6E 59 F3 BA 5B 4F 50 FA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12593 V 7200",
+        "id": "ShenZhen-M",
+        "key": "E6 7F F5 5A 8D 05 03 95"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10841 H 9875",
+        "id": "E-412 SBK Main",
+        "key": "AC B1 BC 19 C3 CB 21 AF"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10768 V 33990",
         "id": "LIGA HYPERMOTION 1",
-        "key": "2D 32 5A B9 47 74 F9 B4"
+        "key": "ED 36 E9 0C 65 AC FA 0B"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10768 V 33990",
         "id": "SUPPONOR RUSIA 1",
-        "key": "52 07 44 9D 3F 83 27 E9"
+        "key": "F2 5B 32 7F 19 80 A8 41"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10768 V 33990",
         "id": "SUPPONOR MENA 1",
-        "key": "7C 1E BF 59 45 EA E7 16"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 33990",
-        "id": "OVERON 1",
-        "key": "75 3B CC 7C A3 24 6B 32"
+        "key": "5B D3 6B 99 62 CE 09 39"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12649 H 7500",
-        "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
-        "key": "A2 13 87 3C F6 2B 89 AA"
+        "frequency": "11544 V 7200",
+        "id": "E378 VIA1",
+        "key": "03 05 20 28 26 AD 26 F9"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7500",
-        "id": "AFD",
-        "key": "7B B2 A1 CE 9D DD 34 AE"
+        "frequency": "11107 V 7200",
+        "id": "TXout-1 RXout-9",
+        "key": "F3 4A FB 38 78 99 BF D0"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12548 H 7200",
-        "id": "ENC 2",
-        "key": "AD 18 DC A1 26 BA 37 17"
+        "frequency": "12566 H 7200",
+        "id": "DNK83_TUC_C1A_MAIN",
+        "key": "6B 9E 1D 26 4A 3F 2C B5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12556 H 7200",
+        "id": "OER/F656/COD17/ELMS LE CASTELLET26_INTERFEED RACE",
+        "key": "05 15 EE 08 DC 20 26 22"
     }
 ]
