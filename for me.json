@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11171 V 15000",
+        "id": "F558 PATH 2",
+        "key": "39 AF F6 DE 0D 35 66 A8"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11067 H 9875",
+        "id": "FBL Essen",
+        "key": "03 05 BF C7 DB 76 86 D7"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11053 V 7200",
         "id": "ECC Montpellier v Dragons",
