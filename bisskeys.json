@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "E-95 MAIN",
-    "key": "03 05 20 28 26 FA CA EA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10969 V 7200",
     "id": "Main SAUDI015",
     "key": "BB 4E 0C 15 0E 1C 4F 79"
@@ -25,33 +19,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11021 H 9875",
+    "id": "GVA_Fi03_BULI_07",
+    "key": "50 33 6A ED AF BF B1 1F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11023 V 7200",
     "id": "ITA633_MAIN",
     "key": "E2 5D 2C 6B 82 AC 34 62"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 V 7200",
-    "id": "UBB Bath Rugby",
-    "key": "34 AA 12 F0 AA 34 AA 88"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11162 H 7200",
     "id": "DNK83_TUC_C1B_MAIN",
     "key": "6B 9E 1D 26 4A 3F 2C B5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11189 H 7200",
-    "id": "ENC 10",
-    "key": "52 5A 01 AD 8A 2A 12 C6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 V 7200",
-    "id": "ENC 21",
-    "key": "31 5D A6 34 E7 CD 32 E6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -73,6 +55,18 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12548 H 7200",
+    "id": "ENC 2",
+    "key": "BA 26 AD 8D 17 CE 48 2D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12557 H 7200",
+    "id": "ENC 3",
+    "key": "AC 17 DA 9D 28 BD 39 1E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12566 H 7200",
     "id": "DNK83_TUC_C1A_MAIN",
     "key": "6B 9E 1D 26 4A 3F 2C B5"
@@ -82,6 +76,18 @@
     "frequency": "12575 H 7200",
     "id": "TKS.TRT.M13",
     "key": "4E 5B 23 CC 6D D4 3A 7B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "POL-080 MAIN",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12649 H 7500",
+    "id": "LPGA - Mexico Riviera Maya Open at Mayakoba",
+    "key": "A2 13 87 3C F6 2B 89 AA"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -94,12 +100,6 @@
     "frequency": "10768 V 33990",
     "id": "SUPPONOR MENA 1",
     "key": "5B D3 6B 99 62 CE 09 39"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11171 V 15000",
-    "id": "F558 PATH 2",
-    "key": "39 AF F6 DE 0D 35 66 A8"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -151,15 +151,15 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11052 H 4800",
-    "id": "CZE 046",
-    "key": "03 05 BF C7 DB 76 86 D7"
+    "frequency": "10973 V 9600",
+    "id": "TVP POL-32  ENC 1",
+    "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11079 H 9875",
-    "id": "FBL Jena",
-    "key": "03 05 BF C7 DB 76 86 D7"
+    "frequency": "10985 V 9600",
+    "id": "POL 48 ENC1",
+    "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
