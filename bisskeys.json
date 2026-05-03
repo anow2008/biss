@@ -7,6 +7,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10969 V 7200",
+    "id": "Main SAUDI015",
+    "key": "BB 4E 0C 15 0E 1C 4F 79"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10973 H 9875",
     "id": "E379 Feed 1",
     "key": "ED C2 10 BF 87 8D 0B 1F"
@@ -19,9 +25,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11021 H 9875",
-    "id": "GVA_Fi03_BULI_01",
-    "key": "74 FC A8 18 9F 8B D6 00"
+    "frequency": "11023 V 7200",
+    "id": "ITA633_MAIN",
+    "key": "E2 5D 2C 6B 82 AC 34 62"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,7 +37,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11190 H 7200",
+    "frequency": "11162 H 7200",
+    "id": "DNK83_TUC_C1B_MAIN",
+    "key": "6B 9E 1D 26 4A 3F 2C B5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11189 H 7200",
     "id": "ENC 10",
     "key": "52 5A 01 AD 8A 2A 12 C6"
   },
@@ -61,15 +73,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12575 H 7200",
-    "id": "TKS.TRT.M13",
-    "key": "4E 5B 23 CC 6D D4 3A 7B"
+    "frequency": "12566 H 7200",
+    "id": "DNK83_TUC_C1A_MAIN",
+    "key": "6B 9E 1D 26 4A 3F 2C B5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12640 H 7200",
-    "id": "E-228 Main",
-    "key": "AB BA 03 68 05 20 26 4B"
+    "frequency": "12575 H 7200",
+    "id": "TKS.TRT.M13",
+    "key": "4E 5B 23 CC 6D D4 3A 7B"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -111,19 +123,19 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "RMG Dubai HD",
-    "key": "C4 AA CB 39 AD D2 D2 51"
+    "key": "63 6B E7 B5 8E 6B D6 CF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 V 7200",
-    "id": "GCUK Enc 2",
-    "key": "C4 AA CB 39 AD D2 D2 51"
+    "frequency": "10838 V 7200",
+    "id": "PAOK VS OSFP A",
+    "key": "63 6B E7 B5 8E 6B D6 CF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7500",
-    "id": "TUR 112 MAIN",
-    "key": "FE 46 44 88 88 87 8B 9A"
+    "frequency": "10847 V 7500",
+    "id": "E333 M",
+    "key": "CF A4 AB 1E 13 4C 2D 8C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -133,26 +145,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12593 V 7200",
-    "id": "ShenZhen-M",
-    "key": "E6 7F F5 5A 8D 05 03 95"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL49 EN1 CHORZOW",
-    "key": "03 05 BF C7 DB 76 86 D7"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FBL Essen",
+    "frequency": "11052 H 4800",
+    "id": "CZE 046",
     "key": "03 05 BF C7 DB 76 86 D7"
   },
   {
@@ -163,14 +163,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12509 H 4938",
-    "id": "YSM-016 MAIN",
+    "frequency": "12556 H 4938",
+    "id": "YSM-021M",
     "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12576 H 7200",
-    "id": "2sat.nl HOL319 B/U",
-    "key": "F3 19 AD B9 03 CB 05 D3"
   }
 ]
