@@ -1,21 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 H 7200",
-    "id": "E-95 MAIN",
-    "key": "04 05 20 29 26 FA CA EA"
+    "frequency": "11462 V 3700",
+    "id": "Gryphon PV-2",
+    "key": "C6 9A 31 91 78 F8 EA 5A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 H 9875",
-    "id": "coleraine P1",
-    "key": "C3 91 C7 1B 8A 62 39 25"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12545 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
+    "frequency": "12736 V 7200",
+    "id": "ENC 2",
+    "key": "C6 9A 31 91 78 F8 EA 5A"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -27,13 +21,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "RMG Dubai HD",
-    "key": "7E EB B1 1A 2D DE EE F9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7200",
-    "id": "GCUK Enc 2",
-    "key": "7E EB B1 1A 2D DE EE F9"
+    "key": "12 34 56 9C 78 91 23 2C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
