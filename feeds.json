@@ -40,11 +40,5 @@
         "frequency": "11067 H 9875",
         "id": "FBL Frankfurt",
         "key": "04 05 EE F7 AB 65 56 66"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12649 H 7200",
-        "id": "D-109",
-        "key": "20 26 AB F1 DC 05 05 E6"
     }
 ]
