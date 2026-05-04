@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10964 V 17140",
+        "id": "Canal Plus Arsenal Main",
+        "key": "BA DA 65 F9 48 FA 11 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12545 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 H 7200",
+        "id": "E-95 MAIN",
+        "key": "04 05 20 29 26 FA CA EA"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11067 H 9875",
         "id": "FBL Frankfurt",
@@ -16,29 +34,5 @@
         "frequency": "12630 V 9875",
         "id": "E349 BU",
         "key": "6E E6 AF 03 11 BF CF 9F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11105 H 9875",
-        "id": "UKI 1940  P1",
-        "key": "C3 91 C7 1B 8A 62 39 25"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL-10 ENC2",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL023 TVN24 WAW p2",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "71 77 03 EB 3A 0E 91 D9"
     }
 ]
