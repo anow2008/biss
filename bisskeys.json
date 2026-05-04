@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10964 V 17140",
-    "id": "Canal Plus Arsenal Main",
-    "key": "04 05 20 29 26 FA CA EA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11023 H 7200",
     "id": "E-95 MAIN",
     "key": "04 05 20 29 26 FA CA EA"
@@ -33,24 +27,18 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "RMG Dubai HD",
-    "key": "12 34 56 9C 78 91 23 2C"
+    "key": "7E EB B1 1A 2D DE EE F9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10829 V 7200",
+    "id": "GCUK Enc 2",
+    "key": "7E EB B1 1A 2D DE EE F9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL49 EN1 CHORZOW",
-    "key": "04 05 EE F7 AB 65 56 66"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FBL Frankfurt",
-    "key": "04 05 EE F7 AB 65 56 66"
   }
 ]
