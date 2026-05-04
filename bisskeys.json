@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 H 9875",
-    "id": "UKI 1940  P1",
-    "key": "C3 91 C7 1B 8A 62 39 25"
+    "frequency": "11078 H 4938",
+    "id": "ARM-005 Main",
+    "key": "4C 47 50 E3 67 D5 4E 8A E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -22,23 +22,5 @@
     "frequency": "12438 H 27500",
     "id": "FEED 2",
     "key": "12 34 56 9C 78 91 23 2C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10971 V 4800",
-    "id": "POL-10 ENC2",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL023 TVN24 WAW P1",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
-    "id": "POL023 TVN24 WAW p2",
-    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
