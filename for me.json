@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10964 V 17140",
+        "id": "Canal Plus Arsenal Main",
+        "key": "BA DA 65 F9 48 FA 11 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 H 7200",
+        "id": "E-95 MAIN",
+        "key": "04 05 20 29 26 FA CA EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12545 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11067 H 9875",
+        "id": "FBL Frankfurt",
+        "key": "04 05 EE F7 AB 65 56 66"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12630 V 9875",
         "id": "E349 Main",
         "key": "6E E6 AF 03 11 BF CF 9F"
