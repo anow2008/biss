@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12630 V 9875",
+        "id": "E349 Main",
+        "key": "6E E6 AF 03 11 BF CF 9F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11105 H 9875",
         "id": "UKI 1940  P1",
         "key": "C3 91 C7 1B 8A 62 39 25"
