@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 2",
+        "key": "C6 9A 31 91 78 F8 EA 5A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10829 V 7200",
+        "id": "GCUK Enc 2",
+        "key": "7E EB B1 1A 2D DE EE F9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10964 V 17140",
         "id": "Canal Plus Arsenal Main",
         "key": "BA DA 65 F9 48 FA 11 53"
@@ -28,11 +40,5 @@
         "frequency": "12649 H 7200",
         "id": "D-109",
         "key": "20 26 AB F1 DC 05 05 E6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12630 V 9875",
-        "id": "E349 BU",
-        "key": "6E E6 AF 03 11 BF CF 9F"
     }
 ]
