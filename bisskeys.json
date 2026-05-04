@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11462 V 3700",
-    "id": "Gryphon PV-2",
-    "key": "C6 9A 31 91 78 F8 EA 5A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "C6 9A 31 91 78 F8 EA 5A"
@@ -16,12 +10,6 @@
     "frequency": "10732 V 33990",
     "id": "OVERON 1",
     "key": "4C 47 50 E3 67 D5 4E 8A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "RMG Dubai HD",
-    "key": "12 34 56 9C 78 91 23 2C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
