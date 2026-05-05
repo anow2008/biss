@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10723 V 15000",
+        "id": "OCC 6",
+        "key": "EA BF E5 8E A2 DF F7 78"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12736 V 7200",
         "id": "ENC 1",
