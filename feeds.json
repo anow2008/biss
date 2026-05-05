@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 1",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11588 H 7200",
         "id": "E-228 Main",
         "key": "FF AE D0 7D 50 5E 58 06"
@@ -34,11 +40,5 @@
         "frequency": "12510 V 7200",
         "id": "Enc.1 D-571 Verl",
         "key": "FF EC D0 BB 50 5E 58 06"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10964 V 17140",
-        "id": "Canal Plus Arsenal Main",
-        "key": "BA DA 65 F9 48 FA 11 53"
     }
 ]
