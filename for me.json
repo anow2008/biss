@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7120",
+        "id": "NLEMG HOL312-1",
+        "key": "AE 33 A2 83 C4 B8 12 8E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12438 H 27500",
+        "id": "Tszyu v Diaz",
+        "key": "7F 6E 5D 4A 4C 3B 2A B1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11070 H 7200",
         "id": "IMG A EU",
         "key": "B9 B5 C5 33 8C EB F6 6D"
