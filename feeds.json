@@ -1,56 +1,38 @@
 [
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10970 V 4800",
-        "id": "POL-10 ENC2",
-        "key": "AB BA 26 8B DC AE 05 8F"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12551 H 4938",
+        "id": "MNE-001 main",
+        "key": "AB BA 20 85 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 V 7120",
-        "id": "NLEMG HOL312-1",
-        "key": "AE 33 A2 83 C4 B8 12 8E"
+        "frequency": "11005 V 7200",
+        "id": "Hapoev vs. Real BUL006 Main",
+        "key": "84 BC 86 C6 85 55 9C 76"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "Tszyu v Diaz",
-        "key": "7F 6E 5D 4A 4C 3B 2A B1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12609 V 9700",
-        "id": "POL-142  Main",
-        "key": "FF 45 D0 14 50 5E 66 14"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12593 V 7200",
-        "id": "ShenZhen-M",
-        "key": "FF 58 D0 27 50 5E 67 15"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POLWAR018",
-        "key": "77 93 52 5C 99 08 86 27"
+        "frequency": "12583 V 7500",
+        "id": "E333 M",
+        "key": "E3 8F C6 38 84 4B FA C9"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12640 H 7200",
-        "id": "D-109",
-        "key": "20 26 AA F0 BB 05 05 C5"
+        "frequency": "12510 V 7200",
+        "id": "Enc.1 D-571 Verl",
+        "key": "FF EC D0 BB 50 5E 58 06"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "B9 B5 C5 33 8C EB F6 6D"
+        "frequency": "10964 V 17140",
+        "id": "Canal Plus Arsenal Main",
+        "key": "BA DA 65 F9 48 FA 11 53"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12649 H 7200",
-        "id": "D-109",
-        "key": "20 26 AB F1 DC 05 05 E6"
+        "frequency": "12630 V 9875",
+        "id": "E349 Main",
+        "key": "6E E6 AF 03 11 BF CF 9F"
     }
 ]
