@@ -7,50 +7,20 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 V 7200",
-    "id": "Hapoev vs. Real BUL006 Main",
-    "key": "84 BC 86 C6 85 55 9C 76"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "B9 B5 C5 33 8C EB F6 6D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7120",
-    "id": "NLEMG HOL312-1",
-    "key": "AE 33 A2 83 C4 B8 12 8E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "Enc.1 D-571 Verl",
-    "key": "FF EC D0 BB 50 5E 58 06"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12551 H 4938",
-    "id": "MNE-001 main",
-    "key": "AB BA 20 85 25 20 26 6B"
+    "frequency": "11588 H 7200",
+    "id": "E-228 Main",
+    "key": "FF AE D0 7D 50 5E 58 06"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "RMG Dubai HD",
-    "key": "7E EB B1 1A 2D DE EE F9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "GCUK Enc 9",
-    "key": "7E EB B1 1A 2D DE EE F9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
-    "id": "DFB -Vfb stuttgart vs Sport-Club Freiburg",
+    "frequency": "12437 H 27500",
+    "id": "Tszyu v Diaz",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
   }
 ]
