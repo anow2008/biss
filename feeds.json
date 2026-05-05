@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10723 V 15000",
+        "id": "OCC 7",
+        "key": "3B BF D6 D0 A2 DC F7 75"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10723 V 15000",
+        "id": "OCC 6",
+        "key": "EA BF E5 8E A2 DF F7 78"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12736 V 7200",
         "id": "ENC 1",
@@ -34,11 +46,5 @@
         "frequency": "12583 V 7500",
         "id": "E333 M",
         "key": "E3 8F C6 38 84 4B FA C9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7200",
-        "id": "Enc.1 D-571 Verl",
-        "key": "FF EC D0 BB 50 5E 58 06"
     }
 ]
