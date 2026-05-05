@@ -1,15 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
+    "frequency": "11023 V 7200",
+    "id": "ARM-006 Main",
     "key": "B9 B5 C5 33 8C EB F6 6D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7120",
-    "id": "NLEMG HOL312-1",
-    "key": "AE 33 A2 83 C4 B8 12 8E"
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "B9 B5 C5 33 8C EB F6 6D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
