@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10964 V 17140",
+        "id": "Canal Plus Arsenal Main",
+        "key": "BA DA 65 F9 48 FA 11 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11005 V 7200",
+        "id": "Hapoev vs. Real BUL006 Main",
+        "key": "84 BC 86 C6 85 55 9C 76"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "Enc.1 D-571 Verl",
+        "key": "FF EC D0 BB 50 5E 58 06"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12545 H 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12551 H 4938",
+        "id": "MNE-001 main",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "GCUK Enc 9",
+        "key": "7E EB B1 1A 2D DE EE F9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11606 V 7120",
         "id": "NLEMG HOL312-1",
         "key": "AE 33 A2 83 C4 B8 12 8E"
