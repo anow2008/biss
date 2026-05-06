@@ -40,11 +40,5 @@
         "frequency": "11005 V 7200",
         "id": "Hapoev vs. Real BUL006 Main",
         "key": "84 BC 86 C6 85 55 9C 76"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7500",
-        "id": "E333 M",
-        "key": "E3 8F C6 38 84 4B FA C9"
     }
 ]
