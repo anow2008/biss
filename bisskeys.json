@@ -64,17 +64,5 @@
     "frequency": "12437 H 27500",
     "id": "Tszyu v Diaz",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FBL FC Bayern",
-    "key": "06 05 BF CA DD 20 11 0E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11088 H 7200",
-    "id": "D535_EHF_Berlin_1",
-    "key": "E4 4F FC 2F ED 05 06 F8"
   }
 ]
