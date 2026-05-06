@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12510 V 7200",
+        "id": "SWE-041 EHF AAL-SPO",
+        "key": "E4 4F FD 30 AD 05 06 B8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10982 V 15000",
+        "id": "MUN-PSG",
+        "key": "ED BE 78 23 54 DA 96 C4"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11067 H 9875",
+        "id": "FBL FC Bayern",
+        "key": "06 05 BF CA DD 20 11 0E"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10996 V 7500",
         "id": "POL086 TVN24 WAW",
@@ -22,23 +46,5 @@
         "frequency": "12630 V 9875",
         "id": "E349 Main",
         "key": "6E E6 AF 03 11 BF CF 9F"
-    },
-    {
-        "satellite": "@Abo0Hamdy",
-        "frequency": "10970 H 4827",
-        "id": "",
-        "key": "6A 56 E9 A9 84 E2 FC 62"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 H 7200",
-        "id": "Tszyu v Diaz",
-        "key": "7F 6E 5D 4A 4C 3B 2A B1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "7E 59 D5 AC 2E 79 D8 7F"
     }
 ]
