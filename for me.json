@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10970 H 4827",
+        "id": "CRO-025 M01 FEED B2",
+        "key": "6A 56 E9 A9 84 E2 FC 62"
+    },
+    {
         "satellite": "Eutelsat 16A",
         "frequency": "10974 V 9600",
         "id": "POL138_A",
