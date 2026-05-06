@@ -1,7 +1,13 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
+    "frequency": "10970 H 4830",
+    "id": "CRO-025 M01 FEED B2",
+    "key": "6A 56 E9 A9 84 E2 FC 62"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "7E 59 D5 AC 2E 79 D8 7F"
   },
@@ -19,8 +25,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11005 V 7500",
-    "id": "POL086 TVN24 WAW",
+    "id": "POL047 TVN WAW",
     "key": "77 93 52 5C 99 08 86 27"
   }
 ]
