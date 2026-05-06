@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11060 V 3600",
-    "id": "Unname",
-    "key": "7E 59 D5 AC 2E 79 D8 7F"
+    "frequency": "10982 V 15000",
+    "id": "MUN-PSG",
+    "key": "ED BE 78 23 54 DA 96 C4"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -13,56 +13,26 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12630 V 9875",
-    "id": "E349 Main",
-    "key": "6E E6 AF 03 11 BF CF 9F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12633 H 5000",
-    "id": "ITA 647 B",
-    "key": "D5 1B 0F FF 07 B5 97 53"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12645 H 5000",
-    "id": "ITA39_A",
-    "key": "D5 1B 0F FF 07 B5 97 53"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12651 H 5000",
-    "id": "ITA39_B",
-    "key": "D5 1B 0F FF 07 B5 97 53"
+    "frequency": "12593 V 7200",
+    "id": "POL-058_ch1",
+    "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
-    "id": "DFB -Vfb stuttgart vs Sport-Club Freiburg",
+    "id": "Tszyu v Diaz",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10982 V 4800",
-    "id": "POL-25 ENC1",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10988 V 4800",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10996 V 7500",
-    "id": "POL086 TVN24 WAW",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
     "id": "POL047 TVN WAW",
     "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11067 H 9875",
+    "id": "FBL FC Bayern",
+    "key": "06 05 BF CA DD 20 11 0E"
   }
 ]
