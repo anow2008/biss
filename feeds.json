@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 H 7200",
+        "id": "Tszyu v Diaz",
+        "key": "7F 6E 5D 4A 4C 3B 2A B1"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL086 TVN24 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "7E 59 D5 AC 2E 79 D8 7F"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10723 V 15000",
         "id": "OCC 7",
@@ -34,11 +52,5 @@
         "frequency": "12551 H 4938",
         "id": "MNE-001 main",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11005 V 7200",
-        "id": "Hapoev vs. Real BUL006 Main",
-        "key": "84 BC 86 C6 85 55 9C 76"
     }
 ]
