@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10982 V 15000",
+        "id": "MUN-PSG",
+        "key": "ED BE 78 23 54 DA 96 C4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11067 H 9875",
+        "id": "FBL FC Bayern",
+        "key": "06 05 BF CA DD 20 11 0E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12630 V 9875",
         "id": "E349 Main",
         "key": "6E E6 AF 03 11 BF CF 9F"
