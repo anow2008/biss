@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12630 V 9875",
+        "id": "E349 Main",
+        "key": "6E E6 AF 03 11 BF CF 9F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12633 H 5000",
+        "id": "ITA 647 B",
+        "key": "D5 1B 0F FF 07 B5 97 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12645 H 5000",
+        "id": "ITA39_A",
+        "key": "D5 1B 0F FF 07 B5 97 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12651 H 5000",
+        "id": "ITA39_B",
+        "key": "D5 1B 0F FF 07 B5 97 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10970 H 4827",
         "id": "CRO-025 M01 FEED B2",
         "key": "6A 56 E9 A9 84 E2 FC 62"
