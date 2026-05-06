@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11246 H 7200",
+        "id": "ITA 654 B",
+        "key": "55 82 8F 66 07 B5 65 21"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 V 7200",
+        "id": "Ita 863 Main",
+        "key": "72 1D EF 7E 9C 9C FE 36"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 H 7200",
+        "id": "D-312",
+        "key": "1F 2E 3D 8A 4C 5B 6A 11"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11252 H 2500",
+        "id": "E-OCC 8",
+        "key": "F5 1C 05 16 07 B6 42 FF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12649 H 7200",
+        "id": "ITA349 main",
+        "key": "4B 3E 6B F4 07 B6 22 DF"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11088 H 7200",
+        "id": "D535_EHF_Berlin_1",
+        "key": "E4 4F FC 2F ED 05 06 F8"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12593 V 7200",
         "id": "POL-058_ch1",
@@ -28,23 +64,5 @@
         "frequency": "10996 V 7500",
         "id": "POL086 TVN24 WAW",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10988 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12651 H 5000",
-        "id": "ITA39_B",
-        "key": "D5 1B 0F FF 07 B5 97 53"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12630 V 9875",
-        "id": "E349 Main",
-        "key": "6E E6 AF 03 11 BF CF 9F"
     }
 ]
