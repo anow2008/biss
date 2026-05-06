@@ -13,6 +13,12 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 33990",
+    "id": "OCC 6",
+    "key": "D3 C1 31 C5 B3 E9 4B E7"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10768 V 33990",
     "id": "OCC 1",
     "key": "8A BF 8B D4 A2 D4 47 BD"
