@@ -1,15 +1,27 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL046",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10983 V 4800",
+        "id": "POL-10 ENC1",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12609 V 9700",
+        "id": "POL-142  Main",
+        "key": "D0 50 7E 9E 66 FF 45 AA"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11190 V 15000",
         "id": "Ziggo DR",
         "key": "44 4A 22 B0 2C 11 1D 5A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10988 V 4800",
-        "id": "POL-55 ENC1",
-        "key": "AB BA 26 8B DC AE 05 8F"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -22,35 +34,5 @@
         "frequency": "11070 H 7200",
         "id": "IMG A EU",
         "key": "FD FA 2F 26 BF A0 7C DB"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "OCC 8",
-        "key": "2A C1 C7 B2 B3 EF F8 9A"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "OCC 7",
-        "key": "6B C1 9A C6 B3 EE 48 E9"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "OCC 6",
-        "key": "D3 C1 31 C5 B3 E9 4B E7"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 33990",
-        "id": "OCC 5",
-        "key": "91 BF 4F 9F A2 DE 47 C7"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 33990",
-        "id": "OCC 4",
-        "key": "A2 C1 7C DF B3 E9 48 E4"
     }
 ]
