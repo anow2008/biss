@@ -1,32 +1,20 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "TV-101",
-    "key": "F2 01 00 F3 BB 54 6F 7E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11006 H 4830",
-    "id": "Match 1 B2 Main",
-    "key": "F2 01 00 F3 BB 54 6F 7E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11011 H 4830",
-    "id": "D565 M2 MAIN B2",
-    "key": "F2 01 00 F3 BB 54 6F 7E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "FD FA 2F 26 BF A0 7C DB"
+    "key": "BA E3 D6 73 D5 1F FA EE E"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10768 V 33990",
+    "id": "OCC 1",
+    "key": "BA E3 D6 73 D5 1F FA EE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
-    "id": "enfusion 160",
+    "id": "Tszyu v Diaz",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
   },
   {
