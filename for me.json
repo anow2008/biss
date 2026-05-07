@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11006 H 4827",
+        "id": "Match 1 B2 Main",
+        "key": "F2 01 00 F3 BB 54 6F 7E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11011 H 4827",
+        "id": "D565 M2 MAIN B2",
+        "key": "F2 01 00 F3 BB 54 6F 7E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11108 H 3750",
+        "id": "ITA 866 HD A",
+        "key": "FE ED A0 8B 20 26 57 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10978 V 7200",
         "id": "Hapoev vs. Real BUL006 Main",
         "key": "AA 29 AA 7D FD 17 4E 62"
