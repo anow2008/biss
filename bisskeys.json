@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7200",
+    "id": "SLO-008 Tx 1",
+    "key": "FD FA 2F 26 BF A0 7C DB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "FD FA 2F 26 BF A0 7C DB"
@@ -13,15 +19,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12569 H 14400",
-    "id": "NEP 1",
-    "key": "D5 3B FB 0B A7 41 99 81"
+    "frequency": "12510 V 7200",
+    "id": "SLQ-008 M",
+    "key": "07 05 AF BB EF 20 26 35"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12630 V 9875",
-    "id": "E349 Main",
-    "key": "6E E6 AF 03 11 BF CF 9F"
+    "frequency": "12569 H 14400",
+    "id": "NEP 1",
+    "key": "D5 3B FB 0B A7 41 99 81"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -31,7 +37,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
+    "frequency": "12437 H 27500",
     "id": "Tszyu v Diaz",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
   },
@@ -40,5 +46,17 @@
     "frequency": "12609 V 9700",
     "id": "POL-142  Main",
     "key": "D0 50 7E 9E 66 FF 45 AA"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10970 V 4800",
+    "id": "POL - 054 Kielce",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10985 V 9600",
+    "id": "POL-141 ENC1",
+    "key": "AB BA 26 8B DC AE 05 8F"
   }
 ]
