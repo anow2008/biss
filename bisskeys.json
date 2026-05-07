@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "SLO-008 Tx 1",
-    "key": "FD FA 2F 26 BF A0 7C DB"
+    "frequency": "10978 V 7200",
+    "id": "Hapoev vs. Real BUL006 Main",
+    "key": "AA 29 AA 7D FD 17 4E 62"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,15 +19,39 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11569 V 9875",
+    "id": "ENC-27",
+    "key": "73 87 56 50 12 0B 91 AE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11579 H 7200",
+    "id": "D-312",
+    "key": "D0 50 7E 9E 44 FF AC EF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11588 H 7200",
+    "id": "D 312",
+    "key": "E4 4F FC 2F DD 05 06 E8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12510 V 7200",
     "id": "SLQ-008 M",
     "key": "07 05 AF BB EF 20 26 35"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12569 H 14400",
-    "id": "NEP 1",
-    "key": "D5 3B FB 0B A7 41 99 81"
+    "frequency": "12545 H 4938",
+    "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "POL103",
+    "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -49,14 +73,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10970 V 4800",
-    "id": "POL - 054 Kielce",
+    "frequency": "10985 V 9600",
+    "id": "POL-141 ENC1",
     "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 05 8F"
+    "frequency": "10996 V 7500",
+    "id": "POL047 TVN WAW",
+    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
