@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11579 H 7200",
+        "id": "D-312",
+        "key": "D0 50 7E 9E 44 FF AC EF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL103",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12551 H 4938",
+        "id": "YSM-013M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12510 V 7200",
         "id": "SLQ-008 M",
         "key": "07 05 AF BB EF 20 26 35"
@@ -46,11 +64,5 @@
         "frequency": "12569 H 14400",
         "id": "NEP 2",
         "key": "D5 3B FB 0B A7 41 99 81"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL046",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
