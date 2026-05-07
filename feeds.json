@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12510 V 7200",
+        "id": "SLQ-008 M",
+        "key": "07 05 AF BB EF 20 26 35"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10985 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11604 H 9875",
+        "id": "EMG HOL219-2",
+        "key": "D4 83 EA 41 57 C8 21 40"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL219-1",
+        "key": "D8 D0 5D 05 1A 4D C0 27"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11569 V 9875",
+        "id": "ENC-27",
+        "key": "73 87 56 50 12 0B 91 AE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11487 V 7500",
+        "id": "LPGA - Mizuho Americas Open  Day 1",
+        "key": "15 22 B4 EB 2E 22 AE FE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12630 V 9875",
         "id": "E349 Main",
         "key": "6E E6 AF 03 11 BF CF 9F"
@@ -16,23 +52,5 @@
         "frequency": "10996 V 7500",
         "id": "POL046",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10983 V 4800",
-        "id": "POL-10 ENC1",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12609 V 9700",
-        "id": "POL-142  Main",
-        "key": "D0 50 7E 9E 66 FF 45 AA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11190 V 15000",
-        "id": "Ziggo DR",
-        "key": "44 4A 22 B0 2C 11 1D 5A"
     }
 ]
