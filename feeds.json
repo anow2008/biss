@@ -34,17 +34,5 @@
         "frequency": "10978 V 7200",
         "id": "Hapoev vs. Real BUL006 Main",
         "key": "AA 29 AA 7D FD 17 4E 62"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11579 H 7200",
-        "id": "D-312",
-        "key": "D0 50 7E 9E 44 FF AC EF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12593 V 7200",
-        "id": "POL103",
-        "key": "15 58 35 A2 71 42 63 16"
     }
 ]
