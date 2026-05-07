@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "SLQ-008 M",
+        "key": "07 05 AF BB EF 20 26 35"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12545 H 4938",
+        "id": "YSM-012 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12551 H 4938",
+        "id": "YSM-013M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11487 V 7500",
         "id": "LPGA - Mizuho Americas Open  Day 1",
         "key": "15 22 B4 EB 2E 22 AE FE"
