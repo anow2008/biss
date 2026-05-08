@@ -3,25 +3,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "66 F6 23 7F 71 D3 ED 31"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11097 V 7120",
-    "id": "EFL Championship Hull v Millwall",
-    "key": "66 F6 23 7F 71 D3 ED 31"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 H 9875",
-    "id": "ITA548 M1 EU Feed Main",
-    "key": "AF 12 7C 3D B4 B2 F8 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12645 H 14400",
-    "id": "PRINCIPAL C+ BEZ/BIA",
-    "key": "F4 86 26 A0 05 08 F1 FE"
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,15 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "NLFLEV_HOL-048 CH-A",
-    "key": "11 A8 CB 84 DA 65 4A 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
-    "id": "ENC 2",
-    "key": "08 AB BA 6D 05 26 20 4B"
+    "id": "ENC 6",
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -49,38 +25,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10823 V 3670",
-    "id": "GCUK Enc 1",
-    "key": "7E EB B1 1A 2D DE EE F9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10838 V 7200",
-    "id": "GCUK Enc 9",
-    "key": "7E EB B1 1A 2D DE EE F9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
-    "id": "enfusion 160",
+    "id": "Tszyu v Diaz",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12609 V 9700",
-    "id": "POL-142  Main",
-    "key": "FF 45 D0 14 50 8E 66 44"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10980 H 3600",
-    "id": "Fal3 Enc2",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 05 8F"
   }
 ]
