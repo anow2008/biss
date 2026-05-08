@@ -24,64 +24,16 @@
     "key": "AF 12 7C 3D B4 B2 F8 5E"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11462 V 4938",
-    "id": "ROU015  MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "HBL Minden",
-    "key": "20 26 AB F1 DC 08 05 E9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL-080 Beckup",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12645 H 14400",
-    "id": "PRINCIPAL C+ BEZ/BIA",
-    "key": "F4 86 26 A0 05 08 F1 FE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7500",
-    "id": "ENC 1",
-    "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "NLFLEV_HOL-048 CH-A",
-    "key": "11 A8 CB 84 DA 65 4A 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 2",
-    "key": "08 AB BA 6D 05 26 20 4B"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 33990",
     "id": "OVERON 1",
-    "key": "4C 47 50 E3 67 D5 4E 8A"
+    "key": "5D F8 3A 8F 7B F4 1E 8D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "RMG Dubai HD",
-    "key": "A2 5B 64 61 D8 34 C4 D0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7500",
-    "id": "TUR 112 MAIN",
-    "key": "A2 5B 64 61 D8 34 C4 D0"
+    "frequency": "10823 V 3670",
+    "id": "GCUK Enc 1",
+    "key": "7E EB B1 1A 2D DE EE F9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -92,7 +44,7 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
-    "id": "Tszyu v Diaz",
+    "id": "DFB -Vfb stuttgart vs Sport-Club Freiburg",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
   },
   {
@@ -112,11 +64,5 @@
     "frequency": "10985 V 9600",
     "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FBL FC NÃ¼rnberg",
-    "key": "08 05 AF BC ED 73 54 B4"
   }
 ]
