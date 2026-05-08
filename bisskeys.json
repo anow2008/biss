@@ -7,6 +7,18 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11088 V 7120",
+    "id": "Pitch Gloucester v Sale Rugby",
+    "key": "41 23 AD 11 CA 55 66 85"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11097 V 7120",
+    "id": "EFL Championship Hull v Millwall",
+    "key": "66 F6 23 7F 71 D3 ED 31"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11105 H 9875",
     "id": "ITA548 M1 EU Feed Main",
     "key": "AF 12 7C 3D B4 B2 F8 5E"
@@ -16,12 +28,6 @@
     "frequency": "11462 V 4938",
     "id": "ROU015  MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11487 V 7500",
-    "id": "LPGA - Mizuho Americas Open  Day 2",
-    "key": "15 22 B4 EB 2E 22 AE FE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,6 +85,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10838 V 7200",
+    "id": "GCUK Enc 9",
+    "key": "7E EB B1 1A 2D DE EE F9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
     "id": "Tszyu v Diaz",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
@@ -93,18 +105,18 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10980 H 3600",
     "id": "Fal3 Enc2",
-    "key": "08 05 AF BC ED 73 54 B4"
+    "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10985 V 9600",
+    "id": "TVP POL-32  ENC 1",
+    "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11067 H 9875",
     "id": "FBL FC NÃ¼rnberg",
     "key": "08 05 AF BC ED 73 54 B4"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12509 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
