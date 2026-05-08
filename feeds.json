@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12630 V 9875",
+        "id": "E349 Main",
+        "key": "6E E6 AF 03 11 BF CF 9F"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10768 V 33990",
         "id": "OCC 1",
@@ -16,29 +22,5 @@
         "frequency": "12557 H 4938",
         "id": "YSM-016 MAIN",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11108 H 3750",
-        "id": "ITA 866 HD A",
-        "key": "FE ED A0 8B 20 26 57 9D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11569 V 9875",
-        "id": "ENC-27",
-        "key": "BE 32 BC AC 21 3B 6F CB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11588 H 7200",
-        "id": "D 312",
-        "key": "E4 4F FC 2F DD 05 06 E8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10978 V 7200",
-        "id": "Hapoev vs. Real BUL006 Main",
-        "key": "AA 29 AA 7D FD 17 4E 62"
     }
 ]
