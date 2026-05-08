@@ -1,26 +1,50 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12538 V 7200",
+        "id": "ITA633_A",
+        "key": "C3 92 E2 37 2E 1D C7 12"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 V 7120",
+        "id": "EDM HD ENC-1",
+        "key": "B2 C5 D3 4A E6 F4 A7 81"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12630 V 9875",
         "id": "E349 Main",
         "key": "6E E6 AF 03 11 BF CF 9F"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 33990",
-        "id": "OCC 1",
-        "key": "BA E3 D6 73 D5 1F FA EE"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11487 V 7500",
+        "id": "LPGA - Mizuho Americas Open  Day 2",
+        "key": "15 22 B4 EB 2E 22 AE FE"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11011 H 4827",
-        "id": "D565 M2 MAIN B2",
-        "key": "F2 01 00 F3 BB 54 6F 7E"
+        "frequency": "11021 V 9875",
+        "id": "GVA_Fi03",
+        "key": "6C E1 2E 7B D6 2A 29 29"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12557 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
+        "frequency": "11105 H 9875",
+        "id": "ITA548 M1 EU Feed Main",
+        "key": "AF 12 7C 3D B4 B2 F8 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12727 V 7500",
+        "id": "NLFLEV_HOL-048 CH-A",
+        "key": "11 A8 CB 84 DA 65 4A 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12645 H 14400",
+        "id": "PRINCIPAL C BEZ/BIA",
+        "key": "F4 86 26 A0 05 08 F1 FE"
     }
 ]
