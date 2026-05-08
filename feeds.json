@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 33990",
+        "id": "OVERON 2",
+        "key": "72 44 5B 11 2C BE F5 DF"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12736 V 7200",
         "id": "ENC 6",
