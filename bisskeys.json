@@ -1,9 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11004 V 7200",
+    "id": "WSHT ENC58",
+    "key": "88 AC 34 68 D2 76 CB 13"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "09 05 CA D8 46 92 DB B3"
+    "key": "88 AC 34 68 D2 76 CB 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -14,8 +20,8 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11487 V 7500",
-    "id": "CRO-005",
-    "key": "12 34 AB F1 CD 20 26 13"
+    "id": "LPGA - Mizuho Americas Open  Day 3",
+    "key": "15 22 B4 EB 2E 22 AE FE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,27 +37,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "E115 G65 VIA 1",
-    "key": "63 1F F7 79 15 00 D1 E6"
+    "frequency": "11523 V 7200",
+    "id": "UFC RMC PRI",
+    "key": "88 AC 34 68 D2 76 CB 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "HBL Flensburg",
-    "key": "20 26 AB F1 DC 09 05 EA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12573 H 7200",
+    "frequency": "12574 H 7200",
     "id": "ENC 11",
     "key": "09 05 CA D8 46 92 DB B3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7120",
-    "id": "EFL League 1 Semi Final A (1st leg)",
-    "key": "70 02 23 95 DA 32 CA D6"
+    "frequency": "12640 H 7500",
+    "id": "AFD",
+    "key": "1D 38 BC 11 A5 9A AC EB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12649 H 7500",
+    "id": "AFD",
+    "key": "1D 38 BC 11 A5 9A AC EB"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,14 +67,32 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12695 V 7200",
-    "id": "SLQ-008 M",
-    "key": "A4 B4 BB 13 32 D3 CA CF"
+    "frequency": "12691 V 15000",
+    "id": "ZUFFA BOXING",
+    "key": "21 2C 73 C0 2B 90 8A 45"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "NLFLEV_HOL-048 CH-A",
-    "key": "11 A8 CB 84 DA 65 4A 89"
+    "frequency": "12736 V 7200",
+    "id": "UFC 328 : All Fights",
+    "key": "88 AC 34 68 D2 76 CB 13"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "DA 93 04 71 EA BD 5C 03"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11247 H 7200",
+    "id": "ENC 10",
+    "key": "09 05 CA D8 46 92 DB B3"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11273 H 7200",
+    "id": "ALG003",
+    "key": "09 05 CA D8 46 92 DB B3"
   }
 ]
