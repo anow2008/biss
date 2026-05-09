@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 H 7120",
+    "id": "ITA727ENC1",
+    "key": "62 B4 32 48 62 2A D3 5F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 V 7200",
+    "id": "LAT-002m",
+    "key": "3F 87 27 ED 99 52 30 1B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11005 H 7120",
+    "id": "ITA727 Enc2",
+    "key": "62 B4 32 48 62 2A D3 5F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11079 V 7120",
+    "id": "Middlesborough v Southampton",
+    "key": "22 4D 35 A4 99 2F F4 BC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11469 V 7200",
+    "id": "E-285 BCKUP",
+    "key": "09 05 20 2E 26 FA CA EA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11552 V 7200",
+    "id": "E-95 MAIN",
+    "key": "09 05 AA B8 BB 20 26 01"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11606 V 7200",
+    "id": "E115 G65 VIA 1",
+    "key": "63 1F F7 79 15 00 D1 E6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12569 H 14400",
+    "id": "NEP 1",
+    "key": "D5 3B FB 0B A7 41 99 81"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12593 V 7200",
+    "id": "POL-058_ch1",
+    "key": "07 BB 01 C3 AE 26 CF A3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12647 V 7120",
+    "id": "Pitch Leicester v Northampton",
+    "key": "A3 32 6C 41 C1 87 65 AD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12649 H 7200",
+    "id": "Top10",
+    "key": "3E 83 F2 B3 CA 53 9D BA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12656 V 7200",
+    "id": "EFL League 1 Semi Final A (1st leg)",
+    "key": "70 02 23 95 DA 32 CA D6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 H 7200",
+    "id": "BEL68 - Enc.1 WEC",
+    "key": "07 15 AC C8 BB 20 26 01"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "NLFLEV_HOL-048 CH-A",
+    "key": "11 A8 CB 84 DA 65 4A 89"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 33990",
+    "id": "OVERON 1",
+    "key": "FE DA 79 51 9D 27 EA AE"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11305 V 7200",
+    "id": "E-228 Main",
+    "key": "CA CA 20 B4 20 CA CA B4"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "RMG Dubai HD",
+    "key": "F8 8A 11 93 AD 00 81 2E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10830 V 7200",
+    "id": "FIG Varna",
+    "key": "F8 8A 11 93 AD 00 81 2E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10846 V 9875",
+    "id": "IPF",
+    "key": "83 7E C5 C6 E1 F9 FC D6"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11592 H 9600",
+    "id": "NLEMG HOL219-1",
+    "key": "4B 08 E9 3C D4 10 86 6A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11604 H 9875",
+    "id": "EMG HOL219-2",
+    "key": "D4 83 EA 41 57 C8 21 40"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12438 H 27500",
+    "id": "Tszyu v Diaz",
+    "key": "7F 6E 5D 4A 4C 3B 2A B1"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  }
+]
