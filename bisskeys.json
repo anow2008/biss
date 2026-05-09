@@ -13,49 +13,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11478 V 7500",
-    "id": "ALG 005 Main",
-    "key": "09 05 CA D8 46 92 DB B3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11487 V 7500",
-    "id": "LPGA - Mizuho Americas Open  Day 3",
-    "key": "15 22 B4 EB 2E 22 AE FE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11505 V 7200",
-    "id": "E-228 Main",
-    "key": "AB BA 20 85 26 05 09 34"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11514 V 7200",
-    "id": "E-289",
-    "key": "AB BA 09 6E 05 20 26 4B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11523 V 7200",
     "id": "UFC RMC PRI",
     "key": "88 AC 34 68 D2 76 CB 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12574 H 7200",
-    "id": "ENC 11",
-    "key": "09 05 CA D8 46 92 DB B3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12640 H 7500",
-    "id": "AFD",
-    "key": "1D 38 BC 11 A5 9A AC EB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7500",
     "id": "AFD",
     "key": "1D 38 BC 11 A5 9A AC EB"
   },
@@ -67,9 +31,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12691 V 15000",
-    "id": "ZUFFA BOXING",
-    "key": "21 2C 73 C0 2B 90 8A 45"
+    "frequency": "12686 V 7500",
+    "id": "LPGA - Mizuho Americas Open  Day 3",
+    "key": "15 22 B4 EB 2E 22 AE FE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -81,6 +45,12 @@
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
-    "key": "DA 93 04 71 EA BD 5C 03"
+    "key": "A9 2F 11 E9 CC 60 7F AB"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12437 H 27500",
+    "id": "Tszyu v Diaz",
+    "key": "7F 6E 5D 4A 4C 3B 2A B1"
   }
 ]
