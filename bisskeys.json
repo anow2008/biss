@@ -49,6 +49,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11079 V 7120",
+    "id": "Pitch Gallagher v Bristol Bears",
+    "key": "12 E1 EE E1 77 63 21 FB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11469 V 7200",
     "id": "E-285 BCKUP",
     "key": "09 05 20 2E 26 FA CA EA"
@@ -91,6 +97,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7200",
+    "id": "HBL Flensburg",
+    "key": "20 26 AB F1 DC 09 05 EA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12554 H 4938",
     "id": "YSM-012 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
@@ -121,6 +133,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12686 V 7200",
+    "id": "ENC 1",
+    "key": "BA C2 34 B0 DA CE E1 89"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12695 V 7200",
     "id": "SLQ-008 M",
     "key": "A4 B4 BB 13 32 D3 CA CF"
@@ -136,6 +154,12 @@
     "frequency": "10732 V 33990",
     "id": "OVERON 1",
     "key": "FE DA 79 51 9D 27 EA AE"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11273 H 7200",
+    "id": "ALG003",
+    "key": "09 05 CA D8 46 92 DB B3"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
