@@ -1,6 +1,60 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10996 H 7120",
+        "id": "Pitch W6N Ireland v Wales",
+        "key": "22 9C AD 6B 29 B3 77 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11005 H 7120",
+        "id": "W6N Ireland v Wales Branded",
+        "key": "22 9C AD 6B 29 B3 77 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11021 V 9875",
+        "id": "D535_2M12_WLFSBRG_1",
+        "key": "FD DA 7F 56 F0 A5 78 0D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11079 V 7120",
+        "id": "Pitch Gallagher v Bristol Bears",
+        "key": "12 E1 EE E1 77 63 21 FB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11478 V 7500",
+        "id": "ALG 005 Main",
+        "key": "09 05 CA D8 46 92 DB B3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11487 V 7200",
+        "id": "Enfusion 161",
+        "key": "9F 7D 5B 77 3C 1A 2E 84"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "HBL Flensburg",
+        "key": "20 26 AB F1 DC 09 05 EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12686 V 7200",
+        "id": "ENC 1",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11273 H 7200",
+        "id": "ALG003",
+        "key": "09 05 CA D8 46 92 DB B3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 H 7200",
         "id": "Fi01 ACB",
         "key": "E6 0D C2 B5 92 76 D7 DF"
