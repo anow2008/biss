@@ -1,44 +1,80 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 33990",
-        "id": "OVERON 2",
-        "key": "72 44 5B 11 2C BE F5 DF"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11079 H 9875",
+        "id": "FBL Freiburg",
+        "key": "09 05 FC 0A CA 92 44 A0"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7200",
+        "id": "FIG Varna",
+        "key": "F8 8A 11 93 AD 00 81 2E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10846 V 9875",
+        "id": "IPF",
+        "key": "83 7E C5 C6 E1 F9 FC D6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL219-1",
+        "key": "4B 08 E9 3C D4 10 86 6A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12438 H 27500",
+        "id": "Tszyu v Diaz",
+        "key": "7F 6E 5D 4A 4C 3B 2A B1"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 6",
-        "key": "12 3C AA F8 14 22 A3 D9"
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "07 BB 01 C3 AE 26 CF A3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11604 H 9875",
+        "id": "EMG HOL219-2",
+        "key": "D4 83 EA 41 57 C8 21 40"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11305 V 7200",
+        "id": "E-228 Main",
+        "key": "CA CA 20 B4 20 CA CA B4"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10732 V 33990",
         "id": "OVERON 1",
-        "key": "5D F8 3A 8F 7B F4 1E 8D"
+        "key": "FE DA 79 51 9D 27 EA AE"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11097 V 7120",
-        "id": "EFL Championship Hull v Millwall",
-        "key": "66 F6 23 7F 71 D3 ED 31"
+        "frequency": "10996 H 7120",
+        "id": "ITA727ENC1",
+        "key": "62 B4 32 48 62 2A D3 5F"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11088 V 7120",
-        "id": "Pitch Gloucester v Sale Rugby",
-        "key": "41 23 AD 11 CA 55 66 85"
+        "frequency": "12656 V 7200",
+        "id": "EFL League 1 Semi Final A 1st leg",
+        "key": "70 02 23 95 DA 32 CA D6"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10829 V 7500",
-        "id": "TUR 112 MAIN",
-        "key": "A2 5B 64 61 D8 34 C4 D0"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
-        "id": "TVP POL-32  ENC 1",
-        "key": "AB BA 26 8B DC AE 05 8F"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12647 V 7120",
+        "id": "Pitch Leicester v Northampton",
+        "key": "A3 32 6C 41 C1 87 65 AD"
     }
 ]
