@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 H 7200",
+        "id": "Fi01 ACB",
+        "key": "E6 0D C2 B5 92 76 D7 DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11018 H 14400",
+        "id": "GVA_Fi07",
+        "key": "1F 8F 9A 48 D8 16 29 17"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12554 H 4938",
+        "id": "YSM-012 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12695 V 7200",
+        "id": "SLQ-008 M",
+        "key": "A4 B4 BB 13 32 D3 CA CF"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12508 H 3750",
+        "id": "LIVE_BR0ADCASTING_LINE1",
+        "key": "53 F6 1A 63 C7 EB 31 E3"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12574 H 9875",
+        "id": "Videoland RTL",
+        "key": "F3 18 09 14 05 AF BE 72"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11487 V 7500",
         "id": "CRO-005",
         "key": "12 34 AB F1 CD 20 26 13"
