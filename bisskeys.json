@@ -1,57 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10958 V 4938",
-    "id": "Fi20_GNVE_Concert",
-    "key": "B0 A2 7F D1 5B 42 5B F8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10978 V 7200",
-    "id": "Main SAUDI015",
-    "key": "B0 A2 7F D1 5B 42 5B F8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7200",
-    "id": "SNG-QASIM1",
-    "key": "EC 3D 8E B7 67 34 C2 5D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 H 7120",
-    "id": "Pitch W6N Ireland v Wales",
-    "key": "22 9C AD 6B 29 B3 77 53"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 H 7120",
-    "id": "W6N Ireland v Wales Branded",
-    "key": "22 9C AD 6B 29 B3 77 53"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
-    "id": "GVA_Fi07",
-    "key": "1F 8F 9A 48 D8 16 29 17"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
-    "id": "AFC Draw Main",
-    "key": "AD 00 39 E6 13 C5 C0 98"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 V 7200",
-    "id": "SAU043 B",
-    "key": "41 C6 E7 EE 78 38 76 26"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11079 V 7120",
-    "id": "Pitch Gallagher v Bristol Bears",
-    "key": "12 E1 EE E1 77 63 21 FB"
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "09 05 CA D8 46 92 DB B3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,9 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11487 V 7200",
-    "id": "Enfusion 161",
-    "key": "9F 7D 5B 77 3C 1A 2E 84"
+    "frequency": "11487 V 7500",
+    "id": "CRO-005",
+    "key": "12 34 AB F1 CD 20 26 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,18 +31,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11569 V 9875",
-    "id": "ENC 5",
-    "key": "73 87 56 50 12 0B 91 AE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 V 7500",
-    "id": "LPGA - Mizuho Americas Open  Day 3",
-    "key": "15 22 B4 EB 2E 22 AE FE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7200",
     "id": "E115 G65 VIA 1",
     "key": "63 1F F7 79 15 00 D1 E6"
@@ -103,18 +43,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12560 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12566 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12573 H 7200",
     "id": "ENC 11",
     "key": "09 05 CA D8 46 92 DB B3"
@@ -124,12 +52,6 @@
     "frequency": "12656 V 7120",
     "id": "EFL League 1 Semi Final A (1st leg)",
     "key": "70 02 23 95 DA 32 CA D6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 H 7200",
-    "id": "BEL68 - Enc.1 WEC",
-    "key": "07 15 AC C8 BB 20 26 01"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -148,77 +70,5 @@
     "frequency": "12727 V 7500",
     "id": "NLFLEV_HOL-048 CH-A",
     "key": "11 A8 CB 84 DA 65 4A 89"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 33990",
-    "id": "OVERON 1",
-    "key": "DA 93 04 71 EA BD 5C 03"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11273 H 7200",
-    "id": "ALG003",
-    "key": "09 05 CA D8 46 92 DB B3"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "RMG Dubai HD",
-    "key": "EB BC DE 85 6A BE 37 5F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10838 V 7200",
-    "id": "GCUK Enc 6",
-    "key": "EB BC DE 85 6A BE 37 5F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
-    "id": "Tszyu v Diaz",
-    "key": "7F 6E 5D 4A 4C 3B 2A B1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10980 H 3600",
-    "id": "F1-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL-110",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11000 V 15000",
-    "id": "POL085",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12521 H 9600",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12562 H 9875",
-    "id": "VTM",
-    "key": "AD EB F3 8B 18 09 05 26"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12574 H 9875",
-    "id": "Videoland RTL",
-    "key": "F3 18 09 14 05 AF BE 72"
   }
 ]
