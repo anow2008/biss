@@ -19,9 +19,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 H 7200",
-    "id": "SAU-12A",
-    "key": "1E 4F C4 31 D6 05 9F 7A"
+    "frequency": "10978 V 7200",
+    "id": "Main SAUDI015",
+    "key": "B0 A2 7F D1 5B 42 5B F8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10987 V 7200",
+    "id": "SNG-QASIM1",
+    "key": "EC 3D 8E B7 67 34 C2 5D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,15 +55,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11079 V 7120",
-    "id": "Pitch Gallagher v Bristol Bears",
-    "key": "12 E1 EE E1 77 63 21 FB"
+    "frequency": "11061 H 7200",
+    "id": "AFC Draw Main",
+    "key": "AD 00 39 E6 13 C5 C0 98"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11469 V 7200",
-    "id": "E-285 BCKUP",
-    "key": "09 05 20 2E 26 FA CA EA"
+    "frequency": "11061 V 7200",
+    "id": "SAU043 B",
+    "key": "41 C6 E7 EE 78 38 76 26"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11079 V 7120",
+    "id": "Pitch Gallagher v Bristol Bears",
+    "key": "12 E1 EE E1 77 63 21 FB"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -73,15 +85,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11543 V 7200",
-    "id": "E-289",
-    "key": "BC 20 26 02 05 09 CB D9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11552 V 7200",
-    "id": "E-95 MAIN",
-    "key": "09 05 AA B8 BB 20 26 01"
+    "frequency": "11569 V 9875",
+    "id": "ENC 5",
+    "key": "73 87 56 50 12 0B 91 AE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -115,15 +121,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL-058_ch1",
-    "key": "07 BB 01 C3 AE 26 CF A3"
+    "frequency": "12566 H 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12640 H 7200",
-    "id": "E387 FEED 3",
-    "key": "AA AA 09 5D 05 BB BB 7B"
+    "frequency": "12573 H 7200",
+    "id": "ENC 11",
+    "key": "09 05 CA D8 46 92 DB B3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -153,7 +159,7 @@
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 33990",
     "id": "OVERON 1",
-    "key": "FE DA 79 51 9D 27 EA AE"
+    "key": "DA 93 04 71 EA BD 5C 03"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -162,34 +168,16 @@
     "key": "09 05 CA D8 46 92 DB B3"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11305 V 7200",
-    "id": "E-228 Main",
-    "key": "CA CA 20 B4 20 CA CA B4"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "RMG Dubai HD",
-    "key": "83 7E C5 C6 E1 F9 FC D6"
+    "key": "EB BC DE 85 6A BE 37 5F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10846 V 9875",
-    "id": "IPF",
-    "key": "83 7E C5 C6 E1 F9 FC D6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11592 H 9600",
-    "id": "NLEMG HOL219-1",
-    "key": "4B 08 E9 3C D4 10 86 6A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11604 H 9875",
-    "id": "EMG HOL219-2",
-    "key": "D4 83 EA 41 57 C8 21 40"
+    "frequency": "10838 V 7200",
+    "id": "GCUK Enc 6",
+    "key": "EB BC DE 85 6A BE 37 5F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -211,15 +199,27 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FFBL FCB",
-    "key": "09 05 FC 0A CA 92 44 A0"
+    "frequency": "10985 V 9600",
+    "id": "POL-110",
+    "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12508 H 3750",
-    "id": "LIVE_BR0ADCASTING_LINE1",
-    "key": "53 F6 1A 63 C7 EB 31 E3"
+    "frequency": "11000 V 15000",
+    "id": "POL085",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12521 H 9600",
+    "id": "POL-141 ENC1",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12562 H 9875",
+    "id": "VTM",
+    "key": "AD EB F3 8B 18 09 05 26"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
