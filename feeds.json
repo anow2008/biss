@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11505 V 7200",
+        "id": "E-228 Main",
+        "key": "AB BA 20 85 26 05 09 34"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 V 7500",
+        "id": "ENC 2",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11514 V 7200",
+        "id": "E-289",
+        "key": "AB BA 09 6E 05 20 26 4B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10987 V 7200",
         "id": "SNG-QASIM1",
         "key": "EC 3D 8E B7 67 34 C2 5D"
