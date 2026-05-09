@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10958 V 4938",
+    "id": "Fi20_GNVE_Concert",
+    "key": "E6 0D C2 B5 92 76 D7 DF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10960 H 7200",
     "id": "Fi01 ACB",
     "key": "E6 0D C2 B5 92 76 D7 DF"
@@ -19,21 +25,45 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 H 7120",
+    "id": "Pitch W6N Ireland v Wales",
+    "key": "22 9C AD 6B 29 B3 77 53"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11005 H 7120",
+    "id": "W6N Ireland v Wales Branded",
+    "key": "22 9C AD 6B 29 B3 77 53"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11018 H 14400",
     "id": "GVA_Fi07",
     "key": "1F 8F 9A 48 D8 16 29 17"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11079 V 7120",
-    "id": "Middlesborough v Southampton",
-    "key": "22 4D 35 A4 99 2F F4 BC"
+    "frequency": "11021 V 9875",
+    "id": "D535_2M12_WLFSBRG_1",
+    "key": "FD DA 7F 56 F0 A5 78 0D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11469 V 7200",
     "id": "E-285 BCKUP",
     "key": "09 05 20 2E 26 FA CA EA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11478 V 7500",
+    "id": "ALG 005 Main",
+    "key": "09 05 CA D8 46 92 DB B3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11487 V 7200",
+    "id": "Enfusion 161",
+    "key": "9F 7D 5B 77 3C 1A 2E 84"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,6 +79,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11588 V 7500",
+    "id": "LPGA - Mizuho Americas Open  Day 3",
+    "key": "15 22 B4 EB 2E 22 AE FE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7200",
     "id": "E115 G65 VIA 1",
     "key": "63 1F F7 79 15 00 D1 E6"
@@ -57,6 +93,12 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12554 H 4938",
     "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12560 H 4938",
+    "id": "YSM-021M",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -73,18 +115,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7120",
-    "id": "Pitch Leicester v Northampton",
-    "key": "A3 32 6C 41 C1 87 65 AD"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7120",
-    "id": "EFL League 1 Semi Final A (1st leg)",
-    "key": "70 02 23 95 DA 32 CA D6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12677 H 7200",
     "id": "BEL68 - Enc.1 WEC",
     "key": "07 15 AC C8 BB 20 26 01"
@@ -94,6 +124,12 @@
     "frequency": "12695 V 7200",
     "id": "SLQ-008 M",
     "key": "A4 B4 BB 13 32 D3 CA CF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "NLFLEV_HOL-048 CH-A",
+    "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
