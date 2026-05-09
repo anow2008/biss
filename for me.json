@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12691 V 15000",
+        "id": "ZUFFA BOXING",
+        "key": "21 2C 73 C0 2B 90 8A 45"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11004 V 7200",
         "id": "WSHT ENC58",
         "key": "88 AC 34 68 D2 76 CB 13"
