@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "07 BB 01 C3 AE 26 CF A3"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11247 H 7200",
+        "id": "ENC 10",
+        "key": "09 05 CA D8 46 92 DB B3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12640 H 7500",
+        "id": "AFD",
+        "key": "1D 38 BC 11 A5 9A AC EB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12690 V 15000",
+        "id": "ZUFFA BOXING",
+        "key": "21 2C 73 C0 2B 90 8A 45"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11486 V 7500",
+        "id": "LPGA - Mizuho Americas Open  Day 3",
+        "key": "15 22 B4 EB 2E 22 AE FE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "UFC 328  All Fights",
+        "key": "88 AC 34 68 D2 76 CB 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11505 V 7200",
         "id": "E-228 Main",
         "key": "AB BA 20 85 26 05 09 34"
@@ -34,41 +70,5 @@
         "frequency": "11061 V 7200",
         "id": "SAU043 B",
         "key": "41 C6 E7 EE 78 38 76 26"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12573 H 7200",
-        "id": "ENC 11",
-        "key": "09 05 CA D8 46 92 DB B3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11061 H 7200",
-        "id": "AFC Draw Main",
-        "key": "AD 00 39 E6 13 C5 C0 98"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12566 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12521 H 9600",
-        "id": "POL-141 ENC1",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11000 V 15000",
-        "id": "POL085",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12562 H 9875",
-        "id": "VTM",
-        "key": "AD EB F3 8B 18 09 05 26"
     }
 ]
