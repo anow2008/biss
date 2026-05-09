@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12686 V 7200",
+        "id": "ENC 1",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12510 V 7200",
+        "id": "HBL Flensburg",
+        "key": "20 26 AB F1 DC 09 05 EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11021 V 9875",
+        "id": "D535_2M12_WLFSBRG_1",
+        "key": "FD DA 7F 56 F0 A5 78 0D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11487 V 7200",
         "id": "Enfusion 161",
         "key": "9F 7D 5B 77 3C 1A 2E 84"
@@ -52,11 +70,5 @@
         "frequency": "12574 H 9875",
         "id": "Videoland RTL",
         "key": "F3 18 09 14 05 AF BE 72"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10980 H 3600",
-        "id": "F1-2 4.5MH",
-        "key": "20 25 AE F3 EA 52 02 3E"
     }
 ]
