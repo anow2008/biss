@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11021 V 9875",
+        "id": "GVA_Fi06",
+        "key": "AC 93 E6 25 BD AA 1F 86"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12643 V 9875",
+        "id": "Fi19 GNVE",
+        "key": "EB F2 7A 57 99 6A DB DE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12690 V 15000",
+        "id": "ZUFFA BOXING",
+        "key": "21 2C 73 C0 2B 90 8A 45"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 7",
+        "key": "2F 6A 1B B4 E7 3A CD EE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11568 V 9875",
         "id": "ENC-23",
         "key": "C3 18 A5 80 A4 94 19 51"
