@@ -1,62 +1,62 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7500",
-        "id": "AFD",
-        "key": "1D 38 BC 11 A5 9A AC EB"
+        "frequency": "11014 V 7120",
+        "id": "FA Cup Liverpool v Brighton Womens",
+        "key": "AB DD 3F C7 CC 10 05 E1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12728 V 7500",
+        "id": "NLFLEV_HOL-048 CH-A",
+        "key": "11 A8 CB 84 DA 65 4A 89"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
+        "frequency": "10768 V 34000",
         "id": "OVERON 1",
         "key": "A9 2F 11 E9 CC 60 7F AB"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12686 V 7500",
-        "id": "LPGA - Mizuho Americas Open  Day 3",
-        "key": "15 22 B4 EB 2E 22 AE FE"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL219-1",
+        "key": "56 5C FF B1 A2 CD AE 1D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11070 V 7200",
+        "id": "GCUK Enc 2",
+        "key": "C4 AA CB 39 AD D2 D2 51"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10846 V 9875",
+        "id": "IPF",
+        "key": "70 B6 74 9A 10 6D 08 85"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL070 TVN24 POZ",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12438 H 27500",
+        "id": "DFB -Vfb stuttgart vs Sport-Club Freiburg",
+        "key": "7F 6E 5D 4A 4C 3B 2A B1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11604 H 9875",
+        "id": "EMG HOL219-2",
+        "key": "D4 83 EA 41 57 C8 21 40"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12593 V 7200",
-        "id": "POL-058_ch1",
-        "key": "07 BB 01 C3 AE 26 CF A3"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11247 H 7200",
-        "id": "ENC 10",
-        "key": "09 05 CA D8 46 92 DB B3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12690 V 15000",
-        "id": "ZUFFA BOXING",
-        "key": "21 2C 73 C0 2B 90 8A 45"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "UFC 328  All Fights",
-        "key": "88 AC 34 68 D2 76 CB 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11505 V 7200",
-        "id": "E-228 Main",
-        "key": "AB BA 20 85 26 05 09 34"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7500",
-        "id": "ENC 2",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11514 V 7200",
-        "id": "E-289",
-        "key": "AB BA 09 6E 05 20 26 4B"
+        "frequency": "12511 V 7200",
+        "id": "MediaLink CRO-025/2",
+        "key": "20 25 AB F0 CD 20 26 13"
     }
 ]
