@@ -52,11 +52,5 @@
         "frequency": "11636 V 7500",
         "id": "TUR 112 MAIN",
         "key": "3F 8C 6E 39 E0 B0 DA 6A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11102 V 14400",
-        "id": "Fi03 ATORF",
-        "key": "C2 88 F6 40 EA 90 5C D6"
     }
 ]
