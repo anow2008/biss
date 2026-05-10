@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11004 V 7200",
+        "id": "WSHT ENC58",
+        "key": "88 AC 34 68 D2 76 CB 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "88 AC 34 68 D2 76 CB 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11523 V 7200",
+        "id": "UFC RMC PRI",
+        "key": "88 AC 34 68 D2 76 CB 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7500",
+        "id": "AFD",
+        "key": "1D 38 BC 11 A5 9A AC EB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12640 H 7500",
+        "id": "AFD",
+        "key": "1D 38 BC 11 A5 9A AC EB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12649 H 7500",
+        "id": "AFD",
+        "key": "1D 38 BC 11 A5 9A AC EB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12686 V 7500",
+        "id": "LPGA - Mizuho Americas Open  Day 3",
+        "key": "15 22 B4 EB 2E 22 AE FE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "UFC 328 : All Fights",
+        "key": "88 AC 34 68 D2 76 CB 13"
+    }
+]
