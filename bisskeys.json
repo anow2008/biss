@@ -19,9 +19,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "MediaLink CRO-025/2",
-    "key": "20 25 AB F0 CD 20 26 13"
+    "frequency": "12570 H 14400",
+    "id": "NEP 1",
+    "key": "D5 3B FB 0B A7 41 99 81"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12602 V 7200",
+    "id": "Polsat Sport",
+    "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12728 V 7500",
+    "id": "NLFLEV_HOL-048 CH-A",
+    "key": "11 A8 CB 84 DA 65 4A 89"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -37,7 +49,19 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10846 V 9875",
+    "frequency": "10818 V 3670",
+    "id": "RMG Dubai HD",
+    "key": "F8 8A 11 93 AD 00 81 2E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10830 V 7200",
+    "id": "FIG Varna",
+    "key": "F8 8A 11 93 AD 00 81 2E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10847 V 9875",
     "id": "IPF",
     "key": "70 B6 74 9A 10 6D 08 85"
   },
@@ -62,8 +86,14 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12438 H 27500",
-    "id": "DFB -Vfb stuttgart vs Sport-Club Freiburg",
+    "id": "Tszyu v Diaz",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "POL-033 out1",
+    "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
