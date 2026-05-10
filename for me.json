@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10973 H 9875",
+        "id": "Fi17_GNVE",
+        "key": "9B 38 01 D4 B0 37 A1 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11080 H 9875",
+        "id": "Fi10_GNVE",
+        "key": "4F EE 48 85 F6 74 EC 56"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11092 H 9875",
+        "id": "Fi11_GNVE",
+        "key": "AB A9 32 86 12 D5 CA B1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12563 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "59 33 CD 59 E9 92 FB 76"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10768 V 34000",
+        "id": "OVERON 1",
+        "key": "34 4D DF 60 7D A3 BC DC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "PAOK VS OSFP A",
+        "key": "52 B9 A5 B0 E9 10 86 7F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11592 H 9600",
+        "id": "SNG ABC 1",
+        "key": "55 66 CC 87 BB 12 34 01"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10959 H 7200",
         "id": "Fi01 ACB",
         "key": "CC 34 20 20 48 A7 5E 4D"
