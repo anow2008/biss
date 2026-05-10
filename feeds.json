@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 7",
+        "key": "2F 6A 1B B4 E7 3A CD EE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12640 H 7500",
+        "id": "AFD",
+        "key": "1D 38 BC 11 A5 9A AC EB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11021 V 9875",
+        "id": "GVA_Fi06",
+        "key": "AC 93 E6 25 BD AA 1F 86"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12690 V 15000",
+        "id": "ZUFFA BOXING",
+        "key": "21 2C 73 C0 2B 90 8A 45"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10961 H 9875",
+        "id": "Fi18_GNVE",
+        "key": "9B 38 01 D4 B0 37 A1 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11568 V 9875",
         "id": "ENC-23",
         "key": "C3 18 A5 80 A4 94 19 51"
@@ -37,38 +67,8 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10973 H 9875",
-        "id": "Fi17_GNVE",
-        "key": "9B 38 01 D4 B0 37 A1 88"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12649 H 7500",
-        "id": "AFD",
-        "key": "1D 38 BC 11 A5 9A AC EB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12631 V 9875",
         "id": "Fi14_GNVE",
         "key": "89 57 9C 7C D6 3A 8C 9C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7500",
-        "id": "ENC 1",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11021 H 9875",
-        "id": "GVA_Fi03",
-        "key": "33 FB F1 1F 34 34 D0 38"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11009 H 9875",
-        "id": "GVA_Fi04",
-        "key": "34 DB BE CD 88 A5 4A 77"
     }
 ]
