@@ -1,140 +1,104 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10959 H 7200",
+    "id": "Fi01 ACB",
+    "key": "CC 34 20 20 48 A7 5E 4D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 V 7200",
+    "id": "FEED 1 Cp",
+    "key": "A1 20 4B 0C 19 86 FA 99"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10969 V 7200",
+    "id": "Feed 2 Cp 2",
+    "key": "A1 20 4B 0C 19 86 FA 99"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10974 H 9875",
     "id": "OER/F504/2/TRO BRO LEON INTER MAIN",
     "key": "49 8F 9F 77 0C 72 43 C1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 V 7120",
+    "frequency": "10985 H 9875",
+    "id": "GVA_Fi05",
+    "key": "63 74 9E 75 1B BA 8E 63"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11004 V 7120",
     "id": "Pitch womens FA Cup Semi Chelsea",
     "key": "AB CC 3F B6 DD 10 05 F2"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11021 H 9875",
+    "frequency": "11009 H 9875",
+    "id": "GVA_Fi04",
+    "key": "34 DB BE CD 88 A5 4A 77"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11022 H 9875",
     "id": "GVA_Fi03",
-    "key": "11 1C 69 96 9F 3C 9C 77"
+    "key": "33 FB F1 1F 34 34 D0 38"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11102 V 14400",
-    "id": "Fi03 ATORF",
-    "key": "C2 88 F6 40 EA 90 5C D6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 H 9875",
+    "frequency": "11104 H 9875",
     "id": "ITA548 M1 EU Feed Main",
     "key": "57 B8 23 32 EF 41 25 55"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12555 H 7200",
-    "id": "HBL Kiel",
-    "key": "20 26 AB F1 DC 10 05 F1"
+    "frequency": "11487 V 7500",
+    "id": "LPGA - Mizuho Americas Open  Day 4",
+    "key": "15 22 B4 EB 2E 22 AE FE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
-    "id": "POL-058_ch1",
-    "key": "07 BB 01 C3 AE 26 CF A3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12602 V 7200",
-    "id": "Polsat Sport",
+    "id": "POL-080 MAIN",
     "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7120",
-    "id": "EFL League 2 semi  final Grimsby",
-    "key": "37 42 AD 26 3E 32 53 C3"
+    "frequency": "12631 V 9875",
+    "id": "Fi14_GNVE",
+    "key": "89 57 9C 7C D6 3A 8C 9C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12687 H 7200",
-    "id": "F529_CDF_DIRTY",
-    "key": "AB CD 10 88 05 DA CB AA"
+    "frequency": "12640 H 7200",
+    "id": "ENC BCK",
+    "key": "3E 83 F2 B3 CA 53 9D BA"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "A9 2F 11 E9 CC 60 7F AB"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12649 H 7500",
+    "id": "AFD",
+    "key": "1D 38 BC 11 A5 9A AC EB"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10768 V 34000",
-    "id": "OVERON 1",
-    "key": "A9 2F 11 E9 CC 60 7F AB"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7500",
+    "id": "ENC 1",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 V 3670",
-    "id": "RMG Dubai HD",
-    "key": "F8 8A 11 93 AD 00 81 2E"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12686 V 7200",
+    "id": "ENC 3",
+    "key": "BA C2 34 B0 DA CE E1 89"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7200",
-    "id": "FIG Varna",
-    "key": "F8 8A 11 93 AD 00 81 2E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11592 H 9600",
-    "id": "NLEMG HOL219-1",
-    "key": "56 5C FF B1 A2 CD AE 1D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11604 H 9875",
-    "id": "EMG HOL219-2",
-    "key": "D4 83 EA 41 57 C8 21 40"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 V 7500",
-    "id": "TUR 112 MAIN",
-    "key": "3F 8C 6E 39 E0 B0 DA 6A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
-    "id": "DFB -Vfb stuttgart vs Sport-Club Freiburg",
-    "key": "7F 6E 5D 4A 4C 3B 2A B1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-033 out1",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
-    "id": "POL070 TVN24 POZ",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11014 V 7200",
-    "id": "KAZ008M",
-    "key": "52 AD BB BA DC 54 1E 4E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FFBL Bremen",
-    "key": "10 05 FB 10 EA 50 17 51"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12537 H 7200",
-    "id": "2-SAT HOL319",
-    "key": "F3 19 10 1C 05 CA ED BC"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 7",
+    "key": "32 10 05 47 26 AB BA 8B"
   }
 ]
