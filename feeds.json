@@ -1,56 +1,56 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12656 V 7120",
+        "id": "EFL League 2 semi  final Grimsby",
+        "key": "37 42 AD 26 3E 32 53 C3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12555 H 7200",
+        "id": "HBL Kiel",
+        "key": "20 26 AB F1 DC 10 05 F1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10974 H 9875",
+        "id": "OER/F504/2/TRO BRO LEON INTER MAIN",
+        "key": "49 8F 9F 77 0C 72 43 C1"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11067 H 9875",
+        "id": "FFBL Bremen",
+        "key": "10 05 FB 10 EA 50 17 51"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11636 V 7500",
+        "id": "TUR 112 MAIN",
+        "key": "3F 8C 6E 39 E0 B0 DA 6A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11102 V 14400",
+        "id": "Fi03 ATORF",
+        "key": "C2 88 F6 40 EA 90 5C D6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "07 BB 01 C3 AE 26 CF A3"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10973 V 9600",
+        "id": "POL-033 out1",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10768 V 34000",
         "id": "OVERON 4",
         "key": "34 4D DF 60 7D A3 BC DC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12602 V 7200",
-        "id": "Polsat Sport",
-        "key": "15 58 35 A2 71 42 63 16"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10829 V 7200",
-        "id": "FIG Varna",
-        "key": "F8 8A 11 93 AD 00 81 2E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11014 V 7120",
-        "id": "FA Cup Liverpool v Brighton Womens",
-        "key": "AB DD 3F C7 CC 10 05 E1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12728 V 7500",
-        "id": "NLFLEV_HOL-048 CH-A",
-        "key": "11 A8 CB 84 DA 65 4A 89"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OVERON 1",
-        "key": "A9 2F 11 E9 CC 60 7F AB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11592 H 9600",
-        "id": "NLEMG HOL219-1",
-        "key": "56 5C FF B1 A2 CD AE 1D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11070 V 7200",
-        "id": "GCUK Enc 2",
-        "key": "C4 AA CB 39 AD D2 D2 51"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10846 V 9875",
-        "id": "IPF",
-        "key": "70 B6 74 9A 10 6D 08 85"
     }
 ]
