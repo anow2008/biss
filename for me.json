@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10974 H 9875",
+        "id": "OER/F504/2/TRO BRO LEON INTER MAIN",
+        "key": "49 8F 9F 77 0C 72 43 C1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11022 H 9875",
+        "id": "GVA_Fi03",
+        "key": "11 1C 69 96 9F 3C 9C 77"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12555 H 7200",
+        "id": "HBL Kiel",
+        "key": "20 26 AB F1 DC 10 05 F1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "07 BB 01 C3 AE 26 CF A3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12656 V 7120",
+        "id": "EFL League 2 semi  final Grimsby",
+        "key": "37 42 AD 26 3E 32 53 C3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 V 7500",
+        "id": "TUR 112 MAIN",
+        "key": "3F 8C 6E 39 E0 B0 DA 6A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11014 V 7200",
+        "id": "KAZ008M",
+        "key": "52 AD BB BA DC 54 1E 4E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11067 H 9875",
+        "id": "FFBL Bremen",
+        "key": "10 05 FB 10 EA 50 17 51"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12570 H 14400",
         "id": "NEP 1",
         "key": "D5 3B FB 0B A7 41 99 81"
