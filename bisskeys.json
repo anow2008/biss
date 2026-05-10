@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10959 H 7200",
-    "id": "Fi01 ACB",
-    "key": "CC 34 20 20 48 A7 5E 4D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10960 V 7200",
     "id": "FEED 1 Cp",
     "key": "A1 20 4B 0C 19 86 FA 99"
@@ -19,15 +13,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10973 H 9875",
+    "id": "Fi17_GNVE",
+    "key": "9B 38 01 D4 B0 37 A1 88"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10985 H 9875",
     "id": "GVA_Fi05",
     "key": "63 74 9E 75 1B BA 8E 63"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 H 9875",
-    "id": "GVA_Fi03",
-    "key": "33 FB F1 1F 34 34 D0 38"
+    "frequency": "11021 V 9875",
+    "id": "GVA_Fi06",
+    "key": "AC 93 E6 25 BD AA 1F 86"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,39 +43,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11104 H 9875",
-    "id": "ITA548 M1 EU Feed Main",
-    "key": "57 B8 23 32 EF 41 25 55"
+    "frequency": "12631 V 9875",
+    "id": "Fi14_GNVE",
+    "key": "89 57 9C 7C D6 3A 8C 9C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11487 V 7500",
-    "id": "LPGA - Mizuho Americas Open  Day 4",
-    "key": "15 22 B4 EB 2E 22 AE FE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11568 V 9875",
-    "id": "ENC-23",
-    "key": "C3 18 A5 80 A4 94 19 51"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12563 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL-080 MAIN",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7500",
+    "frequency": "12640 H 7500",
     "id": "AFD",
     "key": "1D 38 BC 11 A5 9A AC EB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12643 V 9875",
+    "id": "Fi19 GNVE",
+    "key": "EB F2 7A 57 99 6A DB DE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,62 +67,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "NLFLEV_HOL-048 CH-A",
-    "key": "11 A8 CB 84 DA 65 4A 89"
+    "frequency": "12690 V 15000",
+    "id": "ZUFFA BOXING",
+    "key": "21 2C 73 C0 2B 90 8A 45"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 7",
-    "key": "32 10 05 47 26 AB BA 8B"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "59 33 CD 59 E9 92 FB 76"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10768 V 34000",
-    "id": "OVERON 1",
-    "key": "34 4D DF 60 7D A3 BC DC"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "RMG Dubai HD",
-    "key": "52 B9 A5 B0 E9 10 86 7F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "PAOK VS OSFP A",
-    "key": "52 B9 A5 B0 E9 10 86 7F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11592 H 9600",
-    "id": "SNG ABC 1",
-    "key": "55 66 CC 87 BB 12 34 01"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
-    "id": "Tszyu v Diaz",
-    "key": "7F 6E 5D 4A 4C 3B 2A B1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "pol-053_enc2",
-    "key": "AB BA 26 8B DC AE 05 8F"
+    "key": "2F 6A 1B B4 E7 3A CD EE"
   }
 ]
