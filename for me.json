@@ -1,6 +1,72 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10959 H 7200",
+        "id": "Fi01 ACB",
+        "key": "CC 34 20 20 48 A7 5E 4D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "FEED 1 Cp",
+        "key": "A1 20 4B 0C 19 86 FA 99"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10969 V 7200",
+        "id": "Feed 2 Cp 2",
+        "key": "A1 20 4B 0C 19 86 FA 99"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10985 H 9875",
+        "id": "GVA_Fi05",
+        "key": "63 74 9E 75 1B BA 8E 63"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11009 H 9875",
+        "id": "GVA_Fi04",
+        "key": "34 DB BE CD 88 A5 4A 77"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11022 H 9875",
+        "id": "GVA_Fi03",
+        "key": "33 FB F1 1F 34 34 D0 38"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12631 V 9875",
+        "id": "Fi14_GNVE",
+        "key": "89 57 9C 7C D6 3A 8C 9C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12640 H 7200",
+        "id": "ENC BCK",
+        "key": "3E 83 F2 B3 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12677 V 7500",
+        "id": "ENC 1",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12686 V 7200",
+        "id": "ENC 3",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 7",
+        "key": "32 10 05 47 26 AB BA 8B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11005 V 7120",
         "id": "Pitch womens FA Cup Semi Chelsea",
         "key": "AB CC 3F B6 DD 10 05 F2"
