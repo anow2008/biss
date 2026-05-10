@@ -7,6 +7,24 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11005 V 7120",
+    "id": "Pitch womens FA Cup Semi Chelsea",
+    "key": "AB CC 3F B6 DD 10 05 F2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11021 H 9875",
+    "id": "GVA_Fi03",
+    "key": "11 1C 69 96 9F 3C 9C 77"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11102 V 14400",
+    "id": "Fi03 ATORF",
+    "key": "C2 88 F6 40 EA 90 5C D6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11105 H 9875",
     "id": "ITA548 M1 EU Feed Main",
     "key": "57 B8 23 32 EF 41 25 55"
@@ -16,12 +34,6 @@
     "frequency": "12555 H 7200",
     "id": "HBL Kiel",
     "key": "20 26 AB F1 DC 10 05 F1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12569 H 14400",
-    "id": "NEP 1",
-    "key": "D5 3B FB 0B A7 41 99 81"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,9 +55,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7500",
-    "id": "NLFLEV_HOL-048 CH-A",
-    "key": "11 A8 CB 84 DA 65 4A 89"
+    "frequency": "12687 H 7200",
+    "id": "F529_CDF_DIRTY",
+    "key": "AB CD 10 88 05 DA CB AA"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -73,18 +85,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10846 V 9875",
-    "id": "IPF",
-    "key": "70 B6 74 9A 10 6D 08 85"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7200",
-    "id": "GCUK Enc 2",
-    "key": "C4 AA CB 39 AD D2 D2 51"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11592 H 9600",
     "id": "NLEMG HOL219-1",
     "key": "56 5C FF B1 A2 CD AE 1D"
@@ -104,7 +104,7 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12438 H 27500",
-    "id": "Tszyu v Diaz",
+    "id": "DFB -Vfb stuttgart vs Sport-Club Freiburg",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
   },
   {
@@ -130,5 +130,11 @@
     "frequency": "11067 H 9875",
     "id": "FFBL Bremen",
     "key": "10 05 FB 10 EA 50 17 51"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12537 H 7200",
+    "id": "2-SAT HOL319",
+    "key": "F3 19 10 1C 05 CA ED BC"
   }
 ]
