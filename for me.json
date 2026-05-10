@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12570 H 14400",
+        "id": "NEP 1",
+        "key": "D5 3B FB 0B A7 41 99 81"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12602 V 7200",
+        "id": "Polsat Sport",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12728 V 7500",
+        "id": "NLFLEV_HOL-048 CH-A",
+        "key": "11 A8 CB 84 DA 65 4A 89"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "FIG Varna",
+        "key": "F8 8A 11 93 AD 00 81 2E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10996 V 7200",
         "id": "LAT-002m",
         "key": "3F 87 27 ED 99 52 30 1B"
