@@ -1,6 +1,30 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10997 V 9875",
+    "id": "E-289 MAIN",
+    "key": "45 F8 22 5F 63 06 40 A9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11009 V 9875",
+    "id": "MAIN - E-285",
+    "key": "CC 72 B2 F0 89 DA A5 08"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11013 H 7120",
+    "id": "Pitch Millwall",
+    "key": "CC C5 22 B3 66 2E 77 0B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11021 V 9875",
+    "id": "E-228 Main",
+    "key": "CC 72 B2 F0 89 DA A5 08"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "81 31 32 E4 6C 6E 60 3A"
@@ -28,11 +52,5 @@
     "frequency": "10986 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11067 H 9875",
-    "id": "FFBL Leipzig",
-    "key": "11 05 BF D5 AE 57 33 38"
   }
 ]
