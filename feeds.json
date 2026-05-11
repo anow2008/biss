@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10981 H 3600",
+        "id": "F6-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10971 V 4800",
+        "id": "POL-10 ENC2",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11066 V 14400",
+        "id": "MOTO GP 18 Mhz",
+        "key": "78 1F A2 39 FE C7 83 48"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "81 31 32 E4 6C 6E 60 3A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL021 p1 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12438 H 27500",
+        "id": "DFB -Vfb stuttgart vs Sport-Club Freiburg",
+        "key": "7F 6E 5D 4A 4C 3B 2A B1"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "74 A2 E2 F8 C1 8B E8 34"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12736 V 7200",
         "id": "ENC 7",
@@ -16,59 +58,5 @@
         "frequency": "11021 V 9875",
         "id": "GVA_Fi06",
         "key": "AC 93 E6 25 BD AA 1F 86"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12690 V 15000",
-        "id": "ZUFFA BOXING",
-        "key": "21 2C 73 C0 2B 90 8A 45"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10961 H 9875",
-        "id": "Fi18_GNVE",
-        "key": "9B 38 01 D4 B0 37 A1 88"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11568 V 9875",
-        "id": "ENC-23",
-        "key": "C3 18 A5 80 A4 94 19 51"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12643 V 9875",
-        "id": "Fi18_GNVE",
-        "key": "EB F2 7A 57 99 6A DB DE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12563 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11092 H 9875",
-        "id": "Fi11_GNVE",
-        "key": "AB A9 32 86 12 D5 CA B1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11080 H 9875",
-        "id": "Fi10_GNVE",
-        "key": "4F EE 48 85 F6 74 EC 56"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "PAOK VS OSFP A",
-        "key": "52 B9 A5 B0 E9 10 86 7F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12631 V 9875",
-        "id": "Fi14_GNVE",
-        "key": "89 57 9C 7C D6 3A 8C 9C"
     }
 ]
