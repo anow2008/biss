@@ -49,7 +49,7 @@ def get_feeds():
             text = soup.get_text(separator='|')
             sat_m = re.search(r'([^|]+)@', text)
             sat = sat_m.group(1).strip() if sat_m else "Unknown Sat"
-            freq_m = re.search(r'(\d{5}\s[VH]\s\d{4,5})', text)
+            freq_m = re.search(r'(\d{4,5}\s[VH]\s\d{4,5})', text)
             freq = freq_m.group(1).strip() if freq_m else "00000 V 0000"
             id_m = re.search(r'🆔\s*\|?([^|]+)', text)
             channel = id_m.group(1).strip() if id_m else "Feed"
@@ -66,13 +66,14 @@ def get_feeds():
         return [], [], []
 
 def get_sat_universe_feeds():
-    """الموقع الثاني: Sat-Universe (تحديث مرن جداً)"""
+    """الموقع الثاني: Sat-Universe (تعديل متطور للسحب)"""
     scraper = cloudscraper.create_scraper()
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     messages, json_entries, new_keys = [], [], []
     old_keys = open(DB_FILE, "r").read() if os.path.exists(DB_FILE) else ""
     
     try:
+        # تسجيل الدخول ضروري لرؤية المحتوى بالكامل
         scraper.post("https://www.sat-universe.com/index.php?login/login", 
                      data={'login': SAT_USER, 'password': SAT_PASS, 'remember': 1}, headers=headers)
         
@@ -86,29 +87,31 @@ def get_sat_universe_feeds():
             posts = BeautifulSoup(response, 'html.parser').find_all('div', class_='bbWrapper')
             
             for post in posts:
-                text = post.get_text(separator='\n') # تغيير الفاصل لسهولة البحث
+                # استخراج النص مع الحفاظ على الفواصل بين الأسطر
+                text = post.get_text(separator='\n')
                 
-                # 1. البحث عن الشفرة (CW) بصيغة مرنة جداً
-                key_match = re.search(r'(?:CW:?\s*)([A-F0-9\s]{16,23})', text, re.I)
+                # 1. البحث عن الشفرة (تجاوز المسافات والرموز)
+                # يبحث عن نمط CW: متبوعاً بـ 16 حرف هيكسا بمسافات أو بدونها
+                key_match = re.search(r'CW:?\s*([A-F0-9\s]{16,24})', text, re.I)
                 if key_match:
-                    raw_key = key_match.group(1).replace(" ", "").replace("\n", "").upper()
+                    raw_key = key_match.group(1).replace(" ", "").replace("\n", "").strip().upper()
                     if len(raw_key) == 16 and raw_key not in old_keys:
                         
-                        # 2. البحث عن القمر (مثل 87.0W أو Eutelsat)
+                        # 2. البحث عن القمر (دعم صيغة 87.0W أو Eutelsat)
                         sat_m = re.search(r'(\d{1,3}\.\d°?\s?[EW]|Eutelsat\s?[^|\n]*)', text, re.I)
-                        sat = sat_m.group(1).strip() if sat_m else "Feed Sat"
+                        sat = sat_m.group(1).strip() if sat_m else "Feed"
 
-                        # 3. البحث عن التردد (مثل 4110 V 15000)
+                        # 3. البحث عن التردد (دعم 4 أو 5 أرقام)
                         freq_m = re.search(r'(\d{4,5})[\s:|-]*([VH]|Vertical|Horizontal)[\s:|-]*(\d{4,5})', text, re.I)
                         if freq_m:
                             pol = "V" if freq_m.group(2).lower().startswith('v') else "H"
                             freq = f"{freq_m.group(1)} {pol} {freq_m.group(3)}"
                         else:
-                            freq = "00000 V 0000"
+                            freq = "Feed Freq"
 
                         # 4. البحث عن الـ ID
-                        id_m = re.search(r'ID:\s*([^\n]+)', text, re.I)
-                        channel = id_m.group(1).strip() if id_m else "Feed"
+                        id_m = re.search(r'ID:\s*([^\n|]+)', text, re.I)
+                        channel = id_m.group(1).strip() if id_m else "Service"
 
                         fmt_key = ' '.join(raw_key[i:i+2] for i in range(0, 16, 2))
                         new_keys.append(raw_key)
