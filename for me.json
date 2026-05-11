@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11067 H 9875",
+        "id": "FFBL Leipzig",
+        "key": "11 05 BF D5 AE 57 33 38"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
