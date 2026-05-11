@@ -1,80 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "FEED 1 Cp",
-    "key": "A1 20 4B 0C 19 86 FA 99"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10969 V 7200",
-    "id": "Feed 2 Cp 2",
-    "key": "A1 20 4B 0C 19 86 FA 99"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10973 H 9875",
-    "id": "Fi17_GNVE",
-    "key": "9B 38 01 D4 B0 37 A1 88"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10985 H 9875",
-    "id": "GVA_Fi05",
-    "key": "63 74 9E 75 1B BA 8E 63"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11080 H 9875",
-    "id": "Fi10_GNVE",
-    "key": "4F EE 48 85 F6 74 EC 56"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11092 H 9875",
-    "id": "Fi11_GNVE",
-    "key": "AB A9 32 86 12 D5 CA B1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12631 V 9875",
-    "id": "Fi14_GNVE",
-    "key": "89 57 9C 7C D6 3A 8C 9C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12640 H 7500",
-    "id": "Tszyu v Diaz",
-    "key": "1D 38 BC 11 A5 9A AC EB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12643 V 9875",
-    "id": "Fi19 GNVE",
-    "key": "EB F2 7A 57 99 6A DB DE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7500",
-    "id": "AFD",
-    "key": "1D 38 BC 11 A5 9A AC EB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7500",
-    "id": "ENC 1",
-    "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12690 V 15000",
-    "id": "ZUFFA BOXING",
+    "frequency": "12610 V 4600",
+    "id": "AP LDN UPA",
     "key": "21 2C 73 C0 2B 90 8A 45"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 7",
-    "key": "2F 6A 1B B4 E7 3A CD EE"
+    "frequency": "12691 V 15000",
+    "id": "ZUFFA BOXING",
+    "key": "21 2C 73 C0 2B 90 8A 45"
   }
 ]
