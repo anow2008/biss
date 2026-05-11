@@ -14,6 +14,7 @@ SAT_PASS = os.getenv("SAT_PASS")
 DB_FILE = "last_keys_list.txt"
 JSON_FILE = "for me.json"
 
+# الروابط المستهدفة بما فيها الرابط الجديد
 TARGET_TOPICS = [
     "https://www.sat-universe.com/index.php?threads/wrestling-world-championship-10e-7e.275203/",
     "https://www.sat-universe.com/index.php?threads/african-football-inc-caf-africa-cup-of-nations-other-caf-10%C2%B0e-7%C2%B0e-etc-etc.256328/",
@@ -34,7 +35,7 @@ def update_json_file(new_data_list):
         json.dump(updated_data, f, ensure_ascii=False, indent=4)
 
 def get_feeds():
-    """الموقع الأول: live-feed.net"""
+    """الموقع الأول: live-feed.net - (بدون تغيير)"""
     URL = "https://live-feed.net/"
     scraper = cloudscraper.create_scraper()
     headers = {'User-Agent': 'Mozilla/5.0'}
@@ -66,14 +67,13 @@ def get_feeds():
         return [], [], []
 
 def get_sat_universe_feeds():
-    """الموقع الثاني: Sat-Universe (منطق سحب فائق المرونة)"""
+    """الموقع الثاني: Sat-Universe (تم تحسين البحث لسحب الترددات الرباعية والأقمار الغربية)"""
     scraper = cloudscraper.create_scraper()
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     messages, json_entries, new_keys = [], [], []
     old_keys = open(DB_FILE, "r").read() if os.path.exists(DB_FILE) else ""
     
     try:
-        # تسجيل الدخول
         scraper.post("https://www.sat-universe.com/index.php?login/login", 
                      data={'login': SAT_USER, 'password': SAT_PASS, 'remember': 1}, headers=headers)
         
@@ -87,52 +87,51 @@ def get_sat_universe_feeds():
             posts = BeautifulSoup(response, 'html.parser').find_all('div', class_='bbWrapper')
             
             for post in posts:
-                text = post.get_text(separator='\n').strip()
+                text = post.get_text(separator='\n')
                 
-                # 1. البحث عن الشفرة (CW) - يبحث عن 16 حرف هيكسا سواء بمسافات أو بدون
+                # 1. البحث عن الشفرة بمرونة عالية (تدعم المسافات بين الحروف)
                 key_match = re.search(r'(?:CW:?\s*)([A-F0-9\s]{16,24})', text, re.I)
                 if not key_match:
-                    # محاولة أخرى للبحث عن 16 حرف هيكسا متتاليين حتى لو لم توجد كلمة CW
-                    raw_clean = re.sub(r'[^A-F0-9]', '', text.upper())
-                    key_match = re.search(r'([A-F0-9]{16})', raw_clean)
+                    # محاولة إيجاد 16 حرف هيكسا متصلين
+                    key_match = re.search(r'([A-F0-9]{16})', text.replace(" ", ""))
 
                 if key_match:
-                    if hasattr(key_match, 'group'):
-                        raw_key = key_match.group(1).replace(" ", "").replace("\n", "").upper()
-                    else:
-                        raw_key = key_match[0]
-
+                    raw_key = key_match.group(1).replace(" ", "").replace("\n", "").upper()
                     if len(raw_key) == 16 and raw_key not in old_keys:
-                        # 2. استخراج القمر (يدعم الأرقام والاتجاهات مثل 87.0W أو 10E)
-                        sat_m = re.search(r'(\d{1,3}(?:\.\d)?°?\s?[EW])', text, re.I)
-                        sat = sat_m.group(1).strip() if sat_m else "Sat-Universe"
+                        
+                        # 2. البحث عن القمر (دعم صيغة 87.0W أو Eutelsat)
+                        sat_m = re.search(r'(\d{1,3}\.\d°?\s?[EW]|Eutelsat\s?[^|\n]*)', text, re.I)
+                        sat = sat_m.group(1).strip() if sat_m else "Feed"
 
-                        # 3. استخراج التردد (يدعم 4 أو 5 أرقام مع القطبية والترميز)
-                        freq_m = re.search(r'(\d{4,5})\s*([VH])\s*(\d{4,5})', text, re.I)
+                        # 3. البحث عن التردد (دعم 4 أو 5 أرقام مثل 4110)
+                        freq_m = re.search(r'(\d{4,5})[\s:|-]*([VH]|Vertical|Horizontal)[\s:|-]*(\d{4,5})', text, re.I)
                         if freq_m:
-                            freq = f"{freq_m.group(1)} {freq_m.group(2).upper()} {freq_m.group(3)}"
+                            pol = "V" if freq_m.group(2).lower().startswith('v') else "H"
+                            freq = f"{freq_m.group(1)} {pol} {freq_m.group(3)}"
                         else:
                             freq = "00000 V 0000"
 
-                        # 4. استخراج اسم القناة (ID)
-                        id_m = re.search(r'ID:\s*([^\n]+)', text, re.I)
+                        # 4. البحث عن الـ ID
+                        id_m = re.search(r'ID:\s*([^\n|]+)', text, re.I)
                         channel = id_m.group(1).strip() if id_m else "Feed"
 
                         fmt_key = ' '.join(raw_key[i:i+2] for i in range(0, 16, 2))
                         new_keys.append(raw_key)
-                        messages.append(f"📡 Sat: {sat}\n📶 Freq: {freq}\n🆔 Id: {channel}\n🔑 CW: {fmt_key}")
+                        messages.append(f"Sat: {sat}\nFreq: {freq}\nId: {channel}\n🔑 CW: {fmt_key}")
                         json_entries.append({"satellite": sat, "frequency": freq, "id": channel, "key": fmt_key})
                         
         return messages, json_entries, new_keys
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error in Sat-Universe: {e}")
         return [], [], []
 
 if __name__ == "__main__":
     m1, j1, k1 = get_feeds()
     m2, j2, k2 = get_sat_universe_feeds()
     
-    all_msgs, all_json, all_keys = m1+m2, j1+j2, k1+k2
+    all_msgs = m1 + m2
+    all_json = j1 + j2
+    all_keys = k1 + k2
     
     if all_keys:
         with open(DB_FILE, "a") as f:
