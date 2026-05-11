@@ -1,13 +1,19 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
+    "frequency": "10989 H 4938",
+    "id": "ESSA Bars",
     "key": "81 31 32 E4 6C 6E 60 3A E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
+    "frequency": "10989 H 4938",
+    "id": "ESSA Bars",
+    "key": "81 31 32 E4 6C 6E 60 3A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "81 31 32 E4 6C 6E 60 3A"
   },
@@ -28,17 +34,5 @@
     "frequency": "12438 H 27500",
     "id": "Tszyu v Diaz",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10970 V 4800",
-    "id": "POL-10 ENC2",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10981 H 3600",
-    "id": "F6-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
   }
 ]
