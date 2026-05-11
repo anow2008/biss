@@ -14,7 +14,6 @@ SAT_PASS = os.getenv("SAT_PASS")
 DB_FILE = "last_keys_list.txt"
 JSON_FILE = "for me.json"
 
-# القائمة المحدثة بالرابط الجديد
 TARGET_TOPICS = [
     "https://www.sat-universe.com/index.php?threads/wrestling-world-championship-10e-7e.275203/",
     "https://www.sat-universe.com/index.php?threads/african-football-inc-caf-africa-cup-of-nations-other-caf-10%C2%B0e-7%C2%B0e-etc-etc.256328/",
@@ -74,42 +73,33 @@ def get_sat_universe_feeds():
     old_keys = open(DB_FILE, "r").read() if os.path.exists(DB_FILE) else ""
     
     try:
-        # تسجيل الدخول
         scraper.post("https://www.sat-universe.com/index.php?login/login", 
                      data={'login': SAT_USER, 'password': SAT_PASS, 'remember': 1}, headers=headers)
         
         for topic_url in TARGET_TOPICS:
-            # جلب الصفحة الرئيسية للموضوع لمعرفة آخر صفحة
             main_page = scraper.get(topic_url, headers=headers).text
             main_soup = BeautifulSoup(main_page, 'html.parser')
             nav = main_soup.find('ul', class_='pageNav-main')
-            
-            # إذا وجد صفحات متعددة يذهب لآخر صفحة، وإلا يبقى في الرئيسية
             target = f"{topic_url}page-{nav.find_all('li')[-1].text}" if nav else topic_url
             
-            # جلب محتوى الصفحة المستهدفة
             response = scraper.get(target, headers=headers).text
             posts = BeautifulSoup(response, 'html.parser').find_all('div', class_='bbWrapper')
             
             for post in posts:
-                text = post.get_text(separator='|')
+                text = post.get_text(separator='\n') # تغيير الفاصل لسهولة البحث
                 
-                # 1. البحث عن الشفرة (بصيغة مرنة جداً)
-                key_match = re.search(r'(?:CW:?\s*)([A-F0-9]{2}(?:\s[A-F0-9]{2}){7})', text, re.I)
-                if not key_match:
-                    # محاولة إيجاد 16 حرف هيكسا متصلين في حال عدم وجود كلمة CW
-                    key_match = re.search(r'([A-F0-9]{16})', text.replace(" ", "").upper())
-                
+                # 1. البحث عن الشفرة (CW) بصيغة مرنة جداً
+                key_match = re.search(r'(?:CW:?\s*)([A-F0-9\s]{16,23})', text, re.I)
                 if key_match:
-                    raw_key = key_match.group(1).replace(" ", "").upper()
+                    raw_key = key_match.group(1).replace(" ", "").replace("\n", "").upper()
                     if len(raw_key) == 16 and raw_key not in old_keys:
                         
-                        # 2. البحث عن القمر
-                        sat_m = re.search(r'(Eutelsat\s?[^|@\n]*\d+\.?\d*°?\s?[EW])', text, re.I)
-                        sat = sat_m.group(1).strip() if sat_m else "Sat-Universe Feed"
+                        # 2. البحث عن القمر (مثل 87.0W أو Eutelsat)
+                        sat_m = re.search(r'(\d{1,3}\.\d°?\s?[EW]|Eutelsat\s?[^|\n]*)', text, re.I)
+                        sat = sat_m.group(1).strip() if sat_m else "Feed Sat"
 
-                        # 3. البحث عن التردد
-                        freq_m = re.search(r'(\d{5})[\s:|-]*([VH]|Vertical|Horizontal)[\s:|-]*(\d{4,5})', text, re.I)
+                        # 3. البحث عن التردد (مثل 4110 V 15000)
+                        freq_m = re.search(r'(\d{4,5})[\s:|-]*([VH]|Vertical|Horizontal)[\s:|-]*(\d{4,5})', text, re.I)
                         if freq_m:
                             pol = "V" if freq_m.group(2).lower().startswith('v') else "H"
                             freq = f"{freq_m.group(1)} {pol} {freq_m.group(3)}"
@@ -117,7 +107,7 @@ def get_sat_universe_feeds():
                             freq = "00000 V 0000"
 
                         # 4. البحث عن الـ ID
-                        id_m = re.search(r'ID:\s*([A-Z0-9\-_/ ]+)', text, re.I)
+                        id_m = re.search(r'ID:\s*([^\n]+)', text, re.I)
                         channel = id_m.group(1).strip() if id_m else "Feed"
 
                         fmt_key = ' '.join(raw_key[i:i+2] for i in range(0, 16, 2))
@@ -139,16 +129,11 @@ if __name__ == "__main__":
     all_keys = k1 + k2
     
     if all_keys:
-        # حفظ المفاتيح الجديدة في القاعدة لمنع التكرار
         with open(DB_FILE, "a") as f:
             for k in all_keys: f.write(k + "\n")
-        
-        # تحديث ملف JSON
         update_json_file(all_json)
-        
-        # إرسال التنبيهات للتلجرام
         if TOKEN and CHAT_ID:
             s = cloudscraper.create_scraper()
             for m in all_msgs:
                 s.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data={"chat_id": CHAT_ID, "text": m})
-                time.sleep(1) # تأخير بسيط لتجنب سبام التلجرام
+                time.sleep(1)
