@@ -14,7 +14,7 @@ SAT_PASS = os.getenv("SAT_PASS")
 DB_FILE = "last_keys_list.txt"
 JSON_FILE = "for me.json"
 
-# إضافة الرابط الجديد للقائمة مع الحفاظ على الروابط القديمة
+# القائمة الكاملة بالروابط بما فيها الرابط الجديد
 TARGET_TOPICS = [
     "https://www.sat-universe.com/index.php?threads/wrestling-world-championship-10e-7e.275203/",
     "https://www.sat-universe.com/index.php?threads/african-football-inc-caf-africa-cup-of-nations-other-caf-10%C2%B0e-7%C2%B0e-etc-etc.256328/",
@@ -35,7 +35,7 @@ def update_json_file(new_data_list):
         json.dump(updated_data, f, ensure_ascii=False, indent=4)
 
 def get_feeds():
-    """الموقع الأول: live-feed.net - (لم يتم تغيير أي شيء هنا)"""
+    """الموقع الأول: live-feed.net - (نفس كودك الأصلي تماماً)"""
     URL = "https://live-feed.net/"
     scraper = cloudscraper.create_scraper()
     headers = {'User-Agent': 'Mozilla/5.0'}
@@ -50,6 +50,7 @@ def get_feeds():
             text = soup.get_text(separator='|')
             sat_m = re.search(r'([^|]+)@', text)
             sat = sat_m.group(1).strip() if sat_m else "Unknown Sat"
+            # تعديل التردد ليشمل 4 أو 5 أرقام لضمان الدقة
             freq_m = re.search(r'(\d{4,5}\s[VH]\s\d{4,5})', text)
             freq = freq_m.group(1).strip() if freq_m else "00000 V 0000"
             id_m = re.search(r'🆔\s*\|?([^|]+)', text)
@@ -67,7 +68,7 @@ def get_feeds():
         return [], [], []
 
 def get_sat_universe_feeds():
-    """الموقع الثاني: Sat-Universe (تم تحسين البحث لسحب الشفرات والترددات الرباعية)"""
+    """الموقع الثاني: Sat-Universe (تعديل جذري لسحب الشفرات المستعصية)"""
     scraper = cloudscraper.create_scraper()
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     messages, json_entries, new_keys = [], [], []
@@ -87,36 +88,42 @@ def get_sat_universe_feeds():
             posts = BeautifulSoup(response, 'html.parser').find_all('div', class_='bbWrapper')
             
             for post in posts:
-                text = post.get_text(separator='\n')
+                # سحب النص مع الحفاظ على الأسطر لسهولة البحث
+                text = post.get_text(separator='\n').strip()
                 
-                # 1. البحث عن الشفرة (تعديل لسحب الشفرات بمسافات أو بدون)
+                # 1. نظام سحب الشفرة (يبحث عن 16 حرف هيكسا حتى لو بينها مسافات)
+                # نمط مرن جداً للـ CW
                 key_match = re.search(r'(?:CW:?\s*)([A-F0-9\s]{16,24})', text, re.I)
                 if not key_match:
-                    key_match = re.search(r'([A-F0-9]{16})', text.replace(" ", ""))
+                    # محاولة أخيرة: البحث عن أي 16 حرف هيكسا متتاليين بعد تنظيف المسافات
+                    clean_text = text.replace(" ", "").replace("\n", "").upper()
+                    key_match = re.search(r'([A-F0-9]{16})', clean_text)
 
                 if key_match:
-                    raw_key = key_match.group(1).replace(" ", "").replace("\n", "").upper()
-                    if len(raw_key) == 16 and raw_key not in old_keys:
-                        
-                        # 2. البحث عن القمر (دعم صيغة 87.0W أو Eutelsat)
-                        sat_m = re.search(r'(\d{1,3}\.\d°?\s?[EW]|Eutelsat\s?[^|\n]*)', text, re.I)
+                    if hasattr(key_match, 'group'):
+                        raw_key = key_match.group(1).replace(" ", "").replace("\n", "").upper()
+                    else:
+                        raw_key = key_match[0]
+
+                    if len(raw_key) == 16 and raw_key not in old_keys and raw_key not in new_keys:
+                        # 2. استخراج القمر (يدعم صيغ مثل 87.0W أو Eutelsat)
+                        sat_m = re.search(r'(\d{1,3}(?:\.\d)?°?\s?[EW]|Eutelsat\s?[^|\n]*)', text, re.I)
                         sat = sat_m.group(1).strip() if sat_m else "Feed"
 
-                        # 3. البحث عن التردد (دعم 4 أو 5 أرقام مثل 4110)
+                        # 3. استخراج التردد (يدعم 4 أو 5 أرقام مثل 4110)
                         freq_m = re.search(r'(\d{4,5})[\s:|-]*([VH])[\s:|-]*(\d{4,5})', text, re.I)
                         if freq_m:
-                            pol = freq_m.group(2).upper()
-                            freq = f"{freq_m.group(1)} {pol} {freq_m.group(3)}"
+                            freq = f"{freq_m.group(1)} {freq_m.group(2).upper()} {freq_m.group(3)}"
                         else:
-                            freq = "00000 V 0000"
+                            freq = "Feed Freq"
 
-                        # 4. البحث عن الـ ID
+                        # 4. استخراج اسم القناة (ID)
                         id_m = re.search(r'ID:\s*([^\n|]+)', text, re.I)
                         channel = id_m.group(1).strip() if id_m else "Feed"
 
                         fmt_key = ' '.join(raw_key[i:i+2] for i in range(0, 16, 2))
                         new_keys.append(raw_key)
-                        messages.append(f"Sat: {sat}\nFreq: {freq}\nId: {channel}\n🔑 CW: {fmt_key}")
+                        messages.append(f"📡 Sat: {sat}\n📶 Freq: {freq}\n🆔 Id: {channel}\n🔑 CW: {fmt_key}")
                         json_entries.append({"satellite": sat, "frequency": freq, "id": channel, "key": fmt_key})
                         
         return messages, json_entries, new_keys
@@ -140,4 +147,4 @@ if __name__ == "__main__":
             s = cloudscraper.create_scraper()
             for m in all_msgs:
                 s.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data={"chat_id": CHAT_ID, "text": m})
-                time.sleep(1)
+                time.sleep(1) # تأخير لتفادي حظر التلجرام
