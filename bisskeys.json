@@ -7,7 +7,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11009 V 9875",
+    "frequency": "11010 V 9875",
     "id": "MAIN - E-285",
     "key": "CC 72 B2 F0 89 DA A5 08"
   },
@@ -31,13 +31,13 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 34000",
+    "frequency": "10731 V 34000",
     "id": "OVERON 1",
     "key": "74 A2 E2 F8 C1 8B E8 34"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 V 3670",
+    "frequency": "10818 V 3670",
     "id": "RMG Dubai HD",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
   },
@@ -46,11 +46,5 @@
     "frequency": "12437 H 27500",
     "id": "Tszyu v Diaz",
     "key": "7F 6E 5D 4A 4C 3B 2A B1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 05 8F"
   }
 ]
