@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Unknown",
+        "frequency": "11129 V 4398",
+        "id": "IDSNG 02 - CHAIN A ADM",
+        "key": "A1 15 22 D8 49 43 99 25"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10981 H 3600",
         "id": "F6-2 4.5MH",
@@ -40,23 +46,5 @@
         "frequency": "10732 V 34000",
         "id": "OVERON 1",
         "key": "74 A2 E2 F8 C1 8B E8 34"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 7",
-        "key": "2F 6A 1B B4 E7 3A CD EE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12640 H 7500",
-        "id": "AFD",
-        "key": "1D 38 BC 11 A5 9A AC EB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11021 V 9875",
-        "id": "GVA_Fi06",
-        "key": "AC 93 E6 25 BD AA 1F 86"
     }
 ]
