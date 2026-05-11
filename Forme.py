@@ -14,9 +14,11 @@ SAT_PASS = os.getenv("SAT_PASS")
 DB_FILE = "last_keys_list.txt"
 JSON_FILE = "for me.json"
 
+# القائمة المحدثة بالرابط الجديد
 TARGET_TOPICS = [
     "https://www.sat-universe.com/index.php?threads/wrestling-world-championship-10e-7e.275203/",
-    "https://www.sat-universe.com/index.php?threads/african-football-inc-caf-africa-cup-of-nations-other-caf-10%C2%B0e-7%C2%B0e-etc-etc.256328/"
+    "https://www.sat-universe.com/index.php?threads/african-football-inc-caf-africa-cup-of-nations-other-caf-10%C2%B0e-7%C2%B0e-etc-etc.256328/",
+    "https://www.sat-universe.com/index.php?threads/wrestling-wwe-tna-aew-impact-wosw-all-brands-all-events-keys-only-plz-no-chat-use-encryption-chat-for-chat.278606/"
 ]
 
 def update_json_file(new_data_list):
@@ -81,29 +83,32 @@ def get_sat_universe_feeds():
             main_page = scraper.get(topic_url, headers=headers).text
             main_soup = BeautifulSoup(main_page, 'html.parser')
             nav = main_soup.find('ul', class_='pageNav-main')
+            
+            # إذا وجد صفحات متعددة يذهب لآخر صفحة، وإلا يبقى في الرئيسية
             target = f"{topic_url}page-{nav.find_all('li')[-1].text}" if nav else topic_url
             
-            # جلب آخر صفحة
+            # جلب محتوى الصفحة المستهدفة
             response = scraper.get(target, headers=headers).text
             posts = BeautifulSoup(response, 'html.parser').find_all('div', class_='bbWrapper')
             
             for post in posts:
                 text = post.get_text(separator='|')
                 
-                # 1. البحث عن الشفرة (بصيغة مرنة جداً لتشمل #CW أو CW أو بدونها)
+                # 1. البحث عن الشفرة (بصيغة مرنة جداً)
                 key_match = re.search(r'(?:CW:?\s*)([A-F0-9]{2}(?:\s[A-F0-9]{2}){7})', text, re.I)
                 if not key_match:
-                    key_match = re.search(r'([A-F0-9]{16})', text.replace(" ", "")) # البحث عن 16 حرف هيكسا متصلين
+                    # محاولة إيجاد 16 حرف هيكسا متصلين في حال عدم وجود كلمة CW
+                    key_match = re.search(r'([A-F0-9]{16})', text.replace(" ", "").upper())
                 
                 if key_match:
                     raw_key = key_match.group(1).replace(" ", "").upper()
                     if len(raw_key) == 16 and raw_key not in old_keys:
                         
-                        # 2. البحث عن القمر (يدعم وجود رموز مثل °)
+                        # 2. البحث عن القمر
                         sat_m = re.search(r'(Eutelsat\s?[^|@\n]*\d+\.?\d*°?\s?[EW])', text, re.I)
-                        sat = sat_m.group(1).strip() if sat_m else "Eutelsat Feed"
+                        sat = sat_m.group(1).strip() if sat_m else "Sat-Universe Feed"
 
-                        # 3. البحث عن التردد (يدعم الفواصل الغريبة مثل - أو :)
+                        # 3. البحث عن التردد
                         freq_m = re.search(r'(\d{5})[\s:|-]*([VH]|Vertical|Horizontal)[\s:|-]*(\d{4,5})', text, re.I)
                         if freq_m:
                             pol = "V" if freq_m.group(2).lower().startswith('v') else "H"
@@ -134,10 +139,16 @@ if __name__ == "__main__":
     all_keys = k1 + k2
     
     if all_keys:
+        # حفظ المفاتيح الجديدة في القاعدة لمنع التكرار
         with open(DB_FILE, "a") as f:
             for k in all_keys: f.write(k + "\n")
+        
+        # تحديث ملف JSON
         update_json_file(all_json)
+        
+        # إرسال التنبيهات للتلجرام
         if TOKEN and CHAT_ID:
             s = cloudscraper.create_scraper()
             for m in all_msgs:
                 s.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data={"chat_id": CHAT_ID, "text": m})
+                time.sleep(1) # تأخير بسيط لتجنب سبام التلجرام
