@@ -14,7 +14,7 @@ SAT_PASS = os.getenv("SAT_PASS")
 DB_FILE = "last_keys_list.txt"
 JSON_FILE = "for me.json"
 
-# الروابط المستهدفة بما فيها الرابط الجديد
+# إضافة الرابط الجديد للقائمة مع الحفاظ على الروابط القديمة
 TARGET_TOPICS = [
     "https://www.sat-universe.com/index.php?threads/wrestling-world-championship-10e-7e.275203/",
     "https://www.sat-universe.com/index.php?threads/african-football-inc-caf-africa-cup-of-nations-other-caf-10%C2%B0e-7%C2%B0e-etc-etc.256328/",
@@ -35,7 +35,7 @@ def update_json_file(new_data_list):
         json.dump(updated_data, f, ensure_ascii=False, indent=4)
 
 def get_feeds():
-    """الموقع الأول: live-feed.net - (بدون تغيير)"""
+    """الموقع الأول: live-feed.net - (لم يتم تغيير أي شيء هنا)"""
     URL = "https://live-feed.net/"
     scraper = cloudscraper.create_scraper()
     headers = {'User-Agent': 'Mozilla/5.0'}
@@ -67,7 +67,7 @@ def get_feeds():
         return [], [], []
 
 def get_sat_universe_feeds():
-    """الموقع الثاني: Sat-Universe (تم تحسين البحث لسحب الترددات الرباعية والأقمار الغربية)"""
+    """الموقع الثاني: Sat-Universe (تم تحسين البحث لسحب الشفرات والترددات الرباعية)"""
     scraper = cloudscraper.create_scraper()
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     messages, json_entries, new_keys = [], [], []
@@ -89,10 +89,9 @@ def get_sat_universe_feeds():
             for post in posts:
                 text = post.get_text(separator='\n')
                 
-                # 1. البحث عن الشفرة بمرونة عالية (تدعم المسافات بين الحروف)
+                # 1. البحث عن الشفرة (تعديل لسحب الشفرات بمسافات أو بدون)
                 key_match = re.search(r'(?:CW:?\s*)([A-F0-9\s]{16,24})', text, re.I)
                 if not key_match:
-                    # محاولة إيجاد 16 حرف هيكسا متصلين
                     key_match = re.search(r'([A-F0-9]{16})', text.replace(" ", ""))
 
                 if key_match:
@@ -104,9 +103,9 @@ def get_sat_universe_feeds():
                         sat = sat_m.group(1).strip() if sat_m else "Feed"
 
                         # 3. البحث عن التردد (دعم 4 أو 5 أرقام مثل 4110)
-                        freq_m = re.search(r'(\d{4,5})[\s:|-]*([VH]|Vertical|Horizontal)[\s:|-]*(\d{4,5})', text, re.I)
+                        freq_m = re.search(r'(\d{4,5})[\s:|-]*([VH])[\s:|-]*(\d{4,5})', text, re.I)
                         if freq_m:
-                            pol = "V" if freq_m.group(2).lower().startswith('v') else "H"
+                            pol = freq_m.group(2).upper()
                             freq = f"{freq_m.group(1)} {pol} {freq_m.group(3)}"
                         else:
                             freq = "00000 V 0000"
