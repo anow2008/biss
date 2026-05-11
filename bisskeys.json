@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "81 31 32 E4 6C 6E 60 3A"
   },
@@ -28,5 +28,11 @@
     "frequency": "10986 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11067 H 9875",
+    "id": "FFBL Leipzig",
+    "key": "11 05 BF D5 AE 57 33 38"
   }
 ]
