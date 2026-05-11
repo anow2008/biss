@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10985 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
         "satellite": "Unknown",
         "frequency": "11129 V 4398",
         "id": "IDSNG 02 - CHAIN A ADM",
@@ -12,33 +18,9 @@
         "key": "20 25 AE F3 EA 52 02 3E"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL-10 ENC2",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11066 V 14400",
         "id": "MOTO GP 18 Mhz",
         "key": "78 1F A2 39 FE C7 83 48"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "81 31 32 E4 6C 6E 60 3A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL021 p1 WAW",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "DFB -Vfb stuttgart vs Sport-Club Freiburg",
-        "key": "7F 6E 5D 4A 4C 3B 2A B1"
     }
 ]
