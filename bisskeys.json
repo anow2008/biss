@@ -3,13 +3,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10982 H 4938",
     "id": "ESC_01",
-    "key": "29 99 85 47 12 42 A3 F7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11013 H 7120",
-    "id": "Championship semi final B 2 leg",
-    "key": "29 99 85 47 12 42 A3 F7"
+    "key": "81 31 32 E4 6C 6E 60 3A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -44,7 +38,7 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
-    "id": "CAF 1",
+    "id": "Enfusion 161",
     "key": "8A 4F 21 FA D7 3B 6E 80"
   }
 ]
