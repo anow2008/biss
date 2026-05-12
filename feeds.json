@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "enc-22",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11013 H 7120",
+        "id": "Championship semi final B 2 leg",
+        "key": "29 99 85 47 12 42 A3 F7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12564 H 7200",
         "id": "MRC-003/WF1",
         "key": "6B 2E 90 29 F8 A7 3C DB"
@@ -34,17 +46,5 @@
         "frequency": "10830 V 7200",
         "id": "GCUK ENC 02",
         "key": "DB AA 12 97 EF FE AA 97"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12546 H 7200",
-        "id": "M49-MRC007-Bu",
-        "key": "3F 91 A7 77 24 E8 D5 E1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "pol-053_enc2",
-        "key": "AB BA 26 8B DC AE 05 8F"
     }
 ]
