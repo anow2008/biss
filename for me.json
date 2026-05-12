@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11597 V 7500",
+        "id": "AFD",
+        "key": "FA 67 92 F3 31 00 B5 E6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11013 H 7120",
         "id": "Championship semi final B 2 leg",
         "key": "29 99 85 47 12 42 A3 F7"
