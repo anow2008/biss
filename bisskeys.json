@@ -1,15 +1,27 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10983 H 4938",
+    "frequency": "10982 H 4938",
     "id": "ESC_01",
     "key": "81 31 32 E4 6C 6E 60 3A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "81 31 32 E4 6C 6E 60 3A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12551 H 4938",
+    "id": "MNE-001 main",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12564 H 7200",
+    "id": "MRC-003/WF1",
+    "key": "6B 2E 90 29 F8 A7 3C DB"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -24,6 +36,12 @@
     "key": "E2 3A 9C B8 27 AA 5D 2E"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10767 V 34000",
+    "id": "SUPPONOR AFRICA 1",
+    "key": "31 F5 34 5A F8 5C 5D B1"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10830 V 7200",
     "id": "GCUK ENC 02",
@@ -32,7 +50,7 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
-    "id": "CAF 1",
+    "id": "Enfusion 161",
     "key": "8A 4F 21 FA D7 3B 6E 80"
   },
   {
@@ -46,5 +64,11 @@
     "frequency": "12515 H 4938",
     "id": "YSM-016 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 21B @ 21.5°E",
+    "frequency": "11145 H 10000",
+    "id": "E-272 MAIN",
+    "key": "E2 72 BA 0E 12 12 05 29"
   }
 ]
