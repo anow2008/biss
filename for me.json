@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10959 V 7200",
+        "id": "UAE-065",
+        "key": "2F 74 29 CC 63 E3 44 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10968 V 7200",
+        "id": "Main SAUDI015",
+        "key": "47 1B 2C 8E 68 B9 6E 8F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11523 V 7200",
+        "id": "CAF 3",
+        "key": "D5 2B 8F 8F A6 C9 1E 8D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "E394 MAIN",
+        "key": "89 7C B5 BA 4C D6 76 98"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12555 H 7200",
+        "id": "MRC003/ MAN",
+        "key": "D5 2B 8F 8F A6 C9 1E 8D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12574 H 7200",
+        "id": "Flavia 7C",
+        "key": "16 38 4A 98 BC D9 75 0A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7120",
+        "id": "GCUK Enc 13",
+        "key": "21 31 CD 1F DC 13 05 F4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7500",
+        "id": "DT SNG 2 MAIN",
+        "key": "3E 7E 3A F6 91 32 71 34"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11044 V 7200",
         "id": "Fi09_ GNVE",
         "key": "B0 AC 6C C8 2A 48 83 F5"
