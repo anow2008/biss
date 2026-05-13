@@ -3,13 +3,25 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "81 31 32 E4 6C 6E 60 3A E"
+    "key": "81 31 32 E4 6C 6E 60 3A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "81 31 32 E4 6C 6E 60 3A"
+    "frequency": "12547 H 7200",
+    "id": "M49-MRC007-Bu",
+    "key": "1F 7A 3C D5 91 B2 D6 19"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12565 H 7200",
+    "id": "MRC005-MAIN",
+    "key": "A1 C9 4E B8 32 D6 0F 17"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12645 H 14400",
+    "id": "SERVICE 1 EGY VS ETH",
+    "key": "A1 C9 4E B8 32 D6 0F 17"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -31,13 +43,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10982 V 4800",
+    "frequency": "10983 V 4800",
     "id": "POL-78 ENC 1",
     "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
+    "frequency": "10997 V 7500",
     "id": "POL070 TVN24 POZ",
     "key": "77 93 52 5C 99 08 86 27"
   }
