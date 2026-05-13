@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11597 V 7500",
+        "id": "AFD",
+        "key": "FA 67 92 F3 31 00 B5 E6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11013 H 7120",
         "id": "PITCH EFL Stockport v Stevenage leg 2",
         "key": "25 26 BC 07 53 CC BC DB"
