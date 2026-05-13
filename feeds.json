@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "OVERON 1",
+        "key": "A7 3A 95 76 5B 2F 5C E6"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11597 V 7500",
         "id": "AFD",
@@ -70,17 +76,5 @@
         "frequency": "12510 V 7200",
         "id": "E394 MAIN",
         "key": "89 7C B5 BA 4C D6 76 98"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7500",
-        "id": "DT SNG 2 MAIN",
-        "key": "3E 7E 3A F6 91 32 71 34"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7120",
-        "id": "GCUK Enc 13",
-        "key": "21 31 CD 1F DC 13 05 F4"
     }
 ]
