@@ -1,25 +1,49 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10959 V 7200",
+    "id": "UAE-065",
+    "key": "2F 74 29 CC 63 E3 44 8A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10968 V 7200",
+    "id": "Main SAUDI015",
+    "key": "47 1B 2C 8E 68 B9 6E 8F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11043 V 7200",
+    "id": "Fi09_ GNVE",
+    "key": "B0 AC 6C C8 2A 48 83 F5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "81 31 32 E4 6C 6E 60 3A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12547 H 7200",
-    "id": "M49-MRC007-Bu",
-    "key": "1F 7A 3C D5 91 B2 D6 19"
+    "frequency": "11523 V 7200",
+    "id": "CAF 3",
+    "key": "D5 2B 8F 8F A6 C9 1E 8D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
+    "frequency": "12555 H 7200",
+    "id": "MRC003/ MAN",
+    "key": "D5 2B 8F 8F A6 C9 1E 8D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12564 H 7200",
     "id": "MRC005-MAIN",
     "key": "A1 C9 4E B8 32 D6 0F 17"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12645 H 14400",
+    "frequency": "12644 H 14400",
     "id": "SERVICE 1 EGY VS ETH",
     "key": "A1 C9 4E B8 32 D6 0F 17"
   },
@@ -37,9 +61,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12438 H 27500",
-    "id": "SERVICE 1 EGY VS ETH",
+    "frequency": "12437 H 27500",
+    "id": "CAF 4",
     "key": "A1 C9 4E B8 32 D6 0F 17"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10977 V 4800",
+    "id": "POL - 054 Kielce",
+    "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -49,7 +79,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10997 V 7500",
+    "frequency": "10996 V 7500",
     "id": "POL070 TVN24 POZ",
     "key": "77 93 52 5C 99 08 86 27"
   }
