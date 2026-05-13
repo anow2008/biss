@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11013 H 7120",
+        "id": "PITCH EFL Stockport v Stevenage leg 2",
+        "key": "25 26 BC 07 53 CC BC DB"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL49 EN1 Kamesznica",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7200",
+        "id": "GCUK ENC 02",
+        "key": "42 BA 45 41 11 BE EC BB"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "AA 56 2B 2B 06 F1 8E 85"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11004 H 7200",
+        "id": "E-228 Main",
+        "key": "84 F5 DA 53 2F 25 96 EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12564 H 7200",
         "id": "MRC-003/WF2",
         "key": "4E 9A 61 49 C8 3F 20 27"
@@ -52,23 +82,5 @@
         "frequency": "12555 H 7200",
         "id": "MRC003/ MAN",
         "key": "D5 2B 8F 8F A6 C9 1E 8D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12573 H 7200",
-        "id": "Flavia 7C",
-        "key": "16 38 4A 98 BC D9 75 0A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10969 V 7200",
-        "id": "SAU-015",
-        "key": "47 1B 2C 8E 68 B9 6E 8F"
     }
 ]
