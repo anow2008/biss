@@ -1,66 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10977 V 7200",
-    "id": "UAE-065",
-    "key": "A4 16 91 4B 65 7B 5B 3B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10995 H 7200",
-    "id": "Fi01 ACB",
-    "key": "A4 16 91 4B 65 7B 5B 3B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10995 V 7200",
-    "id": "SAU-12A",
-    "key": "7C 32 7A 28 5E 2B E4 6D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11013 H 7120",
-    "id": "PITCH EFL Bradford V Bolton",
-    "key": "25 5A 22 A1 11 12 29 4C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11080 H 9875",
-    "id": "WU 17 M",
-    "key": "59 FA 04 57 31 2A B2 0D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7200",
-    "id": "CAF 4",
-    "key": "B8 3C 5A 4E 70 D4 F6 3A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12564 H 7200",
-    "id": "M00-MRC007-Main",
-    "key": "B8 3C 5A 4E 70 D4 F6 3A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12644 H 14400",
-    "id": "SERVICE 1 TAN VS MOZ",
-    "key": "9F 20 D6 95 A8 C1 3E A7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 H 7200",
-    "id": "EHF WCL FTC MET",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12699 V 14400",
-    "id": "ITA349 Main",
-    "key": "AB 22 BC 89 22 CD 22 11"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12727 V 7500",
     "id": "Preakness 2026 - Test",
     "key": "AB BA 33 98 43 83 70 36"
@@ -82,29 +22,5 @@
     "frequency": "10768 V 34000",
     "id": "SUPPONOR AFRICA 1",
     "key": "A8 E5 E3 70 77 80 76 6D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7120",
-    "id": "PGA WF Main",
-    "key": "21 46 DC 43 CD 14 05 E6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11619 V 7120",
-    "id": "GCUK Enc 7",
-    "key": "13 14 DA 01 AD 14 05 C6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12437 H 27500",
-    "id": "SERVICE 1 TAN VS MOZ",
-    "key": "9F 20 D6 95 A8 C1 3E A7"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10971 V 4800",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 05 8F"
   }
 ]
