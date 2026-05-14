@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12565 H 7200",
+        "id": "M00-MRC007-Main",
+        "key": "B8 3C 5A 4E 70 D4 F6 3A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11652 H 17100",
+        "id": "Unname",
+        "key": "DD 32 DC EB 12 3E 25 75"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12700 V 14400",
         "id": "ITA349 Main",
         "key": "AB 22 BC 89 22 CD 22 11"
@@ -40,29 +52,5 @@
         "frequency": "11610 V 7200",
         "id": "BWF Thailand Open WF-A C1 BISS-1",
         "key": "A3 F7 B2 4C E9 1C 4D 52"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL070 TVN24 POZ",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10970 V 4800",
-        "id": "POL-78 ENC 1",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12438 H 27500",
-        "id": "SERVICE 1 EGY VS ETH",
-        "key": "A1 C9 4E B8 32 D6 0F 17"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "OVERON 1",
-        "key": "A7 3A 95 76 5B 2F 5C E6"
     }
 ]
