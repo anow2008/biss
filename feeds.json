@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "A8 E5 E3 70 77 80 76 6D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7120",
+        "id": "PGA WF Main",
+        "key": "21 46 DC 43 CD 14 05 E6"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10995 H 7200",
         "id": "Fi01 ACB",
@@ -70,11 +82,5 @@
         "frequency": "12678 H 7200",
         "id": "EHF WCL FTC MET",
         "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12555 H 7200",
-        "id": "MRC003/ MAN",
-        "key": "E1 4B 7C A8 0F 6A B3 2C"
     }
 ]
