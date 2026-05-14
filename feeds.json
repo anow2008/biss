@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11013 H 7120",
+        "id": "PITCH EFL Bradford V Bolton",
+        "key": "25 5A 22 A1 11 12 29 4C"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10768 V 34000",
         "id": "SUPPONOR AFRICA 1",
@@ -76,11 +82,5 @@
         "frequency": "12644 H 14400",
         "id": "SERVICE 1 TAN VS MOZ",
         "key": "9F 20 D6 95 A8 C1 3E A7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 H 7200",
-        "id": "EHF WCL FTC MET",
-        "key": "13 57 AB 15 CD 24 68 59"
     }
 ]
