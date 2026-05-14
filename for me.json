@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11013 H 7120",
+        "id": "PITCH EFL Bradford V Bolton",
+        "key": "25 5A 22 A1 11 12 29 4C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10959 V 7200",
         "id": "E-398 MAIN",
         "key": "A5 CC 60 D1 01 4E 14 63"
