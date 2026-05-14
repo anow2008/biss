@@ -1,44 +1,80 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 2",
-        "key": "CE 21 BA A9 34 AB 18 F7"
+        "frequency": "10995 H 7200",
+        "id": "Fi01 ACB",
+        "key": "A4 16 91 4B 65 7B 5B 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10995 V 7200",
+        "id": "SAU-12A",
+        "key": "7C 32 7A 28 5E 2B E4 6D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12555 H 7200",
+        "id": "MRC003/ MAN",
+        "key": "E1 4B 7C A8 0F 6A 83 FC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10968 V 7200",
+        "id": "MNE-001 main",
+        "key": "43 51 B6 4A B4 C2 C2 38"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10841 H 9875",
+        "id": "E-412 SBK Main",
+        "key": "DE DE 45 01 67 DE DE 23"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10814 H 9700",
+        "id": "IIHF2026 - FRI - VO TIP",
+        "key": "7D A1 56 74 1C 50 EE 5A"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12509 H 4938",
-        "id": "YSM-021M",
-        "key": "AB BA 20 85 25 20 26 6B"
+        "frequency": "11067 H 9875",
+        "id": "DFB Cup Wolfsburg",
+        "key": "14 05 FD 16 FB 02 26 23"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10846 V 9700",
-        "id": "IIHF2026 - ZUR - VO PEN",
-        "key": "5B AE B2 BB D9 D7 3A EA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11044 V 7200",
-        "id": "Fi09_GNVE",
-        "key": "B0 AC 6C C8 2A 48 83 F5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11021 H 9875",
-        "id": "GVA_Fi08",
-        "key": "95 24 15 CE AD 9C 14 5D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "M00-MRC007-Main",
-        "key": "B8 3C 5A 4E 70 D4 F6 3A"
+        "frequency": "12553 H 7200",
+        "id": "D-561  LET AGM  Day 1  Path 1",
+        "key": "AA BB DD 42 EE 14 05 07"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11652 H 17100",
-        "id": "Unname",
-        "key": "DD 32 DC EB 12 3E 25 75"
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL270-1",
+        "key": "BF 96 C4 19 2A 91 71 2C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12727 V 7500",
+        "id": "Preakness 2026 - Test",
+        "key": "AB BA 33 98 43 83 70 36"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12644 H 14400",
+        "id": "SERVICE 1 TAN VS MOZ",
+        "key": "9F 20 D6 95 A8 C1 3E A7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 H 7200",
+        "id": "EHF WCL FTC MET",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12555 H 7200",
+        "id": "MRC003/ MAN",
+        "key": "E1 4B 7C A8 0F 6A B3 2C"
     }
 ]
