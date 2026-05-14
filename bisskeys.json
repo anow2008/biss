@@ -19,6 +19,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11013 H 7120",
+    "id": "PITCH EFL Bradford V Bolton",
+    "key": "25 5A 22 A1 11 12 29 4C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11080 H 9875",
     "id": "WU 17 M",
     "key": "59 FA 04 57 31 2A B2 0D"
@@ -31,19 +37,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12546 H 7200",
-    "id": "MRCO05-MAIN",
-    "key": "9F 20 D6 95 A8 C1 3E A7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12555 H 7200",
-    "id": "MRC003/ MAN",
-    "key": "E1 4B 7C A8 0F 6A 83 FC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
+    "frequency": "12564 H 7200",
     "id": "M00-MRC007-Main",
     "key": "B8 3C 5A 4E 70 D4 F6 3A"
   },
@@ -64,6 +58,12 @@
     "frequency": "12699 V 14400",
     "id": "ITA349 Main",
     "key": "AB 22 BC 89 22 CD 22 11"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "Preakness 2026 - Test",
+    "key": "AB BA 33 98 43 83 70 36"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
