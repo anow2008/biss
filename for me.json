@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11523 V 7200",
+        "id": "MLI vs ANG",
+        "key": "B8 3C 5A 4E 70 D4 F6 3A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12565 H 7200",
+        "id": "M00-MRC007-Main",
+        "key": "B8 3C 5A 4E 70 D4 F6 3A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11652 H 17100",
+        "id": "Unname",
+        "key": "DD 32 DC EB 12 3E 25 75"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11081 H 9875",
         "id": "WU 17 M",
         "key": "59 FA 04 57 31 2A B2 0D"
