@@ -1,15 +1,45 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10994 H 4938",
-    "id": "Contrib BCE",
-    "key": "12 14 AB D1 AB BA 2B 90"
+    "frequency": "10982 H 4938",
+    "id": "MLT-001 MAIN",
+    "key": "11 A3 1B CF 1B 66 66 E7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10995 V 7120",
+    "id": "Pitch Northampton saints V Bristol",
+    "key": "11 A3 1B CF 1B 66 66 E7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11000 H 4938",
+    "id": "AZE-BAK-023",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11006 H 4938",
+    "id": "ITA727ENC1",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11013 V 7120",
+    "id": "Pitch EFL Notts County V Chesterfield",
+    "key": "21 9D FA B8 24 A1 55 1A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11107 V 4938",
     "id": "Service 01",
     "key": "12 14 AB D1 AB BA 2B 90"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11469 V 7200",
+    "id": "GRENOBLE LNR FR",
+    "key": "F4 94 30 B8 05 15 F2 0C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -22,12 +52,6 @@
     "frequency": "11568 V 9875",
     "id": "SNG",
     "key": "25 65 4A D4 BF 15 98 6C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12545 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,12 +73,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12655 V 9600",
-    "id": "TB1_M6",
-    "key": "C8 0D 7C 51 8E F9 5D E4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12677 H 7200",
     "id": "ProD2 Carcassonne main",
     "key": "F5 12 30 37 05 15 F1 0B"
@@ -70,12 +88,6 @@
     "frequency": "12686 V 7500",
     "id": "LPGA - Kroger Queen City Championship presented by P&G Day 2",
     "key": "72 B0 E4 06 51 04 83 D8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "Preakness 2026 Black Eye Susan",
-    "key": "AB BA 33 98 43 83 70 36"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -97,6 +109,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10848 V 7200",
+    "id": "GCUK Enc 9",
+    "key": "4F 11 33 93 CB BE AD 36"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12437 H 27500",
     "id": "test2",
     "key": "22 22 22 66 22 22 22 66"
@@ -112,11 +130,5 @@
     "frequency": "10974 V 9600",
     "id": "POL-141 ENC1",
     "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11023 V 7200",
-    "id": "F5-1 4.5MH",
-    "key": "15 05 DB F5 AA 12 55 11"
   }
 ]
