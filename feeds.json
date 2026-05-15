@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "90 2C C7 83 7D 6E A5 90"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12677 V 7500",
         "id": "ENC 4",
@@ -70,17 +76,5 @@
         "frequency": "12574 H 7200",
         "id": "E-72 BACKUP",
         "key": "AB 15 05 C5 20 26 AB F1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11523 V 7200",
-        "id": "LNR SAT MDM/AGEN",
-        "key": "F4 86 30 AA 05 15 F1 0B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12686 V 7500",
-        "id": "LPGA - Kroger Queen City Championship presented by PG Day 2",
-        "key": "72 B0 E4 06 51 04 83 D8"
     }
 ]
