@@ -1,6 +1,66 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11523 V 7200",
+        "id": "LNR SAT MDM/AGEN",
+        "key": "F4 86 30 AA 05 15 F1 0B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12545 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12574 H 7200",
+        "id": "E-72 BACKUP",
+        "key": "AB 15 05 C5 20 26 AB F1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL103",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12602 V 7200",
+        "id": "Polsat Sport",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12677 V 7200",
+        "id": "ENC 4",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12686 V 7500",
+        "id": "LPGA - Kroger Queen City Championship presented by P&G Day 2",
+        "key": "72 B0 E4 06 51 04 83 D8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12727 V 7500",
+        "id": "Preakness 2026 Black Eye Susan",
+        "key": "AB BA 33 98 43 83 70 36"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "5C B4 5C 6C D3 67 C9 03"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "29 01 D5 FF 9A A9 85 C8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11107 V 4938",
         "id": "Service 01",
         "key": "12 14 AB D1 AB BA 2B 90"
