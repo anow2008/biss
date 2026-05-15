@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 3",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10731 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "90 2C C7 83 7D 6E A5 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10995 V 7120",
         "id": "Pitch Northampton saints V Bristol",
         "key": "11 A3 1B CF 1B 66 66 E7"
