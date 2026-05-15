@@ -1,1 +1,98 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "E-398 MAIN",
+        "key": "A5 CC 60 D1 01 4E 14 63"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11013 V 8020",
+        "id": "Fi11_GNVE",
+        "key": "B7 FE 50 05 52 E0 4E 80"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11044 V 7200",
+        "id": "Fi09_GNVE",
+        "key": "B0 AC 6C C8 2A 48 83 F5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11128 H 9700",
+        "id": "CEV TO",
+        "key": "CF B5 7C 00 68 C7 82 B1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12655 V 9600",
+        "id": "TB1_M6",
+        "key": "C8 0D 7C 51 8E F9 5D E4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12678 V 7120",
+        "id": "EDM HD ENC-1",
+        "key": "B2 C5 D3 4A E6 F4 A7 81"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12700 V 14400",
+        "id": "ITA349 Main",
+        "key": "AB 22 BC 89 22 CD 22 11"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10803 H 10000",
+        "id": "GCUK Enc 08",
+        "key": "AB AD AD 05 AC AE BE 18"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10842 H 9875",
+        "id": "E-412 SBK Main",
+        "key": "CD CD 22 BC 22 CD CD BC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10846 V 9875",
+        "id": "IPF",
+        "key": "F3 46 BC F5 AC 68 D1 E5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL270-1",
+        "key": "D5 66 17 52 96 AE 88 CC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11618 V 7120",
+        "id": "GCUK Enc 7",
+        "key": "13 14 DA 01 AD 15 05 C7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12437 H 27500",
+        "id": "test2",
+        "key": "22 22 22 66 22 22 22 66"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "D0 89 10 69 14 10 BF E3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO PEN",
+        "key": "E4 8F 7F F2 DD 05 15 F7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12609 V 9700",
+        "id": "IIHF2026 - ZUR - VO GER",
+        "key": "93 13 14 BA 7D 6F A8 94"
+    }
+]
