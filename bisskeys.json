@@ -3,7 +3,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10959 V 7200",
     "id": "WSHT ENC58",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
+    "key": "11 CD 53 31 24 B6 D2 AC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,12 +31,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
-    "id": "E-276 MAIN",
-    "key": "F1 BA EC 97 ED 83 87 F7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "5D 8D EF D9 2C AF 30 0B"
@@ -49,19 +43,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11568 V 9875",
+    "frequency": "11569 V 9875",
     "id": "SNG",
     "key": "25 65 4A D4 BF 15 98 6C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11597 V 7200",
-    "id": "Encoder 2",
-    "key": "6B 45 77 27 AC BB 74 DB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12564 H 7200",
+    "frequency": "12565 H 7200",
     "id": "MRCO05-BUCKUP",
     "key": "2C 8E 5D 17 A1 F9 3B D5"
   },
@@ -82,12 +70,6 @@
     "frequency": "12644 H 14400",
     "id": "DRC VS CIV",
     "key": "2C 8E 5D 17 A1 F9 3B D5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 H 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "16 05 FA 15 CD 20 26 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -114,6 +96,12 @@
     "key": "AB BA 33 98 43 83 70 36"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "UFC Fight Night on P+ #11: All Fights",
+    "key": "11 CD 53 31 24 B6 D2 AC"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10731 V 34000",
     "id": "LIGA HYPERMOTION 1",
@@ -133,7 +121,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10826 H 9700",
+    "frequency": "10827 H 9700",
     "id": "IIHF2026 - FRI - WF",
     "key": "E0 97 FC 73 01 A9 A7 51"
   },
@@ -151,31 +139,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11015 V 7200",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11084 H 7200",
     "id": "POL-102   MAIN",
     "key": "26 AC 05 D7 05 DC 26 07"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11091 H 4938",
+    "frequency": "11090 H 4938",
     "id": "POL-102  Backup",
     "key": "26 AC 05 D7 05 DC 26 07"
   }
