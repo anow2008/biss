@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11106 H 7120",
+        "id": "PITCH Gallagher Prem Saracens V Gloucester",
+        "key": "90 09 AC 45 CA 87 78 C9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11009 V 9875",
+        "id": "E-289 Main",
+        "key": "86 44 2E F8 F5 85 B6 30"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7200",
+        "id": "Encoder 1",
+        "key": "F2 57 79 C2 45 F6 57 92"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11059 V 4938",
+        "id": "Service 01",
+        "key": "12 14 AB D1 AB BA 2B 90"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7120",
+        "id": "PGA WF Main",
+        "key": "11 43 AD 01 DC 16 05 F7"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11247 H 7200",
         "id": "ENC 10",
@@ -16,65 +52,5 @@
         "frequency": "11568 V 9875",
         "id": "SNG",
         "key": "25 65 4A D4 BF 15 98 6C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10985 V 9600",
-        "id": "TB1_M6",
-        "key": "C8 0D 7C 51 8E F9 5D E4"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 H 7200",
-        "id": "Medialink CRO-024/1",
-        "key": "16 05 FA 15 CD 20 26 13"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL11_HARM",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12555 H 7200",
-        "id": "M00-MRC007-Main",
-        "key": "F6 A3 1B B4 4E 92 D7 B7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7200",
-        "id": "Top10",
-        "key": "3E 83 F2 B3 CA 53 9D BA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12705 V 7120",
-        "id": "PITCH Gallagher Prem Harlequins V Exeter",
-        "key": "7C 44 B2 72 B1 7A AA D5"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11091 H 4938",
-        "id": "POL-102  Backup",
-        "key": "26 AC 05 D7 05 DC 26 07"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11651 H 17100",
-        "id": "Unname",
-        "key": "DD 32 DC EB 12 3E 25 75"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11494 V 4938",
-        "id": "Jernas01-M",
-        "key": "62 FB B4 11 49 9B 67 4B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11507 V 4938",
-        "id": "Backup",
-        "key": "B7 8E 99 DE 6F B5 7A 9E"
     }
 ]
