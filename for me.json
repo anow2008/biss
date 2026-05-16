@@ -2,6 +2,30 @@
     {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11597 V 7200",
+        "id": "Encoder 2",
+        "key": "6B 45 77 27 AC BB 74 DB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12616 H 7200",
+        "id": "F634/1/PFCvPSG INTER DIRTY",
+        "key": "BD AF 56 C2 48 AA BB AD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10814 H 9700",
+        "id": "IIHF2026 - FRI - VO TIP",
+        "key": "B2 51 5C 5F F3 4A B9 F6"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11015 V 7200",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11597 V 7200",
         "id": "Main",
         "key": "1D 69 78 FE 28 1A C1 03"
     },
