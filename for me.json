@@ -3,6 +3,18 @@
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10959 V 7200",
         "id": "WSHT ENC58",
+        "key": "11 CD 53 31 24 B6 D2 AC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "UFC Fight Night on P+ #11: All Fights",
+        "key": "11 CD 53 31 24 B6 D2 AC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10959 V 7200",
+        "id": "WSHT ENC58",
         "key": "66 AB 73 84 DC 23 A5 A4"
     },
     {
