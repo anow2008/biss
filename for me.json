@@ -1,6 +1,72 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10985 V 9600",
+        "id": "TB1_M6",
+        "key": "C8 0D 7C 51 8E F9 5D E4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10997 V 9875",
+        "id": "DECBC_Fi01_MOP4",
+        "key": "B3 1F A4 76 FD 70 AF 1C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11568 V 9875",
+        "id": "SNG",
+        "key": "25 65 4A D4 BF 15 98 6C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11588 V 7200",
+        "id": "CAM vs UGA",
+        "key": "F6 A3 1B B4 4E 92 D7 B7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "Top10",
+        "key": "3E 83 F2 B3 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12555 H 7200",
+        "id": "M00-MRC007-Main",
+        "key": "F6 A3 1B B4 4E 92 D7 B7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12616 H 7200",
+        "id": "F634/1/PFCvPSG INTER DIRTY",
+        "key": "BD AF 56 C2 48 AA BB AD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12678 H 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "16 05 FA 15 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12687 H 7200",
+        "id": "ENC 11",
+        "key": "16 05 CC E7 F7 8D E2 66"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12704 V 7120",
+        "id": "PITCH Gallagher Prem Harlequins V Exeter",
+        "key": "7C 44 B2 72 B1 7A AA D5"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11247 H 7200",
+        "id": "ENC 10",
+        "key": "16 05 CC E7 F7 8D E2 66"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10983 H 4938",
         "id": "MLT-001 MAIN",
         "key": "D5 4B A7 C7 90 0D 11 AE"
