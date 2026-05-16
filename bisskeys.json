@@ -43,12 +43,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11106 H 7120",
-    "id": "PITCH Gallagher Prem Saracens V Gloucester",
-    "key": "90 09 AC 45 CA 87 78 C9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11128 H 9700",
     "id": "CEV TO",
     "key": "68 AD A2 B7 76 BC AE E0"
@@ -115,21 +109,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12704 V 7120",
-    "id": "PITCH Gallagher Prem Harlequins V Exeter",
-    "key": "7C 44 B2 72 B1 7A AA D5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12727 V 7500",
     "id": "Preakness 2026 Black Eye Susan",
     "key": "AB BA 33 98 43 83 70 36"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 2",
-    "key": "BC B3 12 81 4C AA BA B0"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
