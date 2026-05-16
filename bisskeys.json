@@ -1,27 +1,27 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10983 H 4938",
+    "frequency": "10959 V 7200",
+    "id": "WSHT ENC58",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10982 H 4938",
     "id": "MLT-001 MAIN",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10985 V 9600",
-    "id": "TB1_M6",
-    "key": "C8 0D 7C 51 8E F9 5D E4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11007 H 4938",
-    "id": "ITA727ENC1",
+    "frequency": "11000 H 4938",
+    "id": "AZE-BAK-023",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11009 V 9875",
-    "id": "E-289 Main",
-    "key": "86 44 2E F8 F5 85 B6 30"
+    "frequency": "11006 H 4938",
+    "id": "ITA727ENC1",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -55,56 +55,20 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11495 V 4938",
-    "id": "Jernas#01-M",
-    "key": "62 FB B4 11 49 9B 67 4B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11501 V 4938",
-    "id": "BU",
-    "key": "FA A3 C5 62 48 36 50 CE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11507 V 4938",
-    "id": "Main",
-    "key": "B7 8E 99 DE 6F B5 7A 9E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11568 V 9875",
     "id": "SNG",
     "key": "25 65 4A D4 BF 15 98 6C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 V 7200",
-    "id": "CAM vs UGA",
-    "key": "F6 A3 1B B4 4E 92 D7 B7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11597 V 7200",
-    "id": "Main",
-    "key": "1D 69 78 FE 28 1A C1 03"
+    "id": "Encoder 2",
+    "key": "6B 45 77 27 AC BB 74 DB"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "Encoder 1",
-    "key": "F2 57 79 C2 45 F6 57 92"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12556 H 7200",
-    "id": "M00-MRC007-Main",
-    "key": "F6 A3 1B B4 4E 92 D7 B7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "MRCO05-MAIN",
+    "frequency": "12564 H 7200",
+    "id": "MRCO05-BUCKUP",
     "key": "2C 8E 5D 17 A1 F9 3B D5"
   },
   {
@@ -112,6 +76,18 @@
     "frequency": "12574 H 7200",
     "id": "MRC003/ MAN",
     "key": "7D 09 C3 49 61 B8 E2 FB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12616 H 7200",
+    "id": "F634/1/PFCvPSG INTER DIRTY",
+    "key": "BD AF 56 C2 48 AA BB AD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12644 H 14400",
+    "id": "DRC VS CIV",
+    "key": "2C 8E 5D 17 A1 F9 3B D5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -168,20 +144,14 @@
     "key": "16 05 CC E7 F7 8D E2 66"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11288 V 7200",
-    "id": "F386 VIA STORIA",
-    "key": "D0 51 6E 8F 70 FF DC 4B"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10814 H 9700",
     "id": "IIHF2026 - FRI - VO TIP",
-    "key": "E0 97 FC 73 01 A9 A7 51"
+    "key": "B2 51 5C 5F F3 4A B9 F6"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10827 H 9700",
+    "frequency": "10826 H 9700",
     "id": "IIHF2026 - FRI - WF",
     "key": "E0 97 FC 73 01 A9 A7 51"
   },
@@ -193,20 +163,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "id": "D-561 | LET AGM | Day 3 | Path 1",
-    "key": "AA BB DD 42 EE 16 05 09"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12585 V 9700",
     "id": "IIHF2026 - ZUR - WF",
     "key": "11 C4 3A 0F 63 7C 81 60"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10971 V 4800",
-    "id": "POL11_HARM",
+    "frequency": "10974 V 9600",
+    "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
@@ -217,13 +181,19 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11015 V 7200",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11084 H 7200",
     "id": "POL-102   MAIN",
     "key": "26 AC 05 D7 05 DC 26 07"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11090 H 4938",
+    "frequency": "11091 H 4938",
     "id": "POL-102  Backup",
     "key": "26 AC 05 D7 05 DC 26 07"
   }
