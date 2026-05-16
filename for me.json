@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10959 V 7200",
+        "id": "WSHT ENC58",
+        "key": "66 AB 73 84 DC 23 A5 A4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11597 V 7200",
         "id": "Encoder 2",
         "key": "6B 45 77 27 AC BB 74 DB"
