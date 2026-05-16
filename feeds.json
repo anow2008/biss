@@ -64,11 +64,5 @@
         "frequency": "12585 V 9700",
         "id": "IIHF2026 - ZUR - WF",
         "key": "11 C4 3A 0F 63 7C 81 60"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10827 H 9700",
-        "id": "IIHF2026 - FRI - WF",
-        "key": "E0 97 FC 73 01 A9 A7 51"
     }
 ]
