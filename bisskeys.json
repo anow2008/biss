@@ -25,13 +25,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "5D 8D EF D9 2C AF 30 0B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11568 V 9875",
+    "frequency": "11569 V 9875",
     "id": "SNG",
     "key": "25 65 4A D4 BF 15 98 6C"
   },
@@ -66,12 +60,6 @@
     "key": "90 2C C7 83 7D 6E A5 90"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11246 H 7200",
-    "id": "ENC 10",
-    "key": "16 05 CC E7 F7 8D E2 66"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "GCUK Enc 9",
@@ -82,17 +70,5 @@
     "frequency": "10830 V 7120",
     "id": "PGA WF Main",
     "key": "11 43 AD 01 DC 16 05 F7"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11083 H 7200",
-    "id": "POL-102   MAIN",
-    "key": "26 AC 05 D7 05 DC 26 07"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11090 H 4938",
-    "id": "POL-102  Backup",
-    "key": "26 AC 05 D7 05 DC 26 07"
   }
 ]
