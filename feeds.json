@@ -58,11 +58,5 @@
         "frequency": "12574 H 7200",
         "id": "MRC003/ MAN",
         "key": "7D 09 C3 49 61 B8 E2 FB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12585 V 9700",
-        "id": "IIHF2026 - ZUR - WF",
-        "key": "11 C4 3A 0F 63 7C 81 60"
     }
 ]
