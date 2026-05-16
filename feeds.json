@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "UFC Fight Night on P 11 All Fights",
+        "key": "11 CD 53 31 24 B6 D2 AC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10959 V 7200",
+        "id": "WSHT ENC58",
+        "key": "66 AB 73 84 DC 23 A5 A4"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10814 H 9700",
         "id": "IIHF2026 - FRI - VO TIP",
@@ -58,23 +70,5 @@
         "frequency": "10827 H 9700",
         "id": "IIHF2026 - FRI - WF",
         "key": "E0 97 FC 73 01 A9 A7 51"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11106 H 7120",
-        "id": "PITCH Gallagher Prem Saracens V Gloucester",
-        "key": "90 09 AC 45 CA 87 78 C9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11009 V 9875",
-        "id": "E-289 Main",
-        "key": "86 44 2E F8 F5 85 B6 30"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 V 7200",
-        "id": "Encoder 1",
-        "key": "F2 57 79 C2 45 F6 57 92"
     }
 ]
