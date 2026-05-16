@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10983 H 4938",
-    "id": "MLT-001 MAIN",
+    "frequency": "10995 H 4938",
+    "id": "Contrib BCE",
     "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7200",
-    "id": "Fi11_GNVE",
-    "key": "F0 40 59 89 EF 09 7E 76"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,27 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11007 H 4938",
-    "id": "ITA727ENC1",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 9875",
+    "frequency": "11021 V 9875",
     "id": "Fi14_GNVE",
     "key": "54 80 D2 A6 9B 0E 1D C6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11044 V 7200",
-    "id": "Fi09_GNVE",
-    "key": "B0 AC 6C C8 2A 48 83 F5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "E-276 MAIN",
-    "key": "F1 BA EC 97 ED 83 87 F7"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -55,7 +31,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11494 V 4938",
+    "frequency": "11495 V 4938",
     "id": "Jernas#01-M",
     "key": "62 FB B4 11 49 9B 67 4B"
   },
@@ -73,9 +49,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11598 V 7200",
+    "frequency": "11588 V 7200",
+    "id": "CAM vs UGA",
+    "key": "F6 A3 1B B4 4E 92 D7 B7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11597 V 7200",
     "id": "Main",
     "key": "1D 69 78 FE 28 1A C1 03"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7200",
+    "id": "Top10",
+    "key": "3E 83 F2 B3 CA 53 9D BA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,9 +73,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12696 V 7200",
-    "id": "TKS.TRT.M29-A",
-    "key": "4E 5B 24 CD 3D D2 4A 59"
+    "frequency": "12555 H 7200",
+    "id": "M00-MRC007-Main",
+    "key": "F6 A3 1B B4 4E 92 D7 B7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12705 V 7120",
+    "id": "PITCH Gallagher Prem Harlequins V Exeter",
+    "key": "7C 44 B2 72 B1 7A AA D5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -103,7 +97,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11288 V 7200",
+    "frequency": "11287 V 7200",
     "id": "F386 VIA STORIA",
     "key": "D0 51 6E 8F 70 FF DC 4B"
   },
@@ -127,21 +121,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10846 V 9875",
-    "id": "IPF",
-    "key": "8B E9 18 8C 3E A9 8F 76"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11592 H 9600",
     "id": "NLEMG HOL270-1",
     "key": "64 91 FB F0 3F 63 1D BF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11618 V 7120",
+    "frequency": "11619 V 7120",
     "id": "Pitch PGA Early Coverage",
     "key": "13 14 DA 01 AD 16 05 C8"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11651 H 17100",
+    "id": "Unname",
+    "key": "DD 32 DC EB 12 3E 25 75"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -163,9 +157,21 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 V 4800",
+    "frequency": "10977 V 4800",
     "id": "POL-10 ENC2",
     "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11084 H 7200",
+    "id": "POL-102   MAIN",
+    "key": "26 AC 05 D7 05 DC 26 07"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11091 H 4938",
+    "id": "POL-102  Backup",
+    "key": "26 AC 05 D7 05 DC 26 07"
   },
   {
     "satellite": "Eutelsat 21B @ 21.5°E",
