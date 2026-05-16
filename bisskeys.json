@@ -1,21 +1,27 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10983 H 4938",
+    "id": "MLT-001 MAIN",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10985 V 9600",
     "id": "TB1_M6",
     "key": "C8 0D 7C 51 8E F9 5D E4"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11009 V 9875",
-    "id": "E-289 Main",
-    "key": "86 44 2E F8 F5 85 B6 30"
+    "frequency": "11007 H 4938",
+    "id": "ITA727ENC1",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11021 V 9875",
-    "id": "Fi14_GNVE",
-    "key": "54 80 D2 A6 9B 0E 1D C6"
+    "frequency": "11009 V 9875",
+    "id": "E-289 Main",
+    "key": "86 44 2E F8 F5 85 B6 30"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,15 +85,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "Encoder 1",
-    "key": "F2 57 79 C2 45 F6 57 92"
+    "frequency": "11597 V 7200",
+    "id": "Main",
+    "key": "1D 69 78 FE 28 1A C1 03"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "Top10",
-    "key": "3E 83 F2 B3 CA 53 9D BA"
+    "frequency": "11606 V 7200",
+    "id": "Encoder 1",
+    "key": "F2 57 79 C2 45 F6 57 92"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -97,9 +103,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12565 H 7200",
+    "id": "MRCO05-MAIN",
+    "key": "2C 8E 5D 17 A1 F9 3B D5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12574 H 7200",
+    "id": "MRC003/ MAN",
+    "key": "7D 09 C3 49 61 B8 E2 FB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12677 H 7200",
     "id": "Medialink CRO-024/1",
     "key": "16 05 FA 15 CD 20 26 13"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -109,9 +133,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12686 V 7500",
+    "id": "LPGA - Kroger Queen City Championship presented by P&G Day 3",
+    "key": "72 B0 E4 06 51 04 83 D8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12704 V 7120",
     "id": "PITCH Gallagher Prem Harlequins V Exeter",
     "key": "7C 44 B2 72 B1 7A AA D5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "Preakness 2026 Black Eye Susan",
+    "key": "AB BA 33 98 43 83 70 36"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
