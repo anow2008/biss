@@ -1,15 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10995 H 4938",
-    "id": "Contrib BCE",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
+    "frequency": "10985 V 9600",
+    "id": "TB1_M6",
+    "key": "C8 0D 7C 51 8E F9 5D E4"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11001 H 4938",
-    "id": "AZE-BAK-023",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
+    "frequency": "10997 V 9875",
+    "id": "DECBC_Fi01_MOP4",
+    "key": "B3 1F A4 76 FD 70 AF 1C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,7 +19,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "5D 8D EF D9 2C AF 30 0B"
   },
@@ -43,9 +43,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11514 V 7200",
-    "id": "TUN vs EGY",
-    "key": "2C 8E 5D 17 A1 F9 3B D5"
+    "frequency": "11568 V 9875",
+    "id": "SNG",
+    "key": "25 65 4A D4 BF 15 98 6C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,19 +67,31 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12546 H 7200",
-    "id": "MRCO05-BUCKUP",
-    "key": "2C 8E 5D 17 A1 F9 3B D5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12555 H 7200",
     "id": "M00-MRC007-Main",
     "key": "F6 A3 1B B4 4E 92 D7 B7"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12705 V 7120",
+    "frequency": "12616 H 7200",
+    "id": "F634/1/PFCvPSG INTER DIRTY",
+    "key": "BD AF 56 C2 48 AA BB AD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12678 H 7200",
+    "id": "Medialink CRO-024/1",
+    "key": "16 05 FA 15 CD 20 26 13"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 H 7200",
+    "id": "ENC 11",
+    "key": "16 05 CC E7 F7 8D E2 66"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12704 V 7120",
     "id": "PITCH Gallagher Prem Harlequins V Exeter",
     "key": "7C 44 B2 72 B1 7A AA D5"
   },
@@ -97,6 +109,12 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11247 H 7200",
+    "id": "ENC 10",
+    "key": "16 05 CC E7 F7 8D E2 66"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "11287 V 7200",
     "id": "F386 VIA STORIA",
     "key": "D0 51 6E 8F 70 FF DC 4B"
@@ -109,15 +127,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10827 H 9700",
+    "frequency": "10826 H 9700",
     "id": "IIHF2026 - FRI - WF",
     "key": "BD 95 EE 40 F8 20 18 30"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7200",
-    "id": "GCUK Enc 9",
-    "key": "46 11 DF 36 23 BC CA A9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -150,28 +162,16 @@
     "key": "FC 85 C0 41 E8 D6 01 BF"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12611 V 7500",
-    "id": "TUR 112 MAIN",
-    "key": "D6 6E 97 DB 56 83 9B 74"
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10971 V 4800",
+    "id": "POL11_HARM",
+    "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10977 V 4800",
     "id": "POL-10 ENC2",
     "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11084 H 7200",
-    "id": "POL-102   MAIN",
-    "key": "26 AC 05 D7 05 DC 26 07"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11091 H 4938",
-    "id": "POL-102  Backup",
-    "key": "26 AC 05 D7 05 DC 26 07"
   },
   {
     "satellite": "Eutelsat 21B @ 21.5°E",
