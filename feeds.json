@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11247 H 7200",
+        "id": "ENC 10",
+        "key": "16 05 CC E7 F7 8D E2 66"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12616 H 7200",
+        "id": "F634/1/PFCvPSG INTER DIRTY",
+        "key": "BD AF 56 C2 48 AA BB AD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11568 V 9875",
+        "id": "SNG",
+        "key": "25 65 4A D4 BF 15 98 6C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10985 V 9600",
+        "id": "TB1_M6",
+        "key": "C8 0D 7C 51 8E F9 5D E4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 H 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "16 05 FA 15 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10971 V 4800",
+        "id": "POL11_HARM",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12555 H 7200",
         "id": "M00-MRC007-Main",
@@ -40,29 +76,5 @@
         "frequency": "11507 V 4938",
         "id": "Backup",
         "key": "B7 8E 99 DE 6F B5 7A 9E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 V 9875",
-        "id": "Fi14_GNVE",
-        "key": "54 80 D2 A6 9B 0E 1D C6"
-    },
-    {
-        "satellite": "Eutelsat 21B @ 21.5°E",
-        "frequency": "11668 H 6666",
-        "id": "FRBEIN_ENC_01",
-        "key": "CD EA 45 FC 89 EE 32 A9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10983 H 4938",
-        "id": "MLT-001 MAIN",
-        "key": "D5 4B A7 C7 90 0D 11 AE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12728 V 7500",
-        "id": "Preakness 2026 Black Eye Susan",
-        "key": "AB BA 33 98 43 83 70 36"
     }
 ]
