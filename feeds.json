@@ -1,80 +1,92 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10731 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "90 2C C7 83 7D 6E A5 90"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11494 V 4938",
+        "id": "Jernas01-M",
+        "key": "62 FB B4 11 49 9B 67 4B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7500",
-        "id": "ENC 4",
-        "key": "F1 07 45 3D E6 CB AD 5E"
+        "frequency": "11507 V 4938",
+        "id": "Backup",
+        "key": "B7 8E 99 DE 6F B5 7A 9E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 3",
-        "key": "12 3C AA F8 14 22 A3 D9"
+        "frequency": "11022 V 9875",
+        "id": "Fi14_GNVE",
+        "key": "54 80 D2 A6 9B 0E 1D C6"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "GCUK Enc 9",
-        "key": "4F 11 33 93 CB BE AD 36"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10995 V 7120",
-        "id": "Pitch Northampton saints V Bristol",
-        "key": "11 A3 1B CF 1B 66 66 E7"
+        "satellite": "Eutelsat 21B @ 21.5°E",
+        "frequency": "11668 H 6666",
+        "id": "FRBEIN_ENC_01",
+        "key": "CD EA 45 FC 89 EE 32 A9"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11000 H 4938",
-        "id": "AZE-BAK-023",
+        "frequency": "10983 H 4938",
+        "id": "MLT-001 MAIN",
         "key": "D5 4B A7 C7 90 0D 11 AE"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11013 V 7120",
-        "id": "Pitch EFL Notts County V Chesterfield",
-        "key": "21 9D FA B8 24 A1 55 1A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11469 V 7200",
-        "id": "GRENOBLE LNR FR",
-        "key": "F4 94 30 B8 05 15 F2 0C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10814 H 9700",
-        "id": "IIHF2026 - FRI - VO TIP",
-        "key": "7D 3E FF BA 3A 30 56 C0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 H 7200",
-        "id": "ProD2 Carcassonne main",
-        "key": "F5 12 30 37 05 15 F1 0B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12727 V 7500",
+        "frequency": "12728 V 7500",
         "id": "Preakness 2026 Black Eye Susan",
         "key": "AB BA 33 98 43 83 70 36"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12574 H 7200",
-        "id": "E-72 BACKUP",
-        "key": "AB 15 05 C5 20 26 AB F1"
+        "frequency": "11598 V 7200",
+        "id": "Main",
+        "key": "1D 69 78 FE 28 1A C1 03"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11062 H 7200",
+        "id": "Fi18_GNVE",
+        "key": "F1 BA EC 97 ED 83 87 F7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11514 V 7200",
+        "id": "TUN vs EGY",
+        "key": "2C 8E 5D 17 A1 F9 3B D5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10846 V 9875",
+        "id": "IPF",
+        "key": "8B E9 18 8C 3E A9 8F 76"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11618 V 7120",
+        "id": "Pitch PGA Early Coverage",
+        "key": "13 14 DA 01 AD 16 05 C8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10829 V 7200",
+        "id": "GCUK Enc 9",
+        "key": "46 11 DF 36 23 BC CA A9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL270-1",
+        "key": "64 91 FB F0 3F 63 1D BF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10842 H 9875",
+        "id": "E-412 SBK Main",
+        "key": "67 4E FA AF DD C4 B2 53"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10827 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "BD 95 EE 40 F8 20 18 30"
     }
 ]
