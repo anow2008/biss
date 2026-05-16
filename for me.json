@@ -1,6 +1,60 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11009 V 9875",
+        "id": "E-289 Main",
+        "key": "86 44 2E F8 F5 85 B6 30"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11059 V 4938",
+        "id": "Service 01",
+        "key": "12 14 AB D1 AB BA 2B 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11106 H 7120",
+        "id": "PITCH Gallagher Prem Saracens V Gloucester",
+        "key": "90 09 AC 45 CA 87 78 C9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11501 V 4938",
+        "id": "BU",
+        "key": "FA A3 C5 62 48 36 50 CE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7200",
+        "id": "Encoder 1",
+        "key": "F2 57 79 C2 45 F6 57 92"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12727 V 7500",
+        "id": "Preakness 2026 Black Eye Susan",
+        "key": "AB BA 33 98 43 83 70 36"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7120",
+        "id": "PGA WF Main",
+        "key": "11 43 AD 01 DC 16 05 F7"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11084 H 7200",
+        "id": "POL-102   MAIN",
+        "key": "26 AC 05 D7 05 DC 26 07"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11091 H 4938",
+        "id": "POL-102  Backup",
+        "key": "26 AC 05 D7 05 DC 26 07"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10985 V 9600",
         "id": "TB1_M6",
         "key": "C8 0D 7C 51 8E F9 5D E4"
