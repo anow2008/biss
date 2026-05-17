@@ -1,21 +1,9 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11513 V 7500",
-    "id": "AFD",
-    "key": "86 5C BB 9D 18 AA D5 97"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12686 V 7500",
-    "id": "LPGA - Kroger Queen City Championship presented by P&G Day 4",
-    "key": "72 B0 E4 06 51 04 83 D8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 7",
-    "key": "55 6B CF 8F 45 94 62 3B"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10731 V 34000",
+    "id": "OVERON 1",
+    "key": "42 62 E8 8C 82 ED 86 F5 E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
