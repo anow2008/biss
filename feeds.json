@@ -1,62 +1,98 @@
 [
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "UFC Fight Night on P 11 All Fights",
-        "key": "11 CD 53 31 24 B6 D2 AC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10959 V 7200",
-        "id": "WSHT ENC58",
-        "key": "66 AB 73 84 DC 23 A5 A4"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10814 H 9700",
-        "id": "IIHF2026 - FRI - VO TIP",
-        "key": "B2 51 5C 5F F3 4A B9 F6"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11015 V 7200",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "TVP POL-32  ENC 1",
+        "frequency": "10986 V 9600",
+        "id": "POL-52 CM-5000",
         "key": "AB BA 26 8B DC AE 05 8F"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11597 V 7200",
-        "id": "Encoder 2",
-        "key": "6B 45 77 27 AC BB 74 DB"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11609 V 7200",
+        "id": "ENC 06",
+        "key": "9C 3F 6A 45 2E 1D 8B D6"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12644 H 14400",
-        "id": "DRC VS CIV",
-        "key": "2C 8E 5D 17 A1 F9 3B D5"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "43 B0 43 36 CB 30 F3 EE"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12686 V 7500",
-        "id": "LPGA - Kroger Queen City Championship presented by PG Day 3",
-        "key": "72 B0 E4 06 51 04 83 D8"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11054 H 9700",
+        "id": "IIHF2026 - FRI - VO TIP",
+        "key": "30 5F D5 64 2B F9 38 5C"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7500",
-        "id": "ENC 3",
-        "key": "F1 07 45 3D E6 CB AD 5E"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11042 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "6A 8B A3 98 05 52 E9 40"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12574 H 7200",
-        "id": "MRC003/ MAN",
-        "key": "7D 09 C3 49 61 B8 E2 FB"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10842 H 9875",
+        "id": "E-412 SBK Main",
+        "key": "23 C2 BA 9F 34 12 DC 22"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OVERON 164",
+        "key": "EB 64 98 E7 32 11 C5 08"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OVERON 163",
+        "key": "7B 5F F6 D0 C3 B5 39 B1"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OVERON 162",
+        "key": "3A A6 3C 1C C3 93 07 5D"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OVERON 161",
+        "key": "52 23 8A FF 2A 5D 9E 25"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OVERON 4",
+        "key": "50 17 C8 2F 6D 80 D8 C5"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10767 V 34000",
+        "id": "OVERON 3",
+        "key": "40 82 8F 51 3C CA AE B4"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "04 EF 5B 4E FE 7C 4B C5"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "4C 28 24 98 3E 0A 26 6E"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 2",
+        "key": "5C A3 58 57 6E 4F 5E 1B"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "DF D0 01 B0 81 F7 08 80"
     }
 ]
