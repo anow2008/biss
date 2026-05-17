@@ -7,18 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10995 V 7120",
-    "id": "PITCH W6N Ireland v Scotland Branded",
-    "key": "22 92 26 DA DD 19 94 8A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11004 V 7120",
-    "id": "Pitch W6N Ireland v Scotland Unbranded",
-    "key": "22 92 26 DA DD 19 94 8A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11013 V 7120",
     "id": "OER/F504/cod5/W6N FRvEN BRANDED",
     "key": "B3 38 D3 BE 36 27 00 5D"
@@ -37,37 +25,25 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11043 V 7200",
-    "id": "Fi09_GNVE",
-    "key": "B0 AC 6C C8 2A 48 83 F5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11080 H 9875",
-    "id": "WU 17 M",
-    "key": "0E 4C 14 6E CD 60 D5 02"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11106 V 7120",
-    "id": "Gallagher PREM - Sale Sharks v Leicester Tigers",
-    "key": "09 87 AB 3B CD 78 90 D5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11128 H 9700",
-    "id": "CEV TO",
-    "key": "D4 87 42 9D 7C CA CA 10"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11469 V 7200",
+    "frequency": "11468 V 7200",
     "id": "GHA vs SEN",
     "key": "1A 6E 8B 13 90 C4 7F D3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11551 V 20000",
+    "frequency": "11477 V 7200",
+    "id": "TANDBERG",
+    "key": "D8 6F 9F E6 FD 46 C9 0C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11487 V 7200",
+    "id": "PAO VS PAOK A",
+    "key": "F1 D3 D2 96 9C 01 0A A7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11550 V 20000",
     "id": "LIGA HYPERMOTION 1",
     "key": "21 BD 40 1E F9 8C C8 4D"
   },
@@ -85,9 +61,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11580 H 7200",
-    "id": "OB-09 A",
-    "key": "12 34 12 58 34 12 34 7A"
+    "frequency": "11597 V 7200",
+    "id": "Encoder 1",
+    "key": "9A 38 F7 C9 4B B7 5C 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -106,6 +82,12 @@
     "frequency": "12649 H 7200",
     "id": "MRCO05-BUCKUP",
     "key": "C4 F2 7A 30 9B 58 D6 C9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7500",
+    "id": "ENC 6",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -141,7 +123,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10830 V 7120",
     "id": "PGA WF Main",
-    "key": "B8 E7 F3 92 85 E3 5C C4"
+    "key": "12 41 DA 2D AC 17 05 C8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
