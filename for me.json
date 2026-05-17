@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 7",
+        "key": "55 6B CF 8F 45 94 62 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11513 V 7500",
         "id": "CAM vs UGA",
         "key": "86 5C BB 9D 18 AA D5 97"
