@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 7",
+        "key": "55 6B CF 8F 45 94 62 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11513 V 7500",
         "id": "AFD",
         "key": "86 5C BB 9D 18 AA D5 97"
@@ -43,7 +49,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10829 V 7120",
+        "frequency": "10830 V 7120",
         "id": "PGA WF Main",
         "key": "12 41 DA 2D AC 17 05 C8"
     },
@@ -58,11 +64,5 @@
         "frequency": "11014 H 7200",
         "id": "RSA vs ALG",
         "key": "C4 F2 7A 30 9B 58 D6 C9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11580 H 7200",
-        "id": "OB-09 A",
-        "key": "12 34 12 58 34 12 34 7A"
     }
 ]
