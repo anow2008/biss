@@ -1,6 +1,90 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10996 V 7120",
+        "id": "PITCH W6N Ireland v Scotland Branded",
+        "key": "22 92 26 DA DD 19 94 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11005 V 7120",
+        "id": "Pitch W6N Ireland v Scotland Unbranded",
+        "key": "22 92 26 DA DD 19 94 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11081 H 9875",
+        "id": "WU 17 M",
+        "key": "0E 4C 14 6E CD 60 D5 02"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11469 V 7200",
+        "id": "ANG vs TAN",
+        "key": "1A 6E 8B 13 90 C4 7F D3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11551 V 20000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "21 BD 40 1E F9 8C C8 4D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11580 V 7200",
+        "id": "M00-MRC007-Main",
+        "key": "1A 6E 8B 13 90 C4 7F D3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11589 V 7200",
+        "id": "ENC 3",
+        "key": "88 EC 45 B9 FE 4A E5 2D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "RBS vs. HAR",
+        "key": "17 05 FB 17 BB 97 01 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12555 H 7200",
+        "id": "NLFLEV_HOL-328 CH-A",
+        "key": "20 26 EE 34 EF 03 08 FA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12687 H 7200",
+        "id": "ENC 11",
+        "key": "DE C3 17 B8 05 16 51 6C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12687 V 7200",
+        "id": "ENC 1",
+        "key": "9A 26 B6 76 C3 D6 28 C1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11619 V 7120",
+        "id": "Pitch PGA Early Coverage",
+        "key": "13 14 DA 01 AD 17 05 C9"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11152 H 9875",
+        "id": "FFBL Jena",
+        "key": "17 05 FF 1B BB 26 17 F8"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11188 H 9875",
+        "id": "FFBL Wolfsburg_",
+        "key": "17 05 FF 1B BB 26 17 F8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11023 H 7200",
         "id": "D202 E1",
         "key": "D2 02 20 F4 26 05 17 42"
