@@ -7,21 +7,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 H 7200",
-    "id": "RSA vs ALG",
-    "key": "C4 F2 7A 30 9B 58 D6 C9"
+    "frequency": "11022 H 7200",
+    "id": "ENC1 POR 19",
+    "key": "17 05 20 3C 26 FA CA EA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7120",
-    "id": "OER/F504/cod5/W6N FRvEN BRANDED",
-    "key": "B3 38 D3 BE 36 27 00 5D"
+    "frequency": "11044 V 9875",
+    "id": "GVA_Fi01",
+    "key": "E9 70 B7 10 60 28 01 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7120",
-    "id": "OER/F504/cod6/W6N FRvEN UNBRANDED",
-    "key": "B3 38 D3 BE 36 27 00 5D"
+    "frequency": "11056 V 9875",
+    "id": "GVA_Fi02",
+    "key": "F8 86 50 CE 62 B4 95 AB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11068 V 9875",
+    "id": "GVA_Fi03",
+    "key": "8A C8 00 52 DA 92 20 8C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,21 +43,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11468 V 7200",
-    "id": "GHA vs SEN",
-    "key": "1A 6E 8B 13 90 C4 7F D3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11477 V 7200",
     "id": "TANDBERG",
     "key": "D8 6F 9F E6 FD 46 C9 0C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11486 V 7200",
-    "id": "PAO VS PAOK A",
-    "key": "F1 D3 D2 96 9C 01 0A A7"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,9 +55,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11579 V 7200",
-    "id": "M00-MRC007-Main",
-    "key": "1A 6E 8B 13 90 C4 7F D3"
+    "frequency": "11570 V 7200",
+    "id": "E-95 MAIN",
+    "key": "AB 17 05 C7 20 26 BA 00"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11588 V 7200",
+    "id": "MOZ vs MLI",
+    "key": "5B 8D 1F 07 30 A9 E7 C0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -74,8 +74,14 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7200",
-    "id": "SLO-008 Tx 1",
-    "key": "F4 8F D9 5C 26 72 B4 4C"
+    "id": "Encoder 2",
+    "key": "27 DA 68 69 85 DB 63 C3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12556 H 7200",
+    "id": "MRC003/ MAN",
+    "key": "5B 8D 1F 07 30 A9 E7 C0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,19 +91,19 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7200",
-    "id": "MRCO05-BUCKUP",
-    "key": "C4 F2 7A 30 9B 58 D6 C9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12677 V 7500",
     "id": "ENC 6",
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12686 V 7500",
+    "id": "LPGA - Kroger Queen City Championship presented by P&G Day 4",
+    "key": "72 B0 E4 06 51 04 83 D8"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 34000",
+    "frequency": "10731 V 34000",
     "id": "OVERON 1",
     "key": "42 62 E8 8C 82 ED 86 F5"
   },
@@ -109,15 +115,15 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11247 H 7200",
-    "id": "ENC 10",
-    "key": "DE C3 17 B8 05 16 51 6C"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "11288 V 7200",
     "id": "F386 VIA STORIA/1",
     "key": "FF EE D0 BD 51 7E 70 3F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "TEST CAF CONDITION REELLE",
+    "key": "12 41 DA 2D AC 17 05 C8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -127,62 +133,38 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11042 H 9700",
-    "id": "IIHF2026 - FRI - WF",
-    "key": "B8 E7 F3 92 85 E3 5C C4"
+    "frequency": "10846 V 9700",
+    "id": "IIHF2026 - ZUR - VO PEN",
+    "key": "F4 DE D0 A2 51 7E 48 17"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11054 H 9700",
-    "id": "IIHF2026 - FRI - VO TIP",
-    "key": "7E 41 CF 8E 76 75 68 53"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11592 H 9600",
-    "id": "NLEMG HOL270-1",
-    "key": "5B 43 6A 08 64 9B A1 A0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 V 7200",
+    "frequency": "11610 V 7200",
     "id": "MAIN - E-285",
     "key": "00 06 78 7E DD F1 F2 C0"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11619 V 7120",
-    "id": "Pitch PGA Early Coverage",
-    "key": "13 14 DA 01 AD 17 05 C9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12585 V 9700",
-    "id": "IIHF2026 - ZUR - WF",
-    "key": "20 DD A0 9D 46 98 E6 C4"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12597 V 9700",
-    "id": "IIHF2026 - ZUR - VO AUT",
-    "key": "B2 C0 D3 45 42 E7 37 60"
+    "frequency": "12609 V 9700",
+    "id": "IIHF2026 - ZUR - VO GER",
+    "key": "45 4A EC 7B 63 E4 98 DF"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10965 V 4800",
-    "id": "POL11_HARM",
+    "frequency": "10973 V 9600",
+    "id": "POL-141 ENC1",
     "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11022 V 9600",
-    "id": "POL 48 ENC1",
+    "frequency": "10985 V 9600",
+    "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11075 H 4938",
-    "id": "YSM-021M",
+    "frequency": "11012 V 4938",
+    "id": "YSM-016 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
