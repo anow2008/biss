@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11068 V 9875",
+        "id": "GVA_Fi03",
+        "key": "8A C8 00 52 DA 92 20 8C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11056 V 9875",
+        "id": "GVA_Fi02",
+        "key": "F8 86 50 CE 62 B4 95 AB"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10973 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12609 V 9700",
+        "id": "IIHF2026 - ZUR - VO GER",
+        "key": "45 4A EC 7B 63 E4 98 DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11044 V 9875",
+        "id": "GVA_Fi01",
+        "key": "E9 70 B7 10 60 28 01 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12574 H 7200",
         "id": "Main",
         "key": "AB BA 20 85 26 05 17 42"
@@ -18,14 +48,8 @@
         "key": "D8 6F 9F E6 FD 46 C9 0C"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL11_HARM",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11013 H 7200",
+        "frequency": "11014 H 7200",
         "id": "RSA vs ALG",
         "key": "C4 F2 7A 30 9B 58 D6 C9"
     },
@@ -40,23 +64,5 @@
         "frequency": "11570 V 7200",
         "id": "E-95 MAIN",
         "key": "AB 17 05 C7 20 26 BA 00"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10961 V 9600",
-        "id": "TB1_M6",
-        "key": "C8 0D 7C 51 8E F9 5D E4"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11075 H 4938",
-        "id": "YSM-021M",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
-        "id": "D-331 TX1",
-        "key": "05 DE FA DD 12 6D 1A 99"
     }
 ]
