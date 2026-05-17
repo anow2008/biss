@@ -1,6 +1,78 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11044 V 7200",
+        "id": "Fi09_GNVE",
+        "key": "B0 AC 6C C8 2A 48 83 F5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11107 V 7120",
+        "id": "Gallagher PREM - Sale Sharks v Leicester Tigers",
+        "key": "09 87 AB 3B CD 78 90 D5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11128 H 9700",
+        "id": "CEV TO",
+        "key": "D4 87 42 9D 7C CA CA 10"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11288 V 7200",
+        "id": "F386 VIA STORIA/1",
+        "key": "FF EE D0 BD 51 7E 70 3F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "GCUK Enc 5",
+        "key": "CD F1 43 01 56 BB AD BE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11042 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "B8 E7 F3 92 85 E3 5C C4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11054 H 9700",
+        "id": "IIHF2026 - FRI - VO TIP",
+        "key": "7E 41 CF 8E 76 75 68 53"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11609 V 7200",
+        "id": "MAIN - E-285",
+        "key": "00 06 78 7E DD F1 F2 C0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11651 H 17100",
+        "id": "Unname",
+        "key": "BC 47 CB CE 74 AA 12 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "20 DD A0 9D 46 98 E6 C4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO AUT",
+        "key": "B2 C0 D3 45 42 E7 37 60"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11013 V 4938",
+        "id": "YSM-013M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10996 V 7120",
         "id": "PITCH W6N Ireland v Scotland Branded",
         "key": "22 92 26 DA DD 19 94 8A"
