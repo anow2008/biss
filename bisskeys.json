@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 V 9600",
-    "id": "TB1_M6",
-    "key": "C8 0D 7C 51 8E F9 5D E4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11013 V 7120",
-    "id": "OER/F504/cod5/W6N FRvEN BRANDED",
-    "key": "B3 38 D3 BE 36 27 00 5D"
+    "frequency": "10959 H 7200",
+    "id": "Fi01 ACB",
+    "key": "AA 5A 4A 4E 96 C4 C6 20"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,9 +13,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 7120",
+    "frequency": "11014 V 7120",
+    "id": "OER/F504/cod5/W6N FRvEN BRANDED",
+    "key": "B3 38 D3 BE 36 27 00 5D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7120",
     "id": "OER/F504/cod6/W6N FRvEN UNBRANDED",
     "key": "B3 38 D3 BE 36 27 00 5D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11080 H 9875",
+    "id": "WU 17 M",
+    "key": "0E 4C 14 6E CD 60 D5 02"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11128 H 9700",
+    "id": "CEV TO",
+    "key": "D4 87 42 9D 7C CA CA 10"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,7 +49,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11487 V 7200",
+    "frequency": "11486 V 7200",
     "id": "PAO VS PAOK A",
     "key": "F1 D3 D2 96 9C 01 0A A7"
   },
@@ -46,12 +58,6 @@
     "frequency": "11550 V 20000",
     "id": "LIGA HYPERMOTION 1",
     "key": "21 BD 40 1E F9 8C C8 4D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11570 V 7200",
-    "id": "E-95 MAIN",
-    "key": "AB 17 05 C7 20 26 BA 00"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -73,9 +79,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "Top10",
-    "key": "3E 83 F2 B3 CA 53 9D BA"
+    "frequency": "12574 H 7200",
+    "id": "Main",
+    "key": "AB BA 20 85 26 05 17 42"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -88,12 +94,6 @@
     "frequency": "12677 V 7500",
     "id": "ENC 6",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12686 H 7200",
-    "id": "ENC 11",
-    "key": "DE C3 17 B8 05 16 51 6C"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
