@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10965 V 4800",
+        "id": "POL11_HARM",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11014 H 7200",
         "id": "RSA vs ALG",
@@ -10,12 +16,6 @@
         "frequency": "11580 H 7200",
         "id": "OB-09 A",
         "key": "12 34 12 58 34 12 34 7A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11022 V 9600",
-        "id": "POL 48 ENC1",
-        "key": "AB BA 26 8B DC AE 05 8F"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,7 +31,7 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11076 H 4938",
+        "frequency": "11075 H 4938",
         "id": "YSM-021M",
         "key": "AB BA 20 85 25 20 26 6B"
     },
