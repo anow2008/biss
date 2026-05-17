@@ -1,6 +1,66 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10961 V 9600",
+        "id": "TB1_M6",
+        "key": "C8 0D 7C 51 8E F9 5D E4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11013 V 7120",
+        "id": "OER/F504/cod5/W6N FRvEN BRANDED",
+        "key": "B3 38 D3 BE 36 27 00 5D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11014 H 7200",
+        "id": "RSA vs ALG",
+        "key": "C4 F2 7A 30 9B 58 D6 C9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11022 V 7120",
+        "id": "OER/F504/cod6/W6N FRvEN UNBRANDED",
+        "key": "B3 38 D3 BE 36 27 00 5D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11570 V 7200",
+        "id": "E-95 MAIN",
+        "key": "AB 17 05 C7 20 26 BA 00"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11580 H 7200",
+        "id": "OB-09 A",
+        "key": "12 34 12 58 34 12 34 7A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7200",
+        "id": "SLO-008 Tx 1",
+        "key": "F4 8F D9 5C 26 72 B4 4C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "Top10",
+        "key": "3E 83 F2 B3 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12649 H 7200",
+        "id": "MRCO05-BUCKUP",
+        "key": "C4 F2 7A 30 9B 58 D6 C9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "D-331 TX1",
+        "key": "05 DE FA DD 12 6D 1A 99"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11044 V 7200",
         "id": "Fi09_GNVE",
         "key": "B0 AC 6C C8 2A 48 83 F5"
