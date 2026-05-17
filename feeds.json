@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10969 H 7200",
+        "id": "ENC-1 main",
+        "key": "20 26 EA 30 EA 05 17 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL270-1",
+        "key": "5B 43 6A 08 64 9B A1 A0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 H 7200",
+        "id": "Fi01 ACB",
+        "key": "AA 5A 4A 4E 96 C4 C6 20"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11023 V 7200",
+        "id": "D-322 Backup",
+        "key": "17 05 BC D8 DE 32 11 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10846 V 9875",
+        "id": "IPF",
+        "key": "4B 0F D4 2E F6 13 49 52"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7120",
+        "id": "GCUK Enc 6",
+        "key": "BB AA FF 64 EE 17 05 0A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11014 V 7120",
+        "id": "Pitch W6N Wales vs Italy Unbranded",
+        "key": "FE 24 CC EE 36 A7 19 F6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11487 V 7200",
+        "id": "E-228 Main",
+        "key": "BC 20 26 02 05 17 CB E7"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
         "id": "POL-52 CM-5000",
@@ -34,65 +82,5 @@
         "frequency": "10842 H 9875",
         "id": "E-412 SBK Main",
         "key": "23 C2 BA 9F 34 12 DC 22"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
-        "id": "OVERON 164",
-        "key": "EB 64 98 E7 32 11 C5 08"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
-        "id": "OVERON 163",
-        "key": "7B 5F F6 D0 C3 B5 39 B1"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
-        "id": "OVERON 162",
-        "key": "3A A6 3C 1C C3 93 07 5D"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
-        "id": "OVERON 161",
-        "key": "52 23 8A FF 2A 5D 9E 25"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
-        "id": "OVERON 4",
-        "key": "50 17 C8 2F 6D 80 D8 C5"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
-        "id": "OVERON 3",
-        "key": "40 82 8F 51 3C CA AE B4"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR MENA 1",
-        "key": "04 EF 5B 4E FE 7C 4B C5"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR EASTERN 1",
-        "key": "4C 28 24 98 3E 0A 26 6E"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 2",
-        "key": "5C A3 58 57 6E 4F 5E 1B"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 34000",
-        "id": "SUPPONOR AFRICA 1",
-        "key": "DF D0 01 B0 81 F7 08 80"
     }
 ]
