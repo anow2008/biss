@@ -31,6 +31,18 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11589 V 7200",
+    "id": "ENC 3",
+    "key": "88 EC 45 B9 FE 4A E5 2D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11598 V 7200",
+    "id": "ENC 4",
+    "key": "22 1D CF 0E 51 41 6B FD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12546 H 7200",
     "id": "2Sat HOL89 Main",
     "key": "BF DE 17 B4 05 A8 9C 49"
@@ -60,6 +72,12 @@
     "key": "2F 9A 7E 47 3A 78 47 F9"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 V 7200",
+    "id": "ENC 1",
+    "key": "9A 26 B6 76 C3 D6 28 C1"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
@@ -73,13 +91,19 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10842 H 9875",
+    "id": "E-412 SBK Main",
+    "key": "23 C2 BA 9F 34 12 DC 22"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10846 V 9875",
     "id": "IPF",
     "key": "4B 0F D4 2E F6 13 49 52"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11043 H 9700",
+    "frequency": "11042 H 9700",
     "id": "IIHF2026 - FRI - WF",
     "key": "6A 8B A3 98 05 52 E9 40"
   },
@@ -103,15 +127,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 17100",
-    "id": "Unname",
-    "key": "BC 47 CB CE 74 AA 12 30"
+    "frequency": "11619 V 7120",
+    "id": "Pitch PGA Early Coverage",
+    "key": "13 14 DA 01 AD 17 05 C9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12585 V 9700",
     "id": "IIHF2026 - ZUR - WF",
     "key": "43 B0 43 36 CB 30 F3 EE"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10976 V 4800",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -124,5 +154,17 @@
     "frequency": "11023 V 7200",
     "id": "D-322 Backup",
     "key": "17 05 BC D8 DE 32 11 21"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11152 H 9875",
+    "id": "FFBL Jena",
+    "key": "17 05 FF 1B BB 26 17 F8"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11188 H 9875",
+    "id": "FFBL Wolfsburg_",
+    "key": "17 05 FF 1B BB 26 17 F8"
   }
 ]
