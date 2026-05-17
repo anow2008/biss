@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11513 V 7500",
+        "id": "CAM vs UGA",
+        "key": "86 5C BB 9D 18 AA D5 97"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11570 V 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 05 17 42"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11042 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "C5 D1 11 A7 4D 99 72 58"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "37 29 69 C9 A6 47 09 F6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO TIP",
+        "key": "7E C6 90 D4 D5 FF 44 18"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11022 H 7200",
         "id": "ENC1 POR 19",
         "key": "17 05 20 3C 26 FA CA EA"
