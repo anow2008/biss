@@ -1,6 +1,60 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11022 H 7200",
+        "id": "ENC1 POR 19",
+        "key": "17 05 20 3C 26 FA CA EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11044 V 9875",
+        "id": "GVA_Fi01",
+        "key": "E9 70 B7 10 60 28 01 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11056 V 9875",
+        "id": "GVA_Fi02",
+        "key": "F8 86 50 CE 62 B4 95 AB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11068 V 9875",
+        "id": "GVA_Fi03",
+        "key": "8A C8 00 52 DA 92 20 8C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7200",
+        "id": "Encoder 2",
+        "key": "27 DA 68 69 85 DB 63 C3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12556 H 7200",
+        "id": "MRC003/ MAN",
+        "key": "5B 8D 1F 07 30 A9 E7 C0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12686 V 7500",
+        "id": "LPGA - Kroger Queen City Championship presented by P&G Day 4",
+        "key": "72 B0 E4 06 51 04 83 D8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10846 V 9700",
+        "id": "IIHF2026 - ZUR - VO PEN",
+        "key": "F4 DE D0 A2 51 7E 48 17"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12609 V 9700",
+        "id": "IIHF2026 - ZUR - VO GER",
+        "key": "45 4A EC 7B 63 E4 98 DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11477 V 7200",
         "id": "TANDBERG",
         "key": "D8 6F 9F E6 FD 46 C9 0C"
