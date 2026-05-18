@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10827 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "08 A9 1A CB 87 F6 8E 0B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "EF 3F 19 47 CF D7 83 29"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO TIP",
+        "key": "2F 83 FE B0 D0 C1 DE 6F"
+    }
+]
