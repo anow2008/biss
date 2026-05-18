@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 2",
+        "key": "B3 7D 7E AE 78 2D 2A CF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11597 V 7200",
+        "id": "Encoder 2",
+        "key": "B8 49 99 9A 7E F6 EE 62"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11606 V 7200",
         "id": "Encoder 1",
         "key": "8E E6 D3 47 6E 3D 83 2E"
