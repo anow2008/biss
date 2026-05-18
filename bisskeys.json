@@ -1,20 +1,38 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11559 V 3600",
-    "id": "E302 FEED 2",
-    "key": "AB BA 26 8B DC AE 05 8F"
+    "frequency": "11106 V 7200",
+    "id": "UAE-065",
+    "key": "2F 5A 3F C8 D1 92 E5 48 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11106 V 7200",
+    "id": "UAE-065",
+    "key": "2F 5A 3F C8 D1 92 E5 48"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10826 H 9700",
+    "id": "IIHF2026 - FRI - WF",
+    "key": "08 A9 1A CB 87 F6 8E 0B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12585 V 9700",
+    "id": "IIHF2026 - ZUR - WF",
+    "key": "EF 3F 19 47 CF D7 83 29"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12597 V 9700",
+    "id": "IIHF2026 - ZUR - VO TIP",
+    "key": "2F 83 FE B0 D0 C1 DE 6F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10970 V 4800",
-    "id": "POL - 054 Kielce",
+    "frequency": "10986 V 9600",
+    "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL086 TVN24 WAW",
-    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
