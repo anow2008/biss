@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL021 p1 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12736 V 7200",
         "id": "ENC 7",
@@ -34,29 +40,5 @@
         "frequency": "12609 V 9700",
         "id": "IIHF2026 - ZUR - VO GER",
         "key": "45 4A EC 7B 63 E4 98 DF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11044 V 9875",
-        "id": "GVA_Fi01",
-        "key": "E9 70 B7 10 60 28 01 89"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12574 H 7200",
-        "id": "Main",
-        "key": "AB BA 20 85 26 05 17 42"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7120",
-        "id": "PGA WF Main",
-        "key": "12 41 DA 2D AC 17 05 C8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11477 V 7200",
-        "id": "TANDBERG",
-        "key": "D8 6F 9F E6 FD 46 C9 0C"
     }
 ]
