@@ -6,12 +6,6 @@
     "key": "D3 A2 0D 82 AE CF 44 C1"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11106 V 7200",
-    "id": "UAE-065",
-    "key": "2F 5A 3F C8 D1 92 E5 48"
-  },
-  {
     "satellite": "Eutelsat 3B @ 3.1°E",
     "frequency": "10959 H 7500",
     "id": "beIN SPORTS",
@@ -25,9 +19,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10983 H 2220",
-    "id": "TransMedia.HD1",
+    "frequency": "10960 H 7200",
+    "id": "TV-101",
     "key": "D3 A2 0D 82 AE CF 44 C1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11597 V 7200",
+    "id": "Encoder 2",
+    "key": "B8 49 99 9A 7E F6 EE 62"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -39,12 +39,6 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12554 H 4938",
     "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12560 H 4938",
-    "id": "YSM-013M",
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
@@ -76,11 +70,5 @@
     "frequency": "12609 V 9700",
     "id": "IIHF2026 - ZUR - VO GER",
     "key": "01 3A 1A 55 2C E6 FA 0C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 05 8F"
   }
 ]
