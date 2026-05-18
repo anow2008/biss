@@ -1,8 +1,20 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11559 V 3600",
+    "id": "E302 FEED 2",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10970 V 4800",
+    "id": "POL - 054 Kielce",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10996 V 7500",
-    "id": "POL021 p1 WAW",
+    "id": "POL086 TVN24 WAW",
     "key": "77 93 52 5C 99 08 86 27"
   }
 ]
