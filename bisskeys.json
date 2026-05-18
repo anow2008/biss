@@ -3,19 +3,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11097 V 7200",
     "id": "Main SAUDI015",
+    "key": "D3 A2 0D 82 AE CF 44 C1 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11097 V 7200",
+    "id": "Main SAUDI015",
     "key": "D3 A2 0D 82 AE CF 44 C1"
-  },
-  {
-    "satellite": "Eutelsat 3B @ 3.1°E",
-    "frequency": "10959 H 7500",
-    "id": "beIN SPORTS",
-    "key": "AD 54 9E 9F 52 89 7B 56"
-  },
-  {
-    "satellite": "Hellas Sat 3/4 @ 39.0°E",
-    "frequency": "11467 H 5000",
-    "id": "KUW-001 M",
-    "key": "20 88 20 C8 00 20 88 A8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,15 +25,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "Encoder 1",
-    "key": "8E E6 D3 47 6E 3D 83 2E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12554 H 4938",
     "id": "YSM-021M",
     "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 2",
+    "key": "B3 7D 7E AE 78 2D 2A CF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
