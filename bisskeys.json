@@ -1,68 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11097 V 7200",
-    "id": "Main SAUDI015",
-    "key": "D3 A2 0D 82 AE CF 44 C1 E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11097 V 7200",
-    "id": "Main SAUDI015",
-    "key": "D3 A2 0D 82 AE CF 44 C1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 H 7200",
-    "id": "TV-101",
-    "key": "D3 A2 0D 82 AE CF 44 C1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11597 V 7200",
-    "id": "Encoder 2",
-    "key": "B8 49 99 9A 7E F6 EE 62"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12554 H 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
+    "frequency": "11556 V 10000",
+    "id": "TALIA AWARDS PGM",
+    "key": "B3 7D 7E AE 78 2D 2A CF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "B3 7D 7E AE 78 2D 2A CF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10814 H 9700",
-    "id": "IIHF2026 - FRI - VO TIP",
-    "key": "11 11 01 23 17 E3 C4 BE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10826 H 9700",
-    "id": "IIHF2026 - FRI - WF",
-    "key": "4A 0E 41 99 47 B4 DD D8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12585 V 9700",
-    "id": "IIHF2026 - ZUR - WF",
-    "key": "7C 6F 0D F8 15 30 E7 2C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12597 V 9700",
-    "id": "IIHF2026 - ZUR - VO PEN",
-    "key": "E4 8F 3B AE BD 05 18 DA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12609 V 9700",
-    "id": "IIHF2026 - ZUR - VO GER",
-    "key": "01 3A 1A 55 2C E6 FA 0C"
   }
 ]
