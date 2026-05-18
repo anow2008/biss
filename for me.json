@@ -1,6 +1,72 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11097 V 7200",
+        "id": "Main SAUDI015",
+        "key": "D3 A2 0D 82 AE CF 44 C1"
+    },
+    {
+        "satellite": "Eutelsat 3B",
+        "frequency": "10959 H 7500",
+        "id": "beIN SPORTS",
+        "key": "AD 54 9E 9F 52 89 7B 56"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11097 V 7200",
+        "id": "Main SAUDI015",
+        "key": "D3 A2 0D 82 AE CF 44 C1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11597 V 7200",
+        "id": "Encoder 2",
+        "key": "B8 49 99 9A 7E F6 EE 62"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7200",
+        "id": "Encoder 1",
+        "key": "8E E6 D3 47 6E 3D 83 2E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10814 H 9700",
+        "id": "IIHF2026 - FRI - VO TIP",
+        "key": "11 11 01 23 17 E3 C4 BE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10826 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "4A 0E 41 99 47 B4 DD D8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "7C 6F 0D F8 15 30 E7 2C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO PEN",
+        "key": "E4 8F 3B AE BD 05 18 DA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12609 V 9700",
+        "id": "IIHF2026 - ZUR - VO GER",
+        "key": "01 3A 1A 55 2C E6 FA 0C"
+    },
+    {
+        "satellite": "Eutelsat 3B",
+        "frequency": "10959 H 7500",
+        "id": "beIN SPORTS",
+        "key": "AD 54 9E 9F 52 89 7B 56"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11106 V 7200",
         "id": "UAE-065",
         "key": "2F 5A 3F C8 D1 92 E5 48"
