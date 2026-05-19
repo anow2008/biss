@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL045 TVN24 LDZ",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12736 V 7200",
         "id": "ENC 2",
@@ -34,17 +40,5 @@
         "frequency": "10959 H 7500",
         "id": "beIN SPORTS",
         "key": "AD 54 9E 9F 52 89 7B 56"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11097 V 7200",
-        "id": "Main SAUDI015",
-        "key": "D3 A2 0D 82 AE CF 44 C1"
-    },
-    {
-        "satellite": "Hellas Sat 3/4 @ 39.0°E",
-        "frequency": "11467 H 5000",
-        "id": "KUW-001 M",
-        "key": "20 88 20 C8 00 20 88 A8"
     }
 ]
