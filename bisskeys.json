@@ -1,14 +1,1 @@
-[
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11556 V 10000",
-    "id": "TALIA AWARDS PGM",
-    "key": "B3 7D 7E AE 78 2D 2A CF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 2",
-    "key": "B3 7D 7E AE 78 2D 2A CF"
-  }
-]
+[]
