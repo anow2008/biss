@@ -1,33 +1,39 @@
 [
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 H 22500",
-    "id": "Main Show S1.",
-    "key": "94 DE 18 8A 54 CB 64 83"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11061 H 7200",
+    "id": "AFC U17",
+    "key": "44 48 6F FB 7A 79 28 1B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11523 V 7200",
+    "id": "CIV vs UGA and TUN vs ETH",
+    "key": "A7 E0 3C C3 5D 21 F6 74"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12546 H 7200",
+    "id": "MRCO05-MAIN",
+    "key": "A7 E0 3C C3 5D 21 F6 74"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12555 H 7200",
+    "id": "M00-MRC007-Main",
+    "key": "1C 4A 9F 05 6B 8D 13 0B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12574 H 7200",
+    "id": "CMR VS DRC",
+    "key": "1C 4A 9F 05 6B 8D 13 0B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11592 H 9600",
-    "id": "NLEMG HOL270-1",
-    "key": "94 DE 18 8A 54 CB 64 83"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12526 H 7200",
-    "id": "Sui-067 Viareggio",
-    "key": "CC 98 7A DE B3 42 BB B0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12535 H 7200",
-    "id": "SUI 066 MAIN",
-    "key": "23 CA 45 32 BB 34 5A 49"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12544 H 7200",
-    "id": "ita315_Main",
-    "key": "87 D6 5A B7 A1 31 BB 8D"
+    "frequency": "10846 V 9700",
+    "id": "IIHF2026 - FRI - WF",
+    "key": "30 FD 4D 7A FB 98 1A AD"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -49,14 +55,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10980 H 3600",
-    "id": "F6-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10996 V 7500",
     "id": "POLWAR018",
     "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11013 V 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
