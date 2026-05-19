@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
-    "id": "AFC U17",
-    "key": "6D 16 37 BA 75 AA 8F AE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11514 V 7200",
     "id": "MAR VS EGY",
     "key": "1C 4A 9F 05 6B 8D 13 0B"
@@ -16,18 +10,6 @@
     "frequency": "11523 V 7200",
     "id": "CIV vs UGA and TUN vs ETH",
     "key": "A7 E0 3C C3 5D 21 F6 74"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 V 7200",
-    "id": "Encoder 2",
-    "key": "A7 FD 2E D2 E8 AD A5 3A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11597 V 7200",
-    "id": "Encoder 1",
-    "key": "AF 48 49 40 2D F8 89 AE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -58,12 +40,6 @@
     "frequency": "12585 V 9700",
     "id": "IIHF2026 - ZUR - WF",
     "key": "5C 14 72 E2 8B 2A 7F 34"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POLWAR018",
-    "key": "77 93 52 5C 99 08 86 27"
   },
   {
     "satellite": "Eutelsat 3B @ 3.1°E",
