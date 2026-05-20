@@ -7,13 +7,19 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11103 H 7200",
+    "frequency": "11102 H 7200",
     "id": "TVN D-564 Enc II MAIN",
     "key": "BA BA 20 94 05 DC DC BD"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7200",
+    "frequency": "11513 V 7200",
+    "id": "RSA vs GHA",
+    "key": "B2 F8 4A F4 0C 9E 71 1B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11522 V 7200",
     "id": "ANG vs MOZ / SEN vs ALG",
     "key": "3A 7D 5C 13 91 F6 B8 3F"
   },
@@ -25,20 +31,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12546 H 7200",
+    "frequency": "12547 H 7200",
     "id": "MRCO05-MAIN",
     "key": "3A 7D 5C 13 91 F6 B8 3F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12555 H 7200",
-    "id": "MRC003/ MAN",
-    "key": "B2 F8 4A F4 0C 9E 71 1B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12574 H 7200",
-    "id": "MLI vs TAN",
+    "frequency": "12565 H 7200",
+    "id": "M00-MRC007-Main",
     "key": "B2 F8 4A F4 0C 9E 71 1B"
   },
   {
@@ -55,9 +55,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10814 H 9700",
-    "id": "IIHF2026 - FRI - VO TIP",
-    "key": "F5 EC CD AE 31 D5 BC C2"
+    "frequency": "10826 H 9700",
+    "id": "IIHF2026 - FRI - WF",
+    "key": "66 9E 74 78 1B A9 83 47"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10846 V 9700",
+    "id": "IIHF2026 - ZUR - VO PEN",
+    "key": "F5 CE D0 93 52 0E 48 A8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -78,15 +84,15 @@
     "key": "26 4E EC 60 2A B9 70 53"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10971 V 4800",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 05 8F"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12684 H 14400",
+    "id": "NLEMG HOL312-1",
+    "key": "AB B1 23 7F 21 FC 4B 68"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 05 8F"
+    "frequency": "11013 V 7200",
+    "id": "YSM-012 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
