@@ -1,9 +1,45 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO TIP",
+        "key": "15 63 AE 26 0B DF F2 DC"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11103 H 7200",
+        "id": "TVN D-564 Enc II MAIN",
+        "key": "BA BA 20 94 05 DC DC BD"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12602 V 7200",
-        "id": "Polsat Sport",
-        "key": "20 26 A9 EF 97 1A CA 7B"
+        "frequency": "12535 V 7200",
+        "id": "MAIN - E-285",
+        "key": "20 05 20 45 26 FA CA EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11089 H 4938",
+        "id": "PYRAM-ANA",
+        "key": "12 14 AB D1 AB 4A 5B 50"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12555 H 7200",
+        "id": "MRC003/ MAN",
+        "key": "B2 F8 4A F4 0C 9E 71 1B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11505 V 7200",
+        "id": "E393 PATH2 CLEAN",
+        "key": "CD DA 45 EC 45 88 99 66"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12546 H 7200",
+        "id": "MRCO05-MAIN",
+        "key": "3A 7D 5C 13 91 F6 B8 3F"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -12,39 +48,21 @@
         "key": "43 78 AB 66 AB BA 2B 90"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10815 H 9700",
-        "id": "IIHF2026 - FRI - VO TIP",
-        "key": "F5 EC CD AE 31 D5 BC C2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10827 H 9700",
-        "id": "IIHF2026 - FRI - WF",
-        "key": "22 D9 5B 56 12 D3 F7 DC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12609 V 9700",
-        "id": "IIHF2026 - ZUR - VO AUT",
-        "key": "5B 31 AA 36 CC EE 25 DF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12585 V 9700",
-        "id": "IIHF2026 - ZUR - WF",
-        "key": "D9 15 32 20 4A 90 36 10"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12602 V 7200",
+        "id": "Polsat Sport",
+        "key": "20 26 A9 EF 97 1A CA 7B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11098 V 7200",
+        "frequency": "11097 V 7200",
         "id": "ATLETICA_SAVONA_MAIN",
         "key": "76 BD 4D 80 07 B7 41 FF"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11080 H 7200",
-        "id": "EUROLEAGUE FINAL FOUR - ATH. MAIN",
-        "key": "40 D3 74 87 F2 CB 32 EF"
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "C0 24 8E 72 96 51 94 7B"
     }
 ]
