@@ -1,9 +1,9 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "C0 24 8E 72 96 51 94 7B"
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11102 H 7200",
+    "id": "TVN D-564 Enc II MAIN",
+    "key": "BA BA 20 94 05 DC DC BD E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -13,21 +13,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "C0 24 8E 72 96 51 94 7B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11513 V 7200",
     "id": "RSA vs GHA",
     "key": "B2 F8 4A F4 0C 9E 71 1B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11522 V 7200",
+    "frequency": "11523 V 7200",
     "id": "ANG vs MOZ / SEN vs ALG",
     "key": "3A 7D 5C 13 91 F6 B8 3F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12535 V 7200",
-    "id": "MAIN - E-285",
-    "key": "20 05 20 45 26 FA CA EA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -40,18 +40,6 @@
     "frequency": "12565 H 7200",
     "id": "M00-MRC007-Main",
     "key": "B2 F8 4A F4 0C 9E 71 1B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL-058_ch1",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12602 V 7200",
-    "id": "Polsat Sport",
-    "key": "20 26 A9 EF 97 1A CA 7B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -84,15 +72,9 @@
     "key": "26 4E EC 60 2A B9 70 53"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12684 H 14400",
-    "id": "NLEMG HOL312-1",
-    "key": "AB B1 23 7F 21 FC 4B 68"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11013 V 7200",
-    "id": "YSM-012 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
+    "frequency": "11065 H 7200",
+    "id": "MP One",
+    "key": "BA BA 20 94 05 DC DC BD"
   }
 ]
