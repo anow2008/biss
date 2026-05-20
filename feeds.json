@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11013 V 7200",
+        "id": "YSM-012 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12565 H 7200",
+        "id": "M00-MRC007-Main",
+        "key": "B2 F8 4A F4 0C 9E 71 1B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10846 V 9700",
+        "id": "IIHF2026 - ZUR - VO PEN",
+        "key": "F5 CE D0 93 52 0E 48 A8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12684 H 14400",
+        "id": "NLEMG HOL312-1",
+        "key": "AB B1 23 7F 21 FC 4B 68"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12597 V 9700",
         "id": "IIHF2026 - ZUR - VO TIP",
@@ -7,7 +31,7 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11103 H 7200",
+        "frequency": "11102 H 7200",
         "id": "TVN D-564 Enc II MAIN",
         "key": "BA BA 20 94 05 DC DC BD"
     },
@@ -25,19 +49,13 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12555 H 7200",
-        "id": "MRC003/ MAN",
-        "key": "B2 F8 4A F4 0C 9E 71 1B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11505 V 7200",
         "id": "E393 PATH2 CLEAN",
         "key": "CD DA 45 EC 45 88 99 66"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12546 H 7200",
+        "frequency": "12547 H 7200",
         "id": "MRCO05-MAIN",
         "key": "3A 7D 5C 13 91 F6 B8 3F"
     },
@@ -46,23 +64,5 @@
         "frequency": "12628 V 4938",
         "id": "Service 01",
         "key": "43 78 AB 66 AB BA 2B 90"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12602 V 7200",
-        "id": "Polsat Sport",
-        "key": "20 26 A9 EF 97 1A CA 7B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11097 V 7200",
-        "id": "ATLETICA_SAVONA_MAIN",
-        "key": "76 BD 4D 80 07 B7 41 FF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "C0 24 8E 72 96 51 94 7B"
     }
 ]
