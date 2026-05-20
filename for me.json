@@ -1,6 +1,96 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "C0 24 8E 72 96 51 94 7B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11103 H 7200",
+        "id": "TVN D-564 Enc II MAIN",
+        "key": "BA BA 20 94 05 DC DC BD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "C0 24 8E 72 96 51 94 7B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11523 V 7200",
+        "id": "ANG vs MOZ / SEN vs ALG",
+        "key": "3A 7D 5C 13 91 F6 B8 3F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12535 V 7200",
+        "id": "MAIN - E-285",
+        "key": "20 05 20 45 26 FA CA EA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12546 H 7200",
+        "id": "MRCO05-MAIN",
+        "key": "3A 7D 5C 13 91 F6 B8 3F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12555 H 7200",
+        "id": "MRC003/ MAN",
+        "key": "B2 F8 4A F4 0C 9E 71 1B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12574 H 7200",
+        "id": "MLI vs TAN",
+        "key": "B2 F8 4A F4 0C 9E 71 1B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "58 24 40 BC 58 94 EF DB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO TIP",
+        "key": "15 63 AE 26 0B DF F2 DC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12609 V 9700",
+        "id": "IIHF2026 - ZUR - VO GER",
+        "key": "26 4E EC 60 2A B9 70 53"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10971 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10977 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11103 H 7200",
+        "id": "TVN D-564 Enc II MAIN",
+        "key": "BA BA 20 94 05 DC DC BD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11098 V 7200",
         "id": "ATLETICA_SAVONA_MAIN",
         "key": "76 BD 4D 80 07 B7 41 FF"
