@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "OCC 9",
+        "key": "F1 E3 8B 5F D5 1E 4A 3D"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "OCC 8",
+        "key": "72 E3 A9 FE D5 13 FA E2"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "OCC 7",
+        "key": "EA BF E5 8E A2 DF F7 78"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "OCC 6",
+        "key": "B6 11 3F 06 CA E8 52 04"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10768 V 34000",
         "id": "OCC 4",
         "key": "BD E3 A9 49 D5 1F FA EE"
@@ -64,17 +88,5 @@
         "frequency": "11102 H 7200",
         "id": "TVN D-564 Enc II MAIN",
         "key": "BA BA 20 94 05 DC DC BD"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12535 V 7200",
-        "id": "MAIN - E-285",
-        "key": "20 05 20 45 26 FA CA EA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11089 H 4938",
-        "id": "PYRAM-ANA",
-        "key": "12 14 AB D1 AB 4A 5B 50"
     }
 ]
