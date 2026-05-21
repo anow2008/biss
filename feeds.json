@@ -1,31 +1,31 @@
 [
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
+        "frequency": "10768 V 34000",
         "id": "OCC 3",
         "key": "42 E3 7C A1 D5 19 4A 38"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
+        "frequency": "10768 V 34000",
         "id": "OCC 2",
         "key": "13 F4 D6 DD E6 23 FB 04"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
+        "frequency": "10768 V 34000",
         "id": "OCC 1",
         "key": "8D F4 31 B2 E6 24 4B 55"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
+        "frequency": "10768 V 34000",
         "id": "OCC 5",
         "key": "EA BF E5 8E A2 DF F7 78"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
+        "frequency": "10768 V 34000",
         "id": "OCC 4",
         "key": "C1 F4 22 D7 E6 2E 4B 5F"
     },
@@ -58,11 +58,5 @@
         "frequency": "12678 H 7200",
         "id": "HBL Berlin-Hannover",
         "key": "20 26 AB F1 DC 21 05 02"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11496 V 7200",
-        "id": "ENC 6",
-        "key": "B3 34 28 0F 72 29 83 1E"
     }
 ]
