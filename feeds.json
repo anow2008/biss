@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11597 V 7200",
+        "id": "Encoder 2",
+        "key": "F9 52 6F BA 3E B8 62 58"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11097 V 7200",
+        "id": "MAIN - E-285",
+        "key": "FA A5 67 06 CF 87 02 58"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12649 H 7200",
+        "id": "HBL Magdebg-Flensbg.",
+        "key": "20 26 CD 13 BA 21 05 E0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "GCUK Enc 1",
+        "key": "42 BA 45 41 11 BE EC BB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12678 H 7200",
         "id": "HBL Berlin-Hannover",
         "key": "20 26 AB F1 DC 21 05 02"
@@ -16,35 +40,5 @@
         "frequency": "11523 V 7200",
         "id": "ENC 4",
         "key": "AC 17 DA 9D 28 BD 39 1E"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10769 H 7200",
-        "id": "BAL INT",
-        "key": "9A 1D 7C 33 4B 3F 26 B0"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10778 H 7200",
-        "id": "BAL AFR",
-        "key": "C7 F2 A8 61 B3 D1 69 ED"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11014 H 7200",
-        "id": "GVA_Fi01",
-        "key": "DF 49 5C 84 19 D2 C6 B1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11000 H 15000",
-        "id": "DAZN-Main_01",
-        "key": "A4 51 D2 C7 4C CA 61 77"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 V 9875",
-        "id": "D535_2M12_WLFSBRG_1",
-        "key": "54 B9 8E 9B EB 69 41 95"
     }
 ]
