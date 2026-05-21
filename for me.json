@@ -1,6 +1,72 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11021 V 9875",
+        "id": "D535_2M12_WLFSBRG_1",
+        "key": "54 B9 8E 9B EB 69 41 95"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11097 V 7200",
+        "id": "MAIN - E-285",
+        "key": "FA A5 67 06 CF 87 02 58"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11597 V 7200",
+        "id": "Encoder 2",
+        "key": "F9 52 6F BA 3E B8 62 58"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7200",
+        "id": "Encoder 1",
+        "key": "65 AF 9F B3 E2 BD 72 11"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12649 H 7200",
+        "id": "HBL Magdebg-Flensbg.",
+        "key": "20 26 CD 13 BA 21 05 E0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 2",
+        "key": "DA 62 F6 32 A4 CC 2D 9D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10815 H 9700",
+        "id": "IIHF2026 - FRI - VO TIP",
+        "key": "5B 25 D1 51 A3 C0 B2 15"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10826 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "13 78 B1 3C FB A4 76 15"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 V 7200",
+        "id": "GCUK Enc 1",
+        "key": "42 BA 45 41 11 BE EC BB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "95 32 FD C4 00 67 49 B0"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11013 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11496 V 7200",
         "id": "ENC 6",
         "key": "B3 34 28 0F 72 29 83 1E"
