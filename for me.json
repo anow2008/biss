@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "4B CB 58 6E CD 57 8D B1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11080 H 7200",
+        "id": "EUROLEAGUE FINAL 4_DAY 1- ATH. MAIN",
+        "key": "62 31 B7 4A F2 AF 09 AA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12737 V 7200",
+        "id": "ITA 415 MAIN",
+        "key": "20 26 05 4B AA E7 9A 2B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL270-1",
+        "key": "F9 9A 7F 12 6A 40 6C 16"
+    }
+]
