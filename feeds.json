@@ -1,44 +1,50 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10815 H 9700",
-        "id": "IIHF2026 - FRI - VO TIP",
-        "key": "DB 19 77 6B 66 38 09 A7"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10827 H 9700",
-        "id": "IIHF2026 - FRI - WF",
-        "key": "92 B3 FD 42 26 69 88 17"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12585 V 9700",
-        "id": "IIHF2026 - ZUR - WF",
-        "key": "A0 CA 68 D2 D3 A1 22 96"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 H 7200",
+        "id": "HBL Berlin-Hannover",
+        "key": "20 26 AB F1 DC 21 05 02"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11045 V 9875",
-        "id": "ITA548  W Feed B Com Main",
+        "frequency": "11496 V 7200",
+        "id": "ENC 6",
+        "key": "B3 34 28 0F 72 29 83 1E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11523 V 7200",
+        "id": "ENC 4",
+        "key": "AC 17 DA 9D 28 BD 39 1E"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10769 H 7200",
+        "id": "BAL INT",
+        "key": "9A 1D 7C 33 4B 3F 26 B0"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10778 H 7200",
+        "id": "BAL AFR",
+        "key": "C7 F2 A8 61 B3 D1 69 ED"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11014 H 7200",
+        "id": "GVA_Fi01",
         "key": "DF 49 5C 84 19 D2 C6 B1"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11505 V 7200",
-        "id": "E393 PATH 3 CLEAN MAIN",
-        "key": "CD DA 45 EC 45 88 99 66"
+        "frequency": "11000 H 15000",
+        "id": "DAZN-Main_01",
+        "key": "A4 51 D2 C7 4C CA 61 77"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11514 V 7200",
-        "id": "E393 PATH1 DIRTY",
-        "key": "AB 87 66 98 78 98 98 A8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11592 H 9600",
-        "id": "NLEMG HOL270-1",
-        "key": "F9 9A 7F 12 6A 40 6C 16"
+        "frequency": "11022 V 9875",
+        "id": "D535_2M12_WLFSBRG_1",
+        "key": "54 B9 8E 9B EB 69 41 95"
     }
 ]
