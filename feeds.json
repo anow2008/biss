@@ -1,26 +1,44 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11592 H 9600",
-        "id": "NLEMG HOL270-1",
-        "key": "F9 9A 7F 12 6A 40 6C 16"
+        "frequency": "10815 H 9700",
+        "id": "IIHF2026 - FRI - VO TIP",
+        "key": "DB 19 77 6B 66 38 09 A7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10827 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "92 B3 FD 42 26 69 88 17"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "A0 CA 68 D2 D3 A1 22 96"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12737 V 7200",
-        "id": "ITA 415 MAIN",
-        "key": "20 26 05 4B AA E7 9A 2B"
+        "frequency": "11045 V 9875",
+        "id": "ITA548  W Feed B Com Main",
+        "key": "DF 49 5C 84 19 D2 C6 B1"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11543 V 7200",
-        "id": "E393 P4 DIRTY BACKUP",
+        "frequency": "11505 V 7200",
+        "id": "E393 PATH 3 CLEAN MAIN",
+        "key": "CD DA 45 EC 45 88 99 66"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11514 V 7200",
+        "id": "E393 PATH1 DIRTY",
         "key": "AB 87 66 98 78 98 98 A8"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11553 V 7200",
-        "id": "PATH2 CLEAN BUP",
-        "key": "CD DA 45 EC 45 88 99 66"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL270-1",
+        "key": "F9 9A 7F 12 6A 40 6C 16"
     }
 ]
