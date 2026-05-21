@@ -3,7 +3,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "CB E3 5E 0C D5 1E 4A 3D"
+    "key": "B6 11 3F 06 CA E8 52 04"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10731 V 34000",
+    "id": "OCC 6",
+    "key": "B6 11 3F 06 CA E8 52 04"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
