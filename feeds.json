@@ -64,11 +64,5 @@
         "frequency": "10977 V 7200",
         "id": "E-413 VIA 1",
         "key": "34 AA 12 F0 AA 34 AA 88"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11021 H 9875",
-        "id": "ANA-1",
-        "key": "11 22 33 66 FF 11 FF 0F"
     }
 ]
