@@ -1,62 +1,80 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 3",
-        "key": "42 E3 7C A1 D5 19 4A 38"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 2",
-        "key": "13 F4 D6 DD E6 23 FB 04"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 1",
-        "key": "8D F4 31 B2 E6 24 4B 55"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 5",
-        "key": "EA BF E5 8E A2 DF F7 78"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 4",
-        "key": "C1 F4 22 D7 E6 2E 4B 5F"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12602 V 7200",
+        "id": "Polsat Sport",
+        "key": "20 26 AB F1 CD 1E CA B5"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11597 V 7200",
-        "id": "Encoder 2",
-        "key": "F9 52 6F BA 3E B8 62 58"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11097 V 7200",
-        "id": "MAIN - E-285",
-        "key": "FA A5 67 06 CF 87 02 58"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12649 H 7200",
-        "id": "HBL Magdebg-Flensbg.",
-        "key": "20 26 CD 13 BA 21 05 E0"
+        "frequency": "11084 V 15000",
+        "id": "World Backup",
+        "key": "AB 51 D4 D0 CA A6 41 B1"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "GCUK Enc 1",
-        "key": "42 BA 45 41 11 BE EC BB"
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO GER",
+        "key": "6A AC 90 A6 47 4B 28 BA"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 H 7200",
-        "id": "HBL Berlin-Hannover",
-        "key": "20 26 AB F1 DC 21 05 02"
+        "frequency": "11102 V 15000",
+        "id": "DAZN-backup_01",
+        "key": "AB 51 D2 CE 4C AA 61 57"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11045 V 9875",
+        "id": "ITA548  W Feed B Com Main",
+        "key": "DF 49 5C 84 19 D2 C6 B1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "01 FC 10 0D 0C 12 2C 4A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ITA 415 MAIN",
+        "key": "20 26 05 4B AA E7 9A 2B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12577 H 7500",
+        "id": "NLFLEV_HOL-090 CH-A",
+        "key": "11 A8 CB 84 DA 65 4A 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11089 H 7200",
+        "id": "EUROLEAGUE FINAL 4_DAY 2- ATH. MAIN",
+        "key": "F4 22 21 37 70 3B 1C C7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12610 V 7200",
+        "id": "ITA",
+        "key": "76 D3 D6 1F 9C DF AE 29"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12548 H 9875",
+        "id": "ERC Service Park Main",
+        "key": "27 43 FD 67 32 08 5C 96"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11001 H 14400",
+        "id": "NOR-044 - EUROPE X NON VBR",
+        "key": "00 09 CE D7 F4 7A E7 55"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10962 H 9875",
+        "id": "NOR-044 - SERVICE FEED 1",
+        "key": "5A 52 26 D2 8F 28 9B 52"
     }
 ]
