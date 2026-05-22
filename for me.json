@@ -1,6 +1,84 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11013 H 7200",
+        "id": "GVA_Fi01",
+        "key": "DF 49 5C 84 19 D2 C6 B1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11045 V 9875",
+        "id": "ITA548  W Feed B Com Main",
+        "key": "DF 49 5C 84 19 D2 C6 B1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11057 V 9875",
+        "id": "ITA548  W Feed A Std Main",
+        "key": "DF 49 5C 84 19 D2 C6 B1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11104 H 9875",
+        "id": "GVA_Fi08",
+        "key": "96 0E B6 5A 36 DD 41 54"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11579 V 7200",
+        "id": "E394 MAIN",
+        "key": "C3 E5 A7 4F B9 F2 D6 81"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "F634/11.1A/Gambardella-CDF INTER DIRTY",
+        "key": "AB CD 22 9A 05 DC BA 9B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12602 V 7200",
+        "id": "Polsat Sport",
+        "key": "20 26 AB F1 CD 1E CA B5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ITA 415 MAIN",
+        "key": "20 26 05 4B AA E7 9A 2B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10815 H 9700",
+        "id": "IIHF2026 - FRI - VO TIP",
+        "key": "C2 30 6F 61 D1 C4 8D 22"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10827 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "B7 74 82 AD C7 AE D9 4E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10846 V 9700",
+        "id": "IIHF2026 - ZUR - VO PEN",
+        "key": "D0 52 2E 50 48 F8 FC 3C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "01 FC 10 0D 0C 12 2C 4A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO GER",
+        "key": "6A AC 90 A6 47 4B 28 BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10962 H 9875",
         "id": "NOR-044 - SERVICE FEED 1",
         "key": "5A 52 26 D2 8F 28 9B 52"
