@@ -9,12 +9,6 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 5",
-    "key": "6C D4 CF 0F 55 E4 EA 23"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12695 V 14000",
-    "id": "UKI-1646 Radio 1 Big Weekend",
-    "key": "20 B1 BB 8C CA 31 2B 26"
+    "key": "12 3C AA F8 14 22 A3 D9"
   }
 ]
