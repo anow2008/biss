@@ -1,6 +1,66 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10964 V 15000",
+        "id": "DAZN-MAIN_01",
+        "key": "A4 51 D2 C7 4C CA 61 77"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10977 V 7200",
+        "id": "E-413 VIA 1",
+        "key": "34 AA 12 F0 AA 34 AA 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL-059_ch1",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12635 H 9875",
+        "id": "AUT34 /P-1",
+        "key": "AB CD 22 9A 05 AB CD 7D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12647 H 9875",
+        "id": "AUT34 P-2",
+        "key": "AB CD 22 9A 05 AB CD 7D"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10769 H 7200",
+        "id": "BAL INT",
+        "key": "5D 1A 9C 13 7F 2B 84 2E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7120",
+        "id": "GCUK Enc 9",
+        "key": "BB AA FF 64 EE 22 05 15"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10965 V 4800",
+        "id": "POL11_HARM",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10995 V 7500",
+        "id": "POL023 TVN24 WAW P1",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11005 V 7500",
+        "id": "POL023 TVN24 WAW p2",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11013 H 7200",
         "id": "GVA_Fi01",
         "key": "DF 49 5C 84 19 D2 C6 B1"
