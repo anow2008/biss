@@ -13,33 +13,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11102 V 15000",
+    "frequency": "11101 V 15000",
     "id": "DAZN-BACKUP_01",
     "key": "AB 51 D2 CE 4C AA 61 57"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11550 V 20000",
-    "id": "SUPPONOR AFRICA 2",
-    "key": "99 1B 27 DB 15 BF 59 2D"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10731 V 34000",
     "id": "OVERON 1",
     "key": "D8 E3 AA 65 3C 8E 7F 49"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10767 V 34000",
-    "id": "OVERON 3",
-    "key": "2E CE 57 53 13 23 BB F1"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "GCUK Enc 11",
-    "key": "5A 2B 9C 21 1A DE 31 29"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
