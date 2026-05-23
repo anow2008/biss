@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "SUPPONOR RUSIA 1",
+        "key": "4E EE DC 18 60 3B 13 AE"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "SUPPONOR MENA 2",
+        "key": "70 F3 AA 0D B8 63 7B 96"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "SUPPONOR MENA 1",
+        "key": "DE D3 8C 3D BB AA 18 7D"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "SUPPONOR EASTERN 1",
+        "key": "23 44 50 B7 51 E9 F5 2F"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "SUPPONOR AFRICA 1",
+        "key": "59 DC E5 1A 26 15 C3 FE"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "OVERON 2",
+        "key": "BF 37 9F 95 8F 8C 79 94"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10731 V 34000",
+        "id": "OVERON 1",
+        "key": "D8 E3 AA 65 3C 8E 7F 49"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12727 V 7500",
         "id": "ENC 4",
@@ -22,47 +64,5 @@
         "frequency": "11104 V 9875",
         "id": "D-408 ENC2",
         "key": "26 F3 D9 F2 06 52 33 8B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11597 V 7200",
-        "id": "Encoder 1",
-        "key": "9A 66 F6 F6 D8 93 39 A4"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11018 V 4938",
-        "id": "YSM-013M",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10778 H 7200",
-        "id": "BAL AFR",
-        "key": "2C 6B 3A D1 9E 1F 75 32"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11061 H 7200",
-        "id": "AFC U17",
-        "key": "8C 7E F7 01 49 93 D0 AC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11495 V 7200",
-        "id": "Turkish Cup - Trabzonspor v Konyaspor",
-        "key": "AA CB 63 D8 85 EE 54 C7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 H 7200",
-        "id": "HBL Eisenach-Lemgo",
-        "key": "20 26 AB F1 DC 22 05 03"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10977 V 7200",
-        "id": "E-413 VIA 1",
-        "key": "34 AA 12 F0 AA 34 AA 88"
     }
 ]
