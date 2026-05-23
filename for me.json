@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10986 H 9600",
+        "id": "ITA2B",
+        "key": "CF CD C1 5D 6F 10 4D CC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11009 V 9875",
+        "id": "POL-098 Main",
+        "key": "B6 D8 0B 99 58 9F 99 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL-059_ch1",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10802 H 9700",
+        "id": "IIHF2026 - ZUR - VO AUT",
+        "key": "D5 21 AB A1 F2 CB B5 72"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10834 V 9700",
+        "id": "IIHF2026 - ZUR - VO GER",
+        "key": "EC 32 22 40 3C B4 DB CB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10846 V 9700",
+        "id": "IIHF2026 - ZUR - VO PEN",
+        "key": "F1 EA D0 AB 52 3E 48 D8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10973 V 9875",
         "id": "Fi09_ GNVE",
         "key": "02 52 42 96 FC 84 F3 73"
