@@ -1,21 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11092 H 9875",
-    "id": "D571 DFB Pokal SKY",
-    "key": "4C C2 52 60 BA EA A6 4A E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11092 H 9875",
-    "id": "D571 DFB Pokal SKY",
-    "key": "4C C2 52 60 BA EA A6 4A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 V 9875",
-    "id": "Fi13_GNVE",
-    "key": "72 D6 53 9B 22 91 80 33"
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "AB 51 D2 CE 4C AA 61 57"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,39 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11105 H 9875",
-    "id": "D-571 Main DFB Pokal",
-    "key": "6E 73 72 53 7E 74 1F 11"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11550 V 20000",
     "id": "SUPPONOR AFRICA 2",
     "key": "99 1B 27 DB 15 BF 59 2D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "MAIN - E-285",
-    "key": "AB 23 05 D3 20 26 BA 00"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL-059_ch1",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12640 H 7200",
-    "id": "MRCO05-MAIN",
-    "key": "8C 5E 2F 19 A7 D0 4B C2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 H 7200",
-    "id": "UGA vs GHA",
-    "key": "8C 5E 2F 19 A7 D0 4B C2"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -78,16 +36,16 @@
     "key": "2E CE 57 53 13 23 BB F1"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11288 V 7200",
-    "id": "PFL CB",
-    "key": "AA CC 25 9B 25 CA 25 14"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "GCUK Enc 11",
+    "key": "5A 2B 9C 21 1A DE 31 29"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 05 8F"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11619 V 7200",
+    "id": "GCUK Enc 1",
+    "key": "5A 2B 9C 21 1A DE 31 29"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
