@@ -1,68 +1,92 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10731 V 34000",
-        "id": "SUPPONOR RUSIA 1",
-        "key": "4E EE DC 18 60 3B 13 AE"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10731 V 34000",
-        "id": "SUPPONOR MENA 2",
-        "key": "70 F3 AA 0D B8 63 7B 96"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10731 V 34000",
-        "id": "SUPPONOR MENA 1",
-        "key": "DE D3 8C 3D BB AA 18 7D"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10731 V 34000",
-        "id": "SUPPONOR EASTERN 1",
-        "key": "23 44 50 B7 51 E9 F5 2F"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10731 V 34000",
-        "id": "SUPPONOR AFRICA 1",
-        "key": "59 DC E5 1A 26 15 C3 FE"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10731 V 34000",
-        "id": "OVERON 2",
-        "key": "BF 37 9F 95 8F 8C 79 94"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10731 V 34000",
-        "id": "OVERON 1",
-        "key": "D8 E3 AA 65 3C 8E 7F 49"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11093 H 9875",
+        "id": "D571 DFB Pokal SKY",
+        "key": "4C C2 52 60 BA EA A6 4A"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12727 V 7500",
-        "id": "ENC 4",
-        "key": "F1 07 45 3D E6 CB AD 5E"
+        "frequency": "12736 V 7200",
+        "id": "ITA 415 MAIN",
+        "key": "20 26 05 4B AA E7 9A 2B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12647 V 7200",
+        "id": "E-413 VIA 1",
+        "key": "34 AA 12 F0 AA 34 AA 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10996 V 7200",
+        "id": "Main SAUDI015",
+        "key": "D5 D5 F7 A1 CF EF 07 C5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11523 V 7200",
+        "id": "ENC 3",
+        "key": "BC AA 45 AB 56 BB CA DB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11598 V 7200",
+        "id": "ENC 2",
+        "key": "FE ED F1 DC A1 BA 11 6C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12602 V 7200",
+        "id": "Polsat Sport",
+        "key": "20 26 AB F1 CD 1E CA B5"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12695 V 14000",
-        "id": "UKI-1646 Radio 1 Big Weekend",
-        "key": "20 B1 BB 8C CA 31 2B 26"
+        "frequency": "11014 V 7200",
+        "id": "Wembley play off Sat DR",
+        "key": "12 34 5A A0 20 26 05 4B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11588 V 7200",
-        "id": "Encoder 2",
-        "key": "B7 83 FC 36 39 62 46 E1"
+        "frequency": "11487 V 7200",
+        "id": "CRO-004 Kup RH W - Main",
+        "key": "12 34 AB F1 CD 20 26 13"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11104 V 9875",
-        "id": "D-408 ENC2",
-        "key": "26 F3 D9 F2 06 52 33 8B"
+        "frequency": "12687 H 7200",
+        "id": "GCUK Enc 4",
+        "key": "32 9D F2 C1 23 29 91 DD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11551 V 20000",
+        "id": "MULTIGOL HD50",
+        "key": "F0 66 8D E3 46 67 C3 70"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11551 V 20000",
+        "id": "VIET-JPN 2",
+        "key": "AF C8 14 8B DF AE 04 91"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11551 V 20000",
+        "id": "SUPPONOR EASTERN 2",
+        "key": "92 CB 2C 89 FC EE 64 4E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11551 V 20000",
+        "id": "SUPPONOR AFRICA 2",
+        "key": "99 1B 27 DB 15 BF 59 2D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11071 H 7200",
+        "id": "2Sat HOL318 Oslo-1",
+        "key": "71 73 71 55 88 91 38 51"
     }
 ]
