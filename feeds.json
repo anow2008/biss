@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10973 V 9875",
+        "id": "Fi09_ GNVE",
+        "key": "02 52 42 96 FC 84 F3 73"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11496 V 7200",
+        "id": "ETH vs MOZ",
+        "key": "F3 B7 0D B7 21 C6 E9 D0"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10976 H 3600",
         "id": "F1-2 4.5MH",
@@ -64,23 +76,5 @@
         "frequency": "10778 H 7200",
         "id": "BAL AFR",
         "key": "E2 B7 A1 3A C9 D4 F3 90"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10769 H 7200",
-        "id": "BAL INT",
-        "key": "7A 4C 1F E5 9B 3D 62 3A"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11288 V 7200",
-        "id": "PFL CB",
-        "key": "AA CC 25 9B 25 CA 25 14"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7200",
-        "id": "SLQ-008 M",
-        "key": "23 05 FA 22 FC 20 65 81"
     }
 ]
