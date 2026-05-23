@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10961 V 9875",
+        "id": "Fi13_GNVE",
+        "key": "72 D6 53 9B 22 91 80 33"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11606 V 7200",
         "id": "MAIN - E-285",
         "key": "AB 23 05 D3 20 26 BA 00"
