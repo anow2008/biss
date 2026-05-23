@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12568 H 7200",
+        "id": "Service1",
+        "key": "AB CD 12 8A 34 EF 56 79"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12640 H 7200",
+        "id": "MRCO05-MAIN",
+        "key": "8C 5E 2F 19 A7 D0 4B C2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12677 H 7200",
+        "id": "UGA vs GHA",
+        "key": "8C 5E 2F 19 A7 D0 4B C2"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11247 H 7200",
+        "id": "Encoder 1",
+        "key": "65 43 42 EA C3 3B 59 57"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10827 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "DF 32 58 69 6E 4A 0E C6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "9A E3 10 8D A5 F8 79 16"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO TIP",
+        "key": "D0 4C B2 CE 3B D4 C2 D1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10986 H 9600",
         "id": "ITA2B",
         "key": "CF CD C1 5D 6F 10 4D CC"
