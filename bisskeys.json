@@ -3,19 +3,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11092 H 9875",
     "id": "D571 DFB Pokal SKY",
-    "key": "4C C2 52 60 BA EA A6 4A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 H 3600",
-    "id": "F1-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
+    "key": "4C C2 52 60 BA EA A6 4A E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 H 9875",
-    "id": "NOR044 UWCLF SF1",
-    "key": "5A 52 26 D2 8F 28 9B 52"
+    "frequency": "11092 H 9875",
+    "id": "D571 DFB Pokal SKY",
+    "key": "4C C2 52 60 BA EA A6 4A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -25,31 +19,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10973 V 9875",
-    "id": "Fi09_ GNVE",
-    "key": "02 52 42 96 FC 84 F3 73"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10995 V 7200",
-    "id": "Main SAUDI015",
-    "key": "D5 D5 F7 A1 CF EF 07 C5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11000 H 14400",
-    "id": "NOR044 UWCLF X",
-    "key": "5A 52 26 D2 8F 28 9B 52"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11083 V 15000",
     "id": "World Backup",
     "key": "AB 51 D2 CE 4C AA 61 57"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11101 V 15000",
+    "frequency": "11102 V 15000",
     "id": "DAZN-BACKUP_01",
     "key": "AB 51 D2 CE 4C AA 61 57"
   },
@@ -73,27 +49,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12568 H 7200",
-    "id": "Service1",
-    "key": "AB CD 12 8A 34 EF 56 79"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12577 H 7500",
-    "id": "NLFLEV_HOL-090 CH-A",
-    "key": "11 A8 CB 84 DA 65 4A 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
     "id": "POL-059_ch1",
     "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12602 V 7200",
-    "id": "Polsat Sport",
-    "key": "20 26 AB F1 CD 1E CA B5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -126,42 +84,6 @@
     "key": "AA CC 25 9B 25 CA 25 14"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10802 H 9700",
-    "id": "IIHF2026 - ZUR - VO AUT",
-    "key": "D5 21 AB A1 F2 CB B5 72"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10827 H 9700",
-    "id": "IIHF2026 - FRI - WF",
-    "key": "DF 32 58 69 6E 4A 0E C6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10834 V 9700",
-    "id": "IIHF2026 - ZUR - VO GER",
-    "key": "EC 32 22 40 3C B4 DB CB"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10846 V 9700",
-    "id": "IIHF2026 - ZUR - VO PEN",
-    "key": "F1 EA D0 AB 52 3E 48 D8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12585 V 9700",
-    "id": "IIHF2026 - ZUR - WF",
-    "key": "9A E3 10 8D A5 F8 79 16"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12597 V 9700",
-    "id": "IIHF2026 - ZUR - VO TIP",
-    "key": "D0 4C B2 CE 3B D4 C2 D1"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
     "id": "TVP POL-32  ENC 1",
@@ -169,8 +91,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11000 V 15000",
-    "id": "POL085",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "12695 V 14000",
+    "id": "UKI-1646 Radio 1 Big Weekend",
+    "key": "20 B1 BB 8C CA 31 2B 26"
   }
 ]
