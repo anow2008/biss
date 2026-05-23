@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10976 H 3600",
+        "id": "F1-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10767 V 34000",
+        "id": "OVERON 3",
+        "key": "2E CE 57 53 13 23 BB F1"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10769 H 7200",
+        "id": "BAL INT",
+        "key": "7A 4C 1F E5 9B 3D 62 3A"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10778 H 7200",
+        "id": "BAL AFR",
+        "key": "E2 B7 A1 3A C9 D4 F3 90"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11288 V 7200",
+        "id": "PFL CB",
+        "key": "AA CC 25 9B 25 CA 25 14"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10974 V 9600",
+        "id": "POL-90a",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10976 H 3600",
+        "id": "F1-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10996 V 7200",
         "id": "Main SAUDI015",
