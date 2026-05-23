@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10834 V 9700",
+        "id": "IIHF2026 - ZUR - VO GER",
+        "key": "EC 32 22 40 3C B4 DB CB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 9700",
+        "id": "IIHF2026 - ZUR - VO AUT",
+        "key": "D5 21 AB A1 F2 CB B5 72"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-059_ch1",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10986 H 9600",
+        "id": "ITA2B",
+        "key": "CF CD C1 5D 6F 10 4D CC"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10973 V 9875",
         "id": "Fi09_ GNVE",
@@ -46,35 +70,5 @@
         "frequency": "10767 V 34000",
         "id": "BET VS LEV HD50",
         "key": "A3 C3 4C B2 32 10 D0 12"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
-        "id": "MLL VS OVI HD50",
-        "key": "B3 C3 BE 34 A0 81 58 79"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
-        "id": "GET VS OSA HD50",
-        "key": "D6 28 21 1F 05 FF BE C2"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
-        "id": "GIR VS ELC HD50",
-        "key": "75 EF 74 D8 9D 70 FA 07"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10767 V 34000",
-        "id": "OVERON 4",
-        "key": "E6 B7 71 0E 99 BD D8 2E"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10778 H 7200",
-        "id": "BAL AFR",
-        "key": "E2 B7 A1 3A C9 D4 F3 90"
     }
 ]
