@@ -76,11 +76,5 @@
         "frequency": "10986 H 9600",
         "id": "ITA2B",
         "key": "CF CD C1 5D 6F 10 4D CC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10973 V 9875",
-        "id": "Fi09_ GNVE",
-        "key": "02 52 42 96 FC 84 F3 73"
     }
 ]
