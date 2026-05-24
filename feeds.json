@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12727 V 7500",
+        "id": "ENC 2",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11024 V 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11054 H 9700",
         "id": "IIHF2026 - FRI - VO TIP",
@@ -64,17 +76,5 @@
         "frequency": "10778 H 7200",
         "id": "BAL AFR",
         "key": "A1 F7 C3 5B B9 D4 62 EF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11079 H 7200",
-        "id": "GBIMG ATHENS MAIN",
-        "key": "E2 23 B3 B8 C9 A7 79 E9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12741 H 7200",
-        "id": "CRO-004 Kup RH W - Main",
-        "key": "12 34 AB F1 CD 20 26 13"
     }
 ]
