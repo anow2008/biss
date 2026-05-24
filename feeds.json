@@ -1,44 +1,80 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 V 7200",
+        "id": "Fi01 ACB",
+        "key": "CD 69 DE 14 B4 C9 9C 19"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11256 H 7200",
+        "id": "Encoder 1",
+        "key": "BA ED 26 CD 78 28 72 12"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10778 H 7200",
+        "id": "BAL AFR",
+        "key": "A1 F7 C3 5B B9 D4 62 EF"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10973 V 9600",
-        "id": "POL-033 out1",
+        "frequency": "12563 H 9600",
+        "id": "POL-141 ENC1",
         "key": "AB BA 26 8B DC AE 05 8F"
     },
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11079 H 7200",
+        "id": "GBIMG ATHENS MAIN",
+        "key": "E2 23 B3 B8 C9 A7 79 E9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12742 H 7200",
+        "id": "CRO-004 Kup RH W - Main",
+        "key": "12 34 AB F1 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10986 H 9600",
+        "id": "ITA555 A",
+        "key": "BC 01 20 DD 26 24 05 4F"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11087 V 10000",
-        "id": "GCUK Enc 14",
-        "key": "24 EF 6E 81 5F 5F D8 96"
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "3A AA D0 B4 DC 47 1B 3E"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 4",
-        "key": "31 02 09 3C 99 94 BD EA"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO TIP",
+        "key": "84 FC A4 24 E6 2F F8 0D"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 3",
-        "key": "0C 3A AB F1 10 3F 62 B1"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11042 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "56 BC 37 49 67 5A 1E DF"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 2",
-        "key": "76 B3 6F 98 D2 85 BC 13"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 H 7200",
+        "id": "HBL RN Loewen",
+        "key": "20 26 AB F1 DC 24 05 05"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "LIGA HYPERMOTION 1",
-        "key": "55 17 38 A4 23 84 8C 33"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12539 H 14400",
+        "id": "TB1_M6",
+        "key": "AA AA 32 86 23 D3 A1 97"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "SPO VS ALM HD50",
-        "key": "7D E6 2E 91 4A 01 D6 21"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL270-1",
+        "key": "EC 76 E9 4B AD 0B 08 C0"
     }
 ]
