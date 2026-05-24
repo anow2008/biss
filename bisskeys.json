@@ -31,12 +31,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11505 V 7200",
-    "id": "Am.Football AFLE",
-    "key": "24 05 DE 07 FC 76 41 B3"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11588 V 7200",
     "id": "E394 MAIN",
     "key": "C3 E5 A7 4F B9 F2 D6 81"
@@ -60,6 +54,18 @@
     "key": "BC F7 24 D7 05 44 61 AA"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12686 H 7200",
+    "id": "MRCO05-MAIN",
+    "key": "1D 9F 63 1F A4 E0 27 AB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "ENC 2",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
@@ -70,18 +76,6 @@
     "frequency": "10767 V 34000",
     "id": "SUPPONOR RUSIA 1",
     "key": "D1 B7 7C 04 4D 6F B5 71"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10769 H 7200",
-    "id": "BAL INT",
-    "key": "3C 9A 6B 41 1D 7F 28 C4"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10778 H 7200",
-    "id": "BAL AFR",
-    "key": "A1 F7 C3 5B B9 D4 62 EF"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -127,8 +121,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 05 8F"
+    "frequency": "11024 V 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
