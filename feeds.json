@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11523 V 7500",
+        "id": "2026 AMAs",
+        "key": "32 C1 5A 4D 64 25 16 9F"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12695 V 14000",
         "id": "UKI-1646 Radio 1 Big Weekend",
@@ -8,7 +14,7 @@
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11580 H 7500",
-        "id": "Service-1",
+        "id": "Unname",
         "key": "41 D7 0F 27 4C 9A D1 B7"
     },
     {
