@@ -1,26 +1,26 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "C7 5C 06 29 D8 66 DC 1A"
+    "frequency": "12610 V 4600",
+    "id": "AP LDN UPA",
+    "key": "F1 07 45 3D E6 CB AD 5E E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12610 V 4600",
+    "id": "AP LDN UPA",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "ENC 2",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
     "key": "D7 9F C9 3F 7E BA 61 99"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11247 H 7200",
-    "id": "ENC 11",
-    "key": "BC F7 24 D7 05 44 61 AA"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12695 V 14000",
-    "id": "UKI-1646 Radio 1 Big Weekend",
-    "key": "20 B1 BB 8C CA 31 2B 26"
   }
 ]
