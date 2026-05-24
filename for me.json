@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12686 H 7200",
+        "id": "MRCO05-MAIN",
+        "key": "1D 9F 63 1F A4 E0 27 AB"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11024 V 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12510 V 7500",
         "id": "AFD",
         "key": "88 21 BC 65 BA 26 16 F6"
