@@ -1,9 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "Fi01 ACB",
-    "key": "CD 69 DE 14 B4 C9 9C 19"
+    "frequency": "12510 V 7500",
+    "id": "AFD",
+    "key": "88 21 BC 65 BA 26 16 F6 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7500",
+    "id": "AFD",
+    "key": "88 21 BC 65 BA 26 16 F6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -25,27 +31,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11514 V 7200",
-    "id": "SEN vs MLI",
-    "key": "4F 0B 8D E7 6A 91 E7 E2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11543 V 7200",
-    "id": "PFL",
-    "key": "AC B1 BC 19 C3 CB 22 B0"
+    "frequency": "11505 V 7200",
+    "id": "Am.Football AFLE",
+    "key": "24 05 DE 07 FC 76 41 B3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11588 V 7200",
     "id": "E394 MAIN",
     "key": "C3 E5 A7 4F B9 F2 D6 81"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12538 V 7200",
-    "id": "MRC003/ MAN",
-    "key": "E6 A2 4C D4 0D 9B 38 E0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,33 +55,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12640 H 7200",
-    "id": "MAR vs CMR",
-    "key": "E6 A2 4C D4 0D 9B 38 E0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12646 V 7500",
-    "id": "ENC 6",
-    "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7200",
-    "id": "M00-MRC007-Main",
-    "key": "4F 0B 8D E7 6A 91 E7 E2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12678 H 7200",
     "id": "ENC 10",
     "key": "BC F7 24 D7 05 44 61 AA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12741 H 7200",
-    "id": "CRO-004 Kup RH W - Main",
-    "key": "12 34 AB F1 CD 20 26 13"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -121,12 +91,6 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11265 H 7200",
-    "id": "Encoder 2",
-    "key": "F5 7C 24 95 9E 46 69 4D"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "11305 V 7200",
     "id": "SINTRA 1 BK",
     "key": "6A B3 C1 DE 4D F2 9E DD"
@@ -135,7 +99,13 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "Dubai Racing Channel",
-    "key": "5A 21 EC 67 6E 62 D8 A8"
+    "key": "3C BD B9 B2 A4 05 71 1A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11054 H 9700",
+    "id": "IIHF2026 - FRI - VO TIP",
+    "key": "3C BD B9 B2 A4 05 71 1A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
