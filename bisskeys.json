@@ -1,1 +1,158 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 H 7120",
+    "id": "Pitch L1 PLayoffs",
+    "key": "1B C2 21 FE 1C 24 77 B7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10987 V 7200",
+    "id": "GVA_Fi05",
+    "key": "47 06 62 AF 0D B1 43 01"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 H 7200",
+    "id": "GVA_Fi01",
+    "key": "DF 49 5C 84 19 D2 C6 B1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11045 V 9875",
+    "id": "ITA548  W Feed B Com Main",
+    "key": "DF 49 5C 84 19 D2 C6 B1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11057 V 9875",
+    "id": "ITA548  W Feed A Std Main",
+    "key": "DF 49 5C 84 19 D2 C6 B1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11069 V 9875",
+    "id": "F615_MXGP_MAIN",
+    "key": "E9 45 A4 D2 3F 2B 91 FB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "C7 5C 06 29 D8 66 DC 1A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11505 V 7200",
+    "id": "Am.Football AFLE",
+    "key": "24 05 DE 07 FC 76 41 B3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11544 V 7200",
+    "id": "PFL",
+    "key": "AC B1 BC 19 C3 CB 22 B0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12548 H 9875",
+    "id": "ERC Service Park Main",
+    "key": "27 43 FD 67 32 08 5C 96"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12563 H 14400",
+    "id": "Feed 1",
+    "key": "50 22 84 F6 24 2F F7 4A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12577 H 7500",
+    "id": "NLFLEV_HOL-090 CH-A",
+    "key": "11 A8 CB 84 DA 65 4A 89"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12646 V 7500",
+    "id": "ENC 6",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12650 H 7200",
+    "id": "MRCO05-BACKUP",
+    "key": "4F 0B 8D E7 6A 91 E7 E2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12687 H 7200",
+    "id": "D-331 TX1",
+    "key": "24 05 DC 05 BA 20 26 00"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12737 V 7200",
+    "id": "ITA 415 MAIN",
+    "key": "20 26 05 4B AA E7 9A 2B"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10732 V 34000",
+    "id": "OVERON 1",
+    "key": "D7 9F C9 3F 7E BA 61 99"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10768 V 34000",
+    "id": "SUPPONOR RUSIA 1",
+    "key": "D1 B7 7C 04 4D 6F B5 71"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10769 H 7200",
+    "id": "BAL INT",
+    "key": "3C 9A 6B 41 1D 7F 28 C4"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11043 H 9700",
+    "id": "IIHF2026 - FRI - WF",
+    "key": "24 EF 6E 81 5F 5F D8 96"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11087 V 10000",
+    "id": "GCUK Enc 14",
+    "key": "24 EF 6E 81 5F 5F D8 96"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11592 H 9600",
+    "id": "NLEMG HOL270-1",
+    "key": "EC 76 E9 4B AD 0B 08 C0"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12539 H 14400",
+    "id": "TB1_M6",
+    "key": "AA AA 32 86 23 D3 A1 97"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "POL-033 out1",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10985 V 9600",
+    "id": "TVP POL-32  ENC 1",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11015 V 9600",
+    "id": "pol-053_enc1",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  }
+]
