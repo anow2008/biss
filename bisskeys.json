@@ -1,19 +1,19 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 H 7120",
-    "id": "Pitch L1 PLayoffs",
-    "key": "1B C2 21 FE 1C 24 77 B7"
+    "frequency": "10960 V 7200",
+    "id": "Fi01 ACB",
+    "key": "CD 69 DE 14 B4 C9 9C 19"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7200",
-    "id": "GVA_Fi05",
-    "key": "47 06 62 AF 0D B1 43 01"
+    "frequency": "10986 H 9600",
+    "id": "ITA555 A",
+    "key": "BC 01 20 DD 26 24 05 4F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 H 7200",
+    "frequency": "11013 H 7200",
     "id": "GVA_Fi01",
     "key": "DF 49 5C 84 19 D2 C6 B1"
   },
@@ -25,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11057 V 9875",
+    "frequency": "11056 V 9875",
     "id": "ITA548  W Feed A Std Main",
     "key": "DF 49 5C 84 19 D2 C6 B1"
   },
@@ -37,15 +37,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "C7 5C 06 29 D8 66 DC 1A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11079 H 7200",
+    "id": "GBIMG ATHENS MAIN",
+    "key": "E2 23 B3 B8 C9 A7 79 E9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11505 V 7200",
     "id": "Am.Football AFLE",
     "key": "24 05 DE 07 FC 76 41 B3"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11514 V 7200",
+    "id": "SEN vs MLI",
+    "key": "4F 0B 8D E7 6A 91 E7 E2"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,20 +79,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12577 H 7500",
-    "id": "NLFLEV_HOL-090 CH-A",
-    "key": "11 A8 CB 84 DA 65 4A 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12646 V 7500",
     "id": "ENC 6",
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12650 H 7200",
-    "id": "MRCO05-BACKUP",
+    "frequency": "12649 H 7200",
+    "id": "M00-MRC007-Main",
     "key": "4F 0B 8D E7 6A 91 E7 E2"
   },
   {
@@ -114,10 +120,22 @@
     "key": "3C 9A 6B 41 1D 7F 28 C4"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10778 H 7200",
+    "id": "BAL AFR",
+    "key": "A1 F7 C3 5B B9 D4 62 EF"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11256 H 7200",
+    "id": "Encoder 1",
+    "key": "BA ED 26 CD 78 28 72 12"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11043 H 9700",
+    "frequency": "11042 H 9700",
     "id": "IIHF2026 - FRI - WF",
-    "key": "24 EF 6E 81 5F 5F D8 96"
+    "key": "56 BC 37 49 67 5A 1E DF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -133,26 +151,38 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12539 H 14400",
-    "id": "TB1_M6",
-    "key": "AA AA 32 86 23 D3 A1 97"
+    "frequency": "12585 V 9700",
+    "id": "IIHF2026 - ZUR - WF",
+    "key": "3A AA D0 B4 DC 47 1B 3E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12597 V 9700",
+    "id": "IIHF2026 - ZUR - VO TIP",
+    "key": "84 FC A4 24 E6 2F F8 0D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
+    "frequency": "10974 V 9600",
     "id": "POL-033 out1",
     "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
+    "frequency": "10986 V 9600",
     "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11015 V 9600",
+    "frequency": "11016 V 9600",
     "id": "pol-053_enc1",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12563 H 9600",
+    "id": "POL-141 ENC1",
     "key": "AB BA 26 8B DC AE 05 8F"
   }
 ]
