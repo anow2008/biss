@@ -3,36 +3,12 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "AB 51 D2 CE 4C AA 61 57"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11083 V 15000",
-    "id": "World Backup",
-    "key": "AB 51 D2 CE 4C AA 61 57"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11101 V 15000",
-    "id": "DAZN-BACKUP_01",
-    "key": "AB 51 D2 CE 4C AA 61 57"
+    "key": "D8 E3 AA 65 3C 8E 7F 49 E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10731 V 34000",
     "id": "OVERON 1",
     "key": "D8 E3 AA 65 3C 8E 7F 49"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11619 V 7200",
-    "id": "GCUK Enc 1",
-    "key": "5A 2B 9C 21 1A DE 31 29"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12695 V 14000",
-    "id": "UKI-1646 Radio 1 Big Weekend",
-    "key": "20 B1 BB 8C CA 31 2B 26"
   }
 ]
