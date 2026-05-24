@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-059_ch1",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11305 V 7200",
+        "id": "SINTRA 1 BK",
+        "key": "6A B3 C1 DE 4D F2 9E DD"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11265 H 7200",
+        "id": "Encoder 2",
+        "key": "F5 7C 24 95 9E 46 69 4D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12538 V 7200",
+        "id": "MRC003/ MAN",
+        "key": "E6 A2 4C D4 0D 9B 38 E0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10960 V 7200",
         "id": "Fi01 ACB",
         "key": "CD 69 DE 14 B4 C9 9C 19"
@@ -52,29 +76,5 @@
         "frequency": "12597 V 9700",
         "id": "IIHF2026 - ZUR - VO TIP",
         "key": "84 FC A4 24 E6 2F F8 0D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11042 H 9700",
-        "id": "IIHF2026 - FRI - WF",
-        "key": "56 BC 37 49 67 5A 1E DF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 H 7200",
-        "id": "HBL RN Loewen",
-        "key": "20 26 AB F1 DC 24 05 05"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12539 H 14400",
-        "id": "TB1_M6",
-        "key": "AA AA 32 86 23 D3 A1 97"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11592 H 9600",
-        "id": "NLEMG HOL270-1",
-        "key": "EC 76 E9 4B AD 0B 08 C0"
     }
 ]
