@@ -1,6 +1,120 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10985 H 9600",
+        "id": "ITA555 A",
+        "key": "BC 01 20 DD 26 24 05 4F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11080 H 7200",
+        "id": "GBIMG ATHENS MAIN",
+        "key": "E2 23 B3 B8 C9 A7 79 E9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12563 H 14400",
+        "id": "Feed 1",
+        "key": "50 22 84 F6 24 2F F7 4A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12678 H 7200",
+        "id": "HBL RN Loewen",
+        "key": "20 26 AB F1 DC 24 05 05"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12742 H 7200",
+        "id": "CRO-004 Kup RH W - Main",
+        "key": "12 34 AB F1 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10732 V 34000",
+        "id": "OVERON 1",
+        "key": "D7 9F C9 3F 7E BA 61 99"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10768 V 34000",
+        "id": "SUPPONOR RUSIA 1",
+        "key": "D1 B7 7C 04 4D 6F B5 71"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10769 H 7200",
+        "id": "BAL INT",
+        "key": "3C 9A 6B 41 1D 7F 28 C4"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10778 H 7200",
+        "id": "BAL AFR",
+        "key": "A1 F7 C3 5B B9 D4 62 EF"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11256 H 7200",
+        "id": "Encoder 1",
+        "key": "BA ED 26 CD 78 28 72 12"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11043 H 9700",
+        "id": "IIHF2026 - FRI - WF",
+        "key": "56 BC 37 49 67 5A 1E DF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11087 V 10000",
+        "id": "GCUK Enc 14",
+        "key": "24 EF 6E 81 5F 5F D8 96"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11592 H 9600",
+        "id": "NLEMG HOL270-1",
+        "key": "EC 76 E9 4B AD 0B 08 C0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "3A AA D0 B4 DC 47 1B 3E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO TIP",
+        "key": "84 FC A4 24 E6 2F F8 0D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10973 V 9600",
+        "id": "POL-033 out1",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10985 V 9600",
+        "id": "TVP POL-32  ENC 1",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11015 V 9600",
+        "id": "pol-053_enc1",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12563 H 9600",
+        "id": "POL-141 ENC1",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 H 7120",
         "id": "Pitch L1 PLayoffs",
         "key": "1B C2 21 FE 1C 24 77 B7"
