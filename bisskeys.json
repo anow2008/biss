@@ -6,34 +6,10 @@
     "key": "C7 5C 06 29 D8 66 DC 1A"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7500",
-    "id": "2026 AMAs",
-    "key": "32 C1 5A 4D 64 25 16 9F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL-059_ch1",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 H 7200",
-    "id": "ENC 10",
-    "key": "BC F7 24 D7 05 44 61 AA"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10732 V 34000",
     "id": "OVERON 1",
     "key": "D7 9F C9 3F 7E BA 61 99"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10767 V 34000",
-    "id": "SUPPONOR RUSIA 1",
-    "key": "D1 B7 7C 04 4D 6F B5 71"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
