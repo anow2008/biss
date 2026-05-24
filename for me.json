@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7500",
+        "id": "AFD",
+        "key": "88 21 BC 65 BA 26 16 F6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7500",
+        "id": "AFD",
+        "key": "88 21 BC 65 BA 26 16 F6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11054 H 9700",
+        "id": "IIHF2026 - FRI - VO TIP",
+        "key": "3C BD B9 B2 A4 05 71 1A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11588 V 7200",
         "id": "E394 MAIN",
         "key": "C3 E5 A7 4F B9 F2 D6 81"
