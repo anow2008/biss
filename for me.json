@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "Fi01 ACB",
+        "key": "CD 69 DE 14 B4 C9 9C 19"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12538 V 7200",
+        "id": "MRC003/ MAN",
+        "key": "E6 A2 4C D4 0D 9B 38 E0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12640 H 7200",
+        "id": "MAR vs CMR",
+        "key": "E6 A2 4C D4 0D 9B 38 E0"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11265 H 7200",
+        "id": "Encoder 2",
+        "key": "F5 7C 24 95 9E 46 69 4D"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11305 V 7200",
+        "id": "SINTRA 1 BK",
+        "key": "6A B3 C1 DE 4D F2 9E DD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10985 H 9600",
         "id": "ITA555 A",
         "key": "BC 01 20 DD 26 24 05 4F"
