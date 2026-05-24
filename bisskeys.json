@@ -1,45 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7500",
-    "id": "AFD",
-    "key": "88 21 BC 65 BA 26 16 F6 E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7500",
-    "id": "AFD",
-    "key": "88 21 BC 65 BA 26 16 F6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "C7 5C 06 29 D8 66 DC 1A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11079 H 7200",
-    "id": "GBIMG ATHENS MAIN",
-    "key": "E2 23 B3 B8 C9 A7 79 E9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11505 V 7200",
-    "id": "CIV vs EGY",
-    "key": "1D 9F 63 1F A4 E0 27 AB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11580 H 7500",
-    "id": "Service-1",
-    "key": "41 D7 0F 27 4C 9A D1 B7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 V 7200",
-    "id": "E394 MAIN",
-    "key": "C3 E5 A7 4F B9 F2 D6 81"
+    "frequency": "11523 V 7500",
+    "id": "2026 AMAs",
+    "key": "32 C1 5A 4D 64 25 16 9F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -52,12 +22,6 @@
     "frequency": "12678 H 7200",
     "id": "ENC 10",
     "key": "BC F7 24 D7 05 44 61 AA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12686 H 7200",
-    "id": "MRCO05-MAIN",
-    "key": "1D 9F 63 1F A4 E0 27 AB"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -76,30 +40,6 @@
     "frequency": "11247 H 7200",
     "id": "ENC 11",
     "key": "BC F7 24 D7 05 44 61 AA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "Dubai Racing Channel",
-    "key": "3C BD B9 B2 A4 05 71 1A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11054 H 9700",
-    "id": "IIHF2026 - FRI - VO TIP",
-    "key": "3C BD B9 B2 A4 05 71 1A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12585 V 9700",
-    "id": "IIHF2026 - ZUR - WF",
-    "key": "5A 21 EC 67 6E 62 D8 A8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12597 V 9700",
-    "id": "IIHF2026 - ZUR - VO AUT",
-    "key": "CC 38 CB CF 00 73 9C 0F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
