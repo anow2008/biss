@@ -7,7 +7,7 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
+        "frequency": "10985 V 9600",
         "id": "POL-90a",
         "key": "AB BA 26 8B DC AE 05 8F"
     },
@@ -61,7 +61,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11047 V 14400",
+        "frequency": "11048 V 14400",
         "id": "Fi14_GNVE",
         "key": "3F 21 8E EE C2 41 5F 62"
     },
