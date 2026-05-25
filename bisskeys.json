@@ -1,27 +1,39 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11079 H 7120",
-    "id": "EFL - League Two Playoff Final",
-    "key": "13 41 ED 41 A2 24 D3 99 E"
+    "frequency": "11022 H 7200",
+    "id": "E-95 BK UP",
+    "key": "D8 9C 93 07 78 18 4D DD"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11079 H 7120",
-    "id": "EFL - League Two Playoff Final",
-    "key": "13 41 ED 41 A2 24 D3 99"
+    "frequency": "11080 V 9875",
+    "id": "D535_4G12_Paderborn_1",
+    "key": "93 F7 50 DA 8F E7 D4 4A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10986 V 7200",
-    "id": "British GT Cars Main",
-    "key": "37 88 44 03 CE 13 45 26"
+    "frequency": "12509 V 4938",
+    "id": "MNE-001 main",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "Rapid Wien-Ried",
-    "key": "25 05 ED 17 EF 90 11 90"
+    "frequency": "12719 V 4938",
+    "id": "POL-142  Main",
+    "key": "20 26 BA 00 BA 20 26 00"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 5",
+    "key": "7C 2F F2 9D 99 A9 AE F0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12741 H 7200",
+    "id": "CRO-004 Kup RH W - Main",
+    "key": "12 34 AB F1 CD 20 26 13"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -36,16 +48,22 @@
     "key": "6B 1D 9A 22 4C 7F 23 EE"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10815 H 9700",
-    "id": "IIHF2026 - FRI - VO TIP",
-    "key": "1E 84 81 23 66 FE 16 7A"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11247 H 7200",
+    "id": "Encoder 1",
+    "key": "95 AA 7A B9 77 32 4B F4"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10827 H 9700",
+    "frequency": "10814 H 9700",
+    "id": "IIHF2026 - FRI - VO TIP",
+    "key": "3D A5 DE C0 D3 42 23 38"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10826 H 9700",
     "id": "IIHF2026 - FRI - WF",
-    "key": "38 2D 03 68 88 28 21 D1"
+    "key": "70 DB 48 93 8B A4 82 B1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -57,12 +75,30 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12585 V 9700",
     "id": "IIHF2026 - ZUR - WF",
-    "key": "33 09 AC E8 06 BE 9A 5E"
+    "key": "B1 9A 66 B1 C4 73 A6 DD"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12597 V 9700",
+    "id": "IIHF2026 - ZUR - VO PEN",
+    "key": "D0 52 5E 80 48 F4 FB 37"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12609 V 9700",
+    "id": "IIHF2026 - ZUR - VO GER",
+    "key": "81 C2 CF 12 89 4E 52 29"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "TVP POL-32  ENC 1",
+    "frequency": "10974 V 9600",
+    "id": "POL 030",
     "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10996 V 7500",
+    "id": "POL023 TVN24 WAW P1",
+    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
