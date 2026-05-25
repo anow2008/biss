@@ -1,14 +1,1 @@
-[
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12610 V 4600",
-    "id": "AP LDN UPA",
-    "key": "D7 9F C9 3F 7E BA 61 99"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10732 V 34000",
-    "id": "OVERON 1",
-    "key": "D7 9F C9 3F 7E BA 61 99"
-  }
-]
+[]
