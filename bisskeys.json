@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11080 H 7120",
+    "id": "EFL - League Two Playoff Final",
+    "key": "13 41 ED 41 A2 24 D3 99 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11080 H 7120",
+    "id": "EFL - League Two Playoff Final",
+    "key": "13 41 ED 41 A2 24 D3 99"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11061 H 8020",
+    "id": "Fi14_GNVE",
+    "key": "D2 D1 46 E9 EB C9 F0 A4"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10770 H 7200",
+    "id": "BAL INT",
+    "key": "D8 A3 C1 3C F7 B2 96 3F"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10779 H 7200",
+    "id": "BAL AFR",
+    "key": "6B 1D 9A 22 4C 7F 23 EE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10815 H 9700",
+    "id": "IIHF2026 - FRI - VO TIP",
+    "key": "B2 A8 FE 58 EE B7 49 EE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10835 V 10000",
+    "id": "GCUK Enc 14",
+    "key": "B2 A8 FE 58 EE B7 49 EE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12585 V 9700",
+    "id": "IIHF2026 - ZUR - WF",
+    "key": "33 09 AC E8 06 BE 9A 5E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10976 V 4800",
+    "id": "TVP POL-32  ENC 1",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  }
+]
