@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11522 V 7500",
+        "id": "2026 AMAs",
+        "key": "32 C1 5A 4D 64 25 16 9F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11047 V 14400",
         "id": "Fi14_GNVE",
         "key": "3F 21 8E EE C2 41 5F 62"
