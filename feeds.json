@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10982 H 17140",
+        "id": "CAM_1 FG",
+        "key": "42 BD 92 91 06 2F 3D 72"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-90a",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "GCUK Enc 1",
+        "key": "42 BA 45 41 11 BE EC BB"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11246 H 7200",
+        "id": "Encoder 1",
+        "key": "95 AA 7A B9 77 32 4B F4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11080 V 9875",
         "id": "D535_4G12_Paderborn_1",
         "key": "93 F7 50 DA 8F E7 D4 4A"
@@ -16,12 +40,6 @@
         "frequency": "11022 H 7200",
         "id": "E-95 BK UP",
         "key": "D8 9C 93 07 78 18 4D DD"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL 030",
-        "key": "AB BA 26 8B DC AE 05 8F"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -58,41 +76,5 @@
         "frequency": "10996 V 7500",
         "id": "POL023 TVN24 WAW P1",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12741 H 7200",
-        "id": "CRO-004 Kup RH W - Main",
-        "key": "12 34 AB F1 CD 20 26 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10986 V 7200",
-        "id": "British GT Cars Main",
-        "key": "37 88 44 03 CE 13 45 26"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10826 H 9700",
-        "id": "IIHF2026 - FRI - WF",
-        "key": "70 DB 48 93 8B A4 82 B1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10814 H 9700",
-        "id": "IIHF2026 - FRI - VO TIP",
-        "key": "3D A5 DE C0 D3 42 23 38"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11062 H 8020",
-        "id": "Fi14_GNVE",
-        "key": "D2 D1 46 E9 EB C9 F0 A4"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10778 H 7200",
-        "id": "BAL AFR",
-        "key": "6B 1D 9A 22 4C 7F 23 EE"
     }
 ]
