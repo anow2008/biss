@@ -76,11 +76,5 @@
         "frequency": "12538 V 7200",
         "id": "MRC003/ MAN",
         "key": "E6 A2 4C D4 0D 9B 38 E0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10959 V 7200",
-        "id": "Fi01 ACB",
-        "key": "CD 69 DE 14 B4 C9 9C 19"
     }
 ]
