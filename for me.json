@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10986 V 7200",
+        "id": "British GT Cars Main",
+        "key": "37 88 44 03 CE 13 45 26"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7200",
+        "id": "Rapid Wien-Ried",
+        "key": "25 05 ED 17 EF 90 11 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11080 H 7120",
         "id": "EFL - League Two Playoff Final",
         "key": "13 41 ED 41 A2 24 D3 99"
