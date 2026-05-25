@@ -1,14 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11047 V 14400",
-    "id": "Fi14_GNVE",
-    "key": "3F 21 8E EE C2 41 5F 62"
+    "frequency": "11522 V 7500",
+    "id": "2026 AMAs",
+    "key": "32 C1 5A 4D 64 25 16 9F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
-    "id": "ENC 5",
-    "key": "7C 2F F2 9D 99 A9 AE F0"
+    "id": "BT_SES_2_SDI",
+    "key": "12 3C AA F8 14 22 A3 D9"
   }
 ]
