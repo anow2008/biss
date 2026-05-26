@@ -2,6 +2,30 @@
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10768 V 34000",
+        "id": "OCC 4",
+        "key": "78 BC 2D 61 31 AD DE BC"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 3",
+        "key": "A5 6F BC D0 45 11 22 78"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 2",
+        "key": "B7 D1 AD 35 BC 3D AA A3"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 1",
+        "key": "B6 5A DC EC B9 ED A2 48"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
         "id": "OCC 5",
         "key": "BC 45 2D 2E AC 56 22 24"
     },
