@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 2",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10982 V 14400",
+        "id": "Fi20_GNVE",
+        "key": "54 A1 D0 C5 66 BE 9A BE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10982 H 17140",
+        "id": "CAM_1 FG",
+        "key": "42 BD 92 91 06 2F 3D 72"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11256 H 7200",
+        "id": "Encoder 2",
+        "key": "85 EA FD 6C 67 78 63 42"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11061 V 7200",
+        "id": "Fi01 ACB",
+        "key": "91 E1 C6 38 DA C8 05 A7"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11247 H 7200",
+        "id": "Encoder 1",
+        "key": "25 C9 6D 5B F8 88 AE 2E"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10848 V 7500",
         "id": "E360 M",
@@ -16,29 +52,5 @@
         "frequency": "10989 V 4800",
         "id": "pol-053_enc2",
         "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10815 H 9700",
-        "id": "IIHF2026 - FRI - VO TIP",
-        "key": "27 08 DE 0D EE 72 F2 52"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7500",
-        "id": "DT SNG 2 MAIN",
-        "key": "DD AC 8D 16 AD C7 74 E8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10998 V 9875",
-        "id": "Fuerth - Essen",
-        "key": "65 FC 75 D6 84 B4 7A B2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10834 V 10000",
-        "id": "GCUK Enc 14",
-        "key": "FB 45 CD 0D 88 3A 1A DC"
     }
 ]
