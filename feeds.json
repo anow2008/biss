@@ -76,11 +76,5 @@
         "frequency": "12736 V 7200",
         "id": "BT_SES_2_SDI",
         "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL023 TVN24 WAW P1",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
