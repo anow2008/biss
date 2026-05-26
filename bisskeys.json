@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10982 V 14400",
+    "id": "Fi20_GNVE",
+    "key": "54 A1 D0 C5 66 BE 9A BE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10997 V 9875",
     "id": "Fuerth - Essen",
     "key": "65 FC 75 D6 84 B4 7A B2"
@@ -22,6 +28,12 @@
     "frequency": "12602 V 7200",
     "id": "POL103",
     "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 2",
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -52,12 +64,6 @@
     "frequency": "10834 V 10000",
     "id": "GCUK Enc 14",
     "key": "FB 45 CD 0D 88 3A 1A DC"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7500",
-    "id": "E360 M",
-    "key": "E2 17 69 62 50 E9 E8 21"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
