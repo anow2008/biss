@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10982 V 14400",
+        "id": "Fi20_GNVE",
+        "key": "54 A1 D0 C5 66 BE 9A BE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 2",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10997 V 9875",
         "id": "Fuerth - Essen",
         "key": "65 FC 75 D6 84 B4 7A B2"
