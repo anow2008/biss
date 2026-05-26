@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11185 H 6000",
+    "id": "UKI 1940  P1",
+    "key": "DD AC 8D 16 AD C7 74 E8"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10802 H 7500",
+    "id": "DT SNG 2 MAIN",
+    "key": "DD AC 8D 16 AD C7 74 E8"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10815 H 9700",
+    "id": "IIHF2026 - FRI - VO TIP",
+    "key": "27 08 DE 0D EE 72 F2 52"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10826 H 9700",
+    "id": "IIHF2026 - FRI - WF",
+    "key": "C6 16 F8 D4 FA 11 A9 B4"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10834 V 10000",
+    "id": "GCUK Enc 14",
+    "key": "FB 45 CD 0D 88 3A 1A DC"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12585 V 9700",
+    "id": "IIHF2026 - ZUR - WF",
+    "key": "FB 6F 6C D6 C7 08 35 04"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12597 V 9700",
+    "id": "IIHF2026 - ZUR - VO AUT",
+    "key": "46 2A 89 F9 DE EA 7E 46"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10980 H 3600",
+    "id": "F7-2 4.5MH",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10989 V 4800",
+    "id": "pol-053_enc2",
+    "key": "AB BA 26 8B DC AE 05 8F"
+  }
+]
