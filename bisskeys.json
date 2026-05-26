@@ -1,33 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10982 V 14400",
-    "id": "Fi20_GNVE",
-    "key": "54 A1 D0 C5 66 BE 9A BE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10997 V 9875",
-    "id": "Fuerth - Essen",
-    "key": "65 FC 75 D6 84 B4 7A B2"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 V 7200",
-    "id": "Fi01 ACB",
-    "key": "91 E1 C6 38 DA C8 05 A7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL103",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12602 V 7200",
-    "id": "POL103",
-    "key": "15 58 35 A2 71 42 63 16"
+    "frequency": "12736 V 7200",
+    "id": "ENC 2",
+    "key": "12 3C AA F8 14 22 A3 D9 E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,38 +13,14 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11247 H 7200",
-    "id": "Encoder 1",
-    "key": "25 C9 6D 5B F8 88 AE 2E"
+    "frequency": "10731 V 34000",
+    "id": "OCC 6",
+    "key": "36 AD B7 9A 8D CE AA 05"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11256 H 7200",
-    "id": "Encoder 2",
-    "key": "85 EA FD 6C 67 78 63 42"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10814 H 9700",
-    "id": "IIHF2026 - FRI - VO TIP",
-    "key": "75 4A 89 48 89 C5 0A 58"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10826 H 9700",
-    "id": "IIHF2026 - FRI - WF",
-    "key": "8B A8 97 CA AD D4 55 D6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10834 V 10000",
-    "id": "GCUK Enc 14",
-    "key": "FB 45 CD 0D 88 3A 1A DC"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12585 V 9700",
-    "id": "IIHF2026 - ZUR - WF",
-    "key": "7B CE 2B 74 C6 6A 15 45"
+    "frequency": "10768 V 34000",
+    "id": "OCC 1",
+    "key": "B6 5A DC EC B9 ED A2 48"
   }
 ]
