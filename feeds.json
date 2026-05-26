@@ -58,23 +58,5 @@
         "frequency": "12597 V 9700",
         "id": "IIHF2026 - ZUR - VO PEN",
         "key": "D0 52 5E 80 48 F4 FB 37"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12509 V 4938",
-        "id": "MNE-001 main",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11047 V 14400",
-        "id": "Fi14_GNVE",
-        "key": "3F 21 8E EE C2 41 5F 62"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "BT_SES_2_SDI",
-        "key": "12 3C AA F8 14 22 A3 D9"
     }
 ]
