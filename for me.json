@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10995 V 7200",
+        "id": "Fi01 ACB",
+        "key": "A0 33 BD 90 36 12 43 8B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10982 H 17140",
         "id": "CAM_1 FG",
         "key": "42 BD 92 91 06 2F 3D 72"
