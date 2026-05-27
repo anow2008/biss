@@ -1,27 +1,9 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10982 H 17140",
-    "id": "CAM_1 FG",
-    "key": "42 BD 92 91 06 2F 3D 72"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10995 V 7200",
-    "id": "Fi01 ACB",
-    "key": "A0 33 BD 90 36 12 43 8B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11047 V 14400",
-    "id": "LEUK_Fi06",
-    "key": "42 BD 92 91 06 2F 3D 72"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10731 V 34000",
+    "frequency": "10732 V 34000",
     "id": "OCC 6",
-    "key": "BC 11 34 01 FA DE AE 86"
+    "key": "C7 81 DA 22 EE CB BC 75"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
