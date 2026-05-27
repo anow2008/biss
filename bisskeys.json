@@ -7,6 +7,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10995 V 7200",
+    "id": "Fi01 ACB",
+    "key": "A0 33 BD 90 36 12 43 8B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11047 V 14400",
     "id": "LEUK_Fi06",
     "key": "42 BD 92 91 06 2F 3D 72"
@@ -20,7 +26,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7200",
-    "id": "D278 7B 2D18 ARD",
+    "id": "EHF WCUP MIC GUA",
     "key": "AE 25 BE 91 35 EC 11 32"
   },
   {
@@ -43,14 +49,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12611 V 7500",
-    "id": "DT SNG 2 MAIN",
-    "key": "93 59 80 6C D3 28 1B 16"
+    "frequency": "12602 V 7500",
+    "id": "E360 M",
+    "key": "E6 A3 60 E9 9A BA 27 7B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-55 ENC2",
+    "frequency": "10986 V 9600",
+    "id": "POL 030",
     "key": "AB BA 26 8B DC AE 05 8F"
   }
 ]
