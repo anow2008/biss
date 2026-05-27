@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10995 V 7200",
+        "id": "Fi01 ACB",
+        "key": "A0 33 BD 90 36 12 43 8B"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
         "id": "POL 030",
@@ -38,7 +44,7 @@
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11606 V 7200",
-        "id": "D278 7B 2D18 ARD",
+        "id": "EHF WCUP MIC GUA",
         "key": "AE 25 BE 91 35 EC 11 32"
     },
     {
