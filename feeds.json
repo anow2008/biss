@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 4",
+        "key": "BA D4 66 F4 55 FD 22 74"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "OCC 3",
+        "key": "B7 6F DE 04 AC 55 88 89"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11496 V 7200",
         "id": "LNR PRO D2 VANNES VS OYONNAX",
@@ -58,17 +70,5 @@
         "frequency": "11523 V 7200",
         "id": "EGY VS TAN / SEN VS MAR",
         "key": "7B 3E 91 4A D0 A5 8F 04"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11098 V 19200",
-        "id": "MUN-PSG",
-        "key": "BA DA 52 E6 82 CA BA 06"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11510 V 14400",
-        "id": "PGM C PRO D2 VANNES VS OYNNAXO",
-        "key": "F4 94 DE 66 05 28 F1 1E"
     }
 ]
