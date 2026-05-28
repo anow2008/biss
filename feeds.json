@@ -1,62 +1,80 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11043 V 7200",
+        "id": "E-228 Main",
+        "key": "66 46 43 EF 45 CB 75 85"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12609 V 9700",
+        "id": "IIHF2026 - ZUR - VO AUT",
+        "key": "C1 79 EF 29 F1 BB 28 D4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11186 V 7500",
+        "id": "DT SNG 2 MAIN",
+        "key": "CC BC 82 0A 26 FF 10 35"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10983 V 4800",
-        "id": "POL-10 ENC2",
+        "frequency": "10965 V 4800",
+        "id": "POL-077 ENC-1",
         "key": "AB BA 26 8B DC AE 05 8F"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12597 V 9700",
-        "id": "IIHF2026 - ZUR - VO TIP",
-        "key": "5B A7 5C 5E 79 91 3C 46"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10778 H 7200",
+        "id": "BAL AFR",
+        "key": "4F 8A 1C F5 7D 3B 62 1A"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12585 V 9700",
-        "id": "IIHF2026 - ZUR - WF",
-        "key": "C1 4F 69 79 E6 8B 22 93"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10803 H 9700",
-        "id": "IIHF2026 - FRI - VO AUT",
-        "key": "B9 DE 4F E6 63 E7 5D A7"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10815 H 9700",
-        "id": "IIHF2026 - FRI - VO TIP",
-        "key": "08 94 41 DD 3E 2B C8 31"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10827 H 9700",
-        "id": "IIHF2026 - FRI - WF",
-        "key": "69 EA 1A 6D E2 DA A0 5C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10846 V 10000",
-        "id": "GCUK Enc 14",
-        "key": "F4 3D AB DC E3 AD 11 A1"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10769 H 7200",
+        "id": "BAL INT",
+        "key": "C7 A2 D1 3A F3 B9 64 10"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12634 V 14400",
-        "id": "UKI1482-1-M1 Main",
-        "key": "28 F8 B6 D6 AC 8F 05 40"
+        "frequency": "11013 V 7200",
+        "id": "Fi10_GNVE",
+        "key": "DF D7 9D 53 C3 17 49 23"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11592 H 9600",
-        "id": "NLEMG HOL270-1",
-        "key": "10 E8 93 8B B1 FE BC 6B"
+        "frequency": "10841 H 9875",
+        "id": "WSBK MOTORLAND",
+        "key": "32 ED AC CB 5B CE A2 CB"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10995 H 4938",
-        "id": "PYRAM-ANA",
-        "key": "9D 8C 47 70 B6 A5 E8 43"
+        "frequency": "11523 V 7200",
+        "id": "EGY VS TAN / SEN VS MAR",
+        "key": "7B 3E 91 4A D0 A5 8F 04"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11098 V 19200",
+        "id": "MUN-PSG",
+        "key": "BA DA 52 E6 82 CA BA 06"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11510 V 14400",
+        "id": "PGM C PRO D2 VANNES VS OYNNAXO",
+        "key": "F4 94 DE 66 05 28 F1 1E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11015 V 7200",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL082 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
