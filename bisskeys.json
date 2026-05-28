@@ -1,14 +1,1 @@
-[
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7200",
-    "id": "GesAdtec6",
-    "key": "C7 81 DA 22 EE CB BC 75"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10731 V 34000",
-    "id": "OCC 6",
-    "key": "C7 81 DA 22 EE CB BC 75"
-  }
-]
+[]
