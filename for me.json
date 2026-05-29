@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11080 V 9875",
+        "id": "Medialink CRO-024/1",
+        "key": "96 92 AB D3 4B B9 07 0B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11510 V 14400",
+        "id": "PRINCIPAL COL/PROV",
+        "key": "F5 78 DE 4B 05 29 F1 1F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11570 V 7200",
+        "id": "PSG/ARS",
+        "key": "B2 D4 F6 7C A8 C9 E3 54"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12574 H 7200",
+        "id": "HBL Eisenach-Berlin",
+        "key": "20 26 AB F1 DC 29 05 0A"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10721 H 7200",
+        "id": "Encoder 1",
+        "key": "B2 A8 FE 58 EE B7 49 EE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7500",
+        "id": "DT SNG 2 MAIN",
+        "key": "81 4C 28 F5 40 95 C9 9E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12593 V 7500",
+        "id": "TUR139-Main",
+        "key": "18 43 80 DB 10 5C A1 0D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12705 H 11240",
+        "id": "ESPN MAIN",
+        "key": "29 06 F3 22 19 EB DA DE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10978 H 8020",
         "id": "CRO-023/1",
         "key": "29 F2 BB D6 08 B8 E1 A1"
