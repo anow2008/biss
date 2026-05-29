@@ -52,11 +52,5 @@
         "frequency": "10841 H 9875",
         "id": "WSBK MOTORLAND",
         "key": "32 ED AC CB 5B CE A2 CB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11523 V 7200",
-        "id": "EGY VS TAN / SEN VS MAR",
-        "key": "7B 3E 91 4A D0 A5 8F 04"
     }
 ]
