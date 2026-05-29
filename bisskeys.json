@@ -1,15 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10991 V 19200",
-    "id": "ARS-PSG",
-    "key": "BA DA 52 E6 82 CA BA 06"
+    "frequency": "10986 H 7200",
+    "id": "Fi01 ACB",
+    "key": "F2 2A 72 8E 6E 38 78 1E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11080 V 9875",
-    "id": "Medialink CRO-024/1",
-    "key": "96 92 AB D3 4B B9 07 0B"
+    "frequency": "11043 V 7120",
+    "id": "Pitch Bristol Bears v Bath Rugby",
+    "key": "77 A1 1B 33 44 88 AA 76"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11496 V 7200",
+    "id": "LNR UK COL/PROV",
+    "key": "F5 78 DE 4B 05 29 F2 20"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,33 +25,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11570 V 7200",
-    "id": "PSG/ARS",
-    "key": "B2 D4 F6 7C A8 C9 E3 54"
+    "frequency": "11606 V 7200",
+    "id": "EHF WCL FTC MET",
+    "key": "AE 25 BE 91 35 EC 11 32"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "EHF",
-    "key": "AE 25 BE 91 35 EC 11 32"
+    "frequency": "12510 V 7500",
+    "id": "S5 - INTER",
+    "key": "AB CD 64 DC 12 AA BB 77"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12574 H 7200",
     "id": "HBL Eisenach-Berlin",
-    "key": "20 26 AB F1 DC 29 05 0A"
+    "key": "20 26 CD 13 BA 29 05 E8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12634 V 14400",
     "id": "YSM016 m - M1",
     "key": "29 F8 B6 D7 AC 8F 05 40"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7500",
-    "id": "LPGA - ShopRite LPGA powered by Wakefern Day 1",
-    "key": "35 21 4B A1 41 00 DC 1D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -78,39 +78,15 @@
     "key": "81 4C 28 F5 40 95 C9 9E"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12593 V 7500",
-    "id": "TUR139-Main",
-    "key": "18 43 80 DB 10 5C A1 0D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12602 V 7200",
-    "id": "InFront 8th Irena Contribution",
-    "key": "FF EB D0 BA 52 9E 74 64"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12611 V 7200",
-    "id": "POL-058_ch2",
-    "key": "FF EB D0 BA 52 9E 74 64"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10971 V 4800",
-    "id": "POL-077 ENC-1",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "POL-077 ENC-2",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
     "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 05 8F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11013 V 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
