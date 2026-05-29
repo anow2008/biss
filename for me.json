@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10986 H 7200",
+        "id": "Fi01 ACB",
+        "key": "F2 2A 72 8E 6E 38 78 1E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11496 V 7200",
+        "id": "LNR UK COL/PROV",
+        "key": "F5 78 DE 4B 05 29 F2 20"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7500",
+        "id": "S5 - INTER",
+        "key": "AB CD 64 DC 12 AA BB 77"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11080 V 9875",
         "id": "Medialink CRO-024/1",
         "key": "96 92 AB D3 4B B9 07 0B"
