@@ -1,17 +1,5 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 4",
-        "key": "BA D4 66 F4 55 FD 22 74"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "OCC 3",
-        "key": "B7 6F DE 04 AC 55 88 89"
-    },
-    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11496 V 7200",
         "id": "LNR PRO D2 VANNES VS OYONNAX",
