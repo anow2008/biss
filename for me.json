@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11061 H 7200",
+        "id": "MVP BOXING PRI",
+        "key": "AB 25 D7 A7 8C 43 65 34"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11523 V 7200",
+        "id": "LNR UK MTP/PAU",
+        "key": "F5 78 25 92 05 30 F2 27"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11514 V 7200",
         "id": "SEC PRINC MTP/PAU",
         "key": "F5 78 25 92 05 30 F1 26"
