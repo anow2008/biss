@@ -1,32 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10997 H 11240",
-    "id": "Fi01_GBGRM",
-    "key": "AB 25 D7 A7 8C 43 65 34"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11061 H 7200",
     "id": "MVP BOXING PRI",
     "key": "AB 25 D7 A7 8C 43 65 34"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7500",
-    "id": "LPGA - ShopRite LPGA powered by Wakefern Day 2",
-    "key": "35 21 4B A1 41 00 DC 1D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12704 V 7200",
-    "id": "D510 Feed 2",
-    "key": "20 26 30 76 05 41 36 7C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 1",
-    "key": "BA C2 34 B0 DA CE E1 89"
+    "frequency": "12656 V 7200",
+    "id": "Fi20_GNVE",
+    "key": "FD 7D 00 7A E0 1A 81 7B"
   }
 ]
