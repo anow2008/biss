@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11543 V 7200",
+        "id": "E393 WORLD FEED",
+        "key": "CD CD 22 BC 22 CD CD BC"
+    },
+    {
         "satellite": "Astra 1KR/1L/1M/1N",
         "frequency": "11604 H 7200",
         "id": "ESPN",
