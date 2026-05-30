@@ -1,7 +1,19 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10721 H 7200",
+        "id": "Encoder 1",
+        "key": "A2 A8 F3 3D 4E B7 19 1E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11523 V 7200",
+        "frequency": "11061 H 7200",
+        "id": "MVP BOXING PRI",
+        "key": "AB 25 D7 A7 8C 43 65 34"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11522 V 7200",
         "id": "LNR UK MTP/PAU",
         "key": "F5 78 25 92 05 30 F2 27"
     },
@@ -13,7 +25,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11514 V 7200",
+        "frequency": "11513 V 7200",
         "id": "SEC PRINC MTP/PAU",
         "key": "F5 78 25 92 05 30 F1 26"
     },
@@ -34,23 +46,5 @@
         "frequency": "11666 H 6666",
         "id": "PSG_INTER",
         "key": "AD C1 B5 23 4D 14 CD 2E"
-    },
-    {
-        "satellite": "Astra 1KR/1L/1M/1N @ 19.2°E",
-        "frequency": "11604 H 7200",
-        "id": "ESPN",
-        "key": "EC BB 29 D0 30 A7 D5 AC"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11022 V 9600",
-        "id": "POL-55 ENC2",
-        "key": "AB BA 26 8B DC AE 05 8F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11102 H 7200",
-        "id": "M6 BUDAPEST",
-        "key": "FC BD 30 E9 05 DB AC 8C"
     }
 ]
