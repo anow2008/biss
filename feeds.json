@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 V 7500",
+        "id": "LPGA - ShopRite LPGA powered by Wakefern Day 2",
+        "key": "35 21 4B A1 41 00 DC 1D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11514 V 7200",
+        "id": "SEC PRINC MTP/PAU",
+        "key": "F5 78 25 92 05 30 F1 26"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11543 V 7200",
         "id": "E393 WORLD FEED",
         "key": "CD CD 22 BC 22 CD CD BC"
@@ -40,23 +52,5 @@
         "frequency": "11629 V 9875",
         "id": "IPF",
         "key": "A5 91 44 7A 64 46 C2 6C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11063 V 9600",
-        "id": "NLEMG HOL219-1",
-        "key": "AE 81 69 98 54 8E 8D 6F"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11279 V 7200",
-        "id": "D-571 EHF GER/FRA",
-        "key": "E5 8F FE 72 ED 05 30 22"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11288 V 7200",
-        "id": "D571 EHF Finals WF",
-        "key": "E5 8F FF 73 ED 05 30 22"
     }
 ]
