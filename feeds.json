@@ -1,74 +1,68 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11043 V 7120",
-        "id": "Pitch Bristol Bears v Bath Rugby",
-        "key": "77 A1 1B 33 44 88 AA 76"
+        "frequency": "11548 V 14400",
+        "id": "MUX SERVICE 3",
+        "key": "D0 53 1E 41 65 FA 39 98"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12574 H 7200",
-        "id": "HBL Eisenach-Berlin",
-        "key": "20 26 CD 13 BA 29 05 E8"
+        "frequency": "10986 H 9875",
+        "id": "BUL007 Main",
+        "key": "DD 39 2E 44 1E 0C A9 D3"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11495 V 7200",
-        "id": "LNR UK COL/PROV",
-        "key": "F5 78 DE 4B 05 29 F2 20"
+        "frequency": "12728 V 7500",
+        "id": "NLFLEV_HOL-090 CH-A",
+        "key": "B1 A8 C3 1C DA 6A 4A 8E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10986 H 7200",
-        "id": "Fi01 ACB",
-        "key": "F2 2A 72 8E 6E 38 78 1E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12705 H 11240",
-        "id": "ESPN MAIN",
-        "key": "29 06 F3 22 19 EB DA DE"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10721 H 7200",
-        "id": "Encoder 1",
-        "key": "B2 A8 FE 58 EE B7 49 EE"
+        "frequency": "11005 V 8460",
+        "id": "CCC",
+        "key": "C7 31 7C 74 C8 FE B4 7A"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "TVP POL-32  ENC 1",
+        "frequency": "10985 V 9600",
+        "id": "POL-033 out1",
         "key": "AB BA 26 8B DC AE 05 8F"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7500",
-        "id": "DT SNG 2 MAIN",
-        "key": "81 4C 28 F5 40 95 C9 9E"
+        "frequency": "10801 H 7200",
+        "id": "GCUK Enc 10",
+        "key": "E7 2F FF 15 DD 05 30 12"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11080 V 9875",
-        "id": "Medialink CRO-024/1",
-        "key": "96 92 AB D3 4B B9 07 0B"
+        "frequency": "11467 V 9875",
+        "id": "MXGP of GERMANY",
+        "key": "C2 7F FE 3F A7 55 46 42"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7500",
-        "id": "S5 - INTER",
-        "key": "AB CD 64 DC 12 AA BB 77"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "POL-058_ch2",
-        "key": "FF EB D0 BA 52 9E 74 64"
+        "frequency": "12634 V 14400",
+        "id": "UKI-1983 Match 1 Main",
+        "key": "30 F8 B6 DE AC 8F 05 40"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11570 V 7200",
-        "id": "PSG/ARS",
-        "key": "B2 D4 F6 7C A8 C9 E3 54"
+        "frequency": "10996 H 7200",
+        "id": "UFC",
+        "key": "22 D3 4A 3F B7 81 4C 84"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12705 V 7200",
+        "id": "F1H2O_MAIN",
+        "key": "58 AD 66 6B 89 22 11 BC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11607 V 7200",
+        "id": "EHF",
+        "key": "AE 25 BE 91 35 EC 11 32"
     }
 ]
