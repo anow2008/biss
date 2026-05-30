@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12704 V 7200",
+        "id": "D510 Feed 2",
+        "key": "20 26 30 76 05 41 36 7C"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10721 H 7200",
+        "id": "Encoder 1",
+        "key": "A2 A8 F3 3D 4E B7 19 1E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10828 H 7500",
+        "id": "TUR139-Main",
+        "key": "23 FF 58 7A 90 37 CD 94"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11061 H 7200",
         "id": "MVP BOXING PRI",
         "key": "AB 25 D7 A7 8C 43 65 34"
