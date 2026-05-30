@@ -70,11 +70,5 @@
         "frequency": "11570 V 7200",
         "id": "PSG/ARS",
         "key": "B2 D4 F6 7C A8 C9 E3 54"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "GCUK Enc 10",
-        "key": "E7 2F FF 15 DD 05 30 12"
     }
 ]
