@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11568 V 9875",
+    "id": "ENC-23",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "ENC 1",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  }
+]
