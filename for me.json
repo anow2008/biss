@@ -1,5 +1,83 @@
 [
     {
+        "satellite": "Astra 1KR/1L/1M/1N",
+        "frequency": "11604 H 7200",
+        "id": "ESPN",
+        "key": "EC BB 29 D0 30 A7 D5 AC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12737 V 7200",
+        "id": "ENC 1",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11279 V 7200",
+        "id": "D-571 EHF GER/FRA",
+        "key": "E5 8F FE 72 ED 05 30 22"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11288 V 7200",
+        "id": "D571 EHF Finals WF",
+        "key": "E5 8F FF 73 ED 05 30 22"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11063 V 9600",
+        "id": "NLEMG HOL219-1",
+        "key": "AE 81 69 98 54 8E 8D 6F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11087 V 10000",
+        "id": "GCUK Enc 14",
+        "key": "FB A3 45 E3 63 CD BB EB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11629 V 9875",
+        "id": "IPF",
+        "key": "A5 91 44 7A 64 46 C2 6C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "D9 6F BD 05 B6 A9 73 D2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12609 V 9700",
+        "id": "IIHF2026 - ZUR - VO AUT",
+        "key": "F6 43 59 92 15 C0 A8 7D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11102 H 7200",
+        "id": "M6 BUDAPEST",
+        "key": "FC BD 30 E9 05 DB AC 8C"
+    },
+    {
+        "satellite": "Astra 1KR/1L/1M/1N",
+        "frequency": "11604 H 7200",
+        "id": "ESPN",
+        "key": "EC BB 29 D0 30 A7 D5 AC"
+    },
+    {
+        "satellite": "Eutelsat 21B",
+        "frequency": "11651 H 6666",
+        "id": "PSG_CAM_REPORTER",
+        "key": "AD C1 B5 23 4D 14 CD 2E"
+    },
+    {
+        "satellite": "Eutelsat 21B",
+        "frequency": "11666 H 6666",
+        "id": "PSG_INTER",
+        "key": "AD C1 B5 23 4D 14 CD 2E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10986 H 9875",
         "id": "BUL007 Main",
