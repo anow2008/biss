@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12656 V 7200",
+        "id": "Fi20_GNVE",
+        "key": "FD 7D 00 7A E0 1A 81 7B"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10721 H 7200",
         "id": "Encoder 1",
@@ -40,11 +46,5 @@
         "frequency": "10828 H 7500",
         "id": "GCUK Enc 10",
         "key": "E7 2F FF 15 DD 05 30 12"
-    },
-    {
-        "satellite": "Eutelsat 21B @ 21.5°E",
-        "frequency": "11666 H 6666",
-        "id": "PSG_INTER",
-        "key": "AD C1 B5 23 4D 14 CD 2E"
     }
 ]
