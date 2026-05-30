@@ -13,30 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11513 V 7200",
-    "id": "SEC PRINC MTP/PAU",
-    "key": "F5 78 25 92 05 30 F1 26"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11522 V 7200",
-    "id": "LNR UK MTP/PAU",
-    "key": "F5 78 25 92 05 30 F2 27"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "EHF",
-    "key": "AE 25 BE 91 35 EC 11 32"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7200",
-    "id": "Fi20_GNVE",
-    "key": "FD 7D 00 7A E0 1A 81 7B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12677 V 7500",
     "id": "LPGA - ShopRite LPGA powered by Wakefern Day 2",
     "key": "35 21 4B A1 41 00 DC 1D"
@@ -52,17 +28,5 @@
     "frequency": "12736 V 7200",
     "id": "ENC 1",
     "key": "BA C2 34 B0 DA CE E1 89"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10809 H 19500",
-    "id": "ENC 22",
-    "key": "FB A3 45 E3 63 CD BB EB"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11086 V 10000",
-    "id": "GCUK Enc 14",
-    "key": "FB A3 45 E3 63 CD BB EB"
   }
 ]
