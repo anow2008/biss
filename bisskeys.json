@@ -31,9 +31,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11514 V 7200",
+    "id": "SEC PRINC MTP/PAU",
+    "key": "F5 78 25 92 05 30 F1 26"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11543 V 7200",
+    "id": "E393 WORLD FEED",
+    "key": "CD CD 22 BC 22 CD CD BC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7200",
     "id": "EHF",
     "key": "AE 25 BE 91 35 EC 11 32"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7500",
+    "id": "LPGA - ShopRite LPGA powered by Wakefern Day 2",
+    "key": "35 21 4B A1 41 00 DC 1D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
