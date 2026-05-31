@@ -7,15 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10977 V 7200",
+    "frequency": "10978 V 7200",
     "id": "E393 WORLD FEED",
     "key": "D0 53 1E 41 65 FB 39 99"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11013 V 7200",
-    "id": "Fi01 ACB",
-    "key": "E9 BB BF 63 4D 0B 46 9E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,12 +25,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7200",
-    "id": "SUI-44-3",
-    "key": "31 05 FC 32 EA 87 14 85"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12677 V 7500",
     "id": "LPGA - ShopRite LPGA powered by Wakefern Day 3",
     "key": "35 21 4B A1 41 00 DC 1D"
@@ -46,6 +34,12 @@
     "frequency": "12704 V 7500",
     "id": "ENC 3",
     "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "NLFLEV_HOL-090 CH-A",
+    "key": "B1 A8 C3 1C DA 6A 4A 8E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -66,28 +60,10 @@
     "key": "79 9D 01 17 00 AE EB 99"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10769 H 7200",
-    "id": "BAL INT",
-    "key": "9B 3C 1F F6 7A 6D 24 0B"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10778 H 7200",
-    "id": "BAL AFR",
-    "key": "2D 7A 9C 43 1B 3F 68 C2"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11279 V 7200",
-    "id": "D-571 EHF GER/FRA",
-    "key": "D0 53 1E 41 58 FF EB 42"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11288 V 7200",
-    "id": "D571 EHF Finals WF",
-    "key": "D0 53 1E 41 58 FF DA 31"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10801 H 7200",
+    "id": "GCUK Enc 4",
+    "key": "CE 27 DE D3 F2 26 12 2A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -103,24 +79,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10846 V 9700",
-    "id": "IIHF2026 - ZUR - VO GER",
-    "key": "73 CD 10 50 F7 1D 86 9A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11592 H 9600",
-    "id": "NLEMG HOL270-1",
-    "key": "B6 6D 94 B7 19 52 3C A7"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "id": "ITA 864 (B)",
-    "key": "DD AB DB 63 BA 32 43 2F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12585 V 9700",
     "id": "IIHF2026 - ZUR - WF",
     "key": "E4 FB 6D 4C 5E 79 89 60"
@@ -133,27 +91,21 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 05 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
     "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 05 8F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL082 TVN WAW",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "11015 V 9875",
+    "id": "HOL-110 MAIN",
+    "key": "31 F8 B6 DF AC 8F 05 40"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11016 V 9875",
-    "id": "HOL-110 MAIN",
-    "key": "31 F8 B6 DF AC 8F 05 40"
+    "frequency": "11025 V 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
