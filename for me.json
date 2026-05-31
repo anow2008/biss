@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10965 V 14400",
+        "id": "MUX  SERVICE1 HIGH JUMP",
+        "key": "D0 53 1E 41 65 FA 39 98"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11013 V 7200",
+        "id": "Fi01 ACB",
+        "key": "E9 BB BF 63 4D 0B 46 9E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12677 V 7500",
+        "id": "LPGA - ShopRite LPGA powered by Wakefern Day 3",
+        "key": "35 21 4B A1 41 00 DC 1D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7200",
+        "id": "D171 FEED2",
+        "key": "20 26 11 57 30 DF AC BB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "IIHF2026 - ZUR - VO PEN",
+        "key": "D0 53 1E 41 48 F2 91 CB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11097 V 7200",
         "id": "E-285 MAIN",
         "key": "5C 2E 17 A1 7B A5 CC EC"
