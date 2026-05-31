@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11097 V 7200",
+        "id": "E-285 MAIN",
+        "key": "5C 2E 17 A1 7B A5 CC EC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12727 V 7500",
+        "id": "NLFLEV_HOL-090 CH-A",
+        "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 1",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10732 V 34000",
+        "id": "LIGA HYPERMOTION 1",
+        "key": "79 9D 01 17 00 AE EB 99"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11278 V 7200",
+        "id": "D-571 EHF GER/FRA",
+        "key": "D0 53 1E 41 58 FF EB 42"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11287 V 7200",
+        "id": "D571 EHF Finals WF",
+        "key": "D0 53 1E 41 58 FF DA 31"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11628 H 7200",
+        "id": "ITA633_A",
+        "key": "BC 47 CB CE 74 AA 13 31"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10965 H 14400",
         "id": "SUI76-1 M1 MAIN",
         "key": "31 F8 B6 DF AC 8F 05 40"
