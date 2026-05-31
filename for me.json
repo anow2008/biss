@@ -1,1 +1,134 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10965 H 14400",
+        "id": "SUI76-1 M1 MAIN",
+        "key": "31 F8 B6 DF AC 8F 05 40"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10998 V 9875",
+        "id": "MXGP of GERMANY",
+        "key": "C2 7F FE 3F A7 55 46 42"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11001 H 14400",
+        "id": "CZE-012-MATCH03-MAIN",
+        "key": "31 F8 B6 DF AC 8F 05 40"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11019 H 14400",
+        "id": "POL-102 MAIN M04 EUROPE",
+        "key": "31 F8 B6 DF AC 8F 05 40"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 V 7120",
+        "id": "E-228 Backup",
+        "key": "23 E4 29 30 9A 24 5E 1C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11081 H 9875",
+        "id": "BUL007 Main",
+        "key": "A4 3A 10 EE 6C 91 10 0D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11084 V 14400",
+        "id": "GVA_Fi01_NTF_M2",
+        "key": "31 F8 B6 DF AC 8F 05 40"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11098 H 7200",
+        "id": "GVA_Fi03_NTF_M1_VBR",
+        "key": "FC 60 4A A6 8F A3 2C 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11107 V 7120",
+        "id": "Pitch - Leicester v Exeter",
+        "key": "9A 22 1F DB 1F 72 DD 6E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11514 V 7200",
+        "id": "SEC PRINC TLN/BDX",
+        "key": "F5 78 25 92 05 31 F1 27"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11523 V 7200",
+        "id": "LNR UK TLN/BDX",
+        "key": "F5 78 25 92 05 31 F2 28"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11607 V 7200",
+        "id": "EMF",
+        "key": "AE 25 BE 91 35 EC 11 32"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12641 H 7200",
+        "id": "SLQ-010 Main",
+        "key": "31 05 FA 30 AC 87 14 47"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12737 V 7200",
+        "id": "ENC 1",
+        "key": "D7 ED 2F F3 ED F3 C9 A9"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10770 H 7200",
+        "id": "BAL INT",
+        "key": "9B 3C 1F F6 7A 6D 24 0B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10815 H 10000",
+        "id": "GCUK Enc 14",
+        "key": "A4 2B DF AE 46 6D BB 6E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10829 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "A1 E3 C7 4B F2 B9 D4 7F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12585 V 9700",
+        "id": "IIHF2026 - ZUR - WF",
+        "key": "B7 7C 76 A9 88 5B B8 9B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10978 H 7200",
+        "id": "F5-1 9MHz",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10985 V 9600",
+        "id": "POL-111",
+        "key": "AB BA 26 8B DC AE 05 8F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11025 V 4938",
+        "id": "YSM-021M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11140 H 30000",
+        "id": "WWE PROGRAM P1S1P",
+        "key": "05 31 26 5C 05 31 26 5C"
+    }
+]
