@@ -1,9 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10965 V 14400",
+    "frequency": "10964 V 14400",
     "id": "MUX  SERVICE1 HIGH JUMP",
     "key": "D0 53 1E 41 65 FA 39 98"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10977 V 7200",
+    "id": "E393 WORLD FEED",
+    "key": "D0 53 1E 41 65 FB 39 99"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -13,39 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11019 H 14400",
-    "id": "POL-102 MAIN M04 EUROPE",
-    "key": "31 F8 B6 DF AC 8F 05 40"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 7120",
-    "id": "E-228 Backup",
-    "key": "23 E4 29 30 9A 24 5E 1C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11083 V 14400",
     "id": "GVA_Fi01_NTF_M2",
     "key": "31 F8 B6 DF AC 8F 05 40"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11097 V 7200",
-    "id": "E-285 MAIN",
-    "key": "5C 2E 17 A1 7B A5 CC EC"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11514 V 7200",
-    "id": "SEC PRINC TLN/BDX",
-    "key": "F5 78 25 92 05 31 F1 27"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7200",
-    "id": "LNR UK TLN/BDX",
-    "key": "F5 78 25 92 05 31 F2 28"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,21 +37,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7500",
+    "frequency": "12677 V 7500",
     "id": "LPGA - ShopRite LPGA powered by Wakefern Day 3",
     "key": "35 21 4B A1 41 00 DC 1D"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "NLFLEV_HOL-090 CH-A",
-    "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    "frequency": "12704 V 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 1",
     "key": "BA C2 34 B0 DA CE E1 89"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10721 H 7200",
+    "id": "Encoder 1",
+    "key": "EB 5E 4B 94 26 7E F8 9C"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -106,12 +88,6 @@
     "frequency": "11288 V 7200",
     "id": "D571 EHF Finals WF",
     "key": "D0 53 1E 41 58 FF DA 31"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11305 V 7200",
-    "id": "SINTRA 1 BK",
-    "key": "4F 9E 2D 1A A3 7C 1B 3A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
