@@ -19,7 +19,7 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
+        "frequency": "10985 V 9600",
         "id": "TVP POL-32  ENC 1",
         "key": "AB BA 26 8B DC AE 05 8F"
     },
@@ -85,7 +85,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11592 H 9600",
+        "frequency": "11591 H 9600",
         "id": "NLEMG HOL270-1",
         "key": "B6 6D 94 B7 19 52 3C A7"
     },
