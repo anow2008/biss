@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10801 H 7200",
+        "id": "GCUK Enc 4",
+        "key": "CE 27 DE D3 F2 26 12 2A"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10721 H 7200",
         "id": "Encoder 1",
@@ -61,7 +67,7 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11016 V 9875",
+        "frequency": "11015 V 9875",
         "id": "HOL-110 MAIN",
         "key": "31 F8 B6 DF AC 8F 05 40"
     },
@@ -94,11 +100,5 @@
         "frequency": "11013 V 7200",
         "id": "Fi01 ACB",
         "key": "E9 BB BF 63 4D 0B 46 9E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12597 V 9700",
-        "id": "IIHF2026 - ZUR - VO PEN",
-        "key": "D0 53 1E 41 48 F2 91 CB"
     }
 ]
