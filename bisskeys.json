@@ -1,45 +1,27 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10964 H 14400",
-    "id": "BUL007 FM M1  Main",
-    "key": "01 F8 B6 AF AC 8F 06 41"
+    "frequency": "11048 V 14400",
+    "id": "AUT34M/M-5",
+    "key": "9A 4C 0F F5 72 E6 B1 09"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11000 H 14400",
-    "id": "GVA_Fi01_NTF_M3",
-    "key": "01 F8 B6 AF AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
-    "id": "TUR-057 MAIN",
-    "key": "01 F8 B6 AF AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7120",
-    "id": "E-228 Backup",
-    "key": "23 E4 29 30 9A 24 5E 1C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11065 V 14400",
-    "id": "SLQ-010 Main",
-    "key": "01 F8 B6 AF AC 8F 06 41"
+    "frequency": "11523 V 7200",
+    "id": "MAR vs EGY",
+    "key": "9A 4C 0F F5 72 E6 B1 09"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7200",
-    "id": "EMF",
+    "id": "EHF WCL FTC MET",
     "key": "AE 25 BE 91 35 EC 11 32"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7200",
-    "id": "HUN-010 - 1 - M12",
-    "key": "13 57 AB 15 CD 24 68 59"
+    "frequency": "12573 H 7200",
+    "id": "MRC-003/WF1",
+    "key": "9A 4C 0F F5 72 E6 B1 09"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -58,29 +40,5 @@
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10846 V 10000",
-    "id": "GCUK Enc 14",
-    "key": "CD 9F 75 E1 AB 27 3C 0E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12609 V 9600",
-    "id": "NLEMG HOL219-1",
-    "key": "EF 6E 07 64 80 07 87 0E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "01 F8 B6 AF AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11016 V 9875",
-    "id": "NOR-044 -1-",
-    "key": "01 F8 B6 AF AC 8F 06 41"
   }
 ]
