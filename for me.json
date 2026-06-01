@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10965 H 14400",
+        "id": "BUL007 FM M1  Main",
+        "key": "01 F8 B6 AF AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11001 H 14400",
+        "id": "GVA_Fi01_NTF_M3",
+        "key": "01 F8 B6 AF AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 V 7120",
+        "id": "E-228 Backup",
+        "key": "23 E4 29 30 9A 24 5E 1C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11066 V 14400",
+        "id": "SLQ-010 Main",
+        "key": "01 F8 B6 AF AC 8F 06 41"
+    }
+]
