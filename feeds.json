@@ -82,17 +82,5 @@
         "frequency": "11591 H 9600",
         "id": "NLEMG HOL270-1",
         "key": "B6 6D 94 B7 19 52 3C A7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7500",
-        "id": "LPGA - ShopRite LPGA powered by Wakefern Day 3",
-        "key": "35 21 4B A1 41 00 DC 1D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11013 V 7200",
-        "id": "Fi01 ACB",
-        "key": "E9 BB BF 63 4D 0B 46 9E"
     }
 ]
