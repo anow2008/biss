@@ -1,38 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11000 H 14400",
-    "id": "M3 MD2 Wales UKI1965 Main",
-    "key": "02 F8 B6 B0 AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7200",
-    "id": "TAN vs SEN",
-    "key": "2F 6D 8B 27 0C 7A 3E C4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "EMF",
-    "key": "AE 25 BE 91 35 EC 11 32"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12573 H 7200",
-    "id": "MRC-003/WF1",
-    "key": "2F 6D 8B 27 0C 7A 3E C4"
+    "frequency": "11649 V 4400",
+    "id": "Unname",
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "01 06 26 2D CA E1 41 EC"
   }
 ]
