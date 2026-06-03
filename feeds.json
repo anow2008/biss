@@ -1,56 +1,38 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "01 06 26 2D CA E1 41 EC"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10976 V 4800",
-        "id": "POL-52 CM-5000",
+        "id": "POL - 054 Kielce",
         "key": "AB BA 26 8B DC AE 06 90"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12584 V 7200",
-        "id": "BWF WF-A C1 BISS-1",
-        "key": "A7 C3 F1 5B B9 E2 D5 70"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10965 V 4938",
+        "id": "GVA_Fi02_Wales_Ghana_VBR",
+        "key": "C7 2F C4 BA 01 59 99 F3"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10803 H 10000",
-        "id": "GCUK Enc 14",
-        "key": "71 DA 74 BF 41 CB CB D7"
+        "frequency": "11063 V 9600",
+        "id": "NLEMG HOL219-1",
+        "key": "D6 63 93 CC 5A CD EC 13"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10964 H 14400",
-        "id": "E-073 MAIN",
-        "key": "03 F8 B6 B1 AC 8F 06 41"
+        "frequency": "11023 V 7120",
+        "id": "E-228 Main",
+        "key": "23 E4 29 30 9A 24 5E 1C"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11005 V 7500",
-        "id": "POL086 TVN24 WAW",
+        "id": "POL047 TVN WAW",
         "key": "77 93 52 5C 99 08 86 27"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12592 V 7200",
-        "id": "BWF WF-A C2 BISS-1",
-        "key": "E2 F8 C1 9B A6 D3 B9 32"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12737 V 7200",
-        "id": "ENC 2",
-        "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11523 V 7200",
-        "id": "TAN vs SEN",
-        "key": "2F 6D 8B 27 0C 7A 3E C4"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11016 V 9875",
+        "id": "HOL-241-2-D2M",
+        "key": "03 F8 B6 B1 AC 8F 06 41"
     }
 ]
