@@ -1,8 +1,38 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10721 H 7200",
+        "id": "Encoder 1",
+        "key": "56 48 7E 1C 76 2B F3 94"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7500",
+        "id": "DT SNG 2 MAIN",
+        "key": "4A C5 B2 C1 F9 FD 7C 72"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 V 7200",
+        "id": "Fi01 ACB",
+        "key": "E1 6C 15 62 AC DF 57 E2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7200",
+        "id": "YLE",
+        "key": "D0 60 3E 6E 74 FF DB 4E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12510 V 7200",
+        "id": "EMF",
+        "key": "AE 25 BE 91 35 EC 11 32"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10976 V 4800",
-        "id": "POL - 054 Kielce",
+        "frequency": "10965 V 4800",
+        "id": "POL138_A",
         "key": "AB BA 26 8B DC AE 06 90"
     },
     {
@@ -19,7 +49,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11023 V 7120",
+        "frequency": "11022 V 7120",
         "id": "E-228 Main",
         "key": "23 E4 29 30 9A 24 5E 1C"
     },
@@ -28,11 +58,5 @@
         "frequency": "11005 V 7500",
         "id": "POL047 TVN WAW",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11016 V 9875",
-        "id": "HOL-241-2-D2M",
-        "key": "03 F8 B6 B1 AC 8F 06 41"
     }
 ]
