@@ -1,5 +1,59 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10964 H 14400",
+        "id": "E-073 MAIN",
+        "key": "03 F8 B6 B1 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10982 H 14400",
+        "id": "BEL095 - ENC1 - M2",
+        "key": "03 F8 B6 B1 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11000 H 14400",
+        "id": "BUL007 M03 M",
+        "key": "03 F8 B6 B1 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11018 H 14400",
+        "id": "2Sat HOL318 Main MD2 M4",
+        "key": "03 F8 B6 B1 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11048 V 14400",
+        "id": "POL-142 Main M05 Europe",
+        "key": "03 F8 B6 B1 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11066 V 14400",
+        "id": "HOL-241-2-D1M",
+        "key": "03 F8 B6 B1 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10976 V 4800",
+        "id": "POL-10 ENC1",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10985 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "01 06 26 2D CA E1 41 EC"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11015 V 9875",
+        "id": "HOL-241-2-D2M",
+        "key": "03 F8 B6 B1 AC 8F 06 41"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10803 H 10000",
         "id": "GCUK Enc 14",
