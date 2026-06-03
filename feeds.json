@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10968 V 7200",
+        "id": "Fi02_ACB",
+        "key": "E1 6C 15 62 AC DF 57 E2"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "pol-053_enc2",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10721 H 7200",
         "id": "Encoder 1",
@@ -10,12 +22,6 @@
         "frequency": "10830 V 7500",
         "id": "DT SNG 2 MAIN",
         "key": "4A C5 B2 C1 F9 FD 7C 72"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 V 7200",
-        "id": "Fi01 ACB",
-        "key": "E1 6C 15 62 AC DF 57 E2"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -30,33 +36,9 @@
         "key": "AE 25 BE 91 35 EC 11 32"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 06 90"
-    },
-    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10965 V 4938",
         "id": "GVA_Fi02_Wales_Ghana_VBR",
         "key": "C7 2F C4 BA 01 59 99 F3"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11063 V 9600",
-        "id": "NLEMG HOL219-1",
-        "key": "D6 63 93 CC 5A CD EC 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 V 7120",
-        "id": "E-228 Main",
-        "key": "23 E4 29 30 9A 24 5E 1C"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL047 TVN WAW",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
