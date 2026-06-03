@@ -3,12 +3,30 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11649 V 4400",
     "id": "Unname",
+    "key": "12 3C AA F8 14 22 A3 D9 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11649 V 4400",
+    "id": "Unname",
     "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
+    "frequency": "12737 V 7200",
     "id": "ENC 2",
     "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12583 V 7200",
+    "id": "BWF WF-A C1 BISS-1",
+    "key": "A7 C3 F1 5B B9 E2 D5 70"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12593 V 7200",
+    "id": "BWF WF-A C2 BISS-1",
+    "key": "E2 F8 C1 9B A6 D3 B9 32"
   }
 ]
