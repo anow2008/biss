@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "A7 C3 F1 5B B9 E2 D5 70"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12593 V 7200",
+        "id": "BWF WF-A C2 BISS-1",
+        "key": "E2 F8 C1 9B A6 D3 B9 32"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12736 V 7200",
         "id": "ENC 2",
