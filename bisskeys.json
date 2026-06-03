@@ -1,14 +1,1 @@
-[
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12610 V 4600",
-    "id": "WDC Enc 4",
-    "key": "AB BA 26 8B DC AE 06 90"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "pol-053_enc2",
-    "key": "AB BA 26 8B DC AE 06 90"
-  }
-]
+[]
