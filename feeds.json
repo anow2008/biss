@@ -1,20 +1,62 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10998 V 9875",
-        "id": "F634/5/MATCH_06/MAIN",
-        "key": "04 F8 B6 B2 AC 8F 06 41"
+        "frequency": "11106 V 7200",
+        "id": "Fi20_GNVE",
+        "key": "4D 01 D9 27 5D 45 DF 81"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12597 V 9600",
-        "id": "NLEMG HOL219-1",
-        "key": "75 EA 5D BC C6 F5 7B 36"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11012 H 4938",
+        "id": "ORA - ANA",
+        "key": "9D 8C 7B A4 6A 5E 8B 53"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7500",
+        "id": "ABBA",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11061 V 7200",
+        "id": "Fi01 ACB",
+        "key": "EE B5 E8 8B F0 DA CA 94"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12510 V 7200",
+        "id": "EMF",
+        "key": "AE 25 BE 91 35 EC 11 32"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "01 06 26 2D CA E1 41 EC"
+        "frequency": "10971 V 4800",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11047 V 14400",
+        "id": "GVA_Fi03_NTF_M2_VBR",
+        "key": "7C 0B 6A F1 D2 A8 C2 3C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11098 V 7200",
+        "id": "Fi20_GNVE",
+        "key": "3D FC 29 62 C0 30 6B 5B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11203 V 4938",
+        "id": "EBU 1 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10997 V 9875",
+        "id": "F634/5/MATCH_06/MAIN",
+        "key": "04 F8 B6 B2 AC 8F 06 41"
     }
 ]
