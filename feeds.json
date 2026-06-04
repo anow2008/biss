@@ -1,44 +1,44 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10968 V 7200",
-        "id": "Fi02_ACB",
-        "key": "E1 6C 15 62 AC DF 57 E2"
+        "frequency": "11001 H 14400",
+        "id": "ANDORRA LIECHTENSTEIN M",
+        "key": "04 F8 B6 B2 AC 8F 06 41"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "pol-053_enc2",
-        "key": "AB BA 26 8B DC AE 06 90"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10721 H 7200",
-        "id": "Encoder 1",
-        "key": "56 48 7E 1C 76 2B F3 94"
+        "frequency": "10985 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "01 06 26 2D CA E1 41 EC"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7500",
-        "id": "DT SNG 2 MAIN",
-        "key": "4A C5 B2 C1 F9 FD 7C 72"
+        "frequency": "12583 V 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "9E 4B 2F 18 6A 1C 3D C3"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "YLE",
-        "key": "D0 60 3E 6E 74 FF DB 4E"
+        "frequency": "12592 V 7200",
+        "id": "BWF WF-A C2 BISS-1",
+        "key": "1B 5E 9C 15 4F 8A 2D 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10806 H 15000",
+        "id": "Ziggo DR",
+        "key": "44 4A 22 B0 2C 11 1D 5A"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7200",
-        "id": "EMF",
-        "key": "AE 25 BE 91 35 EC 11 32"
+        "frequency": "11523 V 7500",
+        "id": "E-455  main",
+        "key": "46 13 10 69 EB D5 87 47"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10965 V 4938",
-        "id": "GVA_Fi02_Wales_Ghana_VBR",
-        "key": "C7 2F C4 BA 01 59 99 F3"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10846 V 10000",
+        "id": "GCUK Enc 14",
+        "key": "CD 9F 75 E1 AB 27 3C 0E"
     }
 ]
