@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10977 V 7200",
+        "id": "ITA-274 World Feed",
+        "key": "FB 65 D0 30 60 4E 65 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10964 V 14400",
         "id": "ITA 274 Feed A Main",
         "key": "FA 65 D0 2F 60 4E 65 13"
