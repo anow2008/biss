@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10964 H 14400",
+        "id": "UKI-1462 - MAIN",
+        "key": "04 F8 B6 B2 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10983 H 14400",
+        "id": "E393 PATH1",
+        "key": "04 F8 B6 B2 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11001 H 14400",
+        "id": "ANDORRA LIECHTENSTEIN M",
+        "key": "04 F8 B6 B2 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11009 V 9875",
+        "id": "E386 FEED 1",
+        "key": "04 F8 B6 B2 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11523 V 7500",
+        "id": "E-455  main",
+        "key": "46 13 10 69 EB D5 87 47"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10847 V 10000",
+        "id": "GCUK Enc 14",
+        "key": "CD 9F 75 E1 AB 27 3C 0E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12584 V 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "9E 4B 2F 18 6A 1C 3D C3"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10985 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "01 06 26 2D CA E1 41 EC"
+    }
+]
