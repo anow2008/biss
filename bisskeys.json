@@ -1,33 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10964 V 14400",
-    "id": "ITA 274 Feed A Main",
-    "key": "FA 65 D0 2F 60 4E 65 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10977 V 7200",
-    "id": "ITA-274 World Feed",
-    "key": "FB 65 D0 30 60 4E 65 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10997 V 9875",
-    "id": "F634/5/MATCH_06/MAIN",
+    "frequency": "11018 H 14400",
+    "id": "GVA_Fi07",
     "key": "04 F8 B6 B2 AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11009 V 9875",
-    "id": "E386 FEED 1",
-    "key": "04 F8 B6 B2 AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 V 7200",
-    "id": "Fi02_ACB",
-    "key": "EE B5 E8 8B F0 DA CA 94"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
