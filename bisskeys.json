@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10965 H 14400",
+    "id": "E360 M",
+    "key": "05 F8 B6 B3 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10983 H 14400",
+    "id": "SLQ-010 Main",
+    "key": "05 F8 B6 B3 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11001 H 14400",
+    "id": "ROU-015 - 1 - M3",
+    "key": "05 F8 B6 B3 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11019 H 14400",
+    "id": "ITA198 M4 NTF EU  main",
+    "key": "05 F8 B6 B3 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7120",
+    "id": "E-228 Backup",
+    "key": "23 E4 29 30 9A 24 5E 1C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11048 V 14400",
+    "id": "UKI-1324 -1 - M05",
+    "key": "05 F8 B6 B3 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11066 V 14400",
+    "id": "HUN-022-1 UNLM",
+    "key": "05 F8 B6 B3 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11084 H 14400",
+    "id": "BER-004 - 1",
+    "key": "05 F8 B6 B3 AC 8F 06 41"
+  }
+]
