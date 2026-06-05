@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10977 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11018 H 14400",
         "id": "GVA_Fi07",
@@ -10,12 +16,6 @@
         "frequency": "11070 V 7200",
         "id": "Fi02_ACB",
         "key": "EE B5 E8 8B F0 DA CA 94"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10973 V 9600",
-        "id": "POL-077 ENC-1",
-        "key": "AB BA 26 8B DC AE 06 90"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
