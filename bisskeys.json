@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10962 V 9875",
+    "id": "DNK83_enc1",
+    "key": "60 95 2E 23 E1 79 DE 38"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10964 H 14400",
     "id": "E360 M",
     "key": "05 F8 B6 B3 AC 8F 06 41"
@@ -25,15 +31,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11000 H 14400",
-    "id": "ROU-015 - 1 - M3",
-    "key": "05 F8 B6 B3 AC 8F 06 41"
+    "frequency": "10995 V 7200",
+    "id": "GVA_Fi06",
+    "key": "1D C5 45 27 4A B4 1A 18"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11013 V 7200",
-    "id": "HUN-013 Line 1",
-    "key": "DE 33 E8 F9 1C 9E 4E 08"
+    "frequency": "11000 H 14400",
+    "id": "ROU-015 - 2 - M3",
+    "key": "05 F8 B6 B3 AC 8F 06 41"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -55,9 +61,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11065 V 14400",
+    "frequency": "11066 V 14400",
     "id": "HUN-022-1 UNLM",
     "key": "05 F8 B6 B3 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11079 V 7200",
+    "id": "Fi01 ACB",
+    "key": "DE 71 65 B4 51 13 3D A1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,15 +79,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11088 V 7200",
-    "id": "Fi01_RURTR",
-    "key": "D6 6D 0F 52 5B FD 26 7E"
+    "frequency": "11088 V 7120",
+    "id": "Pitch World cup Belgium V Luxembourg",
+    "key": "3D C8 9F A4 A4 B2 1E 74"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7500",
-    "id": "E-455  main",
-    "key": "46 13 10 69 EB D5 87 47"
+    "frequency": "11107 V 4938",
+    "id": "YSM-016 MAIN",
+    "key": "39 DD B8 CE 70 6C E6 C2"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11518 H 7200",
+    "id": "DNK-ORE6",
+    "key": "5C A3 2D 2C 7F 38 62 19"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -91,21 +109,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11597 V 7200",
-    "id": "Unname",
-    "key": "EF 5D AC F8 2E 01 DB 0A"
+    "frequency": "12565 H 7200",
+    "id": "SLQ 001",
+    "key": "A2 02 60 04 50 6A BC 76"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7120",
-    "id": "EDM HD ENC-1",
-    "key": "B2 C5 D3 4A E6 F4 A7 81"
+    "frequency": "12631 V 9875",
+    "id": "Cloudbass",
+    "key": "D2 10 AF 91 B7 97 63 B1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7200",
-    "id": "YSM-021M",
-    "key": "DD 13 20 10 26 06 CA F6"
+    "frequency": "12656 V 7200",
+    "id": "ITA 415 MAIN",
+    "key": "FB 65 D0 30 60 4E 65 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -115,15 +133,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12685 H 7200",
-    "id": "ITA349M",
-    "key": "86 62 8A 72 92 87 2C 45"
+    "frequency": "12736 V 7200",
+    "id": "enc-22",
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10817 H 3670",
-    "id": "GCUK Enc 2",
-    "key": "B3 41 ED E1 AA 68 33 45"
+    "frequency": "10830 V 7500",
+    "id": "TUR 112 MAIN",
+    "key": "ED 6E CF 2A 70 4F 8A 49"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -148,6 +166,12 @@
     "frequency": "10986 V 9600",
     "id": "POL-141 ENC1",
     "key": "01 06 26 2D CA E1 41 EC"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11016 V 9600",
+    "id": "POL-077 ENC-1",
+    "key": "AB BA 26 8B DC AE 06 90"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
