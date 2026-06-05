@@ -1,32 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 V 7200",
-    "id": "GVA_Fi06",
+    "frequency": "10887 H 16670",
+    "id": "5GEMB",
     "key": "1D C5 45 27 4A B4 1A 18"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 7200",
-    "id": "MAIN - E-285",
-    "key": "AB BA 20 85 26 06 05 31"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "enc-22",
-    "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11054 H 30000",
-    "id": "WWE PROGRAM P2S1P",
-    "key": "06 05 26 31 06 05 26 31"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11016 V 9600",
-    "id": "POL-077 ENC-1",
-    "key": "AB BA 26 8B DC AE 06 90"
+    "frequency": "11061 H 7200",
+    "id": "GVA_Fi06",
+    "key": "1D C5 45 27 4A B4 1A 18"
   }
 ]
