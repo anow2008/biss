@@ -32,7 +32,7 @@
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12565 H 7200",
-        "id": "SLQ 001",
+        "id": "BOXING ENC 11",
         "key": "A2 02 60 04 50 6A BC 76"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10996 V 7200",
+        "frequency": "10995 V 7200",
         "id": "GVA_Fi06",
         "key": "1D C5 45 27 4A B4 1A 18"
     },
