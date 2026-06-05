@@ -1,68 +1,92 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11013 V 7200",
+        "id": "HUN-013 Line 1",
+        "key": "DE 33 E8 F9 1C 9E 4E 08"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12685 H 7200",
+        "id": "ITA349M",
+        "key": "86 62 8A 72 92 87 2C 45"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 06 90"
+        "frequency": "11102 H 7200",
+        "id": "F560",
+        "key": "BD FC 05 BE 06 AA DF 8F"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11018 H 14400",
-        "id": "GVA_Fi07",
-        "key": "04 F8 B6 B2 AC 8F 06 41"
+        "frequency": "11579 V 7200",
+        "id": "ENC 5",
+        "key": "05 06 BA C5 CA D1 B3 4E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 V 7200",
-        "id": "Fi02_ACB",
-        "key": "EE B5 E8 8B F0 DA CA 94"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10721 H 7200",
-        "id": "Encoder 1",
-        "key": "C4 5A F1 0F AE BD 39 A4"
+        "frequency": "10986 V 7200",
+        "id": "M-THREE FEED1",
+        "key": "8D 76 A5 A8 C2 87 25 6E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10977 V 7200",
-        "id": "ITA-274 World Feed",
-        "key": "FB 65 D0 30 60 4E 65 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10964 V 14400",
-        "id": "ITA 274 Feed C MAIN",
-        "key": "FA 65 D0 2F 60 4E 65 13"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7500",
-        "id": "TUR139-Main",
-        "key": "1F CB B1 9B F4 C9 C1 7E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12574 H 9600",
-        "id": "SUI 066 A",
-        "key": "B8 0D 7C 41 8E F9 5E E5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11106 V 7200",
-        "id": "Fi20_GNVE",
+        "id": "Fi20_GNVE_La_Liga_Futures",
         "key": "4D 01 D9 27 5D 45 DF 81"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11012 H 4938",
-        "id": "ORA - ANA",
-        "key": "9D 8C 7B A4 6A 5E 8B 53"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12609 V 9600",
+        "id": "NLEMG HOL219-1",
+        "key": "9A 36 41 11 18 AD 26 EB"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL029 TVN24 GDA",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "01 06 26 2D CA E1 41 EC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10823 V 3670",
+        "id": "Dubai Racing Channel Epsom 2",
+        "key": "CE A1 CB 3A C1 45 6D 73"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 V 7500",
-        "id": "ABBA",
-        "key": "AB BA 20 85 25 20 26 6B"
+        "frequency": "10962 V 9875",
+        "id": "DNK83_enc1",
+        "key": "60 95 2E 23 E1 79 DE 38"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12676 H 7200",
+        "id": "MediaLink CRO-023/1",
+        "key": "DC AA FF 85 EE 05 06 F9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10846 V 10000",
+        "id": "GCUK Enc 14",
+        "key": "B3 41 ED E1 AA 68 33 45"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10819 V 3670",
+        "id": "Dubai Racing Channel Epsom 1",
+        "key": "6A 1B 34 B9 DD E5 61 23"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11054 H 30000",
+        "id": "WWE WORLD P2S2P",
+        "key": "06 05 26 31 06 05 26 31"
     }
 ]
