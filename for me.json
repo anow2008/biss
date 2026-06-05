@@ -1,6 +1,78 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10995 V 7200",
+        "id": "GVA_Fi06",
+        "key": "1D C5 45 27 4A B4 1A 18"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11022 V 7200",
+        "id": "MAIN - E-285",
+        "key": "AB BA 20 85 26 06 05 31"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11079 V 7200",
+        "id": "Fi01 ACB",
+        "key": "DE 71 65 B4 51 13 3D A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11088 V 7120",
+        "id": "Pitch World cup Belgium V Luxembourg",
+        "key": "3D C8 9F A4 A4 B2 1E 74"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11097 V 7200",
+        "id": "Fi02_ACB",
+        "key": "DE 71 65 B4 51 13 3D A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11107 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "39 DD B8 CE 70 6C E6 C2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11501 V 15000",
+        "id": "ZB CLEAN PRI",
+        "key": "05 52 FD 54 9F 38 C6 9D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11522 V 7200",
+        "id": "Encoder 1",
+        "key": "2E DB 67 70 AC 84 67 97"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12631 V 9875",
+        "id": "Cloudbass",
+        "key": "D2 10 AF 91 B7 97 63 B1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "enc-22",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12741 H 7200",
+        "id": "Volleyball",
+        "key": "A0 50 62 52 0A 20 26 50"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7500",
+        "id": "TUR 112 MAIN",
+        "key": "ED 6E CF 2A 70 4F 8A 49"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10964 H 14400",
         "id": "E360 M",
         "key": "05 F8 B6 B3 AC 8F 06 41"
