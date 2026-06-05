@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11016 V 9600",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12565 H 7200",
+        "id": "SLQ 001",
+        "key": "A2 02 60 04 50 6A BC 76"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11107 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "39 DD B8 CE 70 6C E6 C2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10995 V 7200",
+        "id": "GVA_Fi06",
+        "key": "1D C5 45 27 4A B4 1A 18"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11518 H 7200",
+        "id": "DNK-ORE6",
+        "key": "5C A3 2D 2C 7F 38 62 19"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7500",
+        "id": "TUR 112 MAIN",
+        "key": "ED 6E CF 2A 70 4F 8A 49"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "enc-22",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11079 V 7200",
+        "id": "Fi01 ACB",
+        "key": "DE 71 65 B4 51 13 3D A1"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11013 V 7200",
         "id": "HUN-013 Line 1",
@@ -40,53 +88,5 @@
         "frequency": "12609 V 9600",
         "id": "NLEMG HOL219-1",
         "key": "9A 36 41 11 18 AD 26 EB"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL029 TVN24 GDA",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "01 06 26 2D CA E1 41 EC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10823 V 3670",
-        "id": "Dubai Racing Channel Epsom 2",
-        "key": "CE A1 CB 3A C1 45 6D 73"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10962 V 9875",
-        "id": "DNK83_enc1",
-        "key": "60 95 2E 23 E1 79 DE 38"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12676 H 7200",
-        "id": "MediaLink CRO-023/1",
-        "key": "DC AA FF 85 EE 05 06 F9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10846 V 10000",
-        "id": "GCUK Enc 14",
-        "key": "B3 41 ED E1 AA 68 33 45"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10819 V 3670",
-        "id": "Dubai Racing Channel Epsom 1",
-        "key": "6A 1B 34 B9 DD E5 61 23"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11054 H 30000",
-        "id": "WWE WORLD P2S2P",
-        "key": "06 05 26 31 06 05 26 31"
     }
 ]
