@@ -1,13 +1,31 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11469 V 7500",
+        "id": "ABBA",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11061 H 7200",
+        "id": "GVA_Fi06",
+        "key": "1D C5 45 27 4A B4 1A 18"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12631 V 9875",
+        "id": "ARM-006 Main",
+        "key": "88 CD 52 A7 C9 4C CA DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12624 H 4938",
         "id": "ANA-1",
         "key": "CC BA AB 31 76 CA 44 84"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11071 V 7200",
+        "frequency": "11070 V 7200",
         "id": "MAIN - E-285",
         "key": "AA BB 20 85 26 06 06 32"
     },
@@ -16,12 +34,6 @@
         "frequency": "12741 H 7200",
         "id": "Volleyball",
         "key": "BE BE 06 82 06 A2 6A 12"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11010 V 9875",
-        "id": "ARM-005 Main",
-        "key": "88 CD 52 A7 C9 4C CA DF"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -52,29 +64,5 @@
         "frequency": "11518 H 7200",
         "id": "DNK-ORE6",
         "key": "A7 8C DA 0D 2C 63 74 03"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12616 H 7200",
-        "id": "D-473",
-        "key": "06 06 CB D7 CD 05 84 56"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11483 V 15000",
-        "id": "ZUFFA",
-        "key": "31 0A 57 92 5B 33 0C 9A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11069 V 9875",
-        "id": "Cloudbass",
-        "key": "D2 10 AF 91 B7 97 63 B1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL019",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
