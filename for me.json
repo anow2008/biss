@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12647 V 7120",
+        "id": "Pitch International Football Argentina v Honduras",
+        "key": "11 23 CD 01 DC 22 53 51"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11043 V 7200",
         "id": "Medialink CRO-025/1",
         "key": "06 06 AB B7 CD 20 26 13"
