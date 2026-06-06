@@ -1,7 +1,13 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10965 V 14400",
+    "frequency": "10961 H 9875",
+    "id": "Cloudbass",
+    "key": "D2 10 AF 91 B7 97 63 B1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10964 V 14400",
     "id": "ROU038 MAIN MATCH7",
     "key": "06 F8 B6 B4 AC 8F 06 41"
   },
@@ -37,6 +43,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11043 V 7200",
+    "id": "Medialink CRO-025/1",
+    "key": "06 06 AB B7 CD 20 26 13"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11056 V 9875",
     "id": "E-95 MAIN",
     "key": "06 F8 B6 B4 AC 8F 06 41"
@@ -49,27 +61,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 V 7200",
-    "id": "MAIN - E-285",
-    "key": "AA BB 20 85 26 06 06 32"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11083 H 14400",
+    "frequency": "11084 H 14400",
     "id": "BUL007 M08 M",
     "key": "06 F8 B6 B4 AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11088 V 7200",
-    "id": "Fi13_GNVE",
-    "key": "3D FC 29 62 C0 30 6B 5B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11469 V 7500",
-    "id": "ABBA",
-    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -82,6 +76,12 @@
     "frequency": "11501 V 15000",
     "id": "ZB CLEAN PRI",
     "key": "05 52 FD 54 9F 38 C6 9D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11523 V 7200",
+    "id": "Encoder 1",
+    "key": "B8 82 9F D9 D2 6C 9A D8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -98,8 +98,14 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12565 H 7200",
-    "id": "Glory 108",
+    "id": "ENFUSION 162",
     "key": "1F 7D 5B F7 CC 1A BE A4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12575 H 9600",
+    "id": "SUI 066 A",
+    "key": "B8 0D 7C 41 8E F9 5E E5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -115,15 +121,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7200",
-    "id": "ITA 415 MAIN",
-    "key": "FB 65 D0 30 60 4E 65 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12647 H 9700",
     "id": "EHF Final4 Main",
     "key": "D0 60 6E 9E 45 FF EE 32"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12647 V 7200",
+    "id": "ITA 415 MAIN",
+    "key": "FB 65 D0 30 60 4E 65 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -151,21 +157,21 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10721 H 7200",
-    "id": "GCUK Enc 5",
-    "key": "D0 60 6E 9E 45 FF DA 1E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10722 V 15000",
     "id": "OVERON 1",
-    "key": "D7 9F C9 3F 7E BA 61 99"
+    "key": "CD A1 FF 6D A6 26 06 D2"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10768 V 34000",
     "id": "Friendly Scotland vs Bolivia",
     "key": "41 44 21 A6 73 52 34 F9"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11250 H 14400",
+    "id": "F489 MAIN",
+    "key": "FE ED 20 0B 26 99 12 D1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -180,9 +186,21 @@
     "key": "C7 31 14 0C 28 4F 5E D5"
   },
   {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12583 V 7200",
+    "id": "InFront Grand Prix Distribution",
+    "key": "D0 60 6E 9E 74 FF AF 22"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
-    "id": "POL 030",
+    "frequency": "10965 V 4800",
+    "id": "POL11_HARM",
+    "key": "AB BA 26 8B DC AE 06 90"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
+    "id": "POL-55 ENC2",
     "key": "AB BA 26 8B DC AE 06 90"
   },
   {
@@ -193,14 +211,20 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL019",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "11013 V 4938",
+    "id": "YSM-021M",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11128 H 9600",
     "id": "POL-077 ENC-1",
     "key": "AB BA 26 8B DC AE 06 90"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12574 H 7200",
+    "id": "Fi01 ACB",
+    "key": "ED 40 06 33 26 2A E4 34"
   }
 ]
