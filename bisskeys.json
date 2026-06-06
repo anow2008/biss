@@ -13,32 +13,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 V 7200",
-    "id": "UKI-1462 - MAIN",
-    "key": "11 4D 3C 9A 2B 1A 09 4E"
+    "frequency": "12647 V 7120",
+    "id": "Pitch International Football Argentina v Honduras",
+    "key": "11 23 CD 01 DC 22 53 51"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "UFC Fight Night on P+ #13: All Fights",
     "key": "33 AB 68 46 29 CD 31 27"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10768 V 34000",
-    "id": "Friendly Scotland vs Bolivia",
-    "key": "41 44 21 A6 73 52 34 F9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10810 H 7200",
-    "id": "GCUK Enc 3",
-    "key": "D0 60 6E 9E 74 FF AF 22"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12584 V 7200",
-    "id": "InFront Grand Prix Distribution",
-    "key": "D0 60 6E 9E 74 FF AF 22"
   }
 ]
