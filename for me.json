@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11043 V 7200",
+        "id": "Medialink CRO-025/1",
+        "key": "06 06 AB B7 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11523 V 7200",
+        "id": "Encoder 1",
+        "key": "B8 82 9F D9 D2 6C 9A D8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "UFC Fight Night on P+ #13: All Fights",
+        "key": "33 AB 68 46 29 CD 31 27"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10722 V 15000",
+        "id": "OVERON 1",
+        "key": "CD A1 FF 6D A6 26 06 D2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7200",
+        "id": "InFront Grand Prix Distribution",
+        "key": "D0 60 6E 9E 74 FF AF 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11088 V 7200",
         "id": "Fi13_GNVE",
         "key": "3D FC 29 62 C0 30 6B 5B"
