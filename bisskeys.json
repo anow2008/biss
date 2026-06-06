@@ -7,21 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
-    "id": "GVA_Fi06",
-    "key": "1D C5 45 27 4A B4 1A 18"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11483 V 15000",
-    "id": "Zuffa Boxing Asia",
-    "key": "31 0A 57 92 5B 33 0C 9A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11501 V 15000",
-    "id": "ZB CLEAN PRI",
-    "key": "05 52 FD 54 9F 38 C6 9D"
+    "frequency": "11088 V 7200",
+    "id": "Fi13_GNVE",
+    "key": "3D FC 29 62 C0 30 6B 5B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,68 +25,20 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10722 V 15000",
-    "id": "OVERON 1",
-    "key": "CD A1 FF 6D A6 26 06 D2"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10768 V 34000",
     "id": "Friendly Scotland vs Bolivia",
     "key": "41 44 21 A6 73 52 34 F9"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11250 H 14400",
-    "id": "F489 MAIN",
-    "key": "FE ED 20 0B 26 99 12 D1"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10801 H 7200",
-    "id": "GCUK Enc 2",
-    "key": "CE 27 DE D3 F2 26 12 2A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12583 V 7200",
-    "id": "InFront Grand Prix Distribution",
+    "frequency": "10810 H 7200",
+    "id": "GCUK Enc 3",
     "key": "D0 60 6E 9E 74 FF AF 22"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10965 V 4800",
-    "id": "POL11_HARM",
-    "key": "AB BA 26 8B DC AE 06 90"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-55 ENC2",
-    "key": "AB BA 26 8B DC AE 06 90"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "01 06 26 2D CA E1 41 EC"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11013 V 4938",
-    "id": "YSM-021M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11128 H 9600",
-    "id": "POL-077 ENC-1",
-    "key": "AB BA 26 8B DC AE 06 90"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12574 H 7200",
-    "id": "Fi01 ACB",
-    "key": "ED 40 06 33 26 2A E4 34"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12584 V 7200",
+    "id": "InFront Grand Prix Distribution",
+    "key": "D0 60 6E 9E 74 FF AF 22"
   }
 ]
