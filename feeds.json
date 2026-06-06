@@ -1,68 +1,68 @@
 [
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11501 V 15000",
-        "id": "ZB BEAUTY",
-        "key": "05 52 FD 54 9F 38 C6 9D"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11050 H 7120",
+        "id": "Pitch Exeter chiefs v Saracens",
+        "key": "11 CC 09 E6 09 66 55 C4"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12741 H 7200",
-        "id": "Volleyball",
-        "key": "A0 50 62 52 0A 20 26 50"
+        "frequency": "11607 V 7200",
+        "id": "Unname",
+        "key": "3E 19 34 8B 59 61 C2 7C"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11097 V 7200",
-        "id": "Fi02_ACB",
-        "key": "DE 71 65 B4 51 13 3D A1"
+        "frequency": "11580 V 7200",
+        "id": "ENC 1",
+        "key": "05 06 BA C5 CA D1 B3 4E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11482 V 15000",
-        "id": "ZUFFA",
-        "key": "31 0A 57 92 5B 33 0C 9A"
+        "frequency": "12648 H 9700",
+        "id": "EHF Final4 Main",
+        "key": "D0 60 6E 9E 45 FF EE 32"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11016 V 9600",
-        "id": "POL-077 ENC-1",
+        "frequency": "10973 V 9600",
+        "id": "POL 030",
         "key": "AB BA 26 8B DC AE 06 90"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "BOXING ENC 11",
-        "key": "A2 02 60 04 50 6A BC 76"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11107 V 4938",
-        "id": "YSM-016 MAIN",
-        "key": "39 DD B8 CE 70 6C E6 C2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10995 V 7200",
-        "id": "GVA_Fi06",
-        "key": "1D C5 45 27 4A B4 1A 18"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11518 H 7200",
-        "id": "DNK-ORE6",
-        "key": "5C A3 2D 2C 7F 38 62 19"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10818 V 3670",
+        "id": "Dubai Racing Channel Epsom 1",
+        "key": "EB BC 34 DB 55 FC 11 62"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7500",
-        "id": "TUR 112 MAIN",
-        "key": "ED 6E CF 2A 70 4F 8A 49"
+        "frequency": "10823 V 3670",
+        "id": "Dubai Racing Channel Epsom 2",
+        "key": "54 13 3B A2 CB DF AA 54"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "enc-22",
-        "key": "12 3C AA F8 14 22 A3 D9"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10722 H 7200",
+        "id": "GCUK Enc 5",
+        "key": "D0 60 6E 9E 45 FF DA 1E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12609 V 9600",
+        "id": "NLEMG HOL219-1",
+        "key": "D6 6B 7F C0 CC 80 48 94"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10846 V 10000",
+        "id": "GCUK Enc 14",
+        "key": "B3 1A AC 79 EE 75 1D 80"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "F6 B2 E9 91 A4 D1 C8 3D"
     }
 ]
