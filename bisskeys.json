@@ -7,33 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10964 V 14400",
-    "id": "ROU038 MAIN MATCH7",
-    "key": "06 F8 B6 B4 AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10977 V 7200",
-    "id": "Fi20_GNVE_La_Liga_Futures",
-    "key": "4D 01 D9 27 5D 45 DF 81"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10986 V 7200",
-    "id": "M-THREE FEED1",
-    "key": "8D 76 A5 A8 C2 87 25 6E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11009 V 9875",
-    "id": "ARM-005 Main",
-    "key": "88 CD 52 A7 C9 4C CA DF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
-    "id": "E-073 MAIN",
-    "key": "06 F8 B6 B4 AC 8F 06 41"
+    "frequency": "10995 V 7200",
+    "id": "WSHT ENC53 - UFC",
+    "key": "33 AB 68 46 29 CD 31 27"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -97,12 +73,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "ENFUSION 162",
-    "key": "1F 7D 5B F7 CC 1A BE A4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12575 H 9600",
     "id": "SUI 066 A",
     "key": "B8 0D 7C 41 8E F9 5E E5"
@@ -115,39 +85,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12631 V 9875",
-    "id": "ARM-006 Main",
-    "key": "88 CD 52 A7 C9 4C CA DF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 H 9700",
-    "id": "EHF Final4 Main",
-    "key": "D0 60 6E 9E 45 FF EE 32"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7200",
-    "id": "ITA 415 MAIN",
-    "key": "FB 65 D0 30 60 4E 65 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12656 V 7120",
-    "id": "E-228 Backup",
-    "key": "23 E4 29 30 9A 24 5E 1C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12676 H 7200",
-    "id": "ITA 274 CEV Main",
-    "key": "DC AA FF 85 EE 06 06 FA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12685 H 7200",
-    "id": "BEL68 - Enc.1 8h MOTO Francorchamps",
-    "key": "5F 08 AA 11 06 06 26 32"
+    "frequency": "12736 V 7200",
+    "id": "UFC Fight Night on P+ #13: All Fights",
+    "key": "33 AB 68 46 29 CD 31 27"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
