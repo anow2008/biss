@@ -1,1 +1,206 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10964 H 14400",
+    "id": "LTU-005 - 1- M02 main feed",
+    "key": "06 F8 B6 B4 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10964 V 14400",
+    "id": "ROU038 MAIN MATCH7",
+    "key": "06 F8 B6 B4 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10982 H 14400",
+    "id": "EST-004 MAIN MD3",
+    "key": "06 F8 B6 B4 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10997 V 9875",
+    "id": "EST-010 ENC1 MXGP",
+    "key": "13 8A 26 C3 E1 AC 77 04"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11001 H 14400",
+    "id": "E363A",
+    "key": "06 F8 B6 B4 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11018 H 14400",
+    "id": "E-073 MAIN",
+    "key": "06 F8 B6 B4 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7200",
+    "id": "GVA_Fi05",
+    "key": "1D C5 45 27 4A B4 1A 18"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11045 V 9875",
+    "id": "BEL095 - ENC1 - M1",
+    "key": "06 F8 B6 B4 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11057 V 9875",
+    "id": "E-95 MAIN",
+    "key": "06 F8 B6 B4 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11084 H 14400",
+    "id": "BUL007 M08 M",
+    "key": "06 F8 B6 B4 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11089 V 7200",
+    "id": "F419_MAIN",
+    "key": "06 06 DE EA BB 58 74 87"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11501 V 15000",
+    "id": "ZB CLEAN PRI",
+    "key": "05 52 FD 54 9F 38 C6 9D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11523 V 7500",
+    "id": "E-455 MAIN FEED",
+    "key": "46 13 10 69 EB D5 87 47"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11526 H 7200",
+    "id": "LAT-002",
+    "key": "4E 5B 29 D2 6D D4 6A AB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11580 V 7200",
+    "id": "ENC 1",
+    "key": "05 06 BA C5 CA D1 B3 4E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11598 V 7200",
+    "id": "Unname",
+    "key": "80 B8 A6 DE 2C 5B 41 C8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11607 V 7200",
+    "id": "Unname",
+    "key": "3E 19 34 8B 59 61 C2 7C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12648 H 9700",
+    "id": "EHF Final4 Main",
+    "key": "D0 60 6E 9E 45 FF EE 32"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12656 V 7120",
+    "id": "E-228 Backup",
+    "key": "23 E4 29 30 9A 24 5E 1C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12685 H 7200",
+    "id": "BEL68 - Enc.1 8h MOTO Francorchamps",
+    "key": "5F 08 AA 11 06 06 26 32"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10722 H 7200",
+    "id": "GCUK Enc 5",
+    "key": "D0 60 6E 9E 45 FF DA 1E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 H 3670",
+    "id": "GCUK Enc 2",
+    "key": "EB BC 34 DB 55 FC 11 62"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "Dubai Racing Channel Epsom 1",
+    "key": "EB BC 34 DB 55 FC 11 62"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10823 V 3670",
+    "id": "Dubai Racing Channel Epsom 2",
+    "key": "54 13 3B A2 CB DF AA 54"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10827 H 9875",
+    "id": "IPF",
+    "key": "27 05 79 A5 A1 6D 6F 7D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10846 V 10000",
+    "id": "GCUK Enc 14",
+    "key": "B3 1A AC 79 EE 75 1D 80"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11050 H 7120",
+    "id": "Pitch Exeter chiefs v Saracens",
+    "key": "11 CC 09 E6 09 66 55 C4"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11059 H 7120",
+    "id": "Pitch Gloucester v Newcastle",
+    "key": "EE 77 44 A9 CC AA 77 ED"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11068 H 7120",
+    "id": "Pitch Harlequins v Northampton Saints",
+    "key": "11 12 3E 61 3E 7D 44 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12583 V 7200",
+    "id": "BWF WF-A C1 BISS-1",
+    "key": "F6 B2 E9 91 A4 D1 C8 3D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12609 V 9600",
+    "id": "NLEMG HOL219-1",
+    "key": "D6 6B 7F C0 CC 80 48 94"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "POL 030",
+    "key": "AB BA 26 8B DC AE 06 90"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL-141 ENC1",
+    "key": "01 06 26 2D CA E1 41 EC"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10996 V 7500",
+    "id": "POL019",
+    "key": "77 93 52 5C 99 08 86 27"
+  }
+]
