@@ -1,6 +1,78 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11043 V 7200",
+        "id": "Medialink CRO-025/1",
+        "key": "06 06 AB B7 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12575 H 9600",
+        "id": "SUI 066 A",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10961 H 9875",
+        "id": "Cloudbass",
+        "key": "D2 10 AF 91 B7 97 63 B1"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12574 H 7200",
+        "id": "Fi01 ACB",
+        "key": "ED 40 06 33 26 2A E4 34"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11250 H 14400",
+        "id": "F489 MAIN",
+        "key": "FE ED 20 0B 26 99 12 D1"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL-55 ENC2",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10722 V 15000",
+        "id": "OVERON 1",
+        "key": "D7 9F C9 3F 7E BA 61 99"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7500",
+        "id": "TUR 112 MAIN",
+        "key": "C7 31 14 0C 28 4F 5E D5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "GCUK Enc 2",
+        "key": "CE 27 DE D3 F2 26 12 2A"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "Friendly Turkey vs Venezuela",
+        "key": "42 53 96 2B 85 06 04 8F"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "Friendly Scotland vs Bolivia",
+        "key": "AB C4 56 C5 23 87 1A C4"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10768 V 34000",
+        "id": "Friendly Scotland vs Bolivia",
+        "key": "41 44 21 A6 73 52 34 F9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11469 V 7500",
         "id": "ABBA",
         "key": "AB BA 20 85 25 20 26 6B"
@@ -16,53 +88,5 @@
         "frequency": "12631 V 9875",
         "id": "ARM-006 Main",
         "key": "88 CD 52 A7 C9 4C CA DF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12624 H 4938",
-        "id": "ANA-1",
-        "key": "CC BA AB 31 76 CA 44 84"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 V 7200",
-        "id": "MAIN - E-285",
-        "key": "AA BB 20 85 26 06 06 32"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12741 H 7200",
-        "id": "Volleyball",
-        "key": "BE BE 06 82 06 A2 6A 12"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12676 H 7200",
-        "id": "ITA 274 CEV Main",
-        "key": "DC AA FF 85 EE 06 06 FA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12640 V 4938",
-        "id": "MNE-001 main",
-        "key": "43 B7 E0 DA BA CB 45 CA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11079 V 7200",
-        "id": "HUN-013 Line 1",
-        "key": "55 EF BC 00 5C 11 87 F4"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12676 H 7200",
-        "id": "ITA 274 Feed C MAIN",
-        "key": "FA 65 D0 2F 60 4E 65 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11518 H 7200",
-        "id": "DNK-ORE6",
-        "key": "A7 8C DA 0D 2C 63 74 03"
     }
 ]
