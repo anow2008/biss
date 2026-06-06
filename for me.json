@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11071 V 7200",
+        "id": "MAIN - E-285",
+        "key": "AA BB 20 85 26 06 06 32"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12624 H 4938",
+        "id": "ANA-1",
+        "key": "CC BA AB 31 76 CA 44 84"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10978 V 7200",
         "id": "Fi20_GNVE_La_Liga_Futures",
         "key": "4D 01 D9 27 5D 45 DF 81"
