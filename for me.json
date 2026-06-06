@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10978 V 7200",
+        "id": "Fi20_GNVE_La_Liga_Futures",
+        "key": "4D 01 D9 27 5D 45 DF 81"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10987 V 7200",
+        "id": "M-THREE FEED1",
+        "key": "8D 76 A5 A8 C2 87 25 6E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11010 V 9875",
+        "id": "ARM-005 Main",
+        "key": "88 CD 52 A7 C9 4C CA DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11080 V 7200",
+        "id": "HUN-013 Line 1",
+        "key": "55 EF BC 00 5C 11 87 F4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12616 H 7200",
+        "id": "D-473",
+        "key": "06 06 CB D7 CD 05 84 56"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12640 V 4938",
+        "id": "MNE-001 main",
+        "key": "43 B7 E0 DA BA CB 45 CA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12676 H 7200",
+        "id": "ITA 274 CEV Main",
+        "key": "DC AA FF 85 EE 06 06 FA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10964 H 14400",
         "id": "LTU-005 - 1- M02 main feed",
         "key": "06 F8 B6 B4 AC 8F 06 41"
