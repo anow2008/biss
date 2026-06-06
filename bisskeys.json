@@ -1,33 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 H 9875",
-    "id": "Cloudbass",
-    "key": "D2 10 AF 91 B7 97 63 B1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10995 V 7200",
     "id": "WSHT ENC53 - UFC",
     "key": "33 AB 68 46 29 CD 31 27"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 7200",
-    "id": "GVA_Fi05",
-    "key": "1D C5 45 27 4A B4 1A 18"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11043 V 7200",
-    "id": "Medialink CRO-025/1",
-    "key": "06 06 AB B7 CD 20 26 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11056 V 9875",
-    "id": "E-95 MAIN",
-    "key": "06 F8 B6 B4 AC 8F 06 41"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,14 +13,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11084 H 14400",
-    "id": "BUL007 M08 M",
-    "key": "06 F8 B6 B4 AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11483 V 15000",
-    "id": "ZUFFA",
+    "id": "Zuffa Boxing Asia",
     "key": "31 0A 57 92 5B 33 0C 9A"
   },
   {
@@ -55,45 +25,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7200",
-    "id": "Encoder 1",
-    "key": "B8 82 9F D9 D2 6C 9A D8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11588 V 7200",
     "id": "UKI-1462 - MAIN",
     "key": "11 4D 3C 9A 2B 1A 09 4E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7500",
-    "id": "ENC 3",
-    "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12575 H 9600",
-    "id": "SUI 066 A",
-    "key": "B8 0D 7C 41 8E F9 5E E5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12624 H 4938",
-    "id": "ANA-1",
-    "key": "CC BA AB 31 76 CA 44 84"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "UFC Fight Night on P+ #13: All Fights",
     "key": "33 AB 68 46 29 CD 31 27"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12741 H 7200",
-    "id": "Volleyball",
-    "key": "BE BE 06 82 06 A2 6A 12"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -115,15 +55,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10802 H 7200",
+    "frequency": "10801 H 7200",
     "id": "GCUK Enc 2",
     "key": "CE 27 DE D3 F2 26 12 2A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7500",
-    "id": "TUR 112 MAIN",
-    "key": "C7 31 14 0C 28 4F 5E D5"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
