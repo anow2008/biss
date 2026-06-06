@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12624 H 4938",
+        "id": "ANA-1",
+        "key": "CC BA AB 31 76 CA 44 84"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11071 V 7200",
+        "id": "MAIN - E-285",
+        "key": "AA BB 20 85 26 06 06 32"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12741 H 7200",
+        "id": "Volleyball",
+        "key": "BE BE 06 82 06 A2 6A 12"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11010 V 9875",
+        "id": "ARM-005 Main",
+        "key": "88 CD 52 A7 C9 4C CA DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12676 H 7200",
         "id": "ITA 274 CEV Main",
         "key": "DC AA FF 85 EE 06 06 FA"
@@ -13,7 +37,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11080 V 7200",
+        "frequency": "11079 V 7200",
         "id": "HUN-013 Line 1",
         "key": "55 EF BC 00 5C 11 87 F4"
     },
@@ -25,7 +49,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11517 H 7200",
+        "frequency": "11518 H 7200",
         "id": "DNK-ORE6",
         "key": "A7 8C DA 0D 2C 63 74 03"
     },
@@ -52,29 +76,5 @@
         "frequency": "10996 V 7500",
         "id": "POL019",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "01 06 26 2D CA E1 41 EC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7120",
-        "id": "Pitch Harlequins v Northampton Saints",
-        "key": "11 12 3E 61 3E 7D 44 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11059 H 7120",
-        "id": "Pitch Gloucester v Newcastle",
-        "key": "EE 77 44 A9 CC AA 77 ED"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11050 H 7120",
-        "id": "Pitch Exeter chiefs v Saracens",
-        "key": "11 CC 09 E6 09 66 55 C4"
     }
 ]
