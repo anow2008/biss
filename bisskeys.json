@@ -1,14 +1,1 @@
-[
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10887 H 16670",
-    "id": "5GEMB",
-    "key": "1D C5 45 27 4A B4 1A 18"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
-    "id": "GVA_Fi06",
-    "key": "1D C5 45 27 4A B4 1A 18"
-  }
-]
+[]
