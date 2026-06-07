@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10722 V 15000",
+        "id": "OVERON 1",
+        "key": "D6 F3 B8 81 DD F9 65 3B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7500",
+        "id": "TUR 112 MAIN",
+        "key": "D6 BD 6F 02 64 BB B3 D2"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12638 V 7200",
         "id": "Fi12_GNVE",
@@ -52,11 +64,5 @@
         "frequency": "10977 V 7200",
         "id": "WDL WF",
         "key": "FB 91 D0 5C 60 7E 65 43"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11523 V 7500",
-        "id": "E-455 MAIN FEED",
-        "key": "46 13 10 69 EB D5 87 47"
     }
 ]
