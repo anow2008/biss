@@ -13,26 +13,8 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12638 V 7200",
-    "id": "Fi12_GNVE",
-    "key": "BC 56 43 55 12 78 AB 35"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10722 V 15000",
-    "id": "OVERON 1",
-    "key": "D6 F3 B8 81 DD F9 65 3B"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10768 V 34000",
-    "id": "Friendly Norway vs Morocco  w/sponsorss",
-    "key": "48 26 35 A3 24 19 37 74"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-077 ENC-1",
-    "key": "AB BA 26 8B DC AE 06 90"
+    "frequency": "12656 V 7200",
+    "id": "Fi13_GNVE",
+    "key": "92 BB C8 15 C2 8B E6 33"
   }
 ]
