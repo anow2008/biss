@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12638 V 7200",
+        "id": "Fi12_GNVE",
+        "key": "BC 56 43 55 12 78 AB 35"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11597 V 7200",
+        "id": "MAIN - E-285",
+        "key": "BC 20 26 02 06 07 CB D8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11047 V 14400",
+        "id": "BUL007 M05 M",
+        "key": "07 F8 B6 B5 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11079 V 7200",
+        "id": "HUN-013 Line 1",
+        "key": "DD 95 36 A8 B2 16 4C 14"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12676 H 7200",
+        "id": "ITA 274 CEV Main",
+        "key": "DC AA FF 85 EE 07 06 FB"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10768 V 34000",
         "id": "Friendly Norway vs Morocco  w/sponsorss",
@@ -13,13 +43,13 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12648 H 9700",
+        "frequency": "12647 H 9700",
         "id": "EHF Final4 Main",
         "key": "FF EB D0 BA 60 7E 45 23"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10978 V 7200",
+        "frequency": "10977 V 7200",
         "id": "WDL WF",
         "key": "FB 91 D0 5C 60 7E 65 43"
     },
@@ -28,47 +58,5 @@
         "frequency": "11523 V 7500",
         "id": "E-455 MAIN FEED",
         "key": "46 13 10 69 EB D5 87 47"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11015 V 9875",
-        "id": "DNK83_enc1_M2",
-        "key": "07 F8 B6 B5 AC 8F 06 41"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10965 V 14400",
-        "id": "WDL Feed C",
-        "key": "FA 91 D0 5B 60 7E 65 43"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11517 H 7200",
-        "id": "DNK-ORE6",
-        "key": "67 62 3E 07 4D D6 73 96"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10829 V 7200",
-        "id": "GCUK Enc 2",
-        "key": "FF 28 D0 F7 60 7E 71 4F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "01 06 26 2D CA E1 41 EC"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 06 90"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10846 V 10000",
-        "id": "GCUK Enc 14",
-        "key": "ED DB 31 F9 11 DC 45 32"
     }
 ]
