@@ -1,43 +1,31 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10965 H 14400",
-    "id": "SUI76-1 M4 MAIN",
-    "key": "07 F8 B6 B5 AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10965 V 14400",
     "id": "WDL Feed A",
     "key": "FA 91 D0 5B 60 7E 65 43"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10978 V 7200",
+    "frequency": "10977 V 7200",
     "id": "WDL WF",
     "key": "FB 91 D0 5C 60 7E 65 43"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10983 H 14400",
+    "frequency": "10982 H 14400",
     "id": "GVA_Fi02",
     "key": "07 F8 B6 B5 AC 8F 06 41"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10998 V 9875",
-    "id": "EST-010 ENC1 MXGP",
-    "key": "13 8A 26 C3 E1 AC 77 04"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11001 H 14400",
+    "frequency": "11000 H 14400",
     "id": "NTF MATCH 03 EUROPE MAIN",
     "key": "07 F8 B6 B5 AC 8F 06 41"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11019 H 14400",
+    "frequency": "11018 H 14400",
     "id": "CRO23 NTF M4 M",
     "key": "07 F8 B6 B5 AC 8F 06 41"
   },
@@ -49,21 +37,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11098 V 7200",
-    "id": "HBL Wetzlar",
-    "key": "20 26 AB F1 DC 07 06 E9"
+    "frequency": "11047 V 14400",
+    "id": "BUL007 M05 M",
+    "key": "07 F8 B6 B5 AC 8F 06 41"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 V 7200",
-    "id": "HBL Berlin",
-    "key": "20 26 CD 13 BA 07 06 C7"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11517 H 7200",
-    "id": "DNK-ORE6",
-    "key": "67 62 3E 07 4D D6 73 96"
+    "frequency": "11079 V 7200",
+    "id": "HUN-013 Line 1",
+    "key": "DD 95 36 A8 B2 16 4C 14"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,19 +61,19 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11580 V 7200",
-    "id": "ENC 1",
-    "key": "05 06 BA C5 CA D1 B3 4E"
+    "frequency": "11597 V 7200",
+    "id": "MAIN - E-285",
+    "key": "BC 20 26 02 06 07 CB D8"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "SLQ 001",
-    "key": "A2 02 60 04 70 6A CB A5"
+    "frequency": "12638 V 7200",
+    "id": "Fi12_GNVE",
+    "key": "BC 56 43 55 12 78 AB 35"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12648 H 9700",
+    "frequency": "12647 H 9700",
     "id": "EHF Final4 Main",
     "key": "FF EB D0 BA 60 7E 45 23"
   },
@@ -103,25 +85,31 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12687 H 7200",
+    "frequency": "12686 H 7200",
     "id": "VRT- ENC9",
     "key": "FF 28 D0 F7 60 7E 71 4F"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12741 H 7200",
+    "id": "Volleyball",
+    "key": "26 CA CA BA 20 07 06 2D"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10722 H 7200",
+    "frequency": "10721 H 7200",
     "id": "GCUK Enc 5",
     "key": "FF DF D0 AE 60 7E 45 23"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10768 V 34000",
-    "id": "Friendly Norway vs Morocco  w/sponsorss",
-    "key": "48 26 35 A3 24 19 37 74"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10819 V 3670",
+    "id": "GCUK Enc 1",
+    "key": "FF 28 D0 F7 60 7E 71 4F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7200",
+    "frequency": "10830 V 7200",
     "id": "GCUK Enc 2",
     "key": "FF 28 D0 F7 60 7E 71 4F"
   },
@@ -139,19 +127,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 06 90"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
     "id": "POL-141 ENC1",
     "key": "01 06 26 2D CA E1 41 EC"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11015 V 9875",
+    "frequency": "11016 V 9875",
     "id": "DNK83_enc1_M2",
     "key": "07 F8 B6 B5 AC 8F 06 41"
   }
