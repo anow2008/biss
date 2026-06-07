@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12656 V 7200",
+        "id": "Fi13_GNVE",
+        "key": "92 BB C8 15 C2 8B E6 33"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11059 H 4938",
         "id": "MNE-001 main",
         "key": "0A 1A 82 A6 3B EA A5 CA"
@@ -46,11 +52,5 @@
         "frequency": "11047 V 14400",
         "id": "BUL007 M05 M",
         "key": "07 F8 B6 B5 AC 8F 06 41"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11079 V 7200",
-        "id": "HUN-013 Line 1",
-        "key": "DD 95 36 A8 B2 16 4C 14"
     }
 ]
