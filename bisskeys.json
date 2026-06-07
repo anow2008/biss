@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11000 H 14400",
-    "id": "NTF MATCH 03 EUROPE MAIN",
-    "key": "07 F8 B6 B5 AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 H 14400",
-    "id": "CRO23 NTF M4 M",
-    "key": "07 F8 B6 B5 AC 8F 06 41"
+    "frequency": "10887 H 16670",
+    "id": "5GEMB",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -36,27 +30,9 @@
     "key": "48 26 35 A3 24 19 37 74"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "GCUK Enc 1",
-    "key": "D6 BD 6F 02 64 BB B3 D2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10828 H 7500",
-    "id": "TUR 112 MAIN",
-    "key": "D6 BD 6F 02 64 BB B3 D2"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10974 V 9600",
     "id": "POL-077 ENC-1",
     "key": "AB BA 26 8B DC AE 06 90"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "01 06 26 2D CA E1 41 EC"
   }
 ]
