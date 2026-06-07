@@ -52,11 +52,5 @@
         "frequency": "11079 V 7200",
         "id": "HUN-013 Line 1",
         "key": "DD 95 36 A8 B2 16 4C 14"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12676 H 7200",
-        "id": "ITA 274 CEV Main",
-        "key": "DC AA FF 85 EE 07 06 FB"
     }
 ]
