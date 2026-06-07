@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10965 V 14400",
+    "frequency": "10964 V 14400",
     "id": "WDL Feed A",
     "key": "FA 91 D0 5B 60 7E 65 43"
   },
@@ -31,7 +31,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7120",
+    "frequency": "11022 V 7120",
     "id": "E-228 Main",
     "key": "23 E4 29 30 9A 24 5E 1C"
   },
@@ -43,33 +43,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11079 V 7200",
-    "id": "HUN-013 Line 1",
-    "key": "DD 95 36 A8 B2 16 4C 14"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11523 V 7500",
-    "id": "E-455 MAIN FEED",
-    "key": "46 13 10 69 EB D5 87 47"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11527 H 7200",
     "id": "LAT-001 M",
     "key": "86 33 69 22 BE 45 A6 A9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11597 V 7200",
-    "id": "MAIN - E-285",
-    "key": "BC 20 26 02 06 07 CB D8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12638 V 7200",
-    "id": "Fi12_GNVE",
-    "key": "BC 56 43 55 12 78 AB 35"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,15 +55,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12676 H 7200",
-    "id": "ITA 274 CEV Main",
-    "key": "DC AA FF 85 EE 07 06 FB"
+    "frequency": "12647 V 7200",
+    "id": "ITA 415 MAIN",
+    "key": "FB 65 D0 30 60 4E 65 13"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12686 H 7200",
-    "id": "VRT- ENC9",
-    "key": "FF 28 D0 F7 60 7E 71 4F"
+    "frequency": "12676 H 7200",
+    "id": "ITA 274 CEV Main",
+    "key": "DC AA FF 85 EE 07 06 FB"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -102,16 +78,28 @@
     "key": "FF DF D0 AE 60 7E 45 23"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 V 3670",
-    "id": "GCUK Enc 1",
-    "key": "FF 28 D0 F7 60 7E 71 4F"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10722 V 15000",
+    "id": "OVERON 1",
+    "key": "D6 F3 B8 81 DD F9 65 3B"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10768 V 34000",
+    "id": "Friendly Norway vs Morocco  w/sponsorss",
+    "key": "48 26 35 A3 24 19 37 74"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "GCUK Enc 2",
-    "key": "FF 28 D0 F7 60 7E 71 4F"
+    "frequency": "10818 V 3670",
+    "id": "GCUK Enc 1",
+    "key": "D6 BD 6F 02 64 BB B3 D2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10828 H 7500",
+    "id": "TUR 112 MAIN",
+    "key": "D6 BD 6F 02 64 BB B3 D2"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -120,10 +108,10 @@
     "key": "ED DB 31 F9 11 DC 45 32"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12597 V 9600",
-    "id": "NLEMG HOL219-1",
-    "key": "C6 C6 46 D2 8D 98 4E 73"
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
+    "id": "POL - 054 Kielce",
+    "key": "AB BA 26 8B DC AE 06 90"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
