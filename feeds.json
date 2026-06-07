@@ -46,11 +46,5 @@
         "frequency": "11597 V 7200",
         "id": "MAIN - E-285",
         "key": "BC 20 26 02 06 07 CB D8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11047 V 14400",
-        "id": "BUL007 M05 M",
-        "key": "07 F8 B6 B5 AC 8F 06 41"
     }
 ]
