@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11059 H 4938",
+        "id": "MNE-001 main",
+        "key": "0A 1A 82 A6 3B EA A5 CA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11088 H 7200",
+        "id": "Fi01 ACB",
+        "key": "C4 71 88 BD F0 8D 24 A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12638 V 7200",
+        "id": "Fi12_GNVE",
+        "key": "BC 56 43 55 12 78 AB 35"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12647 V 7200",
+        "id": "ITA 415 MAIN",
+        "key": "FB 65 D0 30 60 4E 65 13"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10722 V 15000",
+        "id": "OVERON 1",
+        "key": "D6 F3 B8 81 DD F9 65 3B"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "10768 V 34000",
         "id": "Friendly Norway vs Morocco  w/sponsorss",
