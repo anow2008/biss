@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11059 H 4938",
+        "id": "MNE-001 main",
+        "key": "0A 1A 82 A6 3B EA A5 CA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11088 H 7200",
+        "id": "Fi01 ACB",
+        "key": "C4 71 88 BD F0 8D 24 A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10722 V 15000",
         "id": "OVERON 1",
@@ -40,29 +58,5 @@
         "frequency": "12676 H 7200",
         "id": "ITA 274 CEV Main",
         "key": "DC AA FF 85 EE 07 06 FB"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "Friendly Norway vs Morocco  w/sponsorss",
-        "key": "48 26 35 A3 24 19 37 74"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "SLQ 001",
-        "key": "A2 02 60 04 70 6A CB A5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12647 H 9700",
-        "id": "EHF Final4 Main",
-        "key": "FF EB D0 BA 60 7E 45 23"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10977 V 7200",
-        "id": "WDL WF",
-        "key": "FB 91 D0 5C 60 7E 65 43"
     }
 ]
