@@ -1,74 +1,74 @@
 [
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10995 V 7200",
-        "id": "WSHT ENC53 - UFC",
-        "key": "33 AB 68 46 29 CD 31 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11013 V 4938",
-        "id": "YSM-021M",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11043 V 7200",
-        "id": "Medialink CRO-025/1",
-        "key": "06 06 AB B7 CD 20 26 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12575 H 9600",
-        "id": "SUI 066 A",
-        "key": "B8 0D 7C 41 8E F9 5E E5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10961 H 9875",
-        "id": "Cloudbass",
-        "key": "D2 10 AF 91 B7 97 63 B1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12574 H 7200",
-        "id": "Fi01 ACB",
-        "key": "ED 40 06 33 26 2A E4 34"
-    },
-    {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11250 H 14400",
-        "id": "F489 MAIN",
-        "key": "FE ED 20 0B 26 99 12 D1"
+        "frequency": "10768 V 34000",
+        "id": "Friendly Norway vs Morocco  w/sponsorss",
+        "key": "48 26 35 A3 24 19 37 74"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12565 H 7200",
+        "id": "SLQ 001",
+        "key": "A2 02 60 04 70 6A CB A5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12648 H 9700",
+        "id": "EHF Final4 Main",
+        "key": "FF EB D0 BA 60 7E 45 23"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10978 V 7200",
+        "id": "WDL WF",
+        "key": "FB 91 D0 5C 60 7E 65 43"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11523 V 7500",
+        "id": "E-455 MAIN FEED",
+        "key": "46 13 10 69 EB D5 87 47"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11015 V 9875",
+        "id": "DNK83_enc1_M2",
+        "key": "07 F8 B6 B5 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10965 V 14400",
+        "id": "WDL Feed C",
+        "key": "FA 91 D0 5B 60 7E 65 43"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11517 H 7200",
+        "id": "DNK-ORE6",
+        "key": "67 62 3E 07 4D D6 73 96"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10829 V 7200",
+        "id": "GCUK Enc 2",
+        "key": "FF 28 D0 F7 60 7E 71 4F"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "01 06 26 2D CA E1 41 EC"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10974 V 9600",
-        "id": "POL-55 ENC2",
+        "id": "POL - 054 Kielce",
         "key": "AB BA 26 8B DC AE 06 90"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10722 V 15000",
-        "id": "OVERON 1",
-        "key": "CD A1 FF 6D A6 26 06 D2"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7500",
-        "id": "TUR 112 MAIN",
-        "key": "C7 31 14 0C 28 4F 5E D5"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10801 H 7200",
-        "id": "GCUK Enc 2",
-        "key": "CE 27 DE D3 F2 26 12 2A"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10768 V 34000",
-        "id": "Friendly Turkey vs Venezuela",
-        "key": "42 53 96 2B 85 06 04 8F"
+        "frequency": "10846 V 10000",
+        "id": "GCUK Enc 14",
+        "key": "ED DB 31 F9 11 DC 45 32"
     }
 ]
