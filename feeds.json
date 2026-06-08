@@ -1,50 +1,38 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 V 7200",
-        "id": "Fi13_GNVE",
-        "key": "92 BB C8 15 C2 8B E6 33"
+        "frequency": "12690 V 30000",
+        "id": "WWE WORLD P2S2B",
+        "key": "06 08 26 34 06 08 26 34"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11059 H 4938",
-        "id": "MNE-001 main",
-        "key": "0A 1A 82 A6 3B EA A5 CA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11088 H 7200",
-        "id": "Fi01 ACB",
-        "key": "C4 71 88 BD F0 8D 24 A1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 V 7500",
-        "id": "ENC 3",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10722 V 15000",
-        "id": "OVERON 1",
-        "key": "D6 F3 B8 81 DD F9 65 3B"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11016 V 9875",
+        "id": "F563/FLY4/Encoder 4.8/MATCH 01 EUROPE/FEED A MAIN",
+        "key": "08 F8 B6 B6 AC 8F 06 41"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7500",
-        "id": "TUR 112 MAIN",
-        "key": "D6 BD 6F 02 64 BB B3 D2"
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12638 V 7200",
-        "id": "Fi12_GNVE",
-        "key": "BC 56 43 55 12 78 AB 35"
+        "frequency": "12736 V 7200",
+        "id": "enc-22",
+        "key": "12 3C AA F8 14 22 A3 D9"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11597 V 7200",
-        "id": "MAIN - E-285",
-        "key": "BC 20 26 02 06 07 CB D8"
+        "frequency": "11023 V 7120",
+        "id": "E-228 Main",
+        "key": "23 E4 29 30 9A 24 5E 1C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11010 V 9875",
+        "id": "OER/F525/3/TARA INTER MAIN",
+        "key": "41 7D 66 24 CB 63 CA F8"
     }
 ]
