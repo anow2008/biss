@@ -1,8 +1,20 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 V 7500",
+        "id": "DT SNG 2 MAIN",
+        "key": "15 28 65 A2 C1 1B 46 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-080 MAIN",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12690 V 30000",
-        "id": "WWE WORLD P2S2B",
+        "id": "WWE WORLD P2S2P",
         "key": "06 08 26 34 06 08 26 34"
     },
     {
@@ -16,23 +28,5 @@
         "frequency": "11039 H 4938",
         "id": "EBU 1 ENC",
         "key": "D5 4B A7 C7 90 0D 11 AE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "enc-22",
-        "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11023 V 7120",
-        "id": "E-228 Main",
-        "key": "23 E4 29 30 9A 24 5E 1C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11010 V 9875",
-        "id": "OER/F525/3/TARA INTER MAIN",
-        "key": "41 7D 66 24 CB 63 CA F8"
     }
 ]
