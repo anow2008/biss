@@ -13,39 +13,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 7120",
-    "id": "E-228 Main",
-    "key": "23 E4 29 30 9A 24 5E 1C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
     "id": "POL-080 MAIN",
     "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12690 V 30000",
-    "id": "WWE PROGRAM P2S1P",
-    "key": "06 08 26 34 06 08 26 34"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "enc-22",
     "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7000",
-    "id": "Apple",
-    "key": "15 28 65 A2 C1 1B 46 22"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 V 7500",
-    "id": "DT SNG 2 MAIN",
-    "key": "15 28 65 A2 C1 1B 46 22"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
