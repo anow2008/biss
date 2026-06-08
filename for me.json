@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL-080 MAIN",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12690 V 30000",
+        "id": "WWE PROGRAM P2S1P",
+        "key": "06 08 26 34 06 08 26 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 V 7500",
+        "id": "DT SNG 2 MAIN",
+        "key": "15 28 65 A2 C1 1B 46 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10965 H 14400",
         "id": "GVA_Fi01",
         "key": "08 F8 B6 B6 AC 8F 06 41"
