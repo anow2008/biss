@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12727 V 7500",
+        "id": "Jordan-Hare Stadium - Auburn, AL SVC 3",
+        "key": "AA 81 74 9F 53 23 AA 20"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 1",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10959 V 7200",
         "id": "ISRUV enc 1",
         "key": "DE 2F 73 80 CA 34 21 1F"
