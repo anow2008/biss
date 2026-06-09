@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11022 V 7200",
+        "id": "Fi01 ACB",
+        "key": "F8 DF 32 09 3E BA 07 FF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11579 V 7200",
+        "id": "2Sat HOL89 Main",
+        "key": "09 DA F8 DB 9D EB 06 8E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11588 V 7200",
+        "id": "SLO-008 Tx 1",
+        "key": "08 75 72 EF 54 4E 4C EE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12565 H 7200",
+        "id": "SWE-041 SWE-ITA",
+        "key": "AC 32 A1 7F 1E 24 2C 6E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12647 V 7120",
+        "id": "Women's World Cup Qualifiers - Sweden v Italy",
+        "key": "AA FF CC 75 DE 09 06 ED"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12678 H 7200",
+        "id": "INTER DIRTY FRANCE VS IRLANDE FOOT FEMININ FTV GRENOBLE",
+        "key": "AC DB 09 90 06 CA BD 8D"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10723 V 15000",
+        "id": "OVERON 1",
+        "key": "DE 89 EF 56 BA 32 22 0E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11015 V 7200",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10965 H 14400",
         "id": "ARM-MOL-E363M",
         "key": "09 F8 B6 B7 AC 8F 06 41"
