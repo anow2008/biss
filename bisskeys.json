@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10965 V 4938",
+    "id": "Fi03_BEVRT_NATO2",
+    "key": "09 F8 B6 B7 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10965 H 14400",
+    "id": "ARM-MOL-E363M",
+    "key": "09 F8 B6 B7 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10983 H 14400",
+    "id": "UKI-1324 -1 - M02",
+    "key": "09 F8 B6 B7 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11001 H 14400",
+    "id": "HUN-022-1 UNLM",
+    "key": "09 F8 B6 B7 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11010 V 9875",
+    "id": "OER/F525/3/TARA INTER MAIN",
+    "key": "41 7D 66 24 CB 63 CA F8"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11019 H 14400",
+    "id": "EST-010 NTF M4 Main",
+    "key": "09 F8 B6 B7 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11065 V 14400",
+    "id": "BER-004 - 1",
+    "key": "09 F8 B6 B7 AC 8F 06 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11588 V 7200",
+    "id": "SLO-008 Tx 1",
+    "key": "08 75 72 EF 54 4E 4C EE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10829 H 7200",
+    "id": "Queens Tennis B-Up",
+    "key": "BC 31 9B 88 BA 87 4C 8D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11051 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10971 V 4800",
+    "id": "POL 030",
+    "key": "AB BA 26 8B DC AE 06 90"
+  }
+]
