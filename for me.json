@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10959 V 7200",
+        "id": "ISRUV enc 1",
+        "key": "DE 2F 73 80 CA 34 21 1F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11089 H 4938",
+        "id": "ORA - ANA",
+        "key": "CB CA CC 61 A2 A5 67 AE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11106 H 7200",
+        "id": "MAIN - E-285",
+        "key": "0D F6 33 36 D0 C5 F4 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11106 V 7120",
+        "id": "Women's World Cup Qualifiers - England v Ukraine",
+        "key": "CC DE AA 54 FF 09 06 0E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12741 H 7120",
+        "id": "RBM TV",
+        "key": "A5 B1 7C D2 A3 9C D4 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11022 V 7200",
         "id": "Fi01 ACB",
         "key": "F8 DF 32 09 3E BA 07 FF"
