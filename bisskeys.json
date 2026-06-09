@@ -1,20 +1,20 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10959 V 7200",
+    "id": "ISRUV enc 1",
+    "key": "DE 2F 73 80 CA 34 21 1F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10982 H 14400",
     "id": "UKI-1324 -1 - M02",
     "key": "09 F8 B6 B7 AC 8F 06 41"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11001 H 14400",
+    "frequency": "11000 H 14400",
     "id": "HUN-022-1 UNLM",
-    "key": "09 F8 B6 B7 AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11019 H 14400",
-    "id": "EST-010 NTF M4 Main",
     "key": "09 F8 B6 B7 AC 8F 06 41"
   },
   {
@@ -25,33 +25,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11065 V 14400",
-    "id": "BER-004 - 1",
-    "key": "09 F8 B6 B7 AC 8F 06 41"
+    "frequency": "11089 H 4938",
+    "id": "ORA - ANA",
+    "key": "CB CA CC 61 A2 A5 67 AE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11579 V 7200",
-    "id": "2Sat HOL89 Main",
-    "key": "09 DA F8 DB 9D EB 06 8E"
+    "frequency": "11106 H 7200",
+    "id": "MAIN - E-285",
+    "key": "0D F6 33 36 D0 C5 F4 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11588 V 7200",
-    "id": "SLO-008 Tx 1",
-    "key": "08 75 72 EF 54 4E 4C EE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "SWE-041 SWE-ITA",
-    "key": "AC 32 A1 7F 1E 24 2C 6E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12647 V 7120",
-    "id": "Women's World Cup Qualifiers - Sweden v Italy",
-    "key": "AA FF CC 75 DE 09 06 ED"
+    "frequency": "11106 V 7120",
+    "id": "Women's World Cup Qualifiers - England v Ukraine",
+    "key": "CC DE AA 54 FF 09 06 0E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -60,8 +48,14 @@
     "key": "AC DB 09 90 06 CA BD 8D"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12741 H 7120",
+    "id": "RBM TV",
+    "key": "A5 B1 7C D2 A3 9C D4 13"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10723 V 15000",
+    "frequency": "10722 V 15000",
     "id": "OVERON 1",
     "key": "DE 89 EF 56 BA 32 22 0E"
   },
