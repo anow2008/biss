@@ -1,20 +1,62 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11015 V 7200",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11010 V 9875",
-        "id": "OER/F525/3/TARA INTER MAIN",
-        "key": "41 7D 66 24 CB 63 CA F8"
+        "frequency": "12647 V 7120",
+        "id": "Womens World Cup Qualifiers - Sweden v Italy",
+        "key": "AA FF CC 75 DE 09 06 ED"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10977 V 4800",
+        "id": "pol-053_enc2",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11588 V 7200",
+        "id": "SLO-008 Tx 1",
+        "key": "08 75 72 EF 54 4E 4C EE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11579 V 7200",
+        "id": "2Sat HOL89 Main",
+        "key": "09 DA F8 DB 9D EB 06 8E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12575 H 9700",
+        "id": "F634/1/LE MANS BIF",
+        "key": "AB FB 20 C6 25 06 10 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12565 H 7200",
+        "id": "SWE-041 SWE-ITA",
+        "key": "AC 32 A1 7F 1E 24 2C 6E"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7500",
-        "id": "DT SNG 2 MAIN",
-        "key": "15 28 65 A2 C1 1B 46 22"
+        "frequency": "10828 H 7200",
+        "id": "Queens Tennis B-Up",
+        "key": "BC 31 9B 88 BA 87 4C 8D"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12593 V 7200",
-        "id": "POL-080 MAIN",
-        "key": "15 58 35 A2 71 42 63 16"
+        "frequency": "11019 H 14400",
+        "id": "EST-010 NTF M4 Main",
+        "key": "09 F8 B6 B7 AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
     }
 ]
