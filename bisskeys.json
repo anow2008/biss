@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12574 H 9700",
-    "id": "F634/1/LE MANS BIF",
-    "key": "AB FB 20 C6 25 06 11 3C"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10722 V 15000",
-    "id": "OVERON 1",
-    "key": "C0 58 B2 CA CA 8C 99 EF"
+    "frequency": "12610 V 4600",
+    "id": "AP LDN UPA",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -28,18 +22,6 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11066 V 14400",
-    "id": "E-95 MAIN",
-    "key": "10 F8 B6 BE AC 8F 06 41"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11131 H 14400",
-    "id": "LEUK_Fi02",
-    "key": "10 F8 B6 BE AC 8F 06 41"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
