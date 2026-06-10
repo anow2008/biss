@@ -36,12 +36,6 @@
         "key": "FA 91 D0 5B 61 0E 65 D4"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7500",
-        "id": "TUR139-Main",
-        "key": "F0 ED 1C F9 6B 56 B6 77"
-    },
-    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12593 V 7200",
         "id": "POL-080 MAIN",
