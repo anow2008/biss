@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12575 H 9700",
+        "id": "F634/1/LE MANS BIF",
+        "key": "AB FB 20 C6 25 06 11 3C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12650 H 7120",
+        "id": "E-228 Main",
+        "key": "23 E4 29 30 9A 24 5E 1C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10828 H 7200",
+        "id": "Queens Tennis BackUp",
+        "key": "BC 31 9B 88 BA 87 4C 8D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11067 V 14400",
+        "id": "E-95 MAIN",
+        "key": "10 F8 B6 BE AC 8F 06 41"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11039 H 4938",
         "id": "EBU 1 ENC",
