@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12575 H 9700",
+        "id": "F634/1/LE MANS BIF",
+        "key": "AB FB 20 C6 25 06 11 3C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7200",
+        "id": "Queens Tennis BackUp",
+        "key": "BC 31 9B 88 BA 87 4C 8D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12650 H 7120",
+        "id": "E-228 Main",
+        "key": "23 E4 29 30 9A 24 5E 1C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12737 V 7200",
+        "id": "GM",
+        "key": "EF AC 12 AD 99 03 6A 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12677 V 7120",
         "id": "Pitch International Football - Argentina v Iceland",
         "key": "33 21 DD 31 CC 24 22 12"
@@ -16,65 +46,5 @@
         "frequency": "12727 V 7500",
         "id": "Jordan-Hare Stadium - Auburn AL SVC 3",
         "key": "AA 81 74 9F 53 23 AA 20"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 1",
-        "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12741 H 7120",
-        "id": "RBM TV",
-        "key": "A5 B1 7C D2 A3 9C D4 13"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11106 V 7120",
-        "id": "Womens World Cup Qualifiers - England v Ukraine",
-        "key": "CC DE AA 54 FF 09 06 0E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10959 V 7200",
-        "id": "ISRUV enc 1",
-        "key": "DE 2F 73 80 CA 34 21 1F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11106 H 7200",
-        "id": "MAIN - E-285",
-        "key": "0D F6 33 36 D0 C5 F4 89"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11089 H 4938",
-        "id": "ORA - ANA",
-        "key": "CB CA CC 61 A2 A5 67 AE"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10722 V 15000",
-        "id": "OVERON 1",
-        "key": "DE 89 EF 56 BA 32 22 0E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 V 7200",
-        "id": "Fi01 ACB",
-        "key": "F8 DF 32 09 3E BA 07 FF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 H 7200",
-        "id": "INTER DIRTY FRANCE VS IRLANDE FOOT FEMININ FTV GRENOBLE",
-        "key": "AC DB 09 90 06 CA BD 8D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11015 V 7200",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
     }
 ]
