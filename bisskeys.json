@@ -1,27 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "IKOMG",
-    "key": "33 21 DD 31 CC 24 22 12"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7120",
-    "id": "Pitch International Football - Argentina v Iceland",
-    "key": "33 21 DD 31 CC 24 22 12"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 1",
-    "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10758 V 15000",
-    "id": "Friendly Saudi Arabia vs Senegal",
-    "key": "45 45 DD 67 BB 23 78 56"
+    "frequency": "12610 V 4600",
+    "id": "AP LDN UPA",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
