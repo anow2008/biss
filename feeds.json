@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11630 H 9875",
+        "id": "OER/F525/3/TARA INTER MAIN",
+        "key": "41 7D 66 24 CB 63 CA F8"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10977 V 4800",
+        "id": "POL - 054 Kielce",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11149 H 14400",
+        "id": "LEUK_Fi01",
+        "key": "10 F8 B6 BE AC 8F 06 41"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11080 V 7200",
+        "id": "BEL 69",
+        "key": "8E 3A D9 A1 55 2C 95 16"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11020 V 7200",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10847 V 7200",
+        "id": "GCUK Enc 3",
+        "key": "20 26 AD F3 BC 1A 2B 01"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12575 H 9700",
         "id": "F634/1/LE MANS BIF",
@@ -7,7 +43,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7200",
+        "frequency": "10829 H 7200",
         "id": "Queens Tennis BackUp",
         "key": "BC 31 9B 88 BA 87 4C 8D"
     },
@@ -25,26 +61,8 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
+        "frequency": "11051 H 4938",
         "id": "EBU 3 ENC",
         "key": "D5 4B A7 C7 90 0D 11 AE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7120",
-        "id": "Pitch International Football - Argentina v Iceland",
-        "key": "33 21 DD 31 CC 24 22 12"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10758 V 15000",
-        "id": "Friendly Saudi Arabia vs Senegal",
-        "key": "45 45 DD 67 BB 23 78 56"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12727 V 7500",
-        "id": "Jordan-Hare Stadium - Auburn AL SVC 3",
-        "key": "AA 81 74 9F 53 23 AA 20"
     }
 ]
