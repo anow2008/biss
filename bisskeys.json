@@ -6,18 +6,6 @@
     "key": "34 5A 3F CD 2F 1A D8 21"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11518 V 15000",
-    "id": "ESPN MAIN",
-    "key": "11 12 F3 16 18 13 14 3F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12575 H 9700",
-    "id": "F634/1/LE MANS BIF",
-    "key": "AB FB 20 C6 25 06 12 3D"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
