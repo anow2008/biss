@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11519 V 15000",
+        "id": "ESPN MAIN",
+        "key": "11 12 F3 16 18 13 14 3F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12565 H 7200",
+        "id": "F634/1/LE MANS UNIL+FERRARI+HIGHTLIGHT",
+        "key": "AB 65 CA DA FE FF 78 75"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12638 H 9600",
+        "id": "SUI 066 A",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12650 H 7120",
+        "id": "E-228 Main",
+        "key": "23 E4 29 30 9A 24 5E 1C"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11247 H 7200",
+        "id": "MLT-001 MAIN",
+        "key": "F6 B8 D9 87 E3 A5 C7 4F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12575 H 9700",
         "id": "F634/1/LE MANS BIF",
         "key": "AB FB 20 C6 25 06 12 3D"
