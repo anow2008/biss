@@ -1,15 +1,27 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12538 V 7200",
-    "id": "TVN D-564 Enc I ECB",
-    "key": "AB FB 20 C6 25 06 12 3D"
+    "frequency": "11106 H 7200",
+    "id": "SERVICE 2",
+    "key": "11 12 F3 16 18 13 14 3F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12575 H 9700",
-    "id": "F634/1/LE MANS BIF",
-    "key": "AB FB 20 C6 25 06 12 3D"
+    "frequency": "11519 V 15000",
+    "id": "ESPN MAIN",
+    "key": "11 12 F3 16 18 13 14 3F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12565 H 7200",
+    "id": "F634/1/LE MANS UNIL+FERRARI+HIGHTLIGHT",
+    "key": "AB 65 CA DA FE FF 78 75"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12638 H 9600",
+    "id": "SUI 066 A",
+    "key": "B8 0D 7C 41 8E F9 5E E5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -24,45 +36,33 @@
     "key": "EF AC 12 AD 99 03 6A 06"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11246 H 7200",
+    "id": "MLT-001 MAIN",
+    "key": "F6 B8 D9 87 E3 A5 C7 4F"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 H 7200",
+    "frequency": "10828 H 7200",
     "id": "Queens Tennis BackUp",
     "key": "BC 31 9B 88 BA 87 4C 8D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11630 H 9875",
-    "id": "OER/F525/3/TARA INTER MAIN",
-    "key": "41 7D 66 24 CB 63 CA F8"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 V 4800",
-    "id": "POL-077 ENC-1",
-    "key": "AB BA 26 8B DC AE 06 90"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL047 TVN WAW",
-    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
