@@ -1,8 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
-    "id": "IMG A EU",
+    "frequency": "10960 V 7200",
+    "id": "ATLAS-SAT SNG 1",
+    "key": "34 5A 3F CD 2F 1A D8 21"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
+    "id": "T20 ENG v SL Enc 1",
     "key": "34 5A 3F CD 2F 1A D8 21"
   },
   {
@@ -13,9 +19,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11607 V 7120",
+    "frequency": "11579 V 7200",
+    "id": "ENC 4",
+    "key": "05 06 BA C5 CA D1 B3 4E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11592 V 14400",
+    "id": "TEST PRINCIPAL LES CAPITAINES GOLF C+",
+    "key": "F5 78 FE 6B ED 12 13 12"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11606 V 7120",
     "id": "EDM HD ENC-1",
     "key": "B2 C5 D3 4A E6 F4 A7 81"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12535 V 7200",
+    "id": "YSM-021M",
+    "key": "AA 7B DF 04 5F AA 05 0E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,38 +55,44 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11630 H 9875",
-    "id": "OER/F525/3/TARA INTER MAIN",
-    "key": "41 7D 66 24 CB 63 CA F8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12552 H 9875",
-    "id": "WSBK MISANO",
-    "key": "C3 2A B3 A0 11 BA ED B8"
+    "frequency": "11062 V 7200",
+    "id": "Fi09_GNVE",
+    "key": "47 06 62 AF 0D B1 43 01"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL 48 ENC1",
-    "key": "AB BA 26 8B DC AE 06 90"
+    "frequency": "11054 H 7200",
+    "id": "CZE 001/2",
+    "key": "AA 18 58 1A 7F 0F AF 3D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11126 H 7200",
+    "id": "YLE-006",
+    "key": "AA 18 58 1A 7F 0F AF 3D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12574 H 7200",
+    "id": "HUN-013 Line 1",
+    "key": "A7 C2 10 79 B8 EE BE 64"
   }
 ]
