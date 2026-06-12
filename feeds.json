@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 H 7120",
+        "id": "Pitch Gallagher Rugby Northampton v Leicester",
+        "key": "81 E1 7D DF DC 12 12 00"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11012 V 4938",
         "id": "YSM-016 MAIN",
@@ -7,7 +13,7 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
+        "frequency": "10976 V 4800",
         "id": "POL-033 out1",
         "key": "AB BA 26 8B DC AE 06 90"
     },
@@ -28,12 +34,6 @@
         "frequency": "12565 H 7200",
         "id": "ICC WT20 test",
         "key": "71 55 29 EF FF B6 4A FF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11682 V 2500",
-        "id": "",
-        "key": "12 34 51 97 23 45 12 7A"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
@@ -76,11 +76,5 @@
         "frequency": "11062 V 7200",
         "id": "Fi09_GNVE",
         "key": "47 06 62 AF 0D B1 43 01"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11579 V 7200",
-        "id": "ENC 4",
-        "key": "05 06 BA C5 CA D1 B3 4E"
     }
 ]
