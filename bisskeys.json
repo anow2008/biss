@@ -1,19 +1,13 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "ATLAS-SAT SNG 1",
-    "key": "34 5A 3F CD 2F 1A D8 21"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "T20 ENG v SL Enc 1",
     "key": "34 5A 3F CD 2F 1A D8 21"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11519 V 15000",
+    "frequency": "11518 V 15000",
     "id": "ESPN MAIN",
     "key": "11 12 F3 16 18 13 14 3F"
   },
@@ -25,15 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11592 V 14400",
-    "id": "TEST PRINCIPAL LES CAPITAINES GOLF C+",
-    "key": "F5 78 FE 6B ED 12 13 12"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7120",
-    "id": "EDM HD ENC-1",
-    "key": "B2 C5 D3 4A E6 F4 A7 81"
+    "frequency": "11682 V 2500",
+    "id": "K24_11681_BISS",
+    "key": "12 34 51 97 23 45 12 7A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -42,14 +30,14 @@
     "key": "AA 7B DF 04 5F AA 05 0E"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "GM",
-    "key": "EF AC 12 AD 99 03 6A 06"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11246 H 7200",
+    "id": "MLT-001 MAIN",
+    "key": "F6 B8 D9 87 E3 A5 C7 4F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 H 7200",
+    "frequency": "10828 H 7200",
     "id": "Queens Tennis BackUp",
     "key": "BC 31 9B 88 BA 87 4C 8D"
   },
@@ -78,21 +66,27 @@
     "key": "47 06 62 AF 0D B1 43 01"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11054 H 7200",
-    "id": "CZE 001/2",
-    "key": "AA 18 58 1A 7F 0F AF 3D"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11088 V 7200",
+    "id": "Fi01 ACB",
+    "key": "FA C2 C6 82 B7 24 1D F8"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11194 V 7200",
+    "id": "E-95 MAIN",
+    "key": "3F 8A 8C 55 F9 88 34 B5"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11126 H 7200",
-    "id": "YLE-006",
-    "key": "AA 18 58 1A 7F 0F AF 3D"
+    "frequency": "10977 V 4800",
+    "id": "POL-033 out1",
+    "key": "AB BA 26 8B DC AE 06 90"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12574 H 7200",
-    "id": "HUN-013 Line 1",
-    "key": "A7 C2 10 79 B8 EE BE 64"
+    "frequency": "11012 V 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
