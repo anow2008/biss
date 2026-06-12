@@ -1,1 +1,68 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "34 5A 3F CD 2F 1A D8 21"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11519 V 15000",
+        "id": "ESPN MAIN",
+        "key": "11 12 F3 16 18 13 14 3F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11527 H 7200",
+        "id": "EST-010 ENC4 CEV",
+        "key": "95 4E 3E 21 8D 8E C8 E3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11607 V 7120",
+        "id": "EDM HD ENC-1",
+        "key": "B2 C5 D3 4A E6 F4 A7 81"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "GM",
+        "key": "EF AC 12 AD 99 03 6A 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10829 H 7200",
+        "id": "Queens Tennis BackUp",
+        "key": "BC 31 9B 88 BA 87 4C 8D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11631 H 9875",
+        "id": "OER/F525/3/TARA INTER MAIN",
+        "key": "41 7D 66 24 CB 63 CA F8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12552 H 9875",
+        "id": "WSBK MISANO",
+        "key": "C3 2A B3 A0 11 BA ED B8"
+    }
+]
