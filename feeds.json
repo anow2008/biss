@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11012 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10977 V 4800",
+        "id": "POL-033 out1",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11194 V 7200",
+        "id": "E-95 MAIN",
+        "key": "3F 8A 8C 55 F9 88 34 B5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11088 V 7200",
+        "id": "Fi01 ACB",
+        "key": "FA C2 C6 82 B7 24 1D F8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12565 H 7200",
+        "id": "ICC WT20 test",
+        "key": "71 55 29 EF FF B6 4A FF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11682 V 2500",
+        "id": "",
+        "key": "12 34 51 97 23 45 12 7A"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11246 H 7200",
+        "id": "MLT-001 MAIN",
+        "key": "F6 B8 D9 87 E3 A5 C7 4F"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11592 V 14400",
         "id": "TEST PRINCIPAL LES CAPITAINES GOLF C",
@@ -19,7 +61,7 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11126 H 7200",
+        "frequency": "11127 H 7200",
         "id": "YLE-006",
         "key": "AA 18 58 1A 7F 0F AF 3D"
     },
@@ -40,17 +82,5 @@
         "frequency": "11579 V 7200",
         "id": "ENC 4",
         "key": "05 06 BA C5 CA D1 B3 4E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11527 H 7200",
-        "id": "EST-010 ENC4 CEV",
-        "key": "95 4E 3E 21 8D 8E C8 E3"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11630 H 9875",
-        "id": "OER/F525/3/TARA INTER MAIN",
-        "key": "41 7D 66 24 CB 63 CA F8"
     }
 ]
