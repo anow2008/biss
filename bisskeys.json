@@ -13,21 +13,27 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11579 V 7200",
-    "id": "ENC 4",
-    "key": "05 06 BA C5 CA D1 B3 4E"
+    "frequency": "11606 V 7200",
+    "id": "E-285 BCKUP",
+    "key": "AB BA 20 85 26 06 12 3E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11682 V 2500",
+    "frequency": "11681 V 2500",
     "id": "K24_11681_BISS",
     "key": "12 34 51 97 23 45 12 7A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12535 V 7200",
-    "id": "YSM-021M",
-    "key": "AA 7B DF 04 5F AA 05 0E"
+    "frequency": "12685 H 7200",
+    "id": "HEXAGONE MMA LYON RMC",
+    "key": "F4 86 62 DC 02 60 21 83"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "GM",
+    "key": "EF AC 12 AD 99 03 6A 06"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -37,9 +43,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10828 H 7200",
-    "id": "Queens Tennis BackUp",
-    "key": "BC 31 9B 88 BA 87 4C 8D"
+    "frequency": "10839 H 7120",
+    "id": "Pitch Gallagher Rugby Northampton v Leicester",
+    "key": "81 E1 7D DF DC 12 12 00"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -61,12 +67,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11062 V 7200",
-    "id": "Fi09_GNVE",
-    "key": "47 06 62 AF 0D B1 43 01"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11088 V 7200",
     "id": "Fi01 ACB",
     "key": "FA C2 C6 82 B7 24 1D F8"
@@ -76,12 +76,6 @@
     "frequency": "11194 V 7200",
     "id": "E-95 MAIN",
     "key": "3F 8A 8C 55 F9 88 34 B5"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "POL-033 out1",
-    "key": "AB BA 26 8B DC AE 06 90"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
