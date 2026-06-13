@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 V 7200",
+    "id": "ATLAS-SAT SNG 1",
+    "key": "71 55 29 EF FF B6 4A FF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
+    "id": "ICC WT20 double header",
+    "key": "71 55 29 EF FF B6 4A FF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12575 H 9700",
+    "id": "F634/1/LE MANS BIF",
+    "key": "20 25 DC 21 FB 21 25 41"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12640 H 7200",
+    "id": "NLEMG HOL312-1",
+    "key": "11 11 AA CC F1 88 94 0D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12649 H 7120",
+    "id": "E-228 Main",
+    "key": "23 E4 29 30 9A 24 5E 1C"
+  }
+]
