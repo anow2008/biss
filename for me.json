@@ -1,1 +1,116 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "ICC WT20 double header",
+        "key": "71 55 29 EF FF B6 4A FF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11097 H 7200",
+        "id": "SLQ 008 M",
+        "key": "13 06 BD D6 AE 54 94 96"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11106 H 7200",
+        "id": "BAV",
+        "key": "FD 79 EE 64 1A C2 BB 97"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11519 V 15000",
+        "id": "ESPN MAIN",
+        "key": "11 12 F3 16 18 13 14 3F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11570 V 7200",
+        "id": "main - E285",
+        "key": "AB BA 20 85 26 06 13 3F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11592 V 14400",
+        "id": "TEST PRINCIPAL LES CAPITAINES GOLF C+",
+        "key": "F5 78 FE 6B ED 12 13 12"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "YSM-021M",
+        "key": "AA 7B DF 04 5F AA 05 0E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12575 H 9700",
+        "id": "F634/1/LE MANS BIF",
+        "key": "20 25 DC 21 FB 21 25 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12631 V 9700",
+        "id": "EHF Final4 Main",
+        "key": "FF 74 D0 43 61 3E 44 E3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12640 H 7200",
+        "id": "NLEMG HOL312-1",
+        "key": "11 11 AA CC F1 88 94 0D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12649 H 7120",
+        "id": "E-228 Main",
+        "key": "23 E4 29 30 9A 24 5E 1C"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11246 H 7200",
+        "id": "MLT-001 MAIN",
+        "key": "F6 B8 D9 87 E3 A5 C7 4F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10828 H 7200",
+        "id": "Queens Tennis B-Up",
+        "key": "BC 31 9B 88 BA 87 4C 8D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7500",
+        "id": "DT SNG 2 Backup",
+        "key": "62 93 6C 61 B7 C5 C4 40"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7200",
+        "id": "Fi09_GNVE",
+        "key": "47 06 62 AF 0D B1 43 01"
+    }
+]
