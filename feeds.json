@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12649 H 7120",
+        "id": "E-228 Main",
+        "key": "23 E4 29 30 9A 24 5E 1C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12640 H 7200",
+        "id": "NLEMG HOL312-1",
+        "key": "11 11 AA CC F1 88 94 0D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12575 H 9700",
+        "id": "F634/1/LE MANS BIF",
+        "key": "20 25 DC 21 FB 21 25 41"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11070 H 7200",
+        "id": "ICC WT20 double header",
+        "key": "71 55 29 EF FF B6 4A FF"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12583 V 7200",
         "id": "BWF WF-A C1 BISS-1",
@@ -34,47 +58,5 @@
         "frequency": "11088 V 7200",
         "id": "Fi01 ACB",
         "key": "FA C2 C6 82 B7 24 1D F8"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "ICC WT20 test",
-        "key": "71 55 29 EF FF B6 4A FF"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11246 H 7200",
-        "id": "MLT-001 MAIN",
-        "key": "F6 B8 D9 87 E3 A5 C7 4F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11592 V 14400",
-        "id": "TEST PRINCIPAL LES CAPITAINES GOLF C",
-        "key": "F5 78 FE 6B ED 12 13 12"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12685 H 7200",
-        "id": "HEXAGONE MMA LYON RMC",
-        "key": "F4 86 62 DC 02 60 21 83"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12535 V 7200",
-        "id": "YSM-021M",
-        "key": "AA 7B DF 04 5F AA 05 0E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11127 H 7200",
-        "id": "YLE-006",
-        "key": "AA 18 58 1A 7F 0F AF 3D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12574 H 7200",
-        "id": "HUN-013 Line 1",
-        "key": "A7 C2 10 79 B8 EE BE 64"
     }
 ]
