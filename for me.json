@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7200",
+        "id": "Encoder 1",
+        "key": "9A 6B CB D0 8B 6A 5F 54"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11088 V 7200",
+        "id": "Fi01 ACB",
+        "key": "F7 34 25 50 56 87 DD BA"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11012 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11070 H 7200",
         "id": "ICC WT20 double header",
         "key": "71 55 29 EF FF B6 4A FF"
