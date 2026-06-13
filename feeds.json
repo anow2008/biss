@@ -19,7 +19,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11684 V 2500",
+        "frequency": "11685 V 2500",
         "id": "",
         "key": "12 34 51 97 23 45 12 7A"
     },
@@ -64,11 +64,5 @@
         "frequency": "11246 H 7200",
         "id": "MLT-001 MAIN",
         "key": "F6 B8 D9 87 E3 A5 C7 4F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11097 H 7200",
-        "id": "SLQ 008 M",
-        "key": "13 06 BD D6 AE 54 94 96"
     }
 ]
