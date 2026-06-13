@@ -1,62 +1,92 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12649 H 7120",
-        "id": "E-228 Main",
-        "key": "23 E4 29 30 9A 24 5E 1C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12640 H 7200",
-        "id": "NLEMG HOL312-1",
-        "key": "11 11 AA CC F1 88 94 0D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12575 H 9700",
-        "id": "F634/1/LE MANS BIF",
-        "key": "20 25 DC 21 FB 21 25 41"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "ICC WT20 double header",
-        "key": "71 55 29 EF FF B6 4A FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "BWF WF-A C1 BISS-1",
-        "key": "59 FE D1 28 E9 4F 4F 87"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7120",
-        "id": "Pitch Gallagher Rugby Northampton v Leicester",
-        "key": "81 E1 7D DF DC 12 12 00"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11012 V 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10976 V 4800",
-        "id": "POL-033 out1",
-        "key": "AB BA 26 8B DC AE 06 90"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11194 V 7200",
-        "id": "E-95 MAIN",
-        "key": "3F 8A 8C 55 F9 88 34 B5"
+        "frequency": "12727 V 7500",
+        "id": "ENC 2",
+        "key": "F1 07 45 3D E6 CB AD 5E"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11088 V 7200",
         "id": "Fi01 ACB",
-        "key": "FA C2 C6 82 B7 24 1D F8"
+        "key": "F7 34 25 50 56 87 DD BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11685 V 2500",
+        "id": "",
+        "key": "12 34 51 97 23 45 12 7A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7200",
+        "id": "Encoder 1",
+        "key": "9A 6B CB D0 8B 6A 5F 54"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11013 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10971 V 4800",
+        "id": "POL-52 CM-5000",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7500",
+        "id": "DT SNG 2 Backup",
+        "key": "62 93 6C 61 B7 C5 C4 40"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11062 V 7200",
+        "id": "Fi09_GNVE",
+        "key": "47 06 62 AF 0D B1 43 01"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7200",
+        "id": "Queens Tennis B-Up",
+        "key": "BC 31 9B 88 BA 87 4C 8D"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11246 H 7200",
+        "id": "MLT-001 MAIN",
+        "key": "F6 B8 D9 87 E3 A5 C7 4F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11097 H 7200",
+        "id": "SLQ 008 M",
+        "key": "13 06 BD D6 AE 54 94 96"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11106 H 7200",
+        "id": "BAV",
+        "key": "FD 79 EE 64 1A C2 BB 97"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12631 V 9700",
+        "id": "EHF Final4 Main",
+        "key": "FF 74 D0 43 61 3E 44 E3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "15 58 35 A2 71 42 63 16"
     }
 ]
