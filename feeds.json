@@ -13,7 +13,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11685 V 2500",
+        "frequency": "11684 V 2500",
         "id": "",
         "key": "12 34 51 97 23 45 12 7A"
     },
@@ -25,7 +25,7 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11013 V 4938",
+        "frequency": "11012 V 4938",
         "id": "YSM-016 MAIN",
         "key": "AB BA 20 85 25 20 26 6B"
     },
@@ -76,17 +76,5 @@
         "frequency": "11106 H 7200",
         "id": "BAV",
         "key": "FD 79 EE 64 1A C2 BB 97"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12631 V 9700",
-        "id": "EHF Final4 Main",
-        "key": "FF 74 D0 43 61 3E 44 E3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12593 V 7200",
-        "id": "POL-058_ch1",
-        "key": "15 58 35 A2 71 42 63 16"
     }
 ]
