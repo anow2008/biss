@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11089 V 7200",
+        "id": "Fi01 ACB",
+        "key": "E1 C4 C9 6E 02 7D 4D CC"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10722 V 15000",
+        "id": "OVERON 1",
+        "key": "81 10 70 01 81 40 61 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11570 V 7200",
+        "id": "CLEAN ACCESS PROV/PERP",
+        "key": "F5 77 AC 18 CE 55 F2 15"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11070 H 7200",
+        "id": "T20 BAN v NED and IND v PAK Enc 1",
+        "key": "BE 43 66 67 79 A3 5F 7B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11637 V 7200",
         "id": "E-95 MAIN",
         "key": "D8 28 8E 8E 16 93 9F 48"
@@ -25,38 +49,14 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11593 V 14400",
+        "frequency": "11592 V 14400",
         "id": "PRINCIPAL ACCESS PROV/PERP",
         "key": "F5 77 AC 18 CE 55 F1 14"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11504 V 7500",
+        "frequency": "11505 V 7500",
         "id": "ENC 2",
         "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11518 V 15000",
-        "id": "ESPN MAIN",
-        "key": "11 12 F3 16 18 13 14 3F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11477 V 7200",
-        "id": "UPLINK ADVALEM",
-        "key": "F0 08 AC A4 CE 55 3A 5D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12640 H 7200",
-        "id": "YSM-021M",
-        "key": "AA 7B DF 04 5F AA 05 0E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11106 H 7200",
-        "id": "BAV",
-        "key": "FD 79 EE 64 1A C2 BB 97"
     }
 ]
