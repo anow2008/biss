@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10849 H 7200",
+        "id": "PSSI - UFCA250",
+        "key": "B7 86 74 B1 7A 34 C5 73"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12727 V 7200",
+        "id": "ENC 1",
+        "key": "87 86 74 81 7A 34 C5 73"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11089 V 7200",
         "id": "Fi01 ACB",
         "key": "E1 C4 C9 6E 02 7D 4D CC"
@@ -16,12 +28,6 @@
         "frequency": "11570 V 7200",
         "id": "CLEAN ACCESS PROV/PERP",
         "key": "F5 77 AC 18 CE 55 F2 15"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "87 86 74 81 7A 34 C5 73"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -46,17 +52,5 @@
         "frequency": "12510 V 7200",
         "id": "main - E285",
         "key": "AB BA 20 85 26 06 14 40"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11592 V 14400",
-        "id": "PRINCIPAL ACCESS PROV/PERP",
-        "key": "F5 77 AC 18 CE 55 F1 14"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11505 V 7500",
-        "id": "ENC 2",
-        "key": "F1 07 45 3D E6 CB AD 5E"
     }
 ]
