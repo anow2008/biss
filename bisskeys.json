@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "87 86 74 81 7A 34 C5 73"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11478 V 7200",
     "id": "UPLINK ADVALEM",
     "key": "F0 08 AC A4 CE 55 3A 5D"
@@ -13,9 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11519 V 15000",
-    "id": "ESPN MAIN",
-    "key": "11 12 F3 16 18 13 14 3F"
+    "frequency": "12736 V 7200",
+    "id": "UFC A250 : All Fights",
+    "key": "87 86 74 81 7A 34 C5 73"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -46,11 +52,5 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7200",
-    "id": "Fi01 ACB",
-    "key": "E1 C4 C9 6E 02 7D 4D CC"
   }
 ]
