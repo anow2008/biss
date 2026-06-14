@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10722 V 15000",
+        "id": "OVERON 1",
+        "key": "81 10 70 01 81 40 61 22"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11089 V 7200",
+        "id": "Fi01 ACB",
+        "key": "E1 C4 C9 6E 02 7D 4D CC"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11477 V 7200",
         "id": "UPLINK ADVALEM",
