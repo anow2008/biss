@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11685 V 2500",
+        "id": "K24_11684_BISS",
+        "key": "12 34 51 97 23 45 12 7A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 V 7200",
+        "id": "InFront USATF Grand Prix Distribution",
+        "key": "E7 4F FD 33 ED 06 14 07"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10849 H 7200",
+        "id": "PSSI - UFCA250",
+        "key": "B7 86 74 B1 7A 34 C5 73"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11070 H 7200",
         "id": "IMG A EU",
         "key": "87 86 74 81 7A 34 C5 73"
