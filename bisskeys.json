@@ -7,15 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11478 V 7200",
-    "id": "UPLINK ADVALEM",
-    "key": "F0 08 AC A4 CE 55 3A 5D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11505 V 7500",
-    "id": "ENC 2",
-    "key": "F1 07 45 3D E6 CB AD 5E"
+    "frequency": "12727 V 7200",
+    "id": "ENC 1",
+    "key": "87 86 74 81 7A 34 C5 73"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -24,16 +18,28 @@
     "key": "87 86 74 81 7A 34 C5 73"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10722 V 15000",
-    "id": "OVERON 1",
-    "key": "81 10 70 01 81 40 61 22"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "GCUK Enc 2",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
+    "key": "87 86 74 81 7A 34 C5 73"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 H 7200",
+    "id": "UFC RMC PRI",
+    "key": "87 86 74 81 7A 34 C5 73"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10848 V 7200",
+    "id": "InFront USATF Grand Prix Distribution",
+    "key": "E7 4F FD 33 ED 06 14 07"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10849 H 7200",
+    "id": "PSSI - UFCA250",
+    "key": "B7 86 74 B1 7A 34 C5 73"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
