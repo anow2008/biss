@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "87 86 74 81 7A 34 C5 73"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12727 V 7200",
+        "id": "ENC 1",
+        "key": "87 86 74 81 7A 34 C5 73"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "UFC A250 : All Fights",
+        "key": "87 86 74 81 7A 34 C5 73"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "10722 V 15000",
         "id": "OVERON 1",
