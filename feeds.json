@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 21",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7500",
+        "id": "DT SNG 2 MAIN",
+        "key": "5F 1E E1 5E 1D 1A D4 0B"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10977 H 7200",
         "id": "Fal4 Enc1",
@@ -19,8 +31,8 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11684 V 2500",
-        "id": "K24_Erbil_F",
+        "frequency": "11682 V 2500",
+        "id": "",
         "key": "12 34 51 97 23 45 12 7A"
     },
     {
