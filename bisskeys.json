@@ -3,13 +3,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "3F B9 8B 83 39 84 62 1F"
+    "key": "3F B9 8B 83 39 84 62 1F E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11685 V 2500",
-    "id": "K24_Erbil_F",
-    "key": "12 34 51 97 23 45 12 7A"
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "3F B9 8B 83 39 84 62 1F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
