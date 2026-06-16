@@ -2,12 +2,18 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
-    "id": "Sat ICC WT20 NZ-SL/ENG-IRE",
+    "id": "IMG A EU",
     "key": "3F B9 8B 83 39 84 62 1F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11684 V 2500",
+    "frequency": "11682 V 2500",
+    "id": "K24_11681_BISS",
+    "key": "12 34 51 97 23 45 12 7A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11685 V 2500",
     "id": "K24_Erbil_F",
     "key": "12 34 51 97 23 45 12 7A"
   },
