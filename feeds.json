@@ -6,16 +6,22 @@
         "key": "12 3C AA F8 14 22 A3 D9"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7500",
-        "id": "DT SNG 2 MAIN",
-        "key": "5F 1E E1 5E 1D 1A D4 0B"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11694 V 3333",
+        "id": "K24_SULIMAANI_Office",
+        "key": "A1 23 45 09 B1 23 45 19"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 H 7200",
-        "id": "Fal4 Enc1",
-        "key": "20 25 AE F3 EA 52 02 3E"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11071 V 7200",
+        "id": "F419_MAIN",
+        "key": "D1 5C AE DB 44 B4 AA A2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11592 H 9875",
+        "id": "SLQ-010",
+        "key": "F8 50 F3 3B 48 C7 FD 0C"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -24,21 +30,21 @@
         "key": "D5 4B A7 C7 90 0D 11 AE"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12593 V 7200",
-        "id": "POL-058_ch2",
-        "key": "15 58 35 A2 71 42 63 16"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 H 7200",
+        "id": "LMG PATH 1",
+        "key": "EF 3E 11 3E E2 7F 85 E6"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10721 H 7200",
+        "id": "Encoder 1",
+        "key": "2F 82 A3 54 6F E6 CF 24"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11685 V 2500",
+        "frequency": "11684 V 2500",
         "id": "K24_Erbil_F",
         "key": "12 34 51 97 23 45 12 7A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "3F B9 8B 83 39 84 62 1F"
     }
 ]
