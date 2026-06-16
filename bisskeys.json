@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 H 7200",
+    "id": "LMG PATH 1",
+    "key": "EF 3E 11 3E E2 7F 85 E6 E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 H 7200",
+    "id": "LMG PATH 1",
+    "key": "EF 3E 11 3E E2 7F 85 E6"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11025 H 3120",
+    "id": "EMPC",
+    "key": "3F B9 8B 83 39 84 62 1F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
+    "id": "Sat ICC WT20 NZ-SL/ENG-IRE",
+    "key": "3F B9 8B 83 39 84 62 1F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11684 V 2500",
+    "id": "K24_Erbil_F",
+    "key": "12 34 51 97 23 45 12 7A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 21",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10721 H 7200",
+    "id": "Encoder 1",
+    "key": "2F 82 A3 54 6F E6 CF 24"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11051 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11071 V 7200",
+    "id": "F419_MAIN",
+    "key": "D1 5C AE DB 44 B4 AA A2"
+  }
+]
