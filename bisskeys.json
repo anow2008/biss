@@ -2,20 +2,14 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
-    "id": "T20 SA v PAK Enc 1",
-    "key": "D8 3E 46 5C 44 E8 89 B5"
+    "id": "IMG A EU",
+    "key": "8E 69 5C 53 89 53 BB 97 E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11682 V 2500",
-    "id": "K24_11681_BISS",
-    "key": "12 34 51 97 23 45 12 7A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11685 V 2500",
-    "id": "K24_Erbil_F",
-    "key": "12 34 51 97 23 45 12 7A"
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "8E 69 5C 53 89 53 BB 97"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
