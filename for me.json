@@ -1,6 +1,96 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11518 H 7200",
+        "id": "LTU-005 main",
+        "key": "B3 9D CD 1D 9E 4D A7 92"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11527 H 7200",
+        "id": "EST-010 ENC4 CEV",
+        "key": "9E CA DF 47 E8 2E 5B 71"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "YSM-021M",
+        "key": "AA 7B DF 04 5F AA 05 0E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12565 H 7200",
+        "id": "STA SNG HD 4",
+        "key": "E7 7B 62 C4 8D B4 78 B9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12594 H 7200",
+        "id": "STA SNG HD 2",
+        "key": "B6 6D A8 CB 8F 4C FB D6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12640 H 7200",
+        "id": "VANNES E21",
+        "key": "20 26 E2 28 1E 15 03 36"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12657 H 7200",
+        "id": "LNR UK SAT TLS/RAC",
+        "key": "F5 78 DF 4C 1F EE D2 DF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12737 V 7200",
+        "id": "ENC 2",
+        "key": "13 9C 97 46 4A 5E 51 F9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 V 7200",
+        "id": "GCUK Enc 10",
+        "key": "FF DB D0 AA 61 9E 72 71"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7200",
+        "id": "Fi14_GNVE",
+        "key": "42 63 3E E3 CA 5E 89 B1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7200",
+        "id": "F419_MAIN",
+        "key": "D1 5C AE DB 44 B4 AA A2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11084 V 14400",
+        "id": "AUT-34",
+        "key": "D8 A0 15 8D 02 96 5B F3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11617 H 7200",
+        "id": "TUR 034  / MAIN",
+        "key": "A9 16 AA 69 60 2F EF 7E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 H 7200",
+        "id": "WDL Doha WF",
+        "key": "FB EA D0 B5 61 9E 65 64"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10977 V 4800",
+        "id": "POL-110",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11523 V 7200",
         "id": "SLO-008 Tx 1",
         "key": "08 75 72 EF 54 4E 4C EE"
