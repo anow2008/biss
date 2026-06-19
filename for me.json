@@ -1,1 +1,92 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11523 V 7200",
+        "id": "SLO-008 Tx 1",
+        "key": "08 75 72 EF 54 4E 4C EE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11684 V 2500",
+        "id": "K24_Erbil_F",
+        "key": "12 34 51 97 23 45 12 7A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11686 V 2500",
+        "id": "K24_Erbil_F",
+        "key": "12 34 51 97 23 45 12 7A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12705 V 7120",
+        "id": "EDM HD ENC-1",
+        "key": "B2 C5 D3 4A E6 F4 A7 81"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12728 V 7500",
+        "id": "NLFLEV_HOL328-3",
+        "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10803 H 9875",
+        "id": "IPF",
+        "key": "E7 D1 8A 42 3A 9E EB C3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10818 V 3670",
+        "id": "Royal Ascot Feed 1.",
+        "key": "1D A3 B1 71 9D A1 77 B5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10819 H 7200",
+        "id": "GCUK Enc 3",
+        "key": "F9 D2 FF CA E0 E3 C7 8A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10829 H 7200",
+        "id": "Queens Tennis B-Up",
+        "key": "BC 31 9B 88 BA 87 4C 8D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11040 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7200",
+        "id": "Flavia-8A",
+        "key": "FF 96 D0 65 61 9E 71 70"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9600",
+        "id": "ITA 806 A",
+        "key": "1C 04 FC 1C A7 B0 98 EF"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11005 V 7500",
+        "id": "POL047 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    }
+]
