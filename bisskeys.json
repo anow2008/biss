@@ -2,12 +2,12 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
-    "id": "UKI-1646 ICC T20WC 2026 NZ v IRE test",
-    "key": "8E 69 5C 53 89 53 BB 97"
+    "id": "IMG A EU",
+    "key": "12 34 51 97 23 45 12 7A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11682 V 2500",
+    "frequency": "11681 V 2500",
     "id": "K24_Erbil_F",
     "key": "12 34 51 97 23 45 12 7A"
   },
@@ -43,7 +43,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11186 V 7200",
+    "frequency": "11185 V 7200",
     "id": "Fi12_GNVE",
     "key": "4E AD AA A5 50 F3 DA 1D"
   }
