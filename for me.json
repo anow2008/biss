@@ -1,6 +1,108 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 H 7200",
+        "id": "CRO-005",
+        "key": "12 34 AB F1 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "UKI-1646 ICC T20WC 2026 NZ v IRE test",
+        "key": "8E 69 5C 53 89 53 BB 97"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11579 V 7200",
+        "id": "ENC 6",
+        "key": "05 06 BA C5 CA D1 B3 4E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11692 H 7200",
+        "id": "PMFL",
+        "key": "20 26 AA F0 DD 20 26 23"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12536 V 7200",
+        "id": "UKI-1955-1",
+        "key": "F2 34 AC D2 22 38 11 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12543 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL103",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12602 V 7200",
+        "id": "POL-080 MAIN",
+        "key": "07 BB 01 C3 AE 26 CF A3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12648 H 7200",
+        "id": "SEC PRINC TLS/RACING",
+        "key": "F5 78 DF 4C 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12655 V 9600",
+        "id": "SUI 066 A",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12678 V 9875",
+        "id": "NLFLEV_HOL-048 CH-A",
+        "key": "AB B3 83 E1 78 99 83 94"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12695 V 7200",
+        "id": "ENC 7",
+        "key": "AB 22 83 50 73 BB CC FA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7200",
+        "id": "Fi12_GNVE",
+        "key": "4E AD AA A5 50 F3 DA 1D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11619 V 7200",
+        "id": "Fi16_GNVE",
+        "key": "47 06 62 AF 0D B1 43 01"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12593 V 7500",
+        "id": "DT SNG 2 MAIN",
+        "key": "D0 D6 6F 15 F7 70 D2 39"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11014 V 7200",
+        "id": "SNG 022 MAIN",
+        "key": "EC 23 DB EA 14 55 CA 33"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11179 H 4938",
+        "id": "MNE-001 main",
+        "key": "C2 B3 F0 65 FD 74 B9 2A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11518 H 7200",
         "id": "LTU-005 main",
         "key": "B3 9D CD 1D 9E 4D A7 92"
