@@ -7,8 +7,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11682 V 2500",
+    "frequency": "11681 V 2500",
     "id": "K24_Erbil_F",
+    "key": "12 34 51 97 23 45 12 7A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11684 V 2500",
+    "id": "K24_11684_BISS",
     "key": "12 34 51 97 23 45 12 7A"
   },
   {
@@ -16,18 +22,6 @@
     "frequency": "12535 V 7200",
     "id": "UKI-1955-1",
     "key": "F2 34 AC D2 22 38 11 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL103",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12602 V 7200",
-    "id": "POL-080 MAIN",
-    "key": "07 BB 01 C3 AE 26 CF A3"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,15 +37,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12695 V 7200",
-    "id": "ENC 7",
-    "key": "AB 22 83 50 73 BB CC FA"
+    "frequency": "12677 V 7500",
+    "id": "ENC 2",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    "frequency": "12736 V 7200",
+    "id": "ENC 4",
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -73,21 +67,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7200",
-    "id": "F419_MAIN",
-    "key": "D1 5C AE DB 44 B4 AA A2"
+    "frequency": "11186 V 7200",
+    "id": "Fi12_GNVE",
+    "key": "4E AD AA A5 50 F3 DA 1D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11084 V 14400",
-    "id": "AUT-34",
-    "key": "D8 A0 15 8D 02 96 5B F3"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12593 V 7500",
-    "id": "DT SNG 2 MAIN",
-    "key": "D0 D6 6F 15 F7 70 D2 39"
+    "frequency": "11211 V 9875",
+    "id": "UNI 1",
+    "key": "7E 90 DD EB CC 17 FC DF"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
