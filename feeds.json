@@ -1,32 +1,68 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10721 H 7200",
-        "id": "Encoder 1",
-        "key": "D4 3E AC BE DC 99 73 E8"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12565 H 7200",
+        "id": "STA SNG HD 4",
+        "key": "E7 7B 62 C4 8D B4 78 B9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12640 H 7200",
+        "id": "VANNES E21",
+        "key": "20 26 E2 28 1E 15 03 36"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
-        "id": "Service1",
-        "key": "EA 0E 0D 05 4C 52 DB 79"
+        "frequency": "11084 V 14400",
+        "id": "AUT-34",
+        "key": "D8 A0 15 8D 02 96 5B F3"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11071 V 7200",
-        "id": "F419_MAIN",
-        "key": "D1 5C AE DB 44 B4 AA A2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "D5 4B A7 C7 90 0D 11 AE"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL082 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12736 V 7200",
-        "id": "ICC WT20 Headingly Leeds",
-        "key": "C7 6B 4D 7F FA 9E AA 42"
+        "id": "ENC 2",
+        "key": "13 9C 97 46 4A 5E 51 F9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10823 V 3670",
+        "id": "Royal Ascot Feed 2..",
+        "key": "1D A3 B1 71 9D A1 77 B5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11618 H 7200",
+        "id": "TUR 034  / MAIN",
+        "key": "A9 16 AA 69 60 2F EF 7E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11523 V 7200",
+        "id": "SLO-008 Tx 1",
+        "key": "08 75 72 EF 54 4E 4C EE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12597 V 9600",
+        "id": "ITA 806 A",
+        "key": "1C 04 FC 1C A7 B0 98 EF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "Flavia-8A",
+        "key": "FF 96 D0 65 61 9E 71 70"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
     }
 ]
