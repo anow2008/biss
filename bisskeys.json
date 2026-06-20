@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11051 H 4800",
+    "frequency": "11050 H 4800",
     "id": "First_service",
     "key": "12 34 51 97 23 45 12 7A"
   },
@@ -9,12 +9,6 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11682 V 2500",
     "id": "K24_Erbil_F",
-    "key": "12 34 51 97 23 45 12 7A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11685 V 2500",
-    "id": "K24_11684_BISS",
     "key": "12 34 51 97 23 45 12 7A"
   },
   {
@@ -31,12 +25,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12655 V 9600",
-    "id": "SUI 066 A",
-    "key": "B8 0D 7C 41 8E F9 5E E5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12657 H 7200",
     "id": "LNR UK SAT MTP/STF",
     "key": "F5 78 DF 4C 2F EE D2 EF"
@@ -49,21 +37,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12686 V 7200",
-    "id": "ENC 5",
-    "key": "BA C2 34 B0 DA CE E1 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12704 V 7200",
     "id": "UKI-1955-1",
     "key": "F2 34 AC D2 22 38 11 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "B1 A8 C3 1C DA 6A 4A 8E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -109,7 +85,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7200",
+    "frequency": "11062 V 7200",
+    "id": "WSHT ENC53 - UFC",
+    "key": "44 CD 32 43 A5 78 21 3E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11070 V 7200",
     "id": "Fi15_GNVE",
     "key": "1D C5 45 27 4A B4 1A 18"
   },
@@ -121,14 +103,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 06 90"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11001 V 15000",
     "id": "POL027 p1",
     "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11014 V 7200",
+    "id": "YSM-012 MAIN",
+    "key": "AA 7B DF 04 5F AA 05 0E"
   }
 ]
