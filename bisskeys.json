@@ -1,8 +1,8 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11050 H 4800",
-    "id": "First_service",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
     "key": "12 34 51 97 23 45 12 7A"
   },
   {
@@ -25,21 +25,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12657 H 7200",
-    "id": "LNR UK SAT MTP/STF",
-    "key": "F5 78 DF 4C 2F EE D2 EF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12677 V 7500",
     "id": "ENC 2",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12704 V 7200",
-    "id": "UKI-1955-1",
-    "key": "F2 34 AC D2 22 38 11 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -79,12 +67,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11059 H 7200",
-    "id": "Fi01 ACB",
-    "key": "BC B9 D9 4E 8E B8 22 68"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11062 V 7200",
     "id": "WSHT ENC53 - UFC",
     "key": "44 CD 32 43 A5 78 21 3E"
@@ -103,14 +85,20 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11001 V 15000",
-    "id": "POL027 p1",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11014 V 7200",
     "id": "YSM-012 MAIN",
     "key": "AA 7B DF 04 5F AA 05 0E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11140 H 9875",
+    "id": "UNI 1",
+    "key": "7E 90 DD EB CC 17 FC DF"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11152 H 9875",
+    "id": "UNI 2",
+    "key": "7E 90 DD EB CC 17 FC DF"
   }
 ]
