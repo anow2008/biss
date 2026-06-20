@@ -1,1 +1,98 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11681 V 2500",
+        "id": "K24_Erbil_F",
+        "key": "12 34 51 97 23 45 12 7A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11684 V 2500",
+        "id": "K24_11684_BISS",
+        "key": "12 34 51 97 23 45 12 7A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12535 V 7200",
+        "id": "ICC WT20 Headingly Leeds",
+        "key": "36 B9 B4 A3 9F E7 2F B5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12648 H 7200",
+        "id": "SEC PRINC MTP/STF",
+        "key": "F5 78 DF 4C 2F EE D1 EE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12655 V 9600",
+        "id": "SUI 066 A",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12677 V 7500",
+        "id": "ENC 2",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12704 V 7200",
+        "id": "UKI-1955-1",
+        "key": "F2 34 AC D2 22 38 11 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12727 V 7500",
+        "id": "NLFLEV_HOL328-3",
+        "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "UFC Fight Night : All Fights",
+        "key": "44 CD 32 43 A5 78 21 3E"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10722 V 15000",
+        "id": "OVERON 1",
+        "key": "D1 80 9C ED 8C 00 78 04"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "Fi01 ACB",
+        "key": "BC B9 D9 4E 8E B8 22 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7200",
+        "id": "Fi12_GNVE",
+        "key": "55 17 3B A7 1B CF 70 5A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11617 H 7200",
+        "id": "TUR 034  / MAIN",
+        "key": "D0 CD AC 49 DC 5A 17 4D"
+    }
+]
