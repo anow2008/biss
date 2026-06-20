@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12657 H 7200",
+        "id": "LNR UK SAT MTP/STF",
+        "key": "F5 78 DF 4C 2F EE D2 EF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12686 V 7200",
+        "id": "ENC 5",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7200",
+        "id": "Fi15_GNVE",
+        "key": "1D C5 45 27 4A B4 1A 18"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10986 V 9600",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11001 V 15000",
+        "id": "POL027 p1",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11681 V 2500",
         "id": "K24_Erbil_F",
         "key": "12 34 51 97 23 45 12 7A"
