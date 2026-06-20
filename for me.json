@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11014 V 7200",
+        "id": "YSM-012 MAIN",
+        "key": "AA 7B DF 04 5F AA 05 0E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12657 H 7200",
         "id": "LNR UK SAT MTP/STF",
