@@ -13,18 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12535 V 7200",
-    "id": "ICC WT20 Headingly Leeds",
-    "key": "36 B9 B4 A3 9F E7 2F B5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12648 H 7200",
-    "id": "SEC PRINC MTP/STF",
-    "key": "F5 78 DF 4C 2F EE D1 EE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12677 V 7500",
     "id": "ENC 2",
     "key": "F1 07 45 3D E6 CB AD 5E"
@@ -40,12 +28,6 @@
     "frequency": "10722 V 15000",
     "id": "OVERON 1",
     "key": "D1 80 9C ED 8C 00 78 04"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10801 H 7200",
-    "id": "GCUK Enc 1",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -78,27 +60,9 @@
     "key": "1D C5 45 27 4A B4 1A 18"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11186 V 7200",
-    "id": "Fi12_GNVE",
-    "key": "55 17 3B A7 1B CF 70 5A"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11014 V 7200",
     "id": "YSM-012 MAIN",
     "key": "AA 7B DF 04 5F AA 05 0E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11140 H 9875",
-    "id": "UNI 1",
-    "key": "7E 90 DD EB CC 17 FC DF"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11152 H 9875",
-    "id": "UNI 2",
-    "key": "7E 90 DD EB CC 17 FC DF"
   }
 ]
