@@ -1,68 +1,74 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "STA SNG HD 4",
-        "key": "E7 7B 62 C4 8D B4 78 B9"
+        "frequency": "12686 V 7200",
+        "id": "ENC 5",
+        "key": "BA C2 34 B0 DA CE E1 89"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12640 H 7200",
-        "id": "VANNES E21",
-        "key": "20 26 E2 28 1E 15 03 36"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11084 V 14400",
-        "id": "AUT-34",
-        "key": "D8 A0 15 8D 02 96 5B F3"
+        "frequency": "12727 V 7500",
+        "id": "NLFLEV_HOL328-3",
+        "key": "B1 A8 C3 1C DA 6A 4A 8E"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL082 TVN WAW",
+        "frequency": "11001 V 15000",
+        "id": "POL027 p1",
         "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11186 V 7200",
+        "id": "Fi12_GNVE",
+        "key": "55 17 3B A7 1B CF 70 5A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "Fi01 ACB",
+        "key": "BC B9 D9 4E 8E B8 22 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10722 V 15000",
+        "id": "OVERON 1",
+        "key": "D1 80 9C ED 8C 00 78 04"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12594 H 7200",
+        "id": "STA SNG HD 2",
+        "key": "2B 27 C4 16 C2 67 68 91"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12736 V 7200",
-        "id": "ENC 2",
-        "key": "13 9C 97 46 4A 5E 51 F9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10823 V 3670",
-        "id": "Royal Ascot Feed 2..",
-        "key": "1D A3 B1 71 9D A1 77 B5"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11618 H 7200",
-        "id": "TUR 034  / MAIN",
-        "key": "A9 16 AA 69 60 2F EF 7E"
+        "id": "UFC Fight Night  All Fights",
+        "key": "44 CD 32 43 A5 78 21 3E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11523 V 7200",
-        "id": "SLO-008 Tx 1",
-        "key": "08 75 72 EF 54 4E 4C EE"
+        "frequency": "12657 H 7200",
+        "id": "LNR UK SAT MTP/STF",
+        "key": "F5 78 DF 4C 2F EE D2 EF"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12597 V 9600",
-        "id": "ITA 806 A",
-        "key": "1C 04 FC 1C A7 B0 98 EF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "Flavia-8A",
-        "key": "FF 96 D0 65 61 9E 71 70"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "D5 4B A7 C7 90 0D 11 AE"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12704 V 7200",
+        "id": "UKI-1955-1",
+        "key": "F2 34 AC D2 22 38 11 6B"
     }
 ]
