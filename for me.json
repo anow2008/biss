@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 16A",
+        "frequency": "11140 H 9875",
+        "id": "UNI 1",
+        "key": "7E 90 DD EB CC 17 FC DF"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11152 H 9875",
+        "id": "UNI 2",
+        "key": "7E 90 DD EB CC 17 FC DF"
+    },
+    {
+        "satellite": "Eutelsat 16A",
         "frequency": "11014 V 7200",
         "id": "YSM-012 MAIN",
         "key": "AA 7B DF 04 5F AA 05 0E"
