@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11014 V 7200",
+        "id": "YSM-012 MAIN",
+        "key": "AA 7B DF 04 5F AA 05 0E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11062 V 7200",
+        "id": "WSHT ENC53 - UFC",
+        "key": "44 CD 32 43 A5 78 21 3E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11070 V 7200",
+        "id": "Fi15_GNVE",
+        "key": "1D C5 45 27 4A B4 1A 18"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12686 V 7200",
         "id": "ENC 5",
@@ -52,23 +70,5 @@
         "frequency": "12594 H 7200",
         "id": "STA SNG HD 2",
         "key": "2B 27 C4 16 C2 67 68 91"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "UFC Fight Night  All Fights",
-        "key": "44 CD 32 43 A5 78 21 3E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12657 H 7200",
-        "id": "LNR UK SAT MTP/STF",
-        "key": "F5 78 DF 4C 2F EE D2 EF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12704 V 7200",
-        "id": "UKI-1955-1",
-        "key": "F2 34 AC D2 22 38 11 6B"
     }
 ]
