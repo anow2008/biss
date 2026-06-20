@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11152 H 9875",
+        "id": "UNI 2",
+        "key": "7E 90 DD EB CC 17 FC DF"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11014 V 7200",
         "id": "YSM-012 MAIN",
         "key": "AA 7B DF 04 5F AA 05 0E"
@@ -58,17 +64,5 @@
         "frequency": "11051 H 4938",
         "id": "EBU 3 ENC",
         "key": "D5 4B A7 C7 90 0D 11 AE"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10722 V 15000",
-        "id": "OVERON 1",
-        "key": "D1 80 9C ED 8C 00 78 04"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12594 H 7200",
-        "id": "STA SNG HD 2",
-        "key": "2B 27 C4 16 C2 67 68 91"
     }
 ]
