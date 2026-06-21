@@ -1,6 +1,72 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "Old Trafford ICC Women's T20",
+        "key": "2F 96 4D 12 42 92 65 39"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11527 H 7200",
+        "id": "PMFL",
+        "key": "20 26 AA F0 DD 20 26 23"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "YSM-021M",
+        "key": "AA 7B DF 04 5F AA 05 0E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12565 H 7200",
+        "id": "STA SNG HD 4",
+        "key": "FF B5 DD 91 97 3F 6F 45"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "POL-080 Beckup",
+        "key": "60 24 33 B7 28 62 38 C2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12594 H 7200",
+        "id": "STA SNG HD 2",
+        "key": "73 69 A5 81 DF 45 DA FE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12686 V 7200",
+        "id": "ENC 1",
+        "key": "05 06 BA C5 CA D1 B3 4E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12695 V 7200",
+        "id": "ENC 5",
+        "key": "77 33 99 43 88 AB C3 F6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12704 V 7200",
+        "id": "ENC 6",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12727 V 7500",
+        "id": "NLFLEV_HOL328-3",
+        "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12559 H 4938",
+        "id": "YSM-013M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12696 V 7200",
         "id": "RUS 046",
         "key": "AB 06 73 24 49 BA 26 29"
