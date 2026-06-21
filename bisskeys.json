@@ -1,27 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
-    "id": "Old Trafford ICC Women's T20",
-    "key": "2F 96 4D 12 42 92 65 39"
+    "frequency": "10957 H 2220",
+    "id": "TransMedia.HD1",
+    "key": "12 34 51 97 23 45 12 7A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11527 H 7200",
-    "id": "PMFL",
-    "key": "20 26 AA F0 DD 20 26 23"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11685 V 2500",
-    "id": "K24_OBVAN",
-    "key": "98 76 54 62 98 76 54 62"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "STA SNG HD 4",
-    "key": "FF B5 DD 91 97 3F 6F 45"
+    "frequency": "11681 V 2500",
+    "id": "K24_11681_BISS",
+    "key": "12 34 51 97 23 45 12 7A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,14 +25,14 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12695 V 7200",
-    "id": "ENC 5",
-    "key": "77 33 99 43 88 AB C3 F6"
+    "frequency": "12677 V 7500",
+    "id": "ENC 2",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12704 V 7200",
-    "id": "ENC 6",
+    "frequency": "12686 V 7200",
+    "id": "ENC 3",
     "key": "BA C2 34 B0 DA CE E1 89"
   },
   {
@@ -78,9 +66,33 @@
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11071 V 7200",
+    "id": "F419_MAIN",
+    "key": "D1 5C AE DB 44 B4 AA A2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11617 H 7200",
+    "id": "TUR 034  / MAIN",
+    "key": "BD 67 58 7C 03 84 5D E4"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11022 V 4938",
+    "frequency": "11014 V 7200",
+    "id": "YSM-012 MAIN",
+    "key": "AA 7B DF 04 5F AA 05 0E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11021 V 4938",
     "id": "YSM-016 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11179 H 4938",
+    "id": "MNE-001 main",
+    "key": "D5 3A 65 74 D7 1E 00 F5"
   }
 ]
