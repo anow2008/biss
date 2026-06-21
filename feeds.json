@@ -1,15 +1,9 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11608 H 7200",
-        "id": "Fi11_GNVE",
-        "key": "5D 0E 0F 7A 39 75 C5 73"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL070 TVN24 POZ",
-        "key": "77 93 52 5C 99 08 86 27"
+        "frequency": "12602 V 7200",
+        "id": "ITA_560 - WTCS QUIBERON",
+        "key": "D0 62 1E 50 72 FF DD 4E"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -18,33 +12,51 @@
         "key": "D0 62 1E 50 71 FF 96 06"
     },
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7200",
+        "id": "Queens Tennis B-Up",
+        "key": "BC 31 9B 88 BA 87 4C 8D"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11607 V 7120",
-        "id": "NLEMG HOL7-1",
-        "key": "6A C4 4A 78 8C 7E A2 AC"
+        "frequency": "12704 V 7200",
+        "id": "ENC 6",
+        "key": "BA C2 34 B0 DA CE E1 89"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12526 H 7200",
-        "id": "TVS UE1 HD Sendeweg1",
-        "key": "C5 64 ED 16 ED BE E1 8C"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12695 V 7200",
+        "id": "ENC 5",
+        "key": "77 33 99 43 88 AB C3 F6"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11635 V 9875",
-        "id": "ITA 340 A MAIN",
-        "key": "C6 FA 7D 3D CB 96 DC 3D"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12686 V 7200",
+        "id": "ENC 1",
+        "key": "05 06 BA C5 CA D1 B3 4E"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10803 H 9875",
-        "id": "IPF",
-        "key": "78 A0 33 4B FE 29 A5 CC"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-080 Beckup",
+        "key": "60 24 33 B7 28 62 38 C2"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12601 V 7200",
-        "id": "GCUK Enc 4",
-        "key": "91 8D FA 18 17 00 DE F5"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12510 V 7200",
+        "id": "YSM-021M",
+        "key": "AA 7B DF 04 5F AA 05 0E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11682 V 2500",
+        "id": "",
+        "key": "12 34 51 97 23 45 12 7A"
     }
 ]
