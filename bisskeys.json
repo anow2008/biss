@@ -40,11 +40,5 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11014 V 7200",
-    "id": "YSM-012 MAIN",
-    "key": "AA 7B DF 04 5F AA 05 0E"
   }
 ]
