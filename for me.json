@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7200",
+        "id": "HOL311",
+        "key": "31 1F D2 22 1A 22 BC F8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7200",
+        "id": "Fi12_GNVE",
+        "key": "0F D5 CD B1 29 76 63 02"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11071 V 7200",
         "id": "F419_MAIN",
