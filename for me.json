@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12696 V 7200",
+        "id": "RUS 046",
+        "key": "AB 06 73 24 49 BA 26 29"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10803 H 9875",
+        "id": "IPF",
+        "key": "78 A0 33 4B FE 29 A5 CC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11608 H 7200",
+        "id": "Fi11_GNVE",
+        "key": "5D 0E 0F 7A 39 75 C5 73"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7200",
+        "id": "Flavia 7D",
+        "key": "D0 62 1E 50 71 FF 96 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12601 V 7200",
+        "id": "GCUK Enc 4",
+        "key": "91 8D FA 18 17 00 DE F5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11682 V 2500",
         "id": "K24_Erbil_F",
         "key": "12 34 51 97 23 45 12 7A"
