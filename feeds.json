@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11071 V 7200",
+        "id": "F419_MAIN",
+        "key": "D1 5C AE DB 44 B4 AA A2"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11014 V 7200",
+        "id": "YSM-012 MAIN",
+        "key": "AA 7B DF 04 5F AA 05 0E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11617 H 7200",
+        "id": "TUR 034  / MAIN",
+        "key": "BD 67 58 7C 03 84 5D E4"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11179 H 4938",
+        "id": "MNE-001 main",
+        "key": "D5 3A 65 74 D7 1E 00 F5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 V 7500",
+        "id": "ENC 2",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11021 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11527 H 7200",
         "id": "PMFL",
@@ -16,41 +52,5 @@
         "frequency": "12565 H 7200",
         "id": "STA SNG HD 4",
         "key": "FF B5 DD 91 97 3F 6F 45"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12559 H 4938",
-        "id": "YSM-013M",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12602 V 7200",
-        "id": "ITA_560 - WTCS QUIBERON",
-        "key": "D0 62 1E 50 72 FF DD 4E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "Flavia 7D",
-        "key": "D0 62 1E 50 71 FF 96 06"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "D5 4B A7 C7 90 0D 11 AE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7200",
-        "id": "Queens Tennis B-Up",
-        "key": "BC 31 9B 88 BA 87 4C 8D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12704 V 7200",
-        "id": "ENC 6",
-        "key": "BA C2 34 B0 DA CE E1 89"
     }
 ]
