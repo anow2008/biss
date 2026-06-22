@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL082 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11600 H 4938",
         "id": "ORA - ANA",
@@ -58,11 +64,5 @@
         "frequency": "12727 V 7500",
         "id": "NLFLEV_HOL328-3",
         "key": "B1 A8 C3 1C DA 6A 4A 8E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "STA SNG HD 4",
-        "key": "FF B5 DD 91 97 3F 6F 45"
     }
 ]
