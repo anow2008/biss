@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10957 H 2220",
+    "id": "TransMedia.HD1",
+    "key": "89 23 63 0F 5B 29 CB 4F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
+    "id": "ICC WT20  Headingly",
+    "key": "89 23 63 0F 5B 29 CB 4F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "ENC 1",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11051 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
+  }
+]
