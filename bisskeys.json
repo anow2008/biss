@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10957 H 2220",
-    "id": "TransMedia.HD1",
-    "key": "89 23 63 0F 5B 29 CB 4F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "ICC WT20  Headingly",
     "key": "89 23 63 0F 5B 29 CB 4F"
@@ -14,7 +8,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
-    "id": "ENC 1",
+    "id": "enc-22",
     "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
