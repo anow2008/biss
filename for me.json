@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "ICC WT20 Eng-WI",
+        "key": "F3 89 1C 98 29 36 6A C9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11071 H 7200",
         "id": "Old Trafford ICC Women's T20",
         "key": "D5 77 21 6D 6D 99 B6 BC"
