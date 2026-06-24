@@ -6,24 +6,6 @@
     "key": "F3 89 1C 98 29 36 6A C9"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL-080 MAIN",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "UKI1513 ROEHAMPTON TENNIS IMG",
-    "key": "ED A2 84 13 5B CF 90 BA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10840 V 9600",
-    "id": "OER/F267/2/PMU CHERBOURG SOS",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
@@ -43,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
+    "frequency": "11059 H 7200",
     "id": "Fi01 ACB",
     "key": "1B 18 39 6C 52 DB 53 80"
   },
@@ -55,7 +37,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 H 7200",
+    "frequency": "11608 H 7200",
     "id": "SLQ 008 M",
     "key": "A4 21 57 1C 4E 5A 83 2B"
   },
