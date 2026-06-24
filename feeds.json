@@ -1,32 +1,38 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "enc-22",
-        "key": "12 3C AA F8 14 22 A3 D9"
+        "frequency": "12564 H 7200",
+        "id": "ITA 415 MAIN",
+        "key": "20 26 06 4C AA E6 8A 1A"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "89 23 63 0F 5B 29 CB 4F"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11618 H 7200",
+        "id": "SLQ-010 M",
+        "key": "76 28 BC 5A 57 5E 95 4A"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11608 H 7200",
         "id": "SLQ 008 M",
-        "key": "35 86 DC 97 B1 74 82 A7"
+        "key": "A4 21 57 1C 4E 5A 83 2B"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
+        "frequency": "11600 H 7200",
+        "id": "F419_MAIN",
+        "key": "66 11 22 99 E5 98 B8 35"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
         "id": "EBU 3 ENC",
         "key": "D5 4B A7 C7 90 0D 11 AE"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12691 V 30000",
-        "id": "P2S2P",
-        "key": "06 22 26 4E 06 22 26 4E"
+        "frequency": "12737 V 7200",
+        "id": "UKI1513 ROEHAMPTON TENNIS IMG",
+        "key": "ED A2 84 13 5B CF 90 BA"
     }
 ]
