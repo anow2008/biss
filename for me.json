@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12652 V 14400",
+        "id": "WRC MAIN",
+        "key": "6F 65 D6 AA 86 E5 CF 3A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11599 H 7200",
+        "id": "F419_MAIN",
+        "key": "1F 01 C1 E1 EA A3 0D 9A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11608 H 7200",
+        "id": "SLQ 008 M",
+        "key": "BC 06 C7 89 16 06 64 80"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11617 H 7200",
+        "id": "SLQ-010 M",
+        "key": "14 18 52 7E D4 ED EF B0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11668 H 9600",
+        "id": "SNG ABC 1",
+        "key": "12 34 AB F1 CD 12 34 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11071 H 7200",
         "id": "Old Trafford ICC Women's T20",
         "key": "D5 77 21 6D 6D 99 B6 BC"
