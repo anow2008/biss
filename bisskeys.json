@@ -1,9 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "Old Trafford ICC Women's T20",
     "key": "D5 77 21 6D 6D 99 B6 BC"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11568 V 9875",
+    "id": "ENC-23",
+    "key": "52 59 D3 7E 84 F8 F0 6C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -13,7 +19,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7500",
+    "frequency": "12652 V 14400",
+    "id": "WRC MAIN",
+    "key": "6F 65 D6 AA 86 E5 CF 3A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7500",
     "id": "LPGA - KPMG Featured GRP Women's PGA Championship Day 1 Morning",
     "key": "6F 1B 6F F9 C0 09 11 DA"
   },
@@ -25,38 +37,44 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10969 V 7200",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 06 90"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11599 H 7200",
+    "id": "F419_MAIN",
+    "key": "1F 01 C1 E1 EA A3 0D 9A"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10987 V 7200",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 06 90"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11608 H 7200",
+    "id": "SLQ 008 M",
+    "key": "BC 06 C7 89 16 06 64 80"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
-    "id": "POL029 TVN24 GDA",
-    "key": "77 93 52 5C 99 08 86 27"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11617 H 7200",
+    "id": "SLQ-010 M",
+    "key": "14 18 52 7E D4 ED EF B0"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11668 H 9600",
+    "id": "SNG ABC 1",
+    "key": "12 34 AB F1 CD 12 34 13"
   }
 ]
