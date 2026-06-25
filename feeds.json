@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10867 H 7200",
+        "id": "GCUK Enc 4",
+        "key": "4A C3 2D 3A 19 AA 3D 00"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12578 H 4440",
         "id": "MRC002 /MAIN",
@@ -58,17 +64,5 @@
         "frequency": "11608 H 7200",
         "id": "SLQ 008 M",
         "key": "BC 06 C7 89 16 06 64 80"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11548 V 14400",
-        "id": "SUPER FEED1",
-        "key": "FA BF D0 89 62 8E 65 55"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7500",
-        "id": "LPGA - KPMG Featured GRP Womens PGA Championship Day 1 Morning",
-        "key": "6F 1B 6F F9 C0 09 11 DA"
     }
 ]
