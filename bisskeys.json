@@ -1,19 +1,25 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
+    "frequency": "11071 H 7200",
     "id": "Old Trafford ICC Women's T20",
     "key": "D5 77 21 6D 6D 99 B6 BC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12564 H 7200",
+    "frequency": "12565 H 7200",
     "id": "ITA 415 MAIN",
     "key": "20 26 06 4C AA E6 8A 1A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
+    "frequency": "12678 V 7500",
+    "id": "LPGA - KPMG Featured GRP Women's PGA Championship Day 1 Morning",
+    "key": "6F 1B 6F F9 C0 09 11 DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
     "id": "UKI1513 ROEHAMPTON TENNIS IMG",
     "key": "90 7C AB B7 E5 63 7A C2"
   },
@@ -43,7 +49,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10988 V 7200",
+    "frequency": "10987 V 7200",
     "id": "POL138_A",
     "key": "AB BA 26 8B DC AE 06 90"
   },
