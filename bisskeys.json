@@ -31,12 +31,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11568 V 9875",
-    "id": "ENC-23",
-    "key": "88 4B C2 95 82 7A 2B 27"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12741 H 7200",
     "id": "Old Trafford ICC Women's T20",
     "key": "E4 76 F1 4B AE E3 8A 1B"
@@ -76,12 +70,6 @@
     "frequency": "11617 H 7200",
     "id": "SLQ-010 M",
     "key": "A6 F6 ED 89 EF 6C C7 22"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11685 H 7200",
-    "id": "Infront Zagreb.",
-    "key": "E7 4F FB 31 DD 06 26 09"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
