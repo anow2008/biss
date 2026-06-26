@@ -1,33 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11005 V 7200",
+    "id": "D535_FIH_Berlin",
+    "key": "6F 1B 6F F9 C0 09 11 DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11014 V 7500",
     "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 2 Morning",
     "key": "6F 1B 6F F9 C0 09 11 DA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11045 V 9875",
-    "id": "WRC MAIN",
-    "key": "6F 65 D6 AA 86 E5 CF 3A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11594 V 30000",
-    "id": "SVC 1 Trk Prodn MP4 10B",
-    "key": "B2 39 D7 C2 7C F9 02 77"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7120",
-    "id": "EDM HD ENC-1",
-    "key": "B2 C5 D3 4A E6 F4 A7 81"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "ITA 415 MAIN",
-    "key": "20 26 06 4C AA E6 8A 1A"
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "8C CC E3 3B AB A3 A2 F0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,44 +25,50 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12645 H 14400",
-    "id": "ITA 689",
-    "key": "AB 22 BC 89 22 CD 22 11"
+    "frequency": "12741 H 7200",
+    "id": "Old Trafford ICC Women's T20",
+    "key": "E4 76 F1 4B AE E3 8A 1B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 H 7200",
+    "frequency": "11599 H 7200",
+    "id": "F419_MAIN",
+    "key": "D7 D3 DB 85 16 92 9F 47"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11608 H 7200",
     "id": "SLQ 008 M",
     "key": "54 70 5E 22 16 0C B3 D5"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11618 H 7200",
+    "frequency": "11617 H 7200",
     "id": "SLQ-010 M",
     "key": "A6 F6 ED 89 EF 6C C7 22"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12585 V 9875",
-    "id": "IPF",
-    "key": "9F 5D B8 B4 DB 47 EF 11"
+    "frequency": "11686 H 7200",
+    "id": "Infront Zagreb.",
+    "key": "E7 4F FB 31 DD 06 26 09"
   }
 ]
