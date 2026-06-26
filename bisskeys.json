@@ -1,15 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11044 H 7200",
-    "id": "UFC PATH A P",
-    "key": "9E 56 8E 82 76 C2 37 6F"
+    "frequency": "11014 V 7500",
+    "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 2 Morning",
+    "key": "6F 1B 6F F9 C0 09 11 DA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "8C CC E3 3B AB A3 A2 F0"
+    "frequency": "11045 V 9875",
+    "id": "WRC MAIN",
+    "key": "6F 65 D6 AA 86 E5 CF 3A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11594 V 30000",
+    "id": "SVC 1 Trk Prodn MP4 10B",
+    "key": "B2 39 D7 C2 7C F9 02 77"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12564 H 7200",
+    "frequency": "12565 H 7200",
     "id": "ITA 415 MAIN",
     "key": "20 26 06 4C AA E6 8A 1A"
   },
@@ -31,9 +37,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12594 H 7200",
-    "id": "UFC PATH C P",
-    "key": "9E 56 8E 82 76 C2 37 6F"
+    "frequency": "12645 H 14400",
+    "id": "ITA 689",
+    "key": "AB 22 BC 89 22 CD 22 11"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -55,7 +61,19 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12586 V 9875",
+    "frequency": "11609 H 7200",
+    "id": "SLQ 008 M",
+    "key": "54 70 5E 22 16 0C B3 D5"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11618 H 7200",
+    "id": "SLQ-010 M",
+    "key": "A6 F6 ED 89 EF 6C C7 22"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12585 V 9875",
     "id": "IPF",
     "key": "9F 5D B8 B4 DB 47 EF 11"
   }
