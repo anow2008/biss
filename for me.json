@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12741 H 7200",
+        "id": "Old Trafford ICC Women's T20",
+        "key": "E4 76 F1 4B AE E3 8A 1B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11599 H 7200",
+        "id": "F419_MAIN",
+        "key": "D7 D3 DB 85 16 92 9F 47"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11608 H 7200",
+        "id": "SLQ 008 M",
+        "key": "54 70 5E 22 16 0C B3 D5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11617 H 7200",
+        "id": "SLQ-010 M",
+        "key": "A6 F6 ED 89 EF 6C C7 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11014 V 7500",
         "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 2 Morning",
         "key": "6F 1B 6F F9 C0 09 11 DA"
