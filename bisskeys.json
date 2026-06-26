@@ -1,5 +1,17 @@
 [
   {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 H 7200",
+    "id": "LMG PATH 1",
+    "key": "0D 6D 90 0A 83 61 95 79 E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 H 7200",
+    "id": "LMG PATH 1",
+    "key": "0D 6D 90 0A 83 61 95 79"
+  },
+  {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11005 V 7200",
     "id": "D535_FIH_Berlin",
@@ -15,13 +27,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "8C CC E3 3B AB A3 A2 F0"
+    "key": "DA 91 02 6D 93 BE AC FD"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12574 H 7200",
-    "id": "ENC 5",
-    "key": "12 3C AA F8 14 22 A3 D9"
+    "frequency": "11568 V 9875",
+    "id": "ENC-23",
+    "key": "88 4B C2 95 82 7A 2B 27"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,8 +79,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11686 H 7200",
+    "frequency": "11685 H 7200",
     "id": "Infront Zagreb.",
     "key": "E7 4F FB 31 DD 06 26 09"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
+    "id": "POL-52 CM-5000",
+    "key": "AB BA 26 8B DC AE 06 90"
   }
 ]
