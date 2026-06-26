@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11014 V 7500",
+        "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 2 Morning",
+        "key": "6F 1B 6F F9 C0 09 11 DA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11045 V 9875",
+        "id": "WRC MAIN",
+        "key": "6F 65 D6 AA 86 E5 CF 3A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11473 V 30000",
+        "id": "WWE PGM P1S1P",
+        "key": "B2 39 D7 C2 7C F9 02 77"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11594 V 30000",
+        "id": "SVC 1 Trk Prodn MP4 10B",
+        "key": "B2 39 D7 C2 7C F9 02 77"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11044 H 7200",
         "id": "UFC PATH A P",
         "key": "9E 56 8E 82 76 C2 37 6F"
