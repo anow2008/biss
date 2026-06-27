@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 H 7200",
+        "id": "F521_C+F14_MAIN",
+        "key": "F5 21 F1 07 4F EE D1 0E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11568 V 9875",
+        "id": "ENC-23",
+        "key": "23 19 B0 EC 2E 79 DB 82"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "Fi01 ACB",
+        "key": "C3 D6 E4 7D D3 0B 1C FA"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12562 H 9600",
+        "id": "SNG ABC 1",
+        "key": "AA BB 55 BA 44 CC EE FE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11568 V 9875",
         "id": "ENC-23",
         "key": "52 59 D3 7E 84 F8 F0 6C"
