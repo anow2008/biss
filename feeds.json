@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 V 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10985 V 9600",
         "id": "POL-033 out1",
@@ -25,7 +31,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10969 H 7200",
+        "frequency": "10968 H 7200",
         "id": "F521_LNR_UK_MAIN",
         "key": "F5 21 F1 07 4F EE D2 0F"
     },
@@ -76,11 +82,5 @@
         "frequency": "12571 H 4938",
         "id": "YSM-016 MAIN",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11128 H 9875",
-        "id": "ROU-062 MAIN",
-        "key": "F1 C7 88 40 E7 5D 22 66"
     }
 ]
