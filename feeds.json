@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11190 V 15000",
+        "id": "Zuffa",
+        "key": "41 9A 10 EB 4B 67 8C 3E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12677 V 7500",
         "id": "ENC 3",
@@ -76,11 +82,5 @@
         "frequency": "11014 H 7200",
         "id": "Cage Warriors",
         "key": "FF 12 ED FE 33 52 31 B6"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12571 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
     }
 ]
