@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11548 V 14400",
+        "id": "SUPER FEED 3 PARIS",
+        "key": "FA BF D0 89 62 8E 65 55"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12638 V 7200",
+        "id": "NLFLEV_HOL-090 CH-C",
+        "key": "6D C6 2A 5D 8A F5 DB 5A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12645 H 14400",
+        "id": "ITA 689",
+        "key": "AB 22 BC 89 22 CD 22 11"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11014 V 7500",
+        "id": "LPGA - KPMG Featured GRP A Womens PGA Championship Day 3",
+        "key": "6F 1B 6F F9 C0 09 11 DA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12629 V 7200",
+        "id": "UFC Fight Night on P 15 All Fights",
+        "key": "9E 56 8E 82 76 C2 37 6F"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL044 TVN24 SZC",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11192 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "12 34 DC 22 BA 56 78 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12564 H 7200",
         "id": "D-473",
         "key": "06 27 DC 09 BA 20 26 00"
@@ -19,13 +61,13 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11064 V 9875",
+        "frequency": "11063 V 9875",
         "id": "E342 FEED 1",
         "key": "BE 4F 2C 39 BB 99 E4 38"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11006 V 7200",
+        "frequency": "11005 V 7200",
         "id": "D535_FIH_Berlin",
         "key": "49 5C CA 6F 17 12 61 8A"
     },
@@ -37,38 +79,8 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11043 H 7200",
-        "id": "UFC PATH A P",
-        "key": "9E 56 8E 82 76 C2 37 6F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12737 V 7200",
+        "frequency": "12736 V 7200",
         "id": "ITA 415 MAIN",
         "key": "20 26 06 4C AA E6 8A 1A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11593 V 30000",
-        "id": "Enc8 MP4 422 10B 25M-NetRtn",
-        "key": "B2 39 D7 C2 7C F9 02 77"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12586 V 9875",
-        "id": "IPF",
-        "key": "B6 A7 18 75 B9 35 09 F7"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
-        "id": "POL 030",
-        "key": "AB BA 26 8B DC AE 06 90"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11188 V 9875",
-        "id": "Luzern Rudern",
-        "key": "56 A3 AB A4 C7 35 F2 EE"
     }
 ]
