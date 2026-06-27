@@ -7,15 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10969 H 7200",
+    "frequency": "10968 H 7200",
     "id": "F521_LNR_UK_MAIN",
     "key": "F5 21 F1 07 4F EE D2 0F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 H 7200",
-    "id": "Cage Warriors",
-    "key": "FF 12 ED FE 33 52 31 B6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -25,45 +19,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11043 H 7200",
-    "id": "UFC PATH A P",
-    "key": "9E 56 8E 82 76 C2 37 6F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "The KIA OVAL ICC Women's T20",
     "key": "8C CC E3 3B AB A3 A2 F0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11473 V 30000",
-    "id": "WWE PGM P1S1P",
-    "key": "B2 39 D7 C2 7C F9 02 77"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11593 V 30000",
-    "id": "SVC 1 Trk Prodn MP4 10B",
-    "key": "B2 39 D7 C2 7C F9 02 77"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "20 25 AB F0 CD 20 26 13"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12594 H 7200",
-    "id": "UFC PATH C P",
-    "key": "9E 56 8E 82 76 C2 37 6F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12629 V 7200",
-    "id": "UFC Fight Night on P+ #15: All Fights",
-    "key": "9E 56 8E 82 76 C2 37 6F"
+    "frequency": "12677 V 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -75,13 +39,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "GCUK Enc 10",
-    "key": "6B B9 7B 9F 1A 04 DA F8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 H 7200",
-    "id": "D233",
-    "key": "6B B9 7B 9F 1A 04 DA F8"
+    "key": "7C 4A 9E 64 2F 58 1D A4"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -109,12 +67,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11075 V 9875",
-    "id": "SUI25 HD 1",
-    "key": "DA E9 85 48 4C 8B 8B 62"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11599 H 7200",
     "id": "F419_MAIN",
     "key": "76 28 92 30 35 33 B6 1E"
@@ -124,24 +76,6 @@
     "frequency": "11608 H 7200",
     "id": "SLQ 008 M",
     "key": "F0 A3 92 25 DB 36 C3 D4"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11617 H 7200",
-    "id": "SLQ-010 M",
-    "key": "BE 67 BD E2 72 E0 50 A2"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL-033 out1",
-    "key": "AB BA 26 8B DC AE 06 90"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11128 H 9875",
-    "id": "ROU-062 MAIN",
-    "key": "F1 C7 88 40 E7 5D 22 66"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
