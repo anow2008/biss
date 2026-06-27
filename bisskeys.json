@@ -7,33 +7,39 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7500",
-    "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 3",
-    "key": "6F 1B 6F F9 C0 09 11 DA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11014 H 7200",
     "id": "Cage Warriors",
     "key": "FF 12 ED FE 33 52 31 B6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11044 H 7200",
+    "frequency": "11014 V 7500",
+    "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 3",
+    "key": "6F 1B 6F F9 C0 09 11 DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11043 H 7200",
     "id": "UFC PATH A P",
     "key": "9E 56 8E 82 76 C2 37 6F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
-    "id": "IMG A EU",
-    "key": "DA 91 02 6D 93 BE AC FD"
+    "frequency": "11070 H 7200",
+    "id": "The KIA OVAL ICC Women's T20",
+    "key": "8C CC E3 3B AB A3 A2 F0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11474 V 30000",
     "id": "WWE PGM P1S1P",
     "key": "B2 39 D7 C2 7C F9 02 77"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11568 V 9875",
+    "id": "ENC-23",
+    "key": "52 59 D3 7E 84 F8 F0 6C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -61,15 +67,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12638 V 7200",
-    "id": "NLFLEV_HOL-090 CH-C",
-    "key": "6D C6 2A 5D 8A F5 DB 5A"
+    "frequency": "12644 H 14400",
+    "id": "ITA 689",
+    "key": "AB 22 BC 89 22 CD 22 11"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12645 H 14400",
-    "id": "ITA 689",
-    "key": "AB 22 BC 89 22 CD 22 11"
+    "frequency": "12652 V 14400",
+    "id": "NEP 01",
+    "key": "6F 65 D6 AA 86 E5 CF 3A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -109,19 +115,19 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11600 H 7200",
+    "frequency": "11599 H 7200",
     "id": "F419_MAIN",
     "key": "76 28 92 30 35 33 B6 1E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 H 7200",
+    "frequency": "11608 H 7200",
     "id": "SLQ 008 M",
     "key": "F0 A3 92 25 DB 36 C3 D4"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11618 H 7200",
+    "frequency": "11617 H 7200",
     "id": "SLQ-010 M",
     "key": "BE 67 BD E2 72 E0 50 A2"
   },
@@ -148,12 +154,6 @@
     "frequency": "11140 H 9875",
     "id": "ROU-015 MATCH 2 MAIN",
     "key": "F1 C7 88 40 E7 5D 22 66"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11191 H 4938",
-    "id": "MTVA SNG HUNGARY",
-    "key": "12 34 DC 22 BA 56 78 88"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
