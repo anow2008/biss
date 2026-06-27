@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7500",
-    "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 3",
-    "key": "6F 1B 6F F9 C0 09 11 DA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "The KIA OVAL ICC Women's T20",
     "key": "8C CC E3 3B AB A3 A2 F0"
@@ -64,29 +58,5 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11599 H 7200",
-    "id": "F419_MAIN",
-    "key": "76 28 92 30 35 33 B6 1E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11608 H 7200",
-    "id": "SLQ 008 M",
-    "key": "F0 A3 92 25 DB 36 C3 D4"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12562 H 9600",
-    "id": "SNG ABC 1",
-    "key": "AA BB 55 BA 44 CC EE FE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12571 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
