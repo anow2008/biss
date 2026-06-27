@@ -39,7 +39,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11568 V 9875",
     "id": "ENC-23",
-    "key": "52 59 D3 7E 84 F8 F0 6C"
+    "key": "23 19 B0 EC 2E 79 DB 82"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -64,12 +64,6 @@
     "frequency": "12644 H 14400",
     "id": "ITA 689",
     "key": "AB 22 BC 89 22 CD 22 11"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12652 V 14400",
-    "id": "NEP 01",
-    "key": "6F 65 D6 AA 86 E5 CF 3A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -103,12 +97,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11063 V 9875",
-    "id": "E342 FEED 1",
-    "key": "BE 4F 2C 39 BB 99 E4 38"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11075 V 9875",
     "id": "SUI25 HD 1",
     "key": "DA E9 85 48 4C 8B 8B 62"
@@ -135,12 +123,6 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11128 H 9875",
     "id": "ROU-062 MAIN",
-    "key": "F1 C7 88 40 E7 5D 22 66"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11140 H 9875",
-    "id": "ROU-015 MATCH 2 MAIN",
     "key": "F1 C7 88 40 E7 5D 22 66"
   },
   {
