@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12742 H 7200",
+        "id": "QTV-HD",
+        "key": "87 86 74 81 7A 34 C5 73"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12685 H 7200",
+        "id": "2Sat HOL89 Main",
+        "key": "BA 27 F8 D9 9D DC 28 A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12594 H 7200",
+        "id": "UFC PATH C P",
+        "key": "9E 56 8E 82 76 C2 37 6F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12574 H 7200",
+        "id": "ENC 5",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "DA 91 02 6D 93 BE AC FD"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10974 V 9600",
         "id": "POL-52 CM-5000",
@@ -22,47 +52,5 @@
         "frequency": "11568 V 9875",
         "id": "ENC-23",
         "key": "88 4B C2 95 82 7A 2B 27"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12685 H 7200",
-        "id": "2Sat HOL89 Main",
-        "key": "BA 27 F8 D9 9D DC 28 A1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11599 H 7200",
-        "id": "F419_MAIN",
-        "key": "D7 D3 DB 85 16 92 9F 47"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12644 H 14400",
-        "id": "ITA 689",
-        "key": "AB 22 BC 89 22 CD 22 11"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11617 H 7200",
-        "id": "SLQ-010 M",
-        "key": "A6 F6 ED 89 EF 6C C7 22"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11608 H 7200",
-        "id": "SLQ 008 M",
-        "key": "54 70 5E 22 16 0C B3 D5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11594 V 30000",
-        "id": "Enc8 MP4 422 10B 25M-NetRtn",
-        "key": "B2 39 D7 C2 7C F9 02 77"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11045 V 9875",
-        "id": "WRC MAIN",
-        "key": "6F 65 D6 AA 86 E5 CF 3A"
     }
 ]
