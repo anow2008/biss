@@ -1,19 +1,43 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "E434 Via1 Ciclismo Huesca",
-    "key": "DA 91 02 6D 93 BE AC FD"
+    "frequency": "11006 V 7200",
+    "id": "D535_FIH_Berlin",
+    "key": "49 5C CA 6F 17 12 61 8A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11043 H 7200",
+    "id": "UFC PATH A P",
+    "key": "9E 56 8E 82 76 C2 37 6F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "DA 91 02 6D 93 BE AC FD"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12574 H 7200",
+    "frequency": "11474 V 30000",
+    "id": "WWE PGM P1S1P",
+    "key": "B2 39 D7 C2 7C F9 02 77"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11593 V 30000",
+    "id": "SVC 1 Trk Prodn MP4 10B",
+    "key": "B2 39 D7 C2 7C F9 02 77"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12565 H 7200",
+    "id": "D-473",
+    "key": "06 27 DC 09 BA 20 26 00"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12573 H 7200",
     "id": "ENC 5",
     "key": "12 3C AA F8 14 22 A3 D9"
   },
@@ -31,9 +55,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12742 H 7200",
-    "id": "QTV-HD",
-    "key": "87 86 74 81 7A 34 C5 73"
+    "frequency": "12737 V 7200",
+    "id": "ITA 415 MAIN",
+    "key": "20 26 06 4C AA E6 8A 1A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -43,7 +67,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
@@ -56,13 +80,37 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11052 H 4938",
-    "id": "Unname",
+    "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11187 V 9875",
+    "frequency": "11064 V 9875",
+    "id": "E342 FEED 1",
+    "key": "BE 4F 2C 39 BB 99 E4 38"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11188 V 9875",
     "id": "Luzern Rudern",
     "key": "56 A3 AB A4 C7 35 F2 EE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12586 V 9875",
+    "id": "IPF",
+    "key": "B6 A7 18 75 B9 35 09 F7"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10971 V 4800",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 06 90"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11141 H 9875",
+    "id": "ROU-015 MATCH 2 MAIN",
+    "key": "F1 C7 88 40 E7 5D 22 66"
   }
 ]
