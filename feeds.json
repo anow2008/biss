@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "Fi01 ACB",
+        "key": "C3 D6 E4 7D D3 0B 1C FA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11075 V 9875",
+        "id": "SUI25 HD 1",
+        "key": "DA E9 85 48 4C 8B 8B 62"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11163 H 7200",
+        "id": "HUN-013 Line 1",
+        "key": "91 BB 68 B4 FE A6 DA 7E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12652 V 14400",
         "id": "NEP 02",
@@ -52,29 +70,5 @@
         "frequency": "11548 V 14400",
         "id": "SUPER FEED 3 PARIS",
         "key": "FA BF D0 89 62 8E 65 55"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12638 V 7200",
-        "id": "NLFLEV_HOL-090 CH-C",
-        "key": "6D C6 2A 5D 8A F5 DB 5A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12644 H 14400",
-        "id": "ITA 689",
-        "key": "AB 22 BC 89 22 CD 22 11"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11014 V 7500",
-        "id": "LPGA - KPMG Featured GRP A Womens PGA Championship Day 3",
-        "key": "6F 1B 6F F9 C0 09 11 DA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12629 V 7200",
-        "id": "UFC Fight Night on P 15 All Fights",
-        "key": "9E 56 8E 82 76 C2 37 6F"
     }
 ]
