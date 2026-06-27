@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10968 H 7200",
+        "id": "F521_LNR_UK_MAIN",
+        "key": "F5 21 F1 07 4F EE D2 0F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12510 V 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "20 25 AB F0 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12677 V 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11301 H 9500",
+        "id": "ITA473",
+        "key": "EB 45 EB 1B 89 AC 00 35"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 H 7200",
+        "id": "D233",
+        "key": "6B B9 7B 9F 1A 04 DA F8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10867 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "7C 4A 9E 64 2F 58 1D A4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 H 7200",
         "id": "F521_C+F14_MAIN",
         "key": "F5 21 F1 07 4F EE D1 0E"
