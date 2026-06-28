@@ -1,1 +1,68 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11071 H 7200",
+        "id": "ICC WT20 SA-BAN + AUS-IND",
+        "key": "2B 35 E2 42 8D 13 D2 72"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12684 H 7200",
+        "id": "2Sat HOL89 Main",
+        "key": "BA 27 F8 D9 9D DC 28 A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12737 V 7200",
+        "id": "ITA 415 MAIN",
+        "key": "20 26 06 4C AA E6 8A 1A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12742 H 7200",
+        "id": "QTV-HD",
+        "key": "87 86 74 81 7A 34 C5 73"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11040 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11063 V 9875",
+        "id": "E342 FEED 1 MAIN",
+        "key": "BE 4F 2C 39 BB 99 E4 38"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11187 V 9875",
+        "id": "Lucerne World Rowing",
+        "key": "56 A3 AB A4 C7 35 F2 EE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12586 V 9875",
+        "id": "IPF",
+        "key": "B6 51 5C 63 D9 6B 85 C9"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11129 H 9875",
+        "id": "ROU-062 MAIN",
+        "key": "C7 8F 18 6E E7 5D 45 89"
+    }
+]
