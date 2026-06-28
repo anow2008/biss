@@ -1,7 +1,25 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-033 out1",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10964 V 14400",
+        "frequency": "12574 H 7200",
+        "id": "DNK-ORE6",
+        "key": "00 00 00 00 00 00 00 00"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10978 V 7200",
+        "id": "CLEAN COMM ELITE1 ASM/BDX",
+        "key": "F5 78 5E CB FF EE D2 BF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10965 V 14400",
         "id": "PRINCIPAL C ASM/BDX ELITE1",
         "key": "F5 78 5E CB FF EE D1 BE"
     },
@@ -37,7 +55,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11652 H 14400",
+        "frequency": "11651 H 14400",
         "id": "SUPER FEED 3 PARIS",
         "key": "FA BF D0 89 62 8E 65 55"
     },
@@ -46,23 +64,5 @@
         "frequency": "11014 V 7500",
         "id": "LPGA - KPMG Featured GRP A Womens PGA Championship Day 4",
         "key": "6F 1B 6F F9 C0 09 11 DA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12645 H 14400",
-        "id": "ITA 689",
-        "key": "AB 22 BC 89 22 CD 22 11"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11168 H 4938",
-        "id": "HUN-013 Line 1",
-        "key": "10 6E EC 6A 44 34 28 A0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11569 V 9875",
-        "id": "ENC-23",
-        "key": "23 19 B0 EC 2E 79 DB 82"
     }
 ]
