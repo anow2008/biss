@@ -1,6 +1,72 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11005 V 7200",
+        "id": "D535_FIH_Berlin",
+        "key": "49 5C CA 6F 17 12 61 8A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11053 H 7200",
+        "id": "PETANQUE AJACCIO",
+        "key": "F4 94 42 CA 9A 67 EA EB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11569 V 9875",
+        "id": "ENC-23",
+        "key": "EF FE D8 C5 D4 04 45 1D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12536 V 7200",
+        "id": "BEL68 - Enc.1 CEV EU League Doetinchem",
+        "key": "A5 9C 34 75 F7 7C CF 42"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12651 V 14400",
+        "id": "NEP 01",
+        "key": "6F 65 D6 AA 86 E5 CF 3A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11089 V 7200",
+        "id": "WGYM CLUJ",
+        "key": "BA BB 6A DF D2 CE 81 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11600 H 7200",
+        "id": "F419_MAIN",
+        "key": "37 09 63 A3 FF D3 F9 CB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11608 H 7200",
+        "id": "SLQ 008 M",
+        "key": "25 99 2C EA 02 C8 7D 47"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11618 H 7200",
+        "id": "SLQ-010 M",
+        "key": "E9 F6 83 62 92 92 BE E2"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10964 V 4800",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10996 V 7500",
+        "id": "POL021 p1 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11071 H 7200",
         "id": "ICC WT20 SA-BAN + AUS-IND",
         "key": "2B 35 E2 42 8D 13 D2 72"
