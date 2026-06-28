@@ -1,6 +1,18 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10964 V 14400",
+    "id": "PRINCIPAL C+ ASM/BDX ELITE1",
+    "key": "F0 08 F5 ED 78 F4 35 A1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 V 7200",
+    "id": "UPLINK ADVALEM",
+    "key": "F0 08 F5 ED 78 F4 35 A1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11005 V 7200",
     "id": "D535_FIH_Berlin",
     "key": "49 5C CA 6F 17 12 61 8A"
@@ -10,6 +22,12 @@
     "frequency": "11014 V 7500",
     "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 4",
     "key": "6F 1B 6F F9 C0 09 11 DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 H 7200",
+    "id": "ITA 560 FIRENZE - AFLE PRO",
+    "key": "28 06 FE 2C CD 17 94 78"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -25,39 +43,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11569 V 9875",
-    "id": "ENC-23",
-    "key": "EF FE D8 C5 D4 04 45 1D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12536 V 7200",
-    "id": "BEL68 - Enc.1 CEV EU League Doetinchem",
-    "key": "A5 9C 34 75 F7 7C CF 42"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12645 H 14400",
     "id": "ITA 689",
     "key": "AB 22 BC 89 22 CD 22 11"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12651 V 14400",
-    "id": "NEP 01",
-    "key": "6F 65 D6 AA 86 E5 CF 3A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12685 H 7200",
-    "id": "2Sat HOL89 Main",
-    "key": "BA 27 F8 D9 9D DC 28 A1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
-    "id": "ITA 415 MAIN",
-    "key": "20 26 06 4C AA E6 8A 1A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -85,19 +73,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11088 V 7200",
+    "frequency": "11089 V 7200",
     "id": "WGYM CLUJ",
     "key": "BA BB 6A DF D2 CE 81 21"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11187 V 9875",
-    "id": "Lucerne World Rowing",
-    "key": "56 A3 AB A4 C7 35 F2 EE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11599 H 7200",
+    "frequency": "11600 H 7200",
     "id": "F419_MAIN",
     "key": "37 09 63 A3 FF D3 F9 CB"
   },
@@ -115,15 +97,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12586 V 9875",
+    "frequency": "12585 V 9875",
     "id": "IPF",
     "key": "B6 51 5C 63 D9 6B 85 C9"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-056 ENC 2",
-    "key": "C7 8F 18 6E E7 5D 45 89"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -142,5 +118,17 @@
     "frequency": "11168 H 4938",
     "id": "HUN-013 Line 1",
     "key": "10 6E EC 6A 44 34 28 A0"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11177 H 9875",
+    "id": "Under 19's Match 2 Germany v Denmark",
+    "key": "F2 C5 67 1E E7 5D 98 DC"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11189 H 9875",
+    "id": "Unname",
+    "key": "F2 C5 67 1E E7 5D 98 DC"
   }
 ]
