@@ -1,9 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10964 V 14400",
+    "frequency": "10965 V 14400",
     "id": "PRINCIPAL C+ ASM/BDX ELITE1",
-    "key": "F0 08 F5 ED 78 F4 35 A1"
+    "key": "F5 78 5E CB FF EE D1 BE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10978 V 7200",
+    "id": "CLEAN COMM ELITE1 ASM/BDX",
+    "key": "F5 78 5E CB FF EE D2 BF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10987 V 7200",
+    "id": "DEFAULT",
+    "key": "F4 35 5E 87 FF EE D3 C0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -25,43 +37,37 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 H 7200",
-    "id": "ITA 560 FIRENZE - AFLE PRO",
-    "key": "28 06 FE 2C CD 17 94 78"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11053 H 7200",
-    "id": "PETANQUE AJACCIO",
-    "key": "F4 94 42 CA 9A 67 EA EB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "ICC WT20 SA-BAN + AUS-IND",
     "key": "2B 35 E2 42 8D 13 D2 72"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12645 H 14400",
+    "frequency": "12574 H 7200",
+    "id": "DNK-ORE6",
+    "key": "00 00 00 00 00 00 00 00"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12644 H 14400",
     "id": "ITA 689",
     "key": "AB 22 BC 89 22 CD 22 11"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
   },
@@ -73,19 +79,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7200",
-    "id": "WGYM CLUJ",
-    "key": "BA BB 6A DF D2 CE 81 21"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11600 H 7200",
     "id": "F419_MAIN",
     "key": "37 09 63 A3 FF D3 F9 CB"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11608 H 7200",
+    "frequency": "11609 H 7200",
     "id": "SLQ 008 M",
     "key": "25 99 2C EA 02 C8 7D 47"
   },
@@ -97,37 +97,25 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12585 V 9875",
-    "id": "IPF",
-    "key": "B6 51 5C 63 D9 6B 85 C9"
+    "frequency": "11651 H 14400",
+    "id": "SUPER FEED1 PARIS",
+    "key": "FA BF D0 89 62 8E 65 55"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11129 H 9875",
-    "id": "ROU-062 MAIN",
-    "key": "C7 8F 18 6E E7 5D 45 89"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11141 H 9875",
+    "frequency": "11140 H 9875",
     "id": "ROU-015 MATCH 3 MAIN",
     "key": "C7 8F 18 6E E7 5D 45 89"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11168 H 4938",
+    "frequency": "11167 H 4938",
     "id": "HUN-013 Line 1",
     "key": "10 6E EC 6A 44 34 28 A0"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11177 H 9875",
-    "id": "Under 19's Match 2 Germany v Denmark",
-    "key": "F2 C5 67 1E E7 5D 98 DC"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11189 H 9875",
+    "frequency": "11188 H 9875",
     "id": "Unname",
     "key": "F2 C5 67 1E E7 5D 98 DC"
   }
