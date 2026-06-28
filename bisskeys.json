@@ -24,42 +24,6 @@
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11301 H 9500",
-    "id": "ITA473",
-    "key": "EB 45 EB 1B 89 AC 00 35"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "GCUK Enc 10",
-    "key": "7C 4A 9E 64 2F 58 1D A4"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10867 H 7200",
-    "id": "BWF WF-A C1 BISS-1",
-    "key": "7C 4A 9E 64 2F 58 1D A4"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11039 H 4938",
-    "id": "EBU 1 ENC",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11045 H 4938",
-    "id": "EBU 2 ENC",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11051 H 4938",
-    "id": "EBU 3 ENC",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11190 V 15000",
     "id": "Zuffa",
