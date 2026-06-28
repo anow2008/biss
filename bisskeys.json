@@ -1,30 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10965 V 14400",
-    "id": "PRINCIPAL C+ ASM/BDX ELITE1",
-    "key": "F5 78 5E CB FF EE D1 BE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10978 V 7200",
-    "id": "CLEAN COMM ELITE1 ASM/BDX",
-    "key": "F5 78 5E CB FF EE D2 BF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7200",
-    "id": "DEFAULT",
-    "key": "F4 35 5E 87 FF EE D3 C0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 V 7200",
-    "id": "UPLINK ADVALEM",
-    "key": "F0 08 F5 ED 78 F4 35 A1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11014 V 7500",
     "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 4",
     "key": "6F 1B 6F F9 C0 09 11 DA"
@@ -37,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11568 V 9875",
-    "id": "ENC-23",
-    "key": "07 86 0A 97 98 6A E9 EB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12509 V 4938",
     "id": "YSM-016 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
@@ -50,7 +20,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12632 H 4440",
-    "id": "MRC-003/WF1",
+    "id": "MRC-003/WF2",
     "key": "FE ED 28 13 06 20 26 4C"
   },
   {
@@ -66,16 +36,16 @@
     "key": "6F 1B 6F F9 C0 09 11 DA"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "ENC 3",
-    "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "GCUK Enc 9",
-    "key": "D5 4B A7 C7 90 0D 11 AE"
+    "key": "E3 B8 D1 6C A6 F9 C4 63"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10867 H 7200",
+    "id": "BWF WF-A C1 BISS-1",
+    "key": "E3 B8 D1 6C A6 F9 C4 63"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -112,24 +82,6 @@
     "frequency": "11617 H 7200",
     "id": "SLQ-010 M",
     "key": "E9 F6 83 62 92 92 BE E2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 H 7200",
-    "id": "PATH1 WORLD FEED PARIS",
-    "key": "FB AF D0 7A 62 8E 65 55"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
-    "id": "SUPER FEED1 PARIS",
-    "key": "FA BF D0 89 62 8E 65 55"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-78 ENC 1",
-    "key": "AB BA 26 8B DC AE 06 90"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
