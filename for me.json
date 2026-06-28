@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10964 V 14400",
+        "id": "PRINCIPAL C+ ASM/BDX ELITE1",
+        "key": "F5 78 5E CB FF EE D1 BE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10987 V 7200",
+        "id": "DEFAULT",
+        "key": "F4 35 5E 87 FF EE D3 C0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10996 V 7200",
+        "id": "UPLINK ADVALEM",
+        "key": "F0 08 F5 ED 78 F4 35 A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 H 7200",
+        "id": "ITA 560 FIRENZE - AFLE PRO",
+        "key": "28 06 FE 2C CD 17 94 78"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11014 V 7500",
         "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 4",
         "key": "6F 1B 6F F9 C0 09 11 DA"
