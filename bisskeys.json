@@ -31,12 +31,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11043 H 7200",
-    "id": "SLQ 001",
-    "key": "A2 02 62 06 80 6A BC A6"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "ICC WT20 SA-BAN + AUS-IND",
     "key": "2B 35 E2 42 8D 13 D2 72"
@@ -55,6 +49,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12632 H 4440",
+    "id": "MRC-003/WF1",
+    "key": "FE ED 28 13 06 20 26 4C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12644 H 14400",
     "id": "ITA 689",
     "key": "AB 22 BC 89 22 CD 22 11"
@@ -64,6 +64,12 @@
     "frequency": "12677 V 7500",
     "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 4",
     "key": "6F 1B 6F F9 C0 09 11 DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -88,12 +94,6 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11063 V 9875",
-    "id": "E342 FEED 1 MAIN",
-    "key": "BE 4F 2C 39 BB 99 E4 38"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -139,12 +139,6 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11140 H 9875",
-    "id": "ROU-015 MATCH 3 MAIN",
-    "key": "C7 8F 18 6E E7 5D 45 89"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11176 H 9875",
     "id": "Match 2 U19 Germany v Denmark Main",
     "key": "F2 C5 67 1E E7 5D 98 DC"
@@ -154,5 +148,11 @@
     "frequency": "11188 H 9875",
     "id": "Unname",
     "key": "F2 C5 67 1E E7 5D 98 DC"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12562 H 9600",
+    "id": "SNG ABC 1",
+    "key": "AA BB 55 BA 44 CC EE FE"
   }
 ]
