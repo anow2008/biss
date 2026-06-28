@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12562 H 9600",
+        "id": "SNG ABC 1",
+        "key": "AA BB 55 BA 44 CC EE FE"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11568 V 9875",
         "id": "ENC-23",
