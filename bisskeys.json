@@ -7,6 +7,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7500",
+    "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 4",
+    "key": "6F 1B 6F F9 C0 09 11 DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11053 H 7200",
     "id": "PETANQUE AJACCIO",
     "key": "F4 94 42 CA 9A 67 EA EB"
@@ -31,13 +37,19 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12645 H 14400",
+    "id": "ITA 689",
+    "key": "AB 22 BC 89 22 CD 22 11"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12651 V 14400",
     "id": "NEP 01",
     "key": "6F 65 D6 AA 86 E5 CF 3A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12684 H 7200",
+    "frequency": "12685 H 7200",
     "id": "2Sat HOL89 Main",
     "key": "BA 27 F8 D9 9D DC 28 A1"
   },
@@ -46,12 +58,6 @@
     "frequency": "12737 V 7200",
     "id": "ITA 415 MAIN",
     "key": "20 26 06 4C AA E6 8A 1A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12742 H 7200",
-    "id": "QTV-HD",
-    "key": "87 86 74 81 7A 34 C5 73"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -79,7 +85,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7200",
+    "frequency": "11088 V 7200",
     "id": "WGYM CLUJ",
     "key": "BA BB 6A DF D2 CE 81 21"
   },
@@ -91,7 +97,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11600 H 7200",
+    "frequency": "11599 H 7200",
     "id": "F419_MAIN",
     "key": "37 09 63 A3 FF D3 F9 CB"
   },
@@ -115,15 +121,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10964 V 4800",
-    "id": "POL-077 ENC-1",
-    "key": "AB BA 26 8B DC AE 06 90"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL021 p1 WAW",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "10974 V 9600",
+    "id": "POL-056 ENC 2",
+    "key": "C7 8F 18 6E E7 5D 45 89"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -136,5 +136,11 @@
     "frequency": "11141 H 9875",
     "id": "ROU-015 MATCH 3 MAIN",
     "key": "C7 8F 18 6E E7 5D 45 89"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11168 H 4938",
+    "id": "HUN-013 Line 1",
+    "key": "10 6E EC 6A 44 34 28 A0"
   }
 ]
