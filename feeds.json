@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10867 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "E3 B8 D1 6C A6 F9 C4 63"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12727 V 7500",
         "id": "ENC 3",
@@ -14,7 +20,7 @@
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12632 H 4440",
-        "id": "MRC-003/WF1",
+        "id": "MRC-003/WF2",
         "key": "FE ED 28 13 06 20 26 4C"
     },
     {
@@ -88,11 +94,5 @@
         "frequency": "11043 H 7200",
         "id": "SLQ 001",
         "key": "A2 02 62 06 80 6A BC A6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11023 H 7200",
-        "id": "ITA 560 FIRENZE - AFLE PRO",
-        "key": "28 06 FE 2C CD 17 94 78"
     }
 ]
