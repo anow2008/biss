@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12727 V 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12562 H 9600",
+        "id": "SNG ABC 1",
+        "key": "AA BB 55 BA 44 CC EE FE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12632 H 4440",
         "id": "MRC-003/WF1",
         "key": "FE ED 28 13 06 20 26 4C"
