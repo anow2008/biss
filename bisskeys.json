@@ -25,15 +25,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 V 7200",
-    "id": "D535_FIH_Berlin",
-    "key": "49 5C CA 6F 17 12 61 8A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11014 V 7500",
     "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 4",
     "key": "6F 1B 6F F9 C0 09 11 DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11043 H 7200",
+    "id": "SLQ 001",
+    "key": "A2 02 62 06 80 6A BC A6"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,15 +43,33 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12574 H 7200",
-    "id": "DNK-ORE6",
-    "key": "00 00 00 00 00 00 00 00"
+    "frequency": "11568 V 9875",
+    "id": "ENC-23",
+    "key": "07 86 0A 97 98 6A E9 EB"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12509 V 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12644 H 14400",
     "id": "ITA 689",
     "key": "AB 22 BC 89 22 CD 22 11"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7500",
+    "id": "LPGA - KPMG Featured GRP A Women's PGA Championship Day 4",
+    "key": "6F 1B 6F F9 C0 09 11 DA"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "GCUK Enc 9",
+    "key": "D5 4B A7 C7 90 0D 11 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -79,21 +97,27 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11600 H 7200",
+    "frequency": "11599 H 7200",
     "id": "F419_MAIN",
     "key": "37 09 63 A3 FF D3 F9 CB"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 H 7200",
+    "frequency": "11608 H 7200",
     "id": "SLQ 008 M",
     "key": "25 99 2C EA 02 C8 7D 47"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11618 H 7200",
+    "frequency": "11617 H 7200",
     "id": "SLQ-010 M",
     "key": "E9 F6 83 62 92 92 BE E2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11637 H 7200",
+    "id": "PATH1 WORLD FEED PARIS",
+    "key": "FB AF D0 7A 62 8E 65 55"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -103,15 +127,27 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
+    "id": "POL-78 ENC 1",
+    "key": "AB BA 26 8B DC AE 06 90"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL-033 out1",
+    "key": "AB BA 26 8B DC AE 06 90"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11140 H 9875",
     "id": "ROU-015 MATCH 3 MAIN",
     "key": "C7 8F 18 6E E7 5D 45 89"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11167 H 4938",
-    "id": "HUN-013 Line 1",
-    "key": "10 6E EC 6A 44 34 28 A0"
+    "frequency": "11176 H 9875",
+    "id": "Match 2 U19 Germany v Denmark Main",
+    "key": "F2 C5 67 1E E7 5D 98 DC"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
