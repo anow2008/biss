@@ -1,5 +1,71 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11569 V 9875",
+        "id": "ENC-23",
+        "key": "EF FE D8 C5 D4 04 45 1D"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL021 p1 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10964 V 4800",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11618 H 7200",
+        "id": "SLQ-010 M",
+        "key": "E9 F6 83 62 92 92 BE E2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11600 H 7200",
+        "id": "F419_MAIN",
+        "key": "37 09 63 A3 FF D3 F9 CB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12651 V 14400",
+        "id": "NEP 02",
+        "key": "6F 65 D6 AA 86 E5 CF 3A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11141 H 9875",
+        "id": "ROU-015 MATCH 3 MAIN",
+        "key": "C7 8F 18 6E E7 5D 45 89"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11089 V 7200",
+        "id": "WGYM CLUJ",
+        "key": "BA BB 6A DF D2 CE 81 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11608 H 7200",
+        "id": "SLQ 008 M",
+        "key": "F0 A3 92 25 DB 36 C3 D4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11608 H 7200",
+        "id": "SLQ 008 M",
+        "key": "25 99 2C EA 02 C8 7D 47"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11005 V 7200",
+        "id": "D535_FIH_Berlin",
+        "key": "49 5C CA 6F 17 12 61 8A"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11187 V 9875",
         "id": "Lucerne World Rowing",
@@ -16,59 +82,5 @@
         "frequency": "11053 H 7200",
         "id": "PETANQUE AJACCIO",
         "key": "F4 94 42 CA 9A 67 EA EB"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10988 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 06 90"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11129 H 9875",
-        "id": "ROU-062 MAIN",
-        "key": "C7 8F 18 6E E7 5D 45 89"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11192 H 4938",
-        "id": "MTVA SNG HUNGARY",
-        "key": "12 34 DC 22 BA 56 78 88"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12586 V 9875",
-        "id": "IPF",
-        "key": "B6 51 5C 63 D9 6B 85 C9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11063 V 9875",
-        "id": "E342 FEED 1 MAIN",
-        "key": "BE 4F 2C 39 BB 99 E4 38"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11071 H 7200",
-        "id": "ICC WT20 SA-BAN  AUS-IND",
-        "key": "2B 35 E2 42 8D 13 D2 72"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "D5 4B A7 C7 90 0D 11 AE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ITA 415 MAIN",
-        "key": "20 26 06 4C AA E6 8A 1A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11607 V 7120",
-        "id": "NLEMG HOL7-1",
-        "key": "A4 DA 4A C8 8C 7E A2 AC"
     }
 ]
