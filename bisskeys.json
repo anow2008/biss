@@ -7,9 +7,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11607 V 7200",
-    "id": "Backup",
+    "frequency": "11606 V 7200",
+    "id": "main1",
     "key": "DA CD D3 7A 83 D4 44 9B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7200",
+    "id": "enc-22",
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -39,12 +45,6 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11176 H 9875",
     "id": "M04 Croatia Main",
-    "key": "C6 A3 84 ED EC D6 AE 70"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11188 H 9875",
-    "id": "U19 Caernafon Main",
     "key": "C6 A3 84 ED EC D6 AE 70"
   }
 ]
