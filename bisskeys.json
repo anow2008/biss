@@ -34,11 +34,5 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11176 H 9875",
-    "id": "M04 Croatia Main",
-    "key": "C6 A3 84 ED EC D6 AE 70"
   }
 ]
