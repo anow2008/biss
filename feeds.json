@@ -58,11 +58,5 @@
         "frequency": "10867 H 7200",
         "id": "BWF WF-A C1 BISS-1",
         "key": "E3 B8 D1 6C A6 F9 C4 63"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12727 V 7500",
-        "id": "ENC 3",
-        "key": "F1 07 45 3D E6 CB AD 5E"
     }
 ]
