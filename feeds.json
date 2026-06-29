@@ -1,9 +1,39 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10970 V 4800",
-        "id": "pol-053_enc2",
+        "frequency": "10964 V 4800",
+        "id": "POL 48 ENC1",
         "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11189 H 9875",
+        "id": "U19 Caernafon Main",
+        "key": "C6 A3 84 ED EC D6 AE 70"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "B0 9A CA 14 C1 12 09 DC"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL021 p1 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "D5 4B A7 C7 90 0D 11 AE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12737 V 7200",
+        "id": "ENC 2",
+        "key": "FF E1 90 70 12 AC EF AD"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -40,53 +70,5 @@
         "frequency": "12677 V 7500",
         "id": "LPGA - KPMG Featured GRP A Womens PGA Championship Day 4",
         "key": "6F 1B 6F F9 C0 09 11 DA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11568 V 9875",
-        "id": "ENC-23",
-        "key": "07 86 0A 97 98 6A E9 EB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12509 V 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12574 H 7200",
-        "id": "DNK-ORE6",
-        "key": "00 00 00 00 00 00 00 00"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10978 V 7200",
-        "id": "CLEAN COMM ELITE1 ASM/BDX",
-        "key": "F5 78 5E CB FF EE D2 BF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10965 V 14400",
-        "id": "PRINCIPAL C ASM/BDX ELITE1",
-        "key": "F5 78 5E CB FF EE D1 BE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10987 V 7200",
-        "id": "DEFAULT",
-        "key": "F4 35 5E 87 FF EE D3 C0"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11176 H 9875",
-        "id": "Match 2 U19 Germany v Denmark Main",
-        "key": "F2 C5 67 1E E7 5D 98 DC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11637 H 7200",
-        "id": "PATH1 WORLD FEED PARIS",
-        "key": "FB AF D0 7A 62 8E 65 55"
     }
 ]
