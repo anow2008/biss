@@ -1,7 +1,19 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12737 V 7200",
+        "frequency": "12574 H 7200",
+        "id": "DNK-ORE6",
+        "key": "A1 99 BA F4 CA 9D C8 2F"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10970 V 4800",
+        "id": "POL-10 ENC1",
+        "key": "AB BA 26 8B DC AE 06 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
         "id": "ENC 2",
         "key": "BA C1 90 0B 93 CA DE 3B"
     },
@@ -14,7 +26,7 @@
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10996 V 7500",
-        "id": "POL037 TVN24 BIA",
+        "id": "POL082 TVN WAW",
         "key": "77 93 52 5C 99 08 86 27"
     },
     {
@@ -22,17 +34,5 @@
         "frequency": "11052 H 4938",
         "id": "EBU 3 ENC",
         "key": "D5 4B A7 C7 90 0D 11 AE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12727 V 7200",
-        "id": "enc-22",
-        "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11176 H 9875",
-        "id": "M04 Croatia Main",
-        "key": "C6 A3 84 ED EC D6 AE 70"
     }
 ]
