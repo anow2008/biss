@@ -28,11 +28,5 @@
     "frequency": "11052 H 4938",
     "id": "EBU 3 ENC",
     "key": "D5 4B A7 C7 90 0D 11 AE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL037 TVN24 BIA",
-    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
