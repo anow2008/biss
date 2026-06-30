@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
         "satellite": "Eutelsat 16A",
         "frequency": "10970 V 4800",
         "id": "POL-10 ENC1",
