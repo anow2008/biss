@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12565 H 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "A2 CC 9A 08 CA 7D A8 EF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12686 V 7200",
+        "id": "TUR-162 M",
+        "key": "C8 49 BA CB 8C 89 F8 0D"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11188 H 9875",
         "id": "Match 05 U19 Denmark v Spain Main",
