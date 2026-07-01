@@ -1,7 +1,25 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
+        "frequency": "12678 V 7200",
+        "id": "ENC 3",
+        "key": "AB 01 07 B3 BA 20 26 00"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11487 V 7200",
+        "id": "HOL324 TX1",
+        "key": "9E 7C 5A 74 3F 1D 2B 87"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12737 V 7200",
         "id": "ENC 2",
         "key": "DE 89 DF 46 E8 E0 01 C9"
     },
@@ -10,29 +28,5 @@
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "AB EC 12 A9 03 23 DA 00"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7200",
-        "id": "LMG PATH 1",
-        "key": "1F 95 4C 00 4B C0 0E 19"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12593 V 7200",
-        "id": "Polsat Sport",
-        "key": "15 58 35 A2 71 42 63 16"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10976 V 4800",
-        "id": "pol-053_enc2",
-        "key": "AB BA 26 8B DC AE 06 90"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12574 H 7200",
-        "id": "DNK-ORE6",
-        "key": "A1 99 BA F4 CA 9D C8 2F"
     }
 ]
