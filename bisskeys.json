@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "A2 CC 9A 08 CA 7D A8 EF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "DE 89 DF 46 E8 E0 01 C9"
@@ -39,12 +33,6 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11176 H 9875",
     "id": "Wrexham M6 main",
-    "key": "87 C1 67 AF 4F 7F CC 9A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11188 H 9875",
-    "id": "Match 05 U19 Denmark v Spain Main",
     "key": "87 C1 67 AF 4F 7F CC 9A"
   }
 ]
