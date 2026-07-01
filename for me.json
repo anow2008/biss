@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "AB EC 12 A9 03 23 DA 00"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 2",
+        "key": "DE 89 DF 46 E8 E0 01 C9"
+    }
+]
