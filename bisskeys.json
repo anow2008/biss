@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10995 V 4440",
-    "id": "MRC-003/WF1",
-    "key": "FE ED 02 ED 07 20 26 4D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11019 V 15000",
     "id": "SERVICE 1",
     "key": "AB 02 20 CD 26 CD 07 FA"
@@ -25,14 +19,32 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12686 V 7200",
-    "id": "TUR-162 M",
-    "key": "D3 89 83 DF 8C 9D DD 06"
+    "frequency": "12727 V 7200",
+    "id": "ISL-RKS-002 - MAIN",
+    "key": "FF 5D C0 1C 23 8A 14 C1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "BF E8 CA 71 29 91 2C E6"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11051 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
   }
 ]
