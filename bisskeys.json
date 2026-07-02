@@ -1,27 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11019 V 15000",
-    "id": "SERVICE 1",
-    "key": "AB 02 20 CD 26 CD 07 FA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "C8 92 60 BA 2A 67 23 B4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7200",
-    "id": "ISL-RKS-002 - MAIN",
-    "key": "FF 5D C0 1C 23 8A 14 C1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 2",
-    "key": "BF E8 CA 71 29 91 2C E6"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
