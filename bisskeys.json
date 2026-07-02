@@ -1,13 +1,19 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 V 15000",
+    "frequency": "11004 V 9600",
+    "id": "PALIO_SIENA_MAIN",
+    "key": "A4 B1 D6 2B C9 E2 F3 9E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11019 V 15000",
     "id": "SERVICE 1",
     "key": "AB 02 20 CD 26 CD 07 FA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "C8 92 60 BA 2A 67 23 B4"
   },
@@ -19,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -31,21 +37,33 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "E362 Main",
-    "key": "DF 1E CC C9 24 E2 74 7A"
+    "frequency": "11695 H 7200",
+    "id": "D-561 | LET WHO | Day 1 | Path 1",
+    "key": "AA BB DD 42 EE 02 07 F7"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10970 V 4800",
+    "id": "POL49 EN1 Katowice",
+    "key": "AB AB 26 7C 07 02 BA C3"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11103 H 7200",
     "id": "MP One",
     "key": "AB AB 26 7C 07 02 BA C3"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11176 H 9875",
+    "id": "M08 Serbia Main",
+    "key": "7F 3E 8A 47 F0 47 C5 FC"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
