@@ -1,7 +1,19 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7200",
+        "frequency": "11195 V 7200",
+        "id": "ROU-015 MAIN",
+        "key": "84 BD E6 27 59 4A 5E 01"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12686 V 7200",
+        "id": "TUR-162 M",
+        "key": "D3 89 83 DF 8C 9D DD 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11694 H 7200",
         "id": "D-561  LET WHO  Day 1  Path 1",
         "key": "AA BB DD 42 EE 02 07 F7"
     },
@@ -22,29 +34,5 @@
         "frequency": "11004 V 9600",
         "id": "PALIO_SIENA_MAIN",
         "key": "A4 B1 D6 2B C9 E2 F3 9E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11019 V 15000",
-        "id": "SERVICE 3",
-        "key": "AB 02 20 CD 26 CD 07 FA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "C8 92 60 BA 2A 67 23 B4"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL020 TVN WRO",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11103 H 7200",
-        "id": "MP One",
-        "key": "AB AB 26 7C 07 02 BA C3"
     }
 ]
