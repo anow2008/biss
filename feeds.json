@@ -37,20 +37,8 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12737 V 7200",
+        "frequency": "12736 V 7200",
         "id": "ENC 2",
         "key": "BF E8 CA 71 29 91 2C E6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "Medialink CRO-024/1",
-        "key": "A2 CC 9A 08 CA 7D A8 EF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12686 V 7200",
-        "id": "TUR-162 M",
-        "key": "C8 49 BA CB 8C 89 F8 0D"
     }
 ]
