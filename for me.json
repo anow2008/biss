@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10962 V 9600",
+        "id": "SUI 066 A",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12727 V 7200",
+        "id": "ISL-RKS-002 - MAIN",
+        "key": "FF 5D C0 1C 23 8A 14 C1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10995 V 4440",
         "id": "MRC-003/WF2",
         "key": "FE ED 03 EE 07 20 26 4D"
