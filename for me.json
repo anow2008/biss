@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12649 H 7200",
+        "id": "CYPvsCRO_BASKETBALL_M",
+        "key": "40 A0 AD 8D 9D F3 6B FB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "CE AF 12 8F 9A C1 23 7E"
