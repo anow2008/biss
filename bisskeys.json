@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10995 V 9600",
-    "id": "ITA570",
-    "key": "A4 B1 D6 2B C9 E2 F3 9E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "CE AF 12 8F 9A C1 23 7E"
@@ -19,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7200",
-    "id": "CYPvsCRO_BASKETBALL_M",
-    "key": "40 A0 AD 8D 9D F3 6B FB"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12676 H 7200",
     "id": "ROU-015 MAIN",
     "key": "2A 8F FF B8 B4 C9 03 80"
@@ -34,6 +22,12 @@
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "AE FC A7 51 8A 1F EC 95"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 H 7200",
+    "id": "E412 BCK",
+    "key": "F0 28 02 1A 06 06 8F 9B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -55,19 +49,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11186 V 7200",
-    "id": "EST-010 ENC1 FIBA",
-    "key": "BE 04 C9 8B A8 7B 51 74"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11194 V 7200",
     "id": "LTV",
     "key": "72 B0 54 76 16 41 FB 52"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11204 V 7200",
+    "frequency": "11203 V 7200",
     "id": "HOL324 TX1",
     "key": "03 FA F1 EE C6 7E 8B CF"
   },
@@ -76,5 +64,11 @@
     "frequency": "11212 V 7200",
     "id": "SWE-054 MAIN",
     "key": "6C A6 1A 2C 50 DB C0 EB"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11667 H 7200",
+    "id": "BWF WF-A C1 BISS-1",
+    "key": "8D 5B 8C 74 1E 58 2F A5"
   }
 ]
