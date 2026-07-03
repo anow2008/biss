@@ -1,21 +1,27 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12727 V 7200",
-        "id": "ISL-RKS-002 - MAIN",
-        "key": "FF 5D C0 1C 23 8A 14 C1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11176 H 9875",
-        "id": "M08 Serbia Main",
-        "key": "7F 3E 8A 47 F0 47 C5 FC"
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "15 58 35 A2 71 42 63 16"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11203 V 7200",
-        "id": "E-467 FIBA main",
-        "key": "E2 DB 44 01 73 7A 57 44"
+        "frequency": "10840 H 7200",
+        "id": "17",
+        "key": "39 87 76 36 4D AA 3D 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11622 V 9875",
+        "id": "F489 FEED 1 MAIN",
+        "key": "C1 F5 9A 50 2D 25 37 89"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL047 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -25,32 +31,20 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
+        "frequency": "12737 V 7200",
         "id": "ENC 2",
-        "key": "BF E8 CA 71 29 91 2C E6"
+        "key": "AE FC A7 51 8A 1F EC 95"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12686 V 7200",
-        "id": "TUR-162 M",
-        "key": "D3 89 83 DF 8C 9D DD 06"
+        "frequency": "12676 H 7200",
+        "id": "ROU-015 MAIN",
+        "key": "2A 8F FF B8 B4 C9 03 80"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11019 V 15000",
-        "id": "SERVICE 3",
-        "key": "AB 02 20 CD 26 CD 07 FA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10995 V 4440",
-        "id": "MRC-003/WF1",
-        "key": "FE ED 02 ED 07 20 26 4D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10962 V 9600",
-        "id": "SUI 066 A",
-        "key": "B8 0D 7C 41 8E F9 5E E5"
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "CE AF 12 8F 9A C1 23 7E"
     }
 ]
