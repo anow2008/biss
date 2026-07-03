@@ -7,6 +7,12 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11610 V 7200",
+        "id": "World BCK",
+        "key": "AB 51 D2 CE 4C AA 61 57"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11203 V 7200",
         "id": "HOL324 TX1",
         "key": "03 FA F1 EE C6 7E 8B CF"
