@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10995 V 9600",
+        "id": "ITA570",
+        "key": "A4 B1 D6 2B C9 E2 F3 9E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 H 7200",
+        "id": "FIN-006 Main",
+        "key": "77 BE DC 11 10 40 C0 10"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7200",
+        "id": "EST-010 ENC1 FIBA",
+        "key": "BE 04 C9 8B A8 7B 51 74"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11694 H 7200",
+        "id": "D-561",
+        "key": "AA BB DD 42 EE 03 07 F8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12593 V 7200",
         "id": "Polsat Sport",
         "key": "15 58 35 A2 71 42 63 16"
