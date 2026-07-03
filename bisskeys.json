@@ -6,12 +6,6 @@
     "key": "CE AF 12 8F 9A C1 23 7E"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 2",
-    "key": "AE FC A7 51 8A 1F EC 95"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
@@ -28,5 +22,11 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11610 V 7200",
+    "id": "World BCK",
+    "key": "AB 51 D2 CE 4C AA 61 57"
   }
 ]
