@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11167 H 14400",
+        "id": "2GVs3 Diamond League 3",
+        "key": "E6 5F AE F3 DD 07 04 E8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11611 V 9875",
+        "id": "UNI 2",
+        "key": "7E 90 DD EB CC 17 FC DF"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11154 H 7200",
         "id": "Fi09_GNVE",
         "key": "E6 5F BB 00 DD 07 04 E8"
@@ -40,11 +52,5 @@
         "frequency": "11694 H 7200",
         "id": "D-561  LET HWO  Day 3  Path 1",
         "key": "AA BB DD 42 EE 04 07 F9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 2",
-        "key": "89 02 CA 55 E1 EF AC 7C"
     }
 ]
