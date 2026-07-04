@@ -1,27 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7200",
+    "id": "IHA - 02527",
+    "key": "BA BA 14 88 53 DE DE 0F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11052 H 7200",
     "id": "2Sat HOL318 Main MD2 M4",
     "key": "F4 07 A1 9C 23 EA 04 11"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
-    "id": "2Sat HOL318 BU MD2 M4",
-    "key": "F0 47 B3 EA 26 A0 41 07"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "DC AF 62 ED 93 CC ED 4C"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12676 H 7200",
-    "id": "ROU-015 MAIN",
-    "key": "FA 17 61 72 26 42 D3 3B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
