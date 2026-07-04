@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ENC 2",
+        "key": "89 02 CA 55 E1 EF AC 7C"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL021 p1 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10971 V 4800",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 07 91"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11667 H 7200",
         "id": "BWF WF-A C1 BISS-1",
@@ -19,13 +37,13 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11062 H 7200",
+        "frequency": "11061 H 7200",
         "id": "2Sat HOL318 BU MD2 M4",
         "key": "F0 47 B3 EA 26 A0 41 07"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11053 H 7200",
+        "frequency": "11052 H 7200",
         "id": "2Sat HOL318 Main MD2 M4",
         "key": "F4 07 A1 9C 23 EA 04 11"
     },
@@ -34,11 +52,5 @@
         "frequency": "11209 V 14240",
         "id": "Pitch Nations- S Africa v England",
         "key": "28 8C 23 D7 93 2E D2 93"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10976 V 4800",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 07 91"
     }
 ]
