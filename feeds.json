@@ -1,50 +1,44 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7200",
-        "id": "BWF WF-A C1 BISS-1",
-        "key": "8D 5B 8C 74 1E 58 2F A5"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11610 V 7200",
-        "id": "Fi11_GNVE",
-        "key": "23 5C F3 72 24 CC FA EA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11203 V 7200",
-        "id": "HOL324 TX1",
-        "key": "03 FA F1 EE C6 7E 8B CF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11194 V 7200",
-        "id": "LTV",
-        "key": "72 B0 54 76 16 41 FB 52"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11694 H 7200",
-        "id": "D-561  LET HWO  Day 2  Path 1",
-        "key": "AA BB DD 42 EE 03 07 F8"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10976 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 07 91"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10995 V 9600",
-        "id": "ITA570",
-        "key": "A4 B1 D6 2B C9 E2 F3 9E"
+        "frequency": "11044 H 7200",
+        "id": "Unname",
+        "key": "24 23 DD 24 E4 A3 22 A9"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10849 H 7200",
-        "id": "Fi12_GNVE",
-        "key": "B8 30 D7 BF AC D3 8A 09"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12685 H 7200",
+        "id": "ELMS",
+        "key": "04 07 DD E8 EC 20 26 32"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11186 V 7200",
-        "id": "EST-010 ENC1 FIBA",
-        "key": "BE 04 C9 8B A8 7B 51 74"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11098 H 7200",
+        "id": "SLQ 008 M",
+        "key": "04 07 FD 08 AB 97 16 58"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL082 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11189 H 9875",
+        "id": "Wrexham M09 main",
+        "key": "91 1C 30 DD 8B E7 5A CC"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11163 H 7200",
+        "id": "GVA_Fi02",
+        "key": "47 06 62 AF 0D B1 43 01"
     }
 ]
