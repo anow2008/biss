@@ -1,5 +1,17 @@
 [
   {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 H 7200",
+    "id": "LMG PATH 1",
+    "key": "64 12 E0 56 AC 98 A3 E7 E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 H 7200",
+    "id": "LMG PATH 1",
+    "key": "64 12 E0 56 AC 98 A3 E7"
+  },
+  {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10962 V 9600",
     "id": "SUI 066 A",
@@ -39,7 +51,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Enc 11",
-    "key": "82 E9 FE 69 97 52 16 FF"
+    "key": "64 12 E0 56 AC 98 A3 E7"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -61,26 +73,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11063 H 14400",
-    "id": "IS",
-    "key": "73 5A 2F FC CE 57 C8 ED"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11191 V 14240",
     "id": "Pitch Nations Argentina v Scotland",
     "key": "11 4F 32 92 EE A1 25 B4"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11623 V 9875",
-    "id": "F489 FEED 1 MAIN",
-    "key": "73 5A 2F FC CE 57 C8 ED"
+    "frequency": "11611 V 9875",
+    "id": "UNI 2",
+    "key": "7E 90 DD EB CC 17 FC DF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11635 V 9875",
-    "id": "F489 FEED 2 MAIN",
+    "frequency": "11633 H 14400",
+    "id": "Service1",
     "key": "73 5A 2F FC CE 57 C8 ED"
   },
   {
@@ -100,5 +106,11 @@
     "frequency": "11154 H 7200",
     "id": "Fi09_GNVE",
     "key": "E6 5F BB 00 DD 07 04 E8"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11167 H 14400",
+    "id": "2GVs1 Diamond League 1",
+    "key": "E6 5F AE F3 DD 07 04 E8"
   }
 ]
