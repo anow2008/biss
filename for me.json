@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10962 V 9600",
+        "id": "SUI 066 A",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12677 V 7500",
+        "id": "ENC 1",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11191 V 14240",
+        "id": "Pitch Nations Argentina v Scotland",
+        "key": "11 4F 32 92 EE A1 25 B4"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11154 H 7200",
+        "id": "Fi09_GNVE",
+        "key": "E6 5F BB 00 DD 07 04 E8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11014 V 7200",
         "id": "IHA - 02527",
         "key": "BA BA 14 88 53 DE DE 0F"
