@@ -24,12 +24,6 @@
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 2",
-    "key": "89 02 CA 55 E1 EF AC 7C"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Enc 11",
@@ -52,12 +46,6 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11191 V 14240",
-    "id": "Pitch Nations Argentina v Scotland",
-    "key": "11 4F 32 92 EE A1 25 B4"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
