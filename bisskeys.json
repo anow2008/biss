@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11044 H 7200",
+    "id": "Unname",
+    "key": "24 23 DD 24 E4 A3 22 A9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11071 H 7200",
+    "id": "IMG A EU",
+    "key": "DC AF 62 ED 93 CC ED 4C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11098 H 7200",
+    "id": "SLQ 008 M",
+    "key": "04 07 FD 08 AB 97 16 58"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12685 H 7200",
+    "id": "ELMS",
+    "key": "04 07 DD E8 EC 20 26 32"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "GCUK Enc 10",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11040 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11052 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11686 H 7200",
+    "id": "Enc1_DTM_Norisring",
+    "key": "DC 55 FF 30 1E CE CE BA"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10976 V 4800",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 07 91"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11156 H 4938",
+    "id": "MTVA SNG HUNGARY",
+    "key": "12 34 56 9C 78 12 34 BE"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11163 H 7200",
+    "id": "GVA_Fi02",
+    "key": "47 06 62 AF 0D B1 43 01"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11177 H 9875",
+    "id": "Match 10 U19 Spain v Germany Main",
+    "key": "91 1C 30 DD 8B E7 5A CC"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11189 H 9875",
+    "id": "Wrexham M09 main",
+    "key": "91 1C 30 DD 8B E7 5A CC"
+  }
+]
