@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11478 V 7200",
+        "id": "DNK-ORE6",
+        "key": "AA 98 F6 38 C2 5E 36 56"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11176 H 9875",
+        "id": "MD3 Main",
+        "key": "2F 80 67 16 37 33 B7 21"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10976 V 4800",
         "id": "pol-053_enc2",
@@ -13,7 +25,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12684 H 7200",
+        "frequency": "12685 H 7200",
         "id": "ELMS",
         "key": "04 07 DD E8 EC 20 26 32"
     },
@@ -31,20 +43,8 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11211 V 9875",
+        "frequency": "11212 V 9875",
         "id": "SLQ-010",
         "key": "F8 99 DC 6D 79 AB FA 1E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11190 V 14400",
-        "id": "G22 MAIN FIM JEREZ",
-        "key": "AA B1 12 6D 13 A2 AB 60"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
     }
 ]
