@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10959 V 4440",
+        "id": "MRC-003/WF1",
+        "key": "FE ED 05 F0 07 20 26 4D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10965 V 4440",
+        "id": "MRCO05-MAIN",
+        "key": "FE ED 05 F0 07 20 26 4D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10971 V 4440",
+        "id": "M00-MRC007-Main",
+        "key": "FE ED 05 F0 07 20 26 4D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12649 H 7200",
         "id": "TUR-119 Main",
         "key": "72 4B 1C D9 49 B6 24 23"
