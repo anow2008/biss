@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 H 7200",
-    "id": "LMG PATH 1",
-    "key": "64 12 E0 56 AC 98 A3 E7 E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 H 7200",
-    "id": "LMG PATH 1",
-    "key": "64 12 E0 56 AC 98 A3 E7"
-  },
-  {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
@@ -25,8 +13,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10822 V 3670",
-    "id": "GCUK Enc 11",
+    "frequency": "10839 H 7200",
+    "id": "LMG PATH 1",
     "key": "64 12 E0 56 AC 98 A3 E7"
   },
   {
