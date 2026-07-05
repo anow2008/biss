@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11014 V 7200",
+        "id": "IHA - 02527",
+        "key": "BA BA 14 88 53 DE DE 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 H 7200",
+        "id": "Unname",
+        "key": "FF 15 1B 2F 4F 33 33 B5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10959 V 4440",
         "id": "MRC-003/WF1",
         "key": "FE ED 05 F0 07 20 26 4D"
