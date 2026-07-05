@@ -19,6 +19,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7200",
+    "id": "IHA - 02527",
+    "key": "BA BA 14 88 53 DE DE 0F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "37 DF AC C2 30 75 0A AF"
@@ -28,12 +34,6 @@
     "frequency": "11106 H 7200",
     "id": "AFLE Berlin",
     "key": "05 07 CB D7 BE 69 71 98"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12649 H 7200",
-    "id": "TUR-119 Main",
-    "key": "72 4B 1C D9 49 B6 24 23"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -57,19 +57,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Enc 11",
-    "key": "FF 15 1B 2F 4F 33 33 B5"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 H 7200",
-    "id": "Unname",
-    "key": "FF 15 1B 2F 4F 33 33 B5"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10849 H 7200",
-    "id": "TUR-119 Main",
-    "key": "72 4B 1C D9 49 B6 24 23"
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -91,9 +79,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "Service1",
-    "key": "B6 36 11 FD 46 E8 92 C0"
+    "frequency": "11194 V 7200",
+    "id": "Main",
+    "key": "78 7C 6A 5E 2B D9 9D A1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
