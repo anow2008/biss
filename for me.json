@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "37 DF AC C2 30 75 0A AF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12736 V 7200",
+        "id": "ENC 2",
+        "key": "45 FE 76 B9 4C BE FA 04"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11040 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11190 V 14400",
+        "id": "G22 MAIN FIM JEREZ",
+        "key": "AA B1 12 6D 13 A2 AB 60"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9875",
+        "id": "SP3 ENC 1",
+        "key": "71 A1 F2 04 A0 8D 1A 47"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11153 H 7200",
+        "id": "GVA_Fi03",
+        "key": "2A B2 AC 88 C2 80 0F 51"
+    }
+]
