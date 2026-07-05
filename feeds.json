@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11194 V 7200",
+        "id": "Main",
+        "key": "78 7C 6A 5E 2B D9 9D A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11014 V 7200",
+        "id": "",
+        "key": "BA BA 14 88 53 DE DE 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11633 H 14400",
         "id": "Service1",
         "key": "B6 36 11 FD 46 E8 92 C0"
@@ -40,17 +52,5 @@
         "frequency": "11005 V 7500",
         "id": "POL045 TVN24 LDZ",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11487 V 7200",
-        "id": "TUR-162 M",
-        "key": "BA BC C3 39 22 A3 3A FF"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL 076",
-        "key": "AB BA 26 8B DC AE 07 91"
     }
 ]
