@@ -1,25 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10959 V 4440",
-    "id": "MRC-003/WF1",
-    "key": "FE ED 05 F0 07 20 26 4D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10965 V 4440",
-    "id": "MRCO05-MAIN",
-    "key": "FE ED 05 F0 07 20 26 4D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10971 V 4440",
-    "id": "M00-MRC007-Main",
-    "key": "FE ED 05 F0 07 20 26 4D"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
+    "frequency": "11013 V 7200",
     "id": "IHA - 02527",
     "key": "BA BA 14 88 53 DE DE 0F"
   },
@@ -31,27 +13,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11106 H 7200",
-    "id": "AFLE Berlin",
-    "key": "05 07 CB D7 BE 69 71 98"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12676 H 7200",
     "id": "ROU-015 MAIN",
     "key": "54 A5 68 61 3D EE 3B 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "45 FE 76 B9 4C BE FA 04"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11305 V 7200",
-    "id": "E-95 MAIN",
-    "key": "76 DC 11 63 43 09 AA F6"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
