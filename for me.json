@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12649 H 7200",
+        "id": "TUR-119 Main",
+        "key": "72 4B 1C D9 49 B6 24 23"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 H 7200",
+        "id": "TUR-119 Main",
+        "key": "72 4B 1C D9 49 B6 24 23"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11667 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "E3 B8 D1 6C A6 C9 C5 34"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11107 H 7200",
         "id": "AFLE Berlin",
         "key": "05 07 CB D7 BE 69 71 98"
