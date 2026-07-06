@@ -1,13 +1,43 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7200",
+    "id": "IHA - 02527",
+    "key": "BA BA 14 88 53 DE DE 0F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "81 2C 26 D3 4D AC E1 DA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12696 V 7200",
+    "frequency": "12510 V 7200",
+    "id": "F529_PRIV_BEIN",
+    "key": "DD A7 F5 79 64 DE 98 DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12535 V 7200",
+    "id": "FRBEIN_ENC_01",
+    "key": "DD A7 F5 79 64 DE 98 DA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7200",
+    "id": "SLO-008 Tx 1",
+    "key": "3C F0 12 3E 3E 70 10 BE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12686 V 7200",
+    "id": "Medialink CRO-024/1",
+    "key": "7A 94 0A 18 58 82 C2 9C"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12695 V 7200",
     "id": "F529_MAIN_FIBA",
     "key": "D2 82 82 D6 1A 0C 1E 44"
   },
@@ -32,8 +62,8 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10849 H 7200",
-    "id": "CZE 001/2",
-    "key": "B7 7C 7F B2 1E C5 7D 60"
+    "id": "Service1",
+    "key": "2E 4B 55 CE 14 AD D3 94"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -55,39 +85,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11063 H 14400",
-    "id": "IS",
-    "key": "2E 4B 55 CE 14 AD D3 94"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11186 V 7200",
     "id": "SNG_2 B",
     "key": "55 97 BB A7 44 3E DF 61"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11623 V 9875",
-    "id": "F489 FEED 1 MAIN",
-    "key": "2E 4B 55 CE 14 AD D3 94"
+    "frequency": "11194 V 7200",
+    "id": "YSM-012 MAIN",
+    "key": "18 6A 53 D5 A6 19 4F 0E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "ISS",
-    "key": "2E 4B 55 CE 14 AD D3 94"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11635 V 9875",
-    "id": "F489 FEED 2 MAIN",
-    "key": "2E 4B 55 CE 14 AD D3 94"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
-    "id": "IS_Plus",
-    "key": "2E 4B 55 CE 14 AD D3 94"
+    "frequency": "11203 V 7200",
+    "id": "SLO-008 Tx 1",
+    "key": "3C F0 12 3E 3E 70 10 BE"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
