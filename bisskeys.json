@@ -1,51 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11013 V 7200",
-    "id": "IHA - 02527",
-    "key": "BA BA 14 88 53 DE DE 0F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "81 2C 26 D3 4D AC E1 DA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7200",
-    "id": "F529_PRIV_BEIN",
-    "key": "DD A7 F5 79 64 DE 98 DA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12535 V 7200",
-    "id": "FRBEIN_ENC_01",
-    "key": "DD A7 F5 79 64 DE 98 DA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7200",
-    "id": "SLO-008 Tx 1",
-    "key": "3C F0 12 3E 3E 70 10 BE"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12695 V 7200",
-    "id": "F529_MAIN_FIBA",
-    "key": "D2 82 82 D6 1A 0C 1E 44"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "78 1F EF 86 AC 12 00 BE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10849 H 7200",
-    "id": "F529_MAIN_FIBA",
-    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -64,17 +28,5 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11194 V 7200",
-    "id": "YSM-012 MAIN",
-    "key": "18 6A 53 D5 A6 19 4F 0E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11203 V 7200",
-    "id": "SLO-008 Tx 1",
-    "key": "3C F0 12 3E 3E 70 10 BE"
   }
 ]
