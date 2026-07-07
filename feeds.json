@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11186 V 7200",
+        "id": "ITA 274 VNL Women - Belgrade Main",
+        "key": "4B A7 B1 A3 27 79 35 D5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12510 V 7200",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10977 V 4800",
         "id": "pol-053_enc1",
@@ -8,7 +20,7 @@
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11543 V 7200",
-        "id": "ENC_1.1_EUROCUP_MN",
+        "id": "E-447 BROADCAST",
         "key": "A2 69 11 1C B4 6D 64 85"
     },
     {
@@ -40,11 +52,5 @@
         "frequency": "11005 V 7500",
         "id": "POL044 TVN24 SZC",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
     }
 ]
