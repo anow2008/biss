@@ -46,11 +46,5 @@
         "frequency": "11070 H 7200",
         "id": "IMG A EU",
         "key": "09 CE 72 49 80 87 CE D5"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL044 TVN24 SZC",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
