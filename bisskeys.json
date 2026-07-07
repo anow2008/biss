@@ -1,15 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "ARM-005 Main",
-    "key": "78 CD 07 4C D2 6A AC E8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "09 CE 72 49 80 87 CE D5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7200",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,26 +37,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11063 H 14400",
-    "id": "IS",
-    "key": "3A 1E 14 6C C9 EF A6 5E"
+    "frequency": "11186 V 7200",
+    "id": "ITA 274 VNL Women - Belgrade Main",
+    "key": "4B A7 B1 A3 27 79 35 D5"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11633 H 14400",
-    "id": "Fi15 GNVE",
+    "id": "Service1",
     "key": "3A 1E 14 6C C9 EF A6 5E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
-    "id": "IS_Plus",
-    "key": "3A 1E 14 6C C9 EF A6 5E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "pol-053_enc1",
-    "key": "AB BA 26 8B DC AE 07 91"
   }
 ]
