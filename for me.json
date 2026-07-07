@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11063 H 14400",
+        "id": "IS",
+        "key": "3A 1E 14 6C C9 EF A6 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11634 H 14400",
+        "id": "ISS",
+        "key": "3A 1E 14 6C C9 EF A6 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11651 H 14400",
+        "id": "IS_Plus",
+        "key": "3A 1E 14 6C C9 EF A6 5E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11023 V 7200",
         "id": "ARM-005 Main",
