@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "ARM-005 Main",
-    "key": "78 CD 07 4C D2 6A AC E8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "09 CE 72 49 80 87 CE D5"
@@ -19,7 +13,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -31,8 +25,26 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11063 H 14400",
+    "id": "IS",
+    "key": "3A 1E 14 6C C9 EF A6 5E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11634 H 14400",
+    "id": "ISS",
+    "key": "3A 1E 14 6C C9 EF A6 5E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11651 H 14400",
+    "id": "IS_Plus",
+    "key": "3A 1E 14 6C C9 EF A6 5E"
   }
 ]
