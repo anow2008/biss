@@ -1,21 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "UKI-1324 -1 - M02",
-    "key": "25 12 FA 31 DA 75 71 C0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "CA E9 82 35 93 AD 21 61"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7200",
-    "id": "ENC 1",
-    "key": "AB 01 07 B3 BA 20 26 00"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -46,24 +34,6 @@
     "frequency": "11186 V 7200",
     "id": "ITA 274 VNL Women - Belgrade Main",
     "key": "06 4D 0F 62 C8 A3 75 E0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "Service1",
-    "key": "DE 75 31 84 F3 74 21 88"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL018 TVN WAW p1",
-    "key": "6F 5B E7 B1 B9 0F 1D E5"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11176 H 9875",
-    "id": "Match 14 U19 Spain v Croatia Main",
-    "key": "6F 5B E7 B1 B9 0F 1D E5"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
