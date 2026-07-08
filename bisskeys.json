@@ -28,17 +28,5 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11186 V 7200",
-    "id": "ITA 274 VNL Women - Belgrade Main",
-    "key": "06 4D 0F 62 C8 A3 75 E0"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11188 H 9875",
-    "id": "Wrexham M15 main",
-    "key": "6F 5B E7 B1 B9 0F 1D E5"
   }
 ]
