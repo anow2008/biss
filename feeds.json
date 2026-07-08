@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11633 H 14400",
+        "id": "Service1",
+        "key": "DE 75 31 84 F3 74 21 88"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11005 V 7500",
         "id": "POL023 TVN24 WAW p2",
@@ -30,12 +36,6 @@
         "key": "CA E1 12 BD 8A EF 13 8C"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11651 H 14400",
-        "id": "IS_Plus",
-        "key": "DE 75 31 84 F3 74 21 88"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11188 H 9875",
         "id": "Wrexham M15 main",
@@ -46,23 +46,5 @@
         "frequency": "11186 V 7200",
         "id": "ITA 274 VNL Women - Belgrade Main",
         "key": "06 4D 0F 62 C8 A3 75 E0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 V 7200",
-        "id": "ENC 1",
-        "key": "AB 01 07 B3 BA 20 26 00"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12687 V 7200",
-        "id": "HOL324 Golf WF",
-        "key": "89 21 19 C3 23 AB CD 9B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
-        "id": "IMG A EU",
-        "key": "CA E9 82 35 93 AD 21 61"
     }
 ]
