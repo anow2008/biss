@@ -34,11 +34,5 @@
         "frequency": "12704 V 7200",
         "id": "HOL324 Golf SKY",
         "key": "28 AA 29 FB 1C DE E6 E0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12603 H 7200",
-        "id": "Unname",
-        "key": "BB 36 69 5A BF DB 2D C7"
     }
 ]
