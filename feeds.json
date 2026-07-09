@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11186 V 7200",
+        "id": "ITA 274 VNL Women - Belgrade Main",
+        "key": "80 E6 BE 24 E6 55 EB 26"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12705 V 7200",
+        "id": "HOL324 Golf SKY",
+        "key": "28 AA 29 FB 1C DE E6 E0"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12603 H 7200",
         "id": "Unname",
@@ -19,7 +31,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11633 H 14400",
+        "frequency": "11634 H 14400",
         "id": "ISS",
         "key": "9F 94 8D C0 C1 CA 87 12"
     },
@@ -31,7 +43,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
+        "frequency": "12737 V 7200",
         "id": "ENC 2",
         "key": "DA 16 49 39 37 BE CA BF"
     },
@@ -52,17 +64,5 @@
         "frequency": "12585 V 9875",
         "id": "IPF",
         "key": "B6 51 5C 63 D9 6B 85 C9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12696 V 7200",
-        "id": "HOL324 Golf FG",
-        "key": "12 74 18 9E 23 29 13 5F"
     }
 ]
