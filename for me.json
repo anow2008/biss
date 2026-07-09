@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 V 7200",
+        "id": "ARM-005 Main",
+        "key": "88 DC 09 6D D2 6A AC E8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "BB CA 92 17 73 81 26 1A"
