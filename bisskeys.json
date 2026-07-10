@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11061 H 7200",
-    "id": "ENC 04",
-    "key": "20 26 AF F5 ED 20 26 33"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "DF AC 22 AD 83 AC 28 57"
@@ -25,27 +19,33 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12603 H 7200",
-    "id": "Unname",
-    "key": "BB 36 69 5A BF DB 2D C7"
+    "frequency": "12509 V 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7120",
-    "id": "EDM HD ENC-1",
-    "key": "B2 C5 D3 4A E6 F4 A7 81"
+    "frequency": "12593 V 7200",
+    "id": "POL-058_ch1",
+    "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12687 V 7200",
+    "frequency": "12686 V 7200",
     "id": "HOL324 Golf WF",
     "key": "89 21 19 C3 23 AB CD 9B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12705 V 7200",
+    "frequency": "12704 V 7200",
     "id": "H0L324 Golf SKY",
     "key": "28 AA 29 FB 1C DE E6 E0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "NLFLEV_HOL328-3",
+    "key": "B1 A8 C3 1C DA 6A 4A 8E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -55,15 +55,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "Dubai Racing-Newmarket",
-    "key": "AD CB 97 0F 2A FE 33 5B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10822 V 3670",
-    "id": "Newmarket Dubai Radiocam",
-    "key": "AD CB 97 0F 2A FE 33 5B"
+    "frequency": "10850 H 3670",
+    "id": "GCUK Enc 9",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -91,20 +85,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "ISS",
-    "key": "AA 9C 46 8C 19 1D 56 8C"
+    "frequency": "11208 V 14400",
+    "id": "SUPERFEED3",
+    "key": "E6 5F AA EF CD 07 10 E4"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
-    "id": "IS_Plus",
-    "key": "AA 9C 46 8C 19 1D 56 8C"
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL-111",
+    "key": "AB BA 26 8B DC AE 07 91"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11672 H 14400",
-    "id": "IS",
-    "key": "AA 9C 46 8C 19 1D 56 8C"
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11190 H 7200",
+    "id": "Fi18_GNVE",
+    "key": "47 06 62 AF 0D B1 43 01"
   }
 ]
