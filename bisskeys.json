@@ -1,13 +1,25 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11023 V 7200",
+    "id": "2Sat HOL89 Main",
+    "key": "FE ED 10 FB 07 B8 9A 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11061 H 7200",
+    "id": "ENC 04",
+    "key": "20 26 AF F5 ED 20 26 33"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "DF AC 22 AD 83 AC 28 57"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11544 V 7200",
+    "frequency": "11543 V 7200",
     "id": "SAU-033 MAIN",
     "key": "BC 2A AC 92 42 CC B3 C1"
   },
@@ -19,7 +31,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7120",
+    "frequency": "12677 V 7120",
     "id": "EDM HD ENC-1",
     "key": "B2 C5 D3 4A E6 F4 A7 81"
   },
@@ -37,12 +49,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12728 V 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "B1 A8 C3 1C DA 6A 4A 8E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "0D 15 80 A2 3C 18 22 76"
@@ -55,50 +61,50 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10823 V 3670",
+    "frequency": "10822 V 3670",
     "id": "Newmarket Dubai Radiocam",
     "key": "AD CB 97 0F 2A FE 33 5B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11652 H 14400",
+    "frequency": "11186 V 7200",
+    "id": "ITA 274 VNL Women - Belgrade Main",
+    "key": "BB C2 5C D9 C7 12 40 19"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11633 H 14400",
+    "id": "ISS",
+    "key": "AA 9C 46 8C 19 1D 56 8C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11651 H 14400",
     "id": "IS_Plus",
     "key": "AA 9C 46 8C 19 1D 56 8C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11671 H 14400",
+    "frequency": "11672 H 14400",
     "id": "IS",
     "key": "AA 9C 46 8C 19 1D 56 8C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12586 V 9875",
-    "id": "IPF",
-    "key": "65 F0 73 C8 B0 56 54 5A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10970 V 4800",
-    "id": "POL11_HARM",
-    "key": "AB BA 26 8B DC AE 07 91"
   }
 ]
