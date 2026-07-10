@@ -1,6 +1,72 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11544 V 7200",
+        "id": "SAU-033 MAIN",
+        "key": "BC 2A AC 92 42 CC B3 C1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12603 H 7200",
+        "id": "Unname",
+        "key": "BB 36 69 5A BF DB 2D C7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10818 V 3670",
+        "id": "Dubai Racing-Newmarket",
+        "key": "AD CB 97 0F 2A FE 33 5B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10823 V 3670",
+        "id": "Newmarket Dubai Radiocam",
+        "key": "AD CB 97 0F 2A FE 33 5B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11040 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11652 H 14400",
+        "id": "IS_Plus",
+        "key": "AA 9C 46 8C 19 1D 56 8C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11671 H 14400",
+        "id": "IS",
+        "key": "AA 9C 46 8C 19 1D 56 8C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12586 V 9875",
+        "id": "IPF",
+        "key": "65 F0 73 C8 B0 56 54 5A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10970 V 4800",
+        "id": "POL11_HARM",
+        "key": "AB BA 26 8B DC AE 07 91"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11003 V 9875",
         "id": "ENC-23",
         "key": "70 D9 C3 0C C9 25 74 62"
