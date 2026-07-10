@@ -7,18 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL-058_ch1",
-    "key": "15 58 35 A2 71 42 63 16"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "B1 A8 C3 1C DA 6A 4A 8E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "0D 15 80 A2 3C 18 22 76"
@@ -40,18 +28,6 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11194 V 7200",
-    "id": "WORLDFEED MAIN",
-    "key": "E6 5F BB 00 ED 07 10 04"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11208 V 14400",
-    "id": "SUPERFEED3",
-    "key": "E6 5F AA EF CD 07 10 E4"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
