@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "DF AC 22 AD 83 AC 28 57"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10839 H 7200",
         "id": "LMG PATH 1",
