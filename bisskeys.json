@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10968 V 7200",
-    "id": "UKI-1324 -1 - M02",
-    "key": "05 12 CB E2 CA 31 57 52"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "98 17 AC 5B EF 12 93 94"
@@ -73,21 +67,27 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11186 V 7200",
-    "id": "ITA 274 VNL Women - Belgrade Main",
-    "key": "7A 68 06 E8 43 07 0A 54"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11194 V 7200",
     "id": "Fi17GNVE",
     "key": "1D C5 45 27 4A B4 1A 18"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11212 V 7200",
+    "id": "WSHT ENC53 - UFC",
+    "key": "55 19 A5 13 A1 93 5A 8E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11614 V 14240",
     "id": "PITCH Nations Championship - Argentina v Wales",
     "key": "77 CB 49 8B 0A 24 55 83"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11050 H 3200",
+    "id": "DSNG045",
+    "key": "AD 6B EC 04 AE E6 6F 03"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
