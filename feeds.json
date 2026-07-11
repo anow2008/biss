@@ -1,7 +1,13 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12685 H 7200",
+        "frequency": "12676 H 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "E8 6B A2 F5 D2 7A 75 C1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12684 H 7200",
         "id": "NLFLEV_HOL-090 CH-C",
         "key": "92 94 FA 20 63 E6 B9 02"
     },
@@ -46,11 +52,5 @@
         "frequency": "12677 V 7500",
         "id": "ENC 6",
         "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12574 H 7200",
-        "id": "SUI25 HD 1",
-        "key": "11 07 CA E2 DB 63 10 4E"
     }
 ]
