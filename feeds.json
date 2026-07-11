@@ -52,11 +52,5 @@
         "frequency": "11194 V 7200",
         "id": "WORLDFEED MAIN",
         "key": "E6 5F BB 00 ED 07 10 04"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11633 H 14400",
-        "id": "ISS",
-        "key": "AA 9C 46 8C 19 1D 56 8C"
     }
 ]
