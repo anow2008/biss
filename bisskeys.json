@@ -7,33 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11106 H 7200",
-    "id": "IBA PRO 19",
-    "key": "DD 03 20 00 26 16 CA 06"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12676 H 7200",
     "id": "Medialink CRO-024/1",
     "key": "E8 6B A2 F5 D2 7A 75 C1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12677 V 7500",
-    "id": "ENC 6",
-    "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12684 H 7200",
-    "id": "NLFLEV_HOL-090 CH-C",
-    "key": "92 94 FA 20 63 E6 B9 02"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "B1 A8 C3 1C DA 6A 4A 8E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -67,12 +43,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11194 V 7200",
-    "id": "Fi17GNVE",
-    "key": "1D C5 45 27 4A B4 1A 18"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11212 V 7200",
     "id": "WSHT ENC53 - UFC",
     "key": "55 19 A5 13 A1 93 5A 8E"
@@ -82,17 +52,5 @@
     "frequency": "11614 V 14240",
     "id": "PITCH Nations Championship - Argentina v Wales",
     "key": "77 CB 49 8B 0A 24 55 83"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11050 H 3200",
-    "id": "DSNG045",
-    "key": "AD 6B EC 04 AE E6 6F 03"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11188 H 9875",
-    "id": "UEFA U19s Final main",
-    "key": "AD 6B EC 04 AE E6 6F 03"
   }
 ]
