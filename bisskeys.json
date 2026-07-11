@@ -1,8 +1,8 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11062 H 7200",
-    "id": "EBC",
+    "frequency": "10960 V 7200",
+    "id": "UKI-1462",
     "key": "98 17 AC 5B EF 12 93 94"
   },
   {
@@ -16,12 +16,6 @@
     "frequency": "11107 H 7200",
     "id": "IBA PRO 19",
     "key": "DD 03 20 00 26 16 CA 06"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12511 V 10000",
-    "id": "OLY-RAK",
-    "key": "AA 12 15 D1 DF BC 14 AF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -73,6 +67,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
@@ -85,14 +85,32 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11186 V 7200",
+    "id": "ITA 274 VNL Women - Belgrade Main",
+    "key": "7A 68 06 E8 43 07 0A 54"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11651 H 14400",
+    "id": "IS_Plus",
+    "key": "29 B7 6F 4F F8 A3 33 CE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11671 H 14400",
     "id": "IS",
     "key": "29 B7 6F 4F F8 A3 33 CE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11685 H 7200",
+    "frequency": "11686 H 7200",
     "id": "D535_Triathlon Hamburg",
+    "key": "D0 71 1E 5F 72 FF 91 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11695 H 7200",
+    "id": "GCUK Enc 10",
     "key": "D0 71 1E 5F 72 FF 91 02"
   },
   {
