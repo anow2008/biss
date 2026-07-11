@@ -1,7 +1,25 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12678 V 7500",
+        "frequency": "12565 H 7200",
+        "id": "SLQ 008",
+        "key": "11 07 DF F7 EA 79 48 AB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11614 V 14240",
+        "id": "PITCH Nations Championship - England v Fiji",
+        "key": "EA CA 27 DB 43 EE 21 52"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11633 H 14400",
+        "id": "ISS",
+        "key": "29 B7 6F 4F F8 A3 33 CE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 V 7500",
         "id": "ENC 6",
         "key": "F1 07 45 3D E6 CB AD 5E"
     },
@@ -10,12 +28,6 @@
         "frequency": "12574 H 7200",
         "id": "SUI25 HD 1",
         "key": "11 07 CA E2 DB 63 10 4E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11651 H 14400",
-        "id": "IS_Plus",
-        "key": "29 B7 6F 4F F8 A3 33 CE"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -28,17 +40,5 @@
         "frequency": "11186 V 7200",
         "id": "ITA 274 VNL Women - Belgrade Main",
         "key": "7A 68 06 E8 43 07 0A 54"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11188 H 9875",
-        "id": "UEFA U19s Final main",
-        "key": "AD 6B EC 04 AE E6 6F 03"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12585 V 9875",
-        "id": "IPF",
-        "key": "E0 73 BD 10 06 1B B7 D8"
     }
 ]
