@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12678 V 7500",
+        "id": "ENC 6",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12574 H 7200",
+        "id": "SUI25 HD 1",
+        "key": "11 07 CA E2 DB 63 10 4E"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11651 H 14400",
         "id": "IS_Plus",
@@ -28,29 +40,5 @@
         "frequency": "12585 V 9875",
         "id": "IPF",
         "key": "E0 73 BD 10 06 1B B7 D8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7200",
-        "id": "GCUK Enc 10",
-        "key": "D0 71 1E 5F 72 FF 91 02"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10823 V 3670",
-        "id": "Newmarket Dubai Radiocam",
-        "key": "AD CB 97 0F 2A FE 33 5B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ENC 2",
-        "key": "76 AC 19 3B 27 CB C1 B3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12728 V 7500",
-        "id": "NLFLEV_HOL328-3",
-        "key": "B1 A8 C3 1C DA 6A 4A 8E"
     }
 ]
