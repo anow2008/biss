@@ -7,15 +7,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12676 H 7200",
-    "id": "Medialink CRO-024/1",
-    "key": "E8 6B A2 F5 D2 7A 75 C1"
+    "frequency": "12695 V 7200",
+    "id": "UFC 329 : All Fights",
+    "key": "55 19 A5 13 A1 93 5A 8E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12727 V 7500",
+    "id": "ENC 4",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12736 V 7200",
-    "id": "ENC 2",
-    "key": "76 AC 19 3B 27 CB C1 B3"
+    "id": "ENC 8",
+    "key": "55 19 A5 13 A1 93 5A 8E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -46,11 +52,5 @@
     "frequency": "11212 V 7200",
     "id": "WSHT ENC53 - UFC",
     "key": "55 19 A5 13 A1 93 5A 8E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11614 V 14240",
-    "id": "PITCH Nations Championship - Argentina v Wales",
-    "key": "77 CB 49 8B 0A 24 55 83"
   }
 ]
