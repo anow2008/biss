@@ -1,7 +1,13 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10969 V 7200",
+        "frequency": "12685 H 7200",
+        "id": "NLFLEV_HOL-090 CH-C",
+        "key": "92 94 FA 20 63 E6 B9 02"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10968 V 7200",
         "id": "UKI-1324 -1 - M02",
         "key": "05 12 CB E2 CA 31 57 52"
     },
@@ -13,7 +19,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11195 V 7200",
+        "frequency": "11194 V 7200",
         "id": "Fi17GNVE",
         "key": "1D C5 45 27 4A B4 1A 18"
     },
@@ -26,13 +32,13 @@
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11614 V 14240",
-        "id": "PITCH Nations Championship - England v Fiji",
-        "key": "EA CA 27 DB 43 EE 21 52"
+        "id": "PITCH Nations Championship - Argentina v Wales",
+        "key": "77 CB 49 8B 0A 24 55 83"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11633 H 14400",
-        "id": "ISS",
+        "id": "Fi01PARSFT2",
         "key": "29 B7 6F 4F F8 A3 33 CE"
     },
     {
