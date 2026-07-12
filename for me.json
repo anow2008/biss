@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11013 V 10000",
+        "id": "AEK-BV",
+        "key": "BB 44 AA A9 55 BB 55 65"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12565 H 7200",
         "id": "MP One",
         "key": "12 07 FE 17 DA 50 47 71"
