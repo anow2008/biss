@@ -3,7 +3,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "98 17 AC 5B EF 12 93 94"
+    "key": "22 3D 12 71 83 AC 11 40"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -22,12 +22,6 @@
     "frequency": "12736 V 7200",
     "id": "ENC 8",
     "key": "55 19 A5 13 A1 93 5A 8E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10856 H 3670",
-    "id": "GCUK Enc 9",
-    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
