@@ -1,62 +1,62 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11212 V 7200",
-        "id": "WSHT ENC53 - UFC",
-        "key": "55 19 A5 13 A1 93 5A 8E"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12696 V 7200",
+        "id": "HOL324 Golf FG",
+        "key": "12 74 18 9E 23 29 13 5F"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12676 H 7200",
-        "id": "Medialink CRO-024/1",
-        "key": "E8 6B A2 F5 D2 7A 75 C1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12684 H 7200",
-        "id": "NLFLEV_HOL-090 CH-C",
-        "key": "92 94 FA 20 63 E6 B9 02"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10968 V 7200",
-        "id": "UKI-1324 -1 - M02",
-        "key": "05 12 CB E2 CA 31 57 52"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL071 TVN24 TOR",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10970 V 4800",
-        "id": "pol-053_enc2",
+        "id": "POL138_A",
         "key": "AB BA 26 8B DC AE 07 91"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11194 V 7200",
-        "id": "Fi17GNVE",
-        "key": "1D C5 45 27 4A B4 1A 18"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "SLQ 008",
-        "key": "11 07 DF F7 EA 79 48 AB"
+        "frequency": "12586 V 9875",
+        "id": "IPF",
+        "key": "9A E7 D6 57 E6 EC C7 99"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11614 V 14240",
-        "id": "PITCH Nations Championship - Argentina v Wales",
-        "key": "77 CB 49 8B 0A 24 55 83"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11633 H 14400",
-        "id": "Fi01PARSFT2",
-        "key": "29 B7 6F 4F F8 A3 33 CE"
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7500",
-        "id": "ENC 6",
-        "key": "F1 07 45 3D E6 CB AD 5E"
+        "frequency": "12737 V 7200",
+        "id": "ENC 2",
+        "key": "B1 92 77 BA 41 CE FA 09"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12705 V 7200",
+        "id": "H0L324 Golf SKY",
+        "key": "28 AA 29 FB 1C DE E6 E0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12687 V 7200",
+        "id": "HOL324 Golf WF",
+        "key": "89 21 19 C3 23 AB CD 9B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11071 H 7200",
+        "id": "IMG A EU",
+        "key": "22 3D 12 71 83 AC 11 40"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11212 V 7200",
+        "id": "WSHT ENC53 - UFC",
+        "key": "55 19 A5 13 A1 93 5A 8E"
     }
 ]
