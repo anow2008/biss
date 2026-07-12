@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12677 V 7500",
+        "id": "ENC 7",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11685 H 7200",
         "id": "D535_Triathlon Hamburg",
