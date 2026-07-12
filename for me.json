@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11106 H 7200",
+        "id": "AFLE Berlin",
+        "key": "12 07 DE F7 DE 97 01 76"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11013 V 10000",
         "id": "AEK-BV",
         "key": "BB 44 AA A9 55 BB 55 65"
