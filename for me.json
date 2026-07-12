@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11685 H 7200",
+        "id": "D535_Triathlon Hamburg",
+        "key": "D0 71 1E 5F 72 FF 91 02"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11106 H 7200",
         "id": "AFLE Berlin",
