@@ -13,15 +13,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12727 V 7500",
-    "id": "NLFLEV_HOL328-3",
-    "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    "frequency": "12677 V 7500",
+    "id": "ENC 7",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ENC 2",
-    "key": "B1 92 77 BA 41 CE FA 09"
+    "frequency": "12727 V 7500",
+    "id": "NLFLEV_HOL328-3",
+    "key": "B1 A8 C3 1C DA 6A 4A 8E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -46,11 +46,5 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11186 V 7200",
-    "id": "ITA 274 VNL Women - Belgrade Main",
-    "key": "E7 78 02 61 D5 36 BB C6"
   }
 ]
