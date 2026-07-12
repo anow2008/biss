@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11196 V 4938",
+        "id": "ORA - ANA",
+        "key": "9D 8C 7B A4 6A 5E 8B 53"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12677 V 7500",
         "id": "ENC 7",
