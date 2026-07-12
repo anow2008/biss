@@ -1,8 +1,8 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "TCR",
+    "frequency": "11061 H 7200",
+    "id": "WEC SAO PAULO MAIN",
     "key": "22 3D 12 71 83 AC 11 40"
   },
   {
@@ -73,8 +73,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11685 H 7200",
-    "id": "D535_Triathlon Hamburg",
-    "key": "D0 71 1E 5F 72 FF 91 02"
+    "frequency": "11633 H 14400",
+    "id": "Fi01PARSFT2",
+    "key": "41 9F 50 30 AE B7 D5 3A"
   }
 ]
