@@ -28,11 +28,5 @@
         "frequency": "11671 H 14400",
         "id": "IS",
         "key": "41 9F 50 30 AE B7 D5 3A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10976 V 4800",
-        "id": "pol-053_enc2",
-        "key": "AB BA 26 8B DC AE 07 91"
     }
 ]
