@@ -7,43 +7,37 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11071 H 7200",
+    "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "22 3D 12 71 83 AC 11 40"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 H 7200",
+    "frequency": "11106 H 7200",
     "id": "AFLE Berlin",
     "key": "12 07 DE F7 DE 97 01 76"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "MP One",
-    "key": "12 07 FE 17 DA 50 47 71"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12687 V 7200",
+    "frequency": "12686 V 7200",
     "id": "HOL324 Golf WF",
     "key": "89 21 19 C3 23 AB CD 9B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12705 V 7200",
+    "frequency": "12704 V 7200",
     "id": "H0L324 Golf SKY",
     "key": "28 AA 29 FB 1C DE E6 E0"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
+    "frequency": "12736 V 7200",
     "id": "ENC 2",
     "key": "B1 92 77 BA 41 CE FA 09"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -67,7 +61,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11634 H 14400",
+    "frequency": "11633 H 14400",
     "id": "ISS",
     "key": "41 9F 50 30 AE B7 D5 3A"
   },
@@ -84,9 +78,15 @@
     "key": "41 9F 50 30 AE B7 D5 3A"
   },
   {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11685 H 7200",
+    "id": "D535_Triathlon Hamburg",
+    "key": "D0 71 1E 5F 72 FF 91 02"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11189 H 7200",
-    "id": "Fi18_GNVE",
-    "key": "47 06 62 AF 0D B1 43 01"
+    "frequency": "10996 V 7500",
+    "id": "POL029 TVN24 GDA",
+    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
