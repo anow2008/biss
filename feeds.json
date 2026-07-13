@@ -1,7 +1,13 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12553 H 7200",
+        "id": "F510 FEED2 PRIVATIF B/U",
+        "key": "20 26 FE 44 ED 13 56 56"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10997 V 7500",
+        "frequency": "10996 V 7500",
         "id": "POL044 TVN24 SZC",
         "key": "77 93 52 5C 99 08 86 27"
     },
@@ -13,26 +19,8 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
+        "frequency": "11051 H 4938",
         "id": "EBU 3 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11071 H 7200",
-        "id": "IMG A EU",
-        "key": "22 3D 12 71 83 AC 11 40"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11196 V 4938",
-        "id": "ORA - ANA",
-        "key": "9D 8C 7B A4 6A 5E 8B 53"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7500",
-        "id": "ENC 7",
-        "key": "F1 07 45 3D E6 CB AD 5E"
     }
 ]
