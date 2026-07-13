@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
+    "frequency": "11071 H 7200",
     "id": "IMG A EU",
     "key": "22 3D 12 71 83 AC 11 40"
   },
@@ -25,8 +25,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 V 4800",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 07 91"
+    "frequency": "10997 V 7500",
+    "id": "POL044 TVN24 SZC",
+    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
