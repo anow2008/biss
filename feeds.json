@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10997 V 7500",
+        "id": "POL044 TVN24 SZC",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10976 V 4800",
         "id": "POL - 054 Kielce",
         "key": "AB BA 26 8B DC AE 07 91"
@@ -13,7 +19,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11070 H 7200",
+        "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "22 3D 12 71 83 AC 11 40"
     },
@@ -28,17 +34,5 @@
         "frequency": "12677 V 7500",
         "id": "ENC 7",
         "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11685 H 7200",
-        "id": "D535_Triathlon Hamburg",
-        "key": "D0 71 1E 5F 72 FF 91 02"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11106 H 7200",
-        "id": "AFLE Berlin",
-        "key": "12 07 DE F7 DE 97 01 76"
     }
 ]
