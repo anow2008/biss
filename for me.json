@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11610 V 7200",
+        "id": "Fi02FRFT_Concert_De_Paris",
+        "key": "77 5A 71 42 69 B8 A5 C6"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11070 H 7200",
         "id": "IMG A EU",
