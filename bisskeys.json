@@ -13,12 +13,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 V 7200",
-    "id": "UKI-1324 -1 - M02",
-    "key": "33 12 AE F3 CA 32 27 23"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "12 3C AA F8 14 22 A3 D9"
