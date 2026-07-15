@@ -3,19 +3,19 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11014 V 7200",
     "id": "UKI-1462",
-    "key": "FE ED 15 00 07 B8 9A 59 E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "UKI-1462",
     "key": "FE ED 15 00 07 B8 9A 59"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 H 7200",
+    "frequency": "11106 H 7200",
     "id": "2Sat HOL89 Main",
     "key": "FE ED 15 00 07 B8 9A 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12512 V 10000",
+    "id": "AEK-BV",
+    "key": "DD 11 23 11 FF CA 14 DD"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -37,26 +37,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11063 H 14400",
-    "id": "IS",
-    "key": "92 64 12 08 53 44 03 9A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11186 V 7200",
     "id": "ITA 274 VNL Men - Belgrade Main",
     "key": "6D 70 11 EE C5 19 CD AB"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11634 H 14400",
-    "id": "ISS",
-    "key": "92 64 12 08 53 44 03 9A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
-    "id": "IS_Plus",
-    "key": "92 64 12 08 53 44 03 9A"
   }
 ]
