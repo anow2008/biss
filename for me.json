@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 V 7500",
+        "id": "NLFLEV_HOL-090 CH-C",
+        "key": "BA 10 15 DF E0 16 07 FD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12512 V 10000",
+        "id": "AEK-BV",
+        "key": "DD 11 23 11 FF CA 14 DD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 V 7200",
+        "id": "BEL-115 ENC1",
+        "key": "C4 62 01 27 91 87 73 8B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11107 H 7200",
         "id": "2Sat HOL89 Main",
         "key": "FE ED 15 00 07 B8 9A 59"
