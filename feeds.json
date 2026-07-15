@@ -1,7 +1,19 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11107 H 7200",
+        "id": "2Sat HOL89 Main",
+        "key": "FE ED 15 00 07 B8 9A 59"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11164 H 9875",
+        "id": "I390b5g12",
+        "key": "DA 72 22 6E DA 8C AD 13"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11652 H 14400",
+        "frequency": "11651 H 14400",
         "id": "IS_Plus",
         "key": "92 64 12 08 53 44 03 9A"
     },
@@ -20,7 +32,7 @@
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10996 V 7500",
-        "id": "POL047 TVN WAW",
+        "id": "POL044 TVN24 SZC",
         "key": "77 93 52 5C 99 08 86 27"
     },
     {
@@ -31,7 +43,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
+        "frequency": "11051 H 4938",
         "id": "EBU 3 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
     }
