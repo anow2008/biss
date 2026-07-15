@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11652 H 14400",
+        "id": "IS_Plus",
+        "key": "92 64 12 08 53 44 03 9A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11186 V 7200",
+        "id": "ITA 274 VNL Men - Belgrade Main",
+        "key": "6D 70 11 EE C5 19 CD AB"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10970 V 4800",
         "id": "POL-25 ENC1",
@@ -22,17 +34,5 @@
         "frequency": "11052 H 4938",
         "id": "EBU 3 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "HUN-013 Line 1",
-        "key": "14 07 20 3B 26 FE 3A 5E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7200",
-        "id": "LMG PATH 1",
-        "key": "2B 37 29 8B 2A C9 F0 E3"
     }
 ]
