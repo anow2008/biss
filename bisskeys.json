@@ -1,31 +1,43 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11045 H 9600",
-    "id": "OER/F267/1/PMU LISIEUX",
-    "key": "82 E9 FE 69 97 52 16 FF"
+    "frequency": "11014 V 7200",
+    "id": "UKI-1462",
+    "key": "FE ED 15 00 07 B8 9A 59 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7200",
+    "id": "UKI-1462",
+    "key": "FE ED 15 00 07 B8 9A 59"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 H 7200",
+    "id": "2Sat HOL89 Main",
+    "key": "FE ED 15 00 07 B8 9A 59"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11064 H 14400",
+    "frequency": "11063 H 14400",
     "id": "IS",
     "key": "92 64 12 08 53 44 03 9A"
   },
@@ -37,13 +49,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
+    "frequency": "11634 H 14400",
     "id": "ISS",
     "key": "92 64 12 08 53 44 03 9A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11652 H 14400",
+    "frequency": "11651 H 14400",
     "id": "IS_Plus",
     "key": "92 64 12 08 53 44 03 9A"
   }
