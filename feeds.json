@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12593 V 7200",
+        "id": "ITA556 HD16",
+        "key": "29 01 67 91 AA 11 BB 76"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11039 H 4938",
         "id": "EBU 1 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
@@ -46,11 +52,5 @@
         "frequency": "11191 H 4938",
         "id": "HUN-013 Line 1",
         "key": "CE 2A F1 E9 48 05 C9 16"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11633 H 14400",
-        "id": "Fi01PARSFT2",
-        "key": "78 41 CD 86 3A 8C 36 FC"
     }
 ]
