@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 16A",
+        "frequency": "10976 V 4800",
+        "id": "POL49 EN1 Katowice",
+        "key": "AB BA 26 8B DC AE 07 91"
+    },
+    {
+        "satellite": "Eutelsat 16A",
         "frequency": "11192 H 4938",
         "id": "HUN-013 Line 1",
         "key": "CE 2A F1 E9 48 05 C9 16"
