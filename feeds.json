@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11195 V 7200",
+        "id": "Fi14_GNVE",
+        "key": "2E 8D 76 31 4C 77 23 E6"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11246 H 7200",
+        "id": "UEFA EL ZIL HAJ",
+        "key": "51 17 AE 16 CD 67 32 66"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12510 V 7200",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
         "id": "POL-033 out1",
@@ -34,17 +52,5 @@
         "frequency": "11164 H 9875",
         "id": "I390main",
         "key": "DA 72 22 6E DA 8C AD 13"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11204 V 7200",
-        "id": "GVA_Fi05",
-        "key": "19 3A 86 D9 D1 5C B4 E1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
     }
 ]
