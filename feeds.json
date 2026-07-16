@@ -1,7 +1,7 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11192 H 4938",
+        "frequency": "11191 H 4938",
         "id": "HUN-013 Line 1",
         "key": "CE 2A F1 E9 48 05 C9 16"
     },
@@ -13,8 +13,8 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11165 H 9875",
-        "id": "I390b5g12m",
+        "frequency": "11164 H 9875",
+        "id": "I390main",
         "key": "DA 72 22 6E DA 8C AD 13"
     },
     {
