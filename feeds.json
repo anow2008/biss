@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12512 V 10000",
+        "id": "OLY-FOR",
+        "key": "CB 13 23 01 AB CA 13 88"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL020 TVN WRO",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11045 H 4938",
         "id": "EBU 2 ENC",
@@ -40,23 +52,5 @@
         "frequency": "12559 H 4938",
         "id": "YSM-013M",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11063 H 14400",
-        "id": "IS",
-        "key": "88 20 48 F0 68 29 09 9A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11004 V 9875",
-        "id": "ENC-23",
-        "key": "9F 0D 1E CA 97 7E 5A 6F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10978 H 7200",
-        "id": "Ellas First",
-        "key": "11 11 11 33 11 11 11 33"
     }
 ]
