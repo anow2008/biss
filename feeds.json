@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11195 V 7200",
+        "id": "Fi14_GNVE",
+        "key": "2E 8D 76 31 4C 77 23 E6"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10977 V 4800",
         "id": "POL 076",
@@ -34,11 +40,5 @@
         "frequency": "10996 V 7500",
         "id": "POL020 TVN WRO",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11019 V 14400",
-        "id": "LineCut INTERV",
-        "key": "AD 87 DA 0E AB 63 7D 8B"
     }
 ]
