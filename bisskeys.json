@@ -3,7 +3,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11004 V 9875",
     "id": "ENC-23",
-    "key": "23 19 B0 EC 2E 79 DB 82"
+    "key": "7C 60 02 DE 81 A4 7F A4"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -31,20 +31,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11063 H 14400",
-    "id": "IS",
-    "key": "88 20 48 F0 68 29 09 9A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11186 V 7200",
     "id": "ITA 274 VNL Men - Belgrade Main",
     "key": "6D 70 11 EE C5 19 CD AB"
   },
   {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11633 H 14400",
+    "id": "Fi01PARSFT2",
+    "key": "88 20 48 F0 68 29 09 9A"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11013 V 4600",
-    "id": "AP LDN UPA",
+    "frequency": "11019 V 4600",
+    "id": "AP LDN UPB",
     "key": "DA 72 22 6E DA 8C AD 13"
   },
   {
@@ -55,14 +55,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11179 H 4938",
-    "id": "HUN-013 Line 1",
-    "key": "CE 2A F1 E9 48 05 C9 16"
+    "frequency": "12559 H 4938",
+    "id": "YSM-013M",
+    "key": "AB BA 20 85 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12559 H 4938",
-    "id": "YSM-013M",
+    "frequency": "12565 H 4938",
+    "id": "YSM-016 MAIN",
     "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
