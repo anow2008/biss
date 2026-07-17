@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10977 V 4800",
+        "id": "POL 076",
+        "key": "AB BA 26 8B DC AE 07 91"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11004 V 9875",
         "id": "ENC-23",
