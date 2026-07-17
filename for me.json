@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11019 V 14400",
+        "id": "LineCut GRNDCAMs",
+        "key": "AD 87 DA 0E AB 63 7D 8B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12737 V 7200",
         "id": "3x SRT+ E7B 9MHz uplink - TEST",
         "key": "AD C5 66 D8 55 FD EA 3C"
