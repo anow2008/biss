@@ -1,15 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11004 V 9875",
+    "id": "ENC-23",
+    "key": "23 19 B0 EC 2E 79 DB 82"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11019 V 14400",
     "id": "LineCut GRNDCAMs",
     "key": "AD 87 DA 0E AB 63 7D 8B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12676 H 7120",
-    "id": "EDM HD ENC-1",
-    "key": "B2 C5 D3 4A E6 F4 A7 81"
+    "frequency": "12512 V 10000",
+    "id": "OLY-FOR",
+    "key": "CB 13 23 01 AB CA 13 88"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -34,18 +40,6 @@
     "frequency": "11186 V 7200",
     "id": "ITA 274 VNL Men - Belgrade Main",
     "key": "6D 70 11 EE C5 19 CD AB"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11634 H 14400",
-    "id": "ISS",
-    "key": "88 20 48 F0 68 29 09 9A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
-    "id": "IS_Plus",
-    "key": "88 20 48 F0 68 29 09 9A"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
