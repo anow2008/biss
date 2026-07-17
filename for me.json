@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11004 V 9875",
+        "id": "ENC-23",
+        "key": "23 19 B0 EC 2E 79 DB 82"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12512 V 10000",
+        "id": "OLY-FOR",
+        "key": "CB 13 23 01 AB CA 13 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11019 V 14400",
         "id": "LineCut GRNDCAMs",
         "key": "AD 87 DA 0E AB 63 7D 8B"
