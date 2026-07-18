@@ -1,21 +1,33 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11004 V 9875",
+    "id": "ENC-23",
+    "key": "23 19 B0 EC 2E 79 DB 82"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11019 V 14400",
     "id": "LineCut GRNDCAMs",
     "key": "AD 87 DA 0E AB 63 7D 8B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11107 H 7200",
-    "id": "2Sat HOL89 Main",
-    "key": "18 07 F8 17 9D EC BA 43"
+    "frequency": "11043 H 7200",
+    "id": "MP One",
+    "key": "18 07 BD DC CC 35 74 75"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12511 V 9600",
-    "id": "SUI 066 A",
-    "key": "B8 0D 7C 41 8E F9 5E E5"
+    "frequency": "11487 V 7200",
+    "id": "T/A Zixi to E7B Domestic Feed",
+    "key": "88 22 55 FF 66 24 57 E1"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7500",
+    "id": "ENC 2",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -24,22 +36,22 @@
     "key": "AB BA 20 85 25 20 26 6B"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12736 V 7200",
+    "id": "ROU-015 MAIN",
+    "key": "44 15 CB 24 D1 98 AB 14"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10842 H 9875",
+    "frequency": "10841 H 9875",
     "id": "MXGP of Great Britain",
     "key": "8D 72 25 24 C0 53 E9 FC"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7200",
-    "id": "DL World main",
-    "key": "FB BA D0 85 71 8E 65 64"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11084 V 14400",
-    "id": "SVC1_bu",
-    "key": "FA FA D0 C4 71 8E 65 64"
+    "frequency": "11063 H 14400",
+    "id": "IS",
+    "key": "B9 F2 84 2F D5 0D F9 DB"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -58,6 +70,24 @@
     "frequency": "11632 V 14240",
     "id": "Pitch Nations - Fiji vs Scotland",
     "key": "69 66 D3 A2 31 BE 24 13"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11633 H 14400",
+    "id": "ISS",
+    "key": "B9 F2 84 2F D5 0D F9 DB"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11651 H 14400",
+    "id": "IS_Plus",
+    "key": "B9 F2 84 2F D5 0D F9 DB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL-78 ENC 1",
+    "key": "AB BA 26 8B DC AE 07 91"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
