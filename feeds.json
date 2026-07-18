@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 V 7200",
+        "id": "UFC Fight Night on P 16 All Fights",
+        "key": "66 34 AC 46 DB 28 A5 A8"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11155 H 4938",
+        "id": "MNE-001 main",
+        "key": "C1 FF 21 E1 6C 2B F1 88"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11656 H 7200",
+        "id": "LMG PATH 1",
+        "key": "5F 33 2D BF 00 04 CD D1"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11039 H 4938",
         "id": "EBU 1 ENC",
@@ -40,17 +58,5 @@
         "frequency": "11487 V 7200",
         "id": "T/A Zixi to E7B Domestic Feed",
         "key": "88 22 55 FF 66 24 57 E1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ROU-015 MAIN",
-        "key": "44 15 CB 24 D1 98 AB 14"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11633 H 14400",
-        "id": "Fi01PARSFT2",
-        "key": "B9 F2 84 2F D5 0D F9 DB"
     }
 ]
