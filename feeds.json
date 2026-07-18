@@ -1,8 +1,20 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10977 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 07 91"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL039 TVN24 KRK",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
-        "id": "EBU 3 ENC",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
     },
     {
@@ -16,12 +28,6 @@
         "frequency": "11487 V 7200",
         "id": "T/A Zixi to E7B Domestic Feed",
         "key": "88 22 55 FF 66 24 57 E1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-78 ENC 1",
-        "key": "AB BA 26 8B DC AE 07 91"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -49,20 +55,8 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12534 V 4938",
+        "frequency": "12533 V 4938",
         "id": "YSM-013M",
         "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11004 V 9875",
-        "id": "ENC-23",
-        "key": "23 19 B0 EC 2E 79 DB 82"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11179 H 4938",
-        "id": "HUN-013 Line 1",
-        "key": "CE 2A F1 E9 48 05 C9 16"
     }
 ]
