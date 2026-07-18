@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11004 V 9875",
+        "id": "ENC-23",
+        "key": "7C 60 02 DE 81 A4 7F A4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11632 V 14240",
+        "id": "Pitch Nations Championship - Argentina v England",
+        "key": "77 F8 32 A1 8A 32 73 2F"
+    },
+    {
         "satellite": "Eutelsat 16A",
         "frequency": "10996 V 7500",
         "id": "POL039 TVN24 KRK",
