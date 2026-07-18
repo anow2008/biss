@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12559 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11004 V 9875",
         "id": "ENC-23",
@@ -16,12 +28,6 @@
         "frequency": "10996 V 7500",
         "id": "POL039 TVN24 KRK",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11045 H 4938",
-        "id": "EBU 2 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -46,11 +52,5 @@
         "frequency": "11633 H 14400",
         "id": "Fi01PARSFT2",
         "key": "B9 F2 84 2F D5 0D F9 DB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11043 H 7200",
-        "id": "MP One",
-        "key": "18 07 BD DC CC 35 74 75"
     }
 ]
