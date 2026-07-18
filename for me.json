@@ -1,6 +1,78 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11019 V 14400",
+        "id": "LineCut GRNDCAMs",
+        "key": "AD 87 DA 0E AB 63 7D 8B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11098 H 7200",
+        "id": "AFLE PRO AUS PARIS",
+        "key": "18 07 DE FD FF 50 14 63"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11107 H 7200",
+        "id": "2Sat HOL89 Main",
+        "key": "18 07 F8 17 9D EC BA 43"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11466 V 9600",
+        "id": "MTHREE  FEED2",
+        "key": "A3 B9 C5 21 D8 E8 F9 B9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11478 V 9600",
+        "id": "MTHREE FEED 1",
+        "key": "A3 B9 C5 21 D8 E8 F9 B9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12511 V 9600",
+        "id": "SUI 066 A",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12575 H 10000",
+        "id": "AEK-GRO",
+        "key": "22 55 CC 43 BB 12 43 10"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10842 H 9875",
+        "id": "MXGP of Great Britain",
+        "key": "8D 72 25 24 C0 53 E9 FC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7200",
+        "id": "DL World main",
+        "key": "FB BA D0 85 71 8E 65 64"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11084 V 14400",
+        "id": "SVC1_bu",
+        "key": "FA FA D0 C4 71 8E 65 64"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7200",
+        "id": "ITA 274 VNL Men - Belgrade Main",
+        "key": "38 17 86 D5 8E C7 31 86"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11632 V 14240",
+        "id": "Pitch Nations - Fiji vs Scotland",
+        "key": "69 66 D3 A2 31 BE 24 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11070 H 7200",
         "id": "IMG A EU",
         "key": "12 3C AA F8 14 22 A3 D9"
