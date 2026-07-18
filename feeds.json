@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "4C 9B 7F 66 3A 2E 1D 85"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11194 V 7200",
         "id": "Fi14_GNVE",
         "key": "2E 8D 76 31 4C 77 23 E6"
