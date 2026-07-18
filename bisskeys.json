@@ -49,20 +49,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11195 V 7200",
-    "id": "Fi14_GNVE",
-    "key": "2E 8D 76 31 4C 77 23 E6"
+    "frequency": "11071 V 7200",
+    "id": "WSHT ENC 54",
+    "key": "66 34 AC 46 DB 28 A5 A8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11632 V 14240",
-    "id": "Pitch Nations Championship - Argentina v England",
-    "key": "77 F8 32 A1 8A 32 73 2F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11155 H 4938",
-    "id": "MNE-001 main",
-    "key": "C1 FF 21 E1 6C 2B F1 88"
+    "frequency": "11195 V 7200",
+    "id": "Fi14_GNVE",
+    "key": "2E 8D 76 31 4C 77 23 E6"
   }
 ]
