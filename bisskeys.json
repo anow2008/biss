@@ -19,21 +19,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11487 V 7200",
-    "id": "T/A Zixi to E7B Domestic Feed",
-    "key": "88 22 55 FF 66 24 57 E1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12533 V 4938",
-    "id": "YSM-013M",
-    "key": "AB BA 20 85 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ROU-015 MAIN",
-    "key": "44 15 CB 24 D1 98 AB 14"
+    "frequency": "12677 V 7200",
+    "id": "UFC Fight Night on P+ #16: All Fights",
+    "key": "66 34 AC 46 DB 28 A5 A8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -58,12 +46,6 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11186 V 7200",
-    "id": "ITA 274 VNL Men - Belgrade Main",
-    "key": "38 17 86 D5 8E C7 31 86"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
