@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12534 V 4938",
+        "id": "YSM-013M",
+        "key": "AB BA 20 85 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11164 H 9875",
+        "id": "I390main",
+        "key": "DA 72 22 6E DA 8C AD 13"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11179 H 4938",
+        "id": "HUN-013 Line 1",
+        "key": "CE 2A F1 E9 48 05 C9 16"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11019 V 14400",
         "id": "LineCut GRNDCAMs",
         "key": "AD 87 DA 0E AB 63 7D 8B"
