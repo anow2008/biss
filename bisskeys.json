@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11004 V 9875",
+    "id": "ENC-23",
+    "key": "AD 87 DA 0E AB 63 7D 8B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11019 V 14400",
+    "id": "LineCut GRNDCAMs",
+    "key": "AD 87 DA 0E AB 63 7D 8B"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11098 H 7200",
+    "id": "AFLE PRO AUS PARIS",
+    "key": "18 07 DE FD FF 50 14 63"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11107 H 7200",
+    "id": "2Sat HOL89 Main",
+    "key": "18 07 F8 17 9D EC BA 43"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11466 V 9600",
+    "id": "MTHREE  FEED2",
+    "key": "A3 B9 C5 21 D8 E8 F9 B9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11478 V 9600",
+    "id": "MTHREE FEED 1",
+    "key": "A3 B9 C5 21 D8 E8 F9 B9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12511 V 9600",
+    "id": "SUI 066 A",
+    "key": "B8 0D 7C 41 8E F9 5E E5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12575 H 10000",
+    "id": "AEK-GRO",
+    "key": "22 55 CC 43 BB 12 43 10"
+  }
+]
