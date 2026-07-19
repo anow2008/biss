@@ -34,11 +34,5 @@
         "frequency": "10996 V 7500",
         "id": "POL029 TVN24 GDA",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
     }
 ]
