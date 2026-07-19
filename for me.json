@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "SLQ 008 M",
+        "key": "19 07 BB DB CC 20 45 31"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11003 V 9875",
         "id": "ENC-23",
         "key": "9F 0D 1E CA 97 7E 5A 6F"
