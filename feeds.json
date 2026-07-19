@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7200",
+        "id": "ROU-015 MAIN",
+        "key": "44 15 CB 24 D1 98 AB 14"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12511 V 9600",
+        "id": "SUI 066 A",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11477 V 9600",
+        "id": "MTHREE FEED 1",
+        "key": "A3 B9 C5 21 D8 E8 F9 B9"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL029 TVN24 GDA",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11040 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11186 V 7200",
         "id": "ITA 274 VNL Men - Belgrade Main",
@@ -16,35 +46,5 @@
         "frequency": "11651 H 14400",
         "id": "IS_Plus",
         "key": "BE 01 08 C7 76 21 C5 5C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11610 V 7200",
-        "id": "UKI1480",
-        "key": "3F 87 27 ED 99 52 30 1B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11003 V 9875",
-        "id": "ENC-23",
-        "key": "CC D7 13 B6 27 2A 9B EC"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11003 V 9875",
-        "id": "ENC-23",
-        "key": "9F 0D 1E CA 97 7E 5A 6F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11180 H 4938",
-        "id": "HUN-013 Line 1",
-        "key": "CE 2A F1 E9 48 05 C9 16"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11164 H 9875",
-        "id": "I390main",
-        "key": "DA 72 22 6E DA 8C AD 13"
     }
 ]
