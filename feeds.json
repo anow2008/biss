@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12677 V 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12559 H 4938",
         "id": "YSM-013M",
@@ -28,11 +34,5 @@
         "frequency": "11478 V 9600",
         "id": "MTHREE FEED 1",
         "key": "A3 B9 C5 21 D8 E8 F9 B9"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL029 TVN24 GDA",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
