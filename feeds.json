@@ -1,62 +1,68 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11610 V 7200",
+        "id": "UKI1480",
+        "key": "3F 87 27 ED 99 52 30 1B"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7200",
-        "id": "UFC Fight Night on P 16 All Fights",
-        "key": "66 34 AC 46 DB 28 A5 A8"
+        "frequency": "11003 V 9875",
+        "id": "ENC-23",
+        "key": "CC D7 13 B6 27 2A 9B EC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11003 V 9875",
+        "id": "ENC-23",
+        "key": "9F 0D 1E CA 97 7E 5A 6F"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11155 H 4938",
-        "id": "MNE-001 main",
-        "key": "C1 FF 21 E1 6C 2B F1 88"
+        "frequency": "11180 H 4938",
+        "id": "HUN-013 Line 1",
+        "key": "CE 2A F1 E9 48 05 C9 16"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11164 H 9875",
+        "id": "I390main",
+        "key": "DA 72 22 6E DA 8C AD 13"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11656 H 7200",
-        "id": "LMG PATH 1",
-        "key": "5F 33 2D BF 00 04 CD D1"
+        "frequency": "11204 V 7200",
+        "id": "GVA_Fi05_VNL_Osaka",
+        "key": "B3 A4 26 7D 1D A3 28 E8"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
+        "frequency": "11195 V 7200",
+        "id": "Fi14_GNVE",
+        "key": "2E 8D 76 31 4C 77 23 E6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12559 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "AB BA 20 85 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11004 V 9875",
-        "id": "ENC-23",
-        "key": "7C 60 02 DE 81 A4 7F A4"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 07 91"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL039 TVN24 KRK",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10867 H 7500",
-        "id": "ENC 2",
-        "key": "F1 07 45 3D E6 CB AD 5E"
+        "frequency": "10841 H 9875",
+        "id": "MXGP of Great Britain",
+        "key": "8D 72 25 24 C0 53 E9 FC"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11487 V 7200",
-        "id": "T/A Zixi to E7B Domestic Feed",
-        "key": "88 22 55 FF 66 24 57 E1"
+        "frequency": "11018 V 14400",
+        "id": "LineCut INTERV",
+        "key": "AD 87 DA 0E AB 63 7D 8B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11107 H 7200",
+        "id": "PETANQUE NICE",
+        "key": "F5 78 CF 3C 06 20 0A 30"
     }
 ]
