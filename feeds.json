@@ -13,7 +13,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12737 V 7200",
+        "frequency": "12736 V 7200",
         "id": "ROU-015 MAIN",
         "key": "44 15 CB 24 D1 98 AB 14"
     },
@@ -38,13 +38,7 @@
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11039 H 4938",
-        "id": "Unname",
+        "id": "EBU 1 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11186 V 7200",
-        "id": "ITA 274 VNL Men - Belgrade Main",
-        "key": "7C 85 60 61 67 D6 88 C5"
     }
 ]
