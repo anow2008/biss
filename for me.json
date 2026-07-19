@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7200",
+        "id": "ITA 274 VNL Men - Belgrade Main",
+        "key": "7C 85 60 61 67 D6 88 C5"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10970 V 4800",
+        "id": "pol-053_enc2",
+        "key": "AB BA 26 8B DC AE 07 91"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11003 V 9875",
         "id": "ENC-23",
