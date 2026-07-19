@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10969 V 7200",
-    "id": "E-95 BK",
-    "key": "44 15 CB 24 D1 98 AB 14 E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10969 V 7200",
-    "id": "E-95 BK",
-    "key": "44 15 CB 24 D1 98 AB 14"
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "EF E1 D4 A4 58 58 C4 74"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -52,23 +46,5 @@
     "frequency": "11195 V 7200",
     "id": "Fi14_GNVE",
     "key": "2E 8D 76 31 4C 77 23 E6"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11013 V 4600",
-    "id": "AP LDN UPA",
-    "key": "DA 72 22 6E DA 8C AD 13"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11164 H 9875",
-    "id": "I390main",
-    "key": "DA 72 22 6E DA 8C AD 13"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12559 H 4938",
-    "id": "YSM-013M",
-    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
