@@ -13,9 +13,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12737 V 7200",
+    "frequency": "12736 V 7200",
     "id": "ROU-015 MAIN",
     "key": "44 15 CB 24 D1 98 AB 14"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "GCUK Enc 9",
+    "key": "8D 72 25 24 C0 53 E9 FC"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -26,7 +32,7 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
-    "id": "Unname",
+    "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
@@ -40,12 +46,6 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11063 H 14400",
-    "id": "IS",
-    "key": "BE 01 08 C7 76 21 C5 5C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -66,21 +66,9 @@
     "key": "3F 87 27 ED 99 52 30 1B"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "ISS",
-    "key": "BE 01 08 C7 76 21 C5 5C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
-    "id": "IS_Plus",
-    "key": "BE 01 08 C7 76 21 C5 5C"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11013 V 4600",
-    "id": "AP LDN UPA",
+    "id": "NYC Nim Enc 1",
     "key": "DA 72 22 6E DA 8C AD 13"
   },
   {
@@ -88,12 +76,6 @@
     "frequency": "11164 H 9875",
     "id": "I390main",
     "key": "DA 72 22 6E DA 8C AD 13"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11179 H 4938",
-    "id": "HUN-013 Line 1",
-    "key": "CE 2A F1 E9 48 05 C9 16"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
