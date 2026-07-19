@@ -3,13 +3,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10969 V 7200",
     "id": "E-95 BK",
-    "key": "7C 60 02 DE 81 A4 7F A4"
+    "key": "44 15 CB 24 D1 98 AB 14 E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11004 V 9875",
-    "id": "ENC-23",
-    "key": "7C 60 02 DE 81 A4 7F A4"
+    "frequency": "10969 V 7200",
+    "id": "E-95 BK",
+    "key": "44 15 CB 24 D1 98 AB 14"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -21,13 +21,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10818 V 3670",
     "id": "GCUK Enc 9",
-    "key": "8D 72 25 24 C0 53 E9 FC"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10841 H 9875",
-    "id": "MXGP of Great Britain",
-    "key": "8D 72 25 24 C0 53 E9 FC"
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -60,15 +54,9 @@
     "key": "2E 8D 76 31 4C 77 23 E6"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 V 7200",
-    "id": "UKI1480",
-    "key": "3F 87 27 ED 99 52 30 1B"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11013 V 4600",
-    "id": "NYC Nim Enc 1",
+    "id": "AP LDN UPA",
     "key": "DA 72 22 6E DA 8C AD 13"
   },
   {
