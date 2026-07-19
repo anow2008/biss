@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11004 V 9875",
+        "id": "ENC-23",
+        "key": "7C 60 02 DE 81 A4 7F A4"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11084 V 4938",
         "id": "BEL68 - Enc.1",
