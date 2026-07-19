@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11003 V 9875",
-    "id": "ENC-23",
-    "key": "9F 0D 1E CA 97 7E 5A 6F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11018 V 14400",
-    "id": "LineCut GRNDCAMs",
-    "key": "AD 87 DA 0E AB 63 7D 8B"
+    "frequency": "10960 V 7200",
+    "id": "SLQ 008 M",
+    "key": "19 07 BB DB CC 20 45 31"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -25,7 +19,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11477 V 9600",
+    "frequency": "11478 V 9600",
     "id": "MTHREE FEED 1",
     "key": "A3 B9 C5 21 D8 E8 F9 B9"
   },
@@ -34,12 +28,6 @@
     "frequency": "12511 V 9600",
     "id": "SUI 066 A",
     "key": "B8 0D 7C 41 8E F9 5E E5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7200",
-    "id": "ROU-015 MAIN",
-    "key": "44 15 CB 24 D1 98 AB 14"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -61,13 +49,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11064 H 14400",
+    "frequency": "11063 H 14400",
     "id": "IS",
     "key": "BE 01 08 C7 76 21 C5 5C"
   },
@@ -82,12 +70,6 @@
     "frequency": "11195 V 7200",
     "id": "Fi14_GNVE",
     "key": "2E 8D 76 31 4C 77 23 E6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11204 V 7200",
-    "id": "GVA_Fi05_VNL_Osaka",
-    "key": "B3 A4 26 7D 1D A3 28 E8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -109,15 +91,15 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL49 EN1 TRZYCATEK",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "11013 V 4600",
+    "id": "Moscow TX5",
+    "key": "DA 72 22 6E DA 8C AD 13"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL029 TVN24 GDA",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "11164 H 9875",
+    "id": "I390main",
+    "key": "DA 72 22 6E DA 8C AD 13"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
