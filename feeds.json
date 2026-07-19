@@ -19,12 +19,6 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12736 V 7200",
-        "id": "ROU-015 MAIN",
-        "key": "44 15 CB 24 D1 98 AB 14"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12512 V 9600",
         "id": "SUI 066 A",
         "key": "B8 0D 7C 41 8E F9 5E E5"
