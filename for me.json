@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11185 H 4938",
+        "id": "BEL68 - Enc.1",
+        "key": "BA 40 1E 18 11 0B D5 F1"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11191 H 4938",
+        "id": "BEL68 - Enc.2",
+        "key": "BA 40 1E 18 11 0B D5 F1"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
