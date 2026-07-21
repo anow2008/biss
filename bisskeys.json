@@ -7,24 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11088 H 7200",
-    "id": "2SAT HOL307 RTBF",
-    "key": "E2 1B 30 2D 7D 07 AC 30"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11097 H 7200",
-    "id": "2Sat HOL307 VRT",
-    "key": "F3 07 B2 AC 1D E0 7A 77"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11106 H 7200",
-    "id": "PROXIMUS",
-    "key": "FE ED B3 9E 08 21 07 30"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12695 V 7200",
     "id": "Nacional (URU) vs Tigre (ARG) - INGLES EUROPA",
     "key": "23 58 CE 49 11 AD DE 9C"
