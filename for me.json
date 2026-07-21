@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11088 H 7200",
+        "id": "2SAT HOL307 RTBF",
+        "key": "E2 1B 30 2D 7D 07 AC 30"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11097 H 7200",
+        "id": "2Sat HOL307 VRT",
+        "key": "F3 07 B2 AC 1D E0 7A 77"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12737 V 7400",
+        "id": "TUR139-Main",
+        "key": "C2 1A DD B9 7A 0E 26 AE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11014 V 7200",
         "id": "ARM-005 Main",
         "key": "78 CD 07 4C D2 6A AC E8"
