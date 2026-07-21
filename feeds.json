@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11088 H 7200",
+        "id": "2SAT HOL307 RTBF",
+        "key": "E2 1B 30 2D 7D 07 AC 30"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11097 H 7200",
+        "id": "2Sat HOL307 VRT",
+        "key": "F3 07 B2 AC 1D E0 7A 77"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12737 V 7400",
         "id": "TUR139-Main",
         "key": "C2 1A DD B9 7A 0E 26 AE"
@@ -34,11 +46,5 @@
         "frequency": "12594 H 7120",
         "id": "HOL-110 MAIN",
         "key": "A2 7A C3 DF 6A 22 5D E9"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL11_HARM",
-        "key": "AB BA 26 8B DC AE 07 91"
     }
 ]
