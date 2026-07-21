@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11106 H 7200",
+        "id": "PROXIMUS",
+        "key": "FE ED B3 9E 08 21 07 30"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12704 V 7200",
+        "id": "Universidad Central VEN vs Santos BRA - INGLES EUROPA",
+        "key": "CB 71 AD E9 EE DF B8 85"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12695 V 7200",
+        "id": "Nacional URU vs Tigre ARG - INGLES EUROPA",
+        "key": "23 58 CE 49 11 AD DE 9C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11088 H 7200",
         "id": "2SAT HOL307 RTBF",
         "key": "E2 1B 30 2D 7D 07 AC 30"
@@ -13,7 +31,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12737 V 7400",
+        "frequency": "12736 V 7400",
         "id": "TUR139-Main",
         "key": "C2 1A DD B9 7A 0E 26 AE"
     },
