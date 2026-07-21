@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11014 V 7200",
+        "id": "ARM-005 Main",
+        "key": "78 CD 07 4C D2 6A AC E8"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11189 H 7500",
+        "id": "SNG 022 MAIN",
+        "key": "A6 B5 C4 1F D3 E2 F1 A6"
+    },
+    {
         "satellite": "Eutelsat 16A",
         "frequency": "11005 V 7500",
         "id": "POL019",
