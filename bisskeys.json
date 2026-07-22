@@ -3,6 +3,12 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
+    "key": "DA 23 DC D9 66 FA C1 21 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
     "key": "DA 23 DC D9 66 FA C1 21"
   },
   {
@@ -10,12 +16,6 @@
     "frequency": "12695 V 7200",
     "id": "Independiente Medell?n (COL) vs Vasco da Gama (BRA) - INGLES EUROPA",
     "key": "DA 23 DC D9 66 FA C1 21"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12704 V 7200",
-    "id": "TUR-142 B",
-    "key": "4E 5B 29 D2 6D D1 9A D8"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
