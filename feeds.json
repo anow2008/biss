@@ -1,26 +1,20 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12594 H 7120",
+        "id": "HOL-110 MAIN",
+        "key": "A2 7A C3 DF 6A 22 5D E9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12705 V 7200",
+        "id": "TUR-142 B",
+        "key": "4E 5B 29 D2 6D D1 9A D8"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11651 H 14400",
         "id": "IS_Plus",
         "key": "3A 4F 40 C9 FB 55 2A 7A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7500",
-        "id": "TUR 34 - B",
-        "key": "00 53 56 A9 61 61 61 23"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL020 TVN WRO",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10976 V 4800",
-        "id": "POL 076",
-        "key": "AB BA 26 8B DC AE 07 91"
     }
 ]
