@@ -3,13 +3,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
-    "key": "4E 5B 29 D2 6D D1 9A D8 E"
+    "key": "DA 23 DC D9 66 FA C1 21"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "4E 5B 29 D2 6D D1 9A D8"
+    "frequency": "12695 V 7200",
+    "id": "Independiente Medell?n (COL) vs Vasco da Gama (BRA) - INGLES EUROPA",
+    "key": "DA 23 DC D9 66 FA C1 21"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,7 +19,7 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11247 H 7200",
+    "frequency": "11246 H 7200",
     "id": "SPA - CSKA",
     "key": "33 17 AE F8 CD 52 32 51"
   },
@@ -30,9 +30,15 @@
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "Fi01PARSFT2",
-    "key": "3A 4F 40 C9 FB 55 2A 7A"
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11013 V 4600",
+    "id": "AP LDN UPA",
+    "key": "20 10 20 50 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12560 H 7200",
+    "id": "YSM-016 MAIN",
+    "key": "20 10 20 50 25 20 26 6B"
   }
 ]
