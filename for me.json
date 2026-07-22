@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12696 V 7200",
+        "id": "Independiente Medell?n (COL) vs Vasco da Gama (BRA) - INGLES EUROPA",
+        "key": "DA 23 DC D9 66 FA C1 21"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11246 H 7200",
+        "id": "SPA - CSKA",
+        "key": "33 17 AE F8 CD 52 32 51"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12560 H 7200",
+        "id": "YSM-016 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12704 V 7200",
         "id": "TUR-142 B",
         "key": "4E 5B 29 D2 6D D1 9A D8"
