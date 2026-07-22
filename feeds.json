@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11652 H 14400",
+        "id": "IS_Plus",
+        "key": "3A 4F 40 C9 FB 55 2A 7A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11633 H 14400",
+        "id": "ISS",
+        "key": "41 9F 50 30 AE B7 D5 3A"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12677 V 7500",
         "id": "TUR 34 - B",
@@ -31,32 +43,8 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10801 H 7200",
+        "frequency": "10802 H 7200",
         "id": "BWF WF-A C1 BISS-1",
         "key": "E7 B2 A9 42 F3 C6 D1 8A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11106 H 7200",
-        "id": "PROXIMUS",
-        "key": "FE ED B3 9E 08 21 07 30"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12704 V 7200",
-        "id": "Universidad Central VEN vs Santos BRA - INGLES EUROPA",
-        "key": "CB 71 AD E9 EE DF B8 85"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12695 V 7200",
-        "id": "Nacional URU vs Tigre ARG - INGLES EUROPA",
-        "key": "23 58 CE 49 11 AD DE 9C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11088 H 7200",
-        "id": "2SAT HOL307 RTBF",
-        "key": "E2 1B 30 2D 7D 07 AC 30"
     }
 ]
