@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11015 V 7200",
+        "id": "ARM-005 Main",
+        "key": "78 CD 07 4C D2 6A AC E8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11652 H 14400",
+        "id": "IS_Plus",
+        "key": "6A FA C5 29 F8 89 45 C6"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10971 V 4800",
         "id": "POL-10 ENC1",
@@ -22,17 +34,5 @@
         "frequency": "10810 H 7200",
         "id": "BWF WF-A C2 BISS-1",
         "key": "C4 B1 E8 5D A3 F7 96 30"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "BWF WF-A C1 BISS-1",
-        "key": "C1 D8 E3 7C A6 F2 94 2C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12695 V 7200",
-        "id": "Independiente Medelln COL vs Vasco da Gama BRA - INGLES EUROPA",
-        "key": "DA 23 DC D9 66 FA C1 21"
     }
 ]
