@@ -1,14 +1,8 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11015 V 7200",
-    "id": "ARM-005 Main",
-    "key": "78 CD 07 4C D2 6A AC E8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 H 7200",
-    "id": "D-561 | LET Scot O | Day 1 | Path 1",
+    "frequency": "11071 H 7200",
+    "id": "D 312",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
