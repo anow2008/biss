@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 V 6970",
+        "id": "UECLQ2 Lugano - Dukagjini",
+        "key": "A3 56 BC B5 14 27 81 BC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12657 H 7200",
+        "id": "CRO-004 Kup RH W - Back-up",
+        "key": "12 34 AB F1 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 V 7200",
+        "id": "YSM 019 01",
+        "key": "12 34 AB F1 CD 56 78 9B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 V 7200",
         "id": "Hapoel-Ludogorets",
         "key": "8D 6B 4F 47 2A 9C 3E 04"
