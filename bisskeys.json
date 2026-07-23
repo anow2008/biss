@@ -1,15 +1,21 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11177 H 6000",
+    "id": "UKI 1939 balamena",
+    "key": "C1 D8 E3 7C A6 F2 94 2C"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10801 H 7200",
+    "frequency": "10802 H 7200",
     "id": "BWF WF-A C1 BISS-1",
     "key": "C1 D8 E3 7C A6 F2 94 2C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10810 H 7200",
-    "id": "BWF WF-A C2 BISS-1",
-    "key": "C4 B1 E8 5D A3 F7 96 30"
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -22,5 +28,17 @@
     "frequency": "11052 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10971 V 4800",
+    "id": "POL-10 ENC1",
+    "key": "AB BA 26 8B DC AE 07 91"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10997 V 7500",
+    "id": "POL082 TVN WAW",
+    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
