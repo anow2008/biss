@@ -3,13 +3,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10960 V 7200",
     "id": "Hapoel-Ludogorets",
-    "key": "A4 51 D2 C7 4C CA 61 77"
+    "key": "8D 6B 4F 47 2A 9C 3E 04"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11101 H 15000",
-    "id": "TUR-162 M",
-    "key": "A4 51 D2 C7 4C CA 61 77"
+    "frequency": "11023 V 6970",
+    "id": "UECLQ2 Lugano - Dukagjini",
+    "key": "A3 56 BC B5 14 27 81 BC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,7 +19,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12678 V 7400",
+    "frequency": "12657 H 7200",
+    "id": "CRO-004 Kup RH W - Back-up",
+    "key": "12 34 AB F1 CD 20 26 13"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7400",
     "id": "TUR139-Main",
     "key": "A0 7A D2 EC 3A 0E 26 6E"
   },
@@ -34,18 +40,6 @@
     "frequency": "11246 H 7200",
     "id": "SPA - CSKA",
     "key": "51 17 AE 16 CD 67 32 66"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11256 H 7200",
-    "id": "DAC-MOS",
-    "key": "31 37 BC 24 CD 77 32 76"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 H 7200",
-    "id": "UKR-018 Main",
-    "key": "1F F1 23 33 07 E1 3E 26"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -67,15 +61,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "Fi01PARSFT2",
-    "key": "6A FA C5 29 F8 89 45 C6"
+    "frequency": "11637 V 7200",
+    "id": "YSM 019 01",
+    "key": "12 34 AB F1 CD 56 78 9B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12593 V 7200",
-    "id": "HUN-013 Line 1",
-    "key": "16 07 BE DB CF 20 26 15"
+    "frequency": "12583 V 7200",
+    "id": "MTVA SNG HUNGARY",
+    "key": "16 07 AC C9 DF 20 26 25"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL-111",
+    "key": "AB BA 26 8B DC AE 07 91"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
