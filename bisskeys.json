@@ -3,7 +3,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11023 V 7200",
     "id": "LINZ",
-    "key": "A4 51 D2 C7 4C CA 61 77"
+    "key": "31 72 BB 5E CA 11 27 02"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -16,6 +16,18 @@
     "frequency": "12593 V 7200",
     "id": "POL-058_ch1",
     "key": "15 58 35 A2 71 42 63 16"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12644 H 9875",
+    "id": "HUB SERVICE PARK POL-100",
+    "key": "94 69 33 30 AD D6 17 9A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12656 H 9875",
+    "id": "NEP 1. POL-142",
+    "key": "78 1F A2 39 FE C7 83 48"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -40,12 +52,6 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "Fi01PARSFT2",
-    "key": "4C 8C 03 DB AB DE D3 5C"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
