@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11101 H 15000",
+        "id": "TUR-162 M",
+        "key": "A4 51 D2 C7 4C CA 61 77"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11009 V 25740",
         "id": "SAU-031 Backup",
         "key": "AB 11 32 EE A6 5A CE CE"
