@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11009 V 25740",
+        "id": "SAU-031 Backup",
+        "key": "AB 11 32 EE A6 5A CE CE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11093 H 30000",
         "id": "UFC PATH A P",
         "key": "77 11 55 DD 29 7A C1 64"
