@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 V 7200",
+        "id": "LINZ",
+        "key": "31 72 BB 5E CA 11 27 02"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12644 H 9875",
+        "id": "HUB SERVICE PARK POL-100",
+        "key": "94 69 33 30 AD D6 17 9A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12656 H 9875",
+        "id": "NEP 1. POL-142",
+        "key": "78 1F A2 39 FE C7 83 48"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10986 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 07 91"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12563 H 10000",
+        "id": "HOL324 Golf WF",
+        "key": "27 43 FD 67 32 08 4B 85"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11101 H 15000",
         "id": "TUR-162 M",
         "key": "A4 51 D2 C7 4C CA 61 77"
