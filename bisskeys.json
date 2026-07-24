@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11052 H 7200",
+    "id": "UFC Q&A/CWI P",
+    "key": "77 11 55 DD 29 7A C1 64"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11093 H 30000",
+    "id": "UFC PATH A P",
+    "key": "77 11 55 DD 29 7A C1 64"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12676 H 7120",
+    "id": "EDM HD ENC-1",
+    "key": "B2 C5 D3 4A E6 F4 A7 81"
+  }
+]
