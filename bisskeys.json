@@ -7,9 +7,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11009 V 25740",
+    "frequency": "11010 V 25740",
     "id": "SAU-031 Main",
     "key": "AB 11 32 EE A6 5A CE CE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11043 H 7200",
+    "id": "UFC STUDIO/DESK P",
+    "key": "77 11 55 DD 29 7A C1 64"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -22,6 +28,12 @@
     "frequency": "11093 H 30000",
     "id": "UFC PATH A P",
     "key": "77 11 55 DD 29 7A C1 64"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12564 H 7200",
+    "id": "SLQ-010 Main",
+    "key": "25 07 DE 0A CC 84 19 69"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -85,13 +97,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
+    "frequency": "11652 H 14400",
     "id": "IS_Plus",
     "key": "71 B0 C7 E8 A7 63 A3 AD"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12611 V 7200",
+    "frequency": "12610 V 7200",
     "id": "En1_DTM_Oschersleben",
     "key": "21 34 CE 23 EF 09 AA A2"
   },
@@ -99,12 +111,6 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10964 V 4800",
     "id": "POL138_A",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
-    "id": "POL019",
-    "key": "77 93 52 5C 99 08 86 27"
+    "key": "AB BA 26 8B DC AE 07 91"
   }
 ]
