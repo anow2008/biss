@@ -13,19 +13,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11092 H 30000",
-    "id": "UFC PATH A P",
-    "key": "77 11 55 DD 29 7A C1 64"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
     "id": "POL-058_ch1",
     "key": "15 58 35 A2 71 42 63 16"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10802 H 7200",
+    "frequency": "10801 H 7200",
     "id": "GCUK ENC13",
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
@@ -48,15 +42,15 @@
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11186 V 7500",
+    "id": "ZUFFA",
+    "key": "86 75 30 2B 9A BC 12 68"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
     "id": "POL11_HARM",
     "key": "AB BA 26 8B DC AE 07 91"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10998 V 10000",
-    "id": "POL027 p1",
-    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
