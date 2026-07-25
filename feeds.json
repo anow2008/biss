@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10998 V 10000",
+        "id": "POL027 p1",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10867 H 7500",
+        "id": "ENC 2",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12593 V 7200",
         "id": "POL-058_ch1",
@@ -28,17 +40,5 @@
         "frequency": "10969 V 7200",
         "id": "ENC 1",
         "key": "BA C2 34 B0 DA CE E1 89"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12656 H 9875",
-        "id": "NEP 1. POL-142",
-        "key": "78 1F A2 39 FE C7 83 48"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7200",
-        "id": "UFC UFC Fight Night on P 17 All Fights",
-        "key": "77 11 55 DD 29 7A C1 64"
     }
 ]
