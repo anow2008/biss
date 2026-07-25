@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11186 V 7500",
+        "id": "ZUFFA",
+        "key": "86 75 30 2B 9A BC 12 68"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10998 V 10000",
         "id": "POL027 p1",
