@@ -3,13 +3,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10960 V 7200",
     "id": "E-95 MAIN",
-    "key": "BA C2 34 B0 DA CE E1 89"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10969 V 7200",
-    "id": "ENC 1",
-    "key": "BA C2 34 B0 DA CE E1 89"
+    "key": "AB 11 32 EE A6 5A CE CE"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -43,12 +37,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "SLQ-010 Main",
-    "key": "25 07 DE 0A CC 84 19 69"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12593 V 7200",
     "id": "POL-058_ch1",
     "key": "15 58 35 A2 71 42 63 16"
@@ -58,12 +46,6 @@
     "frequency": "12644 H 9875",
     "id": "HUB SERVICE PARK POL-100",
     "key": "94 69 33 30 AD D6 17 9A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12736 V 7500",
-    "id": "TNT VISION 3",
-    "key": "19 37 E8 38 B1 AA C4 1F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -90,10 +72,10 @@
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "Fi01PARSFT2",
-    "key": "71 B0 C7 E8 A7 63 A3 AD"
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10965 V 4800",
+    "id": "POL-056 ENC 2",
+    "key": "AB BA 26 8B DC AE 07 91"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -103,9 +85,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
-    "id": "POL046",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "10986 V 9600",
+    "id": "POL11_HARM",
+    "key": "AB BA 26 8B DC AE 07 91"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
