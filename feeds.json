@@ -1,15 +1,15 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL11_HARM",
+        "key": "AB BA 26 8B DC AE 07 91"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12736 V 7500",
         "id": "TNT VISION 3",
         "key": "19 37 E8 38 B1 AA C4 1F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-111",
-        "key": "AB BA 26 8B DC AE 07 91"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -46,11 +46,5 @@
         "frequency": "10839 V 7200",
         "id": "InFront London T100 Triathlon.",
         "key": "E7 2F F9 0F 9D 07 25 C9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "SLQ-010 Main",
-        "key": "25 07 DE 0A CC 84 19 69"
     }
 ]
