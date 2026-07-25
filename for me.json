@@ -1,1 +1,104 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10982 V 15000",
+        "id": "TUR-162 M",
+        "key": "AB 11 32 EE A6 5A CE CE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11009 V 25740",
+        "id": "SAU-031 Main",
+        "key": "AB 11 32 EE A6 5A CE CE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11053 H 7200",
+        "id": "UFC PATH C P",
+        "key": "77 11 55 DD 29 7A C1 64"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11093 H 30000",
+        "id": "UFC PATH A P",
+        "key": "77 11 55 DD 29 7A C1 64"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12645 H 9875",
+        "id": "HUB SERVICE PARK POL-100",
+        "key": "94 69 33 30 AD D6 17 9A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12675 H 7120",
+        "id": "NLEMG HOL310-1",
+        "key": "D2 5C AC DA 19 DA 37 2A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12685 H 7120",
+        "id": "NLEMG HOL310-2",
+        "key": "D2 5C AC DA 19 DA 37 2A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10801 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "B9 C3 F1 6D A7 E4 D2 5D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11064 H 14400",
+        "id": "IS",
+        "key": "71 B0 C7 E8 A7 63 A3 AD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11610 V 7200",
+        "id": "Fencing WC HK 2026 A",
+        "key": "47 21 16 7E F1 CF BA 7A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11633 H 14400",
+        "id": "ISS",
+        "key": "71 B0 C7 E8 A7 63 A3 AD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11635 V 9875",
+        "id": "SLQ 008 M",
+        "key": "69 99 F4 F6 95 01 31 C7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11651 H 14400",
+        "id": "IS_Plus",
+        "key": "71 B0 C7 E8 A7 63 A3 AD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "En1_DTM_Oschersleben",
+        "key": "21 34 CE 23 EF 09 AA A2"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11005 V 7500",
+        "id": "POL019",
+        "key": "77 93 52 5C 99 08 86 27"
+    }
+]
