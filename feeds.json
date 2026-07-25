@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12736 V 7500",
+        "id": "TNT VISION 3",
+        "key": "19 37 E8 38 B1 AA C4 1F"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10974 V 9600",
         "id": "POL-111",
@@ -46,11 +52,5 @@
         "frequency": "12565 H 7200",
         "id": "SLQ-010 Main",
         "key": "25 07 DE 0A CC 84 19 69"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11651 H 14400",
-        "id": "IS_Plus",
-        "key": "71 B0 C7 E8 A7 63 A3 AD"
     }
 ]
