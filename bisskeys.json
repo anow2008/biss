@@ -1,7 +1,13 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10982 V 15000",
+    "frequency": "10969 V 7200",
+    "id": "ENC 1",
+    "key": "BA C2 34 B0 DA CE E1 89"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10983 V 15000",
     "id": "TUR-162 M",
     "key": "AB 11 32 EE A6 5A CE CE"
   },
@@ -19,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11053 H 7200",
+    "frequency": "11052 H 7200",
     "id": "UFC PATH C P",
     "key": "77 11 55 DD 29 7A C1 64"
   },
@@ -43,7 +49,7 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12645 H 9875",
+    "frequency": "12644 H 9875",
     "id": "HUB SERVICE PARK POL-100",
     "key": "94 69 33 30 AD D6 17 9A"
   },
@@ -55,20 +61,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10801 H 7200",
-    "id": "BWF WF-A C1 BISS-1",
-    "key": "B9 C3 F1 6D A7 E4 D2 5D"
+    "frequency": "10819 V 3670",
+    "id": "GCUK Enc 4",
+    "key": "E7 2F F9 0F 9D 07 25 C9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10838 V 7200",
+    "frequency": "10839 V 7200",
     "id": "InFront London T100 Triathlon.",
     "key": "E7 2F F9 0F 9D 07 25 C9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
-    "id": "EBU 2 ENC",
+    "frequency": "11045 H 4938",
+    "id": "Unname",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
@@ -85,13 +91,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11610 V 7200",
-    "id": "Fencing WC HK 2026 A",
-    "key": "47 21 16 7E F1 CF BA 7A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11634 H 14400",
+    "frequency": "11633 H 14400",
     "id": "ISS",
     "key": "71 B0 C7 E8 A7 63 A3 AD"
   },
@@ -109,14 +109,20 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10964 V 4800",
-    "id": "POL138_A",
+    "frequency": "10974 V 9600",
+    "id": "POL-111",
     "key": "AB BA 26 8B DC AE 07 91"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11188 H 10000",
-    "id": "AEK-GRO",
-    "key": "AB 12 24 E1 DD CB 11 B9"
+    "frequency": "11005 V 7500",
+    "id": "POL046",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12559 H 4938",
+    "id": "YSM-016 MAIN",
+    "key": "AB BA 20 85 25 20 26 6B"
   }
 ]
