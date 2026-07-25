@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12657 H 9875",
+        "id": "NEP 1. POL-142",
+        "key": "78 1F A2 39 FE C7 83 48"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10838 V 7200",
+        "id": "InFront London T100 Triathlon.",
+        "key": "E7 2F F9 0F 9D 07 25 C9"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11188 H 10000",
+        "id": "AEK-GRO",
+        "key": "AB 12 24 E1 DD CB 11 B9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12564 H 7200",
         "id": "SLQ-010 Main",
         "key": "25 07 DE 0A CC 84 19 69"
