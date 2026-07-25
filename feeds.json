@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "15 58 35 A2 71 42 63 16"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
         "id": "POL11_HARM",
@@ -34,17 +40,5 @@
         "frequency": "12510 V 7200",
         "id": "UFC UFC Fight Night on P 17 All Fights",
         "key": "77 11 55 DD 29 7A C1 64"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11188 H 10000",
-        "id": "AEK-GRO",
-        "key": "AB 12 24 E1 DD CB 11 B9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "InFront London T100 Triathlon.",
-        "key": "E7 2F F9 0F 9D 07 25 C9"
     }
 ]
