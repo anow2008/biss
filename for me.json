@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12564 H 7200",
+        "id": "SLQ-010 Main",
+        "key": "25 07 DE 0A CC 84 19 69"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10964 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 07 91"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10982 V 15000",
         "id": "TUR-162 M",
         "key": "AB 11 32 EE A6 5A CE CE"
