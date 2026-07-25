@@ -36,6 +36,12 @@
         "key": "19 37 E8 38 B1 AA C4 1F"
     },
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 V 7500",
+        "id": "AFD - Belgrano v Rosario Central",
+        "key": "18 44 AB 07 1D DD 14 0E"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12559 H 4938",
         "id": "YSM-016 MAIN",
