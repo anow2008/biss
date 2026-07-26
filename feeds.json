@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11088 V 7500",
+        "id": "PSSI PBC Boxing",
+        "key": "12 34 56 9C 78 91 AB B4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11186 V 7500",
         "id": "ZUFFA",
         "key": "86 75 30 2B 9A BC 12 68"
