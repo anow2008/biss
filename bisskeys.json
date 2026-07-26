@@ -49,7 +49,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11186 V 7500",
+    "frequency": "11185 V 7500",
     "id": "ZUFFA",
     "key": "86 75 30 2B 9A BC 12 68"
   },
@@ -64,11 +64,5 @@
     "frequency": "11633 H 14400",
     "id": "Fi01PARSFT2",
     "key": "C1 52 DD F0 81 48 7B 44"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL-78 ENC 1",
-    "key": "AB BA 26 8B DC AE 07 91"
   }
 ]
