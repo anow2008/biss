@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10969 V 7200",
+        "id": "ENC 1",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 V 7200",
+        "id": "AFLE PRO AUS PARIS",
+        "key": "26 07 FD 2A CB 65 87 B7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12737 V 7500",
+        "id": "TNT VISION 3",
+        "key": "19 37 E8 38 B1 AA C4 1F"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11651 H 14400",
         "id": "IS_Plus",
