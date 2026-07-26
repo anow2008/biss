@@ -1,13 +1,31 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11016 V 5000",
-    "id": "ITA466-MAIN",
-    "key": "94 69 33 30 AD D6 17 9A"
+    "frequency": "10960 V 7200",
+    "id": "ITA 491 FIRENZE - AFLE PRO",
+    "key": "BA C2 34 B0 DA CE E1 89"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12657 H 9875",
+    "frequency": "10969 V 7200",
+    "id": "ENC 1",
+    "key": "BA C2 34 B0 DA CE E1 89"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7200",
+    "id": "AFLE PRO AUS PARIS",
+    "key": "26 07 FD 2A CB 65 87 B7"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12641 H 14400",
+    "id": "NEP 1. POL-142",
+    "key": "78 1F A2 39 FE C7 83 48"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12656 H 9875",
     "id": "HUB SERVICE PARK POL-100",
     "key": "94 69 33 30 AD D6 17 9A"
   },
@@ -73,8 +91,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
+    "frequency": "10974 V 9600",
     "id": "POL-111",
+    "key": "AB BA 26 8B DC AE 07 91"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12739 V 9600",
+    "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 07 91"
   }
 ]
