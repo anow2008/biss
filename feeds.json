@@ -7,7 +7,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12534 V 4938",
+        "frequency": "12533 V 4938",
         "id": "YSM-012 MAIN",
         "key": "AB BA 20 85 25 20 26 6B"
     },
@@ -16,12 +16,6 @@
         "frequency": "10867 H 7500",
         "id": "ENC 2",
         "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10969 V 7200",
-        "id": "ENC 1",
-        "key": "BA C2 34 B0 DA CE E1 89"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -34,11 +28,5 @@
         "frequency": "12737 V 7500",
         "id": "TNT VISION 3",
         "key": "19 37 E8 38 B1 AA C4 1F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11651 H 14400",
-        "id": "IS_Plus",
-        "key": "C1 52 DD F0 81 48 7B 44"
     }
 ]
