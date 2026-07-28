@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12704 V 7200",
+        "id": "Tigre ARG vs Nacional URU - INGLES EUROPA",
+        "key": "BC 51 AD BA 34 78 5D 09"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12611 V 7120",
         "id": "NLEMG HOL270-1",
