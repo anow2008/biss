@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11188 H 10000",
+        "id": "CAM-VOL",
+        "key": "14 42 BC 12 22 19 5A 95"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11014 V 7200",
         "id": "YLE",
