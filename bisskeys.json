@@ -1,15 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "main - E285",
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
     "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11070 H 7200",
-    "id": "IMG A EU",
-    "key": "12 3C AA F8 14 22 A3 D9"
+    "frequency": "12704 V 7200",
+    "id": "Tigre (ARG) vs Nacional (URU) - INGLES EUROPA",
+    "key": "BC 51 AD BA 34 78 5D 09"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -34,17 +34,5 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11013 V 4600",
-    "id": "AP LDN UPA",
-    "key": "14 42 BC 12 22 19 5A 95"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11188 H 10000",
-    "id": "CAM-VOL",
-    "key": "14 42 BC 12 22 19 5A 95"
   }
 ]
