@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "YLE",
-    "key": "CD 34 53 54 12 CB CB A8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "Unname",
-    "key": "14 A0 89 3D BB 40 08 03"
+    "frequency": "10960 V 7200",
+    "id": "main - E285",
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -40,5 +34,23 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12611 V 7120",
+    "id": "NLEMG HOL270-1",
+    "key": "B3 C4 A4 1B 50 B3 23 26"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11013 V 4600",
+    "id": "NIM WDC ENC 6",
+    "key": "14 42 BC 12 22 19 5A 95"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11188 H 10000",
+    "id": "CAM-VOL",
+    "key": "14 42 BC 12 22 19 5A 95"
   }
 ]
