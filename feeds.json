@@ -36,6 +36,12 @@
         "key": "20 26 AB F1 CD 1E CA B5"
     },
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12565 H 7500",
+        "id": "AFD",
+        "key": "BC AA CA 30 1A B0 33 FD"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11188 H 10000",
         "id": "AEK-SAM",
