@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12677 V 7200",
+        "id": "Red Bull Bragantino (BRA) vs Sporting Cristal (PER) - INGLES EUROPA",
+        "key": "B9 AD CE 34 23 BA 22 FF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12686 V 7200",
+        "id": "Cienciano (PER) vs Lan?s (ARG) - INGLES EUROPA",
+        "key": "C3 EA 56 03 CB 11 22 FE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12704 V 7200",
+        "id": "Vasco da Gama (BRA) vs Independiente Medell?n (COL) - INGLES EUROPA",
+        "key": "B6 AD FB 5E 61 2D E3 71"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11246 H 7200",
         "id": "SLO-IBE",
