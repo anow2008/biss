@@ -7,6 +7,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12565 H 7500",
+    "id": "AFD",
+    "key": "BC AA CA 30 1A B0 33 FD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12677 V 7200",
     "id": "Red Bull Bragantino (BRA) vs Sporting Cristal (PER) - INGLES EUROPA",
     "key": "B9 AD CE 34 23 BA 22 FF"
