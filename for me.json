@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "HBeerSheva-Vikingur",
+        "key": "5A 3C 1E B4 9B 7D 4F 67"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11070 H 7200",
+        "id": "IMG A EU",
+        "key": "67 48 47 F6 38 38 88 F8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7120",
+        "id": "NLEMG HOL270-1",
+        "key": "B3 C4 A4 1B 50 B3 23 26"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12593 V 7200",
         "id": "POL-058_ch1",
         "key": "20 26 AB F1 CD 1E CA B5"
