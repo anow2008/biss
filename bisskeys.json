@@ -1,21 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "HBeerSheva-Vikingur",
-    "key": "5A 3C 1E B4 9B 7D 4F 67"
+    "frequency": "11070 H 7200",
+    "id": "IMG A EU",
+    "key": "67 48 47 F6 38 38 88 F8 E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "67 48 47 F6 38 38 88 F8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12593 V 7200",
-    "id": "POL-058_ch1",
-    "key": "20 26 AB F1 CD 1E CA B5"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
