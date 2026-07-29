@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7120",
+        "id": "NLEMG HOL270-1",
+        "key": "B3 C4 A4 1B 50 B3 23 26"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12593 V 7200",
+        "id": "POL-058_ch1",
+        "key": "20 26 AB F1 CD 1E CA B5"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11188 H 10000",
+        "id": "AEK-SAM",
+        "key": "27 43 FD 67 32 08 7A B4"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11014 V 7200",
         "id": "Unname",
@@ -22,17 +40,5 @@
         "frequency": "10978 V 7200",
         "id": "Unname",
         "key": "40 57 4B E2 9C AB 63 AA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11609 V 7200",
-        "id": "Fencing WC HK 2026 A",
-        "key": "47 21 16 7E F1 CF BA 7A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
     }
 ]
