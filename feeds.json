@@ -1,13 +1,31 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 V 7200",
+        "id": "HBeerSheva-Vikingur",
+        "key": "5A 3C 1E B4 9B 7D 4F 67"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "Fi14_GNVE",
+        "key": "2D B1 00 DE 92 C7 2F 88"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10978 V 7200",
+        "id": "Unname",
+        "key": "40 57 4B E2 9C AB 63 AA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11023 V 7200",
         "id": "Unname",
         "key": "14 A0 89 3D BB 40 08 03"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11610 V 7200",
+        "frequency": "11609 V 7200",
         "id": "Fencing WC HK 2026 A",
         "key": "47 21 16 7E F1 CF BA 7A"
     },
@@ -22,23 +40,5 @@
         "frequency": "11071 H 7200",
         "id": "IMG A EU",
         "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12704 V 7200",
-        "id": "Tigre ARG vs Nacional URU - INGLES EUROPA",
-        "key": "BC 51 AD BA 34 78 5D 09"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7120",
-        "id": "NLEMG HOL270-1",
-        "key": "B3 C4 A4 1B 50 B3 23 26"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11188 H 10000",
-        "id": "CAM-VOL",
-        "key": "14 42 BC 12 22 19 5A 95"
     }
 ]
