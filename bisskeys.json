@@ -1,33 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "ROU-015 MAIN",
-    "key": "4F 6D 8B 47 9E 3C 1A F4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11005 V 6900",
     "id": "ATV Broadcast Solutions",
     "key": "10 92 43 E5 52 87 56 2F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "E394 BACK",
-    "key": "3E 5C 7A 14 9D 2F 4B 17"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11070 H 7200",
     "id": "IMG A EU",
     "key": "67 48 47 F6 38 38 88 F8"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "paok vs dinamo kiev",
-    "key": "30 21 12 63 12 20 93 C5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -60,20 +42,8 @@
     "key": "D6 68 75 B3 A7 37 4C 2A"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12583 V 7200",
-    "id": "HUN-013 Line 1",
-    "key": "F4 D2 20 E6 26 30 07 5D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12593 V 7200",
-    "id": "HOL324 TX1",
-    "key": "20 26 30 76 07 F1 A6 9E"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
+    "frequency": "10985 V 9600",
     "id": "POL 030",
     "key": "26 CA E2 D2 26 07 30 5D"
   }
