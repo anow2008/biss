@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11466 V 9875",
+        "id": "ENC-23",
+        "key": "BA 7E 71 A9 30 4B 02 7D"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12512 V 9700",
+        "id": "PAFOSvsHAJDUK_MAIN",
+        "key": "AC B4 20 80 26 AB CA 9B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12565 H 7200",
+        "id": "paok vs dinamo kiev",
+        "key": "30 21 12 63 12 20 93 C5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12677 V 7400",
+        "id": "SWE-041 MID-BES",
+        "key": "A3 0A D0 7D 7A 0E 26 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "POWER SLAP PATH A P",
+        "key": "D6 68 75 B3 A7 37 4C 2A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10978 V 7200",
         "id": "Unname",
         "key": "40 57 4B E2 9C AB 63 AA"
