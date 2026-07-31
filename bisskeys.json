@@ -13,9 +13,21 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11466 V 9875",
+    "id": "ENC-23",
+    "key": "BA 7E 71 A9 30 4B 02 7D"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12705 V 7120",
     "id": "EDM HD ENC-1",
     "key": "B2 C5 D3 4A E6 F4 A7 81"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12728 V 7200",
+    "id": "ENC 1",
+    "key": "11 27 5A 92 35 9D 3A 0C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -31,14 +43,32 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11211 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "03 17 FD 17 CF 29 15 0D"
+    "frequency": "11058 H 7200",
+    "id": "UFC PATH A P",
+    "key": "27 A6 59 26 68 74 64 40"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11591 H 7200",
+    "id": "F503/1/IS BIS",
+    "key": "63 E9 C7 13 8B A1 5B 87"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11600 H 7200",
+    "id": "F563/1/PRIV FTV",
+    "key": "31 76 22 C9 31 FB 17 43"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11631 H 9875",
+    "id": "OER/F634/4/INTER_BK",
+    "key": "63 E9 C7 13 8B A1 5B 87"
   }
 ]
