@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12565 H 7500",
+        "id": "AFD",
+        "key": "BC AA CA 30 1A B0 33 FD"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12677 V 7200",
         "id": "SRT + E7B 9MHz uplink - O'Higgins (CHI) vs Boca Juniors (ARG) - INGLES EUROPA",
         "key": "B8 ED CA 6F CE B5 66 E9"
