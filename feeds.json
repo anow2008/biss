@@ -1,51 +1,9 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12686 V 7200",
-        "id": "SRT  E7B 9MHz uplink - Caracas VEN vs Santa Fe COL - INGLES EUROPA",
-        "key": "BA 12 B8 84 D2 DE 55 05"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "HUN-013 Line 1",
-        "key": "F4 D2 20 E6 26 30 07 5D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12704 V 7200",
-        "id": "SRT  E7B 9MHz uplink - Grmio BRA vs Bolivar BOL - INGLES EUROPA",
-        "key": "CB 65 87 B7 A2 FC A1 3F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12593 V 7200",
-        "id": "HOL324 TX1",
-        "key": "20 26 30 76 07 F1 A6 9E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL 030",
-        "key": "26 CA E2 D2 26 07 30 5D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7120",
-        "id": "NLEMG HOL270-1",
-        "key": "B3 C4 A4 1B 50 B3 23 26"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12677 V 7200",
-        "id": "SRT  E7B 9MHz uplink - OHiggins CHI vs Boca Juniors ARG - INGLES EUROPA",
-        "key": "B8 ED CA 6F CE B5 66 E9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7500",
-        "id": "AFD",
-        "key": "BC AA CA 30 1A B0 33 FD"
+        "frequency": "12728 V 7200",
+        "id": "ENC 1",
+        "key": "11 27 5A 92 35 9D 3A 0C"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -55,14 +13,44 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11058 H 7200",
-        "id": "POWER SLAP PATH A P",
-        "key": "D6 68 75 B3 A7 37 4C 2A"
+        "frequency": "11059 H 7200",
+        "id": "UFC PATH A P",
+        "key": "27 A6 59 26 68 74 64 40"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10976 V 4800",
+        "id": "POL-033 out1",
+        "key": "AB BA 26 8B DC AE 07 91"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11212 V 9875",
+        "id": "F510 European-aquatic-seine-MAIN",
+        "key": "03 17 FD 17 CF 29 15 0D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12512 V 9700",
-        "id": "PAFOSvsHAJDUK_MAIN",
-        "key": "AC B4 20 80 26 AB CA 9B"
+        "frequency": "12705 V 7120",
+        "id": "EDM HD ENC-1",
+        "key": "B2 C5 D3 4A E6 F4 A7 81"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 V 7200",
+        "id": "Unname",
+        "key": "14 A0 89 3D BB 40 08 03"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10978 V 7200",
+        "id": "Unname",
+        "key": "40 57 4B E2 9C AB 63 AA"
     }
 ]
