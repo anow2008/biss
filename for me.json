@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "SLO-008 Tx 1",
+        "key": "08 75 72 EF 54 4E 4C EE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11466 V 9875",
+        "id": "ENC-23",
+        "key": "E5 13 57 4F F6 44 B8 F2"
+    },
+    {
         "satellite": "Eutelsat 16A",
         "frequency": "10965 V 4800",
         "id": "POL-25 ENC1",
