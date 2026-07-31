@@ -7,6 +7,24 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12565 H 7500",
+    "id": "AFD",
+    "key": "BC AA CA 30 1A B0 33 FD"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12677 V 7200",
+    "id": "SRT + E7B 9MHz uplink - O'Higgins (CHI) vs Boca Juniors (ARG) - INGLES EUROPA",
+    "key": "B8 ED CA 6F CE B5 66 E9"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12686 V 7200",
+    "id": "SRT + E7B 9MHz uplink - Caracas (VEN) vs Santa Fe (COL) - INGLES EUROPA",
+    "key": "BA 12 B8 84 D2 DE 55 05"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12704 V 7200",
     "id": "SRT + E7B 9MHz uplink - Gr?mio (BRA) vs Bolivar (BOL) - INGLES EUROPA",
     "key": "CB 65 87 B7 A2 FC A1 3F"
