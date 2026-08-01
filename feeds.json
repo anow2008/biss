@@ -1,9 +1,45 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
+        "frequency": "11005 V 7500",
+        "id": "POL023 TVN24 WAW p2",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11212 V 9875",
+        "id": "F510 European-aquatic-seine-MAIN",
+        "key": "C9 EF 44 FC 51 F5 61 A7"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12565 H 7200",
+        "id": "BUL-001",
+        "key": "6B 4D 2F E7 9A 7C 3E 54"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "UFC Fight Night on P 18 All Fights",
+        "key": "27 A6 59 26 68 74 64 40"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
         "id": "POL 48 ENC1",
         "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10965 V 4800",
+        "id": "POL - 054 Kielce",
+        "key": "26 CA E2 D2 60 80 17 F7"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -13,19 +49,19 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11630 H 9875",
+        "frequency": "11631 H 9875",
         "id": "OER/F634/5/INTER_MAIN",
         "key": "88 D3 FC 57 EA 38 63 85"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11187 V 9875",
+        "frequency": "11188 V 9875",
         "id": "E379 MAIN",
         "key": "68 41 B6 5F 89 E7 A9 19"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12610 V 7200",
+        "frequency": "12611 V 7200",
         "id": "UKI-1852 C1",
         "key": "43 29 A0 0C 51 6E 82 41"
     },
@@ -40,23 +76,5 @@
         "frequency": "11023 V 7200",
         "id": "Unname",
         "key": "F8 8D 97 1C 0D DC 51 3A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11623 V 9875",
-        "id": "ita 390 A",
-        "key": "30 52 02 84 9C F5 82 13"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11599 H 7200",
-        "id": "F563/1/TDFF PRIV FTV",
-        "key": "31 76 22 C9 31 FB 17 43"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
-        "id": "UFC PATH C P",
-        "key": "27 A6 59 26 68 74 64 40"
     }
 ]
