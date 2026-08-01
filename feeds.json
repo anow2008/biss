@@ -1,9 +1,15 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12679 H 7200",
+        "id": "T/A Zixi to Hotbird Domestic Feed",
+        "key": "88 22 55 FF 66 24 57 E1"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11466 V 9875",
         "id": "ENC-23",
-        "key": "BA 7E 71 A9 30 4B 02 7D"
+        "key": "40 84 98 5C 6A A0 18 22"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -58,17 +64,5 @@
         "frequency": "12689 H 7200",
         "id": "UFC Fight Night on P 18 All Fights",
         "key": "27 A6 59 26 68 74 64 40"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "26 CA E2 D2 60 80 17 F7"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12741 V 7200",
-        "id": "MAIN POL-102",
-        "key": "D1 02 AC 7F DC 01 08 E5"
     }
 ]
