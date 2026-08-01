@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11305 V 7200",
+        "id": "SINTRA 1 BK",
+        "key": "5F 7A E6 BF 1C 9B 3D F4"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "12583 V 7200",
         "id": "ITA62A",
