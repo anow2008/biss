@@ -19,14 +19,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11019 V 4600",
-    "id": "AP LDN UPB",
-    "key": "20 26 AB F1 AB 20 26 F1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11104 H 9875",
-    "id": "D366_RTL_DIGI_Path1",
-    "key": "20 26 AB F1 AB 20 26 F1"
+    "frequency": "10996 V 7500",
+    "id": "POL023 TVN24 WAW P1",
+    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
