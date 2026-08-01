@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "ITA62A",
+        "key": "2A E7 F5 06 7B 39 E1 95"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-55 ENC2",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12679 H 7200",
         "id": "T/A Zixi to Hotbird Domestic Feed",
         "key": "88 22 55 FF 66 24 57 E1"
@@ -9,19 +21,13 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11466 V 9875",
         "id": "ENC-23",
-        "key": "40 84 98 5C 6A A0 18 22"
+        "key": "E5 13 57 4F F6 44 B8 F2"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11591 H 7200",
         "id": "OER/F563/1/IS BIS",
         "key": "88 D3 FC 57 EA 38 63 85"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-056 ENC 2",
-        "key": "AB BA 26 8B DC AE 08 92"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
