@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12565 H 7200",
+        "id": "BUL-001",
+        "key": "6B 4D 2F E7 9A 7C 3E 54"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11212 V 9875",
+        "id": "F510 European-aquatic-seine-MAIN",
+        "key": "C9 EF 44 FC 51 F5 61 A7"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11104 H 9875",
+        "id": "D366_RTL_DIGI_Path1",
+        "key": "20 26 AB F1 AB 20 26 F1"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11187 V 9875",
         "id": "E379 MAIN",
