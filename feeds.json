@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11466 V 9875",
+        "id": "ENC-23",
+        "key": "BA 7E 71 A9 30 4B 02 7D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11591 H 7200",
+        "id": "OER/F563/1/IS BIS",
+        "key": "88 D3 FC 57 EA 38 63 85"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL-056 ENC 2",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11617 H 7200",
+        "id": "ITA 560 - WISLA SKI Jumping",
+        "key": "89 C0 82 CB 3E EE 62 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11104 H 9875",
+        "id": "D366_RTL_DIGI_Path1",
+        "key": "20 26 AB F1 AB 20 26 F1"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11005 V 7500",
         "id": "POL023 TVN24 WAW p2",
@@ -31,12 +61,6 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL 48 ENC1",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10965 V 4800",
         "id": "POL - 054 Kielce",
         "key": "26 CA E2 D2 60 80 17 F7"
@@ -49,32 +73,8 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11631 H 9875",
-        "id": "OER/F634/5/INTER_MAIN",
-        "key": "88 D3 FC 57 EA 38 63 85"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11188 V 9875",
         "id": "E379 MAIN",
         "key": "68 41 B6 5F 89 E7 A9 19"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "UKI-1852 C1",
-        "key": "43 29 A0 0C 51 6E 82 41"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12536 V 7200",
-        "id": "2Sat HOL89 Main",
-        "key": "F8 9D 01 96 08 CD AB 80"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11023 V 7200",
-        "id": "Unname",
-        "key": "F8 8D 97 1C 0D DC 51 3A"
     }
 ]
