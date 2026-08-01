@@ -1,21 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10979 V 7200",
+    "frequency": "10978 V 7200",
     "id": "Unname",
     "key": "40 57 4B E2 9C AB 63 AA"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11024 V 7200",
+    "frequency": "11023 V 7200",
     "id": "Unname",
     "key": "F8 8D 97 1C 0D DC 51 3A"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12536 V 7200",
-    "id": "2Sat HOL89 Main",
-    "key": "F8 9D 01 96 08 CD AB 80"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -37,6 +31,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11187 V 9875",
+    "id": "E379 MAIN",
+    "key": "68 41 B6 5F 89 E7 A9 19"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11599 H 7200",
     "id": "F563/1/TDFF PRIV FTV",
     "key": "31 76 22 C9 31 FB 17 43"
@@ -49,8 +49,32 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12610 V 7200",
+    "frequency": "11630 H 9875",
+    "id": "OER/F634/5/INTER_MAIN",
+    "key": "88 D3 FC 57 EA 38 63 85"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12611 V 7200",
     "id": "UKI-1852 C1",
     "key": "43 29 A0 0C 51 6E 82 41"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12688 H 7200",
+    "id": "UFC Fight Night on P+ #18: All Fights",
+    "key": "27 A6 59 26 68 74 64 40"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10964 V 4800",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10985 V 9600",
+    "id": "POL 48 ENC1",
+    "key": "AB BA 26 8B DC AE 08 92"
   }
 ]
