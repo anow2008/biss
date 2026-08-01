@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10996 V 7500",
+        "id": "POL044 TVN24 SZC",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11305 V 7200",
         "id": "SINTRA 1 BK",
