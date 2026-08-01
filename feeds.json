@@ -70,11 +70,5 @@
         "frequency": "12741 V 7200",
         "id": "MAIN POL-102",
         "key": "D1 02 AC 7F DC 01 08 E5"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11188 V 9875",
-        "id": "E379 MAIN",
-        "key": "68 41 B6 5F 89 E7 A9 19"
     }
 ]
