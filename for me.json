@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11466 V 9875",
+        "id": "ENC-23",
+        "key": "40 84 98 5C 6A A0 18 22"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11617 H 7200",
+        "id": "ITA 560 - WISLA SKI Jumping",
+        "key": "89 C0 82 CB 3E EE 62 8E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "T/A Zixi to Hotbird Domestic Feed",
+        "key": "88 22 55 FF 66 24 57 E1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12565 H 7200",
         "id": "BUL-001",
         "key": "6B 4D 2F E7 9A 7C 3E 54"
