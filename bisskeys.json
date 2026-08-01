@@ -3,25 +3,25 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10960 V 7200",
     "id": "ITA 491 FIRENZE - AFLE PRO",
-    "key": "40 57 4B E2 9C AB 63 AA"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10978 V 7200",
-    "id": "Unname",
-    "key": "40 57 4B E2 9C AB 63 AA"
+    "key": "40 84 98 5C 6A A0 18 22"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11466 V 9875",
     "id": "ENC-23",
-    "key": "BA 7E 71 A9 30 4B 02 7D"
+    "key": "40 84 98 5C 6A A0 18 22"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12565 H 7200",
     "id": "BUL-001",
     "key": "6B 4D 2F E7 9A 7C 3E 54"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10822 V 3670",
+    "id": "GCUK Enc 10",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -49,39 +49,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "C9 EF 44 FC 51 F5 61 A7"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11591 H 7200",
-    "id": "OER/F563/1/IS BIS",
-    "key": "88 D3 FC 57 EA 38 63 85"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11600 H 7200",
-    "id": "F563/1/TDFF PRIV FTV",
-    "key": "31 76 22 C9 31 FB 17 43"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11617 H 7200",
     "id": "ITA 560 - WISLA SKI Jumping",
     "key": "89 C0 82 CB 3E EE 62 8E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11630 H 9875",
-    "id": "OER/F634/5/INTER_MAIN",
-    "key": "88 D3 FC 57 EA 38 63 85"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12611 V 7200",
     "id": "UKI-1852 C1",
     "key": "43 29 A0 0C 51 6E 82 41"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12679 H 7200",
+    "id": "T/A Zixi to Hotbird Domestic Feed",
+    "key": "88 22 55 FF 66 24 57 E1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
