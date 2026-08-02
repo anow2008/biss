@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11181 H 8000",
+    "id": "Unname",
+    "key": "11 8F 17 B7 46 04 75 BF"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11465 V 9875",
+    "id": "ENC-23",
+    "key": "11 8F 17 B7 46 04 75 BF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11059 H 7200",
+    "id": "IMG 1 EU",
+    "key": "73 25 D9 71 3A 1F AE 07"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11212 V 9875",
+    "id": "F510 European-aquatic-seine-MAIN",
+    "key": "73 25 D9 71 3A 1F AE 07"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11611 V 9875",
+    "id": "Ita315main",
+    "key": "81 07 C7 4F 7F 9C B3 CE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11618 H 7200",
+    "id": "ITA 560 - WISLA SKI Jumping",
+    "key": "BB CC C2 49 23 3A 55 B2"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10978 H 7200",
+    "id": "F1-2 9MHz",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL-111",
+    "key": "AB BA 26 8B DC AE 08 92"
+  }
+]
