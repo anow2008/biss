@@ -1,9 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11180 H 8000",
+    "frequency": "11181 H 8000",
     "id": "Unname",
-    "key": "AB BA 20 85 25 20 26 6B"
+    "key": "27 43 FD 67 32 08 5C 96"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11466 V 9875",
+    "id": "ENC-23",
+    "key": "27 43 FD 67 32 08 5C 96"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -25,33 +31,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11591 H 7200",
-    "id": "OER/F563/1/IS BIS",
-    "key": "77 CF 96 DC 1C FA 3E 54"
+    "frequency": "11212 V 9875",
+    "id": "F510 European-aquatic-seine-MAIN",
+    "key": "73 25 D9 71 3A 1F AE 07"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11600 H 7200",
+    "frequency": "11599 H 7200",
     "id": "F563/1/TDFF PRIV FTV",
     "key": "31 76 22 C9 31 FB 17 43"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11623 V 9875",
-    "id": "ita 390 A",
-    "key": "30 52 02 84 9C F5 82 13"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11630 H 9875",
     "id": "OER/F634/5/INTER_MAIN",
     "key": "77 CF 96 DC 1C FA 3E 54"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11635 V 9875",
-    "id": "SUI25 HD 1",
-    "key": "4D A1 2A 18 0E A4 A7 59"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
