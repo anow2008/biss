@@ -1,8 +1,14 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12680 H 7000",
+        "id": "WSOP",
+        "key": "53 31 53 D7 31 53 31 B5"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11606 V 7500",
-        "id": "Glory 108",
+        "id": "AFD",
         "key": "B2 52 A2 A6 CC DD A1 4A"
     },
     {
@@ -46,11 +52,5 @@
         "frequency": "11599 H 7200",
         "id": "F563/1/TDFF PRIV FTV",
         "key": "31 76 22 C9 31 FB 17 43"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11635 V 9875",
-        "id": "SUI25 HD 1",
-        "key": "4D A1 2A 18 0E A4 A7 59"
     }
 ]
