@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7500",
+        "id": "AFD",
+        "key": "B2 52 A2 A6 CC DD A1 4A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11466 V 9875",
         "id": "ENC-23",
         "key": "27 43 FD 67 32 08 5C 96"
@@ -46,11 +52,5 @@
         "frequency": "11635 V 9875",
         "id": "SUI25 HD 1",
         "key": "4D A1 2A 18 0E A4 A7 59"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 V 7200",
-        "id": "AFLE Berlin-London",
-        "key": "02 08 FD 07 AC 58 74 78"
     }
 ]
