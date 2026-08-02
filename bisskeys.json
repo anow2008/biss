@@ -8,7 +8,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7500",
-    "id": "AFD",
+    "id": "Glory 108",
     "key": "B2 52 A2 A6 CC DD A1 4A"
   },
   {
@@ -19,7 +19,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
+    "frequency": "11059 H 7200",
     "id": "IMG 1 EU",
     "key": "6B 7E C7 B0 AF 4D 3A 36"
   },
