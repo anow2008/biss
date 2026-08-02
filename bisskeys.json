@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11181 H 8000",
-    "id": "Unname",
-    "key": "11 8F 17 B7 46 04 75 BF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11465 V 9875",
-    "id": "ENC-23",
-    "key": "11 8F 17 B7 46 04 75 BF"
+    "frequency": "11006 V 7200",
+    "id": "E306 BTM VILAM 1",
+    "key": "73 25 D9 71 3A 1F AE 07"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -31,9 +25,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11618 H 7200",
-    "id": "ITA 560 - WISLA SKI Jumping",
-    "key": "BB CC C2 49 23 3A 55 B2"
+    "frequency": "11624 V 9875",
+    "id": "ita 390 A",
+    "key": "30 52 02 84 9C F5 82 13"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -46,5 +40,11 @@
     "frequency": "10986 V 9600",
     "id": "POL-111",
     "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11192 H 4938",
+    "id": "MTVA SNG HUNGARY",
+    "key": "52 B5 7C 83 66 C7 40 6D"
   }
 ]
