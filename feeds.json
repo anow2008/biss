@@ -1,74 +1,38 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11305 V 7200",
-        "id": "SINTRA 1 BK",
-        "key": "5F 7A E6 BF 1C 9B 3D F4"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "ITA62A",
-        "key": "2A E7 F5 06 7B 39 E1 95"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
-        "id": "POL-55 ENC2",
+        "id": "POL-111",
         "key": "AB BA 26 8B DC AE 08 92"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7200",
-        "id": "T/A Zixi to Hotbird Domestic Feed",
-        "key": "88 22 55 FF 66 24 57 E1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11466 V 9875",
-        "id": "ENC-23",
-        "key": "E5 13 57 4F F6 44 B8 F2"
+        "frequency": "11611 V 9875",
+        "id": "Ita315main",
+        "key": "81 07 C7 4F 7F 9C B3 CE"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11591 H 7200",
-        "id": "OER/F563/1/IS BIS",
-        "key": "88 D3 FC 57 EA 38 63 85"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11617 H 7200",
+        "frequency": "11618 H 7200",
         "id": "ITA 560 - WISLA SKI Jumping",
-        "key": "89 C0 82 CB 3E EE 62 8E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11104 H 9875",
-        "id": "D366_RTL_DIGI_Path1",
-        "key": "20 26 AB F1 AB 20 26 F1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL023 TVN24 WAW p2",
-        "key": "77 93 52 5C 99 08 86 27"
+        "key": "BB CC C2 49 23 3A 55 B2"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11212 V 9875",
         "id": "F510 European-aquatic-seine-MAIN",
-        "key": "C9 EF 44 FC 51 F5 61 A7"
+        "key": "73 25 D9 71 3A 1F AE 07"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "BUL-001",
-        "key": "6B 4D 2F E7 9A 7C 3E 54"
+        "frequency": "11465 V 9875",
+        "id": "ENC-23",
+        "key": "11 8F 17 B7 46 04 75 BF"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
+        "frequency": "11624 V 9875",
+        "id": "ita 390 A",
+        "key": "30 52 02 84 9C F5 82 13"
     }
 ]
