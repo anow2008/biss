@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11630 H 9875",
+        "id": "OER/F634/5/INTER_MAIN",
+        "key": "77 CF 96 DC 1C FA 3E 54"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11600 H 7200",
+        "id": "F563/1/TDFF PRIV FTV",
+        "key": "31 76 22 C9 31 FB 17 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11635 V 9875",
+        "id": "SUI25 HD 1",
+        "key": "4D A1 2A 18 0E A4 A7 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 V 7200",
+        "id": "AFLE Berlin-London",
+        "key": "02 08 FD 07 AC 58 74 78"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11192 H 4938",
         "id": "MTVA SNG HUNGARY",
@@ -19,13 +43,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11618 H 7200",
-        "id": "ITA 560 - WISLA SKI Jumping",
-        "key": "BB CC C2 49 23 3A 55 B2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11212 V 9875",
+        "frequency": "11211 V 9875",
         "id": "F510 European-aquatic-seine-MAIN",
         "key": "73 25 D9 71 3A 1F AE 07"
     },
@@ -33,11 +51,11 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11466 V 9875",
         "id": "ENC-23",
-        "key": "11 8F 17 B7 46 04 75 BF"
+        "key": "40 84 98 5C 6A A0 18 22"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11624 V 9875",
+        "frequency": "11623 V 9875",
         "id": "ita 390 A",
         "key": "30 52 02 84 9C F5 82 13"
     }
