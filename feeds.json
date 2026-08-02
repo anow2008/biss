@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11466 V 9875",
+        "id": "ENC-23",
+        "key": "E5 13 57 4F F6 44 B8 F2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "12518 V 4938",
         "id": "YSM-016 MAIN",
         "key": "AB BA 20 85 25 20 26 6B"
@@ -46,11 +52,5 @@
         "frequency": "10960 V 7200",
         "id": "AFLE Berlin-London",
         "key": "02 08 FD 07 AC 58 74 78"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11192 H 4938",
-        "id": "MTVA SNG HUNGARY",
-        "key": "52 B5 7C 83 66 C7 40 6D"
     }
 ]
