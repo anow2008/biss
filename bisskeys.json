@@ -1,45 +1,57 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11006 V 7200",
-    "id": "E306 BTM VILAM 1",
-    "key": "73 25 D9 71 3A 1F AE 07"
+    "frequency": "10960 V 7200",
+    "id": "AFLE Berlin-London",
+    "key": "02 08 FD 07 AC 58 74 78"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10823 V 3670",
+    "id": "GCUK Enc 4",
+    "key": "6B 7E C7 B0 AF 4D 3A 36"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11059 H 7200",
     "id": "IMG 1 EU",
-    "key": "73 25 D9 71 3A 1F AE 07"
+    "key": "6B 7E C7 B0 AF 4D 3A 36"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "73 25 D9 71 3A 1F AE 07"
+    "frequency": "11590 H 7200",
+    "id": "OER/F563/1/IS BIS",
+    "key": "77 CF 96 DC 1C FA 3E 54"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11611 V 9875",
-    "id": "Ita315main",
-    "key": "81 07 C7 4F 7F 9C B3 CE"
+    "frequency": "11600 H 7200",
+    "id": "F563/1/TDFF PRIV FTV",
+    "key": "31 76 22 C9 31 FB 17 43"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11624 V 9875",
-    "id": "ita 390 A",
-    "key": "30 52 02 84 9C F5 82 13"
+    "frequency": "11630 H 9875",
+    "id": "OER/F634/5/INTER_MAIN",
+    "key": "77 CF 96 DC 1C FA 3E 54"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11635 V 9875",
+    "id": "SUI25 HD 1",
+    "key": "4D A1 2A 18 0E A4 A7 59"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10978 H 7200",
     "id": "F1-2 9MHz",
-    "key": "AB BA 26 8B DC AE 08 92"
+    "key": "26 CA E2 D2 60 80 23 03"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-111",
-    "key": "AB BA 26 8B DC AE 08 92"
+    "frequency": "10985 V 9600",
+    "id": "POL138_A",
+    "key": "26 CA E2 D2 60 80 23 03"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
