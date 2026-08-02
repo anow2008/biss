@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "UKI-1852 C1",
+        "key": "43 29 A0 0C 51 6E 82 41"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10960 V 7200",
         "id": "AFLE Berlin-London",
