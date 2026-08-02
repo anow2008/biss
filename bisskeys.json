@@ -1,5 +1,11 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11606 V 7500",
+    "id": "AFD",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Enc 10",
@@ -20,7 +26,7 @@
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10996 V 7500",
-    "id": "POL023 TVN24 WAW P1",
+    "id": "POL044 TVN24 SZC",
     "key": "77 93 52 5C 99 08 86 27"
   }
 ]
