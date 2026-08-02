@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "AFLE Berlin-London",
+        "key": "02 08 FD 07 AC 58 74 78"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "6B 7E C7 B0 AF 4D 3A 36"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11590 H 7200",
+        "id": "OER/F563/1/IS BIS",
+        "key": "77 CF 96 DC 1C FA 3E 54"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11600 H 7200",
+        "id": "F563/1/TDFF PRIV FTV",
+        "key": "31 76 22 C9 31 FB 17 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11630 H 9875",
+        "id": "OER/F634/5/INTER_MAIN",
+        "key": "77 CF 96 DC 1C FA 3E 54"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11635 V 9875",
+        "id": "SUI25 HD 1",
+        "key": "4D A1 2A 18 0E A4 A7 59"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10985 V 9600",
+        "id": "POL138_A",
+        "key": "26 CA E2 D2 60 80 23 03"
+    },
+    {
         "satellite": "Eutelsat 16A",
         "frequency": "11192 H 4938",
         "id": "MTVA SNG HUNGARY",
