@@ -1,7 +1,25 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL 076",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11630 H 9875",
+        "frequency": "12611 V 7200",
+        "id": "UKI-1852 C1",
+        "key": "43 29 A0 0C 51 6E 82 41"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL138_A",
+        "key": "26 CA E2 D2 60 80 23 03"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11631 H 9875",
         "id": "OER/F634/5/INTER_MAIN",
         "key": "77 CF 96 DC 1C FA 3E 54"
     },
@@ -28,35 +46,5 @@
         "frequency": "11192 H 4938",
         "id": "MTVA SNG HUNGARY",
         "key": "52 B5 7C 83 66 C7 40 6D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-111",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11611 V 9875",
-        "id": "Ita315main",
-        "key": "81 07 C7 4F 7F 9C B3 CE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11211 V 9875",
-        "id": "F510 European-aquatic-seine-MAIN",
-        "key": "73 25 D9 71 3A 1F AE 07"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11466 V 9875",
-        "id": "ENC-23",
-        "key": "40 84 98 5C 6A A0 18 22"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11623 V 9875",
-        "id": "ita 390 A",
-        "key": "30 52 02 84 9C F5 82 13"
     }
 ]
