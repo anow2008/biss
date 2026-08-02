@@ -3,12 +3,18 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11043 H 7200",
     "id": "GCUK Enc 2",
+    "key": "B2 52 A2 A6 CC DD A1 4A E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11043 H 7200",
+    "id": "GCUK Enc 2",
     "key": "B2 52 A2 A6 CC DD A1 4A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7500",
-    "id": "Glory 108",
+    "id": "AFD",
     "key": "B2 52 A2 A6 CC DD A1 4A"
   },
   {
@@ -25,8 +31,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "73 25 D9 71 3A 1F AE 07"
+    "frequency": "12680 H 7000",
+    "id": "WSOP",
+    "key": "53 31 53 D7 31 53 31 B5"
   }
 ]
