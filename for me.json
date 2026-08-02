@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11192 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "52 B5 7C 83 66 C7 40 6D"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11465 V 9875",
         "id": "ENC-23",
