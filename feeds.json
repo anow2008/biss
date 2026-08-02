@@ -3,7 +3,7 @@
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11466 V 9875",
         "id": "ENC-23",
-        "key": "E5 13 57 4F F6 44 B8 F2"
+        "key": "27 43 FD 67 32 08 5C 96"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,7 +37,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11600 H 7200",
+        "frequency": "11599 H 7200",
         "id": "F563/1/TDFF PRIV FTV",
         "key": "31 76 22 C9 31 FB 17 43"
     },
