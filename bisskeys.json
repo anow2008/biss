@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11180 H 8000",
+    "frequency": "11181 H 8000",
     "id": "Unname",
     "key": "12 3C AA F8 14 22 A3 D9"
   },
@@ -10,11 +10,5 @@
     "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
     "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "44 14 69 C1 65 29 A8 36"
   }
 ]
