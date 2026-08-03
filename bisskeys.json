@@ -1,32 +1,20 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "ITA 415 MAIN",
-    "key": "6B 7E C7 B0 AF 4D 3A 36"
+    "frequency": "11161 H 6000",
+    "id": "UKI-1884 Coder 1",
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
-    "key": "6B 7E C7 B0 AF 4D 3A 36"
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11591 H 7200",
-    "id": "OER/F563/1/IS BIS",
-    "key": "6D D1 31 6F 64 CF 99 CC"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11600 H 7200",
-    "id": "F563/1/TDFF PRIV FTV",
-    "key": "31 76 22 C9 31 FB 17 43"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11630 H 9875",
-    "id": "OER/F634/5/INTER_MAIN",
-    "key": "6D D1 31 6F 64 CF 99 CC"
+    "frequency": "11212 V 9875",
+    "id": "F510 European-aquatic-seine-MAIN",
+    "key": "44 14 69 C1 65 29 A8 36"
   }
 ]
