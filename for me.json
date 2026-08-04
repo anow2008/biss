@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "HBeerSheva-CrvZvezda",
+        "key": "1C 3A 5E B4 7B 9D 2F 47"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "SLQ 008 M",
+        "key": "A2 B4 BB 11 32 D3 CA CF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11023 V 7200",
         "id": "SINTRA 2 MN",
         "key": "5F 7A E6 BF 1C 9B 3D F4"
