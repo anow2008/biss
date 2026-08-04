@@ -46,11 +46,5 @@
         "frequency": "10996 V 7500",
         "id": "POL082 TVN WAW",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11212 V 9875",
-        "id": "F-510 European-aquatic-seine-BCKP",
-        "key": "89 53 06 E2 47 E0 4B 72"
     }
 ]
