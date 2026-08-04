@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 V 7200",
+        "id": "SINTRA 2 MN",
+        "key": "5F 7A E6 BF 1C 9B 3D F4"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11590 H 7200",
         "id": "OER/F563/1/IS BIS",
