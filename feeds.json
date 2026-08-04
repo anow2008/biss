@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12679 H 7200",
+        "id": "SLQ 008 M",
+        "key": "A2 B4 BB 11 32 D3 CA CF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 V 7200",
+        "id": "SINTRA 2 MN",
+        "key": "5F 7A E6 BF 1C 9B 3D F4"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10971 V 4800",
         "id": "pol-053_enc2",
