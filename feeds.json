@@ -7,9 +7,9 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7200",
-        "id": "SLQ 008 M",
-        "key": "A2 B4 BB 11 32 D3 CA CF"
+        "frequency": "12679 H 7000",
+        "id": "WSOP",
+        "key": "53 31 53 D7 31 53 31 B5"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
