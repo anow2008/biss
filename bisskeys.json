@@ -1,8 +1,8 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11165 H 6000",
-    "id": "UKI-1884 Coder 1",
+    "frequency": "11023 V 7200",
+    "id": "main - E285",
     "key": "2A A1 00 CB 32 B2 1F 03"
   },
   {
@@ -13,20 +13,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11211 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "89 53 06 E2 47 E0 4B 72"
+    "frequency": "11200 V 9875",
+    "id": "FRAMTV SEINE MAIN",
+    "key": "AE 70 A6 C4 F0 C3 DF 92"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 V 4800",
-    "id": "POL-25 ENC1",
-    "key": "77 93 52 5C 99 08 86 27"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11600 H 7200",
+    "id": "F563/1/TDFF PRIV FTV",
+    "key": "31 76 22 C9 31 FB 17 43"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL082 TVN WAW",
-    "key": "77 93 52 5C 99 08 86 27"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12698 H 7200",
+    "id": "SRT + 9MHz HOTBIRD 13F uplink + Streaming - TEST  Link#5",
+    "key": "AC 35 B9 9A 01 F2 F5 E8"
   }
 ]
