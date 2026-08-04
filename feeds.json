@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12698 H 7200",
+        "id": "SRT  9MHz HOTBIRD 13F uplink  Streaming - TEST  Link5",
+        "key": "AC 35 B9 9A 01 F2 F5 E8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11600 H 7200",
+        "id": "F563/1/TDFF PRIV FTV",
+        "key": "31 76 22 C9 31 FB 17 43"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10996 V 7500",
         "id": "POL082 TVN WAW",
@@ -25,7 +37,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11199 V 9875",
+        "frequency": "11200 V 9875",
         "id": "FRAMTV SEINE MAIN",
         "key": "AE 70 A6 C4 F0 C3 DF 92"
     },
