@@ -1,7 +1,19 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
+        "frequency": "10996 V 7500",
+        "id": "POL082 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11211 V 9875",
+        "id": "F510 European-aquatic-seine-MAIN",
+        "key": "89 53 06 E2 47 E0 4B 72"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10985 V 9600",
         "id": "POL138_A",
         "key": "AB BA 26 8B DC AE 08 92"
     },
