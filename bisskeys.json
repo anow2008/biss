@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11181 H 8000",
-    "id": "Unname",
-    "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
@@ -19,8 +13,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "89 53 06 E2 47 E0 4B 72"
+    "frequency": "12679 H 7000",
+    "id": "WSOP",
+    "key": "53 31 53 D7 31 53 31 B5"
   }
 ]
