@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7500",
+        "id": "AFD",
+        "key": "D1 68 CB 04 41 A1 DD BF"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10977 H 7200",
         "id": "AFLE Berlin-London",
