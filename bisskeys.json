@@ -1,5 +1,17 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11606 V 7500",
+    "id": "AFD",
+    "key": "D1 68 CB 04 41 A1 DD BF E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11606 V 7500",
+    "id": "AFD",
+    "key": "D1 68 CB 04 41 A1 DD BF"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
