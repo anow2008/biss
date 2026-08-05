@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11200 V 9875",
+        "id": "FRAMTV SEINE MAIN",
+        "key": "E9 90 90 09 07 11 75 8D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11125 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "52 B5 7C 83 66 C7 40 6D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11066 V 4938",
         "id": "ANA",
         "key": "57 98 FF EE ED 5C 6A B3"
