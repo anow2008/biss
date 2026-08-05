@@ -1,50 +1,38 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
+        "frequency": "11088 V 7120",
+        "id": "Pitch Pre Season Friendly - Manchester City v K League",
+        "key": "33 DD AB BB BF 05 08 CC"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7000",
-        "id": "WSOP",
-        "key": "53 31 53 D7 31 53 31 B5"
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "2A A1 00 CB 32 B2 1F 03"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11023 V 7200",
-        "id": "SINTRA 2 MN",
-        "key": "5F 7A E6 BF 1C 9B 3D F4"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11211 V 9875",
+        "id": "F510 European-aquatic-seine-MAIN",
+        "key": "24 9F E0 A3 F9 35 E2 10"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "pol-053_enc2",
+        "frequency": "11006 V 7500",
+        "id": "POL021 p2 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL138_A",
         "key": "AB BA 26 8B DC AE 08 92"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 V 7200",
-        "id": "HBeerSheva-CrvZvezda",
-        "key": "1C 3A 5E B4 7B 9D 2F 47"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11630 H 9875",
-        "id": "OER/F634/5/INTER_MAIN",
-        "key": "45 7B 06 C6 0A 16 6C 8C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "SRT  9MHz HOTBIRD 13F uplink  Streaming - TEST  Link5",
-        "key": "AC 35 B9 9A 01 F2 F5 E8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11600 H 7200",
-        "id": "F563/1/TDFF PRIV FTV",
-        "key": "31 76 22 C9 31 FB 17 43"
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
     }
 ]
