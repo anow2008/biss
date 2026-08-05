@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11164 H 6000",
+    "id": "UKI-1884 Coder 1",
+    "key": "2A A1 00 CB 32 B2 1F 03"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11059 H 7200",
+    "id": "IMG 1 EU",
+    "key": "2A A1 00 CB 32 B2 1F 03"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11088 V 7120",
+    "id": "Pitch Pre Season Friendly - Manchester City v K League",
+    "key": "33 DD AB BB BF 05 08 CC"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11211 V 9875",
+    "id": "F510 European-aquatic-seine-MAIN",
+    "key": "24 9F E0 A3 F9 35 E2 10"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11599 H 7200",
+    "id": "F563/1/TDFF PRIV FTV",
+    "key": "31 76 22 C9 31 FB 17 43"
+  }
+]
