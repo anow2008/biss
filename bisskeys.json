@@ -1,27 +1,33 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "GCUK Enc 2",
-    "key": "2A A1 00 CB 32 B2 1F 03"
+    "frequency": "11014 V 7200",
+    "id": "TUR-162 MAIN",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11059 H 7200",
+    "frequency": "10849 V 4820",
+    "id": "GBN Essex - UKI1339",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11051 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
     "key": "2A A1 00 CB 32 B2 1F 03"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11066 V 4938",
-    "id": "ANA",
-    "key": "57 98 FF EE ED 5C 6A B3"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7120",
-    "id": "Pitch Pre Season Friendly - Manchester City v K League",
-    "key": "33 DD AB BB BF 05 08 CC"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -31,13 +37,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "24 9F E0 A3 F9 35 E2 10"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11590 H 7200",
+    "frequency": "11591 H 7200",
     "id": "OER/F563/1/IS BIS",
     "key": "E8 56 49 87 3D 73 D8 88"
   },
@@ -55,9 +55,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL037 TVN24 BIA",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "11013 V 4600",
+    "id": "WDC Enc 4",
+    "key": "52 B5 7C 83 66 C7 40 6D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
