@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10826 H 9875",
-    "id": "IPF",
-    "key": "DE ED 00 CB AA 43 2A 17"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10839 V 7200",
     "id": "GCUK Enc 10",
     "key": "AA BB DD 42 EE 07 08 FD"
@@ -34,18 +28,6 @@
     "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7120",
-    "id": "NEP Japan ONE",
-    "key": "F1 8D B6 34 2C EC 0D 25"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11591 H 7200",
-    "id": "OER/F563/1/IS BIS",
-    "key": "23 AB 6F 3D D9 B5 BB 49"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
