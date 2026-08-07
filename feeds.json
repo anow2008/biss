@@ -1,56 +1,32 @@
 [
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10978 V 7200",
-        "id": "HTelAviv-GKSKatowice",
-        "key": "D7 B5 F3 7F E1 A9 C6 50"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 V 7200",
-        "id": "ROU-015 MAIN",
-        "key": "F9 D7 B5 85 A3 C1 E6 4A"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11630 H 9875",
+        "id": "OER/F634/5/INTER_MAIN",
+        "key": "23 AB 6F 3D D9 B5 BB 49"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7400",
-        "id": "CZE 012 M-EL HRADEC KRALOVE-ISTANBUL",
-        "key": "AA 6A BA CE E8 0E 26 1C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12565 H 7200",
-        "id": "paok vs anderlecht",
-        "key": "30 21 12 63 12 20 93 C5"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL086 TVN24 WAW",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL-25 ENC1",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "HUN-013 Line 1",
-        "key": "06 06 20 2C 26 DE DE E2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10849 V 4820",
-        "id": "GBN Essex - UKI1339",
-        "key": "AC D2 7D FB E1 AC 19 A6"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11600 H 7200",
+        "frequency": "11599 H 7200",
         "id": "F563/1/TDFF PRIV FTV",
         "key": "31 76 22 C9 31 FB 17 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11088 V 7120",
+        "id": "NEP Japan ONE",
+        "key": "F1 8D B6 34 2C EC 0D 25"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10827 H 9875",
+        "id": "IPF",
+        "key": "DE ED 00 CB AA 43 2A 17"
     }
 ]
