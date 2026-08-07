@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11071 V 7120",
         "id": "Pitch Carabao Cup Middlesbrough v Wrexham",
         "key": "13 13 DC 02 CA 11 32 0D"
@@ -22,17 +28,5 @@
         "frequency": "10962 V 9600",
         "id": "SUI 066 A",
         "key": "B8 0D 7C 41 8E F9 5E E5"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 H 7200",
-        "id": "F3-1 9MHz",
-        "key": "20 25 AE F3 EA 52 02 3E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7200",
-        "id": "POL-098 Main",
-        "key": "AB CD 07 7F 08 AB CD 80"
     }
 ]
