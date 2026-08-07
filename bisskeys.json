@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11178 H 8000",
-    "id": "Unname",
-    "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
@@ -31,21 +25,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11062 V 7120",
-    "id": "Pitch Carabao Cup Wolves v Port Vale",
-    "key": "23 42 DD 42 AC 24 22 F2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7120",
-    "id": "Pitch Carabao Cup Middlesbrough v Wrexham",
-    "key": "13 13 DC 02 CA 11 32 0D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 H 7200",
-    "id": "F3-1 9MHz",
-    "key": "20 25 AE F3 EA 52 02 3E"
+    "frequency": "11608 H 7200",
+    "id": "GVA_Fi05",
+    "key": "E9 02 F6 E1 A0 A9 06 4F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
