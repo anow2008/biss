@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12731 V 7200",
+        "id": "E-228 Main",
+        "key": "08 08 20 30 26 FA CA EA"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10974 V 9600",
         "id": "POL-141 ENC1",
         "key": "AB BA 26 8B DC AE 08 92"
@@ -46,11 +52,5 @@
         "frequency": "10848 H 7500",
         "id": "ZUFFA Boxing 10",
         "key": "53 5A 22 CF 4B 16 7C DD"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11103 H 7200",
-        "id": "MP One",
-        "key": "20 26 BB 01 AA 62 02 0E"
     }
 ]
