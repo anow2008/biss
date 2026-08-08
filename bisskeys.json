@@ -21,13 +21,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10819 V 3670",
     "id": "GCUK Enc 9",
-    "key": "AA BB DD 42 EE 08 08 FE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10838 V 7200",
-    "id": "GCUK Enc 10",
-    "key": "AA BB DD 42 EE 08 08 FE"
+    "key": "53 5A 22 CF 4B 16 7C DD"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -73,24 +67,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7120",
-    "id": "Pitch Carabao Burnley v Notts",
-    "key": "22 41 DD 40 AA 23 22 EF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11080 V 7120",
-    "id": "Pitch Carabao Cup Derby v Lincoln",
-    "key": "24 32 CC 22 AA 24 22 F0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11213 V 7120",
-    "id": "Pitch Carabao Swansea v Birmingham",
-    "key": "13 13 DD 03 CC 13 13 F2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11591 H 7200",
     "id": "OER/F563/1/IS BIS",
     "key": "EE 7B 36 9F 6F 0D E5 61"
@@ -100,12 +76,6 @@
     "frequency": "11600 H 7200",
     "id": "F563/1/TDFF PRIV FTV",
     "key": "31 76 22 C9 31 FB 17 43"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 V 7120",
-    "id": "Pitch Carabao Leicester v Northampton",
-    "key": "13 13 DD 03 CC 13 13 F2"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -127,14 +97,20 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10960 V 2400",
+    "id": "PLTVP5",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10974 V 9600",
     "id": "POL-141 ENC1",
     "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11125 H 4938",
-    "id": "MTVA SNG HUNGARY",
-    "key": "52 B5 7C 83 66 C7 40 6D"
+    "frequency": "12731 V 7200",
+    "id": "E-228 Main",
+    "key": "08 08 20 30 26 FA CA EA"
   }
 ]
