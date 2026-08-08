@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12679 H 7500",
+        "id": "ENC 5",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12515 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 V 7200",
+        "id": "FTC-RMA Studio",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
         "id": "POL 030",
@@ -40,17 +58,5 @@
         "frequency": "11014 V 7200",
         "id": "SUI-44-3 main",
         "key": "08 08 FD 0D BE 91 45 94"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11213 V 7120",
-        "id": "Pitch Carabao Swansea v Birmingham",
-        "key": "13 13 DD 03 CC 13 13 F2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11200 V 9875",
-        "id": "FRAMTV SEINE MAIN",
-        "key": "0D 7F D7 63 60 95 A0 95"
     }
 ]
