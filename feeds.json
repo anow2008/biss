@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10857 H 7200",
         "id": "Fi14_GNVE",
@@ -43,20 +49,8 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11103 H 7200",
         "id": "MP One",
         "key": "20 26 BB 01 AA 62 02 0E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11125 H 4938",
-        "id": "MTVA SNG HUNGARY",
-        "key": "52 B5 7C 83 66 C7 40 6D"
     }
 ]
