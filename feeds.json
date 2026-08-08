@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10857 H 7200",
+        "id": "Fi14_GNVE",
+        "key": "23 37 21 7B D2 74 34 7A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11635 V 9875",
+        "id": "WSHT ENC205",
+        "key": "A7 E8 DF 6E 40 AD 7C 69"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11005 V 7200",
         "id": "SLQ 008 M",
@@ -46,17 +58,5 @@
         "frequency": "11125 H 4938",
         "id": "MTVA SNG HUNGARY",
         "key": "52 B5 7C 83 66 C7 40 6D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10838 V 7200",
-        "id": "GCUK Enc 10",
-        "key": "AA BB DD 42 EE 08 08 FE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11080 V 7120",
-        "id": "Pitch Carabao Cup Derby v Lincoln",
-        "key": "24 32 CC 22 AA 24 22 F0"
     }
 ]
