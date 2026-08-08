@@ -3,7 +3,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10960 V 7200",
     "id": "FTC-RMA Studio",
-    "key": "08 08 BF CF EA 15 81 80"
+    "key": "13 57 AB 15 CD 24 68 59"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -13,9 +13,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "SUI-44-3 main",
-    "key": "08 08 FD 0D BE 91 45 94"
+    "frequency": "12515 V 4938",
+    "id": "YSM-016 MAIN",
+    "key": "20 10 20 50 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -104,7 +104,7 @@
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
-    "id": "POL138_A",
+    "id": "POL 030",
     "key": "AB BA 26 8B DC AE 08 92"
   },
   {
