@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 33 81 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "T/A Zixi to Hotbird Domestic Feed",
+        "key": "88 22 55 FF 66 24 57 E1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11608 H 7200",
         "id": "GVA_Fi05",
         "key": "E9 02 F6 E1 A0 A9 06 4F"
