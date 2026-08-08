@@ -12,6 +12,12 @@
         "key": "01 01 FF 01 AE 20 26 F4"
     },
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11062 V 7200",
+        "id": "WSHT ENC 53",
+        "key": "99 AC 34 79 DB 65 8C CC"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10998 V 10000",
         "id": "POL023 TVN24 WAW P1",
@@ -20,12 +26,12 @@
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12689 H 7200",
-        "id": "ENC-15",
-        "key": "72 4C 9D 5B B4 33 78 5F"
+        "id": "T/A Zixi to Hotbird Domestic Feed",
+        "key": "88 22 55 FF 66 24 57 E1"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7500",
+        "frequency": "12679 H 7500",
         "id": "ENC 5",
         "key": "F1 07 45 3D E6 CB AD 5E"
     },
