@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10998 V 10000",
+        "id": "POL023 TVN24 WAW P1",
+        "key": "20 26 19 5F 16 AB 08 C9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "ENC-15",
+        "key": "72 4C 9D 5B B4 33 78 5F"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12679 H 7500",
         "id": "ENC 5",
@@ -52,11 +64,5 @@
         "frequency": "11005 V 7200",
         "id": "SLQ 008 M",
         "key": "08 08 BF CF EA 15 81 80"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11014 V 7200",
-        "id": "SUI-44-3 main",
-        "key": "08 08 FD 0D BE 91 45 94"
     }
 ]
