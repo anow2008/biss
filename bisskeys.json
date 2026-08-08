@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 V 7200",
+    "id": "FTC-RMA Studio",
+    "key": "08 08 BF CF EA 15 81 80"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11005 V 7200",
     "id": "SLQ 008 M",
     "key": "08 08 BF CF EA 15 81 80"
@@ -28,6 +34,12 @@
     "frequency": "10848 H 7500",
     "id": "ZUFFA Boxing 10",
     "key": "53 5A 22 CF 4B 16 7C DD"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10857 H 7200",
+    "id": "Fi14_GNVE",
+    "key": "23 37 21 7B D2 74 34 7A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -73,18 +85,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7120",
-    "id": "Pitch Carabao- QPR v Millwall",
-    "key": "13 41 DA 2E AA 21 44 0F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11200 V 9875",
-    "id": "FRAMTV SEINE MAIN",
-    "key": "0D 7F D7 63 60 95 A0 95"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11213 V 7120",
     "id": "Pitch Carabao Swansea v Birmingham",
     "key": "13 13 DD 03 CC 13 13 F2"
@@ -109,9 +109,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11631 H 9875",
+    "frequency": "11630 H 9875",
     "id": "OER/F634/5/INTER_MAIN",
     "key": "EE 7B 36 9F 6F 0D E5 61"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11635 V 9875",
+    "id": "WSHT ENC205",
+    "key": "A7 E8 DF 6E 40 AD 7C 69"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -122,7 +128,7 @@
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10974 V 9600",
-    "id": "POL-110",
+    "id": "POL-141 ENC1",
     "key": "AB BA 26 8B DC AE 08 92"
   },
   {
