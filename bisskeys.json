@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7500",
-    "id": "AFD",
-    "key": "C1 8A DA 25 14 B4 12 DA E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7500",
-    "id": "AFD",
-    "key": "C1 8A DA 25 14 B4 12 DA"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Enc 08",
@@ -67,7 +55,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12679 H 7500",
+    "frequency": "12680 H 7500",
     "id": "ENC 5",
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
@@ -82,6 +70,12 @@
     "frequency": "12702 H 15000",
     "id": "Zuffa Boxing Clean-2 SAT PRI",
     "key": "69 61 3D 07 79 4F 65 2D"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10960 V 2400",
+    "id": "PLTVP5",
+    "key": "20 26 19 5F 16 AB 08 C9"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
