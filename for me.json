@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11014 V 7200",
+        "id": "SUI-44-3 main",
+        "key": "08 08 FD 0D BE 91 45 94"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10849 H 7500",
+        "id": "ZUFFA Boxing 10",
+        "key": "53 5A 22 CF 4B 16 7C DD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "99 AC 34 79 DB 65 8C CC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 33 77 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11200 V 9875",
+        "id": "FRAMTV SEINE MAIN",
+        "key": "0D 7F D7 63 60 95 A0 95"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10839 V 7200",
         "id": "GCUK Enc 10",
