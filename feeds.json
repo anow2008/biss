@@ -1,15 +1,21 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12731 V 7200",
-        "id": "E-228 Main",
-        "key": "08 08 20 30 26 FA CA EA"
+        "frequency": "10986 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11667 H 7400",
+        "id": "TUR139-Main",
+        "key": "ED F8 AA 8F 8A 0E 26 BE"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "AB BA 26 8B DC AE 08 92"
+        "frequency": "12731 V 7200",
+        "id": "E-228 Main",
+        "key": "08 08 20 30 26 FA CA EA"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -46,11 +52,5 @@
         "frequency": "11200 V 9875",
         "id": "FRAMTV SEINE MAIN",
         "key": "0D 7F D7 63 60 95 A0 95"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 H 7500",
-        "id": "ZUFFA Boxing 10",
-        "key": "53 5A 22 CF 4B 16 7C DD"
     }
 ]
