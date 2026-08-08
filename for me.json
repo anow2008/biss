@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10960 V 7200",
+        "id": "FTC-RMA Studio",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11667 H 7400",
+        "id": "TUR139-Main",
+        "key": "ED F8 AA 8F 8A 0E 26 BE"
+    },
+    {
         "satellite": "Eutelsat 16A",
         "frequency": "12731 V 7200",
         "id": "E-228 Main",
