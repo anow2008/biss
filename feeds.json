@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "E-289",
+        "key": "01 01 FF 01 AE 20 26 F4"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10998 V 10000",
         "id": "POL023 TVN24 WAW P1",
