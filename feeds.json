@@ -1,38 +1,38 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11608 H 7200",
-        "id": "GVA_Fi05",
-        "key": "E9 02 F6 E1 A0 A9 06 4F"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL-110",
+        "key": "AB BA 26 8B DC AE 08 92"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11058 H 7200",
+        "frequency": "11088 V 7120",
+        "id": "Pitch Carabao- QPR v Millwall",
+        "key": "13 41 DA 2E AA 21 44 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
         "id": "IMG 1 EU",
-        "key": "12 3C AA F8 14 22 A3 D9"
+        "key": "2A A1 00 CB 32 B2 1F 03"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11071 V 7120",
-        "id": "Pitch Carabao Cup Middlesbrough v Wrexham",
-        "key": "13 13 DC 02 CA 11 32 0D"
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11062 V 7120",
-        "id": "Pitch Carabao Cup Wolves v Port Vale",
-        "key": "23 42 DD 42 AC 24 22 F2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 H 7500",
-        "id": "Zuffa Boxing 10 - Europe Distribution",
-        "key": "53 5A 22 CF 4B 16 7C DD"
+        "frequency": "10840 H 7200",
+        "id": "Fi11_GNVE",
+        "key": "73 74 BF A6 7B F2 EC 59"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10962 V 9600",
-        "id": "SUI 066 A",
-        "key": "B8 0D 7C 41 8E F9 5E E5"
+        "frequency": "11606 V 7200",
+        "id": "Chelsea vs AC Milan",
+        "key": "C6 A4 E2 4C B1 D9 F7 81"
     }
 ]
