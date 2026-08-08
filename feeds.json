@@ -1,7 +1,31 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11014 V 7200",
+        "id": "SUI-44-3 main",
+        "key": "08 08 FD 0D BE 91 45 94"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11213 V 7120",
+        "id": "Pitch Carabao Swansea v Birmingham",
+        "key": "13 13 DD 03 CC 13 13 F2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11200 V 9875",
+        "id": "FRAMTV SEINE MAIN",
+        "key": "0D 7F D7 63 60 95 A0 95"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10849 H 7500",
+        "id": "ZUFFA Boxing 10",
+        "key": "53 5A 22 CF 4B 16 7C DD"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
+        "frequency": "10986 V 9600",
         "id": "POL138_A",
         "key": "AB BA 26 8B DC AE 08 92"
     },
@@ -13,50 +37,32 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11126 H 4938",
+        "frequency": "11125 H 4938",
         "id": "MTVA SNG HUNGARY",
         "key": "52 B5 7C 83 66 C7 40 6D"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
+        "frequency": "10838 V 7200",
         "id": "GCUK Enc 10",
         "key": "AA BB DD 42 EE 08 08 FE"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11610 V 7120",
-        "id": "Pitch Carabao Leicester v Northampton",
-        "key": "13 13 DD 03 CC 13 13 F2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11079 V 7120",
+        "frequency": "11080 V 7120",
         "id": "Pitch Carabao Cup Derby v Lincoln",
         "key": "24 32 CC 22 AA 24 22 F0"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11070 V 7120",
+        "frequency": "11071 V 7120",
         "id": "Pitch Carabao Burnley v Notts",
         "key": "22 41 DD 40 AA 23 22 EF"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12702 H 15000",
-        "id": "Zuffa Boxing Beauty -1 SAT BU",
+        "id": "Zuffa Boxing Beauty-2 SAT PRI",
         "key": "69 61 3D 07 79 4F 65 2D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11630 H 9875",
-        "id": "OER/F634/5/INTER_MAIN",
-        "key": "EE 7B 36 9F 6F 0D E5 61"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11599 H 7200",
-        "id": "F563/1/TDFF PRIV FTV",
-        "key": "31 76 22 C9 31 FB 17 43"
     }
 ]
