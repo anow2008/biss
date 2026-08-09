@@ -43,27 +43,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11591 H 7200",
-    "id": "OER/F563/1/IS BIS",
-    "key": "B6 CA BB 3B 6E 53 53 14"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11600 H 7200",
     "id": "F563/1/TDFF PRIV FTV",
     "key": "31 76 22 C9 31 FB 17 43"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11617 H 7200",
-    "id": "ITA 560 - Courchevel SKI Jumping",
-    "key": "67 A2 A2 AB 00 7D 52 CF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11630 H 9875",
-    "id": "OER/F634/5/INTER_MAIN",
-    "key": "B6 CA BB 3B 6E 53 53 14"
+    "frequency": "12679 H 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
