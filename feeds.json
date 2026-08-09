@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "TVP POL-32  ENC 1",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12546 H 7200",
         "id": "ENC2 Backup",
         "key": "09 08 20 31 26 AB CD 9E"
@@ -16,12 +22,6 @@
         "frequency": "11062 V 7120",
         "id": "Pitch Carabao Mansfield v Sheffield United",
         "key": "44 23 DA 41 AC 33 22 01"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL-52 CM-5000",
-        "key": "AB BA 26 8B DC AE 08 92"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
