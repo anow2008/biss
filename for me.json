@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11126 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "52 B5 7C 83 66 C7 40 6D"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11088 V 7120",
         "id": "Pre Season Friendlies - Manchester City v Atletico Madrid",
