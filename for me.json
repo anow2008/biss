@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10961 V 9600",
+        "id": "SUI 066 A",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11598 V 7200",
+        "id": "Liverpool vs AS Monaco",
+        "key": "8E 5D 3C 27 2B 1A 9F E4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11607 V 7200",
         "id": "Chelsea vs Johor Tigers",
         "key": "B5 F3 D1 79 C9 A7 E8 58"
