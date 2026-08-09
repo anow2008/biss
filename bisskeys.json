@@ -6,6 +6,12 @@
     "key": "09 08 BE CF AB 12 84 41"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11606 V 7500",
+    "id": "AFD",
+    "key": "C1 8A DA 25 14 B4 12 DA"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Enc 08",
@@ -37,12 +43,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11062 V 7120",
-    "id": "Pitch Carabao Mansfield v Sheffield United",
-    "key": "44 23 DA 41 AC 33 22 01"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11067 H 7200",
     "id": "IMG 2 EU",
     "key": "72 4C 9D 5B B4 33 81 68"
@@ -52,6 +52,12 @@
     "frequency": "11600 H 7200",
     "id": "F563/1/TDFF PRIV FTV",
     "key": "31 76 22 C9 31 FB 17 43"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11617 H 7200",
+    "id": "ITA 560 - Courchevel SKI Jumping",
+    "key": "67 A2 A2 AB 00 7D 52 CF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
