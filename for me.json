@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11088 V 7120",
+        "id": "Pre Season Friendlies - Manchester City v Atletico Madrid",
+        "key": "DD 33 FB 0B BA 09 08 CB"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12573 H 7200",
         "id": "E-289",
