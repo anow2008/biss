@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10961 V 9600",
+    "frequency": "10962 V 9600",
     "id": "SUI 066 A",
     "key": "B8 0D 7C 41 8E F9 5E E5"
   },
@@ -10,18 +10,6 @@
     "frequency": "11014 V 7200",
     "id": "MP One",
     "key": "09 08 BE CF AB 12 84 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11598 V 7200",
-    "id": "Liverpool vs AS Monaco",
-    "key": "8E 5D 3C 27 2B 1A 9F E4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12565 H 7200",
-    "id": "E-069 BK",
-    "key": "AA BB 20 85 26 08 09 37"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -91,8 +79,20 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10964 V 4800",
+    "frequency": "10965 V 4800",
     "id": "POL-52 CM-5000",
     "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12547 H 7200",
+    "id": "ENC2 Backup",
+    "key": "09 08 20 31 26 AB CD 9E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12555 H 7200",
+    "id": "E-228 Main",
+    "key": "09 08 20 31 26 FA CA EA"
   }
 ]
