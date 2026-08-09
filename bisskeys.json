@@ -12,16 +12,16 @@
     "key": "09 08 BE CF AB 12 84 41"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10823 V 3670",
-    "id": "GCUK Enc 08",
-    "key": "AA BB DD 42 EE 09 08 FF"
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7200",
+    "id": "UKI1513 ROEHAMPTON TENNIS IMG",
+    "key": "09 08 CD DE EF 08 77 6E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10838 V 7200",
-    "id": "GCUK Enc 10",
-    "key": "AA BB DD 42 EE 09 08 FF"
+    "frequency": "10822 V 3670",
+    "id": "GCUK Enc 08",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -45,7 +45,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
-    "key": "2A A1 00 CB 32 B2 3A 1E"
+    "key": "72 4C 9D 5B B4 33 83 6A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -79,14 +79,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12547 H 7200",
-    "id": "ENC2 Backup",
-    "key": "09 08 20 31 26 AB CD 9E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12555 H 7200",
-    "id": "E-228 Main",
-    "key": "09 08 20 31 26 FA CA EA"
+    "frequency": "10973 V 9600",
+    "id": "POL-110",
+    "key": "AB BA 26 8B DC AE 08 92"
   }
 ]
