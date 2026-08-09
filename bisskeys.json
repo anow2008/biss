@@ -1,13 +1,13 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 V 4938",
+    "frequency": "12515 V 4938",
     "id": "YSM-021M",
     "key": "09 08 20 31 26 AD 26 F9 E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12516 V 4938",
+    "frequency": "12515 V 4938",
     "id": "YSM-021M",
     "key": "09 08 20 31 26 AD 26 F9"
   },
@@ -60,14 +60,20 @@
     "key": "72 4C 9D 5B B4 33 81 68"
   },
   {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11088 V 7120",
+    "id": "Pre Season Friendlies - Manchester City v Atletico Madrid",
+    "key": "DD 33 FB 0B BA 09 08 CB"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
+    "frequency": "10973 V 9600",
     "id": "POL-110",
     "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
+    "frequency": "10985 V 9600",
     "id": "POL138_A",
     "key": "AB BA 26 8B DC AE 08 92"
   }
