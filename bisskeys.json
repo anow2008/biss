@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "MP One",
-    "key": "09 08 BE CF AB 12 84 41"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7500",
     "id": "AFD",
     "key": "C1 8A DA 25 14 B4 12 DA"
@@ -46,6 +40,12 @@
     "frequency": "11067 H 7200",
     "id": "IMG 2 EU",
     "key": "72 4C 9D 5B B4 33 81 68"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11591 H 7200",
+    "id": "OER/F563/1/IS BIS",
+    "key": "B6 CA BB 3B 6E 53 53 14"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
