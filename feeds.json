@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11213 V 7120",
+        "id": "Pitch Carabao Cup R1 Highlights",
+        "key": "13 11 CA EE AC 24 22 F2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 33 81 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12574 H 7120",
+        "id": "NLEMG HOL7-1",
+        "key": "A7 B9 2A 8A 7C 3A 51 07"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11608 H 7200",
         "id": "GVA_Fi05",
         "key": "E9 02 F6 E1 A0 A9 06 4F"
@@ -16,65 +40,5 @@
         "frequency": "11062 V 7200",
         "id": "WSHT ENC 53",
         "key": "99 AC 34 79 DB 65 8C CC"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10998 V 10000",
-        "id": "POL023 TVN24 WAW P1",
-        "key": "20 26 19 5F 16 AB 08 C9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "T/A Zixi to Hotbird Domestic Feed",
-        "key": "88 22 55 FF 66 24 57 E1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7500",
-        "id": "ENC 5",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12515 V 4938",
-        "id": "YSM-016 MAIN",
-        "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 V 7200",
-        "id": "FTC-RMA Studio",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL 030",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7400",
-        "id": "TUR139-Main",
-        "key": "ED F8 AA 8F 8A 0E 26 BE"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12731 V 7200",
-        "id": "E-228 Main",
-        "key": "08 08 20 30 26 FA CA EA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10857 H 7200",
-        "id": "Fi14_GNVE",
-        "key": "23 37 21 7B D2 74 34 7A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11635 V 9875",
-        "id": "WSHT ENC205",
-        "key": "A7 E8 DF 6E 40 AD 7C 69"
     }
 ]
