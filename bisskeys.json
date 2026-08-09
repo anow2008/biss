@@ -1,14 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12515 V 4938",
-    "id": "YSM-021M",
+    "frequency": "11607 V 7200",
+    "id": "Chelsea vs Johor Tigers",
     "key": "09 08 20 31 26 AD 26 F9 E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12515 V 4938",
-    "id": "YSM-021M",
+    "frequency": "11607 V 7200",
+    "id": "Chelsea vs Johor Tigers",
     "key": "09 08 20 31 26 AD 26 F9"
   },
   {
@@ -34,6 +34,12 @@
     "frequency": "10839 V 7200",
     "id": "GCUK Enc 10",
     "key": "AA BB DD 42 EE 09 08 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11040 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -67,14 +73,20 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
+    "frequency": "10974 V 9600",
     "id": "POL-110",
     "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
+    "frequency": "10986 V 9600",
     "id": "POL138_A",
     "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11126 H 4938",
+    "id": "MTVA SNG HUNGARY",
+    "key": "52 B5 7C 83 66 C7 40 6D"
   }
 ]
