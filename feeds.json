@@ -1,7 +1,7 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12547 H 7200",
+        "frequency": "12546 H 7200",
         "id": "ENC2 Backup",
         "key": "09 08 20 31 26 AB CD 9E"
     },
@@ -52,6 +52,12 @@
         "frequency": "11597 V 7200",
         "id": "Liverpool vs AS Monaco",
         "key": "8E 5D 3C 27 2B 1A 9F E4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 V 7200",
+        "id": "UKI1513 ROEHAMPTON TENNIS IMG",
+        "key": "09 08 CD DE EF 08 77 6E"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
