@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11186 V 7120",
+        "id": "Pitch - Carabao Cup R1 -  Plymouth v Exeter",
+        "key": "13 11 BC E0 CA 32 45 41"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
         "id": "POL-141 ENC1",
