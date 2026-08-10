@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "E-228 Main",
-    "key": "AA BB 20 85 26 08 10 3E"
+    "frequency": "11142 H 10000",
+    "id": "UKI-1937 P1 SD",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -31,14 +31,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "72 4C 9D 5B B4 33 81 68"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 08 92"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11186 V 7120",
+    "id": "Pitch - Carabao Cup R1 -  Plymouth v Exeter",
+    "key": "13 11 BC E0 CA 32 45 41"
   }
 ]
