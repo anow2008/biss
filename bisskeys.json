@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10964 V 14400",
-    "id": "INTER LYON VS SPARTA",
-    "key": "F4 86 20 9A 26 08 11 3F E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10964 V 14400",
-    "id": "INTER LYON VS SPARTA",
-    "key": "F4 86 20 9A 26 08 11 3F"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
