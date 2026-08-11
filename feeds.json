@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11022 V 9875",
+        "id": "Service 1",
+        "key": "82 E9 FE 69 87 42 16 DF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11609 H 7200",
+        "id": "YSM 019 01",
+        "key": "12 34 AB F1 CD 56 78 9B"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11301 H 7200",
         "id": "SL0-MJA",
@@ -31,7 +43,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10964 V 14400",
+        "frequency": "10965 V 14400",
         "id": "INTER LYON VS SPARTA",
         "key": "F4 86 20 9A 26 08 11 3F"
     },
@@ -46,11 +58,5 @@
         "frequency": "10996 V 7500",
         "id": "POL021 p2 WAW",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12705 H 9875",
-        "id": "ENC 7",
-        "key": "11 AB BA 76 08 26 20 4E"
     }
 ]
