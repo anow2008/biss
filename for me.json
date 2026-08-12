@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10986 V 9600",
+        "id": "POL 030",
+        "key": "26 CA E2 D2 60 81 24 05"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11606 V 7200",
         "id": "EUT 7 Everton v Newcastle",
