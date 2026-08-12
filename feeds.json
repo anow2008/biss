@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "Tigre ARG vs Montevideo City Torque URU",
+        "key": "21 A4 FC C1 B7 32 DA C3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12679 H 7200",
+        "id": "RB Bragantino BRA vs Atl. Mineiro BRA",
+        "key": "B6 11 CD 94 45 AD C6 B8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11695 H 7200",
+        "id": "Palmeiras BRA vs Cerro Porteo PAR",
+        "key": "35 AD CB AD 78 EE DD 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11686 H 7200",
+        "id": "Platense ARG vs Coquimbo Unido CHI",
+        "key": "25 8A DC 8B B6 77 88 B5"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11597 V 7200",
         "id": "E7B Manchester United vs Leeds United",
@@ -28,11 +52,5 @@
         "frequency": "10996 V 7500",
         "id": "POL019",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 V 7200",
-        "id": "EUT 7 Everton v Newcastle",
-        "key": "A4 E2 C1 47 B9 F7 D6 86"
     }
 ]
