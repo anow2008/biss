@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "RB Bragantino (BRA) vs Atl. Mineiro (BRA)",
+        "key": "B6 11 CD 94 45 AD C6 B8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "Tigre (ARG) vs Montevideo City Torque (URU)",
+        "key": "21 A4 FC C1 B7 32 DA C3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11592 H 9875",
         "id": "Supercup",
         "key": "A8 6A 04 16 38 63 93 2E"
