@@ -1,8 +1,20 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11619 H 4938",
+        "id": "Fi11_GNVE",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL019",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11606 V 7200",
-        "id": "Signal 7",
+        "id": "EUT 7 Everton v Newcastle",
         "key": "A4 E2 C1 47 B9 F7 D6 86"
     },
     {
@@ -10,12 +22,6 @@
         "frequency": "11301 H 7200",
         "id": "CZE-041_MOL CUP BENESOV-MAIN",
         "key": "A1 E3 4B CF 23 DA CA C7"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -28,11 +34,5 @@
         "frequency": "12705 H 9875",
         "id": "ENC 7",
         "key": "26 BE BE A2 08 11 16 2F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL029 TVN24 GDA",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
