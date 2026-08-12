@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11606 V 7200",
+        "id": "EUT 7 Everton v Newcastle",
+        "key": "A4 E2 C1 47 B9 F7 D6 86"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11301 H 7200",
         "id": "CZE-041_MOL CUP BENESOV-MAIN",
