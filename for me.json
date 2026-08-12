@@ -1,1 +1,56 @@
-[]
+[
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 33 81 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11686 H 7200",
+        "id": "Estudiantes de la Plata (ARG) vs Universidad Catolica (CHI)",
+        "key": "21 54 AD 22 BB 5F AD C7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "Bolivar (BOL) vs Sao Paulo (BRA)",
+        "key": "54 DA C6 F4 FF DA CB A4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "Fluminense (BRA) vs Independiente Rivadavia (ARG) - INGLES EUROPA",
+        "key": "21 54 AD 22 BB 5F AD C7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7200",
+        "id": "Boca Jrs. (ARG) vs Recoleta (PAR) - INGLES EUROPA",
+        "key": "54 DA C6 F4 FF DA CB A4"
+    }
+]
