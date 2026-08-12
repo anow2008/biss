@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL029 TVN24 GDA",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10970 V 4800",
+        "id": "POL 48 ENC1",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11211 V 9875",
+        "id": "F510 European-aquatic-seine-MAIN",
+        "key": "DD EF 06 D2 06 FB 14 15"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 33 81 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12707 H 7200",
         "id": "Boca Jrs. ARG vs Recoleta PAR - INGLES EUROPA",
@@ -10,59 +46,5 @@
         "frequency": "12698 H 7200",
         "id": "Fluminense BRA vs Independiente Rivadavia ARG - INGLES EUROPA",
         "key": "21 54 AD 22 BB 5F AD C7"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 V 9875",
-        "id": "Service 1",
-        "key": "82 E9 FE 69 87 42 16 DF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11609 H 7200",
-        "id": "YSM 019 01",
-        "key": "12 34 AB F1 CD 56 78 9B"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11300 H 7200",
-        "id": "SL0-MJA",
-        "key": "17 32 BA 03 AD 51 51 4F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11268 V 11240",
-        "id": "ESPN MAIN",
-        "key": "F3 11 DA DE 11 EB 08 04"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11212 V 9875",
-        "id": "F510 European-aquatic-seine-MAIN",
-        "key": "E7 65 44 90 0E CA 0A E2"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "pol-053_enc2",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10965 V 14400",
-        "id": "INTER LYON VS SPARTA",
-        "key": "F4 86 20 9A 26 08 11 3F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11592 H 9875",
-        "id": "Supercup",
-        "key": "A8 6A 04 16 38 63 93 2E"
     }
 ]
