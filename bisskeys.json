@@ -7,21 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10978 V 7200",
-    "id": "Fresh Cup",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12565 H 7200",
     "id": "GCUK Enc 08",
     "key": "E4 11 CB C0 CB 4B BA D0"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11301 H 7200",
-    "id": "DAC-TWE",
-    "key": "57 13 BA 24 AD 57 11 15"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -49,14 +37,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "72 4C 9D 5B B4 33 81 68"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12679 H 7400",
-    "id": "TUR139-Main",
-    "key": "ED F8 AA 8F 8A 0E 26 BE"
   }
 ]
