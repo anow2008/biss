@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10977 V 4800",
+        "id": "POL49 EN1 Ogrodzieniec",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10847 V 7200",
+        "id": "GCUK Enc 10",
+        "key": "BB AA EE 53 DD 13 08 F8"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10978 V 7200",
         "id": "FTC-RMA",
@@ -10,12 +22,6 @@
         "frequency": "12537 V 9700",
         "id": "PAFOSvsSALZBURG_MAIN",
         "key": "AF C4 26 99 26 CB CA BB"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10982 V 4800",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 08 92"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -34,23 +40,5 @@
         "frequency": "10997 V 7500",
         "id": "POL021 p2 WAW",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11212 V 9875",
-        "id": "F510 European-aquatic-seine-MAIN",
-        "key": "53 67 5E 18 13 07 60 7A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11688 H 9875",
-        "id": "ENC 7",
-        "key": "13 08 BA D5 BA 62 02 1E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
-        "id": "IMG 2 EU",
-        "key": "72 4C 9D 5B B4 33 81 68"
     }
 ]
