@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10978 V 7200",
+        "id": "Fresh Cup",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "12536 V 9700",
+        "id": "PAFOSvsSALZBURG_MAIN",
+        "key": "AF C4 26 99 26 CB CA BB"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11300 H 7200",
+        "id": "DAC-TWE",
+        "key": "57 13 BA 24 AD 57 11 15"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12680 H 7400",
+        "id": "TUR139-Main",
+        "key": "ED F8 AA 8F 8A 0E 26 BE"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10847 V 7200",
         "id": "GCUK Enc 10",
