@@ -31,7 +31,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11685 H 7200",
+    "frequency": "11686 H 7200",
     "id": "Mirassol (BRA) vs LDU Quito (ECU)",
     "key": "21 AD CB 99 66 87 CB B8"
   },
@@ -46,5 +46,17 @@
     "frequency": "12680 H 7200",
     "id": "Santos (BRA) vs Macara (ECU)",
     "key": "B8 45 FC F9 A2 3D 56 35"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12689 H 7200",
+    "id": "Cienciano (PER) vs Botafogo (BRA)",
+    "key": "B8 45 FC F9 A2 ED 56 E5"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12698 H 7200",
+    "id": "Rosario Central (ARG) vs Corinthians (BRA)",
+    "key": "21 AD CB 99 66 87 CB B8"
   }
 ]
