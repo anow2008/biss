@@ -1,14 +1,8 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11142 H 10000",
-    "id": "UKI-1937 P1 SD",
-    "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "GCUK Enc 10",
+    "frequency": "11154 H 6000",
+    "id": "UKI-1904 P2 HD",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
@@ -51,6 +45,6 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12679 H 7200",
     "id": "Santos (BRA) vs Macara (ECU)",
-    "key": "B8 45 FC F9 A2 ED 56 E5"
+    "key": "B8 45 FC F9 A2 3D 56 35"
   }
 ]
