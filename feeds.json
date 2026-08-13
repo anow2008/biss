@@ -1,13 +1,19 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7400",
+        "frequency": "12611 V 7200",
+        "id": "GCUK Enc 9",
+        "key": "44 5D DD 7E EE 13 08 09"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12679 H 7400",
         "id": "TUR139-Main",
         "key": "ED F8 AA 8F 8A 0E 26 BE"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11300 H 7200",
+        "frequency": "11301 H 7200",
         "id": "DAC-TWE",
         "key": "57 13 BA 24 AD 57 11 15"
     },
@@ -40,11 +46,5 @@
         "frequency": "11637 V 7200",
         "id": "Fi11_GNVE",
         "key": "12 35 BD 04 A5 DA 42 C1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11628 V 7200",
-        "id": "Fi15_GNVE",
-        "key": "A2 BB 5A B7 F2 36 A2 CA"
     }
 ]
