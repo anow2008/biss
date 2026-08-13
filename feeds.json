@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11006 V 7500",
+        "id": "POL037 TVN24 BIA",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10971 V 4800",
+        "id": "POL-10 ENC1",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11687 H 9875",
+        "id": "ENC 7",
+        "key": "13 08 BA D5 BA 62 02 1E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 33 81 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "2A A1 00 CB 32 B2 4C 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12689 H 7200",
         "id": "Tigre ARG vs Montevideo City Torque URU",
@@ -28,29 +64,5 @@
         "frequency": "11597 V 7200",
         "id": "E7B Manchester United vs Leeds United",
         "key": "7D 4C 3B 04 2A 1F 9E E7"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11592 H 9875",
-        "id": "Supercup",
-        "key": "A8 6A 04 16 38 63 93 2E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL 030",
-        "key": "26 CA E2 D2 60 81 24 05"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11618 H 4938",
-        "id": "Fi11_GNVE",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL019",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
