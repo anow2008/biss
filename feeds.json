@@ -1,13 +1,31 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 V 7200",
-        "id": "CZE-012 M CZECH TOUR 2026",
+        "frequency": "10978 V 7200",
+        "id": "FTC-RMA",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12537 V 9700",
+        "id": "PAFOSvsSALZBURG_MAIN",
+        "key": "AF C4 26 99 26 CB CA BB"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10982 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11637 V 7200",
+        "id": "Fi11_GNVE",
         "key": "12 35 BD 04 A5 DA 42 C1"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11628 V 7200",
+        "frequency": "11627 V 7200",
         "id": "Fi15_GNVE",
         "key": "A2 BB 5A B7 F2 36 A2 CA"
     },
@@ -18,12 +36,6 @@
         "key": "77 93 52 5C 99 08 86 27"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL-10 ENC1",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11212 V 9875",
         "id": "F510 European-aquatic-seine-MAIN",
@@ -31,7 +43,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11687 H 9875",
+        "frequency": "11688 H 9875",
         "id": "ENC 7",
         "key": "13 08 BA D5 BA 62 02 1E"
     },
@@ -40,29 +52,5 @@
         "frequency": "11068 H 7200",
         "id": "IMG 2 EU",
         "key": "72 4C 9D 5B B4 33 81 68"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11059 H 7200",
-        "id": "IMG 1 EU",
-        "key": "2A A1 00 CB 32 B2 4C 30"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "Tigre ARG vs Montevideo City Torque URU",
-        "key": "21 A4 FC C1 B7 32 DA C3"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7200",
-        "id": "RB Bragantino BRA vs Atl. Mineiro BRA",
-        "key": "B6 11 CD 94 45 AD C6 B8"
     }
 ]
