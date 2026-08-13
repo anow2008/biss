@@ -1,25 +1,19 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "CZE-012 M CZECH TOUR 2026",
-    "key": "12 35 BD 04 A5 DA 42 C1 E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11606 V 7200",
-    "id": "CZE-012 M CZECH TOUR 2026",
-    "key": "12 35 BD 04 A5 DA 42 C1"
+    "frequency": "11044 H 7200",
+    "id": "E-073 MAIN DAY 8",
+    "key": "BB AA EE 53 DD 13 08 F8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7200",
+    "frequency": "10847 V 7200",
     "id": "GCUK Enc 10",
-    "key": "82 E9 FE 69 97 52 16 FF"
+    "key": "BB AA EE 53 DD 13 08 F8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11039 H 4938",
+    "frequency": "11040 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -43,9 +37,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
+    "frequency": "11067 H 7200",
     "id": "IMG 2 EU",
     "key": "72 4C 9D 5B B4 33 81 68"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11627 V 7200",
+    "id": "Fi15_GNVE",
+    "key": "A2 BB 5A B7 F2 36 A2 CA"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -55,20 +55,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11687 H 9875",
+    "frequency": "11686 H 9875",
+    "id": "ENC 7",
+    "key": "13 08 BA D5 BA 62 02 1E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11688 H 9875",
     "id": "ENC 7",
     "key": "13 08 BA D5 BA 62 02 1E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10971 V 4800",
-    "id": "POL-25 ENC1",
+    "frequency": "10977 V 4800",
+    "id": "POL49 EN1 Ogrodzieniec",
     "key": "AB BA 26 8B DC AE 08 92"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11006 V 7500",
-    "id": "POL082 TVN WAW",
-    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
