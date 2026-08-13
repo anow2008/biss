@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10847 V 7200",
+        "id": "GCUK Enc 10",
+        "key": "BB AA EE 53 DD 13 08 F8"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11607 V 7200",
         "id": "CZE-012 M CZECH TOUR 2026",
