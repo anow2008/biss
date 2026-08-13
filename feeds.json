@@ -1,7 +1,13 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7200",
+        "frequency": "12680 H 7200",
+        "id": "Santos BRA vs Macara ECU",
+        "key": "B8 45 FC F9 A2 3D 56 35"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11694 H 7200",
         "id": "Vasco Da Gama BRA vs Olimpia PAR",
         "key": "B7 2D AD 91 11 BC F5 C2"
     },
@@ -28,12 +34,6 @@
         "frequency": "12611 V 7200",
         "id": "GCUK Enc 9",
         "key": "44 5D DD 7E EE 13 08 09"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7200",
-        "id": "Santos BRA vs Macara ECU",
-        "key": "B8 45 FC F9 A2 3D 56 35"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
