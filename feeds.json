@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7200",
+        "id": "CZE-012 M CZECH TOUR 2026",
+        "key": "12 35 BD 04 A5 DA 42 C1"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11628 V 7200",
         "id": "Fi15_GNVE",
@@ -58,11 +64,5 @@
         "frequency": "12679 H 7200",
         "id": "RB Bragantino BRA vs Atl. Mineiro BRA",
         "key": "B6 11 CD 94 45 AD C6 B8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7200",
-        "id": "Palmeiras BRA vs Cerro Porteo PAR",
-        "key": "35 AD CB AD 78 EE DD 43"
     }
 ]
