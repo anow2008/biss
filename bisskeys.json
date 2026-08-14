@@ -49,13 +49,19 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11212 V 9875",
+    "id": "F510 European-aquatic-seine-MAIN",
+    "key": "0C 87 7E 11 9D CF 55 C1"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11604 H 9875",
     "id": "Fi14_GNVE",
     "key": "DF C0 9A 39 6A 78 2C 0E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11616 H 9875",
+    "frequency": "11615 H 9875",
     "id": "2Sat HOL318 Main MD2 M4",
     "key": "DF C0 9A 39 6A 78 2C 0E"
   },
@@ -67,27 +73,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 V 7200",
-    "id": "Fi11_GNVE",
-    "key": "12 35 BD 04 A5 DA 42 C1"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11686 H 9875",
-    "id": "ENC 8",
-    "key": "13 08 BA D5 BA 62 02 1E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11688 H 9875",
-    "id": "ENC 8",
-    "key": "13 08 BA D5 BA 62 02 1E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12705 H 9875",
-    "id": "ENC 7",
-    "key": "26 BE BE A2 08 11 16 2F"
+    "frequency": "12689 H 7200",
+    "id": "IJF GP Lima, Peru 2026 - Day 1",
+    "key": "14 08 BA D6 CA D1 B2 4D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
