@@ -1,15 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11010 V 9875",
-    "id": "NEP-1 POL-142",
-    "key": "9F 9D 50 8C 48 A4 83 6F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 9875",
-    "id": "SLQ 008 M",
-    "key": "AB 5B E5 EB 3E 70 C6 74"
+    "frequency": "11606 V 7200",
+    "id": "E-447 VIA 1",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -34,12 +28,6 @@
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7120",
-    "id": "Pitch EFL - Wolverhampton v Blackburn",
-    "key": "E1 EF 24 F4 93 D2 61 C6"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
