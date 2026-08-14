@@ -43,12 +43,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "0C 87 7E 11 9D CF 55 C1"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11603 H 9875",
     "id": "Fi14_GNVE",
     "key": "DF C0 9A 39 6A 78 2C 0E"
@@ -67,8 +61,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 H 7200",
-    "id": "F2-9MHz",
+    "frequency": "10986 V 9600",
+    "id": "POL49 EN1 Chorzow",
     "key": "A6 B5 C4 1F D3 E2 F1 A6"
   },
   {
