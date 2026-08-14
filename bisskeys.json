@@ -1,61 +1,49 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11043 H 7200",
-    "id": "E-073 MAIN DAY 9",
-    "key": "12 35 BD 04 A5 DA 42 C1 E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11043 H 7200",
-    "id": "E-073 MAIN DAY 9",
-    "key": "12 35 BD 04 A5 DA 42 C1"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11607 V 7200",
-    "id": "CZE-012 M CZECH TOUR 2026",
-    "key": "12 35 BD 04 A5 DA 42 C1"
+    "frequency": "10978 V 7200",
+    "id": "FRESHCORNER CUP",
+    "key": "13 57 AB 15 CD 24 68 59"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10847 V 7200",
+    "frequency": "10848 V 7200",
     "id": "GCUK Enc 10",
     "key": "BB AA EE 53 DD 14 08 F9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11059 H 7200",
+    "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
     "key": "00 AC D2 7E 5B A7 31 33"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
+    "frequency": "11067 H 7200",
     "id": "IMG 2 EU",
-    "key": "72 4C 9D 5B B4 33 81 68"
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11079 V 7120",
+    "frequency": "11080 V 7120",
     "id": "NEP Japan - ONE Friday Fight - Inner Circle",
     "key": "F1 9A B6 41 39 EC 26 4B"
   },
@@ -73,13 +61,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11627 V 7200",
+    "frequency": "11628 V 7200",
     "id": "Fi15_GNVE",
     "key": "A2 BB 5A B7 F2 36 A2 CA"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11636 V 7200",
+    "frequency": "11637 V 7200",
     "id": "Fi11_GNVE",
     "key": "12 35 BD 04 A5 DA 42 C1"
   },
@@ -100,5 +88,11 @@
     "frequency": "12705 H 9875",
     "id": "ENC 7",
     "key": "26 BE BE A2 08 11 16 2F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10977 V 4800",
+    "id": "POL11_HARM",
+    "key": "AB BA 26 8B DC AE 08 92"
   }
 ]
