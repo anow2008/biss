@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10978 V 7200",
+        "id": "FRESHCORNER CUP",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11212 V 9875",
+        "id": "F510 European-aquatic-seine-MAIN",
+        "key": "0C 87 7E 11 9D CF 55 C1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "IJF GP Lima, Peru 2026 - Day 1",
+        "key": "14 08 BA D6 CA D1 B2 4D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10977 V 4800",
+        "id": "POL11_HARM",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11607 V 7200",
         "id": "CZE-012 M CZECH TOUR 2026",
         "key": "12 35 BD 04 A5 DA 42 C1"
