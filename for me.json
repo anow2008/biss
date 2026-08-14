@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11597 V 7200",
+        "id": "E-228 Main",
+        "key": "BC 20 26 02 08 14 CB E7"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11102 H 7200",
+        "id": "SNG 022 MAIN",
+        "key": "A6 B5 C4 1F D3 E2 F1 A6"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10978 V 7200",
         "id": "FRESHCORNER CUP",
         "key": "13 57 AB 15 CD 24 68 59"
