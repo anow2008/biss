@@ -12,6 +12,12 @@
     "key": "AB 5B E5 EB 3E 70 C6 74"
   },
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11597 V 7200",
+    "id": "E-069 BK",
+    "key": "15 08 20 3D 26 AA BB 8B"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Enc 2",
@@ -67,9 +73,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11088 V 7120",
-    "id": "EFL - Notts County v Leicester City",
-    "key": "2D D2 37 36 76 56 78 44"
+    "frequency": "11089 V 7120",
+    "id": "EFL - Sheffield UTD V Birmingham",
+    "key": "87 7C 23 26 49 28 02 73"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -115,21 +121,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10965 V 4800",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 08 92"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10977 H 7200",
     "id": "F3-1 9MHz",
     "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11154 H 7200",
-    "id": "British GT Cars Main",
-    "key": "FE BD 09 C4 46 3F 7C 01"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -139,8 +133,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12546 H 7200",
-    "id": "E-95 MAIN",
-    "key": "15 08 20 3D 26 AD 26 F9"
+    "frequency": "12533 H 15000",
+    "id": "ITV4 Speedway Final",
+    "key": "C1 2B 41 2D B3 D5 C2 4A"
   }
 ]
