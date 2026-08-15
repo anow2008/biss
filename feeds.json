@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12705 H 9875",
+        "id": "ENC 7",
+        "key": "26 BE BE A2 08 11 16 2F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10987 V 7200",
+        "id": "SUI-44-3 main",
+        "key": "15 08 FD 1A EA 79 31 94"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12679 H 7500",
         "id": "ENC 3",
         "key": "F1 07 45 3D E6 CB AD 5E"
@@ -58,11 +70,5 @@
         "frequency": "12512 H 9875",
         "id": "Medialink CRO-024/1",
         "key": "DF 82 3E 9F 24 15 69 A2"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 H 7200",
-        "id": "F3-1 9MHz",
-        "key": "20 25 AE F3 EA 52 02 3E"
     }
 ]
