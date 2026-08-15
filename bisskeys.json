@@ -43,15 +43,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
-    "id": "IMG 1 EU",
-    "key": "72 4C 9D 5B B4 33 87 6E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
-    "key": "72 4C 9D 5B B4 33 88 6F"
+    "key": "00 AC D2 7E 5B A7 31 33"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
