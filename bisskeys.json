@@ -25,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7200",
+    "frequency": "10847 V 7200",
     "id": "GCUK Enc 10",
     "key": "BB AA EE 53 DD 15 08 FA"
   },
@@ -49,15 +49,27 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11059 H 7200",
+    "id": "IMG 1 EU",
+    "key": "72 4C 9D 5B B4 33 87 6E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11061 V 7120",
     "id": "Pre Season Friendlies - Newcastle v Bayer Leverkusen",
     "key": "DD AA F2 79 CC 15 08 E9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11088 V 7120",
-    "id": "EFL - Notts County v Leicester City",
-    "key": "2D D2 37 36 76 56 78 44"
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "72 4C 9D 5B B4 33 88 6F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11070 V 7120",
+    "id": "EFL - Middlesbrough v Lincoln City",
+    "key": "43 55 AF 47 24 54 1A 92"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -73,13 +85,19 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11628 V 7200",
+    "frequency": "11616 H 9875",
+    "id": "2Sat HOL318 Main MD2 M4",
+    "key": "E7 BD 99 3D 69 0D DB 51"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11627 V 7200",
     "id": "Fi15_GNVE",
     "key": "A2 BB 5A B7 F2 36 A2 CA"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11636 V 7200",
+    "frequency": "11637 V 7200",
     "id": "Fi11_GNVE",
     "key": "12 35 BD 04 A5 DA 42 C1"
   },
@@ -112,6 +130,12 @@
     "frequency": "11005 V 7500",
     "id": "POL029 TVN24 GDA",
     "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11153 H 7200",
+    "id": "British GT Cars Main",
+    "key": "FE BD 09 C4 46 3F 7C 01"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
