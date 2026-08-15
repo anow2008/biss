@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 V 7200",
+    "id": "PRIVATIF MAIN AFLE PRO AUS PARIS",
+    "key": "15 08 DB F8 FA 59 71 C4"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11021 V 9875",
+    "id": "SLQ 008 M",
+    "key": "AB 5B E5 EB 3E 70 C6 74"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11607 V 7200",
+    "id": "CZE-041_Czech Tour 2026-MAIN",
+    "key": "12 35 BD 04 A5 DA 42 C1"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10848 V 7200",
+    "id": "GCUK Enc 10",
+    "key": "BB AA EE 53 DD 15 08 FA"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11040 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11052 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11061 V 7120",
+    "id": "Pre Season Friendlies - Newcastle v Bayer Leverkusen",
+    "key": "DD AA F2 79 CC 15 08 E9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11088 V 7120",
+    "id": "EFL - Notts County v Leicester City",
+    "key": "2D D2 37 36 76 56 78 44"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11186 V 7120",
+    "id": "Pre Season Friendlies - Brentford v Eintracht",
+    "key": "FE D3 AA 7B CC 15 08 E9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11604 H 9875",
+    "id": "Fi14_GNVE",
+    "key": "E7 BD 99 3D 69 0D DB 51"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11628 V 7200",
+    "id": "Fi15_GNVE",
+    "key": "A2 BB 5A B7 F2 36 A2 CA"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11636 V 7200",
+    "id": "Fi11_GNVE",
+    "key": "12 35 BD 04 A5 DA 42 C1"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11655 H 9875",
+    "id": "EST-010 ENC3 MXGP",
+    "key": "DE 62 9B DB 93 58 B3 9E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11687 H 9875",
+    "id": "ENC 8",
+    "key": "13 08 BA D5 BA 62 02 1E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10964 V 4800",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10978 H 7200",
+    "id": "F3-1 9MHz",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11005 V 7500",
+    "id": "POL029 TVN24 GDA",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12513 H 9875",
+    "id": "Medialink CRO-024/1",
+    "key": "DF 82 3E 9F 24 15 69 A2"
+  }
+]
