@@ -20,7 +20,7 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
-    "id": "GCUK Enc 2",
+    "id": "GCUK Enc 11",
     "key": "22 13 DD 12 CC 24 11 01"
   },
   {
@@ -55,21 +55,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11062 V 7120",
-    "id": "Pre Season Friendlies - Newcastle v Bayer Leverkusen",
-    "key": "DD AA F2 79 CC 15 08 E9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11067 H 7200",
     "id": "IMG 2 EU",
     "key": "72 4C 9D 5B B4 33 88 6F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7120",
-    "id": "EFL - Middlesbrough v Lincoln City",
-    "key": "43 55 AF 47 24 54 1A 92"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -79,9 +67,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11186 V 7120",
-    "id": "Pre Season Friendlies - Brentford v Eintracht",
-    "key": "FE D3 AA 7B CC 15 08 E9"
+    "frequency": "11212 V 9875",
+    "id": "F510 European-aquatic-seine-MAIN",
+    "key": "B7 A7 29 87 38 4C 2C B0"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -100,12 +88,6 @@
     "frequency": "11628 V 7200",
     "id": "Fi15_GNVE",
     "key": "A2 BB 5A B7 F2 36 A2 CA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11654 H 9875",
-    "id": "EST-010 ENC3 MXGP",
-    "key": "DE 62 9B DB 93 58 B3 9E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
