@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11070 V 7120",
+        "id": "EFL - Middlesbrough v Lincoln City",
+        "key": "43 55 AF 47 24 54 1A 92"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11009 V 9875",
         "id": "NEP-1 POL-142",
@@ -76,11 +82,5 @@
         "frequency": "11687 H 9875",
         "id": "ENC 8",
         "key": "13 08 BA D5 BA 62 02 1E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11604 H 9875",
-        "id": "Fi14_GNVE",
-        "key": "E7 BD 99 3D 69 0D DB 51"
     }
 ]
