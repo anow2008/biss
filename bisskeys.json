@@ -49,12 +49,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7120",
-    "id": "EFL - Sheffield UTD V Birmingham",
-    "key": "87 7C 23 26 49 28 02 73"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11212 V 9875",
     "id": "F510 European-aquatic-seine-MAIN",
     "key": "B7 A7 29 87 38 4C 2C B0"
