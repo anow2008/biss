@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11009 V 9875",
+        "id": "NEP-1 POL-142",
+        "key": "9F 9D 50 8C 48 A4 83 6F"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL029 TVN24 GDA",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10964 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12513 H 9875",
+        "id": "Medialink CRO-024/1",
+        "key": "DF 82 3E 9F 24 15 69 A2"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10978 H 7200",
         "id": "F3-1 9MHz",
@@ -58,17 +82,5 @@
         "frequency": "11604 H 9875",
         "id": "Fi14_GNVE",
         "key": "E7 BD 99 3D 69 0D DB 51"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10996 V 7200",
-        "id": "PRIVATIF MAIN AFLE PRO AUS PARIS",
-        "key": "15 08 DB F8 FA 59 71 C4"
     }
 ]
