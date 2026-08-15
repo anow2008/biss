@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12546 H 7200",
+        "id": "E-95 MAIN",
+        "key": "15 08 20 3D 26 AD 26 F9"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11153 H 7200",
+        "id": "British GT Cars Main",
+        "key": "FE BD 09 C4 46 3F 7C 01"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 33 88 6F"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11070 V 7120",
         "id": "EFL - Middlesbrough v Lincoln City",
@@ -19,7 +37,7 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10964 V 4800",
+        "frequency": "10965 V 4800",
         "id": "POL138_A",
         "key": "AB BA 26 8B DC AE 08 92"
     },
@@ -37,13 +55,13 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11636 V 7200",
+        "frequency": "11637 V 7200",
         "id": "Fi11_GNVE",
         "key": "12 35 BD 04 A5 DA 42 C1"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11628 V 7200",
+        "frequency": "11627 V 7200",
         "id": "Fi15_GNVE",
         "key": "A2 BB 5A B7 F2 36 A2 CA"
     },
@@ -58,29 +76,5 @@
         "frequency": "11088 V 7120",
         "id": "EFL - Notts County v Leicester City",
         "key": "2D D2 37 36 76 56 78 44"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11061 V 7120",
-        "id": "Pre Season Friendlies - Newcastle v Bayer Leverkusen",
-        "key": "DD AA F2 79 CC 15 08 E9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "GCUK Enc 10",
-        "key": "BB AA EE 53 DD 15 08 FA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11655 H 9875",
-        "id": "EST-010 ENC3 MXGP",
-        "key": "DE 62 9B DB 93 58 B3 9E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11687 H 9875",
-        "id": "ENC 8",
-        "key": "13 08 BA D5 BA 62 02 1E"
     }
 ]
