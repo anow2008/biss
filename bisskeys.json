@@ -7,9 +7,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11022 V 9875",
-    "id": "SLQ 008 M",
-    "key": "AB 5B E5 EB 3E 70 C6 74"
+    "frequency": "11010 V 9875",
+    "id": "NEP-1 POL-142",
+    "key": "9F 9D 50 8C 48 A4 83 6F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -103,15 +103,21 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10971 V 4800",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10977 H 7200",
     "id": "F3-1 9MHz",
     "key": "20 25 AE F3 EA 52 02 3E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12512 H 9875",
-    "id": "Medialink CRO-024/1",
-    "key": "DF 82 3E 9F 24 15 69 A2"
+    "frequency": "10977 V 4800",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
