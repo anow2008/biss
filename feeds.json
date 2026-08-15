@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10977 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11212 V 9875",
         "id": "F510 European-aquatic-seine-MAIN",
@@ -44,7 +50,7 @@
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12546 H 7200",
-        "id": "E-95 MAIN",
+        "id": "Falces 2026",
         "key": "15 08 20 3D 26 AD 26 F9"
     },
     {
@@ -64,11 +70,5 @@
         "frequency": "11071 V 7120",
         "id": "EFL - Middlesbrough v Lincoln City",
         "key": "43 55 AF 47 24 54 1A 92"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11010 V 9875",
-        "id": "NEP-1 POL-142",
-        "key": "9F 9D 50 8C 48 A4 83 6F"
     }
 ]
