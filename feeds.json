@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11212 V 9875",
+        "id": "F510 European-aquatic-seine-MAIN",
+        "key": "B7 A7 29 87 38 4C 2C B0"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11597 V 7200",
         "id": "E-069 BK",
@@ -64,11 +70,5 @@
         "frequency": "11010 V 9875",
         "id": "NEP-1 POL-142",
         "key": "9F 9D 50 8C 48 A4 83 6F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL029 TVN24 GDA",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
