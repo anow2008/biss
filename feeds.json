@@ -25,7 +25,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11009 V 9875",
+        "frequency": "11010 V 9875",
         "id": "NEP-1 POL-142",
         "key": "9F 9D 50 8C 48 A4 83 6F"
     },
@@ -70,11 +70,5 @@
         "frequency": "11186 V 7120",
         "id": "Pre Season Friendlies - Brentford v Eintracht",
         "key": "FE D3 AA 7B CC 15 08 E9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11088 V 7120",
-        "id": "EFL - Notts County v Leicester City",
-        "key": "2D D2 37 36 76 56 78 44"
     }
 ]
