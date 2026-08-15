@@ -1,7 +1,7 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
+        "frequency": "10974 V 9600",
         "id": "POL138_A",
         "key": "AB BA 26 8B DC AE 08 92"
     },
@@ -37,7 +37,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7500",
+        "frequency": "12680 H 7500",
         "id": "ENC 3",
         "key": "F1 07 45 3D E6 CB AD 5E"
     },
@@ -52,11 +52,5 @@
         "frequency": "12546 H 7200",
         "id": "Falces 2026",
         "key": "15 08 20 3D 26 AD 26 F9"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11154 H 7200",
-        "id": "British GT Cars Main",
-        "key": "FE BD 09 C4 46 3F 7C 01"
     }
 ]
