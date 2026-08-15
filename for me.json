@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11597 V 7200",
+        "id": "E-069 BK",
+        "key": "15 08 20 3D 26 AA BB 8B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11089 V 7120",
+        "id": "EFL - Sheffield UTD V Birmingham",
+        "key": "87 7C 23 26 49 28 02 73"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12533 H 15000",
+        "id": "ITV4 Speedway Final",
+        "key": "C1 2B 41 2D B3 D5 C2 4A"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10987 V 7200",
         "id": "SUI-44-3 main",
         "key": "15 08 FD 1A EA 79 31 94"
