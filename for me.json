@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11010 V 9875",
+        "id": "YLE",
+        "key": "85 82 C9 D0 8B 81 99 A5"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11212 V 9875",
         "id": "F510 European-aquatic-seine-MAIN",
