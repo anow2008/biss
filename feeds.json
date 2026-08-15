@@ -1,68 +1,74 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7500",
-        "id": "ENC 3",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11010 V 9875",
-        "id": "NEP-1 POL-142",
-        "key": "9F 9D 50 8C 48 A4 83 6F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11022 V 9875",
-        "id": "SLQ 008 M",
-        "key": "AB 5B E5 EB 3E 70 C6 74"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7120",
-        "id": "Pitch EFL - Wolverhampton v Blackburn",
-        "key": "E1 EF 24 F4 93 D2 61 C6"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11597 V 7200",
-        "id": "E-228 Main",
-        "key": "BC 20 26 02 08 14 CB E7"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11102 H 7200",
-        "id": "SNG 022 MAIN",
-        "key": "A6 B5 C4 1F D3 E2 F1 A6"
+        "frequency": "10978 H 7200",
+        "id": "F3-1 9MHz",
+        "key": "20 25 AE F3 EA 52 02 3E"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11212 V 9875",
-        "id": "F510 European-aquatic-seine-MAIN",
-        "key": "0C 87 7E 11 9D CF 55 C1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "IJF GP Lima Peru 2026 - Day 1",
-        "key": "14 08 BA D6 CA D1 B2 4D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10978 V 7200",
-        "id": "FRESHCORNER CUP",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "POL11_HARM",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 V 7200",
-        "id": "E-447 VIA 1",
+        "frequency": "11636 V 7200",
+        "id": "Fi11_GNVE",
         "key": "12 35 BD 04 A5 DA 42 C1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11628 V 7200",
+        "id": "Fi15_GNVE",
+        "key": "A2 BB 5A B7 F2 36 A2 CA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11186 V 7120",
+        "id": "Pre Season Friendlies - Brentford v Eintracht",
+        "key": "FE D3 AA 7B CC 15 08 E9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11088 V 7120",
+        "id": "EFL - Notts County v Leicester City",
+        "key": "2D D2 37 36 76 56 78 44"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11061 V 7120",
+        "id": "Pre Season Friendlies - Newcastle v Bayer Leverkusen",
+        "key": "DD AA F2 79 CC 15 08 E9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "GCUK Enc 10",
+        "key": "BB AA EE 53 DD 15 08 FA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11655 H 9875",
+        "id": "EST-010 ENC3 MXGP",
+        "key": "DE 62 9B DB 93 58 B3 9E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11687 H 9875",
+        "id": "ENC 8",
+        "key": "13 08 BA D5 BA 62 02 1E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11604 H 9875",
+        "id": "Fi14_GNVE",
+        "key": "E7 BD 99 3D 69 0D DB 51"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10996 V 7200",
+        "id": "PRIVATIF MAIN AFLE PRO AUS PARIS",
+        "key": "15 08 DB F8 FA 59 71 C4"
     }
 ]
