@@ -7,12 +7,6 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11010 V 9875",
-    "id": "YLE",
-    "key": "85 82 C9 D0 8B 81 99 A5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11597 V 7200",
     "id": "E-069 BK",
     "key": "15 08 20 3D 26 AA BB 8B"
