@@ -2,8 +2,8 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10987 V 7200",
-    "id": "SUI-44-4 bkp",
-    "key": "AB 5B E5 EB 3E 70 C6 74"
+    "id": "SUI-44-3 main",
+    "key": "15 08 FD 1A EA 79 31 94"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -13,15 +13,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 H 7120",
-    "id": "GCUK Enc 4",
+    "frequency": "10822 V 3670",
+    "id": "GCUK Enc 2",
     "key": "22 13 DD 12 CC 24 11 01"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10847 V 7200",
-    "id": "GCUK Enc 10",
-    "key": "BB AA EE 53 DD 15 08 FA"
+    "frequency": "10829 H 7120",
+    "id": "GCUK Enc 4",
+    "key": "22 13 DD 12 CC 24 11 01"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -67,6 +67,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11088 V 7120",
+    "id": "EFL - Notts County v Leicester City",
+    "key": "2D D2 37 36 76 56 78 44"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11186 V 7120",
     "id": "Pre Season Friendlies - Brentford v Eintracht",
     "key": "FE D3 AA 7B CC 15 08 E9"
@@ -79,7 +85,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11616 H 9875",
+    "frequency": "11615 H 9875",
     "id": "2Sat HOL318 Main MD2 M4",
     "key": "E7 BD 99 3D 69 0D DB 51"
   },
@@ -88,12 +94,6 @@
     "frequency": "11628 V 7200",
     "id": "Fi15_GNVE",
     "key": "A2 BB 5A B7 F2 36 A2 CA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 V 7200",
-    "id": "Fi11_GNVE",
-    "key": "12 35 BD 04 A5 DA 42 C1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -106,6 +106,12 @@
     "frequency": "12679 H 7500",
     "id": "ENC 3",
     "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12705 H 9875",
+    "id": "ENC 7",
+    "key": "26 BE BE A2 08 11 16 2F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
