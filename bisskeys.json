@@ -1,14 +1,14 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11058 H 2500",
-    "id": "ITA 689 M02 BK",
+    "frequency": "11141 H 10000",
+    "id": "UKI-1937 P1 SD",
     "key": "18 4B AC 0F 14 19 4D 7A E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11058 H 2500",
-    "id": "ITA 689 M02 BK",
+    "frequency": "11141 H 10000",
+    "id": "UKI-1937 P1 SD",
     "key": "18 4B AC 0F 14 19 4D 7A"
   },
   {
@@ -55,12 +55,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "B7 A7 29 87 38 4C 2C B0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12679 H 7500",
     "id": "ENC 3",
     "key": "F1 07 45 3D E6 CB AD 5E"
@@ -73,9 +67,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 08 92"
+    "frequency": "11019 V 4600",
+    "id": "AP LDN UPB",
+    "key": "C1 2B 41 2D B3 D5 C2 4A"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
