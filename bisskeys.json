@@ -14,7 +14,7 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7200",
-    "id": "EUT 7 Schalke vs Real Madrid",
+    "id": "Signal 8",
     "key": "9F 6E 3D 4A 2C 1B 8A D1"
   },
   {
@@ -67,32 +67,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11604 H 9875",
-    "id": "Fi14_GNVE",
-    "key": "FA 58 2B 7D F0 9A A0 2A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11628 V 7200",
-    "id": "Fi15_GNVE",
-    "key": "A2 BB 5A B7 F2 36 A2 CA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11637 V 7120",
     "id": "Pre Season Friendlies - Newcastle v RC Strausbourg",
     "key": "AA DD CC 53 2F 16 08 4D"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11154 H 7200",
-    "id": "British GT Cars Main",
-    "key": "FE BD 09 C4 46 3F 7C 01"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12512 H 9875",
-    "id": "Medialink CRO-024/1",
-    "key": "99 7F E1 F9 3F EF 76 A4"
+    "frequency": "10986 V 9600",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 08 92"
   }
 ]
