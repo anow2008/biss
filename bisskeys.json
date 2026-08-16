@@ -26,8 +26,14 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7200",
-    "id": "Signal 8",
+    "id": "EUT 7 Schalke vs Real Madrid",
     "key": "9F 6E 3D 4A 2C 1B 8A D1"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10822 V 3670",
+    "id": "GCUK Enc 11",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -55,7 +61,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "72 4C 9D 5B B4 33 93 7A"
   },
@@ -64,6 +70,12 @@
     "frequency": "11080 V 7120",
     "id": "EFL - Burnley v West Ham",
     "key": "65 47 AD 59 AA EE 33 CB"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11212 V 9875",
+    "id": "F510 European-aquatic-seine-MAIN",
+    "key": "FA 6F 14 7D 04 64 0D 75"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -84,20 +96,8 @@
     "key": "AA DD CC 53 2F 16 08 4D"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11654 H 9875",
-    "id": "EST-010 ENC3 MXGP",
-    "key": "DE 62 9B DB 93 58 B3 9E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11688 H 9875",
-    "id": "ENC 8",
-    "key": "13 08 BA D5 BA 62 02 1E"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11153 H 7200",
+    "frequency": "11154 H 7200",
     "id": "British GT Cars Main",
     "key": "FE BD 09 C4 46 3F 7C 01"
   },
