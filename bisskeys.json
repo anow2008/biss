@@ -1,20 +1,20 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 V 7200",
+    "id": "SLO-008 Tx 1",
+    "key": "16 08 BC DA EF 80 21 90"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10987 V 7200",
     "id": "ITA_560_Florence",
     "key": "16 08 BC DA EF 80 21 90"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11486 V 9875",
-    "id": "HOL-110 Main",
-    "key": "A7 3C 19 FC 87 91 C8 E0"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7200",
-    "id": "Signal 8",
+    "id": "Signal 7",
     "key": "9F 6E 3D 4A 2C 1B 8A D1"
   },
   {
