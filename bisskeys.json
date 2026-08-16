@@ -3,18 +3,18 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10960 V 7200",
     "id": "SLO-008 Tx 1",
-    "key": "16 08 BC DA EF 80 21 90"
+    "key": "85 82 C9 D0 8B 81 99 A5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10987 V 7200",
-    "id": "ITA_560_Florence",
-    "key": "16 08 BC DA EF 80 21 90"
+    "frequency": "11010 V 9875",
+    "id": "YLE",
+    "key": "85 82 C9 D0 8B 81 99 A5"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11606 V 7200",
-    "id": "Signal 7",
+    "id": "EUT 7 Schalke vs Real Madrid",
     "key": "9F 6E 3D 4A 2C 1B 8A D1"
   },
   {
