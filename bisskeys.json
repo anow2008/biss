@@ -1,21 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10964 V 14400",
-    "id": "NEP-1 POL-142",
-    "key": "9F 9D 50 8C 48 A4 83 6F"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 V 7200",
-    "id": "SLQ-010 M",
-    "key": "16 08 DE FC FB 12 97 A4"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11021 V 9875",
-    "id": "SLQ 008 M",
-    "key": "AB 5B E5 EB 3E 70 C6 74"
+    "frequency": "10987 V 7200",
+    "id": "ITA_560_Florence",
+    "key": "16 08 BC DA EF 80 21 90"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,39 +25,39 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11059 H 7200",
+    "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
     "key": "72 4C 9D 5B B4 33 91 78"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
+    "frequency": "11067 H 7200",
     "id": "IMG 2 EU",
     "key": "72 4C 9D 5B B4 33 93 7A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7120",
-    "id": "PITCH Watford v Southampton",
-    "key": "52 76 FD C5 43 42 3A BF"
+    "frequency": "11080 V 7120",
+    "id": "EFL - Burnley v West Ham",
+    "key": "65 47 AD 59 AA EE 33 CB"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -79,13 +67,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11616 H 9875",
+    "frequency": "11615 H 9875",
     "id": "2Sat HOL318 Main MD2 M4",
     "key": "FA 58 2B 7D F0 9A A0 2A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11627 V 7200",
+    "frequency": "11628 V 7200",
     "id": "Fi15_GNVE",
     "key": "A2 BB 5A B7 F2 36 A2 CA"
   },
@@ -103,21 +91,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11643 H 9875",
-    "id": "HOL311 MAIN 2",
-    "key": "48 C0 30 38 26 C8 46 34"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11655 H 9875",
+    "frequency": "11654 H 9875",
     "id": "EST-010 ENC3 MXGP",
     "key": "DE 62 9B DB 93 58 B3 9E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11686 H 9875",
-    "id": "ENC 8",
-    "key": "13 08 BA D5 BA 62 02 1E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -127,13 +103,13 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10978 H 7200",
-    "id": "F1-2 9MHz",
-    "key": "99 7F E1 F9 3F EF 76 A4"
+    "frequency": "11153 H 7200",
+    "id": "British GT Cars Main",
+    "key": "FE BD 09 C4 46 3F 7C 01"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12513 H 9875",
+    "frequency": "12512 H 9875",
     "id": "Medialink CRO-024/1",
     "key": "99 7F E1 F9 3F EF 76 A4"
   }
