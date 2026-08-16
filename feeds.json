@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12513 H 9875",
+        "id": "Medialink CRO-024/1",
+        "key": "99 7F E1 F9 3F EF 76 A4"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11607 V 7200",
         "id": "CZE-041_Czech Tour 2026-MAIN",
