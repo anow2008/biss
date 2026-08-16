@@ -52,11 +52,5 @@
         "frequency": "10964 V 14400",
         "id": "NEP 2  POL-142",
         "key": "9F 9D 50 8C 48 A4 83 6F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12512 H 9875",
-        "id": "Medialink CRO-024/1",
-        "key": "99 7F E1 F9 3F EF 76 A4"
     }
 ]
