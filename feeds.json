@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11687 H 9875",
+        "id": "ENC 8",
+        "key": "13 08 BA D5 BA 62 02 1E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11655 H 9875",
+        "id": "EST-010 ENC3 MXGP",
+        "key": "DE 62 9B DB 93 58 B3 9E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11604 H 9875",
+        "id": "Fi14_GNVE",
+        "key": "FA 58 2B 7D F0 9A A0 2A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "00 AC D2 7E 5B A7 31 33"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 33 91 78"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11021 V 9875",
+        "id": "SLQ 008 M",
+        "key": "AB 5B E5 EB 3E 70 C6 74"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12689 H 7200",
         "id": "IJF GP Lima Peru 2026 - Day 2",
         "key": "14 08 BA D6 CA D1 B2 4D"
@@ -16,41 +58,5 @@
         "frequency": "11212 V 9875",
         "id": "F510 European-aquatic-seine-MAIN",
         "key": "B7 A7 29 87 38 4C 2C B0"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11597 V 7200",
-        "id": "E-069 BK",
-        "key": "15 08 20 3D 26 AA BB 8B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12533 H 15000",
-        "id": "ITV4 Speedway Final",
-        "key": "C1 2B 41 2D B3 D5 C2 4A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12705 H 9875",
-        "id": "ENC 7",
-        "key": "26 BE BE A2 08 11 16 2F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10987 V 7200",
-        "id": "SUI-44-3 main",
-        "key": "15 08 FD 1A EA 79 31 94"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7500",
-        "id": "ENC 3",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10829 H 7120",
-        "id": "GCUK Enc 4",
-        "key": "22 13 DD 12 CC 24 11 01"
     }
 ]
