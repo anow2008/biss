@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11607 V 7200",
+        "id": "CZE-041_Czech Tour 2026-MAIN",
+        "key": "12 35 BD 04 A5 DA 42 C1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11643 H 9875",
+        "id": "HOL311 MAIN 2",
+        "key": "48 C0 30 38 26 C8 46 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11630 H 9875",
+        "id": "HOL311 MAIN",
+        "key": "B1 F6 56 FD B9 78 3D 6E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10997 V 7200",
         "id": "SLQ-010 M",
         "key": "16 08 DE FC FB 12 97 A4"
@@ -10,12 +28,6 @@
         "frequency": "10974 V 9600",
         "id": "POL-141 ENC1",
         "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11637 V 7200",
-        "id": "Fi11_GNVE",
-        "key": "12 35 BD 04 A5 DA 42 C1"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -52,29 +64,5 @@
         "frequency": "11136 H 7200",
         "id": "POL-100 Main",
         "key": "D1 00 AC 7D DC 16 08 FA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11212 V 9875",
-        "id": "F510 European-aquatic-seine-MAIN",
-        "key": "FA 6F 14 7D 04 64 0D 75"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7120",
-        "id": "PITCH EFL Highlights",
-        "key": "26 CC 33 25 59 E3 27 63"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11687 H 9875",
-        "id": "ENC 8",
-        "key": "13 08 BA D5 BA 62 02 1E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11655 H 9875",
-        "id": "EST-010 ENC3 MXGP",
-        "key": "DE 62 9B DB 93 58 B3 9E"
     }
 ]
