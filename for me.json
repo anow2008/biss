@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10987 V 7200",
+        "id": "ITA_560_Florence",
+        "key": "16 08 BC DA EF 80 21 90"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11080 V 7120",
+        "id": "EFL - Burnley v West Ham",
+        "key": "65 47 AD 59 AA EE 33 CB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11607 V 7200",
         "id": "EUT 7 Schalke vs Real Madrid",
         "key": "9F 6E 3D 4A 2C 1B 8A D1"
