@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11021 V 9875",
+        "id": "SLQ 008 M",
+        "key": "AB 5B E5 EB 3E 70 C6 74"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 33 91 78"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "00 AC D2 7E 5B A7 31 33"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11089 V 7120",
+        "id": "PITCH EFL Highlights",
+        "key": "26 CC 33 25 59 E3 27 63"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11212 V 9875",
+        "id": "F510 European-aquatic-seine-MAIN",
+        "key": "FA 6F 14 7D 04 64 0D 75"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11604 H 9875",
+        "id": "Fi14_GNVE",
+        "key": "FA 58 2B 7D F0 9A A0 2A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11655 H 9875",
+        "id": "EST-010 ENC3 MXGP",
+        "key": "DE 62 9B DB 93 58 B3 9E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11687 H 9875",
+        "id": "ENC 8",
+        "key": "13 08 BA D5 BA 62 02 1E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11136 H 7200",
+        "id": "POL-100 Main",
+        "key": "D1 00 AC 7D DC 16 08 FA"
+    }
+]
