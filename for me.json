@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11010 V 9875",
+        "id": "YLE",
+        "key": "85 82 C9 D0 8B 81 99 A5"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10987 V 7200",
         "id": "ITA_560_Florence",
         "key": "16 08 BC DA EF 80 21 90"
