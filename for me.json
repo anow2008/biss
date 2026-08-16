@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11088 V 7120",
+        "id": "PITCH Watford v Southampton",
+        "key": "52 76 FD C5 43 42 3A BF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11630 H 9875",
+        "id": "HOL311 MAIN",
+        "key": "B1 F6 56 FD B9 78 3D 6E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11643 H 9875",
+        "id": "HOL311 MAIN 2",
+        "key": "48 C0 30 38 26 C8 46 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11068 H 7200",
         "id": "IMG 2 EU",
         "key": "72 4C 9D 5B B4 33 93 7A"
