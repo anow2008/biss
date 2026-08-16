@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11080 V 7120",
+        "id": "EFL - Burnley v West Ham",
+        "key": "65 47 AD 59 AA EE 33 CB"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10987 V 7200",
+        "id": "ITA_560_Florence",
+        "key": "16 08 BC DA EF 80 21 90"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11486 V 9875",
+        "id": "HOL-110 Main",
+        "key": "A7 3C 19 FC 87 91 C8 E0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11089 V 7120",
         "id": "PITCH Watford v Southampton",
         "key": "52 76 FD C5 43 42 3A BF"
@@ -16,12 +34,6 @@
         "frequency": "11589 V 7200",
         "id": "E-228 Main",
         "key": "BC 20 26 02 08 16 CB E9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11485 V 11240",
-        "id": "Hol-110-Back-up-1",
-        "key": "A7 3C 19 FC 87 91 C8 E0"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -46,23 +58,5 @@
         "frequency": "11643 H 9875",
         "id": "HOL311 MAIN 2",
         "key": "48 C0 30 38 26 C8 46 34"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11631 H 9875",
-        "id": "HOL311 MAIN",
-        "key": "B1 F6 56 FD B9 78 3D 6E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10996 V 7200",
-        "id": "SLQ-010 M",
-        "key": "16 08 DE FC FB 12 97 A4"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "AB BA 26 8B DC AE 08 92"
     }
 ]
