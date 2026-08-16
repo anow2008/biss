@@ -3,13 +3,7 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10960 V 7200",
     "id": "SLO-008 Tx 1",
-    "key": "85 82 C9 D0 8B 81 99 A5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11010 V 9875",
-    "id": "YLE",
-    "key": "85 82 C9 D0 8B 81 99 A5"
+    "key": "9F 6E 3D 4A 2C 1B 8A D1"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -58,12 +52,6 @@
     "frequency": "11212 V 9875",
     "id": "F510 European-aquatic-seine-MAIN",
     "key": "FA 6F 14 7D 04 64 0D 75"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10965 V 4800",
-    "id": "POL-077 ENC-1",
-    "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
