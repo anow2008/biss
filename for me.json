@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11627 V 7200",
+        "id": "Fi15_GNVE",
+        "key": "A2 BB 5A B7 F2 36 A2 CA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 V 7120",
+        "id": "Pre Season Friendlies - Newcastle v RC Strausbourg",
+        "key": "AA DD CC 53 2F 16 08 4D"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10964 V 14400",
         "id": "NEP-1 POL-142",
