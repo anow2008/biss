@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11589 V 7200",
+        "id": "E-228 Main",
+        "key": "BC 20 26 02 08 16 CB E9"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11485 V 11240",
+        "id": "Hol-110-Back-up-1",
+        "key": "A7 3C 19 FC 87 91 C8 E0"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10965 V 14400",
+        "id": "NEP 2  POL-142",
+        "key": "9F 9D 50 8C 48 A4 83 6F"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12513 H 9875",
         "id": "Medialink CRO-024/1",
@@ -25,7 +43,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10997 V 7200",
+        "frequency": "10996 V 7200",
         "id": "SLQ-010 M",
         "key": "16 08 DE FC FB 12 97 A4"
     },
@@ -40,35 +58,5 @@
         "frequency": "11154 H 7200",
         "id": "British GT Cars Main",
         "key": "FE BD 09 C4 46 3F 7C 01"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11616 H 9875",
-        "id": "2Sat HOL318 Main MD2 M4",
-        "key": "FA 58 2B 7D F0 9A A0 2A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "BWF WF-A C1 BISS-1",
-        "key": "7B 3F 9A 54 2E 65 1C AF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10810 H 7200",
-        "id": "BWF WF-A C2 BISS-1",
-        "key": "B7 5E 29 3E C4 A8 31 9D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11597 V 7200",
-        "id": "main - E285",
-        "key": "15 08 20 3D 26 AA BB 8B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11136 H 7200",
-        "id": "POL-100 Main",
-        "key": "D1 00 AC 7D DC 16 08 FA"
     }
 ]
