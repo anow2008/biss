@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11010 V 9875",
         "id": "YLE",
@@ -52,11 +58,5 @@
         "frequency": "12512 H 9875",
         "id": "Medialink CRO-024/1",
         "key": "99 7F E1 F9 3F EF 76 A4"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 V 7200",
-        "id": "Signal 8",
-        "key": "9F 6E 3D 4A 2C 1B 8A D1"
     }
 ]
