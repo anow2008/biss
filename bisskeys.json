@@ -15,7 +15,13 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10802 H 7200",
     "id": "BWF WF-A C1 BISS-1",
-    "key": "82 E9 FE 69 97 52 16 FF"
+    "key": "7B 3F 9A 54 2E 65 1C AF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10810 H 7200",
+    "id": "BWF WF-A C2 BISS-1",
+    "key": "B7 5E 29 3E C4 A8 31 9D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -31,7 +37,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -49,20 +55,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7120",
-    "id": "PITCH EFL Highlights",
-    "key": "26 CC 33 25 59 E3 27 63"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 9875",
-    "id": "F510 European-aquatic-seine-MAIN",
-    "key": "FA 6F 14 7D 04 64 0D 75"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11604 H 9875",
     "id": "Fi14_GNVE",
+    "key": "FA 58 2B 7D F0 9A A0 2A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11616 H 9875",
+    "id": "2Sat HOL318 Main MD2 M4",
     "key": "FA 58 2B 7D F0 9A A0 2A"
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL49 EN1 Piekary Slaskie",
+    "frequency": "10978 H 7200",
+    "id": "F1-2 9MHz",
     "key": "D1 00 AC 7D DC 16 08 FA"
   },
   {
@@ -88,5 +88,11 @@
     "frequency": "11136 H 7200",
     "id": "POL-100 Main",
     "key": "D1 00 AC 7D DC 16 08 FA"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11154 H 7200",
+    "id": "British GT Cars Main",
+    "key": "FE BD 09 C4 46 3F 7C 01"
   }
 ]
