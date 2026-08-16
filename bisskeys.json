@@ -13,14 +13,20 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11597 V 7200",
-    "id": "main - E285",
-    "key": "15 08 20 3D 26 AA BB 8B"
+    "frequency": "11606 V 7200",
+    "id": "CZE-041_Czech Tour 2026-MAIN",
+    "key": "12 35 BD 04 A5 DA 42 C1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
+    "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
@@ -43,6 +49,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11088 V 7120",
+    "id": "PITCH Watford v Southampton",
+    "key": "52 76 FD C5 43 42 3A BF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11604 H 9875",
     "id": "Fi14_GNVE",
     "key": "FA 58 2B 7D F0 9A A0 2A"
@@ -55,9 +67,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 V 7200",
+    "frequency": "11630 H 9875",
+    "id": "HOL311 MAIN",
+    "key": "B1 F6 56 FD B9 78 3D 6E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11636 V 7200",
     "id": "Fi11_GNVE",
     "key": "12 35 BD 04 A5 DA 42 C1"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11643 H 9875",
+    "id": "HOL311 MAIN 2",
+    "key": "48 C0 30 38 26 C8 46 34"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -73,14 +97,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-141 ENC1",
+    "frequency": "10964 V 4800",
+    "id": "POL-077 ENC-1",
     "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11154 H 7200",
-    "id": "British GT Cars Main",
-    "key": "FE BD 09 C4 46 3F 7C 01"
+    "frequency": "10974 V 9600",
+    "id": "POL-141 ENC1",
+    "key": "AB BA 26 8B DC AE 08 92"
   }
 ]
