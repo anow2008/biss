@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10965 V 14400",
+    "frequency": "10964 V 14400",
     "id": "NEP-1 POL-142",
     "key": "9F 9D 50 8C 48 A4 83 6F"
   },
@@ -22,6 +22,12 @@
     "frequency": "11485 V 11240",
     "id": "Hol-110-Back-up-1",
     "key": "A7 3C 19 FC 87 91 C8 E0"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11589 V 7200",
+    "id": "E-228 Main",
+    "key": "BC 20 26 02 08 16 CB E9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -82,6 +88,12 @@
     "frequency": "11643 H 9875",
     "id": "HOL311 MAIN 2",
     "key": "48 C0 30 38 26 C8 46 34"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11655 H 9875",
+    "id": "EST-010 ENC3 MXGP",
+    "key": "DE 62 9B DB 93 58 B3 9E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
