@@ -1,9 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11044 H 7200",
-    "id": "E 73 MAIN",
+    "frequency": "10974 H 9600",
+    "id": "ITA624 M",
     "key": "5B 2A 1F A4 9E 8D 7C A7 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10974 H 9600",
+    "id": "ITA624 M",
+    "key": "5B 2A 1F A4 9E 8D 7C A7"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -46,5 +52,11 @@
     "frequency": "10974 V 9600",
     "id": "POL 48 ENC1",
     "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12546 H 7200",
+    "id": "E-228 Main",
+    "key": "AA BB 20 85 26 08 17 45"
   }
 ]
