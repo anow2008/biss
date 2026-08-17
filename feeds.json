@@ -1,15 +1,15 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11006 V 7500",
-        "id": "POL037 TVN24 BIA",
-        "key": "77 93 52 5C 99 08 86 27"
+        "frequency": "10965 V 4800",
+        "id": "POL-10 ENC1",
+        "key": "AB BA 26 8B DC AE 08 92"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-033 out1",
-        "key": "AB BA 26 8B DC AE 08 92"
+        "frequency": "11006 V 7500",
+        "id": "POL037 TVN24 BIA",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -21,7 +21,7 @@
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11059 H 7200",
         "id": "IMG 1 EU",
-        "key": "72 4C 9D 5B B4 33 94 7B"
+        "key": "72 4C 9D 5B B4 33 95 7C"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
