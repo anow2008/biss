@@ -43,6 +43,12 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
+    "id": "POL 48 ENC1",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
     "id": "POL-033 out1",
     "key": "AB BA 26 8B DC AE 08 92"
