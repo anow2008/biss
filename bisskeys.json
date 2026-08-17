@@ -13,9 +13,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11044 H 7200",
+    "frequency": "11043 H 7200",
     "id": "E394 MAIN",
     "key": "4A 1F 9E 07 8D 7C 6B 74"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11606 V 7500",
+    "id": "AFD",
+    "key": "C1 8A DA 25 14 B4 12 DA"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -58,11 +64,5 @@
     "frequency": "10974 V 9600",
     "id": "POL 48 ENC1",
     "key": "AB BA 26 8B DC AE 08 92"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12546 H 7200",
-    "id": "E-228 Main",
-    "key": "AA BB 20 85 26 08 17 45"
   }
 ]
