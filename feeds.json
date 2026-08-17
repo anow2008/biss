@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10810 H 7200",
+        "id": "BWF WF-A C2 BISS-1",
+        "key": "B7 5E 29 3E C4 A8 31 9D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "7B 3F 9A 54 2E 65 1C AF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12689 H 7200",
         "id": "IJF GP Lima Peru 2026 - Day 3",
         "key": "14 08 BA D6 CA D1 B2 4D"
@@ -34,23 +52,5 @@
         "frequency": "11486 V 9875",
         "id": "HOL-110 Main",
         "key": "A7 3C 19 FC 87 91 C8 E0"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7120",
-        "id": "PITCH Watford v Southampton",
-        "key": "52 76 FD C5 43 42 3A BF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11628 V 7200",
-        "id": "Fi15_GNVE",
-        "key": "A2 BB 5A B7 F2 36 A2 CA"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11588 V 7200",
-        "id": "E-228 Main",
-        "key": "BC 20 26 02 08 16 CB E9"
     }
 ]
