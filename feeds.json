@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 V 7500",
+        "id": "AFD",
+        "key": "C1 8A DA 25 14 B4 12 DA"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11089 V 7120",
         "id": "PITCH Cardiff v Wrexham",
@@ -19,7 +25,7 @@
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11044 H 7200",
+        "frequency": "11043 H 7200",
         "id": "E394 MAIN",
         "key": "4A 1F 9E 07 8D 7C 6B 74"
     },
@@ -34,11 +40,5 @@
         "frequency": "12546 H 7200",
         "id": "E-228 Main",
         "key": "AA BB 20 85 26 08 17 45"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
-        "id": "IMG 2 EU",
-        "key": "72 4C 9D 5B B4 33 93 7A"
     }
 ]
