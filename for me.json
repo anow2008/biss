@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12547 H 7200",
+        "id": "E379 MAIN",
+        "key": "AA BB 12 77 34 CC DD DD"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10802 H 7200",
         "id": "BWF WF-A C1 BISS-1",
