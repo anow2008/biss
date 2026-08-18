@@ -52,11 +52,5 @@
         "frequency": "11089 V 7120",
         "id": "PITCH Cardiff v Wrexham",
         "key": "63 4A CB 78 CB 32 A2 9F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10962 H 9600",
-        "id": "ITA624 M",
-        "key": "91 0B 46 E2 BA 30 91 7B"
     }
 ]
