@@ -13,6 +13,12 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 H 7200",
+    "id": "Medialink CRO-021/1",
+    "key": "20 25 AB F0 CD 20 26 13"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10968 V 15000",
     "id": "E363  FEEDA",
     "key": "CA DA 46 EA 58 DA CA FC"
@@ -61,7 +67,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11695 H 7200",
+    "frequency": "11694 H 7200",
     "id": "Recoleta (PAR) vs Boca Jrs. (ARG)  - INGLES EUROPA",
     "key": "4C B7 21 24 AD CB 78 F0"
   }
