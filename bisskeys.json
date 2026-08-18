@@ -40,5 +40,11 @@
     "frequency": "11006 V 7500",
     "id": "POLWAR018",
     "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12547 H 7200",
+    "id": "E379 MAIN",
+    "key": "AA BB 12 77 34 CC DD DD"
   }
 ]
