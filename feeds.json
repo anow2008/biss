@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12680 H 7200",
+        "id": "Universidad Catolica CHI vs Estudiantes de la Plata ARG - INGLES EUROPA",
+        "key": "DC B1 E4 71 3A DC BB D1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11694 H 7200",
         "id": "Recoleta PAR vs Boca Jrs. ARG  - INGLES EUROPA",
         "key": "4C B7 21 24 AD CB 78 F0"
