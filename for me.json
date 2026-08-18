@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "Independiente del Valle (ECU) vs Deportes Tolima (COL) - INGLES EUROPA",
+        "key": "B6 11 ED B4 B6 8A A1 E1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "Sao Paulo (BRA) vs Bolivar (BOL) - INGLES EUROPA",
+        "key": "45 A2 CB B2 76 CE DA 1E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "12680 H 7200",
         "id": "Universidad Catolica (CHI) vs Estudiantes de la Plata (ARG) - INGLES EUROPA",
         "key": "DC B1 E4 71 3A DC BB D1"
