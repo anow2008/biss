@@ -52,11 +52,5 @@
         "frequency": "10962 H 9600",
         "id": "ITA624 M",
         "key": "91 0B 46 E2 BA 30 91 7B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL 48 ENC1",
-        "key": "AB BA 26 8B DC AE 08 92"
     }
 ]
