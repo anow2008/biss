@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10968 V 15000",
+        "id": "E363  FEEDA",
+        "key": "CA DA 46 EA 58 DA CA FC"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11044 H 7200",
+        "id": "E394 MAIN",
+        "key": "F1 A2 B3 46 C4 D5 E6 7F"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10960 H 7200",
+        "id": "Medialink CRO-021/1",
+        "key": "20 25 AB F0 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10995 V 7500",
+        "id": "E363 FEEDB",
+        "key": "CA DA 46 EA 58 11 12 7B"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11039 H 4938",
         "id": "EBU 1 ENC",
@@ -22,17 +46,5 @@
         "frequency": "12547 H 7200",
         "id": "E379 MAIN",
         "key": "AA BB 12 77 34 CC DD DD"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11058 H 7200",
-        "id": "IMG 1 EU",
-        "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11067 H 7200",
-        "id": "IMG 2 EU",
-        "key": "72 4C 9D 5B B4 33 93 7A"
     }
 ]
