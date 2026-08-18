@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11611 V 9875",
+        "id": "Fi01_GBIV",
+        "key": "09 DE 42 29 04 76 49 C3"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10968 V 15000",
         "id": "E363  FEEDA",
@@ -40,11 +46,5 @@
         "frequency": "10997 V 7500",
         "id": "POL082 TVN WAW",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12547 H 7200",
-        "id": "E379 MAIN",
-        "key": "AA BB 12 77 34 CC DD DD"
     }
 ]
