@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10823 V 3670",
+        "id": "York Ebor Path 2..",
+        "key": "AD CB 97 0F 2A FE 33 5B"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11006 V 7500",
         "id": "POL023 TVN24 WAW P2",
@@ -52,35 +58,5 @@
         "frequency": "10802 H 7200",
         "id": "BWF WF-A C1 BISS-1",
         "key": "A1 9C 5E 9B 7B 34 2D DC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "Sao Paulo BRA vs Bolivar BOL - INGLES EUROPA",
-        "key": "45 A2 CB B2 76 CE DA 1E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "Independiente del Valle ECU vs Deportes Tolima COL - INGLES EUROPA",
-        "key": "B6 11 ED B4 B6 8A A1 E1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7200",
-        "id": "Universidad Catolica CHI vs Estudiantes de la Plata ARG - INGLES EUROPA",
-        "key": "DC B1 E4 71 3A DC BB D1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11694 H 7200",
-        "id": "Recoleta PAR vs Boca Jrs. ARG  - INGLES EUROPA",
-        "key": "4C B7 21 24 AD CB 78 F0"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7200",
-        "id": "Independiente Rivadavia ARG vs Fluminense BRA - INGLES EUROPA",
-        "key": "36 8A DF 9F CB 56 22 43"
     }
 ]
