@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11014 V 7200",
+        "id": "Unname",
+        "key": "C5 7E 68 AB FA ED 5A 41"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11608 H 7200",
         "id": "NLEMG HOL310-3",
@@ -32,7 +38,7 @@
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11059 H 7200",
-        "id": "IMG 1 EU",
+        "id": "Nexo Championship",
         "key": "B8 DC 25 B9 D8 DD B8 6D"
     },
     {
@@ -58,11 +64,5 @@
         "frequency": "11052 H 4938",
         "id": "EBU 3 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10810 H 7200",
-        "id": "BWF WF-A C2 BISS-1",
-        "key": "D9 3B 4E 62 7A 2F 61 0A"
     }
 ]
