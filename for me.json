@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 16A",
+        "frequency": "11190 H 7200",
+        "id": "TV MARKIZA",
+        "key": "52 52 DD 81 AA 41 AB 96"
+    },
+    {
+        "satellite": "Eutelsat 16A",
         "frequency": "12546 H 7200",
         "id": "E379 PRAL",
         "key": "AA BB 12 77 34 CC DD DD"
