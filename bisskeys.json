@@ -67,12 +67,6 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11019 V 4600",
-    "id": "AP LDN UPB",
-    "key": "52 52 DD 81 AA 41 AB 96"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11190 H 7200",
     "id": "TV MARKIZA",
     "key": "52 52 DD 81 AA 41 AB 96"
