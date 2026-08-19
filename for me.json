@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11695 H 7200",
+        "id": "Cerro Porte?o (PAR) vs Palmeiras (BRA)- INGLES EUROPA",
+        "key": "57 AD CB CF 78 22 33 CD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "Atl. Mineiro (BRA) vs RB Bragantino (BRA) - INGLES EUROPA",
+        "key": "6A F6 DC 3C F7 AD DE 82"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "Flamengo (BRA) vs Cruzeiro (BRA) - INGLES EUROPA",
+        "key": "DC 11 BC A9 67 AD FF 13"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "Montevideo City Torque (URU) vs Tigre (ARG) - INGLES EUROPA",
+        "key": "7F DA CB 24 55 DE E2 15"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7200",
+        "id": "River Plate (ARG) vs  Santa Fe (COL) - INGLES EUROPA",
+        "key": "CB 78 11 54 22 DC A4 A2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11685 H 7200",
         "id": "Coquimbo Unido (CHI) vs Platense (ARG) - INGLES EUROPA",
         "key": "25 AD CB 9D 77 ED A2 06"
