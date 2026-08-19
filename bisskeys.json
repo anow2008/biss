@@ -1,13 +1,19 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11024 V 7200",
+    "frequency": "11014 V 7200",
     "id": "Unname",
     "key": "A7 FC 1F C2 3B ED B6 DE E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11024 V 7200",
+    "frequency": "11014 V 7200",
+    "id": "Unname",
+    "key": "A7 FC 1F C2 3B ED B6 DE"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7200",
     "id": "Unname",
     "key": "A7 FC 1F C2 3B ED B6 DE"
   },
@@ -49,12 +55,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11059 H 7200",
-    "id": "IMG 1 EU",
-    "key": "B8 DC 25 B9 D8 DD B8 6D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "72 4C 9D 5B B4 33 93 7A"
@@ -79,7 +79,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10997 V 7500",
+    "frequency": "10996 V 7500",
     "id": "POL023 TVN24 WAW P1",
     "key": "77 93 52 5C 99 08 86 27"
   }
