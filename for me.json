@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 33 93 7A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11686 H 7200",
+        "id": "Independiente Rivadavia (ARG) vs Fluminense (BRA) - INGLES EUROPA",
+        "key": "36 8A DF 9F CB 56 22 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11694 H 7200",
+        "id": "Recoleta (PAR) vs Boca Jrs. (ARG)  - INGLES EUROPA",
+        "key": "4C B7 21 24 AD CB 78 F0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12680 H 7200",
+        "id": "Universidad Catolica (CHI) vs Estudiantes de la Plata (ARG) - INGLES EUROPA",
+        "key": "DC B1 E4 71 3A DC BB D1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "Independiente del Valle (ECU) vs Deportes Tolima (COL) - INGLES EUROPA",
+        "key": "B6 11 ED B4 B6 8A A1 E1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "Sao Paulo (BRA) vs Bolivar (BOL) - INGLES EUROPA",
+        "key": "45 A2 CB B2 76 CE DA 1E"
+    }
+]
