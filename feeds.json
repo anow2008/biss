@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11608 H 7200",
+        "id": "NLEMG HOL310-3",
+        "key": "E5 5B 14 54 AC EA 90 26"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11024 V 7200",
         "id": "Unname",
@@ -31,7 +37,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11611 V 9875",
+        "frequency": "11612 V 9875",
         "id": "ENC 7",
         "key": "CA 19 CA AD 08 02 60 6A"
     },
@@ -58,11 +64,5 @@
         "frequency": "10810 H 7200",
         "id": "BWF WF-A C2 BISS-1",
         "key": "D9 3B 4E 62 7A 2F 61 0A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "BWF WF-A C1 BISS-1",
-        "key": "A1 9C 5E 9B 7B 34 2D DC"
     }
 ]
