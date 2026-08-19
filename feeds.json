@@ -36,6 +36,12 @@
         "key": "A7 FC 1F C2 3B ED B6 DE"
     },
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12546 H 7200",
+        "id": "E379 PRAL",
+        "key": "AA BB 12 77 34 CC DD DD"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10823 V 3670",
         "id": "York Ebor Path 2..",
