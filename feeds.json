@@ -64,11 +64,5 @@
         "frequency": "10977 V 4800",
         "id": "pol-053_enc2",
         "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10997 V 7500",
-        "id": "POL082 TVN WAW",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
