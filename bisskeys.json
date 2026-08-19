@@ -13,6 +13,18 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "York Ebor Path 1.",
+    "key": "AD CB 97 0F 2A FE 33 5B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10823 V 3670",
+    "id": "York Ebor Path 2..",
+    "key": "AD CB 97 0F 2A FE 33 5B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11046 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
@@ -37,20 +49,26 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11213 V 7200",
-    "id": "Fi16_GNVE",
-    "key": "20 26 EA 30 EA 08 19 0B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11611 V 9875",
     "id": "ENC 7",
     "key": "CA 19 CA AD 08 02 60 6A"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
+    "frequency": "10971 V 4800",
+    "id": "POL-077 ENC-1",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10997 V 7500",
     "id": "POL023 TVN24 WAW P1",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11006 V 7500",
+    "id": "POL023 TVN24 WAW P2",
     "key": "77 93 52 5C 99 08 86 27"
   }
 ]
