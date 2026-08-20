@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 V 7200",
-    "id": "paok vs dran",
-    "key": "30 21 12 63 12 20 93 C5"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11043 H 7200",
     "id": "E394 MAIN",
     "key": "1E 4B 6F D8 22 9C 3B F9"
@@ -76,17 +70,5 @@
     "frequency": "12679 H 7400",
     "id": "TUR-062 B",
     "key": "ED 20 AA B7 8A 0E 26 BE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "20 CA E2 CC 02 60 81 E3"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 08 92"
   }
 ]
