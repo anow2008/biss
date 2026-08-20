@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 V 7200",
+        "id": "GCUK Enc 9",
+        "key": "CB AA 13 88 44 EE AA DC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11089 V 7120",
+        "id": "Pitch EFL - Sheffield Wed v Bradford",
+        "key": "22 90 FA AC 13 15 4D 75"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7400",
+        "id": "TUR-062 B",
+        "key": "ED 20 AA B7 8A 0E 26 BE"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11043 H 7200",
         "id": "E394 MAIN",
