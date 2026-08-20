@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11190 H 7200",
+        "id": "Flavia9-A",
+        "key": "FF 41 D0 10 82 0E 65 F5"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10960 V 7200",
         "id": "paok vs dran",
@@ -46,11 +52,5 @@
         "frequency": "10996 V 7500",
         "id": "POL037 TVN24 BIA",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 H 7200",
-        "id": "ita 81_A",
-        "key": "AB 12 CD 8A 24 EF 36 49"
     }
 ]
