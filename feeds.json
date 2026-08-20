@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 V 7200",
+        "id": "Unname",
+        "key": "84 CE BD 0F 00 5D C4 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "GCUK Enc 2",
+        "key": "4C 56 EE 90 BD BC 45 BE"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10823 V 3670",
         "id": "York Ebor Path 2..",
@@ -46,23 +58,5 @@
         "frequency": "10801 H 7200",
         "id": "BWF WF-A C1 BISS-1",
         "key": "F6 2A 81 A1 E4 93 7C F3"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "River Plate ARG vs  Santa Fe COL - INGLES EUROPA",
-        "key": "CB 78 11 54 22 DC A4 A2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "Montevideo City Torque URU vs Tigre ARG - INGLES EUROPA",
-        "key": "7F DA CB 24 55 DE E2 15"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "Flamengo BRA vs Cruzeiro BRA - INGLES EUROPA",
-        "key": "DC 11 BC A9 67 AD FF 13"
     }
 ]
