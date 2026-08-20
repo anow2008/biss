@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11686 H 7200",
+        "id": "Corinthians (BRA) vs Rosario Central (ARG) - INGLES EUROPA",
+        "key": "DF C5 67 0B 43 AD E3 D3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11694 H 7200",
+        "id": "Botafogo (BRA) vs Cienciano (PER) - INGLES EUROPA",
+        "key": "6C BA 2E 54 DF 11 55 45"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "12680 H 7200",
         "id": "L.D.U. Quito (ECU) vs Mirasol (BRA) - INGLES EUROPA",
         "key": "B6 7A DE 0E FF C3 AD 6F"
