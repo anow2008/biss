@@ -1,9 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10960 H 7200",
-    "id": "GCUK Enc 1",
-    "key": "00 4A 7F C9 3E 6E 1E CA"
+    "frequency": "10960 V 7200",
+    "id": "paok vs dran",
+    "key": "30 21 12 63 12 20 93 C5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12519 V 7200",
+    "id": "YSM-016 MAIN",
+    "key": "20 10 20 50 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -57,7 +63,13 @@
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10974 V 9600",
     "id": "POL-141 ENC1",
-    "key": "AF F0 BF 5E 76 05 D5 50"
+    "key": "20 CA E2 CC 02 60 81 E3"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10983 V 4800",
+    "id": "POL-52 CM-5000",
+    "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
