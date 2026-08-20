@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10829 H 7200",
+        "id": "SWE-043 MJA-SAL",
+        "key": "00 4A 7F C9 3E 6E 1E CA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11618 H 7200",
         "id": "NLEMG HOL310-1",
         "key": "FD 4D 64 AE 95 94 7D A6"
@@ -58,11 +64,5 @@
         "frequency": "11059 H 7200",
         "id": "Nexo Championship",
         "key": "B8 DC 25 B9 D8 DD B8 6D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10810 H 7200",
-        "id": "BWF WF-A C2 BISS-1",
-        "key": "65 C2 A8 CF F1 E9 34 0E"
     }
 ]
