@@ -7,13 +7,13 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11044 H 7200",
+    "frequency": "11043 H 7200",
     "id": "E394 MAIN",
     "key": "1E 4B 6F D8 22 9C 3B F9"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12519 V 7200",
+    "frequency": "12520 V 7200",
     "id": "YSM-016 MAIN",
     "key": "20 10 20 50 25 20 26 6B"
   },
@@ -88,11 +88,5 @@
     "frequency": "10986 V 9600",
     "id": "POL 030",
     "key": "AB BA 26 8B DC AE 08 92"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11190 H 7200",
-    "id": "Flavia9-A",
-    "key": "FF 41 D0 10 82 0E 65 F5"
   }
 ]
