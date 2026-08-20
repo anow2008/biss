@@ -64,17 +64,5 @@
         "frequency": "12689 H 7200",
         "id": "Flamengo BRA vs Cruzeiro BRA - INGLES EUROPA",
         "key": "DC 11 BC A9 67 AD FF 13"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7200",
-        "id": "Atl. Mineiro BRA vs RB Bragantino BRA - INGLES EUROPA",
-        "key": "6A F6 DC 3C F7 AD DE 82"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11685 H 7200",
-        "id": "Coquimbo Unido CHI vs Platense ARG - INGLES EUROPA",
-        "key": "25 AD CB 9D 77 ED A2 06"
     }
 ]
