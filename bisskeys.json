@@ -19,15 +19,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10828 H 7200",
-    "id": "SWE-043 MJA-SAL",
-    "key": "00 4A 7F C9 3E 6E 1E CA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10830 V 7200",
     "id": "GCUK Enc 10",
     "key": "A4 12 DB 91 C1 44 BA BF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 V 7200",
+    "id": "GCUK Enc 9",
+    "key": "CB AA 13 88 44 EE AA DC"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -61,9 +61,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11188 V 9875",
-    "id": "ita 390 A",
-    "key": "FE AF 97 44 89 12 F6 91"
+    "frequency": "11089 V 7120",
+    "id": "Pitch EFL - Sheffield Wed v Bradford",
+    "key": "22 90 FA AC 13 15 4D 75"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -72,10 +72,22 @@
     "key": "AF F0 BF 5E 76 05 D5 50"
   },
   {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12679 H 7400",
+    "id": "TUR-062 B",
+    "key": "ED 20 AA B7 8A 0E 26 BE"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10974 V 9600",
     "id": "POL-141 ENC1",
     "key": "20 CA E2 CC 02 60 81 E3"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL 030",
+    "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
