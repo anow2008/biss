@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10810 H 7200",
+        "id": "BWF WF-A C2 BISS-1",
+        "key": "65 C2 A8 CF F1 E9 34 0E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10801 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "F6 2A 81 A1 E4 93 7C F3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12707 H 7200",
         "id": "River Plate ARG vs  Santa Fe COL - INGLES EUROPA",
         "key": "CB 78 11 54 22 DC A4 A2"
@@ -46,23 +64,5 @@
         "frequency": "12509 V 4938",
         "id": "YSM-016 MAIN",
         "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11044 H 7200",
-        "id": "E 73 MAIN",
-        "key": "F2 A2 C6 5A C4 F5 A3 5C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11014 V 7200",
-        "id": "Unname",
-        "key": "C5 7E 68 AB FA ED 5A 41"
     }
 ]
