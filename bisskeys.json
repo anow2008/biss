@@ -6,12 +6,6 @@
     "key": "1E 4B 6F D8 22 9C 3B F9"
   },
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12520 V 7200",
-    "id": "YSM-016 MAIN",
-    "key": "20 10 20 50 25 20 26 6B"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10830 V 7200",
     "id": "GCUK Enc 10",
@@ -67,8 +61,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12679 H 7400",
-    "id": "TUR-062 B",
-    "key": "ED 20 AA B7 8A 0E 26 BE"
+    "frequency": "12680 H 7200",
+    "id": "L.D.U. Quito (ECU) vs Mirasol (BRA) - INGLES EUROPA",
+    "key": "B6 7A DE 0E FF C3 AD 6F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12689 H 7200",
+    "id": "Olimpia (PAR) vs Vasco Da Gama (BRA) - INGLES EUROPA",
+    "key": "88 77 DA D9 22 45 CF 36"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12698 H 7200",
+    "id": "Macara (ECU) vs Santos (BRA) - INGLES EUROPA",
+    "key": "B7 11 43 0B ED FC CD B6"
   }
 ]
