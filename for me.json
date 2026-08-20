@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11188 V 9875",
+        "id": "ita 390 A",
+        "key": "FE AF 97 44 89 12 F6 91"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10829 H 7200",
         "id": "SWE-043 MJA-SAL",
         "key": "00 4A 7F C9 3E 6E 1E CA"
