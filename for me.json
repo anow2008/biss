@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10801 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "3C 7B 1F D6 9E 5A 28 20"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10811 H 7200",
+        "id": "BWF WF-A C2 BISS-1",
+        "key": "A7 F6 39 D6 B2 D1 48 CB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "AD 57 BA BE 68 CF A7 DE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10830 V 7200",
         "id": "GCUK Enc 10",
         "key": "A4 12 DB 91 C1 44 BA BF"
