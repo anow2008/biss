@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11023 V 7200",
+        "id": "Unname",
+        "key": "7D E8 74 D9 81 41 10 D2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10819 V 3670",
+        "id": "York Ebor Path 1.",
+        "key": "AD CB 97 0F 2A FE 33 5B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10823 V 3670",
+        "id": "York Ebor Path 2..",
+        "key": "AD CB 97 0F 2A FE 33 5B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10847 V 7200",
+        "id": "CZE 001/1",
+        "key": "E5 2F FD 11 FD 08 21 26"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11213 V 7120",
+        "id": "One Boxing",
+        "key": "F1 9A B6 41 39 EC 26 4B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12526 H 7200",
+        "id": "SWE-043 EUROVOLLEY FRA-SLO",
+        "key": "E5 2F FC 10 DD 08 21 06"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10801 H 7200",
         "id": "BWF WF-A C1 BISS-1",
