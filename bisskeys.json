@@ -13,21 +13,15 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7200",
+    "id": "E-289",
+    "key": "21 08 20 49 26 FA CA EA"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12509 V 4938",
     "id": "BIH007 M",
     "key": "20 10 20 50 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "TUR122A",
-    "key": "E5 2F FC 10 FD 08 21 26"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 V 7200",
-    "id": "TUR 143 A",
-    "key": "4D 68 4F 04 56 93 DE C7"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -79,19 +73,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11642 H 9875",
-    "id": "D-408 ENC3",
-    "key": "37 40 D3 4A 77 0A 8E 0F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11677 H 7200",
+    "frequency": "11676 H 7200",
     "id": "ITA 560_vicenza b",
     "key": "BC 01 20 DD 26 21 08 4F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11685 H 7200",
+    "frequency": "11686 H 7200",
     "id": "Giochi Mediterraneo",
     "key": "26 AA 20 F0 21 08 AA D3"
   },
@@ -109,20 +97,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12689 H 7200",
-    "id": "ENC 6",
-    "key": "4E 87 FB D0 8D DE 62 CD"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12698 H 7200",
     "id": "ENC 7",
     "key": "AA 41 6F 5A FF A8 9E 45"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10971 V 4800",
-    "id": "POL-52 CM-5000",
+    "frequency": "10974 V 9600",
+    "id": "POL-111",
     "key": "AB BA 26 8B DC AE 08 92"
   },
   {
@@ -142,11 +124,5 @@
     "frequency": "12512 H 9875",
     "id": "Medialink CRO-021/1",
     "key": "3E 6C A3 4D D8 F4 F8 C4"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12524 H 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 08 92"
   }
 ]
