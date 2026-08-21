@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11213 V 7120",
+        "id": "One Boxing",
+        "key": "F1 9A B6 41 39 EC 26 4B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11023 V 7200",
+        "id": "Unname",
+        "key": "7D E8 74 D9 81 41 10 D2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10847 V 7200",
+        "id": "CZE 001/1",
+        "key": "E5 2F FD 11 FD 08 21 26"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10829 V 7200",
         "id": "GCUK Enc 10",
         "key": "A4 12 DB 91 C1 44 BA BF"
@@ -25,7 +43,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
+        "frequency": "11052 H 4938",
         "id": "EBU 3 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
     },
@@ -52,17 +70,5 @@
         "frequency": "12698 H 7200",
         "id": "Macara ECU vs Santos BRA - INGLES EUROPA",
         "key": "B7 11 43 0B ED FC CD B6"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "Olimpia PAR vs Vasco Da Gama BRA - INGLES EUROPA",
-        "key": "88 77 DA D9 22 45 CF 36"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL 030",
-        "key": "AB BA 26 8B DC AE 08 92"
     }
 ]
