@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9875",
+        "id": "ENC 1",
+        "key": "CA 19 CA AD 08 02 60 6A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11676 H 7200",
+        "id": "ITA 560_vicenza b",
+        "key": "BC 01 20 DD 26 21 08 4F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12526 H 7200",
+        "id": "SWE-043 EUROVOLLEY SWE-MON",
+        "key": "E5 2F FE 12 DD 08 21 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "ENC 7",
+        "key": "AA 41 6F 5A FF A8 9E 45"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11185 H 14400",
+        "id": "E414 SUPER FEED3 JAVELIN",
+        "key": "11 DE 30 1F C2 AC E7 55"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10830 V 7200",
         "id": "TUR122B",
         "key": "E5 2F FC 10 FD 08 21 26"
