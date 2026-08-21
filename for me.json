@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11609 H 7200",
+        "id": "NLEMG HOL310-3",
+        "key": "E5 5B 14 54 AC EA 90 26"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11618 H 7200",
+        "id": "NLEMG HOL310-1",
+        "key": "FD 4D 64 AE 95 94 7D A6"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11023 V 7200",
         "id": "Unname",
