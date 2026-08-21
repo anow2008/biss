@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 16A",
+        "frequency": "10977 V 4800",
+        "id": "POL-110",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat 16A",
         "frequency": "12537 H 7200",
         "id": "Fi16_GNVE",
         "key": "DF 4C 0F 3A 8F 20 2A D9"
