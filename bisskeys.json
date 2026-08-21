@@ -1,5 +1,23 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10960 H 7200",
+    "id": "ita 81_A",
+    "key": "AB 12 CD 8A 24 EF 36 49"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10969 H 7200",
+    "id": "ita _81B",
+    "key": "AB 12 CD 8A 24 EF 40 53"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12509 V 4938",
+    "id": "BIH007 M",
+    "key": "20 10 20 50 25 20 26 6B"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10830 V 7200",
     "id": "TUR122A",
@@ -73,6 +91,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11685 H 7200",
+    "id": "Giochi Mediterraneo",
+    "key": "26 AA 20 F0 21 08 AA D3"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12526 H 7200",
     "id": "SWE-043 EUROVOLLEY SWE-MON",
     "key": "E5 2F FE 12 DD 08 21 06"
@@ -103,6 +127,12 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11172 H 7200",
+    "id": "E414 WORLD FEED MAIN LAUSSANE",
+    "key": "66 A5 5A 65 35 3A 70 DF"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11185 H 14400",
     "id": "E414 SUPER FEED3 JAVELIN",
     "key": "11 DE 30 1F C2 AC E7 55"
@@ -118,11 +148,5 @@
     "frequency": "12524 H 9600",
     "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 08 92"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12537 H 7200",
-    "id": "Fi16_GNVE",
-    "key": "DF 4C 0F 3A 8F 20 2A D9"
   }
 ]
