@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "Fi16_GNVE",
+        "key": "DF 4C 0F 3A 8F 20 2A D9"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10847 V 7200",
         "id": "CZE 001/1",
