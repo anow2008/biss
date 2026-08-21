@@ -49,7 +49,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
+    "frequency": "11059 H 7200",
     "id": "IMG 1 EU",
     "key": "96 73 D8 E1 0A 84 E1 6F"
   },
@@ -67,9 +67,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11630 H 9875",
-    "id": "D-408 ENC1",
-    "key": "5D 1D AF 29 5E A2 85 85"
+    "frequency": "11656 H 7200",
+    "id": "SAU-031-A",
+    "key": "F4 F0 FF E3 2F 8C 95 50"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -79,15 +79,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11686 H 7200",
+    "frequency": "11685 H 7200",
     "id": "Giochi Mediterraneo",
     "key": "26 AA 20 F0 21 08 AA D3"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12526 H 7200",
-    "id": "SWE-043 EUROVOLLEY SWE-MON",
-    "key": "E5 2F FE 12 DD 08 21 06"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -118,11 +112,5 @@
     "frequency": "11185 H 14400",
     "id": "E414 SUPER FEED3 JAVELIN",
     "key": "11 DE 30 1F C2 AC E7 55"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12512 H 9875",
-    "id": "Medialink CRO-021/1",
-    "key": "3E 6C A3 4D D8 F4 F8 C4"
   }
 ]
