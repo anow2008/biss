@@ -19,19 +19,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10811 H 7200",
-    "id": "BWF WF-A C2 BISS-1",
-    "key": "A7 F6 39 D6 B2 D1 48 CB"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10819 V 3670",
     "id": "York Ebor Path 1.",
     "key": "AD CB 97 0F 2A FE 33 5B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10823 V 3670",
+    "frequency": "10822 V 3670",
     "id": "York Ebor Path 2..",
     "key": "AD CB 97 0F 2A FE 33 5B"
   },
@@ -43,13 +37,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10847 V 7200",
+    "frequency": "10848 V 7200",
     "id": "CZE 001/1",
     "key": "E5 2F FC 10 AD 08 21 D6"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -85,13 +79,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11618 H 7200",
+    "frequency": "11617 H 7200",
     "id": "NLEMG HOL310-1",
     "key": "FD 4D 64 AE 95 94 7D A6"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11631 H 9875",
+    "frequency": "11630 H 9875",
     "id": "D-408 ENC1",
     "key": "5D 1D AF 29 5E A2 85 85"
   },
@@ -115,9 +109,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11013 V 4600",
-    "id": "AP LDN UPA",
-    "key": "DF 4C 0F 3A 8F 20 2A D9"
+    "frequency": "10977 V 4800",
+    "id": "POL-110",
+    "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
