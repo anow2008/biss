@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10829 V 7200",
+        "id": "GCUK Enc 10",
+        "key": "A4 12 DB 91 C1 44 BA BF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12526 H 7200",
+        "id": "SWE-043 EUROVOLLEY FRA-SLO",
+        "key": "E5 2F FC 10 DD 08 21 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10823 V 3670",
+        "id": "York Ebor Path 2..",
+        "key": "AD CB 97 0F 2A FE 33 5B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "AD 57 BA BE 68 CF A7 DE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10811 H 7200",
+        "id": "BWF WF-A C2 BISS-1",
+        "key": "A7 F6 39 D6 B2 D1 48 CB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10801 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "3C 7B 1F D6 9E 5A 28 20"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11686 H 7200",
         "id": "Corinthians BRA vs Rosario Central ARG - INGLES EUROPA",
         "key": "DF C5 67 0B 43 AD E3 D3"
@@ -22,47 +64,5 @@
         "frequency": "10986 V 9600",
         "id": "POL 030",
         "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "GCUK Enc 9",
-        "key": "CB AA 13 88 44 EE AA DC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7120",
-        "id": "Pitch EFL - Sheffield Wed v Bradford",
-        "key": "22 90 FA AC 13 15 4D 75"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11043 H 7200",
-        "id": "E394 MAIN",
-        "key": "1E 4B 6F D8 22 9C 3B F9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "GCUK Enc 10",
-        "key": "A4 12 DB 91 C1 44 BA BF"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11190 H 7200",
-        "id": "Flavia9-A",
-        "key": "FF 41 D0 10 82 0E 65 F5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10960 V 7200",
-        "id": "paok vs dran",
-        "key": "30 21 12 63 12 20 93 C5"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "20 CA E2 CC 02 60 81 E3"
     }
 ]
