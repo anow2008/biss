@@ -18,6 +18,18 @@
     "key": "00 53 56 A9 61 61 61 23"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11166 V 7200",
+    "id": "Globecast 333 SNG",
+    "key": "06 15 EE 09 DC 20 26 22"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11287 V 7200",
+    "id": "BEL68 - Enc.2 - ELMS",
+    "key": "06 15 EE 09 DC 20 26 22"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10803 H 9875",
     "id": "CBC SP0RT M1",
@@ -25,7 +37,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11039 H 4938",
+    "frequency": "11040 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -43,9 +55,27 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11067 H 7200",
+    "id": "Fi13_GNVE",
+    "key": "22 B3 11 E6 AE DC C8 52"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11188 V 9875",
     "id": "ita 390 A",
     "key": "DD 80 4E AB F7 42 36 6F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11609 H 7200",
+    "id": "NLEMG HOL310-3",
+    "key": "E5 5B 14 54 AC EA 90 26"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11618 H 7200",
+    "id": "NLEMG HOL310-1",
+    "key": "FD 4D 64 AE 95 94 7D A6"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -55,15 +85,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11654 H 9875",
-    "id": "Fi14_GNVE",
-    "key": "10 F6 FB 01 15 F3 53 5B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11667 H 7200",
     "id": "TUR 143 A",
     "key": "DE 28 EF F5 EA 75 89 E8"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11677 H 7200",
+    "id": "ITA477",
+    "key": "B2 2B 08 E5 26 2B B0 01"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
