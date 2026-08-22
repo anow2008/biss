@@ -3,13 +3,25 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10960 H 7200",
     "id": "GCUK Enc 1",
-    "key": "22 08 AE D8 BA 75 24 53"
+    "key": "BC 01 20 DD 26 21 08 4F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 V 7200",
-    "id": "AFLE Berlin",
-    "key": "22 08 AE D8 BA 75 24 53"
+    "frequency": "10962 V 9600",
+    "id": "ITA_609_A",
+    "key": "BC 01 20 DD 26 21 08 4F"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10969 H 7200",
+    "id": "E-228 Main",
+    "key": "BC 20 26 02 08 22 CB F5"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10974 V 9600",
+    "id": "ITA_609_B",
+    "key": "BC 01 20 DD 26 21 08 4F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,9 +31,9 @@
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "Unname",
-    "key": "AE 65 54 67 B6 AB E7 48"
+    "frequency": "11487 V 7200",
+    "id": "AEK VS IRAKLIS",
+    "key": "3F AA E7 D0 1B A8 51 14"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -103,7 +115,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11676 H 7200",
+    "frequency": "11677 H 7200",
     "id": "ITA477",
     "key": "B2 2B 08 E5 26 2B B0 01"
   },
@@ -117,7 +129,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12544 H 7200",
     "id": "CZE 001/1",
-    "key": "D0 82 2E 80 52 FF DE 2F"
+    "key": "D0 82 2E 80 52 FF DF 30"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -145,15 +157,15 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 H 7200",
-    "id": "F7-2 4.5MH",
-    "key": "3F FC 47 82 4D 22 B0 1F"
+    "frequency": "10965 V 4800",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11164 H 9875",
-    "id": "HOL311 MAIN",
-    "key": "3F FC 47 82 4D 22 B0 1F"
+    "frequency": "11005 V 7500",
+    "id": "POL037 TVN24 BIA",
+    "key": "77 93 52 5C 99 08 86 27"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
