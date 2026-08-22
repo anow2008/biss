@@ -1,9 +1,9 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11005 V 7200",
-    "id": "D-473",
-    "key": "22 08 CB F5 DD 58 70 A5"
+    "frequency": "11023 V 7500",
+    "id": "AFD",
+    "key": "82 81 A2 A5 21 B1 4D 1F E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -37,7 +37,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
+    "frequency": "11059 H 7200",
     "id": "IMG 1 EU",
     "key": "77 A7 52 70 C2 39 82 7D"
   },
@@ -49,14 +49,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 V 7200",
+    "frequency": "11610 V 7200",
     "id": "Fi ENC ITRAI",
     "key": "8D CB 15 6D 1E C9 0D F4"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
-    "id": "POL037 TVN24 BIA",
-    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
