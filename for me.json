@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12512 H 9875",
+        "id": "Medialink CRO-021/1",
+        "key": "68 93 42 3D C7 D3 FE 98"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12510 V 7500",
         "id": "SNG_2 B",
