@@ -79,7 +79,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11086 V 9875",
+    "frequency": "11087 V 9875",
     "id": "GVA_Fi01",
     "key": "05 AA 70 1F 74 01 1B 90"
   },
@@ -145,12 +145,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12583 V 7200",
-    "id": "BWF WF-A C1 BISS-1",
-    "key": "E4 8D 2A 9B 96 1F B7 6C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12680 H 7200",
     "id": "ENC 8",
     "key": "3E A9 6F 56 28 B5 3A 17"
@@ -169,14 +163,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
-    "id": "POL037 TVN24 BIA",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "10974 V 9600",
+    "id": "POL-110",
+    "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12512 H 9875",
-    "id": "Medialink CRO-021/1",
-    "key": "68 93 42 3D C7 D3 FE 98"
+    "frequency": "11005 V 7500",
+    "id": "POL037 TVN24 BIA",
+    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
