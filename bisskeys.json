@@ -1,5 +1,23 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 V 7200",
+    "id": "AFLE Berlin",
+    "key": "00 53 56 A9 61 61 61 23 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10996 V 7200",
+    "id": "AFLE Berlin",
+    "key": "00 53 56 A9 61 61 61 23"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12510 V 7500",
+    "id": "SNG_2 B",
+    "key": "00 53 56 A9 61 61 61 23"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10803 H 9875",
     "id": "CBC SP0RT M1",
@@ -31,6 +49,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11637 V 7120",
+    "id": "EFL West Ham v Charlton",
+    "key": "BA CE 24 AC 55 24 D3 4C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11654 H 9875",
     "id": "Fi14_GNVE",
     "key": "10 F6 FB 01 15 F3 53 5B"
@@ -58,5 +82,35 @@
     "frequency": "12553 H 7200",
     "id": "SWE-043 EUROVOLLEY POOL D",
     "key": "D0 82 2E 80 52 FF FD 4E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12583 V 7200",
+    "id": "BWF WF-A C1 BISS-1",
+    "key": "E4 8D 2A 9B 96 1F B7 6C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10965 V 4800",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "POL-110",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11164 H 9875",
+    "id": "HOL311 MAIN",
+    "key": "3F FC 47 82 4D 22 B0 1F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12537 H 7200",
+    "id": "Fi16_GNVE",
+    "key": "DF 4C 0F 3A 8F 20 2A D9"
   }
 ]
