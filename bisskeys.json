@@ -3,13 +3,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10996 V 7200",
     "id": "AFLE Berlin",
-    "key": "00 53 56 A9 61 61 61 23 E"
+    "key": "22 08 AE D8 BA 75 24 53"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10996 V 7200",
-    "id": "AFLE Berlin",
-    "key": "00 53 56 A9 61 61 61 23"
+    "frequency": "11023 V 7200",
+    "id": "Unname",
+    "key": "AE 65 54 67 B6 AB E7 48"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,13 +19,13 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11166 V 7200",
+    "frequency": "11167 V 7200",
     "id": "Globecast 333 SNG",
-    "key": "06 15 EE 09 DC 20 26 22"
+    "key": "E1 36 F0 07 86 C6 26 72"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11287 V 7200",
+    "frequency": "11288 V 7200",
     "id": "BEL68 - Enc.2 - ELMS",
     "key": "06 15 EE 09 DC 20 26 22"
   },
@@ -79,9 +79,27 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11630 H 9875",
+    "id": "Trier-Leipzig Basis",
+    "key": "EC 98 3B BF 1A A8 BC 7E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11637 V 7120",
     "id": "EFL West Ham v Charlton",
     "key": "BA CE 24 AC 55 24 D3 4C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11642 H 9875",
+    "id": "Trier-Leipzig SKY",
+    "key": "37 40 D3 4A 77 0A 8E 0F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11654 H 9875",
+    "id": "Fi14_GNVE",
+    "key": "10 F6 FB 01 15 F3 53 5B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -109,15 +127,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "id": "SWE-043 EUROVOLLEY POOL D",
-    "key": "D0 82 2E 80 52 FF FD 4E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12583 V 7200",
     "id": "BWF WF-A C1 BISS-1",
     "key": "E4 8D 2A 9B 96 1F B7 6C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12689 H 7200",
+    "id": "ENC 7",
+    "key": "FC 82 BB 39 F6 22 26 3E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
