@@ -51,7 +51,13 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Enc 11",
-    "key": "82 E9 FE 69 97 52 16 FF"
+    "key": "01 36 24 5B 98 7E 62 78"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10828 H 7200",
+    "id": "TANDBERG",
+    "key": "01 36 24 5B 98 7E 62 78"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -73,9 +79,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
+    "frequency": "11059 H 7200",
     "id": "IMG 1 EU",
-    "key": "B8 DC 25 B9 D8 DD B8 6D"
+    "key": "77 A7 52 70 C2 39 82 7D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -97,6 +103,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11200 V 9875",
+    "id": "D-408 ENC1",
+    "key": "FF 45 6B AF E5 00 6F 54"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11630 H 9875",
     "id": "Trier-Leipzig Basis",
     "key": "EC 98 3B BF 1A A8 BC 7E"
@@ -115,12 +127,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11667 H 7200",
-    "id": "TUR 143 A",
-    "key": "E4 79 7C D9 93 7A 8B 98"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11677 H 7200",
     "id": "ITA477",
     "key": "B2 2B 08 E5 26 2B B0 01"
@@ -130,12 +136,6 @@
     "frequency": "11686 H 7500",
     "id": "ENC 14",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12535 H 7200",
-    "id": "TUR122A",
-    "key": "D0 82 2E 80 52 FF DE 2F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
