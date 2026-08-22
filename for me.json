@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11014 V 7200",
+        "id": "SLQ 008",
+        "key": "22 08 FE 28 FF 98 72 09"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11667 H 7200",
+        "id": "TUR 143 A",
+        "key": "E4 79 7C D9 93 7A 8B 98"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12553 H 7200",
+        "id": "SWE-043 EUROVOLLEY POOL D",
+        "key": "D0 82 2E 80 52 FF AC FD"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "12680 H 7200",
         "id": "ENC 8",
