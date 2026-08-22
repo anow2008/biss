@@ -1,50 +1,68 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11656 H 7200",
-        "id": "SAU-031-A",
-        "key": "F4 F0 FF E3 2F 8C 95 50"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-111",
+        "frequency": "10973 V 9600",
+        "id": "POL-110",
         "key": "AB BA 26 8B DC AE 08 92"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7200",
-        "id": "Giochi Mediterraneo",
-        "key": "26 AA 20 F0 21 08 AA D3"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10959 H 7200",
-        "id": "ita 81_A",
-        "key": "AB 12 CD 8A 24 EF 36 49"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12509 V 4938",
-        "id": "BIH007 M",
-        "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10969 H 7200",
-        "id": "ita _81B",
-        "key": "AB 12 CD 8A 24 EF 40 53"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12537 H 7200",
+        "id": "Fi16_GNVE",
+        "key": "DF 4C 0F 3A 8F 20 2A D9"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11172 H 7200",
-        "id": "E414 WORLD FEED MAIN LAUSSANE",
-        "key": "66 A5 5A 65 35 3A 70 DF"
+        "frequency": "11164 H 9875",
+        "id": "HOL311 MAIN",
+        "key": "3F FC 47 82 4D 22 B0 1F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "E4 8D 2A 9B 96 1F B7 6C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11637 V 7120",
+        "id": "EFL West Ham v Charlton",
+        "key": "BA CE 24 AC 55 24 D3 4C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11188 V 9875",
+        "id": "ita 390 A",
+        "key": "DD 80 4E AB F7 42 36 6F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12553 H 7200",
+        "id": "SWE-043 EUROVOLLEY POOL D",
+        "key": "D0 82 2E 80 52 FF FD 4E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12535 H 7200",
+        "id": "TUR122A",
+        "key": "D0 82 2E 80 52 FF BD 0E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12544 H 7200",
+        "id": "CZE 001/1",
+        "key": "D0 82 2E 80 52 FF DE 2F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11667 H 7200",
+        "id": "TUR 143 A",
+        "key": "DE 28 EF F5 EA 75 89 E8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11654 H 9875",
+        "id": "Fi14_GNVE",
+        "key": "10 F6 FB 01 15 F3 53 5B"
     }
 ]
