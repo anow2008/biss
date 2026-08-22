@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "77 A7 52 70 C2 39 82 7D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10828 H 7200",
         "id": "TANDBERG",
         "key": "01 36 24 5B 98 7E 62 78"
