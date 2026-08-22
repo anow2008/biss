@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11086 V 9875",
+        "id": "GVA_Fi01",
+        "key": "05 AA 70 1F 74 01 1B 90"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11685 H 7500",
         "id": "ENC 14",
         "key": "F1 07 45 3D E6 CB AD 5E"
@@ -76,17 +82,5 @@
         "frequency": "11023 V 7200",
         "id": "Unname",
         "key": "AE 65 54 67 B6 AB E7 48"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11190 H 7200",
-        "id": "ITA 274 DL MUX S1 MAIN",
-        "key": "8D 10 4D EA 5C D8 49 7D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12512 H 9875",
-        "id": "Medialink CRO-021/1",
-        "key": "68 93 42 3D C7 D3 FE 98"
     }
 ]
