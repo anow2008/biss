@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11067 H 7200",
+        "id": "Fi13_GNVE",
+        "key": "22 B3 11 E6 AE DC C8 52"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11676 H 7200",
+        "id": "ITA477",
+        "key": "B2 2B 08 E5 26 2B B0 01"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11618 H 7200",
+        "id": "NLEMG HOL310-1",
+        "key": "FD 4D 64 AE 95 94 7D A6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11609 H 7200",
+        "id": "NLEMG HOL310-3",
+        "key": "E5 5B 14 54 AC EA 90 26"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11287 V 7200",
+        "id": "BEL68 - Enc.2 - ELMS",
+        "key": "06 15 EE 09 DC 20 26 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12510 V 7500",
+        "id": "SNG_2 B",
+        "key": "00 53 56 A9 61 61 61 23"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10973 V 9600",
         "id": "POL-110",
@@ -40,29 +76,5 @@
         "frequency": "12553 H 7200",
         "id": "SWE-043 EUROVOLLEY POOL D",
         "key": "D0 82 2E 80 52 FF FD 4E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12535 H 7200",
-        "id": "TUR122A",
-        "key": "D0 82 2E 80 52 FF BD 0E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12544 H 7200",
-        "id": "CZE 001/1",
-        "key": "D0 82 2E 80 52 FF DE 2F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7200",
-        "id": "TUR 143 A",
-        "key": "DE 28 EF F5 EA 75 89 E8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11654 H 9875",
-        "id": "Fi14_GNVE",
-        "key": "10 F6 FB 01 15 F3 53 5B"
     }
 ]
