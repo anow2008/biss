@@ -1,35 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "PRIVATIF MAIN AFLE PRO AUS PARIS",
-    "key": "23 08 BE E9 FE 98 49 DF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11023 V 7200",
-    "id": "E-404",
-    "key": "23 08 20 4B 26 AD 26 F9"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12510 V 7500",
-    "id": "SNG_2 A",
-    "key": "00 53 56 A9 61 61 61 23"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12517 V 4938",
-    "id": "YSM-016 MAIN",
-    "key": "20 10 20 50 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11288 V 7200",
-    "id": "BEL68 - Enc.2 - ELMS",
-    "key": "06 15 EE 09 DC 20 26 22"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10801 H 7200",
     "id": "BWF WF-A C1 BISS-1",
@@ -124,11 +94,5 @@
     "frequency": "12689 H 7200",
     "id": "ENC 14",
     "key": "72 4C 9D 5B B4 34 01 E9"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12513 H 9875",
-    "id": "Medialink CRO-021/1",
-    "key": "1C FF 0F 2A 03 91 A8 3C"
   }
 ]
