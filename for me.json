@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "ENC 14",
+        "key": "72 4C 9D 5B B4 34 01 E9"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "12517 V 4938",
         "id": "YSM-016 MAIN",
