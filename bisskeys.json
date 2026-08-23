@@ -127,38 +127,8 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10964 V 4800",
-    "id": "POL49 EN1 Zbroslawice",
-    "key": "AB BA 26 8B DC AE 08 92"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 08 92"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11127 H 7200",
-    "id": "E-289",
-    "key": "AA BB 20 85 26 08 23 51"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11153 H 9875",
-    "id": "HOL311 MAIN",
-    "key": "3F FC 47 82 4D 22 B0 1F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12513 H 9875",
     "id": "Medialink CRO-021/1",
     "key": "1C FF 0F 2A 03 91 A8 3C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12538 H 7200",
-    "id": "Fi16_GNVE",
-    "key": "DF 4C 0F 3A 8F 20 2A D9"
   }
 ]
