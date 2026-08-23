@@ -97,7 +97,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11677 H 7200",
+    "frequency": "11676 H 7200",
     "id": "GIOCHI MEDITERRANEO",
     "key": "03 CC 23 F2 26 08 80 AE"
   },
@@ -118,6 +118,12 @@
     "frequency": "12679 H 7200",
     "id": "ENC 10",
     "key": "4F 3E FD 8A A6 D1 AE 25"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12689 H 7200",
+    "id": "ENC 14",
+    "key": "72 4C 9D 5B B4 34 01 E9"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
