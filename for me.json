@@ -1,1 +1,80 @@
-[]
+[
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10801 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "19 4F 7B E3 3E C8 2A 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11040 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11067 H 7200",
+        "id": "Fi09_GNVE",
+        "key": "8F 1C 26 D1 CC D3 31 D0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11590 H 7120",
+        "id": "EFL Highlights 26/27 Show 2",
+        "key": "26 CC 33 25 59 E3 27 63"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11643 H 9875",
+        "id": "D-571 DFL Main Oldenburg",
+        "key": "0C 93 E6 85 3A D0 7B 85"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11654 H 9875",
+        "id": "D571 Sky Oldenburg",
+        "key": "37 40 D3 4A 77 0A 8E 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11676 H 7200",
+        "id": "GIOCHI MEDITERRANEO",
+        "key": "03 CC 23 F2 26 08 80 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "ENC 10",
+        "key": "4F 3E FD 8A A6 D1 AE 25"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10970 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11127 H 7200",
+        "id": "E-289",
+        "key": "AA BB 20 85 26 08 23 51"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11153 H 9875",
+        "id": "HOL311 MAIN",
+        "key": "3F FC 47 82 4D 22 B0 1F"
+    }
+]
