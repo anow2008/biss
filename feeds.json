@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12544 H 7120",
+        "id": "Pitch EFL West Brom v Burnley",
+        "key": "46 34 CC 46 2A F9 91 B4"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11287 V 7200",
+        "id": "BEL68 - Enc.2 - ELMS",
+        "key": "06 15 EE 09 DC 20 26 22"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11014 V 7200",
+        "id": "PRIVATIF MAIN AFLE PRO AUS PARIS",
+        "key": "23 08 BE E9 FE 98 49 DF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11623 V 9875",
         "id": "D171",
         "key": "EC AB BE 55 1F 83 FF A1"
@@ -58,23 +76,5 @@
         "frequency": "12679 H 7200",
         "id": "ENC 10",
         "key": "4F 3E FD 8A A6 D1 AE 25"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
-        "id": "GIOCHI MEDITERRANEO",
-        "key": "03 CC 23 F2 26 08 80 AE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11643 H 9875",
-        "id": "D-571 DFL Main Oldenburg",
-        "key": "0C 93 E6 85 3A D0 7B 85"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11590 H 7120",
-        "id": "EFL Highlights 26/27 Show 2",
-        "key": "26 CC 33 25 59 E3 27 63"
     }
 ]
