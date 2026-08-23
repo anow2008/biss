@@ -1,12 +1,6 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10958 H 3600",
-    "id": "ITA 168",
-    "key": "23 08 BE E9 FE 98 49 DF"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11014 V 7200",
     "id": "PRIVATIF MAIN AFLE PRO AUS PARIS",
     "key": "23 08 BE E9 FE 98 49 DF"
@@ -49,7 +43,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11051 H 4938",
+    "frequency": "11052 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -61,9 +55,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11200 V 9875",
+    "frequency": "11199 V 9875",
     "id": "UEC BMX FREESTYLE PARK",
     "key": "21 0A 7E A9 D8 D2 67 11"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11612 V 9875",
+    "id": "ENC 8",
+    "key": "CA 19 CA AD 08 02 60 6A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -73,21 +73,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11654 H 9875",
+    "frequency": "11655 H 9875",
     "id": "D571 Sky Oldenburg",
     "key": "37 40 D3 4A 77 0A 8E 0F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11676 H 7200",
-    "id": "GIOCHI MEDITERRANEO",
-    "key": "03 CC 23 F2 26 08 80 AE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11677 H 7200",
     "id": "GIOCHI MEDITERRANEO",
     "key": "03 CC 23 F2 26 08 80 AE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11686 H 7200",
+    "id": "ENC-13",
+    "key": "BA C2 34 B0 DA CE E1 89"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -103,8 +103,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10970 V 4800",
-    "id": "POL138_A",
+    "frequency": "10964 V 4800",
+    "id": "POL49 EN1 Zbroslawice",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10985 V 9600",
+    "id": "POL 030",
     "key": "AB BA 26 8B DC AE 08 92"
   },
   {
@@ -118,5 +124,17 @@
     "frequency": "11153 H 9875",
     "id": "HOL311 MAIN",
     "key": "3F FC 47 82 4D 22 B0 1F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12513 H 9875",
+    "id": "Medialink CRO-021/1",
+    "key": "1C FF 0F 2A 03 91 A8 3C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12538 H 7200",
+    "id": "Fi16_GNVE",
+    "key": "DF 4C 0F 3A 8F 20 2A D9"
   }
 ]
