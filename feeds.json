@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11676 H 7200",
+        "id": "GIOCHI MEDITERRANEO",
+        "key": "03 CC 23 F2 26 08 80 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11654 H 9875",
+        "id": "D571 Sky Oldenburg",
+        "key": "37 40 D3 4A 77 0A 8E 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11643 H 9875",
+        "id": "D-571 DFL Main Oldenburg",
+        "key": "0C 93 E6 85 3A D0 7B 85"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11590 H 7120",
+        "id": "EFL Highlights 26/27 Show 2",
+        "key": "26 CC 33 25 59 E3 27 63"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11067 H 7200",
+        "id": "Fi09_GNVE",
+        "key": "8F 1C 26 D1 CC D3 31 D0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10801 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "19 4F 7B E3 3E C8 2A 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11071 V 7200",
         "id": "UFC Figh Night",
         "key": "77 A7 52 70 C2 39 82 7D"
@@ -34,35 +76,5 @@
         "frequency": "11246 H 7200",
         "id": "ITA493 A",
         "key": "BC 01 20 DD 26 21 08 4F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11086 V 9875",
-        "id": "GVA_Fi01",
-        "key": "05 AA 70 1F 74 01 1B 90"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11685 H 7500",
-        "id": "ENC 14",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11487 V 7200",
-        "id": "AEK VS IRAKLIS",
-        "key": "3F AA E7 D0 1B A8 51 14"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10969 H 7200",
-        "id": "E-228 Main",
-        "key": "BC 20 26 02 08 22 CB F5"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL037 TVN24 BIA",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
