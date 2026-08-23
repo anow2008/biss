@@ -3,6 +3,24 @@
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11623 V 9875",
         "id": "D171",
+        "key": "EC AB BE 55 1F 83 FF A1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11199 V 9875",
+        "id": "UEC BMX FREESTYLE PARK",
+        "key": "21 0A 7E A9 D8 D2 67 11"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11635 V 9875",
+        "id": "D171 FEED2",
+        "key": "37 40 D3 4A 77 0A 8E 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11623 V 9875",
+        "id": "D171",
         "key": "02 11 AC BF DC 05 04 E5"
     },
     {
@@ -43,15 +61,9 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11678 H 7200",
+        "frequency": "11677 H 7200",
         "id": "GIOCHI MEDITERRANEO",
         "key": "03 CC 23 F2 26 08 80 AE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11655 H 9875",
-        "id": "D571 Sky Oldenburg",
-        "key": "37 40 D3 4A 77 0A 8E 0F"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -64,17 +76,5 @@
         "frequency": "11590 H 7120",
         "id": "EFL Highlights 26/27 Show 2",
         "key": "26 CC 33 25 59 E3 27 63"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
-        "id": "Fi09_GNVE",
-        "key": "8F 1C 26 D1 CC D3 31 D0"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10801 H 7200",
-        "id": "BWF WF-A C1 BISS-1",
-        "key": "19 4F 7B E3 3E C8 2A 30"
     }
 ]
