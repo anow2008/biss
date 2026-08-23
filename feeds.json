@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11618 H 7200",
+        "id": "NLEMG HOL310-1",
+        "key": "FD 4D 64 AE 95 94 7D A6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11609 H 7200",
+        "id": "NLEMG HOL310-3",
+        "key": "E5 5B 14 54 AC EA 90 26"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "12517 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12513 H 9875",
+        "id": "Medialink CRO-021/1",
+        "key": "1C FF 0F 2A 03 91 A8 3C"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10985 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12538 H 7200",
+        "id": "Fi16_GNVE",
+        "key": "DF 4C 0F 3A 8F 20 2A D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11612 V 9875",
         "id": "ENC 8",
         "key": "CA 19 CA AD 08 02 60 6A"
@@ -25,7 +61,7 @@
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11287 V 7200",
+        "frequency": "11288 V 7200",
         "id": "BEL68 - Enc.2 - ELMS",
         "key": "06 15 EE 09 DC 20 26 22"
     },
@@ -64,29 +100,5 @@
         "frequency": "11023 V 7200",
         "id": "E-404",
         "key": "23 08 20 4B 26 AD 26 F9"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12510 V 7500",
-        "id": "SNG_2 A",
-        "key": "00 53 56 A9 61 61 61 23"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10970 V 4800",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11153 H 9875",
-        "id": "HOL311 MAIN",
-        "key": "3F FC 47 82 4D 22 B0 1F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11127 H 7200",
-        "id": "E-289",
-        "key": "AA BB 20 85 26 08 23 51"
     }
 ]
