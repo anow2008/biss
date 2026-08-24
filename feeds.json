@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11686 H 7200",
+        "id": "Giochi Mediterraneo",
+        "key": "08 24 DA 06 DA 20 26 20"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11618 H 7200",
         "id": "NLEMG HOL310-1",
         "key": "FD 4D 64 AE 95 94 7D A6"
@@ -58,47 +70,5 @@
         "frequency": "12544 H 7120",
         "id": "Pitch EFL West Brom v Burnley",
         "key": "46 34 CC 46 2A F9 91 B4"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11288 V 7200",
-        "id": "BEL68 - Enc.2 - ELMS",
-        "key": "06 15 EE 09 DC 20 26 22"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11014 V 7200",
-        "id": "PRIVATIF MAIN AFLE PRO AUS PARIS",
-        "key": "23 08 BE E9 FE 98 49 DF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11623 V 9875",
-        "id": "D171",
-        "key": "EC AB BE 55 1F 83 FF A1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11199 V 9875",
-        "id": "UEC BMX FREESTYLE PARK",
-        "key": "21 0A 7E A9 D8 D2 67 11"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11635 V 9875",
-        "id": "D171 FEED2",
-        "key": "37 40 D3 4A 77 0A 8E 0F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11623 V 9875",
-        "id": "D171",
-        "key": "02 11 AC BF DC 05 04 E5"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11023 V 7200",
-        "id": "E-404",
-        "key": "23 08 20 4B 26 AD 26 F9"
     }
 ]
