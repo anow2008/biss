@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10965 V 4800",
+        "id": "POL - 054 Kielce",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "C4 75 26 5F 8A 49 6C 3F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "D4 A8 E3 5F 7B 1F 90 2A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10997 V 7500",
+        "id": "POL039 TVN24 KRK",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11686 H 7200",
         "id": "Giochi Mediterraneo",
@@ -7,7 +31,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11051 H 4938",
+        "frequency": "11052 H 4938",
         "id": "EBU 3 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
     },
@@ -34,41 +58,5 @@
         "frequency": "12513 H 9875",
         "id": "Medialink CRO-021/1",
         "key": "1C FF 0F 2A 03 91 A8 3C"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
-        "id": "POL 030",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12538 H 7200",
-        "id": "Fi16_GNVE",
-        "key": "DF 4C 0F 3A 8F 20 2A D9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11612 V 9875",
-        "id": "ENC 8",
-        "key": "CA 19 CA AD 08 02 60 6A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "ENC 14",
-        "key": "72 4C 9D 5B B4 34 01 E9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7200",
-        "id": "ENC-13",
-        "key": "BA C2 34 B0 DA CE E1 89"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12544 H 7120",
-        "id": "Pitch EFL West Brom v Burnley",
-        "key": "46 34 CC 46 2A F9 91 B4"
     }
 ]
