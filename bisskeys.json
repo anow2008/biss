@@ -28,23 +28,5 @@
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "D4 A8 E3 5F 7B 1F 90 2A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11686 H 7200",
-    "id": "Giochi Mediterraneo",
-    "key": "08 24 DA 06 DA 20 26 20"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10965 V 4800",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 08 92"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10997 V 7500",
-    "id": "POL039 TVN24 KRK",
-    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
