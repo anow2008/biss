@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12553 H 7200",
+        "id": "SWE-043 EUROVOLLEY POOL D",
+        "key": "E5 2F FC 10 DD 08 24 09"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10838 V 7200",
+        "id": "TUR 143 A",
+        "key": "99 C3 A9 05 78 45 DA 97"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11187 V 9875",
         "id": "ita 390 A",
         "key": "5F D5 97 CB 2D DC A6 AF"
@@ -34,23 +46,5 @@
         "frequency": "11068 H 7200",
         "id": "IMG 2 EU",
         "key": "D4 A8 E3 5F 7B 1F 90 2A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10997 V 7500",
-        "id": "POL039 TVN24 KRK",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7200",
-        "id": "Giochi Mediterraneo",
-        "key": "08 24 DA 06 DA 20 26 20"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
     }
 ]
