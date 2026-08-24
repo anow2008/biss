@@ -13,24 +13,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "TUR122A",
-    "key": "E5 2F FF 13 ED 08 24 19"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 V 7200",
-    "id": "TUR 143 A",
-    "key": "75 27 C3 5F 35 DD BE D0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7200",
-    "id": "CZE 001/1",
-    "key": "E5 2F FD 11 BD 08 24 E9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
@@ -79,24 +61,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "id": "SWE-043 EUROVOLLEY POOL D",
-    "key": "E5 2F FD 11 AD 08 24 D9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12679 H 7200",
-    "id": "ENC 3",
-    "key": "66 3F EA 8F D6 EB F6 B7"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12689 H 7200",
-    "id": "ENC 2",
-    "key": "4D D3 C1 E1 39 E5 81 9F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12698 H 7200",
     "id": "ENC 4",
     "key": "15 12 7D A4 11 E3 84 78"
@@ -118,5 +82,11 @@
     "frequency": "11001 V 15000",
     "id": "POL027 p1",
     "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12546 H 7200",
+    "id": "E-228 Main",
+    "key": "AB BA 24 89 08 20 26 4E"
   }
 ]
