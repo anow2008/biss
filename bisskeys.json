@@ -37,12 +37,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12698 H 7200",
-    "id": "ENC 4",
-    "key": "15 12 7D A4 11 E3 84 78"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12707 H 7200",
     "id": "ENC 5",
     "key": "72 4C 9D 5B B4 34 06 EE"
