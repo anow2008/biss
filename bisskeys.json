@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11694 V 3333",
-    "id": "K24_SULIMAANI_Office",
-    "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
