@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11075 V 9875",
+        "id": "Fi11_GNVE_POKAL_03",
+        "key": "C2 29 F9 E4 45 F3 C6 FE"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11005 V 7200",
         "id": "E-073 MAIN",
