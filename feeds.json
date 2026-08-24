@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11187 V 9875",
+        "id": "ita 390 A",
+        "key": "5F D5 97 CB 2D DC A6 AF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10829 V 7200",
+        "id": "TUR122A",
+        "key": "E5 2F FA 0E AD 08 24 D9"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10978 H 7200",
         "id": "Fal1 Enc1",
