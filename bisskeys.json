@@ -19,13 +19,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -37,19 +37,25 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11059 H 7200",
+    "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
     "key": "C4 75 26 5F 8A 49 6C 3F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
+    "frequency": "11067 H 7200",
     "id": "IMG 2 EU",
     "key": "D4 A8 E3 5F 7B 1F 90 2A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11187 V 9875",
+    "frequency": "11075 V 9875",
+    "id": "Fi11_GNVE_POKAL_03",
+    "key": "C2 29 F9 E4 45 F3 C6 FE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11188 V 9875",
     "id": "ita 390 A",
     "key": "5F D5 97 CB 2D DC A6 AF"
   },
@@ -64,6 +70,18 @@
     "frequency": "12553 H 7200",
     "id": "SWE-043 EUROVOLLEY POOL D",
     "key": "E5 2F FC 10 DD 08 24 09"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12679 H 7200",
+    "id": "ENC 3",
+    "key": "66 3F EA 8F D6 EB F6 B7"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12689 H 7200",
+    "id": "ENC 2",
+    "key": "4D D3 C1 E1 39 E5 81 9F"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
