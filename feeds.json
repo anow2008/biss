@@ -52,11 +52,5 @@
         "frequency": "12517 V 4938",
         "id": "YSM-016 MAIN",
         "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12513 H 9875",
-        "id": "Medialink CRO-021/1",
-        "key": "1C FF 0F 2A 03 91 A8 3C"
     }
 ]
