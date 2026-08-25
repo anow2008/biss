@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11608 H 7120",
+        "id": "Pitch Birmingham v Brentford",
+        "key": "12 31 CC 0F DD 22 54 53"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11195 V 7120",
         "id": "Carabao Cup R2 - Plymouth v Coventry",
         "key": "24 51 AA 1F DD 24 11 12"
@@ -28,6 +34,12 @@
         "frequency": "11186 V 7120",
         "id": "Carabao Cup R2 - Ipswich v Leicester",
         "key": "23 11 CC 00 CD 12 31 10"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11611 V 9875",
+        "id": "GVA_Fi01",
+        "key": "27 6D 4A DE EA 15 71 70"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -64,17 +76,5 @@
         "frequency": "10839 V 7200",
         "id": "TUR 143 A",
         "key": "92 83 77 8C 96 F7 E4 71"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "TUR122A",
-        "key": "D0 82 5E B0 52 FF DF 30"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11188 V 9875",
-        "id": "ita 390 A",
-        "key": "38 E0 9A B2 7B B2 BA E7"
     }
 ]
