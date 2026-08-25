@@ -1,8 +1,8 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11014 V 7200",
-    "id": "E-272 MAIN",
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11167 V 7200",
+    "id": "Globecast 333 SNG",
     "key": "AE 15 F3 B6 E5 CC 81 32 E"
   },
   {
@@ -10,18 +10,6 @@
     "frequency": "11167 V 7200",
     "id": "Globecast 333 SNG",
     "key": "AE 15 F3 B6 E5 CC 81 32"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "TUR122A",
-    "key": "D0 82 5E B0 52 FF DF 30"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 V 7200",
-    "id": "TUR 143 A",
-    "key": "92 83 77 8C 96 F7 E4 71"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -61,9 +49,39 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11611 V 9875",
-    "id": "GVA_Fi01",
-    "key": "27 6D 4A DE EA 15 71 70"
+    "frequency": "11089 V 7120",
+    "id": "Pitch Sheff Wed v Wolves",
+    "key": "45 51 CC 62 AA 22 13 DF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11186 V 7120",
+    "id": "Carabao Cup R2 - Ipswich v Leicester",
+    "key": "23 11 CC 00 CD 12 31 10"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11195 V 7120",
+    "id": "Carabao Cup R2 - Plymouth v Coventry",
+    "key": "24 51 AA 1F DD 24 11 12"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11591 H 7120",
+    "id": "Carabao Cup R2 - Southampton v West Ham",
+    "key": "14 11 DC 01 CA 22 21 0D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11599 H 7120",
+    "id": "Carabao Cup R2 - Stoke v Hull",
+    "key": "34 15 BB 04 AA 24 44 12"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11608 H 7120",
+    "id": "Pitch Birmingham v Brentford",
+    "key": "12 31 CC 0F DD 22 54 53"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
