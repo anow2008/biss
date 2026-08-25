@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11686 H 7200",
+        "id": "GIOCHI MEDITERRANEO",
+        "key": "E2 00 82 64 6E 25 08 9B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "7C 2F 5D 08 8A 4E 1B F3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12707 H 7200",
         "id": "ENC 5",
         "key": "72 4C 9D 5B B4 34 06 EE"
@@ -52,47 +76,5 @@
         "frequency": "12689 H 7200",
         "id": "ENC 2",
         "key": "4D D3 C1 E1 39 E5 81 9F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7200",
-        "id": "ENC 3",
-        "key": "66 3F EA 8F D6 EB F6 B7"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12553 H 7200",
-        "id": "SWE-043 EUROVOLLEY POOL D",
-        "key": "E5 2F FD 11 AD 08 24 D9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "CZE 001/1",
-        "key": "E5 2F FD 11 BD 08 24 E9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "TUR 143 A",
-        "key": "75 27 C3 5F 35 DD BE D0"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11188 V 9875",
-        "id": "ita 390 A",
-        "key": "5F D5 97 CB 2D DC A6 AF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "TUR122A",
-        "key": "E5 2F FF 13 ED 08 24 19"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 H 7200",
-        "id": "Fal1 Enc1",
-        "key": "20 25 AE F3 EA 52 02 3E"
     }
 ]
