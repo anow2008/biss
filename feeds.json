@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11001 V 15000",
+        "id": "POL027 p1",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11167 V 7200",
         "id": "Globecast 333 SNG",
@@ -19,15 +25,15 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10847 V 7200",
+        "frequency": "10848 V 7200",
         "id": "CZE 001/1",
         "key": "D0 82 5E B0 52 FF DC 2D"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10838 V 7200",
+        "frequency": "10839 V 7200",
         "id": "TUR 143 A",
-        "key": "AC 29 3D 12 F3 4D 76 B6"
+        "key": "92 83 77 8C 96 F7 E4 71"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -46,12 +52,6 @@
         "frequency": "12601 V 7200",
         "id": "GCUK Enc 1",
         "key": "4C 56 EE 90 BD BC 45 BE"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11006 V 7500",
-        "id": "POL037 TVN24 BIA",
-        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
