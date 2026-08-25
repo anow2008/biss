@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9875",
+        "id": "GVA_Fi01",
+        "key": "64 5D F0 B1 4C 6C 3F F7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11694 H 7200",
         "id": "Independiente del Valle (ECU) vs Deportes Tolima (COL) - INGLES EUROPA",
         "key": "5F AD 32 3E A1 B6 54 AB"
