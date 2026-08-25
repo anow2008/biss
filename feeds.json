@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11611 V 9875",
+        "id": "GVA_Fi01",
+        "key": "27 6D 4A DE EA 15 71 70"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11001 V 15000",
         "id": "POL027 p1",
@@ -16,6 +22,12 @@
         "frequency": "11247 H 7200",
         "id": "LIVE_BR0ADCASTING_LINE1",
         "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7200",
+        "id": "SWE-043 EUROVOLLEY POOL D",
+        "key": "D0 82 5E B0 52 FF CA 1B"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -46,11 +58,5 @@
         "frequency": "12601 V 7200",
         "id": "GCUK Enc 1",
         "key": "4C 56 EE 90 BD BC 45 BE"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11165 H 9875",
-        "id": "HOL311 MAIN",
-        "key": "3C F3 3A 69 0C 35 7D BE"
     }
 ]
