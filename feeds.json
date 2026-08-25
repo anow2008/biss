@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11006 V 7500",
+        "id": "POL037 TVN24 BIA",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11165 H 9875",
+        "id": "HOL311 MAIN",
+        "key": "3C F3 3A 69 0C 35 7D BE"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11686 H 7200",
         "id": "GIOCHI MEDITERRANEO",
@@ -37,12 +49,6 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11001 V 15000",
-        "id": "POL027 p1",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
         "id": "POL138_A",
         "key": "AB BA 26 8B DC AE 08 92"
@@ -58,23 +64,5 @@
         "frequency": "11630 H 9875",
         "id": "D171-1",
         "key": "C4 4B 8B 9A D0 A7 FA 71"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11592 H 9875",
-        "id": "D171-2",
-        "key": "37 40 D3 4A 77 0A 8E 0F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11075 V 9875",
-        "id": "Fi11_GNVE_POKAL_03",
-        "key": "C2 29 F9 E4 45 F3 C6 FE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "ENC 2",
-        "key": "4D D3 C1 E1 39 E5 81 9F"
     }
 ]
