@@ -1,9 +1,15 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11014 V 7200",
+    "id": "E-272 MAIN",
+    "key": "AE 15 F3 B6 E5 CC 81 32"
+  },
+  {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11247 H 7200",
-    "id": "LIVE_BR0ADCASTING_LINE1",
-    "key": "13 57 AB 15 CD 24 68 59 E"
+    "frequency": "11167 V 7200",
+    "id": "Globecast 333 SNG",
+    "key": "AE 15 F3 B6 E5 CC 81 32"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -13,26 +19,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 V 7200",
+    "frequency": "10830 V 7200",
     "id": "TUR122A",
-    "key": "D0 82 5E B0 52 FF FD 4E"
+    "key": "D0 82 5E B0 52 FF DF 30"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10838 V 7200",
-    "id": "TUR 143 A",
-    "key": "AC 29 3D 12 F3 4D 76 B6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10847 V 7200",
+    "frequency": "10848 V 7200",
     "id": "CZE 001/1",
     "key": "D0 82 5E B0 52 FF DC 2D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
-    "id": "Unname",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
@@ -70,11 +70,5 @@
     "frequency": "11686 H 7200",
     "id": "GIOCHI MEDITERRANEO",
     "key": "E2 00 82 64 6E 25 08 9B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12611 V 7200",
-    "id": "SWE-043 EUROVOLLEY POOL D",
-    "key": "D0 82 5E B0 52 FF DA 2B"
   }
 ]
