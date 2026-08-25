@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9875",
+        "id": "GVA_Fi01",
+        "key": "27 6D 4A DE EA 15 71 70"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "SWE-043 EUROVOLLEY POOL D",
+        "key": "D0 82 5E B0 52 FF CA 1B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10839 V 7200",
         "id": "TUR 143 A",
         "key": "92 83 77 8C 96 F7 E4 71"
