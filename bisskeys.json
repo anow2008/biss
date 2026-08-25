@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11694 V 3333",
-    "id": "K24_SULIMAANI_Office",
-    "key": "AE 15 F3 B6 E5 CC 81 32 E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11167 V 7200",
-    "id": "Globecast 333 SNG",
-    "key": "AE 15 F3 B6 E5 CC 81 32"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "Unname",
@@ -76,12 +64,6 @@
     "frequency": "11608 H 7120",
     "id": "Pitch Birmingham v Brentford",
     "key": "12 31 CC 0F DD 22 54 53"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11686 H 7200",
-    "id": "GIOCHI MEDITERRANEO",
-    "key": "E2 00 82 64 6E 25 08 9B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
