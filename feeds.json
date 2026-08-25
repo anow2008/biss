@@ -1,9 +1,33 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11611 V 9875",
-        "id": "GVA_Fi01",
-        "key": "27 6D 4A DE EA 15 71 70"
+        "frequency": "11195 V 7120",
+        "id": "Carabao Cup R2 - Plymouth v Coventry",
+        "key": "24 51 AA 1F DD 24 11 12"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11599 H 7120",
+        "id": "Carabao Cup R2 - Stoke v Hull",
+        "key": "34 15 BB 04 AA 24 44 12"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11089 V 7120",
+        "id": "Pitch Sheff Wed v Wolves",
+        "key": "45 51 CC 62 AA 22 13 DF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11591 H 7120",
+        "id": "Carabao Cup R2 - Southampton v West Ham",
+        "key": "14 11 DC 01 CA 22 21 0D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11186 V 7120",
+        "id": "Carabao Cup R2 - Ipswich v Leicester",
+        "key": "23 11 CC 00 CD 12 31 10"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -52,11 +76,5 @@
         "frequency": "11188 V 9875",
         "id": "ita 390 A",
         "key": "38 E0 9A B2 7B B2 BA E7"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12601 V 7200",
-        "id": "GCUK Enc 1",
-        "key": "4C 56 EE 90 BD BC 45 BE"
     }
 ]
