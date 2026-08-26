@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11694 H 7200",
+        "id": "River Plate (ARG) vs  Santa Fe (COL) - INGLES EUROPA",
+        "key": "45 CC 5F 70 AD 22 11 E0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11204 V 7120",
         "id": "Carabao Cup R2 - PNE v Everton",
         "key": "22 41 BB 1E AD 22 42 11"
