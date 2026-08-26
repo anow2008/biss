@@ -3,6 +3,18 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11023 V 7200",
     "id": "Nikita Tszyu vs Ben Mahoney",
+    "key": "AB 25 D7 A7 8C 43 65 34 E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11023 V 7200",
+    "id": "Nikita Tszyu vs Ben Mahoney",
+    "key": "AB 25 D7 A7 8C 43 65 34"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11040 H 4938",
+    "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
@@ -31,8 +43,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
-    "id": "POL037 TVN24 BIA",
+    "frequency": "10976 V 4800",
+    "id": "POL-077 ENC-1",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10996 V 7500",
+    "id": "POL021 p2 WAW",
     "key": "77 93 52 5C 99 08 86 27"
   }
 ]
