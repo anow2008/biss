@@ -2,13 +2,13 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11023 V 7200",
-    "id": "Nikita Tszyu vs Ben Mahoney",
+    "id": "Signal 7",
     "key": "AB 25 D7 A7 8C 43 65 34 E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11023 V 7200",
-    "id": "Nikita Tszyu vs Ben Mahoney",
+    "id": "Signal 7",
     "key": "AB 25 D7 A7 8C 43 65 34"
   },
   {
@@ -44,19 +44,7 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11695 H 7200",
-    "id": "GIOCHI MEDITERRANEO",
+    "id": "Giochi Mediterraneo",
     "key": "26 FE 20 44 08 FE 20 26"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "POL-077 ENC-1",
-    "key": "AB BA 26 8B DC AE 08 92"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10997 V 7500",
-    "id": "POL021 p2 WAW",
-    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
