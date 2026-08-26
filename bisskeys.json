@@ -2,13 +2,13 @@
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11023 V 7200",
-    "id": "Signal 7",
+    "id": "Nikita Tszyu vs Ben Mahoney",
     "key": "AB 25 D7 A7 8C 43 65 34 E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11023 V 7200",
-    "id": "Signal 7",
+    "id": "Nikita Tszyu vs Ben Mahoney",
     "key": "AB 25 D7 A7 8C 43 65 34"
   },
   {
@@ -46,5 +46,11 @@
     "frequency": "11695 H 7200",
     "id": "Giochi Mediterraneo",
     "key": "26 FE 20 44 08 FE 20 26"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11005 V 7500",
+    "id": "POL037 TVN24 BIA",
+    "key": "77 93 52 5C 99 08 86 27"
   }
 ]
