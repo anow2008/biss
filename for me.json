@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11695 H 7200",
+        "id": "Giochi Mediterraneo",
+        "key": "26 FE 20 44 08 FE 20 26"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11023 V 7200",
         "id": "Nikita Tszyu vs Ben Mahoney",
