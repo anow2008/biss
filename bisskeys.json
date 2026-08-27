@@ -1,38 +1,86 @@
 [
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11039 H 4938",
+    "frequency": "10830 V 7200",
+    "id": "TUR122A",
+    "key": "E5 2F FC 10 CD 08 27 FC"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 V 7200",
+    "id": "TUR 143 A",
+    "key": "EB 4B C7 FD D6 46 D8 F4"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11040 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11045 H 4938",
+    "frequency": "11046 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11051 H 4938",
+    "frequency": "11052 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
-    "id": "IMG 1 EU",
-    "key": "FE B6 67 1B AF 57 F3 F9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
-    "key": "9B 6E 3F 48 1C 7D 42 DB"
+    "key": "F1 A4 D8 6D C2 7E 5B 9B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11694 H 7200",
-    "id": "River Plate (ARG) vs  Santa Fe (COL) - INGLES EUROPA",
-    "key": "45 CC 5F 70 AD 22 11 E0"
+    "frequency": "11187 V 9875",
+    "id": "E-385 VIA 1",
+    "key": "1D 94 A8 59 DB CB CB 71"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11695 H 7200",
+    "id": "GIOCHI MEDITERRANEO",
+    "key": "62 27 80 09 08 AA 20 D2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12601 V 7200",
+    "id": "GCUK Enc 1",
+    "key": "4C 56 EE 90 BD BC 45 BE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12705 H 9875",
+    "id": "SLQ 008 M",
+    "key": "27 08 BB EA 32 DA CA D6"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10970 V 4800",
+    "id": "POL-056 ENC 2",
+    "key": "AB BA 26 8B DC AE 08 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11132 H 16960",
+    "id": "HOL 307 Multi 1",
+    "key": "16 FC C8 DA 56 1F 99 0E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11145 H 8020",
+    "id": "2Sat HOL308 Multi 2",
+    "key": "16 FC C8 DA 56 1F 99 0E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11188 H 9875",
+    "id": "HOL311 MAIN",
+    "key": "3C F3 3A 69 0C 35 7D BE"
   }
 ]
