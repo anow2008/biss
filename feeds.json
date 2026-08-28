@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "GCUK Enc 9",
+        "key": "D0 82 8E E0 72 FF DA 4B"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12519 H 7200",
         "id": "HTelAviv-ATALANTA",
@@ -58,17 +64,5 @@
         "frequency": "11600 H 7200",
         "id": "E414 WORLD FEED BACKUP ZURICH",
         "key": "A5 A8 BB 08 0E 38 3A 80"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "Medialink CRO-024/1",
-        "key": "92 55 14 FB DF 5F 7B B9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10811 H 7200",
-        "id": "MTVA SNG HUNGARY",
-        "key": "20 26 27 6D 08 FF CA D1"
     }
 ]
