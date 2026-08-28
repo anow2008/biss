@@ -1,68 +1,56 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "GCUK Enc 9",
-        "key": "D0 82 8E E0 72 FF DA 4B"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12519 H 7200",
-        "id": "HTelAviv-ATALANTA",
-        "key": "1C 3A 5E B4 7B 9D 2F 47"
+        "frequency": "10986 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 08 92"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "GCUK Enc 9",
-        "key": "4D C1 DA E8 55 FB F5 45"
+        "frequency": "11609 V 7120",
+        "id": "EFL Wrexham v Birmingham",
+        "key": "15 5A 25 94 5C 35 6E FF"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11195 V 7120",
-        "id": "Pitch Fulham v AFC Wimbledon",
-        "key": "21 43 CC 30 AA 21 45 10"
+        "frequency": "12611 V 7200",
+        "id": "ITA451",
+        "key": "1B 2A BC 01 3C AA 12 F8"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11204 V 7120",
-        "id": "Carabao Cup R2 - Chelsea v Luton",
-        "key": "21 13 CC 00 AA 25 51 20"
+        "frequency": "12689 H 7200",
+        "id": "E379 PRAL",
+        "key": "46 D4 A8 C2 2F AB 18 F2"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11213 V 7200",
-        "id": "Fi11_GNVE",
-        "key": "F3 D5 61 29 B4 44 7B 73"
+        "id": "E-289 BK",
+        "key": "AB 28 08 DB 20 26 BA 00"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11251 H 14400",
-        "id": "PRIVATIF  PROVENCE VS AGEN",
-        "key": "F4 86 27 A1 8F EE D1 4E"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11616 H 9875",
+        "id": "D565MCHN155E12 M",
+        "key": "0C A5 1A CB B3 8C 2E 6D"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "12536 V 9700",
-        "id": "OMONOIAvsSTVV_MAIN",
-        "key": "CA B4 20 9E 26 AC BA 8C"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10841 H 9875",
+        "id": "ENC-23",
+        "key": "0F 5C 14 7F 4A FA 5D A1"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11001 V 15000",
-        "id": "POL027 p1",
+        "frequency": "11005 V 7500",
+        "id": "POL071 TVN24 TOR",
         "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12602 V 7200",
-        "id": "SWE-036 BRA-PAOK",
-        "key": "20 26 27 6D 08 DD EA CF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11600 H 7200",
-        "id": "E414 WORLD FEED BACKUP ZURICH",
-        "key": "A5 A8 BB 08 0E 38 3A 80"
+        "frequency": "11677 H 7200",
+        "id": "SUI25 HD 1",
+        "key": "28 08 BB EB DC 12 21 0F"
     }
 ]
