@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "GCUK Enc 9",
+        "key": "FF AE D0 7D 82 9E 72 92"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
         "id": "POL 030",
@@ -39,18 +45,12 @@
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10841 H 9875",
         "id": "ENC-23",
-        "key": "0F 5C 14 7F 4A FA 5D A1"
+        "key": "D7 60 B4 EB 7F B1 C9 F9"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11005 V 7500",
         "id": "POL071 TVN24 TOR",
         "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
-        "id": "SUI25 HD 1",
-        "key": "28 08 BB EB DC 12 21 0F"
     }
 ]
