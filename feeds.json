@@ -1,56 +1,68 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12519 H 7200",
+        "id": "PETANQUE SAINT FLORENTIN",
+        "key": "F5 77 CF 3B 26 08 30 5E"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "GCUK Enc 9",
-        "key": "FF AE D0 7D 82 9E 72 92"
+        "frequency": "11677 H 7200",
+        "id": "SUI25 HD 1",
+        "key": "28 08 BB EB DC 12 21 0F"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL 030",
+        "frequency": "10973 V 9600",
+        "id": "TVP POL-32  ENC 1",
         "key": "AB BA 26 8B DC AE 08 92"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11609 V 7120",
-        "id": "EFL Wrexham v Birmingham",
-        "key": "15 5A 25 94 5C 35 6E FF"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11140 H 25740",
+        "id": "DAZN HDR",
+        "key": "A2 4B ED DA A4 DA 25 A3"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "ITA451",
-        "key": "1B 2A BC 01 3C AA 12 F8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "E379 PRAL",
-        "key": "46 D4 A8 C2 2F AB 18 F2"
+        "frequency": "11089 V 7120",
+        "id": "Pitch - EFL Middlesbrough v West Brom",
+        "key": "90 90 47 67 92 F2 3D C1"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11213 V 7200",
-        "id": "E-289 BK",
-        "key": "AB 28 08 DB 20 26 BA 00"
+        "id": "KPMG  WOMENS IRISH OPEN",
+        "key": "AA BB DD 42 EE 29 08 1F"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11616 H 9875",
-        "id": "D565MCHN155E12 M",
-        "key": "0C A5 1A CB B3 8C 2E 6D"
+        "frequency": "11188 V 9875",
+        "id": "E-385 VIA 2",
+        "key": "E6 18 76 74 6E A4 E4 F6"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10841 H 9875",
-        "id": "ENC-23",
-        "key": "D7 60 B4 EB 7F B1 C9 F9"
+        "frequency": "11062 V 7120",
+        "id": "Pitch - EFL - Cardiff v Sheffield Utd",
+        "key": "25 93 54 0C 76 FE A3 17"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL071 TVN24 TOR",
+        "frequency": "10998 V 10000",
+        "id": "POL022 TVN24 WAW p2 ASI",
         "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12546 H 7200",
+        "id": "E-228 Main",
+        "key": "29 08 20 51 26 FA CA EA"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12539 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "52 B5 7C 83 66 C7 40 6D"
     }
 ]
