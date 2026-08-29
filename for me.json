@@ -1,1 +1,104 @@
-[]
+[
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7120",
+        "id": "Pitch - EFL - Cardiff v Sheffield Utd",
+        "key": "25 93 54 0C 76 FE A3 17"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "E2 8D 86 F5 75 46 47 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11188 V 9875",
+        "id": "E-385 VIA 2",
+        "key": "E6 18 76 74 6E A4 E4 F6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11213 V 7200",
+        "id": "KPMG  WOMENS IRISH OPEN",
+        "key": "AA BB DD 42 EE 29 08 1F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11631 H 9875",
+        "id": "ita 390 A",
+        "key": "A5 4C D0 C1 95 AE DE 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11677 H 7200",
+        "id": "SUI25 HD 1",
+        "key": "28 08 BB EB DC 12 21 0F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10965 V 4800",
+        "id": "POL-25 ENC1",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10973 V 9600",
+        "id": "TVP POL-32  ENC 1",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10976 H 3600",
+        "id": "F3-1 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10986 V 9600",
+        "id": "POL-52 CM-5000",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10998 V 10000",
+        "id": "POL022 TVN24 WAW p2 ASI",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11140 H 25740",
+        "id": "DAZN HDR",
+        "key": "A2 4B ED DA A4 DA 25 A3"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12519 H 7200",
+        "id": "PETANQUE SAINT FLORENTIN",
+        "key": "F5 77 CF 3B 26 08 30 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12546 H 7200",
+        "id": "E-228 Main",
+        "key": "29 08 20 51 26 FA CA EA"
+    }
+]
