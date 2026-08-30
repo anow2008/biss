@@ -3,7 +3,13 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Enc 10",
-    "key": "82 E9 FE 69 97 52 16 FF"
+    "key": "D7 60 B4 EB 7F B1 C9 F9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10841 H 9875",
+    "id": "ENC-23",
+    "key": "D7 60 B4 EB 7F B1 C9 F9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -40,17 +46,5 @@
     "frequency": "12679 H 7500",
     "id": "ENC 2",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11102 H 7200",
-    "id": "MP One",
-    "key": "AC BD 04 6D 01 DB CA A6"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11140 H 25740",
-    "id": "DAZN HDR",
-    "key": "A2 4B ED DA A4 DA 25 A3"
   }
 ]
