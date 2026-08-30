@@ -1,5 +1,83 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10841 H 9875",
+        "id": "ENC-23",
+        "key": "15 9D 2C DE 95 0F D0 74"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 34 16 FE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "8E 1A 5C 04 7D 9B 2F 47"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11213 V 7200",
+        "id": "D347 HB Balingen",
+        "key": "30 08 DE 16 ED 12 66 65"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11623 V 9875",
+        "id": "GVA_Fi04_BULI_8",
+        "key": "EB 3D D5 FD CC 05 C6 97"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11646 H 7200",
+        "id": "CZE 001/1",
+        "key": "E5 2F FD 11 ED 08 30 25"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11677 H 7200",
+        "id": "SUI25 HD 1",
+        "key": "28 08 BB EB DC 12 21 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11695 H 7200",
+        "id": "Giochi MEDiterraneo",
+        "key": "82 CA FE 4A 02 63 08 6D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "LAT-012 M",
+        "key": "CF F0 A3 62 97 E5 C3 3F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "SWE-043 FIBA SWE-FRA",
+        "key": "C9 AC 12 87 0F C4 E1 B4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "EST-003 M",
+        "key": "F0 94 9A 1E F9 13 60 6C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11128 H 9600",
+        "id": "ITA_609_A",
+        "key": "BC 02 20 DE 26 29 08 57"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11140 H 9600",
+        "id": "ITA_609_B",
+        "key": "BC 02 20 DE 26 29 08 57"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11247 H 7200",
         "id": "LIVE_BROADCASTING_LINE1",
