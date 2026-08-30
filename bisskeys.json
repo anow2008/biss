@@ -52,23 +52,5 @@
     "frequency": "11613 H 15000",
     "id": "WWE HEATWAVE EURO",
     "key": "AC 53 1B 1A 42 AC 54 42"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11019 V 4600",
-    "id": "AP LDN UPB",
-    "key": "BC 02 20 DE 26 29 08 57"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11128 H 9600",
-    "id": "ITA_609_A",
-    "key": "BC 02 20 DE 26 29 08 57"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11140 H 9600",
-    "id": "ITA_609_B",
-    "key": "BC 02 20 DE 26 29 08 57"
   }
 ]
