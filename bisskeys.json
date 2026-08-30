@@ -1,27 +1,9 @@
 [
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11270 V 7200",
-    "id": "ENCA",
-    "key": "8B 2F 61 1B D9 A4 C7 44 E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11270 V 7200",
-    "id": "ENCA",
-    "key": "8B 2F 61 1B D9 A4 C7 44"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10828 H 9875",
-    "id": "IPF",
-    "key": "EC DB AF 76 A0 FD A9 46"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10841 H 9875",
-    "id": "ENC-23",
-    "key": "49 B8 C3 C4 7E 1E EC 88"
+    "frequency": "11247 H 7200",
+    "id": "LIVE_BROADCASTING_LINE1",
+    "key": "13 57 AB 15 CD 24 68 59"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -31,7 +13,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -43,9 +25,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
+    "frequency": "11067 H 7200",
     "id": "IMG 2 EU",
-    "key": "72 4C 9D 5B B4 34 11 F9"
+    "key": "8E 1A 5C 04 7D 9B 2F 47"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -55,9 +37,75 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11204 V 7200",
+    "id": "KPMG  WOMENS IRISH OPEN",
+    "key": "AA BB DD 42 EE 30 08 26"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11611 V 9875",
+    "id": "GVA_Fi03_BULI_7",
+    "key": "DD 29 30 36 5C C2 52 70"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11623 V 9875",
+    "id": "GVA_Fi04_BULI_8",
+    "key": "EB 3D D5 FD CC 05 C6 97"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11631 H 9875",
+    "id": "ita 390 A",
+    "key": "A5 4C D0 C1 95 AE DE 21"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11646 H 7200",
+    "id": "CZE 001/1",
+    "key": "E5 2F FF 13 FD 08 30 35"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11656 H 7200",
+    "id": "E-289 BK",
+    "key": "AB BA 30 95 08 20 26 4E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11667 H 7500",
+    "id": "NLFLEV_HOL-090 CH-A",
+    "key": "B1 A8 C3 1C DA 6A 4A 8E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11686 H 7200",
+    "id": "ENC 3",
+    "key": "72 4C 9D 5B B4 34 14 FC"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11695 H 7200",
     "id": "Giochi MEDiterraneo",
     "key": "82 CA FE 4A 02 63 08 6D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12583 V 7200",
+    "id": "D171-2",
+    "key": "AA FE 20 C8 26 34 21 7B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12592 V 7200",
+    "id": "ITA 491 brescia",
+    "key": "1B 2A BC 01 3C AA 12 F8"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12707 H 7200",
+    "id": "ENC 1",
+    "key": "72 4C 9D 5B B4 34 13 FB"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -73,32 +121,20 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 H 3600",
+    "frequency": "10975 H 3600",
     "id": "F2-1 4.5MH",
     "key": "20 25 AE F3 EA 52 02 3E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "POL11_HARM",
-    "key": "AB BA 26 8B DC AE 08 92"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
-    "id": "POL 030",
+    "id": "POL-78 ENC 2",
     "key": "AB BA 26 8B DC AE 08 92"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12520 H 7200",
+    "frequency": "12519 H 7200",
     "id": "PETANQUE SAINT FLORENTIN",
     "key": "F5 77 CF 3B 26 08 30 5E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12556 H 7200",
-    "id": "E-228 Main",
-    "key": "AA BB 20 85 26 08 30 5E"
   }
 ]
