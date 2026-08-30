@@ -52,11 +52,5 @@
         "frequency": "11213 V 7200",
         "id": "D347 HB Balingen",
         "key": "30 08 DE 16 ED 12 66 65"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "EST-003 M",
-        "key": "F0 94 9A 1E F9 13 60 6C"
     }
 ]
