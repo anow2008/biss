@@ -1,15 +1,51 @@
 [
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL-55 ENC1",
-        "key": "AB BA 26 8B DC AE 08 92"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11676 H 7200",
+        "id": "ITA451",
+        "key": "1B 2A BC 01 3C AA 12 F8"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11256 H 7200",
+        "id": "ITA493 A",
+        "key": "BC 02 20 DE 26 29 08 57"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11140 H 9600",
-        "id": "ITA_609_B",
-        "key": "BC 02 20 DE 26 29 08 57"
+        "frequency": "12518 H 4938",
+        "id": "YSM021",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11613 H 15000",
+        "id": "WWE HEATWAVE EURO",
+        "key": "AC 53 1B 1A 42 AC 54 42"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10819 H 7200",
+        "id": "ASTERAS VS OSFP",
+        "key": "AD C7 9C 10 5E DA 6C A4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10810 H 7200",
+        "id": "AEK VS IRAKLIS",
+        "key": "12 19 A4 CF E6 44 FD 27"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11274 H 7500",
+        "id": "AFD-LPF",
+        "key": "54 46 BB 55 1C CC 34 1C"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-52 CM-5000",
+        "key": "AB BA 26 8B DC AE 08 92"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -22,47 +58,5 @@
         "frequency": "12698 H 7200",
         "id": "EST-003 M",
         "key": "F0 94 9A 1E F9 13 60 6C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "SWE-043 FIBA SWE-FRA",
-        "key": "C9 AC 12 87 0F C4 E1 B4"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
-        "id": "SUI25 HD 1",
-        "key": "28 08 BB EB DC 12 21 0F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7200",
-        "id": "ENC 3",
-        "key": "72 4C 9D 5B B4 34 14 FC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7200",
-        "id": "LAT-012 M",
-        "key": "CF F0 A3 62 97 E5 C3 3F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11623 V 9875",
-        "id": "GVA_Fi04_BULI_8",
-        "key": "EB 3D D5 FD CC 05 C6 97"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11647 H 7200",
-        "id": "CZE 001/1",
-        "key": "E5 2F FF 13 FD 08 30 35"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11204 V 7200",
-        "id": "KPMG  WOMENS IRISH OPEN",
-        "key": "AA BB DD 42 EE 30 08 26"
     }
 ]
