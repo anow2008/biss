@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL023 TVN24 WAW P2",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10976 V 4800",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 08 92"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "C4 F2 A8 5E D6 E1 B7 6E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11677 H 7200",
+        "id": "Giochi MEDiterraneo",
+        "key": "D0 8D 31 8E 26 2D 00 53"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 34 17 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11676 H 7200",
         "id": "ITA451",
@@ -10,47 +46,5 @@
         "frequency": "11256 H 7200",
         "id": "ITA493 A",
         "key": "BC 02 20 DE 26 29 08 57"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12518 H 4938",
-        "id": "YSM021",
-        "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11613 H 15000",
-        "id": "WWE HEATWAVE EURO",
-        "key": "AC 53 1B 1A 42 AC 54 42"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10819 H 7200",
-        "id": "ASTERAS VS OSFP",
-        "key": "AD C7 9C 10 5E DA 6C A4"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10810 H 7200",
-        "id": "AEK VS IRAKLIS",
-        "key": "12 19 A4 CF E6 44 FD 27"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11274 H 7500",
-        "id": "AFD-LPF",
-        "key": "54 46 BB 55 1C CC 34 1C"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-52 CM-5000",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11213 V 7200",
-        "id": "D347 HB Balingen",
-        "key": "30 08 DE 16 ED 12 66 65"
     }
 ]
