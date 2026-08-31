@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11247 H 7500",
+        "id": "AFD Estudiantes vs Newells Old Boys",
+        "key": "54 46 BB 55 1C CC 34 1C"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11694 H 7200",
         "id": "ISL-RKS-001 - MAIN",
@@ -19,7 +25,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7200",
+        "frequency": "11685 H 7200",
         "id": "POR 21",
         "key": "80 CA BF 09 4C 4C 11 A9"
     },
@@ -46,11 +52,5 @@
         "frequency": "10830 V 7200",
         "id": "TUR122B",
         "key": "D0 83 1E 71 52 FF FA 4B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL023 TVN24 WAW P2",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
