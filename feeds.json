@@ -1,50 +1,56 @@
 [
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL023 TVN24 WAW P2",
-        "key": "77 93 52 5C 99 08 86 27"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11694 H 7200",
+        "id": "ISL-RKS-001 - MAIN",
+        "key": "11 BF EB BB 07 DB B4 96"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10976 V 4800",
-        "id": "POL-077 ENC-1",
+        "frequency": "12518 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11628 H 7200",
+        "id": "LEVADIAKOS VS PAO",
+        "key": "96 4C D1 B3 DC A5 A0 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11686 H 7200",
+        "id": "POR 21",
+        "key": "80 CA BF 09 4C 4C 11 A9"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10965 V 4800",
+        "id": "POL 48 ENC1",
         "key": "AB BA 26 8B DC AE 08 92"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
-        "id": "IMG 2 EU",
-        "key": "C4 F2 A8 5E D6 E1 B7 6E"
+        "frequency": "12611 V 7200",
+        "id": "Service 01",
+        "key": "3F 25 E4 48 45 88 EF BC"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
-        "id": "Giochi MEDiterraneo",
-        "key": "D0 8D 31 8E 26 2D 00 53"
+        "frequency": "10848 V 7200",
+        "id": "CZE 001/1",
+        "key": "D0 83 1E 71 52 FF AF 00"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11059 H 7200",
-        "id": "IMG 1 EU",
-        "key": "72 4C 9D 5B B4 34 17 FF"
+        "frequency": "10830 V 7200",
+        "id": "TUR122B",
+        "key": "D0 83 1E 71 52 FF FA 4B"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11676 H 7200",
-        "id": "ITA451",
-        "key": "1B 2A BC 01 3C AA 12 F8"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11256 H 7200",
-        "id": "ITA493 A",
-        "key": "BC 02 20 DE 26 29 08 57"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL023 TVN24 WAW P2",
+        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
