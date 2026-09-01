@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat 21B",
+        "frequency": "11130 H 14400",
+        "id": "SAU 033 Main",
+        "key": "DE BE 5E FA B0 B0 50 B0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "TUR122B",
+        "key": "FF FC D0 CB 90 1E 52 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "ANA",
+        "key": "5C 9E 27 21 A1 B8 F4 4D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10974 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10977 H 7200",
+        "id": "F2-1 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11181 H 7200",
+        "id": "ORA - ANA",
+        "key": "88 59 DB BC F3 D1 FC C0"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12509 H 4938",
+        "id": "BIH007 M",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 21B",
+        "frequency": "11130 H 14400",
+        "id": "SAU 033 Main",
+        "key": "DE BE 5E FA B0 B0 50 B0"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11059 H 7200",
         "id": "IMG 1 EU",
