@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7200",
+        "id": "ANA",
+        "key": "5C 9E 27 21 A1 B8 F4 4D"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10977 H 7200",
+        "id": "F2-1 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11188 V 9875",
+        "id": "E-385 VIA 1",
+        "key": "BD D5 39 CB 1A E6 34 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7200",
+        "id": "TUR122B",
+        "key": "FF FC D0 CB 90 1E 52 00"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11517 H 9875",
+        "id": "ENC-23",
+        "key": "11 11 22 44 22 AA BB 87"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11039 H 4938",
         "id": "EBU 1 ENC",
@@ -28,35 +64,5 @@
         "frequency": "11695 H 7200",
         "id": "Giochi MEDiterraneo",
         "key": "E0 19 02 FB 26 09 0E 3D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
-        "id": "IMG 2 EU",
-        "key": "6B 9D 3E 46 7A 4C 1F E5"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11059 H 7200",
-        "id": "IMG 1 EU",
-        "key": "C9 11 FD D7 DC 1A D4 CA"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11247 H 7500",
-        "id": "AFD Estudiantes vs Newells Old Boys",
-        "key": "54 46 BB 55 1C CC 34 1C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11694 H 7200",
-        "id": "ISL-RKS-001 - MAIN",
-        "key": "11 BF EB BB 07 DB B4 96"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12518 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "20 10 20 50 25 20 26 6B"
     }
 ]
