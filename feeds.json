@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL046",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12592 V 7200",
+        "id": "BWF WF-A C2 BISS-1",
+        "key": "BB CF E9 73 88 13 52 ED"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "1B 6A D3 58 A4 1E A6 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11695 H 7200",
+        "id": "Giochi MEDiterraneo",
+        "key": "E0 19 02 FB 26 09 0E 3D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "6B 9D 3E 46 7A 4C 1F E5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "C9 11 FD D7 DC 1A D4 CA"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11247 H 7500",
         "id": "AFD Estudiantes vs Newells Old Boys",
@@ -16,41 +58,5 @@
         "frequency": "12518 H 4938",
         "id": "YSM-016 MAIN",
         "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11628 H 7200",
-        "id": "LEVADIAKOS VS PAO",
-        "key": "96 4C D1 B3 DC A5 A0 21"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11685 H 7200",
-        "id": "POR 21",
-        "key": "80 CA BF 09 4C 4C 11 A9"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL 48 ENC1",
-        "key": "AB BA 26 8B DC AE 08 92"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "Service 01",
-        "key": "3F 25 E4 48 45 88 EF BC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "CZE 001/1",
-        "key": "D0 83 1E 71 52 FF AF 00"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "TUR122B",
-        "key": "D0 83 1E 71 52 FF FA 4B"
     }
 ]
