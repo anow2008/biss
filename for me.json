@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11301 H 10000",
+        "id": "ITA473 MAIN",
+        "key": "45 C1 F3 F9 7F DF 6D CB"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10848 V 7200",
         "id": "CZE 001/1",
