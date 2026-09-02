@@ -1,56 +1,56 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12602 V 7200",
-        "id": "UKI-1444 C1",
-        "key": "AB 46 F2 E3 EE 9B AA 33"
+        "frequency": "11667 H 7200",
+        "id": "E399 MAIN",
+        "key": "BA 1F 9E 77 8D 7C 6B 74"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11190 H 7200",
-        "id": "A N A1",
-        "key": "69 EC 57 AC 29 D4 82 7F"
+        "frequency": "12509 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11162 H 7200",
+        "id": "GM",
+        "key": "F4 F0 FF E3 2F 8C 95 50"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12610 V 7200",
-        "id": "Service 01",
-        "key": "7B 3F 9A 54 2D 8E 14 CF"
+        "frequency": "11677 H 7200",
+        "id": "E 73 MAIN",
+        "key": "BA 1C AE 84 AA 7C 6B 91"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12584 V 7200",
-        "id": "BWF WF-A C1 BISS-1",
-        "key": "1B 6A D3 58 A4 1E A6 68"
+        "frequency": "10847 V 7200",
+        "id": "CZE 001/1",
+        "key": "E5 2F FD 11 DD 09 02 E8"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
-        "id": "IMG 2 EU",
-        "key": "E7 A1 C5 4D D8 B2 F4 7E"
+        "frequency": "11188 V 9875",
+        "id": "E-385 VIA 1",
+        "key": "F5 20 1A 2F 02 32 9D D1"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL082 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11059 H 7200",
-        "id": "IMG 1 EU",
-        "key": "F1 3C 15 42 CF B8 45 CC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7120",
-        "id": "Pitch - EFL -Stoke v Norwich",
-        "key": "37 A3 32 0C 5C 43 25 C4"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11301 H 10000",
-        "id": "ITA473 MAIN",
-        "key": "45 C1 F3 F9 7F DF 6D CB"
+        "frequency": "11695 H 7200",
+        "id": "Giochi MEDiterraneo",
+        "key": "6F F2 90 F1 20 2E A0 EE"
     }
 ]
