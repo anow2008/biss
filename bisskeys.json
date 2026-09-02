@@ -1,9 +1,15 @@
 [
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7200",
-    "id": "CZE 001/1",
-    "key": "E5 2F FA 0E AD 09 02 B8"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11301 H 10000",
+    "id": "ITA473 MAIN",
+    "key": "45 C1 F3 F9 7F DF 6D CB E"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11301 H 10000",
+    "id": "ITA473 MAIN",
+    "key": "45 C1 F3 F9 7F DF 6D CB"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -31,44 +37,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "E7 A1 C5 4D D8 B2 F4 7E"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11188 V 9875",
-    "id": "E-385 VIA 1",
-    "key": "F5 20 1A 2F 02 32 9D D1"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11667 H 7200",
-    "id": "E399 MAIN",
-    "key": "BA 1F 9E 77 8D 7C 6B 74"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11695 H 7200",
-    "id": "Giochi MEDiterraneo",
-    "key": "6F F2 90 F1 20 2E A0 EE"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 09 93"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11128 H 9600",
-    "id": "POL-55 ENC2",
-    "key": "AB BA 26 8B DC AE 09 93"
+    "frequency": "10977 H 7200",
+    "id": "F4-1 9MHz",
+    "key": "20 10 20 50 25 20 26 6B"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12509 H 4938",
-    "id": "YSM-016 MAIN",
+    "id": "BIH007 M",
     "key": "20 10 20 50 25 20 26 6B"
   }
 ]
