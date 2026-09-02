@@ -7,8 +7,8 @@
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11302 H 10000",
-        "id": "ITA473",
+        "frequency": "11301 H 10000",
+        "id": "ITA473 MAIN",
         "key": "45 C1 F3 F9 7F DF 6D CB"
     },
     {
@@ -20,7 +20,7 @@
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12509 H 4938",
-        "id": "YSM-016 MAIN",
+        "id": "BIH007 M",
         "key": "20 10 20 50 25 20 26 6B"
     },
     {
@@ -46,11 +46,5 @@
         "frequency": "11188 V 9875",
         "id": "E-385 VIA 1",
         "key": "F5 20 1A 2F 02 32 9D D1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL082 TVN WAW",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
