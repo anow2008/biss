@@ -1,7 +1,55 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
+        "frequency": "12609 V 9700",
+        "id": "CHL-AUT-GRZ-FRI",
+        "key": "D0 90 3E 9E 84 FF DE 61"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10827 H 9700",
+        "id": "CHL-CZE-PAR-TYC",
+        "key": "D0 90 3E 9E 84 FF AC 2F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10834 V 9700",
+        "id": "CHL FIN TAP LIB",
+        "key": "D0 90 3E 9E 84 FF DF 62"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10811 H 7200",
+        "id": "TUR 143 B",
+        "key": "BB 48 2D 30 A6 5E B9 BD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "TUR122B",
+        "key": "D0 90 3E 9E 52 FF BC 0D"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10973 V 9600",
+        "id": "POL-111",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL047 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11188 V 9875",
+        "id": "E-455 MAIN FEED",
+        "key": "78 4B C1 84 A5 32 7B 52"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11040 H 4938",
         "id": "EBU 1 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
     },
@@ -25,26 +73,14 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
+        "frequency": "11067 H 7200",
         "id": "IMG 2 EU",
         "key": "1F 4B 8E F8 2D 7C 9A 43"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11059 H 7200",
+        "frequency": "11058 H 7200",
         "id": "IMG 1 EU",
         "key": "A4 A7 94 DF 8A 55 41 20"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11128 H 9600",
-        "id": "POL-55 ENC2",
-        "key": "AB BA 26 8B DC AE 09 93"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11301 H 10000",
-        "id": "ITA473 MAIN",
-        "key": "45 C1 F3 F9 7F DF 6D CB"
     }
 ]
