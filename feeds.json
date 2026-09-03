@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12584 V 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "4A 4A F8 8C EC 4F 28 63"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11088 V 7120",
+        "id": "Pitch - EFL Highlights",
+        "key": "26 CC 33 25 59 E3 27 63"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11686 H 7200",
+        "id": "Giochi Mediterraneo",
+        "key": "0F 09 32 4A FE 62 20 80"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "1F 4B 8E F8 2D 7C 9A 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "A4 A7 94 DF 8A 55 41 20"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11128 H 9600",
         "id": "POL-55 ENC2",
@@ -10,41 +46,5 @@
         "frequency": "11301 H 10000",
         "id": "ITA473 MAIN",
         "key": "45 C1 F3 F9 7F DF 6D CB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7200",
-        "id": "E399 MAIN",
-        "key": "BA 1F 9E 77 8D 7C 6B 74"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12509 H 4938",
-        "id": "BIH007 M",
-        "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11162 H 7200",
-        "id": "GM",
-        "key": "F4 F0 FF E3 2F 8C 95 50"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
-        "id": "E 73 MAIN",
-        "key": "BA 1C AE 84 AA 7C 6B 91"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "CZE 001/1",
-        "key": "E5 2F FA 0E AD 09 02 B8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11188 V 9875",
-        "id": "E-385 VIA 1",
-        "key": "F5 20 1A 2F 02 32 9D D1"
     }
 ]
