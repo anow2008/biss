@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11052 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11059 H 7200",
+    "id": "IMG 1 EU",
+    "key": "A4 A7 94 DF 8A 55 41 20"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "1F 4B 8E F8 2D 7C 9A 43"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11088 V 7120",
+    "id": "Pitch - EFL Highlights",
+    "key": "26 CC 33 25 59 E3 27 63"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12584 V 7200",
+    "id": "BWF WF-A C1 BISS-1",
+    "key": "4A 4A F8 8C EC 4F 28 63"
+  }
+]
