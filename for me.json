@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10827 H 9700",
+        "id": "CHL-CZE-PAR-TYC",
+        "key": "D0 90 3E 9E 84 FF AC 2F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10834 V 9700",
+        "id": "CHL FIN TAP LIB",
+        "key": "D0 90 3E 9E 84 FF DF 62"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10996 V 7500",
+        "id": "POL047 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12528 H 7200",
+        "id": "FIFAU20 BB PATH2",
+        "key": "30 F0 21 41 C0 79 43 7C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "FIFA U20 KATOWICE",
+        "key": "79 A3 2D 49 F3 0E 7C 7D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10801 H 7200",
         "id": "TUR122B",
         "key": "D0 90 3E 9E 52 FF BC 0D"
