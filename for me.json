@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11088 V 7200",
+        "id": "Fi ENC ITRAI",
+        "key": "62 45 E7 8E 64 FD 92 F3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7200",
+        "id": "UKI-1491 CH4 Lycett Arms HD Backup",
+        "key": "1C A4 22 E2 A6 1D 3A FD"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11251 H 14400",
         "id": "PGM C+ PRO D2 AGEN VS BRIVE",
