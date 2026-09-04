@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11251 H 14400",
+        "id": "PGM C+ PRO D2 AGEN VS BRIVE",
+        "key": "F5 77 49 B5 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11290 H 9875",
+        "id": "NEP 1",
+        "key": "BA 7E 71 A9 30 4B 02 7D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11591 H 7200",
+        "id": "F-509/APL FLEURY  C+",
+        "key": "6B 53 66 24 26 80 A7 4D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11616 H 9875",
+        "id": "Fi09_ GNVE",
+        "key": "49 13 FB 57 A9 53 22 1E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12540 H 9700",
+        "id": "CHL-GER-MAN-VLH",
+        "key": "FF CF D0 9E 90 4E 84 62"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10986 V 9600",
+        "id": "TVP POL-32  ENC 1",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11164 H 9875",
+        "id": "Worldfeed Main",
+        "key": "66 1C E7 69 07 AD 86 3A"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10815 H 9700",
         "id": "CHL-DEN-HBF-KOO",
