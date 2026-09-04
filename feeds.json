@@ -1,68 +1,74 @@
 [
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL 030",
-        "key": "AB BA 26 8B DC AE 09 93"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11060 V 4938",
+        "id": "LK ENC 12",
+        "key": "82 3E 8D 4D 30 F8 8D B5"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7200",
-        "id": "Giochi MEDiterraneo",
-        "key": "62 27 80 09 08 AA 20 D2"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12537 H 7200",
-        "id": "FIFA U20 KATOWICE",
-        "key": "79 A3 2D 49 F3 0E 7C 7D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12585 V 9700",
-        "id": "CHL-AUT-RBS-KOL",
-        "key": "D0 90 3E 9E 84 FF DE 61"
+        "frequency": "12527 H 9700",
+        "id": "CHL-SVK-NIT-SKE",
+        "key": "FF CC D0 9B 90 4E 84 62"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12528 H 7200",
-        "id": "FIFAU20 BB PATH2",
-        "key": "30 F0 21 41 C0 79 43 7C"
+        "frequency": "10976 H 3600",
+        "id": "F3-1 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10827 H 9700",
-        "id": "CHL-CZE-PAR-TYC",
-        "key": "D0 90 3E 9E 84 FF AC 2F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10834 V 9700",
-        "id": "CHL FIN TAP LIB",
-        "key": "D0 90 3E 9E 84 FF DF 62"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10811 H 7200",
-        "id": "TUR 143 B",
-        "key": "BB 48 2D 30 A6 5E B9 BD"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "TUR122B",
-        "key": "D0 90 3E 9E 52 FF BC 0D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL047 TVN WAW",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11188 V 9875",
+        "frequency": "11187 V 9875",
         "id": "E-455 MAIN FEED",
-        "key": "78 4B C1 84 A5 32 7B 52"
+        "key": "CF 8F 98 F6 2D E2 E1 F0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11079 V 7120",
+        "id": "One Friday Fight 169",
+        "key": "B2 5A C3 CF 39 BD 10 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12592 V 7200",
+        "id": "BWF WF-A C2 BISS-1",
+        "key": "E2 B7 DA 73 22 96 8B 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12584 V 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "63 48 56 01 FE 57 C6 1B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12552 H 9875",
+        "id": "WSBK Magny-Cours",
+        "key": "A2 69 11 1C B4 6D 64 85"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11668 H 7500",
+        "id": "NLFLEV_HOL-090 CH-A",
+        "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "B2 D7 A4 2D F9 C1 E5 9F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "A4 A7 94 DF 8A 55 41 20"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
     }
 ]
