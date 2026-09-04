@@ -1,6 +1,90 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10815 H 9700",
+        "id": "CHL-DEN-HBF-KOO",
+        "key": "FF AF D0 7E 90 4E 84 62"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10828 H 7200",
+        "id": "CRETE IBT M",
+        "key": "01 36 24 5B 98 7E 62 78"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10834 V 9700",
+        "id": "CHL-SUI-GEN-BER",
+        "key": "FF BD D0 8C 90 4E 84 62"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10846 V 9700",
+        "id": "CHL-SUI-HCD-STO",
+        "key": "FF CD D0 9C 90 4E 84 62"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11657 H 4938",
+        "id": "ORA - ANA",
+        "key": "57 98 FF EE ED 5C 6A B3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12609 V 9700",
+        "id": "CHL-SWE-FHC-SAI",
+        "key": "FF CC D0 9B 90 4E 83 61"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "UFC PATH A P",
+        "key": "55 91 71 57 52 56 2A D2"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11127 H 7200",
+        "id": "F-510 OYONNAX main",
+        "key": "F5 10 49 4E 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11136 H 7200",
+        "id": "ProD2 Nice main",
+        "key": "F5 12 49 50 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11145 H 7200",
+        "id": "LNR VALENCE VS SOYAUX ANGOULEME",
+        "key": "F4 86 49 C3 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11185 H 14400",
+        "id": "ShotPut/PoleVault",
+        "key": "D4 33 E7 EE C6 01 B6 7D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12528 H 7200",
+        "id": "BMG-AST Clean",
+        "key": "30 F0 21 41 C0 79 43 7C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "main - E-285",
+        "key": "79 A3 2D 49 F3 0E 7C 7D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12563 H 5000",
+        "id": "OVERON Via 1",
+        "key": "12 34 56 9C 78 90 12 1A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11040 H 4938",
         "id": "EBU 1 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
