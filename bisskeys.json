@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11250 H 14400",
-    "id": "PGM C+ PRO D2 AGEN VS BRIVE",
-    "key": "F5 77 49 B5 1F EE D1 DE E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11250 H 14400",
-    "id": "PGM C+ PRO D2 AGEN VS BRIVE",
-    "key": "F5 77 49 B5 1F EE D1 DE"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
@@ -40,29 +28,5 @@
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "B2 D7 A4 2D F9 C1 E5 9F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7200",
-    "id": "Fi ENC ITRAI",
-    "key": "62 45 E7 8E 64 FD 92 F3"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11591 H 7200",
-    "id": "F-509/APL FLEURY  C+",
-    "key": "6B 53 66 24 26 80 A7 4D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12707 H 7200",
-    "id": "UKI-1491 CH4 Lycett Arms HD Backup",
-    "key": "1C A4 22 E2 A6 1D 3A FD"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 09 93"
   }
 ]
