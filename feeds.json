@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11290 H 9875",
+        "id": "NEP 1",
+        "key": "BA 7E 71 A9 30 4B 02 7D"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "TVP POL-32  ENC 1",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11591 H 7200",
+        "id": "F-509/APL FLEURY  C",
+        "key": "6B 53 66 24 26 80 A7 4D"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11251 H 14400",
         "id": "PGM C PRO D2 AGEN VS BRIVE",
         "key": "F5 77 49 B5 1F EE D1 DE"
@@ -54,21 +72,9 @@
         "key": "FF BD D0 8C 90 4E 84 62"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12537 H 7200",
-        "id": "main - E-285",
-        "key": "79 A3 2D 49 F3 0E 7C 7D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12528 H 7200",
-        "id": "BMG-AST Clean",
-        "key": "30 F0 21 41 C0 79 43 7C"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7200",
-        "id": "CRETE IBT M",
-        "key": "01 36 24 5B 98 7E 62 78"
+        "frequency": "11616 H 9875",
+        "id": "Fi09_ GNVE",
+        "key": "49 13 FB 57 A9 53 22 1E"
     }
 ]
