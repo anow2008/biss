@@ -1,39 +1,15 @@
 [
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11251 H 14400",
+    "frequency": "11250 H 14400",
     "id": "PGM C+ PRO D2 AGEN VS BRIVE",
-    "key": "F5 77 49 B5 1F EE D1 DE"
+    "key": "F5 77 49 B5 1F EE D1 DE E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11290 H 9875",
-    "id": "NEP 1",
-    "key": "BA 7E 71 A9 30 4B 02 7D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10815 H 9700",
-    "id": "CHL-DEN-HBF-KOO",
-    "key": "FF AF D0 7E 90 4E 84 62"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10828 H 7200",
-    "id": "CRETE IBT M",
-    "key": "01 36 24 5B 98 7E 62 78"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10834 V 9700",
-    "id": "CHL-SUI-GEN-BER",
-    "key": "FF BD D0 8C 90 4E 84 62"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10846 V 9700",
-    "id": "CHL-SUI-HCD-STO",
-    "key": "FF CD D0 9C 90 4E 84 62"
+    "frequency": "11250 H 14400",
+    "id": "PGM C+ PRO D2 AGEN VS BRIVE",
+    "key": "F5 77 49 B5 1F EE D1 DE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -67,68 +43,26 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11089 V 7200",
+    "id": "Fi ENC ITRAI",
+    "key": "62 45 E7 8E 64 FD 92 F3"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11591 H 7200",
     "id": "F-509/APL FLEURY  C+",
     "key": "6B 53 66 24 26 80 A7 4D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11667 H 7500",
-    "id": "NLFLEV_HOL-090 CH-A",
-    "key": "B1 A8 C3 1C DA 6A 4A 8E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12540 H 9700",
-    "id": "CHL-GER-MAN-VLH",
-    "key": "FF CF D0 9E 90 4E 84 62"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12609 V 9700",
-    "id": "CHL-SWE-FHC-SAI",
-    "key": "FF CC D0 9B 90 4E 83 61"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10976 H 3600",
-    "id": "F3-1 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
+    "frequency": "12707 H 7200",
+    "id": "UKI-1491 CH4 Lycett Arms HD Backup",
+    "key": "1C A4 22 E2 A6 1D 3A FD"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "10986 V 9600",
     "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 09 93"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11127 H 7200",
-    "id": "F-510 OYONNAX main",
-    "key": "F5 10 49 4E 1F EE D1 DE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11136 H 7200",
-    "id": "ProD2 Nice main",
-    "key": "F5 12 49 50 1F EE D1 DE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11145 H 7200",
-    "id": "LNR VALENCE VS SOYAUX ANGOULEME",
-    "key": "F4 86 49 C3 1F EE D1 DE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11164 H 9875",
-    "id": "Worldfeed Main",
-    "key": "66 1C E7 69 07 AD 86 3A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11185 H 14400",
-    "id": "ShotPut/PoleVault",
-    "key": "D4 33 E7 EE C6 01 B6 7D"
   }
 ]
