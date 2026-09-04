@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10818 V 3670",
+    "id": "GCUK Enc 5",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11040 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11052 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11059 H 7200",
+    "id": "IMG 1 EU",
+    "key": "A4 A7 94 DF 8A 55 41 20"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "B2 D7 A4 2D F9 C1 E5 9F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11079 V 7120",
+    "id": "One Friday Fight 169",
+    "key": "B2 5A C3 CF 39 BD 10 06"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11187 V 9875",
+    "id": "E-455 MAIN FEED",
+    "key": "CF 8F 98 F6 2D E2 E1 F0"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11668 H 7500",
+    "id": "NLFLEV_HOL-090 CH-A",
+    "key": "B1 A8 C3 1C DA 6A 4A 8E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12552 H 9875",
+    "id": "WSBK Magny-Cours",
+    "key": "A2 69 11 1C B4 6D 64 85"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12584 V 7200",
+    "id": "BWF WF-A C1 BISS-1",
+    "key": "63 48 56 01 FE 57 C6 1B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12592 V 7200",
+    "id": "BWF WF-A C2 BISS-1",
+    "key": "E2 B7 DA 73 22 96 8B 43"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10976 H 3600",
+    "id": "F3-1 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  }
+]
