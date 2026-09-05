@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11164 H 9875",
+        "id": "Worldfeed Main",
+        "key": "16 69 08 87 AD C3 4F BF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12707 H 7200",
+        "id": "ENC 6",
+        "key": "72 4C 9D 5B B4 34 21 09"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10802 H 7200",
         "id": "TANDBERG",
@@ -49,26 +61,8 @@
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11247 H 7200",
-        "id": "ita 81_A",
-        "key": "BC 03 20 DF 26 05 09 34"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "10744 V 7200",
         "id": "VOLOS VS OSFP",
         "key": "0A 15 2F 4E 1B 42 DA 37"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10754 H 7200",
-        "id": "NLEMG HOL",
-        "key": "11 ED 25 23 F1 BB 14 C0"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11605 H 7200",
-        "id": "Medialink CRO-021/1",
-        "key": "B7 51 A5 AD 56 09 AD 0C"
     }
 ]
