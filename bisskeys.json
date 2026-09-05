@@ -1,20 +1,8 @@
 [
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10721 H 7200",
-    "id": "CRO-023/1",
-    "key": "11 ED 25 23 F1 BB 14 C0"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10754 H 7200",
-    "id": "NLEMG HOL",
-    "key": "11 ED 25 23 F1 BB 14 C0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10822 V 3670",
-    "id": "GCUK Enc 10",
+    "frequency": "11247 H 7500",
+    "id": "AFD-LPF",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
@@ -49,12 +37,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11591 H 7200",
-    "id": "F512 APL MARSEILLE main",
-    "key": "39 19 10 62 46 4C 70 02"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11609 V 7200",
     "id": "Fi17GNVE",
     "key": "1A 44 7E DC 51 1E 22 91"
@@ -64,17 +46,5 @@
     "frequency": "11686 H 7500",
     "id": "ENC 4",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12680 H 7200",
-    "id": "UFC PATH A P",
-    "key": "55 91 71 57 52 56 2A D2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12689 H 7200",
-    "id": "UFC PATH C P",
-    "key": "55 91 71 57 52 56 2A D2"
   }
 ]
