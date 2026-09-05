@@ -1,13 +1,61 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11606 H 7200",
+        "frequency": "11591 H 7200",
+        "id": "F512 APL MARSEILLE main",
+        "key": "39 19 10 62 46 4C 70 02"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11185 H 14400",
+        "id": "HighJumpMen",
+        "key": "F2 9D EA 79 19 D3 4F 3B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11154 H 7200",
+        "id": "POL-102 MAIN",
+        "key": "AC DC 20 A8 26 BA CA AA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11213 V 7200",
+        "id": "NOTV2-ENC3",
+        "key": "10 6F EF 6E 08 04 F5 01"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11302 H 9875",
+        "id": "Wales rally SDR",
+        "key": "44 8C D3 A3 18 03 64 7F"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11247 H 7200",
+        "id": "ita 81_A",
+        "key": "BC 03 20 DF 26 05 09 34"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10744 V 7200",
+        "id": "VOLOS VS OSFP",
+        "key": "0A 15 2F 4E 1B 42 DA 37"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10754 H 7200",
+        "id": "NLEMG HOL",
+        "key": "11 ED 25 23 F1 BB 14 C0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11605 H 7200",
         "id": "Medialink CRO-021/1",
         "key": "B7 51 A5 AD 56 09 AD 0C"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11166 V 7200",
+        "frequency": "11167 V 7200",
         "id": "Globecast 333 SNG",
         "key": "CA 01 BC 87 A3 8F E1 13"
     },
@@ -22,77 +70,5 @@
         "frequency": "12555 H 7200",
         "id": "E-289 BK",
         "key": "AB BA 20 85 26 09 05 34"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12512 H 9700",
-        "id": "CHL-CZE-PLZ-TYC",
-        "key": "E8 4F FD 34 CD 09 05 DB"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12521 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11172 H 7200",
-        "id": "British GT Cars Main",
-        "key": "DF 69 31 79 5C 8B A1 88"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10980 H 3600",
-        "id": "F3-1 4.5MH",
-        "key": "20 25 AE F3 EA 52 02 3E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11076 V 7200",
-        "id": "E-069 MAIN",
-        "key": "AA AA 05 59 09 BB BB 7F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "BWF WF-A C1 BISS-1",
-        "key": "6A 56 7E 3E 76 F7 98 05"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11188 V 9875",
-        "id": "E-455 MAIN FEED",
-        "key": "12 B9 07 D2 2E 8B 4C 05"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "UFC PATH C P",
-        "key": "55 91 71 57 52 56 2A D2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12552 H 9875",
-        "id": "WSBK Magny-Cours",
-        "key": "B2 3A 12 FE BA C3 45 C2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11067 H 7200",
-        "id": "IMG 2 EU",
-        "key": "4C 8E 1B F5 7D 5A 2F 06"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 H 7200",
-        "id": "TUR122B",
-        "key": "E5 2F FF 13 AD 09 05 BB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7120",
-        "id": "Pitch - EFL -Burnley v Bristol City",
-        "key": "34 88 36 F2 FE 44 FE 40"
     }
 ]
