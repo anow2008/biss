@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11080 V 7120",
+        "id": "Pitch EFL Swansea v Wrexham",
+        "key": "35 46 B7 32 77 A7 77 95"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11609 V 7200",
+        "id": "Fi17GNVE",
+        "key": "1A 44 7E DC 51 1E 22 91"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11685 H 7500",
+        "id": "ENC 4",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7200",
+        "id": "ENC 6",
+        "key": "72 4C 9D 5B B4 34 21 09"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11213 V 7200",
         "id": "NOTV2-ENC3",
         "key": "10 6F EF 6E 08 04 F5 01"
