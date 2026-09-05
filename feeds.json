@@ -1,15 +1,15 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "UKI-1491 CH4 Lycett Arms HD Backup",
-        "key": "1C A4 22 E2 A6 1D 3A FD"
+        "frequency": "11606 H 7200",
+        "id": "Medialink CRO-021/1",
+        "key": "B7 51 A5 AD 56 09 AD 0C"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7200",
-        "id": "Fi ENC ITRAI",
-        "key": "62 45 E7 8E 64 FD 92 F3"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11166 V 7200",
+        "id": "Globecast 333 SNG",
+        "key": "CA 01 BC 87 A3 8F E1 13"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
@@ -19,62 +19,80 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "TVP POL-32  ENC 1",
-        "key": "AB BA 26 8B DC AE 09 93"
+        "frequency": "12555 H 7200",
+        "id": "E-289 BK",
+        "key": "AB BA 20 85 26 09 05 34"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12512 H 9700",
+        "id": "CHL-CZE-PLZ-TYC",
+        "key": "E8 4F FD 34 CD 09 05 DB"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12521 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11172 H 7200",
+        "id": "British GT Cars Main",
+        "key": "DF 69 31 79 5C 8B A1 88"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10980 H 3600",
+        "id": "F3-1 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11591 H 7200",
-        "id": "F-509/APL FLEURY  C",
-        "key": "6B 53 66 24 26 80 A7 4D"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11250 H 14400",
-        "id": "PGM C PRO D2 AGEN VS BRIVE",
-        "key": "F5 77 49 B5 1F EE D1 DE"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11127 H 7200",
-        "id": "F-510 OYONNAX main",
-        "key": "F5 10 49 4E 1F EE D1 DE"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11145 H 7200",
-        "id": "LNR VALENCE VS SOYAUX ANGOULEME",
-        "key": "F4 86 49 C3 1F EE D1 DE"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11136 H 7200",
-        "id": "ProD2 Nice main",
-        "key": "F5 12 49 50 1F EE D1 DE"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12563 H 5000",
-        "id": "OVERON Via 1",
-        "key": "12 34 56 9C 78 90 12 1A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11164 H 9875",
-        "id": "Worldfeed Main",
-        "key": "66 1C E7 69 07 AD 86 3A"
+        "frequency": "11076 V 7200",
+        "id": "E-069 MAIN",
+        "key": "AA AA 05 59 09 BB BB 7F"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10846 V 9700",
-        "id": "CHL-SUI-HCD-STO",
-        "key": "FF CD D0 9C 90 4E 84 62"
+        "frequency": "12583 V 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "6A 56 7E 3E 76 F7 98 05"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11657 H 4938",
-        "id": "ORA - ANA",
-        "key": "57 98 FF EE ED 5C 6A B3"
+        "frequency": "11188 V 9875",
+        "id": "E-455 MAIN FEED",
+        "key": "12 B9 07 D2 2E 8B 4C 05"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "UFC PATH C P",
+        "key": "55 91 71 57 52 56 2A D2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12552 H 9875",
+        "id": "WSBK Magny-Cours",
+        "key": "B2 3A 12 FE BA C3 45 C2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "4C 8E 1B F5 7D 5A 2F 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 H 7200",
+        "id": "TUR122B",
+        "key": "E5 2F FF 13 AD 09 05 BB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11089 V 7120",
+        "id": "Pitch - EFL -Burnley v Bristol City",
+        "key": "34 88 36 F2 FE 44 FE 40"
     }
 ]
