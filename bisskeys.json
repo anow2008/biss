@@ -1,11 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11580 H 7200",
-    "id": "Unname",
-    "key": "11 ED 25 23 F1 BB 14 C0"
-  },
-  {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10721 H 7200",
     "id": "CRO-023/1",
@@ -19,8 +13,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10802 H 7200",
-    "id": "TANDBERG",
+    "frequency": "10822 V 3670",
+    "id": "GCUK Enc 10",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
@@ -55,12 +49,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11080 V 7120",
-    "id": "Pitch EFL Swansea v Wrexham",
-    "key": "35 46 B7 32 77 A7 77 95"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11591 H 7200",
     "id": "F512 APL MARSEILLE main",
     "key": "39 19 10 62 46 4C 70 02"
@@ -73,13 +61,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11667 H 7500",
-    "id": "NLFLEV_HOL-090 CH-A",
-    "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    "frequency": "11686 H 7500",
+    "id": "ENC 4",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12679 H 7200",
+    "frequency": "12680 H 7200",
     "id": "UFC PATH A P",
     "key": "55 91 71 57 52 56 2A D2"
   },
@@ -88,29 +76,5 @@
     "frequency": "12689 H 7200",
     "id": "UFC PATH C P",
     "key": "55 91 71 57 52 56 2A D2"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10980 H 3600",
-    "id": "F3-1 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL11_HARM",
-    "key": "AB BA 26 8B DC AE 09 93"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11154 H 7200",
-    "id": "POL-102 MAIN",
-    "key": "AC DC 20 A8 26 BA CA AA"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11185 H 14400",
-    "id": "ShotPut/PoleVault",
-    "key": "F2 9D EA 79 19 D3 4F 3B"
   }
 ]
