@@ -28,5 +28,11 @@
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "B2 D7 A4 2D F9 C1 E5 9F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11080 V 7120",
+    "id": "One Fight Night 47",
+    "key": "B2 C5 D3 4A E6 F4 A7 81"
   }
 ]
