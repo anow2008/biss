@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11213 V 7200",
+        "id": "NOTV2-ENC3",
+        "key": "10 6F EF 6E 08 04 F5 01"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11591 H 7200",
+        "id": "F512 APL MARSEILLE main",
+        "key": "39 19 10 62 46 4C 70 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11667 H 7500",
+        "id": "NLFLEV_HOL-090 CH-A",
+        "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10965 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10971 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10986 V 9600",
+        "id": "POL11_HARM",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11154 H 7200",
+        "id": "POL-102 MAIN",
+        "key": "AC DC 20 A8 26 BA CA AA"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11185 H 14400",
+        "id": "ShotPut/PoleVault",
+        "key": "F2 9D EA 79 19 D3 4F 3B"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "10744 V 7200",
         "id": "VOLOS VS OSFP",
