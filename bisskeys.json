@@ -3,19 +3,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11580 H 7200",
     "id": "Unname",
-    "key": "0A 15 2F 4E 1B 42 DA 37"
+    "key": "11 ED 25 23 F1 BB 14 C0"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "10721 H 7200",
     "id": "CRO-023/1",
-    "key": "0A 15 2F 4E 1B 42 DA 37"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10744 V 7200",
-    "id": "VOLOS VS OSFP",
-    "key": "0A 15 2F 4E 1B 42 DA 37"
+    "key": "11 ED 25 23 F1 BB 14 C0"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
@@ -24,34 +18,10 @@
     "key": "11 ED 25 23 F1 BB 14 C0"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11167 V 7200",
-    "id": "Globecast 333 SNG",
-    "key": "CA 01 BC 87 A3 8F E1 13"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11247 H 7200",
-    "id": "ita 81_A",
-    "key": "BC 03 20 DF 26 05 09 34"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11302 H 9875",
-    "id": "Wales rally SDR",
-    "key": "44 8C D3 A3 18 03 64 7F"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10818 V 3670",
-    "id": "Encoder 7",
-    "key": "E5 2F FF 13 AD 09 05 BB"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 H 7200",
-    "id": "TUR122B",
-    "key": "E5 2F FF 13 AD 09 05 BB"
+    "frequency": "10802 H 7200",
+    "id": "TANDBERG",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -85,9 +55,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11213 V 7200",
-    "id": "NOTV2-ENC3",
-    "key": "10 6F EF 6E 08 04 F5 01"
+    "frequency": "11080 V 7120",
+    "id": "Pitch EFL Swansea v Wrexham",
+    "key": "35 46 B7 32 77 A7 77 95"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -97,9 +67,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11605 H 7200",
-    "id": "Medialink CRO-021/1",
-    "key": "B7 51 A5 AD 56 09 AD 0C"
+    "frequency": "11609 V 7200",
+    "id": "Fi17GNVE",
+    "key": "1A 44 7E DC 51 1E 22 91"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -109,7 +79,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12680 H 7200",
+    "frequency": "12679 H 7200",
     "id": "UFC PATH A P",
     "key": "55 91 71 57 52 56 2A D2"
   },
@@ -142,11 +112,5 @@
     "frequency": "11185 H 14400",
     "id": "ShotPut/PoleVault",
     "key": "F2 9D EA 79 19 D3 4F 3B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12512 H 9700",
-    "id": "CHL-CZE-PLZ-TYC",
-    "key": "E8 4F FD 34 CD 09 05 DB"
   }
 ]
