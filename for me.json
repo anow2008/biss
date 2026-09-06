@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 10A",
+        "frequency": "10720 V 7200",
+        "id": "SOS PGM C+ TOP14 LA ROCHELLE",
+        "key": "F5 77 95 01 1F EE D2 DF"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10729 V 7200",
+        "id": "LNR UK TOP14 LA ROCHELLE VS TOULOUSE",
+        "key": "F5 77 95 01 1F EE D2 DF"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11247 H 7500",
+        "id": "Signal 8",
+        "key": "A1 26 62 29 C1 31 CD BF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 V 7120",
+        "id": "NLEMG HOL312-1",
+        "key": "6A 96 58 58 F4 AD 11 B2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 10A",
         "frequency": "11275 H 9700",
         "id": "CHL-GER-MAN-SKE",
         "key": "D0 90 6E CE 84 FF BE 41"
