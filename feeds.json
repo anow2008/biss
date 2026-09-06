@@ -1,62 +1,86 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11187 V 9875",
-        "id": "E-455 MAIN FEED",
-        "key": "3B E4 BA D9 62 A7 79 82"
+        "frequency": "11686 H 7200",
+        "id": "ITA 403 - RACE ANATOMY",
+        "key": "AA 06 FF AF 09 BB 26 EA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11676 H 7200",
+        "id": "ITA 451",
+        "key": "EC C0 B1 5D 55 C0 DE F3"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11251 H 14400",
-        "id": "NEP 2",
-        "key": "BA 7E 71 A9 30 4B 02 7D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11144 H 7200",
-        "id": "UKI-1852-C3",
-        "key": "AD 43 CC BC A1 CB 11 7D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11171 H 7200",
-        "id": "British GT Cars Main",
-        "key": "DF 69 31 79 5C 8B A1 88"
+        "frequency": "11275 H 9700",
+        "id": "CHL-GER-MAN-SKE",
+        "key": "D0 90 6E CE 84 FF BE 41"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12527 H 9700",
-        "id": "CHL-SVK-NIT-VHL",
-        "key": "D0 90 6E CE 84 FF EA 6D"
+        "frequency": "11080 V 7200",
+        "id": "D510 feed1",
+        "key": "49 22 89 F4 58 44 00 9C"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11061 V 7200",
-        "id": "TUR122B",
-        "key": "D0 90 6E CE 52 FF FC 4D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10964 V 4800",
-        "id": "pol-053_enc2",
-        "key": "AB BA 26 8B DC AE 09 93"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12538 H 7200",
-        "id": "Main E-285",
-        "key": "2A 16 6F AF 27 E0 6D 74"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12529 H 7200",
-        "id": "FIFA U20 SOSNOW",
-        "key": "2B 29 36 8A E0 FB 16 F1"
+        "frequency": "11592 H 9875",
+        "id": "TUR-034 /MAIN",
+        "key": "30 19 D2 1B 99 B8 88 D9"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10834 V 9700",
-        "id": "CHL-SUI-HCD-BER",
-        "key": "D0 90 6E CE 84 FF FB 7E"
+        "frequency": "11637 V 7200",
+        "id": "TUR 143 A",
+        "key": "35 AF CB AF 37 FA 76 A7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11634 H 14400",
+        "id": "G19 MAIN",
+        "key": "A2 B2 22 76 1A 22 BA F6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11615 H 9875",
+        "id": "Fi10_GNVE",
+        "key": "1C 60 91 0D A6 BD A0 03"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10866 H 7200",
+        "id": "MNE-001 back up",
+        "key": "99 8C C0 E5 01 BA A2 5D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 H 7200",
+        "id": "SWE-029 EHF NYK-ODE",
+        "key": "55 4D 34 D6 AA CD A3 1A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10846 V 9700",
+        "id": "CHL-SUI-GEN-STO",
+        "key": "D0 90 6E CE 84 FF FD 80"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11290 H 9700",
+        "id": "CHL-SWE-FHC-KOO",
+        "key": "D0 90 6E CE 84 FF DE 61"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "CRETE IBT M",
+        "key": "01 36 24 5B 98 7E 62 78"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11188 V 9875",
+        "id": "E-455 MAIN FEED",
+        "key": "3B E4 BA D9 62 A7 79 82"
     }
 ]
