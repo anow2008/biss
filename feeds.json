@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11619 V 7200",
+        "id": "Fi18_GNVE",
+        "key": "2B 29 36 8A E0 FB 16 F1"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11164 H 9875",
         "id": "Worldfeed Main",
@@ -58,11 +64,5 @@
         "frequency": "11302 H 9875",
         "id": "Wales rally SDR",
         "key": "44 8C D3 A3 18 03 64 7F"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10744 V 7200",
-        "id": "VOLOS VS OSFP",
-        "key": "0A 15 2F 4E 1B 42 DA 37"
     }
 ]
