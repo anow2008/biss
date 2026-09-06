@@ -1,68 +1,62 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11619 V 7200",
-        "id": "Fi18_GNVE",
-        "key": "2B 29 36 8A E0 FB 16 F1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11164 H 9875",
-        "id": "Worldfeed Main",
-        "key": "16 69 08 87 AD C3 4F BF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "ENC 6",
-        "key": "72 4C 9D 5B B4 34 21 09"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "TANDBERG",
-        "key": "1F 5E 66 E3 C5 94 80 D9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11609 V 7200",
-        "id": "Fi17GNVE",
-        "key": "1A 44 7E DC 51 1E 22 91"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 09 93"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11591 H 7200",
-        "id": "F512 APL MARSEILLE main",
-        "key": "39 19 10 62 46 4C 70 02"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11185 H 14400",
-        "id": "HighJumpMen",
-        "key": "F2 9D EA 79 19 D3 4F 3B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11154 H 7200",
-        "id": "POL-102 MAIN",
-        "key": "AC DC 20 A8 26 BA CA AA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11213 V 7200",
-        "id": "NOTV2-ENC3",
-        "key": "10 6F EF 6E 08 04 F5 01"
+        "frequency": "11187 V 9875",
+        "id": "E-455 MAIN FEED",
+        "key": "3B E4 BA D9 62 A7 79 82"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11302 H 9875",
-        "id": "Wales rally SDR",
-        "key": "44 8C D3 A3 18 03 64 7F"
+        "frequency": "11251 H 14400",
+        "id": "NEP 2",
+        "key": "BA 7E 71 A9 30 4B 02 7D"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11144 H 7200",
+        "id": "UKI-1852-C3",
+        "key": "AD 43 CC BC A1 CB 11 7D"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11171 H 7200",
+        "id": "British GT Cars Main",
+        "key": "DF 69 31 79 5C 8B A1 88"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12527 H 9700",
+        "id": "CHL-SVK-NIT-VHL",
+        "key": "D0 90 6E CE 84 FF EA 6D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11061 V 7200",
+        "id": "TUR122B",
+        "key": "D0 90 6E CE 52 FF FC 4D"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10964 V 4800",
+        "id": "pol-053_enc2",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12538 H 7200",
+        "id": "Main E-285",
+        "key": "2A 16 6F AF 27 E0 6D 74"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12529 H 7200",
+        "id": "FIFA U20 SOSNOW",
+        "key": "2B 29 36 8A E0 FB 16 F1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10834 V 9700",
+        "id": "CHL-SUI-HCD-BER",
+        "key": "D0 90 6E CE 84 FF FB 7E"
     }
 ]
