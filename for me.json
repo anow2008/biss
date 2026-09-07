@@ -1,1 +1,86 @@
-[]
+[
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11040 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 34 27 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "73 E1 A9 FD C4 D8 F2 8E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 9875",
+        "id": "GVA_Fi01",
+        "key": "75 E5 7C D6 7E 9F EE 0B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11610 V 7200",
+        "id": "Fi17GNVE",
+        "key": "3A 42 D4 50 1B 00 6E 89"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11618 V 7200",
+        "id": "Fi18_GNVE",
+        "key": "3B 33 BE 2C EA DB B5 7A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11658 H 4938",
+        "id": "ANA",
+        "key": "11 11 11 33 11 1F ED 1D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10970 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10976 V 4800",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10982 V 4800",
+        "id": "POL - 054 Kielce",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10996 V 7500",
+        "id": "POL039 TVN24 KRK",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11005 V 7500",
+        "id": "POL021 p2 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    }
+]
