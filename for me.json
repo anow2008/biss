@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11084 V 14400",
+        "id": "E-447 Main",
+        "key": "DC AA 45 CB 67 BD DA FE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11084 V 14400",
+        "id": "E-447 Main",
+        "key": "DC AA 45 CB 67 BD DA FE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11628 H 7120",
+        "id": "PITCH - Carabao Cup R3 - Crystal Palace v Middlesbrough",
+        "key": "24 22 CC 12 DD 42 42 61"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 H 7120",
+        "id": "PITCH - Carabao Cup R3 - Sunderland v Hull",
+        "key": "24 11 DD 12 AA 23 42 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7120",
+        "id": "Carabao Leyton V Bradford",
+        "key": "42 14 DA 30 AD 32 21 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7120",
+        "id": "PITCH EFL Bolton V Westham",
+        "key": "42 35 66 DD 6A 21 21 AC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7120",
+        "id": "Carabao Millwall V Newcastle",
+        "key": "14 31 DD 22 CC 24 21 11"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11611 V 9875",
         "id": "GVA_Fi01",
         "key": "39 47 20 A0 27 A2 80 49"
