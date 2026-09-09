@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11078 V 4938",
+        "id": "Unname",
+        "key": "A1 5A 0B 06 07 0B 3D 4F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11631 H 9875",
+        "id": "E-455 MAIN FEED",
+        "key": "BC 82 56 94 8B 26 AC 5D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10971 V 4800",
+        "id": "POL - 054 Kielce",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11046 H 4938",
         "id": "EBU 2 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
