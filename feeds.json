@@ -1,68 +1,56 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7120",
-        "id": "PITCH EFL Bolton V Westham",
-        "key": "42 35 66 DD 6A 21 21 AC"
+        "frequency": "11631 H 9875",
+        "id": "E-455 MAIN FEED",
+        "key": "BC 82 56 94 8B 26 AC 5D"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11656 H 7120",
-        "id": "Carabao Leyton V Bradford",
-        "key": "42 14 DA 30 AD 32 21 00"
+        "frequency": "12593 V 7200",
+        "id": "YLE-MCR",
+        "key": "D0 90 9E FE 60 FF BA 19"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10771 H 9600",
+        "id": "ARM-005 Main",
+        "key": "AE 81 69 98 54 8E 8D 6F"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7120",
-        "id": "Carabao Millwall V Newcastle",
-        "key": "14 31 DD 22 CC 24 21 11"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11084 V 14400",
-        "id": "E-447 Main",
-        "key": "DC AA 45 CB 67 BD DA FE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11637 H 7120",
-        "id": "PITCH - Carabao Cup R3 - Sunderland v Hull",
-        "key": "24 11 DD 12 AA 23 42 0F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "ITA",
-        "key": "08 08 AE BE DC 20 26 22"
+        "frequency": "11078 V 4938",
+        "id": "Unname",
+        "key": "A1 5A 0B 06 07 0B 3D 4F"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12555 H 7200",
-        "id": "E458  MAIN",
-        "key": "BC 55 AC BD 62 CB 22 4F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11611 V 9875",
-        "id": "GVA_Fi01",
-        "key": "39 47 20 A0 27 A2 80 49"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
-        "id": "HOL324 Lille TX2",
-        "key": "1A 5F 7C F5 AA 4E FD F5"
+        "frequency": "11127 H 7200",
+        "id": "FIFA U20 SOSNOW",
+        "key": "5B 00 3C 97 2A CB DC D1"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "pol-053_enc2",
+        "frequency": "10976 V 4800",
+        "id": "POL-077 ENC-1",
         "key": "AB BA 26 8B DC AE 09 93"
     },
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11154 H 7200",
+        "id": "Main E-285",
+        "key": "5A 3A 63 F7 CA 77 05 46"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12510 V 5000",
+        "id": "ITA633_A",
+        "key": "B5 F5 24 CE 87 65 5D 49"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11654 H 9875",
-        "id": "Fi14_GNVE",
-        "key": "F5 B9 63 11 6C 5B FD C4"
+        "frequency": "11643 H 9875",
+        "id": "Fi13_GNVE",
+        "key": "35 94 2A F3 FA DE 62 3A"
     }
 ]
