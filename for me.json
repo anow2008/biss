@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9875",
+        "id": "GVA_Fi01",
+        "key": "23 44 28 8F BA 32 75 61"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11628 V 7200",
+        "id": "Fi17GNVE",
+        "key": "6A 77 CA AB 48 76 31 EF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 V 7200",
+        "id": "Fi18_GNVE",
+        "key": "6B 33 E4 82 C1 1C D1 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "12689 H 7200",
         "id": "Palmeiras (BRA) vs LDU Quito (ECU) - INGLES EUROPA",
         "key": "6B A1 4C 58 2A 56 55 D5"
