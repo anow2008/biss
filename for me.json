@@ -1,6 +1,72 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10820 H 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "AF F6 BB 60 18 09 3C 5D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "AMP V02",
+        "key": "53 30 67 EA 4A BC EF F5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11591 H 7200",
+        "id": "EHF CLM VES POR",
+        "key": "C8 81 F5 3E 4E 12 3F 9F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9875",
+        "id": "GVA_Fi01",
+        "key": "B0 A3 6E C1 B5 A9 19 77"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7200",
+        "id": "D535 Magdeburg EHF",
+        "key": "92 AA 6D A9 D4 56 7E A8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12553 H 7200",
+        "id": "UKI-1852 C1",
+        "key": "22 5B DC 59 A1 FE FD 9C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7200",
+        "id": "CEV RO ROU-038 MAIN",
+        "key": "D0 90 9E FE 60 FF BD 1C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12593 V 7200",
+        "id": "Polsat Sport",
+        "key": "4D 4C 56 EF FA 11 8C 97"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12601 V 7200",
+        "id": "E380 Overon",
+        "key": "97 53 14 FE A5 7A B1 D0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7120",
+        "id": "PITCH - EFL - Pitch EFL CharltonAthletic V QPR",
+        "key": "74 37 7F 2A 4B 32 22 9F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7120",
+        "id": "Carabao - Chelsea V Leeds",
+        "key": "54 24 CC 44 AA 34 31 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11078 V 4938",
         "id": "Unname",
         "key": "A1 5A 0B 06 07 0B 3D 4F"
