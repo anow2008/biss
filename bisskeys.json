@@ -1,5 +1,11 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11694 V 3333",
+    "id": "Unname",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
@@ -13,8 +19,56 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
-    "key": "9F 2D 6B 37 1A 7C 4E E4"
+    "key": "EC 4A 8F C5 2D 1B 73 BB"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11078 V 4938",
+    "id": "Unname",
+    "key": "A1 5A 0B 06 07 0B 3D 4F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11627 V 7200",
+    "id": "Fi17GNVE",
+    "key": "5A 3A 63 F7 CA 77 05 46"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11631 H 9875",
+    "id": "E-455 MAIN FEED",
+    "key": "BC 82 56 94 8B 26 AC 5D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11637 V 7200",
+    "id": "Fi18_GNVE",
+    "key": "5B 00 3C 97 2A CB DC D1"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11643 H 9875",
+    "id": "Fi13_GNVE",
+    "key": "35 94 2A F3 FA DE 62 3A"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11051 H 3200",
+    "id": "CZE 043",
+    "key": "5B 00 3C 97 2A CB DC D1"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11127 H 7200",
+    "id": "FIFA U20 SOSNOW",
+    "key": "5B 00 3C 97 2A CB DC D1"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11154 H 7200",
+    "id": "Main E-285",
+    "key": "5A 3A 63 F7 CA 77 05 46"
   }
 ]
