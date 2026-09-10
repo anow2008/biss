@@ -19,12 +19,6 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
-        "id": "ITA 547 Backup",
-        "key": "FF BF D0 8E 91 0E 60 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11667 H 7200",
         "id": "D 571 BBL Bremen",
         "key": "43 21 DC 40 BA 20 26 00"
