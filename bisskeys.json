@@ -1,33 +1,15 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11516 H 9875",
-    "id": "ENC-23",
-    "key": "44 F5 F4 2D AE FE 64 10"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10744 V 7200",
-    "id": "TUR-161 Main",
-    "key": "FF FA D0 C9 91 0E 60 FF"
+    "frequency": "11527 H 7200",
+    "id": "CEV RO ROU-038 MAIN",
+    "key": "07 7C 51 D4 ED F5 61 43"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10802 H 7200",
-    "id": "backup",
-    "key": "DD 43 CA EA 06 BE 15 D9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10827 H 9700",
-    "id": "CHL-FIN-KOO-NIT",
-    "key": "FF CE D0 9D 91 0E 84 23"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10834 V 9700",
-    "id": "CHL-FIN-SAI-PAR",
-    "key": "FF BF D0 8E 91 0E 84 23"
+    "frequency": "10811 H 7200",
+    "id": "E-069 MAIN",
+    "key": "07 7C 51 D4 ED F5 61 43"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -61,27 +43,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11628 V 7200",
-    "id": "Fi17GNVE",
-    "key": "6A 77 CA AB 48 76 31 EF"
+    "frequency": "11611 V 9875",
+    "id": "GVA_Fi01",
+    "key": "D9 07 5A 3A F1 5F DD 2D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 V 7200",
-    "id": "Fi18_GNVE",
-    "key": "6B 33 E4 82 C1 1C D1 AE"
+    "frequency": "11656 H 7200",
+    "id": "D535 Melsungen EHF",
+    "key": "33 5C 0F 9E 89 1A AF 52"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12526 H 7200",
-    "id": "YSM-013M",
-    "key": "76 3F 54 09 ED 7A A4 0B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12535 H 7200",
-    "id": "EHF SZE KRI",
-    "key": "0B F5 0B 0B D6 55 64 8F"
+    "frequency": "11667 H 7200",
+    "id": "D 571 BBL Bremen",
+    "key": "43 21 DC 40 BA 20 26 00"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -91,32 +67,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12597 V 9700",
-    "id": "CHL-POL-TYC-HCD",
-    "key": "FF DE D0 AD 91 0E 84 23"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12609 V 9700",
     "id": "CHL-GER-KOL-FHC",
     "key": "FF DD D0 AC 91 0E 84 23"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11013 V 4600",
-    "id": "AP LDN UPA",
-    "key": "6B 33 E4 82 C1 1C D1 AE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11126 H 7200",
-    "id": "FIFA U20 SOSNOW",
-    "key": "6B 33 E4 82 C1 1C D1 AE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11154 H 7200",
-    "id": "Main E-285",
-    "key": "6A 77 CA AB 48 76 31 EF"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12679 H 7120",
+    "id": "PITCH - EFL - Stevenage v Luton Town",
+    "key": "53 52 DD 82 D7 54 3A 65"
   }
 ]
