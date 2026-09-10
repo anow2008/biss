@@ -1,6 +1,60 @@
 [
     {
         "satellite": "Eutelsat 10A",
+        "frequency": "10744 V 7200",
+        "id": "TUR-161 Main",
+        "key": "FF FA D0 C9 91 0E 60 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10802 H 7200",
+        "id": "backup",
+        "key": "DD 43 CA EA 06 BE 15 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10811 H 7200",
+        "id": "E-069 MAIN",
+        "key": "07 7C 51 D4 ED F5 61 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10834 V 9700",
+        "id": "CHL-FIN-SAI-PAR",
+        "key": "FF BF D0 8E 91 0E 84 23"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9875",
+        "id": "GVA_Fi01",
+        "key": "D9 07 5A 3A F1 5F DD 2D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11667 H 7200",
+        "id": "D 571 BBL Bremen",
+        "key": "43 21 DC 40 BA 20 26 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12526 H 7200",
+        "id": "YSM-013M",
+        "key": "76 3F 54 09 ED 7A A4 0B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12535 H 7200",
+        "id": "EHF SZE KRI",
+        "key": "0B F5 0B 0B D6 55 64 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "CHL-POL-TYC-HCD",
+        "key": "FF DE D0 AD 91 0E 84 23"
+    },
+    {
+        "satellite": "Eutelsat 10A",
         "frequency": "10745 V 7200",
         "id": "TUR-161 Main",
         "key": "FF FE D0 CD 91 0E 60 FF"
