@@ -1,15 +1,27 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "HOTBIRD 13F // Independiente del Valle ECU vs Flamengo BRA - INGLES EUROPA",
+        "key": "32 A1 E4 B7 AA BC 56 BC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11656 H 7200",
         "id": "D535 Melsungen EHF",
         "key": "33 5C 0F 9E 89 1A AF 52"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7120",
-        "id": "PITCH - EFL - Stevenage v Luton Town",
-        "key": "53 52 DD 82 D7 54 3A 65"
+        "frequency": "12679 H 7200",
+        "id": "HOTBIRD 13F // Cienciano PER vs Montevideo City Torque URU - INGLES EUROPA",
+        "key": "CB 61 AD D9 41 3C B6 33"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11677 H 7200",
+        "id": "ITA 547 Backup",
+        "key": "FF BF D0 8E 91 0E 60 FF"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -70,11 +82,5 @@
         "frequency": "12535 H 7200",
         "id": "EHF SZE KRI",
         "key": "0B F5 0B 0B D6 55 64 8F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10846 V 9700",
-        "id": "CHL-NOR-STO-KAC",
-        "key": "FF BB D0 8A 91 0E 84 23"
     }
 ]
