@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "HOTBIRD 13F // Cienciano (PER) vs Montevideo City Torque (URU) - INGLES EUROPA",
+        "key": "CB 61 AD D9 41 3C B6 33"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "HOTBIRD 13F // Independiente del Valle (ECU) vs Flamengo (BRA) - INGLES EUROPA",
+        "key": "32 A1 E4 B7 AA BC 56 BC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11677 H 7200",
         "id": "ITA 547 Backup",
         "key": "FF BF D0 8E 91 0E 60 FF"
