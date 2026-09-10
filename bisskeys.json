@@ -25,12 +25,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11611 V 9875",
-    "id": "GVA_Fi01",
-    "key": "D9 07 5A 3A F1 5F DD 2D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12679 H 7200",
     "id": "HOTBIRD 13F // Cienciano (PER) vs Montevideo City Torque (URU) - INGLES EUROPA",
     "key": "CB 61 AD D9 41 3C B6 33"
