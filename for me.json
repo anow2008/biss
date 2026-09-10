@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11677 H 7200",
+        "id": "ITA 547 Backup",
+        "key": "FF BF D0 8E 91 0E 60 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7120",
+        "id": "PITCH - EFL - Stevenage v Luton Town",
+        "key": "53 52 DD 82 D7 54 3A 65"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "10744 V 7200",
         "id": "TUR-161 Main",
