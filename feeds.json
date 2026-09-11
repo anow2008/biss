@@ -1,39 +1,15 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "HOTBIRD 13F // Independiente del Valle ECU vs Flamengo BRA - INGLES EUROPA",
-        "key": "32 A1 E4 B7 AA BC 56 BC"
+        "frequency": "10803 H 9700",
+        "id": "CHL-SUI-FRI-PLZ",
+        "key": "E8 4F FC 33 FD 09 11 17"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11656 H 7200",
-        "id": "D535 Melsungen EHF",
-        "key": "33 5C 0F 9E 89 1A AF 52"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7200",
-        "id": "HOTBIRD 13F // Cienciano PER vs Montevideo City Torque URU - INGLES EUROPA",
-        "key": "CB 61 AD D9 41 3C B6 33"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7200",
-        "id": "D 571 BBL Bremen",
-        "key": "43 21 DC 40 BA 20 26 00"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11611 V 9875",
-        "id": "GVA_Fi01",
-        "key": "D9 07 5A 3A F1 5F DD 2D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10811 H 7200",
-        "id": "E-069 MAIN",
-        "key": "07 7C 51 D4 ED F5 61 43"
+        "frequency": "12597 V 9700",
+        "id": "CHL-GER-BER-GRZ",
+        "key": "E8 4F FE 35 AD 09 11 C7"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -42,39 +18,69 @@
         "key": "82 E9 FE 69 97 52 16 FF"
     },
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "JUDO_BUDAPEST_MAIN",
+        "key": "11 09 BB D5 DC 12 21 0F"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10771 H 9600",
+        "id": "ARM-005 Main",
+        "key": "CF F7 73 39 BA 13 C0 8D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "CEV RO ROU-038 MAIN",
+        "key": "E6 0F FA EF BD 09 11 D7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "YLE-MCR",
+        "key": "E6 0F FC F1 BD 09 11 D7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10827 H 9700",
+        "id": "CHL-CZE-LIB-HBF",
+        "key": "E8 4F FE 35 DD 09 11 F7"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10745 V 7200",
+        "id": "TUR-161 Main",
+        "key": "E6 0F FE F3 BD 09 11 D7"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11163 H 7200",
-        "id": "VRT ENC 1 - EC 3x3",
+        "frequency": "12528 H 7200",
+        "id": "FIFAU20 BB PATH2 BU",
+        "key": "7B D3 DD 2B 1C 0A E5 0B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11126 H 7200",
+        "id": "BEL119",
         "key": "BA 33 AF 9C BA 20 26 00"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10834 V 9700",
-        "id": "CHL-FIN-SAI-PAR",
-        "key": "FF BF D0 8E 91 0E 84 23"
+        "frequency": "11188 V 9875",
+        "id": "E-455 MAIN FEED",
+        "key": "FD 20 A6 C3 2B 1B 8D D3"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12526 H 7200",
-        "id": "YSM-013M",
-        "key": "76 3F 54 09 ED 7A A4 0B"
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "18 D4 B7 A3 A2 C9 EF 5A"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12609 V 9700",
-        "id": "CHL-GER-KOL-FHC",
-        "key": "FF DD D0 AC 91 0E 84 23"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "backup",
-        "key": "DD 43 CA EA 06 BE 15 D9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12535 H 7200",
-        "id": "EHF SZE KRI",
-        "key": "0B F5 0B 0B D6 55 64 8F"
+        "frequency": "11204 V 7120",
+        "id": "One Friday Fight 170",
+        "key": "B2 5A C3 CF 39 BD 10 06"
     }
 ]
