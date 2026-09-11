@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10745 V 7200",
+    "id": "TUR-161 Main",
+    "key": "E6 0F FE F3 BD 09 11 D7"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10771 H 9600",
+    "id": "ARM-005 Main",
+    "key": "CF F7 73 39 BA 13 C0 8D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10803 H 9700",
+    "id": "CHL-SUI-FRI-PLZ",
+    "key": "E8 4F FC 33 FD 09 11 17"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10848 V 7200",
+    "id": "CEV RO ROU-038 MAIN",
+    "key": "E6 0F FA EF BD 09 11 D7"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11051 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11058 H 7200",
+    "id": "Amgen Irish Open 2026",
+    "key": "97 8A 33 54 C8 F4 15 D1"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11067 H 7200",
+    "id": "IMG 2 EU",
+    "key": "18 D4 B7 A3 A2 C9 EF 5A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11188 V 9875",
+    "id": "E-455 MAIN FEED",
+    "key": "FD 20 A6 C3 2B 1B 8D D3"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11204 V 7120",
+    "id": "One Friday Fight 170",
+    "key": "B2 5A C3 CF 39 BD 10 06"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11609 V 7200",
+    "id": "Fi17GNVE",
+    "key": "7A CC BB 01 1E 63 AB 2C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11618 V 7200",
+    "id": "Fi18_GNVE",
+    "key": "7B D3 DD 2B 1C 0A E5 0B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11667 H 7500",
+    "id": "NLFLEV_HOL-090 CH-A",
+    "key": "B1 A8 C3 1C DA 6A 4A 8E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11686 H 7200",
+    "id": "Solheim Cup",
+    "key": "26 CA CA BA 11 12 13 36"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12583 V 7200",
+    "id": "YLE-MCR",
+    "key": "E6 0F FC F1 BD 09 11 D7"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12597 V 9700",
+    "id": "CHL-GER-BER-GRZ",
+    "key": "E8 4F FE 35 AD 09 11 C7"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12689 H 7200",
+    "id": "JUDO_BUDAPEST_MAIN",
+    "key": "11 09 BB D5 DC 12 21 0F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10980 H 3600",
+    "id": "Fal1 Enc2",
+    "key": "7B D3 DD 2B 1C 0A E5 0B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12528 H 7200",
+    "id": "FIFAU20 BB PATH2 BU",
+    "key": "7B D3 DD 2B 1C 0A E5 0B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12537 H 7200",
+    "id": "FIFA U20 KTW PATH1 B",
+    "key": "7A CC BB 01 1E 63 AB 2C"
+  }
+]
