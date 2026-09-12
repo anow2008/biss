@@ -1,29 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11516 H 9875",
-    "id": "ENC-23",
-    "key": "05 1A 7E 9D 86 DD 3E A1 E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11516 H 9875",
-    "id": "ENC-23",
-    "key": "05 1A 7E 9D 86 DD 3E A1"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10721 H 7500",
-    "id": "AFD",
-    "key": "A1 26 62 29 C1 31 CD BF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10802 H 7200",
-    "id": "GCUK ENC13",
-    "key": "82 E9 FE 69 97 52 16 FF"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
@@ -43,7 +19,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
+    "frequency": "11059 H 7200",
     "id": "IMG 1 EU",
     "key": "12 3C AA F8 14 22 A3 D9"
   },
@@ -61,33 +37,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11667 H 7500",
-    "id": "NLFLEV_HOL-090 CH-A",
-    "key": "B1 A8 C3 1C DA 6A 4A 8E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11677 H 7200",
-    "id": "ITA349 CEV MODENA",
-    "key": "D0 91 2E 8F 60 FF CE 2D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11686 H 7200",
     "id": "UFC Fight Night on P+ #23: All Fights",
     "key": "48 53 6F 0A 6E 94 26 28"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11694 H 7200",
+    "frequency": "11695 H 7200",
     "id": "ENC 7",
     "key": "89 01 B7 41 C5 12 34 0B"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11013 V 4600",
-    "id": "GMS Cairo 1",
-    "key": "AB AB 20 76 26 AB AB 7C"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12689 H 7500",
+    "id": "ENC 2",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
