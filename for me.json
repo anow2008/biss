@@ -1,5 +1,125 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11484 V 7200",
+        "id": "SLQ-010 UNI",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11527 H 7200",
+        "id": "CEV RO ROU-038 MAIN",
+        "key": "D0 91 2E 8F 60 FF AB 0A"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10719 H 9700",
+        "id": "CHL-NOR-STO-FHC",
+        "key": "D0 91 2E 8F 84 FF EF 72"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10744 V 7200",
+        "id": "TUR-161 Main",
+        "key": "D0 91 2E 8F 60 FF CB 2A"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11260 V 9700",
+        "id": "CHL-GER-KOL-KAC",
+        "key": "D0 91 2E 8F 84 FF CD 50"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10841 H 9700",
+        "id": "CHL-FIN-KOO-PAR",
+        "key": "D0 91 2E 8F 84 FF BE 41"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10867 H 7200",
+        "id": "AKK BBL Pokal",
+        "key": "32 14 DC 22 BA 20 26 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "Amgen Irish Open 2026",
+        "key": "97 8A 33 54 C8 F4 15 D1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11080 V 7120",
+        "id": "PITCH - EFL Watford v Stoke",
+        "key": "22 54 43 B9 BB 32 50 3D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11188 V 9875",
+        "id": "E-455 MAIN FEED",
+        "key": "1C 97 8B 3E 50 C3 EE 01"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11642 H 9875",
+        "id": "GVA_Fi02",
+        "key": "83 4C FC CB 7E CC BD 07"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11677 H 7200",
+        "id": "ITA349 CEV MODENA",
+        "key": "D0 91 2E 8F 60 FF DB 3A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12544 H 7200",
+        "id": "OSFP VS OFI M",
+        "key": "06 78 03 81 97 5F 4C 42"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "JUDO_BUDAPEST_MAIN",
+        "key": "11 09 BB D5 DC 12 21 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12705 H 9875",
+        "id": "Medialink CRO-024/1",
+        "key": "78 BB 56 89 CD 90 AB 08"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10980 H 3600",
+        "id": "F7-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11104 H 9875",
+        "id": "D366_RTL_DIGI_Path1",
+        "key": "AB AB 20 76 26 AB AB 7C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11152 H 9700",
+        "id": "POL-068_ch1",
+        "key": "D0 91 2E 8F 84 FF AF 32"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11164 H 9875",
+        "id": "GVA_Fi01",
+        "key": "CE 1B C3 AC 10 E1 ED DE"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12510 H 7200",
+        "id": "ITA 494 MAIN",
+        "key": "3E 83 F2 B3 CA 53 9D BA"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11045 H 4938",
         "id": "EBU 2 ENC",
