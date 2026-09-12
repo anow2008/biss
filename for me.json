@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11516 H 9875",
+        "id": "ENC-23",
+        "key": "05 1A 7E 9D 86 DD 3E A1"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10721 H 7500",
+        "id": "AFD",
+        "key": "A1 26 62 29 C1 31 CD BF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11677 H 7200",
+        "id": "ITA349 CEV MODENA",
+        "key": "D0 91 2E 8F 60 FF CE 2D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11694 H 7200",
+        "id": "ENC 7",
+        "key": "89 01 B7 41 C5 12 34 0B"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11080 V 7200",
         "id": "WSHT ENC 55",
