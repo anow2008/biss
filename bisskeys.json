@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10840 H 7200",
+    "id": "E-228 Main",
+    "key": "AB BA 13 78 09 20 26 4F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10848 V 7200",
+    "id": "GCUK Enc 5",
+    "key": "FF CA D0 99 91 3E 72 41"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11040 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11052 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11059 H 7200",
+    "id": "IMG 1 EU",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "3B 9A 4D 22 7E 1F 2C C9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11592 H 9875",
+    "id": "GVA_Fi04",
+    "key": "71 D4 8F D4 58 87 48 27"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11604 H 9875",
+    "id": "GVA_Fi03",
+    "key": "DE 81 EF 4E B0 9B BE 09"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12528 H 9875",
+    "id": "IPF",
+    "key": "87 65 C4 B0 A0 86 7C A2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12610 V 7200",
+    "id": "SLQ 008 M",
+    "key": "FF CA D0 99 91 3E 72 41"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10976 H 3600",
+    "id": "F2-1 4.5MH",
+    "key": "BA 33 AF 9C BA 20 26 00"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11127 H 7200",
+    "id": "BEL119",
+    "key": "BA 33 AF 9C BA 20 26 00"
+  }
+]
