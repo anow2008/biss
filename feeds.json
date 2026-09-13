@@ -1,7 +1,61 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11516 H 9875",
+        "id": "ENC-23",
+        "key": "69 8F 2D 25 13 B9 C2 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "TVP POL-32  ENC 1",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
+        "frequency": "11215 V 4938",
+        "id": "ORA - ANA",
+        "key": "6A 5D 74 3B AC B1 C4 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "ASTERAS VS AEK M",
+        "key": "7E 1B 0C A5 9E E2 B3 33"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12526 H 7200",
+        "id": "BBL Pokal HD vs OL",
+        "key": "32 14 DC 22 BA 20 26 00"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11516 H 9875",
+        "id": "ENC-23",
+        "key": "44 F5 F4 2D AE FE 64 10"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11181 H 7200",
+        "id": "SEC PRINC TLS/UBB",
+        "key": "F5 78 49 B6 1F EE D1 DE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12705 H 9875",
+        "id": "Medialink CRO-024/1",
+        "key": "78 BB 56 89 CD 90 AB 08"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12509 H 5000",
+        "id": "ITA633_A",
+        "key": "B5 F5 24 CE 87 65 5D 49"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11676 H 7200",
         "id": "ITA349 CEV MODENA",
         "key": "FF AB D0 7A 91 3E 60 2F"
     },
@@ -25,68 +79,8 @@
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11259 V 9700",
+        "frequency": "11260 V 9700",
         "id": "CHL-GER-BER-HBF",
         "key": "FF FF D0 CE 91 3E 84 53"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11516 H 9875",
-        "id": "ENC-23",
-        "key": "05 1A 7E 9D 86 DD 3E A1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12556 H 7200",
-        "id": "E342 FEED 1",
-        "key": "AA BB 20 85 26 09 13 42"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11153 H 9700",
-        "id": "CHL-CZE-LIB-GRZ",
-        "key": "FF FB D0 CA 91 3E 84 53"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10771 H 9600",
-        "id": "ARM-005 Main",
-        "key": "9D 91 77 A5 1F F8 FA 11"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10745 V 7200",
-        "id": "TUR-161 Main",
-        "key": "FF DC D0 AB 91 3E 60 2F"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11302 H 9700",
-        "id": "CHL-SUI-FRI-MAN",
-        "key": "FF CF D0 9E 91 3E 84 53"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12529 H 7200",
-        "id": "FIFA U20 SOSNOW",
-        "key": "9B B4 90 DF 35 A2 CE A5"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10973 V 9600",
-        "id": "POL 48 ENC1",
-        "key": "AB BA 26 8B DC AE 09 93"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12538 H 7200",
-        "id": "Main E-285",
-        "key": "9A 6D 37 3E B5 D3 3A C2"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11606 H 7200",
-        "id": "YLE-MCR",
-        "key": "FF EB D0 BA 91 3E 60 2F"
     }
 ]
