@@ -1,62 +1,92 @@
 [
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11127 H 7200",
-        "id": "BEL119",
-        "key": "BA 33 AF 9C BA 20 26 00"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11677 H 7200",
+        "id": "ITA349 CEV MODENA",
+        "key": "FF AB D0 7A 91 3E 60 2F"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "DNK47 ENC1",
-        "key": "FC 45 E5 26 21 CC F8 E5"
+        "frequency": "11188 V 9875",
+        "id": "E-455 MAIN FEED",
+        "key": "D4 72 20 66 AB E6 D2 63"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10840 H 7200",
-        "id": "E-228 Main",
-        "key": "AB BA 13 78 09 20 26 4F"
+        "frequency": "10847 V 7200",
+        "id": "GCUK Enc 5",
+        "key": "FF CD D0 9C 91 3E 72 41"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12610 V 7200",
-        "id": "SLQ 008 M",
-        "key": "FF CA D0 99 91 3E 72 41"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11527 H 7200",
+        "id": "CEV RO ROU-038 MAIN",
+        "key": "FF BE D0 8D 91 3E 60 2F"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11040 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11259 V 9700",
+        "id": "CHL-GER-BER-HBF",
+        "key": "FF FF D0 CE 91 3E 84 53"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12592 V 7200",
-        "id": "TVS UE1 HD Sendeweg1",
-        "key": "FC 11 DE EB DE 45 11 34"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11604 H 9875",
-        "id": "GVA_Fi03",
-        "key": "DE 81 EF 4E B0 9B BE 09"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11593 H 9875",
-        "id": "GVA_Fi04",
-        "key": "71 D4 8F D4 58 87 48 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12528 H 9875",
-        "id": "IPF",
-        "key": "87 65 C4 B0 A0 86 7C A2"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11516 H 9875",
+        "id": "ENC-23",
+        "key": "05 1A 7E 9D 86 DD 3E A1"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "POL - 054 Kielce",
+        "frequency": "12556 H 7200",
+        "id": "E342 FEED 1",
+        "key": "AA BB 20 85 26 09 13 42"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11153 H 9700",
+        "id": "CHL-CZE-LIB-GRZ",
+        "key": "FF FB D0 CA 91 3E 84 53"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10771 H 9600",
+        "id": "ARM-005 Main",
+        "key": "9D 91 77 A5 1F F8 FA 11"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10745 V 7200",
+        "id": "TUR-161 Main",
+        "key": "FF DC D0 AB 91 3E 60 2F"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11302 H 9700",
+        "id": "CHL-SUI-FRI-MAN",
+        "key": "FF CF D0 9E 91 3E 84 53"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12529 H 7200",
+        "id": "FIFA U20 SOSNOW",
+        "key": "9B B4 90 DF 35 A2 CE A5"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10973 V 9600",
+        "id": "POL 48 ENC1",
         "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12538 H 7200",
+        "id": "Main E-285",
+        "key": "9A 6D 37 3E B5 D3 3A C2"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11606 H 7200",
+        "id": "YLE-MCR",
+        "key": "FF EB D0 BA 91 3E 60 2F"
     }
 ]
