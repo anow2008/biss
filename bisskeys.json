@@ -25,38 +25,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
-    "id": "IMG 2 EU",
-    "key": "3B 9A 4D 22 7E 1F 2C C9"
+    "frequency": "11066 V 15000",
+    "id": "EMMY'S",
+    "key": "43 A5 B2 9A D1 C1 A4 36"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12583 V 7200",
-    "id": "CEV RO ROU-038 MAIN",
-    "key": "E6 0F FC F1 BD 09 14 DA"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL138_A",
-    "key": "AB BA 26 8B DC AE 09 93"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11154 H 7200",
-    "id": "SAU-030 A",
-    "key": "21 ED FF 0D 0C F5 9C 9D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11163 H 7200",
-    "id": "E-296 MAIN",
-    "key": "34 21 49 9E EC 9F 2A B5"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11172 H 7200",
-    "id": "IRQ014-1",
-    "key": "FA C1 DA 95 9C 61 13 10"
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "3B 9A 4D 22 7E 1F 2C C9"
   }
 ]
