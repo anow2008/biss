@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7120",
+        "id": "Pitch Carabao Peterborough v Barnsley",
+        "key": "21 31 DD 2F CC 24 22 12"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11088 V 7120",
+        "id": "Pitch Carabao R3 Ipswich v Arsenal",
+        "key": "55 32 DD 64 CC 24 21 11"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7120",
+        "id": "Pitch Carabao Liverpool v Tottenham",
+        "key": "21 31 AA FC AC 24 21 F1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11195 V 7120",
+        "id": "Pitch Carabao West Ham v Fulham",
+        "key": "14 54 CA 32 AC 22 14 E2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11204 V 7120",
+        "id": "Pitch Carabao Reading v Brentford",
+        "key": "33 14 AD F4 AD 41 22 10"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11102 H 7200",
+        "id": "SNG 022 MAIN",
+        "key": "A1 B2 C3 16 D4 E5 F6 AF"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11190 H 7200",
+        "id": "SAU-033-Main",
+        "key": "A8 C4 FF 6B 0C B7 8D 50"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11045 H 4938",
         "id": "EBU 2 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
