@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12707 H 7200",
+        "id": "Sao Paulo BRA vs Boca Juniors ARG - INGLES EUROPA",
+        "key": "D4 A2 23 99 CB 67 BB ED"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12698 H 7200",
+        "id": "Platense ARG vs Fluminense BRA - INGLES EUROPA",
+        "key": "CB 67 CB FD 77 ED A2 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "Vasco da Gama BRA vs Santa Fe COL  - INGLES EUROPA",
+        "key": "CB 76 DA 1B 22 ED 11 20"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11204 V 7120",
         "id": "Pitch Carabao Reading v Brentford",
         "key": "33 14 AD F4 AD 41 22 10"
@@ -64,17 +82,5 @@
         "frequency": "11127 H 7200",
         "id": "UAE074-M",
         "key": "4E 0A DB 33 2F E0 F1 00"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11171 H 7200",
-        "id": "MYASTRKL-M",
-        "key": "3C 6C 96 3E 5A FF 32 8B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11190 H 7200",
-        "id": "SAU-033-Main",
-        "key": "A8 C4 FF 6B 0C B7 8D 50"
     }
 ]
