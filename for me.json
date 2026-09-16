@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "LDU Quito (ECU) vs Palmeiras (BRA) - INGLES EUROPA",
+        "key": "E4 21 CB D0 7A DA C5 19"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10810 H 7200",
         "id": "EHF CL Men GOG vs SZE",
         "key": "22 F1 57 6A 6A 09 3C AF"
