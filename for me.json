@@ -1,6 +1,60 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10838 V 7200",
+        "id": "CEV RO ROU-038 MAIN",
+        "key": "FF 31 D0 00 91 6E 60 5F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11213 V 7200",
+        "id": "Anderlecht-OL Bi",
+        "key": "DC AA 45 CB 67 11 12 8A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11677 H 7200",
+        "id": "YLE",
+        "key": "FF FE D0 CD 91 6E 60 5F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "TUR-161 Main",
+        "key": "FF 77 D0 46 91 6E 60 5F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11103 H 7200",
+        "id": "CZE-012-MOL VARN-SLAVIA",
+        "key": "25 45 AA 14 DD 25 45 47"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11153 H 7200",
+        "id": "VNMVTV__________",
+        "key": "A7 8A 80 B1 DE 5A A5 DD"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11189 H 7200",
+        "id": "TLCAT-002-1",
+        "key": "F2 B0 B7 59 7A 60 3F 19"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12528 H 7200",
+        "id": "FIFA U20 SOSNOW 2M",
+        "key": "10 B6 51 17 03 0E 7F 90"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "FIFAU20 BB PATH2 MN",
+        "key": "10 A3 08 BB AF 7F 20 4E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11040 H 4938",
         "id": "EBU 1 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
