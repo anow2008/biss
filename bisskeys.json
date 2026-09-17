@@ -31,8 +31,14 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12689 H 7200",
-    "id": "LDU Quito (ECU) vs Palmeiras (BRA) - INGLES EUROPA",
-    "key": "E4 21 CB D0 7A DA C5 19"
+    "frequency": "12424 H 7500",
+    "id": "Ring A ENC-23",
+    "key": "AB 25 D7 A7 8C 43 65 34"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12698 H 7200",
+    "id": "Corinthians (BRA) vs Estudiantes de la Plata (ARG) - INGLES EUROPA",
+    "key": "CB 71 AD E9 45 DD C6 E8"
   }
 ]
