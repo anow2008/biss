@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12424 H 7500",
+        "id": "Ring B EN-24",
+        "key": "AB 25 D7 A7 8C 43 65 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12689 H 7200",
         "id": "LDU Quito ECU vs Palmeiras BRA - INGLES EUROPA",
         "key": "E4 21 CB D0 7A DA C5 19"
@@ -13,15 +19,9 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7120",
-        "id": "Pitch Man United v Brighton Carabao R3",
-        "key": "33 14 BB 02 AC 24 22 F2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11685 H 7120",
-        "id": "Pitch Carabao Everton v Wolves",
-        "key": "33 31 AB 0F DD 24 22 23"
+        "frequency": "12698 H 7200",
+        "id": "Corinthians BRA vs Estudiantes de la Plata ARG - INGLES EUROPA",
+        "key": "CB 71 AD E9 45 DD C6 E8"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -58,11 +58,5 @@
         "frequency": "12553 H 7200",
         "id": "D535 Berlin EHF",
         "key": "56 FA 11 61 8C 00 9E 2A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12594 H 7200",
-        "id": "JOR021/MAIN",
-        "key": "62 F3 D2 27 40 04 88 CC"
     }
 ]
