@@ -1,18 +1,6 @@
 [
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "EHF CL Men SAH Aarhus vs CS Dinamo Bucuresti",
-    "key": "65 DF 12 56 67 02 B1 1A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7200",
-    "id": "E-228 Main",
-    "key": "80 5A 1B F5 D7 DF E4 9A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
@@ -31,86 +19,26 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
+    "frequency": "11059 H 7200",
     "id": "IMG 1 EU",
     "key": "C1 49 B3 BD C1 93 C8 1C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
-    "id": "IMG 2 EU",
-    "key": "3B 9A 4D 22 7E 1F 2C C9"
+    "frequency": "11685 H 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 7200",
-    "id": "EHF MONTPELLIER PRIVATIF",
-    "key": "BD E7 AA 4E 45 B3 C5 BD"
+    "frequency": "12698 H 7200",
+    "id": "Flamengo (BRA) vs Independiente del Valle (ECU) - INGLES EUROPA",
+    "key": "AC 5D CB D4 72 D3 4A 8F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12583 V 7200",
-    "id": "EHF MONTPELLIER INTER",
-    "key": "CD 43 23 33 A0 3D 15 F2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12593 V 7200",
-    "id": "YLE",
-    "key": "E6 0F FF F4 FD 09 17 1D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12602 V 7200",
-    "id": "ITA349 CEV MODENA",
-    "key": "E6 0F F9 EE 9D 09 17 BD"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12611 V 7200",
-    "id": "EHF CL MEN - HC KRIENS LUZERN",
-    "key": "07 7C 51 D4 ED F5 61 43"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12680 H 7120",
-    "id": "EFL Wimbledon v MK Dons",
-    "key": "26 78 65 03 43 32 57 CC"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12707 H 7120",
-    "id": "Pitch Carabao Man City V Norwich",
-    "key": "23 14 AA E1 CC 24 22 12"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 09 93"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12529 H 7200",
-    "id": "FIFAU20 BB PATH2 MN",
-    "key": "11 B4 3C 01 E3 E3 BD 83"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12537 H 7200",
-    "id": "Main E-285",
-    "key": "11 A0 39 EA 1C 78 32 C6"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12599 H 14400",
-    "id": "PRINCIPAL AUR/BRIV",
-    "key": "F5 78 26 93 09 17 F1 11"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12612 H 7200",
-    "id": "LNR UK AUR/BRIV",
-    "key": "F5 78 26 93 09 17 F2 12"
+    "frequency": "12707 H 7200",
+    "id": "Montevideo City Torque (URU) vs Cienciano (PER)  - INGLES EUROPA",
+    "key": "3E DC 56 70 AD ED 33 CD"
   }
 ]
