@@ -1,6 +1,60 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11212 V 7200",
+        "id": "EHF MONTPELLIER PRIVATIF",
+        "key": "BD E7 AA 4E 45 B3 C5 BD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11685 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7200",
+        "id": "EHF MONTPELLIER INTER",
+        "key": "CD 43 23 33 A0 3D 15 F2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12602 V 7200",
+        "id": "ITA349 CEV MODENA",
+        "key": "E6 0F F9 EE 9D 09 17 BD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "EHF CL MEN - HC KRIENS LUZERN",
+        "key": "07 7C 51 D4 ED F5 61 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12680 H 7120",
+        "id": "EFL Wimbledon v MK Dons",
+        "key": "26 78 65 03 43 32 57 CC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7120",
+        "id": "Pitch Carabao Man City V Norwich",
+        "key": "23 14 AA E1 CC 24 22 12"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12599 H 14400",
+        "id": "PRINCIPAL AUR/BRIV",
+        "key": "F5 78 26 93 09 17 F1 11"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12612 H 7200",
+        "id": "LNR UK AUR/BRIV",
+        "key": "F5 78 26 93 09 17 F2 12"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10819 H 7200",
         "id": "Polsat Sport",
         "key": "FF E1 A5 85 69 AB 09 1D"
