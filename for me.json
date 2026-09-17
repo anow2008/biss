@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12424 H 7500",
+        "id": "Ring A ENC-23",
+        "key": "AB 25 D7 A7 8C 43 65 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "12698 H 7200",
         "id": "Corinthians (BRA) vs Estudiantes de la Plata (ARG) - INGLES EUROPA",
         "key": "CB 71 AD E9 45 DD C6 E8"
