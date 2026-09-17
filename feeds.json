@@ -32,8 +32,8 @@
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11181 H 7200",
-        "id": "IRQ014-1",
-        "key": "D0 67 DF 16 1A 3D E8 3F"
+        "id": "Fi02_JPNEX_NE02",
+        "key": "FA 2A DE 02 C7 D8 6A 09"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -52,11 +52,5 @@
         "frequency": "10810 H 7200",
         "id": "EHF CL Men GOG vs SZE",
         "key": "22 F1 57 6A 6A 09 3C AF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12553 H 7200",
-        "id": "D535 Berlin EHF",
-        "key": "56 FA 11 61 8C 00 9E 2A"
     }
 ]
