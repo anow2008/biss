@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "Flamengo (BRA) vs Independiente del Valle (ECU) - INGLES EUROPA",
+        "key": "AC 5D CB D4 72 D3 4A 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7200",
+        "id": "Montevideo City Torque (URU) vs Cienciano (PER)  - INGLES EUROPA",
+        "key": "3E DC 56 70 AD ED 33 CD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11212 V 7200",
         "id": "EHF MONTPELLIER PRIVATIF",
         "key": "BD E7 AA 4E 45 B3 C5 BD"
