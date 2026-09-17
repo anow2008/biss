@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10819 H 7200",
+        "id": "Polsat Sport",
+        "key": "FF E1 A5 85 69 AB 09 1D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10828 H 7200",
+        "id": "Medialink CRO-014/1",
+        "key": "AE 3F 57 44 4E 45 A4 37"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "EHF CL Men SAH Aarhus vs CS Dinamo Bucuresti",
+        "key": "65 DF 12 56 67 02 B1 1A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 V 7200",
+        "id": "GCUK Enc 10",
+        "key": "FF D3 AA 7C CC 17 09 EC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 V 7200",
+        "id": "E-228 Main",
+        "key": "80 5A 1B F5 D7 DF E4 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10974 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12529 H 7200",
+        "id": "FIFAU20 BB PATH2 MN",
+        "key": "11 B4 3C 01 E3 E3 BD 83"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "Main E-285",
+        "key": "11 A0 39 EA 1C 78 32 C6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11040 H 4938",
         "id": "EBU 1 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
