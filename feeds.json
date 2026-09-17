@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12698 H 7200",
+        "id": "Flamengo BRA vs Independiente del Valle ECU - INGLES EUROPA",
+        "key": "AC 5D CB D4 72 D3 4A 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10810 H 7200",
+        "id": "GCUK Encoder 04",
+        "key": "07 7C 51 D4 ED F5 61 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11685 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12680 H 7120",
         "id": "EFL Wimbledon v MK Dons",
         "key": "26 78 65 03 43 32 57 CC"
@@ -13,9 +31,9 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7120",
-        "id": "Pitch Carabao Man City V Norwich",
-        "key": "23 14 AA E1 CC 24 22 12"
+        "frequency": "12707 H 7200",
+        "id": "Montevideo City Torque URU vs Cienciano PER  - INGLES EUROPA",
+        "key": "3E DC 56 70 AD ED 33 CD"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -34,12 +52,6 @@
         "frequency": "10848 V 7200",
         "id": "E-228 Main",
         "key": "80 5A 1B F5 D7 DF E4 9A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "EHF CL MEN - HC KRIENS LUZERN",
-        "key": "07 7C 51 D4 ED F5 61 43"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -70,17 +82,5 @@
         "frequency": "10828 H 7200",
         "id": "Medialink CRO-014/1",
         "key": "AE 3F 57 44 4E 45 A4 37"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL 030",
-        "key": "AB BA 26 8B DC AE 09 93"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12537 H 7200",
-        "id": "Main E-285",
-        "key": "11 A0 39 EA 1C 78 32 C6"
     }
 ]
