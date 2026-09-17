@@ -1,56 +1,86 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12425 H 7500",
-        "id": "Ring B EN-24",
-        "key": "AB 25 D7 A7 8C 43 65 34"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "LDU Quito ECU vs Palmeiras BRA - INGLES EUROPA",
-        "key": "E4 21 CB D0 7A DA C5 19"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12680 H 7120",
-        "id": "Pitch Carabao Coventry V Aston Villa",
-        "key": "12 32 CC 10 AA 24 21 EF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "Corinthians BRA vs Estudiantes de la Plata ARG - INGLES EUROPA",
-        "key": "CB 71 AD E9 45 DD C6 E8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11694 H 7120",
-        "id": "Pitch Carabao Cup R3 - Fleetwood v Sheffield United",
-        "key": "42 45 DA 61 AA 24 21 EF"
+        "id": "EFL Wimbledon v MK Dons",
+        "key": "26 78 65 03 43 32 57 CC"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11181 H 7200",
-        "id": "Fi02_JPNEX_NE02",
-        "key": "FA 2A DE 02 C7 D8 6A 09"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11136 H 7200",
-        "id": "AlkASS QAT38  M",
-        "key": "63 76 EE C7 1E BA A6 7E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11127 H 7200",
-        "id": "OMAN_1T",
-        "key": "16 C7 41 1E 2D A6 19 EC"
+        "frequency": "12612 H 7200",
+        "id": "LNR UK AUR/BRIV",
+        "key": "F5 78 26 93 09 17 F2 12"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10810 H 7200",
-        "id": "EHF CL Men GOG vs SZE",
-        "key": "22 F1 57 6A 6A 09 3C AF"
+        "frequency": "12707 H 7120",
+        "id": "Pitch Carabao Man City V Norwich",
+        "key": "23 14 AA E1 CC 24 22 12"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12599 H 14400",
+        "id": "PRINCIPAL AUR/BRIV",
+        "key": "F5 78 26 93 09 17 F1 11"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11212 V 7200",
+        "id": "EHF MONTPELLIER PRIVATIF",
+        "key": "BD E7 AA 4E 45 B3 C5 BD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "E-228 Main",
+        "key": "80 5A 1B F5 D7 DF E4 9A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7200",
+        "id": "EHF CL MEN - HC KRIENS LUZERN",
+        "key": "07 7C 51 D4 ED F5 61 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7200",
+        "id": "EHF CL Men SAH Aarhus vs CS Dinamo Bucuresti",
+        "key": "65 DF 12 56 67 02 B1 1A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "EHF MONTPELLIER INTER",
+        "key": "CD 43 23 33 A0 3D 15 F2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10819 H 7200",
+        "id": "Polsat Sport",
+        "key": "FF E1 A5 85 69 AB 09 1D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7200",
+        "id": "Medialink CRO-014/1",
+        "key": "AE 3F 57 44 4E 45 A4 37"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12537 H 7200",
+        "id": "Main E-285",
+        "key": "11 A0 39 EA 1C 78 32 C6"
     }
 ]
