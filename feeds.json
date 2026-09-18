@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12698 H 7200",
+        "id": "ENC 5",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11686 H 7500",
+        "id": "ENC 1",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11694 H 7200",
+        "id": "UKI-1491 CH4 Lycett Arms HD Backup",
+        "key": "1C A4 22 E2 A6 1D 3A FD"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10965 V 4800",
         "id": "POL-033 out1",
@@ -52,17 +70,5 @@
         "frequency": "11616 H 9875",
         "id": "GVA_Fi03",
         "key": "1E 8B 34 DD B0 5A A1 AB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11199 V 9875",
-        "id": "E408 U20 FEED 2",
-        "key": "7C 57 85 58 09 A9 4D FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11062 V 7200",
-        "id": "2Sat HOL89 Main",
-        "key": "9D 84 7B 9C 93 56 9F 88"
     }
 ]
