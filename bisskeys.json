@@ -1,25 +1,31 @@
 [
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10838 V 7200",
-    "id": "GCUK Enc 10",
-    "key": "FF D3 AA 7C CC 18 09 ED"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11246 H 7200",
+    "id": "ProD2 OYONNAX main",
+    "key": "F5 12 26 2D 09 18 F1 12"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11255 H 7200",
+    "id": "F511 - W6N FRANCE V ENGLAND B/U 1MAIN",
+    "key": "F5 11 26 2C 09 18 F1 12"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11265 H 7200",
+    "id": "NARBONNE LNR FR",
+    "key": "F4 94 26 AE 09 18 F1 12"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10866 H 9875",
-    "id": "IPF",
-    "key": "1D FF 9B B7 57 63 25 DF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11040 H 4938",
+    "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -30,22 +36,16 @@
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7120",
-    "id": "One Friday Fight 171",
-    "key": "A3 6B A2 B0 29 BD 10 F6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12527 H 9600",
-    "id": "NLEMG HOL270-1",
-    "key": "3A AF 76 5F B5 1E BE 91"
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
+    "id": "POL 030",
+    "key": "AB BA 26 8B DC AE 09 93"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10975 H 3600",
-    "id": "Fal1 Enc2",
-    "key": "B6 5C 30 42 56 00 3E 94"
+    "frequency": "10980 H 3600",
+    "id": "F7-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -61,7 +61,7 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12511 H 7200",
+    "frequency": "12510 H 7200",
     "id": "Cubic073-A",
     "key": "9C 7C C2 DA 50 58 4A F2"
   }
