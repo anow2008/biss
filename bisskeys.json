@@ -1,23 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11246 H 7200",
-    "id": "ProD2 OYONNAX main",
-    "key": "F5 12 26 2D 09 18 F1 12"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11255 H 7200",
-    "id": "F511 - W6N FRANCE V ENGLAND B/U 1MAIN",
-    "key": "F5 11 26 2C 09 18 F1 12"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11264 H 7200",
-    "id": "NARBONNE LNR FR",
-    "key": "F4 94 26 AE 09 18 F1 12"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
@@ -37,33 +19,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11059 H 7200",
+    "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
     "key": "11 56 DA 41 2C B8 94 78"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11088 V 7120",
-    "id": "Pitch EFL - Bristol City v Watford",
-    "key": "38 56 FE 8C 59 25 11 8F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11611 V 9875",
-    "id": "ATHLOS 1/2 COMP",
-    "key": "C4 49 C9 D6 0F F5 DB DF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11616 H 9875",
-    "id": "GVA_Fi03",
-    "key": "1E 8B 34 DD B0 5A A1 AB"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11623 V 9875",
-    "id": "ATHLOS 2/2 WLD",
-    "key": "C4 49 C9 D6 0F F5 DB DF"
+    "frequency": "11686 H 7500",
+    "id": "ENC 1",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -72,51 +36,9 @@
     "key": "1C A4 22 E2 A6 1D 3A FD"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10965 V 4800",
-    "id": "POL-033 out1",
-    "key": "AB BA 26 8B DC AE 09 93"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10980 H 3600",
-    "id": "F7-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11145 H 7200",
-    "id": "UAE074-M",
-    "key": "B6 5C 30 42 56 00 3E 94"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11154 H 7200",
-    "id": "UAE074 - 1",
-    "key": "B6 5C 30 42 56 00 3E 94"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11181 H 7200",
-    "id": "F641 DI FEM POISSYMAIN",
-    "key": "39 19 10 62 46 4C 70 02"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12510 H 7200",
-    "id": "Cubic073-A",
-    "key": "9C 7C C2 DA 50 58 4A F2"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12599 H 14400",
-    "id": "PRINCIPAL AGE/OYO",
-    "key": "F5 78 26 93 09 18 F1 12"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12612 H 7200",
-    "id": "PRO D2 LNR FR VALENCE VS PROVENCE",
-    "key": "F4 86 26 A0 09 18 F1 12"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12698 H 7200",
+    "id": "ENC 5",
+    "key": "12 3C AA F8 14 22 A3 D9"
   }
 ]
