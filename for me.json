@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11246 H 7200",
+        "id": "ProD2 OYONNAX main",
+        "key": "F5 12 26 2D 09 18 F1 12"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11255 H 7200",
+        "id": "F511 - W6N FRANCE V ENGLAND B/U 1MAIN",
+        "key": "F5 11 26 2C 09 18 F1 12"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11264 H 7200",
+        "id": "NARBONNE LNR FR",
+        "key": "F4 94 26 AE 09 18 F1 12"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "C1 49 B3 BD C1 93 C8 1C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9875",
+        "id": "ATHLOS 1/2 COMP",
+        "key": "C4 49 C9 D6 0F F5 DB DF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11623 V 9875",
+        "id": "ATHLOS 2/2 WLD",
+        "key": "C4 49 C9 D6 0F F5 DB DF"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10974 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10980 H 3600",
+        "id": "F7-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10839 V 7200",
         "id": "GCUK Enc 10",
