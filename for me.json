@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "11 56 DA 41 2C B8 94 78"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11088 V 7120",
+        "id": "Pitch EFL - Bristol City v Watford",
+        "key": "38 56 FE 8C 59 25 11 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11616 H 9875",
+        "id": "GVA_Fi03",
+        "key": "1E 8B 34 DD B0 5A A1 AB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11694 H 7200",
+        "id": "UKI-1491 CH4 Lycett Arms HD Backup",
+        "key": "1C A4 22 E2 A6 1D 3A FD"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11181 H 7200",
+        "id": "F641 DI FEM POISSYMAIN",
+        "key": "39 19 10 62 46 4C 70 02"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12599 H 14400",
+        "id": "PRINCIPAL AGE/OYO",
+        "key": "F5 78 26 93 09 18 F1 12"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11246 H 7200",
         "id": "ProD2 OYONNAX main",
