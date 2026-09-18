@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "C1 49 B3 BD C1 93 C8 1C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10866 H 9875",
+        "id": "IPF",
+        "key": "1D FF 9B B7 57 63 25 DF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12698 H 7200",
         "id": "Flamengo BRA vs Independiente del Valle ECU - INGLES EUROPA",
         "key": "AC 5D CB D4 72 D3 4A 8F"
@@ -28,59 +46,5 @@
         "frequency": "12612 H 7200",
         "id": "LNR UK AUR/BRIV",
         "key": "F5 78 26 93 09 17 F2 12"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "Montevideo City Torque URU vs Cienciano PER  - INGLES EUROPA",
-        "key": "3E DC 56 70 AD ED 33 CD"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12599 H 14400",
-        "id": "PRINCIPAL AUR/BRIV",
-        "key": "F5 78 26 93 09 17 F1 11"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11212 V 7200",
-        "id": "EHF MONTPELLIER PRIVATIF",
-        "key": "BD E7 AA 4E 45 B3 C5 BD"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "E-228 Main",
-        "key": "80 5A 1B F5 D7 DF E4 9A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "EHF CL Men SAH Aarhus vs CS Dinamo Bucuresti",
-        "key": "65 DF 12 56 67 02 B1 1A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "EHF MONTPELLIER INTER",
-        "key": "CD 43 23 33 A0 3D 15 F2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10819 H 7200",
-        "id": "Polsat Sport",
-        "key": "FF E1 A5 85 69 AB 09 1D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7200",
-        "id": "Medialink CRO-014/1",
-        "key": "AE 3F 57 44 4E 45 A4 37"
     }
 ]
