@@ -1,7 +1,31 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10965 V 4800",
+        "id": "POL-033 out1",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12612 H 7200",
+        "id": "PRO D2 LNR FR VALENCE VS PROVENCE",
+        "key": "F4 86 26 A0 09 18 F1 12"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12599 H 14400",
+        "id": "PRINCIPAL AGE/OYO",
+        "key": "F5 78 26 93 09 18 F1 12"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11181 H 7200",
+        "id": "F641 DI FEM POISSYMAIN",
+        "key": "39 19 10 62 46 4C 70 02"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11265 H 7200",
+        "frequency": "11264 H 7200",
         "id": "NARBONNE LNR FR",
         "key": "F4 94 26 AE 09 18 F1 12"
     },
@@ -24,10 +48,10 @@
         "key": "C4 49 C9 D6 0F F5 DB DF"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10989 V 4800",
-        "id": "TVP POL-32  ENC 1",
-        "key": "AB BA 26 8B DC AE 09 93"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11616 H 9875",
+        "id": "GVA_Fi03",
+        "key": "1E 8B 34 DD B0 5A A1 AB"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -40,29 +64,5 @@
         "frequency": "11062 V 7200",
         "id": "2Sat HOL89 Main",
         "key": "9D 84 7B 9C 93 56 9F 88"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10980 H 3600",
-        "id": "F7-2 4.5MH",
-        "key": "20 25 AE F3 EA 52 02 3E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "GCUK Enc 10",
-        "key": "FF D3 AA 7C CC 18 09 ED"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12510 H 7200",
-        "id": "Cubic073-A",
-        "key": "9C 7C C2 DA 50 58 4A F2"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11145 H 7200",
-        "id": "UAE074-M",
-        "key": "B6 5C 30 42 56 00 3E 94"
     }
 ]
