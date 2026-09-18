@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 V 7200",
+        "id": "GCUK Enc 10",
+        "key": "FF D3 AA 7C CC 18 09 ED"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11089 V 7120",
+        "id": "One Friday Fight 171",
+        "key": "A3 6B A2 B0 29 BD 10 F6"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11144 H 7200",
+        "id": "UAE074-M",
+        "key": "B6 5C 30 42 56 00 3E 94"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11153 H 7200",
+        "id": "UAE074 - 1",
+        "key": "B6 5C 30 42 56 00 3E 94"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12510 H 7200",
+        "id": "Cubic073-A",
+        "key": "9C 7C C2 DA 50 58 4A F2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10866 H 9875",
         "id": "IPF",
         "key": "1D FF 9B B7 57 63 25 DF"
