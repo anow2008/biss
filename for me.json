@@ -1,6 +1,84 @@
 [
     {
         "satellite": "Eutelsat 10A",
+        "frequency": "10744 V 7200",
+        "id": "TUR-161 Main",
+        "key": "DF 67 D0 16 91 9E 60 8F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10802 H 7200",
+        "id": "Medialink CRO-025/1",
+        "key": "11 3C BA 07 06 EA 18 08"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11599 H 7120",
+        "id": "Wrexham v Southampton",
+        "key": "43 99 0A E6 FE 32 78 A8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11617 H 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "78 9F BB D2 A6 14 F5 AF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11619 V 7200",
+        "id": "Fi01 ACB",
+        "key": "E3 57 88 C2 DF 24 2D 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11633 H 14400",
+        "id": "GVA_Fi07",
+        "key": "67 1C 13 96 67 4B 51 03"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11635 V 9875",
+        "id": "Basis VFB - BVB",
+        "key": "67 1C 13 96 67 4B 51 03"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11646 H 7200",
+        "id": "ARIS VS IRAKLIS M",
+        "key": "A3 78 9A B5 CF 48 10 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10980 H 3600",
+        "id": "F7-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11005 V 7500",
+        "id": "POL037 TVN24 BIA",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12594 H 7200",
+        "id": "POL-102 MAIN",
+        "key": "20 26 AA F0 09 BB 19 DD"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12602 H 4938",
+        "id": "POL-102 Backup 1",
+        "key": "20 26 AA F0 09 BB 19 DD"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12611 H 9875",
+        "id": "2Sat HOL307 TX1 MAIN",
+        "key": "F3 07 DE D8 19 CA 09 EC"
+    },
+    {
+        "satellite": "Eutelsat 10A",
         "frequency": "10722 H 7200",
         "id": "BOL D'OR 2026",
         "key": "F4 86 19 93 20 26 EC 32"
