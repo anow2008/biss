@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11291 H 7200",
+    "id": "ACI_EVENTS_MAIN",
+    "key": "DF FE 3D 1A E5 2F CA DE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10841 H 9600",
+    "id": "F32/1/PMU SENNONES",
+    "key": "DF FE 3D 1A E5 2F CA DE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10866 H 9875",
+    "id": "IPF",
+    "key": "DF FE 3D 1A E5 2F CA DE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11040 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11052 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11088 V 7120",
+    "id": "PitchEFL - Millwall v West Ham",
+    "key": "83 8D 32 42 55 25 66 E0"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11611 V 9875",
+    "id": "E408 U20 Feed1",
+    "key": "7C 57 85 58 09 A9 4D FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11623 V 9875",
+    "id": "E408 U20 FEED 2",
+    "key": "7C 57 85 58 09 A9 4D FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11695 H 7200",
+    "id": "ENC 3",
+    "key": "BA C2 34 B0 DA CE E1 89"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10965 V 4800",
+    "id": "POL-077 ENC-1",
+    "key": "AB BA 26 8B DC AE 09 93"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "POL 48 ENC1",
+    "key": "AB BA 26 8B DC AE 09 93"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12523 H 9875",
+    "id": "GVA_Fi05",
+    "key": "96 18 79 27 17 16 CC F9"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12538 H 7200",
+    "id": "FIFAU20 SNC PATH1 MN",
+    "key": "12 A3 33 E8 48 D8 87 A7"
+  }
+]
