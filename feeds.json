@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12623 H 9875",
+        "id": "HOL307 TX2 MAIN",
+        "key": "DE 19 F3 EA 08 BA 09 CB"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12648 H 7200",
+        "id": "ITA 403 - FORLI",
+        "key": "BB 19 AA 7E 26 CC 09 FB"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12632 H 4938",
         "id": "YSM-012 MAIN",
         "key": "20 10 20 50 25 20 26 6B"
@@ -40,11 +52,5 @@
         "frequency": "12611 H 9875",
         "id": "2Sat HOL307 TX1 MAIN",
         "key": "F3 07 DE D8 19 CA 09 EC"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11181 H 7200",
-        "id": "D1 Montpellier main",
-        "key": "27 61 68 F0 4C F6 7C BE"
     }
 ]
