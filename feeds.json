@@ -1,50 +1,50 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12601 H 4938",
+        "id": "POL-102 Backup 1",
+        "key": "20 26 AA F0 09 BB 19 DD"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11088 V 7120",
-        "id": "PitchEFL - Millwall v West Ham",
-        "key": "83 8D 32 42 55 25 66 E0"
+        "frequency": "11635 V 9875",
+        "id": "Basis VFB - BVB",
+        "key": "67 1C 13 96 67 4B 51 03"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7200",
-        "id": "ENC 3",
-        "key": "BA C2 34 B0 DA CE E1 89"
+        "frequency": "11618 H 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "78 9F BB D2 A6 14 F5 AF"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12538 H 7200",
-        "id": "FIFAU20 SNC PATH1 MN",
-        "key": "12 A3 33 E8 48 D8 87 A7"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11609 H 7200",
+        "id": "E-073",
+        "key": "AB 19 09 CD 20 26 BA 00"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12523 H 9875",
-        "id": "GVA_Fi05",
-        "key": "96 18 79 27 17 16 CC F9"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "Medialink CRO-025/1",
+        "key": "11 3C BA 07 06 EA 18 08"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL 48 ENC1",
-        "key": "AB BA 26 8B DC AE 09 93"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11600 H 7120",
+        "id": "Wrexham v Southampton",
+        "key": "43 99 0A E6 FE 32 78 A8"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10721 H 7200",
-        "id": "BOL DOR 2026",
-        "key": "F4 86 19 93 20 26 EC 32"
+        "frequency": "10745 V 7200",
+        "id": "TUR-161 Main",
+        "key": "FF 77 D0 46 91 9E 60 8F"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11006 V 7500",
-        "id": "POL021 p2 WAW",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11623 V 9875",
-        "id": "E408 U20 FEED 2",
-        "key": "7C 57 85 58 09 A9 4D FF"
+        "frequency": "10986 V 9600",
+        "id": "TVP POL-32  ENC 1",
+        "key": "AB BA 26 8B DC AE 09 93"
     }
 ]
