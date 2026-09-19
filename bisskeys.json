@@ -1,19 +1,25 @@
 [
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11291 H 7200",
-    "id": "ACI_EVENTS_MAIN",
+    "frequency": "10721 H 7200",
+    "id": "BOL D'OR 2026",
+    "key": "F4 86 19 93 20 26 EC 32"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11302 H 9875",
+    "id": "AUT34-Main ORF",
+    "key": "12 34 AB F1 CD 43 21 31"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10851 H 7200",
+    "id": "FIG HUN",
     "key": "DF FE 3D 1A E5 2F CA DE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10841 H 9600",
-    "id": "F32/1/PMU SENNONES",
-    "key": "DF FE 3D 1A E5 2F CA DE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10866 H 9875",
+    "frequency": "10865 H 9875",
     "id": "IPF",
     "key": "DF FE 3D 1A E5 2F CA DE"
   },
@@ -25,33 +31,45 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11088 V 7120",
-    "id": "PitchEFL - Millwall v West Ham",
-    "key": "83 8D 32 42 55 25 66 E0"
+    "frequency": "11590 H 7200",
+    "id": "GCUK Encoder 7",
+    "key": "FF D3 AA 7C CC 19 09 EE"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11611 V 9875",
-    "id": "E408 U20 Feed1",
-    "key": "7C 57 85 58 09 A9 4D FF"
+    "frequency": "11600 H 7120",
+    "id": "Wrexham v Southampton",
+    "key": "43 99 0A E6 FE 32 78 A8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11623 V 9875",
-    "id": "E408 U20 FEED 2",
-    "key": "7C 57 85 58 09 A9 4D FF"
+    "frequency": "11608 H 7200",
+    "id": "E-073",
+    "key": "AB 19 09 CD 20 26 BA 00"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11667 H 7200",
+    "id": "D-408 ENC1",
+    "key": "90 8E CC EA F4 12 87 8D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11677 H 7200",
+    "id": "NOTV2-ENC3",
+    "key": "B1 A9 60 BA 05 AB D5 85"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -67,20 +85,68 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10973 V 9600",
-    "id": "POL 48 ENC1",
+    "frequency": "10980 H 3600",
+    "id": "F7-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "TVP POL-32  ENC 1",
     "key": "AB BA 26 8B DC AE 09 93"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12523 H 9875",
+    "frequency": "10996 V 7500",
+    "id": "POL039 TVN24 KRK",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11144 H 7200",
+    "id": "UAE074-M",
+    "key": "B6 5C 30 42 56 00 3E 94"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11154 H 7200",
+    "id": "UAE074 - 1",
+    "key": "B6 5C 30 42 56 00 3E 94"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11173 H 4938",
+    "id": "MTVA SNG HUNGARY",
+    "key": "92 25 46 FD 49 58 73 14"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12512 H 9875",
+    "id": "GVA_Fi06",
+    "key": "96 18 79 27 17 16 CC F9"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12524 H 9875",
     "id": "GVA_Fi05",
     "key": "96 18 79 27 17 16 CC F9"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12538 H 7200",
+    "frequency": "12537 H 7200",
     "id": "FIFAU20 SNC PATH1 MN",
     "key": "12 A3 33 E8 48 D8 87 A7"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12594 H 7200",
+    "id": "POL-102 MAIN",
+    "key": "20 26 AA F0 09 BB 19 DD"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12601 H 4938",
+    "id": "POL-102 Backup 1",
+    "key": "20 26 AA F0 09 BB 19 DD"
   }
 ]
