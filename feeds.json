@@ -1,74 +1,50 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "ENC 5",
-        "key": "12 3C AA F8 14 22 A3 D9"
+        "frequency": "11088 V 7120",
+        "id": "PitchEFL - Millwall v West Ham",
+        "key": "83 8D 32 42 55 25 66 E0"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7500",
-        "id": "ENC 1",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11694 H 7200",
-        "id": "UKI-1491 CH4 Lycett Arms HD Backup",
-        "key": "1C A4 22 E2 A6 1D 3A FD"
+        "frequency": "11695 H 7200",
+        "id": "ENC 3",
+        "key": "BA C2 34 B0 DA CE E1 89"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL-033 out1",
+        "frequency": "12538 H 7200",
+        "id": "FIFAU20 SNC PATH1 MN",
+        "key": "12 A3 33 E8 48 D8 87 A7"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12523 H 9875",
+        "id": "GVA_Fi05",
+        "key": "96 18 79 27 17 16 CC F9"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL 48 ENC1",
         "key": "AB BA 26 8B DC AE 09 93"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12612 H 7200",
-        "id": "PRO D2 LNR FR VALENCE VS PROVENCE",
-        "key": "F4 86 26 A0 09 18 F1 12"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12599 H 14400",
-        "id": "PRINCIPAL AGE/OYO",
-        "key": "F5 78 26 93 09 18 F1 12"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10721 H 7200",
+        "id": "BOL DOR 2026",
+        "key": "F4 86 19 93 20 26 EC 32"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11181 H 7200",
-        "id": "F641 DI FEM POISSYMAIN",
-        "key": "39 19 10 62 46 4C 70 02"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11264 H 7200",
-        "id": "NARBONNE LNR FR",
-        "key": "F4 94 26 AE 09 18 F1 12"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11255 H 7200",
-        "id": "F511 - W6N FRANCE V ENGLAND B/U 1MAIN",
-        "key": "F5 11 26 2C 09 18 F1 12"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11246 H 7200",
-        "id": "ProD2 OYONNAX main",
-        "key": "F5 12 26 2D 09 18 F1 12"
+        "frequency": "11006 V 7500",
+        "id": "POL021 p2 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11623 V 9875",
-        "id": "ATHLOS 2/2 WLD",
-        "key": "C4 49 C9 D6 0F F5 DB DF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11616 H 9875",
-        "id": "GVA_Fi03",
-        "key": "1E 8B 34 DD B0 5A A1 AB"
+        "id": "E408 U20 FEED 2",
+        "key": "7C 57 85 58 09 A9 4D FF"
     }
 ]
