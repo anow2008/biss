@@ -1,21 +1,27 @@
 [
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10721 H 7500",
-    "id": "EUT 7 Schalke vs Real Madrid",
+    "frequency": "11246 H 7200",
+    "id": "ITA349 CEV TORINO",
     "key": "C6 66 D1 FD A4 73 9B B2 E"
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10721 H 7500",
-    "id": "EUT 7 Schalke vs Real Madrid",
+    "frequency": "11246 H 7200",
+    "id": "ITA349 CEV TORINO",
+    "key": "C6 66 D1 FD A4 73 9B B2"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11255 H 7500",
+    "id": "AFD",
     "key": "C6 66 D1 FD A4 73 9B B2"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10822 V 3670",
-    "id": "GCUK Enc 10",
-    "key": "82 E9 FE 69 97 52 16 FF"
+    "frequency": "10802 H 7200",
+    "id": "E-228 Main",
+    "key": "20 26 08 4E A1 55 DC D2"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -37,15 +43,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 7200",
-    "id": "E-073",
-    "key": "AB 20 09 D4 20 26 BA 00"
+    "frequency": "11058 H 7200",
+    "id": "IMG 1 EU",
+    "key": "72 4C 9D 5B B4 34 49 31"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11603 H 9875",
-    "id": "GVA_Fi03",
-    "key": "93 FE 2A BB 2B 4A B0 25"
+    "frequency": "11194 V 7200",
+    "id": "Fi11_GNVE",
+    "key": "47 06 62 AF 0D B1 43 01"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -54,22 +60,10 @@
     "key": "D3 36 A4 AD 1A 3C B6 0C"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12689 H 7200",
-    "id": "FEI NAL: USA - NAL QUALIFIER - Leg 1",
-    "key": "A1 2B C8 94 83 BB 11 4F"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-78 ENC 1",
-    "key": "AB BA 26 8B DC AE 09 93"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-110",
-    "key": "AB BA 26 8B DC AE 09 93"
+    "frequency": "11019 V 4600",
+    "id": "AP LDN UPB",
+    "key": "96 18 79 27 17 16 CC F9"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -82,11 +76,5 @@
     "frequency": "12524 H 9875",
     "id": "GVA_Fi05",
     "key": "96 18 79 27 17 16 CC F9"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12537 H 7200",
-    "id": "Main E-285",
-    "key": "13 A8 E5 A0 B1 E2 A3 36"
   }
 ]
