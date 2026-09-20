@@ -1,1 +1,134 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10722 H 7200",
+        "id": "BOL D'OR 2026",
+        "key": "F4 86 19 93 20 26 EC 32"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10744 V 7200",
+        "id": "TUR-161 Main",
+        "key": "E6 0F F7 EC 7D 09 20 A6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10851 H 7200",
+        "id": "FIG HUN",
+        "key": "CC CE 42 DC DF D7 7F 35"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7200",
+        "id": "ENC 7",
+        "key": "72 4C 9D 5B B4 34 46 2E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11195 V 7200",
+        "id": "ENC 8",
+        "key": "72 4C 9D 5B B4 34 48 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11213 V 7200",
+        "id": "E-073",
+        "key": "AB 20 09 D4 20 26 BA 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11604 H 9875",
+        "id": "GVA_Fi03",
+        "key": "B5 48 86 83 79 CC 99 DE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9600",
+        "id": "ITA 494 MAIN",
+        "key": "BC 05 20 E1 26 19 09 48"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11617 H 7200",
+        "id": "GCUK Encoder 7",
+        "key": "FF D3 AA 7C CC 20 09 F5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11623 V 9600",
+        "id": "ITA 494 BKP",
+        "key": "BC 05 20 E1 26 19 09 48"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7200",
+        "id": "MNE-001 main",
+        "key": "99 8C C0 E5 01 BA A2 5D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11667 H 7200",
+        "id": "LEVADIAKOS VS OLIMPIAKOS",
+        "key": "CE 39 1F 26 03 ED 24 14"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11688 H 9875",
+        "id": "FEI LLN ST TROPEZ",
+        "key": "55 67 52 0E 58 AC 72 76"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12526 H 7200",
+        "id": "ATL-R.MADRID FEED A",
+        "key": "12 04 A1 B7 97 6B 26 28"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12544 H 8020",
+        "id": "Unname",
+        "key": "30 06 A2 D8 02 2B 26 53"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "ENC 3",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10974 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12512 H 9875",
+        "id": "GVA_Fi06",
+        "key": "96 18 79 27 17 16 CC F9"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12524 H 9875",
+        "id": "GVA_Fi05",
+        "key": "96 18 79 27 17 16 CC F9"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "Main E-285",
+        "key": "13 A8 E5 A0 B1 E2 A3 36"
+    }
+]
