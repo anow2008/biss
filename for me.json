@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 10A",
+        "frequency": "10721 H 7500",
+        "id": "AFD",
+        "key": "C6 66 D1 FD A4 73 9B B2"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "10744 V 7200",
+        "id": "TUR-161 Main",
+        "key": "C5 0F F7 CB 7D 09 20 A6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10802 H 7200",
+        "id": "TANDBERG",
+        "key": "49 10 6D C6 C5 E4 FE A7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11603 H 9875",
+        "id": "GVA_Fi03",
+        "key": "93 FE 2A BB 2B 4A B0 25"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11619 V 7200",
+        "id": "Fi01 ACB",
+        "key": "D3 36 A4 AD 1A 3C B6 0C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "FEI NAL: USA - NAL QUALIFIER - Leg 1",
+        "key": "A1 2B C8 94 83 BB 11 4F"
+    },
+    {
+        "satellite": "Eutelsat 10A",
         "frequency": "10722 H 7200",
         "id": "BOL D'OR 2026",
         "key": "F4 86 19 93 20 26 EC 32"
