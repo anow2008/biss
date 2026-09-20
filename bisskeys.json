@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10744 V 7200",
+    "id": "TUR-161 Main",
+    "key": "C5 0F F7 CB 7D 09 20 A6"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10851 H 7200",
+    "id": "FIG HUN",
+    "key": "CC CE 42 DC DF D7 7F 35"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11051 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11213 V 7200",
+    "id": "E-073",
+    "key": "AB 20 09 D4 20 26 BA 00"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11592 H 9875",
+    "id": "GVA_Fi04",
+    "key": "98 4F 38 1F 46 5E 4D F1"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11617 H 7200",
+    "id": "GCUK Encoder 7",
+    "key": "FF D3 AA 7C CC 20 09 F5"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11667 H 7200",
+    "id": "LEVADIAKOS VS OLIMPIAKOS",
+    "key": "CE 39 1F 26 03 ED 24 14"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12526 H 7200",
+    "id": "ATL-R.MADRID FEED A",
+    "key": "12 04 A1 B7 97 6B 26 28"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12544 H 8020",
+    "id": "Unname",
+    "key": "30 06 A2 D8 02 2B 26 53"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12689 H 7200",
+    "id": "FEI NAL: USA - NAL QUALIFIER - Leg 1",
+    "key": "A1 2B C8 94 83 BB 11 4F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11019 V 4600",
+    "id": "AP LDN UPB",
+    "key": "96 18 79 27 17 16 CC F9"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12512 H 9875",
+    "id": "GVA_Fi06",
+    "key": "96 18 79 27 17 16 CC F9"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12524 H 9875",
+    "id": "GVA_Fi05",
+    "key": "96 18 79 27 17 16 CC F9"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12537 H 7200",
+    "id": "Main E-285",
+    "key": "13 A8 E5 A0 B1 E2 A3 36"
+  }
+]
