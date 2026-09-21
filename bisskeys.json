@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -13,8 +13,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11059 H 7200",
+    "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
     "key": "72 4C 9D 5B B4 34 50 38"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11013 V 4600",
+    "id": "AP LDN UPA",
+    "key": "96 18 79 27 17 16 CC F9"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12512 H 9875",
+    "id": "GVA_Fi06",
+    "key": "96 18 79 27 17 16 CC F9"
   }
 ]
