@@ -22,53 +22,5 @@
     "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
     "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11086 V 9875",
-    "id": "UKI 1956 Match 3 Main Ars v HB Koge",
-    "key": "23 15 76 AE 01 19 A8 C2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11188 V 9875",
-    "id": "UWCL_M4_Fi12_GNVE",
-    "key": "4E A7 FC F1 04 E9 FD EA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11200 V 9875",
-    "id": "E-413 MAIN",
-    "key": "C7 9B A2 04 26 A4 D4 9E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11686 H 7200",
-    "id": "ENC 7",
-    "key": "F2 16 42 4A 4B 96 62 43"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11694 H 7200",
-    "id": "ENC 8",
-    "key": "3B E5 7F 9F 67 C3 1E 48"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12707 H 7200",
-    "id": "ENC 6",
-    "key": "83 6E B9 AA D4 97 54 BF"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11019 V 4600",
-    "id": "AP LDN UPB",
-    "key": "96 18 79 27 17 16 CC F9"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12512 H 9875",
-    "id": "GVA_Fi06",
-    "key": "96 18 79 27 17 16 CC F9"
   }
 ]
