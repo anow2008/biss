@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11087 V 9875",
+        "id": "UKI 1956 Match 3 Main Ars v HB Koge",
+        "key": "23 15 76 AE 01 19 A8 C2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11200 V 9875",
+        "id": "E-413 MAIN",
+        "key": "C7 9B A2 04 26 A4 D4 9E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11685 H 7200",
+        "id": "ENC 7",
+        "key": "F2 16 42 4A 4B 96 62 43"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11695 H 7200",
+        "id": "ENC 8",
+        "key": "3B E5 7F 9F 67 C3 1E 48"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "TUR-161 Main",
+        "key": "DD 77 D0 24 92 2E 60 20"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "ENC 3",
+        "key": "DE 32 A0 B0 2A 5D D6 5D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "ENC 4",
+        "key": "43 C5 73 7B 9E 83 5A 7B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7200",
+        "id": "ENC 6",
+        "key": "83 6E B9 AA D4 97 54 BF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11187 V 9875",
         "id": "LEUK_Fi02",
         "key": "4E A7 FC F1 04 E9 FD EA"
