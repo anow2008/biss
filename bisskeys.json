@@ -1,6 +1,12 @@
 [
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
@@ -49,7 +55,19 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12679 H 7200",
+    "frequency": "11686 H 7200",
+    "id": "ENC 7",
+    "key": "F2 16 42 4A 4B 96 62 43"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11695 H 7200",
+    "id": "ENC 8",
+    "key": "3B E5 7F 9F 67 C3 1E 48"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12680 H 7200",
     "id": "ENC 3",
     "key": "DE 32 A0 B0 2A 5D D6 5D"
   },
@@ -58,6 +76,12 @@
     "frequency": "12689 H 7200",
     "id": "ENC 4",
     "key": "43 C5 73 7B 9E 83 5A 7B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12707 H 7200",
+    "id": "ENC 6",
+    "key": "83 6E B9 AA D4 97 54 BF"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
