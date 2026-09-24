@@ -1,5 +1,17 @@
 [
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11167 V 7200",
+    "id": "eNCA",
+    "key": "BA 50 F3 FD E5 CC 81 32 E"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11167 V 7200",
+    "id": "eNCA",
+    "key": "BA 50 F3 FD E5 CC 81 32"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11046 H 4938",
     "id": "EBU 2 ENC",
@@ -19,8 +31,74 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11067 V 14400",
+    "id": "E379 UNL M1 Main",
+    "key": "24 C1 9B 80 AB 9A 09 4E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11084 V 14400",
+    "id": "AUT34-M02-M",
+    "key": "24 C1 9B 80 AB 9A 09 4E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11191 V 14400",
+    "id": "BUL007 UNL M3  Main",
+    "key": "24 C1 9B 80 AB 9A 09 4E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11208 V 14400",
+    "id": "SUI76-1 UNLM1 main",
+    "key": "24 C1 9B 80 AB 9A 09 4E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11595 H 14400",
+    "id": "ITA 274 NTF MATCH 08  main",
+    "key": "24 C1 9B 80 AB 9A 09 4E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11629 H 7200",
+    "id": "LEUK_Fi01",
+    "key": "89 B6 5A 99 06 E3 8D 76"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11638 H 7200",
+    "id": "Fi10_GNVE",
+    "key": "12 34 AB F1 CD 20 26 13"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12697 H 7200",
     "id": "ENC 1",
     "key": "13 5E C3 34 FC A3 B1 50"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11129 H 9875",
+    "id": "2Sat HOL318 Main MD1 M5",
+    "key": "24 C1 9B 80 AB 9A 09 4E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11141 H 9875",
+    "id": "NOR-044 - UNL - M6B - MAIN",
+    "key": "24 C1 9B 80 AB 9A 09 4E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11153 H 9875",
+    "id": "E-94 - M07 B - MAIN",
+    "key": "24 C1 9B 80 AB 9A 09 4E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11165 H 9875",
+    "id": "ITA 415  UNL M8 Main",
+    "key": "24 C1 9B 80 AB 9A 09 4E"
   }
 ]
