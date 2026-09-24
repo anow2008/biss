@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "78 91 36 3F A2 08 D3 7D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10849 H 7200",
         "id": "Fi11_GNVE",
         "key": "2E 2B E4 3D 2F 43 0A 7C"
