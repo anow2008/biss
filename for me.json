@@ -1,6 +1,90 @@
 [
     {
         "satellite": "Eutelsat 10A",
+        "frequency": "11256 H 7200",
+        "id": "ALG 006 Main",
+        "key": "F8 F4 F1 DD 86 B7 0F 4C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11609 V 7200",
+        "id": "ENC-007",
+        "key": "89 B6 5A 99 06 E3 8D 76"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11613 H 14400",
+        "id": "YSM009 M 8 VBR main",
+        "key": "F3 0A 42 3F 2A 92 81 3D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11628 H 7200",
+        "id": "LEUK_Fi01",
+        "key": "89 B6 5A 99 06 E3 8D 76"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11629 V 19200",
+        "id": "VM5GVs1 AFCON 1",
+        "key": "89 B6 5A 99 06 E3 8D 76"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 H 7200",
+        "id": "Fi10_GNVE",
+        "key": "12 34 AB F1 CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11667 H 7200",
+        "id": "ORA - ANA",
+        "key": "57 98 FF EE ED 5C 6A B3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12526 H 7200",
+        "id": "ANA-1",
+        "key": "12 14 AB D1 AB BA 2B 90"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12540 H 9600",
+        "id": "Sui-066",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12552 H 9875",
+        "id": "WSBK CREMONA",
+        "key": "AA BB CC 31 DD BB AA 42"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11176 H 9875",
+        "id": "ITA548 Feed A Standard Main",
+        "key": "AA AA BB 0F BB CC CC 53"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11188 H 9875",
+        "id": "ITA548 Feed B Complient Main",
+        "key": "AA AA BB 0F BB CC CC 53"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12512 H 9875",
+        "id": "GVA_Fi06",
+        "key": "96 18 79 27 17 16 CC F9"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12603 H 7200",
+        "id": "MRC004-MAIN",
+        "key": "F8 F4 F1 DD 86 B7 0F 4C"
+    },
+    {
+        "satellite": "Eutelsat 10A",
         "frequency": "11167 V 7200",
         "id": "eNCA",
         "key": "BA 50 F3 FD E5 CC 81 32"
