@@ -12,6 +12,18 @@
     "key": "20 26 25 6B 09 FE ED F4"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11246 H 7200",
+    "id": "URC",
+    "key": "1E 83 F2 93 CA 53 9D BA"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11255 H 7200",
+    "id": "ALG 006 Main",
+    "key": "F8 F4 F1 DD 86 B7 0F 4C"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10806 H 14400",
     "id": "TUR139-Main",
@@ -21,25 +33,7 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10830 V 7200",
     "id": "ITA465 M",
-    "key": "FF 26 D0 F5 92 5E 60 50"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 H 7200",
-    "id": "GVA_Fi03",
-    "key": "F8 F4 F1 DD 86 B7 0F 4C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10857 H 7200",
-    "id": "GVA_Fi05",
-    "key": "F8 F4 F1 DD 86 B7 0F 4C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10867 H 7200",
-    "id": "GVA_Fi04",
-    "key": "F8 F4 F1 DD 86 B7 0F 4C"
+    "key": "BB 26 D0 B1 92 5E 60 50"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -61,15 +55,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
+    "frequency": "11059 H 7200",
     "id": "IMG 1 EU",
     "key": "6A 9A D7 DB 91 81 80 92"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11066 V 14400",
-    "id": "E360 UNL-M1 M",
-    "key": "25 C1 9B 81 AB 9A 09 4E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -79,8 +67,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11084 V 14400",
-    "id": "E 363 UNL M2 M",
+    "frequency": "11191 V 14400",
+    "id": "HUN022-1-UNLM03",
     "key": "25 C1 9B 81 AB 9A 09 4E"
   },
   {
@@ -103,33 +91,27 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11623 V 30000",
-    "id": "VM5GVs1 AFCON 1",
-    "key": "F8 F4 F1 DD 86 B7 0F 4C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11642 H 30000",
     "id": "Vm6GVs1 AFCON Path 01",
     "key": "F8 F4 F1 DD 86 B7 0F 4C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11667 H 7200",
-    "id": "ORA - ANA",
-    "key": "57 98 FF EE ED 5C 6A B3"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12540 H 9600",
-    "id": "Sui-066",
-    "key": "B8 0D 7C 41 8E F9 5E E5"
+    "frequency": "11694 H 7200",
+    "id": "UKI-1491 CH4 Lycett Arms HD Backup",
+    "key": "1C A4 22 E2 A6 1D 3A FD"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12609 V 9700",
     "id": "ITA349 CEV Milano",
-    "key": "EE 26 D0 E4 92 5E 60 50"
+    "key": "AB 26 D0 A1 92 5E 60 50"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12680 H 7120",
+    "id": "Spare",
+    "key": "AE 44 67 59 54 CD 33 54"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -145,9 +127,21 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11140 H 9875",
+    "id": "SWE-043 - M07 - B MAIN",
+    "key": "25 C1 9B 81 AB 9A 09 4E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11152 H 9875",
     "id": "TUR-034 M8 B MAIN",
     "key": "25 C1 9B 81 AB 9A 09 4E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11163 H 7200",
+    "id": "LEUK_Fi02",
+    "key": "F8 F4 F1 DD 86 B7 0F 4C"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -160,5 +154,11 @@
     "frequency": "12533 H 14400",
     "id": "M#4 VBR ITALY VS BELGIUM Main",
     "key": "C2 CF 4D DE 2F 57 CB 51"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12648 V 7200",
+    "id": "F641 DI FEM POISSYMAIN",
+    "key": "F6 42 25 5D 09 26 F1 20"
   }
 ]
