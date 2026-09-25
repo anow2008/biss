@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11694 H 7200",
+        "id": "UKI-1491 CH4 Lycett Arms HD Backup",
+        "key": "1C A4 22 E2 A6 1D 3A FD"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "11462 V 15000",
         "id": "ZB PATH 1 BTY BU",
@@ -40,11 +46,5 @@
         "frequency": "10974 V 9600",
         "id": "POL-25 ENC1",
         "key": "AB BA 26 8B DC AE 09 93"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11518 H 7200",
-        "id": "TUR-119 Main",
-        "key": "20 26 25 6B 09 FE ED F4"
     }
 ]
