@@ -1,20 +1,14 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11518 H 7200",
-    "id": "TUR-119 Main",
-    "key": "20 26 25 6B 09 FE ED F4 E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11518 H 7200",
-    "id": "TUR-119 Main",
-    "key": "20 26 25 6B 09 FE ED F4"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Encoder 04",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
