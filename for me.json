@@ -1,5 +1,107 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11471 V 15000",
+        "id": "ZB PATH 1 CLN PRI",
+        "key": "D4 0C C7 A7 B2 72 A7 CB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "ITA465 M",
+        "key": "E6 0F F2 E7 6D 09 26 9C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11646 H 7200",
+        "id": "GVA_Fi01",
+        "key": "AA AA BB 0F BB CC CC 53"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7200",
+        "id": "GVA_Fi02",
+        "key": "AA AA BB 0F BB CC CC 53"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11686 H 7500",
+        "id": "ENC 4",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12526 H 7200",
+        "id": "British GT Cars Main",
+        "key": "E9 CA 7A 2D D5 B8 63 F0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12540 H 9600",
+        "id": "Sui-066",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7120",
+        "id": "Pitch Rugby Exeter v Gloucester",
+        "key": "91 12 AA 4D AA D4 32 B0"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10985 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11162 H 7200",
+        "id": "LEUK_Fi01",
+        "key": "4D 1D DD 47 84 27 EF 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11176 H 9875",
+        "id": "ITA548 Feed A Standard Main",
+        "key": "AA AA BB 0F BB CC CC 53"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12513 H 9875",
+        "id": "GVA_Fi06",
+        "key": "96 18 79 27 17 16 CC F9"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12524 H 9875",
+        "id": "GVA_Fi05",
+        "key": "96 18 79 27 17 16 CC F9"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "Main E-285",
+        "key": "15 A4 4A 03 8C E0 89 F5"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12603 H 7200",
+        "id": "LEUK_Fi02",
+        "key": "4D 1D DD 47 84 27 EF 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12629 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "CC BD 63 EC 49 DB CE F2"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12644 H 9875",
+        "id": "Pokal Frauen Bochum",
+        "key": "26 09 AB DA BA 19 74 47"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11253 V 9800",
         "id": "ORION FEED 1",
