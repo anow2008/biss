@@ -40,11 +40,5 @@
         "frequency": "12648 V 7200",
         "id": "F641 DI FEM POISSYMAIN",
         "key": "F6 42 25 5D 09 26 F1 20"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-25 ENC1",
-        "key": "AB BA 26 8B DC AE 09 93"
     }
 ]
