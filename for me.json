@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10867 H 7200",
+        "id": "Fi01 ACB",
+        "key": "AD 80 51 7E 03 FE F1 F2"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11484 V 7500",
         "id": "ZUFFA",
