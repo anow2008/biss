@@ -1,6 +1,96 @@
 [
     {
         "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11484 V 7500",
+        "id": "ZUFFA",
+        "key": "45 6A 12 C1 3B 77 7C 2E"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11247 H 7200",
+        "id": "URC",
+        "key": "1E 83 F2 93 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11291 H 7200",
+        "id": "ITA 403 - bollate SOFTBALL",
+        "key": "BB 26 AA 8B 26 CC 09 FB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "ITA465 M",
+        "key": "B7 0F F2 B8 6D 09 26 9C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7200",
+        "id": "LAT-002",
+        "key": "BA 23 DE BB 81 CD 72 C0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "33 77 55 FF CA 12 12 EE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11646 H 7200",
+        "id": "Fi09_GNVE",
+        "key": "3E 5C C1 5B 0A 55 F1 50"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7120",
+        "id": "Pitch-EFL Oldham v Salford",
+        "key": "21 99 31 EB 35 15 05 4F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11694 H 7200",
+        "id": "Dubllin Cage Warriors",
+        "key": "B2 14 BA 80 A1 1A 23 DE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12593 V 7200",
+        "id": "E342 FEED 1",
+        "key": "E7 2F FF 15 FD 09 26 2C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12609 V 9700",
+        "id": "ITA349 CEV Milano",
+        "key": "D5 0F F2 D6 6D 09 26 9C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12680 H 7200",
+        "id": "T/A Zixi to Hotbird Domestic Feed",
+        "key": "88 22 55 FF 66 24 57 E1"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12603 H 7200",
+        "id": "ENFUSION",
+        "key": "1A C1 22 FD EB 20 26 31"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12612 H 7200",
+        "id": "HUN022-2-UNLM03",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12635 H 4938",
+        "id": "HUN-013 Line 1",
+        "key": "CC BD 63 EC 49 DB CF F3"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11471 V 15000",
         "id": "ZB PATH 1 CLN PRI",
         "key": "D4 0C C7 A7 B2 72 A7 CB"
