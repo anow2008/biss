@@ -1,51 +1,27 @@
 [
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11302 H 9600",
-    "id": "GT CUP",
-    "key": "13 57 AB 15 CD 24 68 59"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 H 7200",
+    "id": "Fi01 ACB",
+    "key": "D8 65 0D 4A 53 A8 5B 56"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10834 V 9875",
-    "id": "F-510 BMX MARTIGUES main",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10844 H 14400",
-    "id": "G22 MAIN FIM JEREZ",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10858 H 7200",
-    "id": "Fi09_GNVE",
-    "key": "20 26 EA 30 EA 09 27 1A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
-    "id": "EBU 2 ENC",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11059 H 7200",
+    "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
     "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11066 V 14400",
-    "id": "LTU-005 -M1 -Main",
-    "key": "27 C1 9B 83 AB 9A 09 4E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -56,18 +32,18 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11084 V 14400",
-    "id": "AUT34-M02-M",
+    "id": "AUT34M02BU",
     "key": "27 C1 9B 83 AB 9A 09 4E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11190 V 14400",
+    "frequency": "11191 V 14400",
     "id": "E-95 Main",
     "key": "27 C1 9B 83 AB 9A 09 4E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11209 V 14400",
+    "frequency": "11208 V 14400",
     "id": "ITA 274 NTF MATCH 05  main",
     "key": "27 C1 9B 83 AB 9A 09 4E"
   },
@@ -79,37 +55,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11610 V 7200",
-    "id": "British GT Cars Main",
-    "key": "E9 CA 7A 2D D5 B8 63 F0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11613 H 14400",
+    "frequency": "11612 H 14400",
     "id": "ITA 689 M09 M",
     "key": "27 C1 9B 83 AB 9A 09 4E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 V 7200",
-    "id": "ita390 pes",
-    "key": "03 5E AB 0C A6 AA 8C DC"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11647 H 7200",
-    "id": "GVA_Fi01",
-    "key": "AA AA BB 0F BB CC CC 53"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11655 H 7200",
-    "id": "GVA_Fi02",
-    "key": "AA AA BB 0F BB CC CC 53"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11668 H 7200",
+    "frequency": "11667 H 7200",
     "id": "ORA - ANA",
     "key": "57 98 FF EE ED 5C 6A B3"
   },
@@ -121,15 +73,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12552 H 9875",
-    "id": "WSBK CREMONA",
-    "key": "15 04 77 90 77 40 51 08"
+    "frequency": "12552 H 9600",
+    "id": "Sui-066",
+    "key": "B8 0D 7C 41 8E F9 5E E5"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12584 V 7200",
-    "id": "B 123 DGI",
-    "key": "56 88 79 57 2C B6 5E 40"
+    "frequency": "12593 V 7200",
+    "id": "E342 FEED 1",
+    "key": "D0 92 7E E0 72 FF BA 2B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -139,15 +91,27 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12697 H 7200",
-    "id": "ENC 1",
-    "key": "3A E2 E7 03 57 BF DE F4"
+    "frequency": "12680 H 7500",
+    "id": "ENC 6",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL-90a",
-    "key": "27 C1 9B 83 AB 9A 09 4E"
+    "frequency": "10974 V 9600",
+    "id": "POL138_A",
+    "key": "AB BA 26 8B DC AE 09 93"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10983 V 4800",
+    "id": "POL-110",
+    "key": "AB BA 26 8B DC AE 09 93"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10996 V 7500",
+    "id": "POL019 TVN KRK",
+    "key": "77 93 52 5C 99 08 86 27"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -163,44 +127,26 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11165 H 9875",
+    "frequency": "11164 H 9875",
     "id": "NOR-044 - UNLM8B - MAIN",
     "key": "27 C1 9B 83 AB 9A 09 4E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11176 H 9875",
-    "id": "ITA548 Feed A Standard Main",
-    "key": "AA AA BB 0F BB CC CC 53"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11188 H 9875",
-    "id": "ITA548 Feed B Complient Main",
-    "key": "AA AA BB 0F BB CC CC 53"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12513 H 9875",
+    "frequency": "12512 H 9875",
     "id": "GVA_Fi06",
     "key": "96 18 79 27 17 16 CC F9"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12525 H 9875",
+    "frequency": "12524 H 9875",
     "id": "GVA_Fi05",
     "key": "96 18 79 27 17 16 CC F9"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12643 H 9875",
-    "id": "Fal1 Enc1",
-    "key": "27 09 DE 0E AE 15 97 5A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12656 H 9875",
-    "id": "Frauen M'Gladbach",
-    "key": "27 09 DE 0E BB 58 41 54"
+    "frequency": "12537 H 7200",
+    "id": "Main E-285",
+    "key": "16 AA 24 E4 F6 BD 2C DF"
   }
 ]
