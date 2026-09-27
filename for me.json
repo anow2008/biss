@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12630 V 7200",
+        "id": "LNR UK SAT TLS/MHR",
+        "key": "F5 78 27 94 09 26 F2 21"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10839 H 7200",
         "id": "Fi01 ACB",
