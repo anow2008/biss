@@ -1,80 +1,62 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11080 V 7200",
-        "id": "WSHT ENC 53",
-        "key": "33 77 55 FF CA 12 12 EE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10867 H 7200",
-        "id": "Fi01 ACB",
-        "key": "AD 80 51 7E 03 FE F1 F2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12609 V 9700",
-        "id": "ITA349 CEV Milano",
-        "key": "D5 0F F2 D6 6D 09 26 9C"
+        "frequency": "10858 H 7200",
+        "id": "Fi09_GNVE",
+        "key": "20 26 EA 30 EA 09 27 1A"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-056 ENC 2",
+        "frequency": "11188 H 9875",
+        "id": "ITA548 Feed B Complient Main",
+        "key": "AA AA BB 0F BB CC CC 53"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11610 V 7200",
+        "id": "British GT Cars Main",
+        "key": "E9 CA 7A 2D D5 B8 63 F0"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12643 H 9875",
+        "id": "Fal1 Enc1",
+        "key": "27 09 DE 0E AE 15 97 5A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10976 V 4800",
+        "id": "POL 030",
         "key": "AB BA 26 8B DC AE 09 93"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11246 H 7200",
-        "id": "URC",
-        "key": "1E 83 F2 93 CA 53 9D BA"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11152 H 9875",
+        "id": "D565 M6 Main",
+        "key": "27 C1 9B 83 AB 9A 09 4E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7200",
+        "id": "2Sat HOL318 Main",
+        "key": "F8 BC 14 C8 AA 10 81 3B"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12648 V 7200",
-        "id": "SLQ-010 Main",
-        "key": "26 09 BB EA 32 DA CA D6"
+        "frequency": "12603 H 7200",
+        "id": "POL-102 MAIN",
+        "key": "D1 02 AC 7F CA 27 09 FA"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11062 V 7200",
-        "id": "LAT-002",
-        "key": "BA 23 DE BB 81 CD 72 C0"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7120",
-        "id": "Pitch Rugby Sale v Bristol",
-        "key": "16 FE D1 E5 1D 87 65 09"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12593 V 7200",
-        "id": "E342 FEED 1",
-        "key": "E7 2F FF 15 FD 09 26 2C"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11291 H 7200",
-        "id": "ITA 403 - bollate SOFTBALL",
-        "key": "BB 26 AA 8B 26 CC 09 FB"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11484 V 7500",
-        "id": "ZUFFA",
-        "key": "45 6A 12 C1 3B 77 7C 2E"
+        "frequency": "12584 V 7200",
+        "id": "B 123 DGI",
+        "key": "56 88 79 57 2C B6 5E 40"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12635 H 4938",
-        "id": "HUN-013 Line 1",
-        "key": "CC BD 63 EC 49 DB CF F3"
+        "frequency": "10996 V 7500",
+        "id": "POL047 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
