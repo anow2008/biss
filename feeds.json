@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10970 V 4800",
+        "id": "POL138_A",
+        "key": "AB BA 26 8B DC AE 09 93"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10830 V 7120",
         "id": "NLEMG HOL312-1",
@@ -16,12 +22,6 @@
         "frequency": "11039 H 4938",
         "id": "Unname",
         "key": "82 E9 FE 69 97 52 16 FF"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 09 93"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -46,11 +46,5 @@
         "frequency": "11619 V 7120",
         "id": "Pitch Rugby Leicester V Saracens",
         "key": "B1 23 B4 88 56 B7 89 96"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12656 H 9875",
-        "id": "Frauen MGladbach",
-        "key": "27 09 DE 0E BB 58 41 54"
     }
 ]
