@@ -1,50 +1,44 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11619 V 7200",
+        "id": "TUN004 MAI",
+        "key": "CA D3 31 CE 88 C1 C6 0F"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11263 V 14400",
+        "id": "TF1 MAIN",
+        "key": "20 26 09 4F 28 FE ED 13"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11607 H 7200",
+        "id": "EN8000",
+        "key": "20 26 AA F0 DD 20 26 23"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10970 V 4800",
-        "id": "POL138_A",
-        "key": "AB BA 26 8B DC AE 09 93"
+        "frequency": "10996 V 7500",
+        "id": "POL071 TVN24 TOR",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7120",
-        "id": "NLEMG HOL312-1",
-        "key": "6A 96 58 58 F4 AD 11 B2"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12630 V 7200",
-        "id": "LNR UK SAT TLS/MHR",
-        "key": "F5 78 27 94 09 26 F2 21"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "Unname",
+        "frequency": "11040 H 4938",
+        "id": "EBU 1 ENC",
         "key": "82 E9 FE 69 97 52 16 FF"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7500",
-        "id": "ENC 6",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7200",
-        "id": "Fi01 ACB",
-        "key": "D8 65 0D 4A 53 A8 5B 56"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10970 V 4800",
+        "id": "POL-111",
+        "key": "AB BA 26 8B DC AE 09 93"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12537 H 7200",
-        "id": "Main E-285",
-        "key": "16 AA 24 E4 F6 BD 2C DF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11619 V 7120",
-        "id": "Pitch Rugby Leicester V Saracens",
-        "key": "B1 23 B4 88 56 B7 89 96"
+        "frequency": "11140 H 9875",
+        "id": "SWE-043 - M07 - B MAIN",
+        "key": "28 C1 9B 84 AB 9A 09 4E"
     }
 ]
