@@ -1,38 +1,80 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10838 V 7200",
-        "id": "EHF ELM KAR TTH",
-        "key": "91 1F 32 E2 FA E6 AD 8D"
+        "frequency": "10839 H 7200",
+        "id": "TKS.TRT.M17 - A",
+        "key": "4E 5B 29 D2 6D D1 9A D8"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11637 V 7200",
-        "id": "QL60 LEUK_Fi01",
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11190 H 7200",
+        "id": "LEUK_Fi02",
         "key": "CC F9 5E 23 EE DD A3 6E"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11614 V 14400",
-        "id": "UKI-1462-M9-MAIN",
-        "key": "29 C1 9B 85 AB 9A 09 4E"
+        "frequency": "10828 H 7200",
+        "id": "GCUK Encoder 01",
+        "key": "51 DA 3E 69 8D 7F A4 B0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10819 H 7200",
+        "id": "ISL-RKS-MAIN",
+        "key": "81 77 12 0A EA F2 A2 7E"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10976 V 4800",
-        "id": "POL-10 ENC1",
+        "frequency": "12657 H 7200",
+        "id": "REYER_FRANKFURT_MAIN",
+        "key": "30 09 20 59 26 AC EF C1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7200",
+        "id": "Medialink CRO-024/1",
+        "key": "98 01 5E F7 D7 FC A4 77"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12602 V 7200",
+        "id": "NOTV2-ENC3",
+        "key": "51 0A 12 6D ED 18 FC 01"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11258 V 7200",
+        "id": "F419_BKTEUR_MAIN",
+        "key": "29 09 BA EC CD 20 26 13"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10977 V 4800",
+        "id": "pol-053_enc2",
         "key": "AB BA 26 8B DC AE 09 93"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7200",
-        "id": "ORA - ANA",
-        "key": "57 98 FF EE ED 5C 6A B3"
+        "frequency": "10867 H 7200",
+        "id": "YSM-012 MAIN",
+        "key": "E6 D5 C4 7F B3 A2 F1 46"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12513 H 9875",
-        "id": "Service1",
-        "key": "DE 81 BC 1B 8D BE 82 CD"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "ROU-050",
+        "key": "11 FA E6 F1 81 FA E6 61"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12592 V 7200",
+        "id": "D-408 ENC1",
+        "key": "AD 84 0A 3B 12 18 FC 26"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12680 H 7200",
+        "id": "LAT-002",
+        "key": "BA 23 DE BB 81 CD 72 C0"
     }
 ]
