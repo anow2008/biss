@@ -1,17 +1,5 @@
 [
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11263 V 14400",
-    "id": "TF1 MAIN",
-    "key": "20 26 09 4F 28 FE ED 13 E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11263 V 14400",
-    "id": "TF1 MAIN",
-    "key": "20 26 09 4F 28 FE ED 13"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
@@ -39,18 +27,6 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
-    "key": "33 77 55 FF CA 12 12 EE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11619 V 7200",
-    "id": "TUN004 MAI",
-    "key": "CA D3 31 CE 88 C1 C6 0F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 V 7200",
-    "id": "LEUK_Fi05",
-    "key": "CA D3 31 CE 88 C1 C6 0F"
+    "key": "45 41 44 CA A4 5F 31 34"
   }
 ]
