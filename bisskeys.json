@@ -1,33 +1,9 @@
 [
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10744 V 7200",
-    "id": "PAOK VS MANRESA",
-    "key": "F1 3D AA D8 58 B2 A2 AC"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11167 V 7200",
-    "id": "Canal+ Ku Fox Feed",
-    "key": "E1 01 FC DE 26 13 8A C3"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7200",
-    "id": "ETB LOT 21",
-    "key": "06 A1 A8 4F F4 58 C7 13"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10858 H 7200",
-    "id": "ENC 4",
-    "key": "06 A1 A8 4F F4 58 C7 13"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10867 H 7200",
-    "id": "ENC 5",
-    "key": "93 94 39 60 F7 AD 9F 43"
+    "frequency": "11039 H 4938",
+    "id": "Unname",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -48,87 +24,15 @@
     "key": "D5 34 8B 94 DD F8 44 19"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 7200",
-    "id": "E-95 Main",
-    "key": "30 09 20 59 26 FA CA EA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11635 V 9875",
-    "id": "F34/FLY3/Encoder 4.11/BACK UP",
-    "key": "A7 E9 2A BA 17 11 FF 27"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11686 H 7200",
-    "id": "ENC 1",
-    "key": "BB 1E AD 86 8F 63 A4 96"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11694 H 7200",
-    "id": "ENC 3",
-    "key": "D0 CB 26 C1 4A 78 0A CC"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12593 V 7200",
-    "id": "EHF EL MEN M14 LIMOGES HANDBALL VS MARITIMO DE MADEIRA SAD",
-    "key": "98 41 56 2F 12 FC 15 23"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12602 V 7200",
-    "id": "EHF ELM M15 TAT-BER",
-    "key": "AF D7 3E C4 D1 A8 FC 75"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12611 V 7200",
-    "id": "YSM-021",
-    "key": "98 01 5E F7 D7 FC A4 77"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12680 H 7200",
-    "id": "ENC 2",
-    "key": "5C 91 6F 5C BB DC 40 D7"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL 030",
-    "key": "17 C0 46 1D 7E 96 08 1C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11189 H 7200",
-    "id": "EGY024_MAIN",
-    "key": "17 C0 46 1D 7E 96 08 1C"
+    "frequency": "11013 V 4600",
+    "id": "AP LDN UPA",
+    "key": "DE 81 BC 1B 8D BE 82 CD"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12512 H 9875",
     "id": "F503/5/Lyonnes vs Chelsea/MAIN",
     "key": "DE 81 BC 1B 8D BE 82 CD"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12524 H 9875",
-    "id": "E-94 - M05 - MAIN",
-    "key": "4A D6 C8 E8 F0 61 4B 9C"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12648 H 7200",
-    "id": "ita _81B",
-    "key": "30 09 20 59 26 AC EF C1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12657 H 7200",
-    "id": "ITA633_A",
-    "key": "30 09 20 59 26 AC EF C1"
   }
 ]
