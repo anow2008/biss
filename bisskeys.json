@@ -1,7 +1,25 @@
 [
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11166 V 7200",
+    "id": "Canal+ Ku Fox Feed",
+    "key": "E1 01 FC DE 26 13 8A C3 E"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11166 V 7200",
+    "id": "Canal+ Ku Fox Feed",
+    "key": "E1 01 FC DE 26 13 8A C3"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11040 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -13,32 +31,74 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11059 H 7200",
-    "id": "IMG 1 EU",
-    "key": "12 3C AA F8 14 22 A3 D9"
+    "frequency": "11066 V 14400",
+    "id": "LTU-005 -M1 -Main",
+    "key": "30 C1 9B 8C AB 9A 09 4E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
+    "frequency": "11067 H 7200",
     "id": "IMG 2 EU",
     "key": "D5 34 8B 94 DD F8 44 19"
   },
   {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11611 V 9875",
+    "id": "ITA548 UWCL M1 Main",
+    "key": "10 AD 67 24 C7 96 E3 40"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11617 H 7200",
+    "id": "Service 01",
+    "key": "12 14 AB D1 AB BA 2B 90"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11623 V 9875",
+    "id": "SWE-043 - M02 - MAIN",
+    "key": "C2 C6 64 EC 26 8E B5 69"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11635 V 9875",
+    "id": "F563/FLY4/Encoder 4.3A/MAIN",
+    "key": "A7 E9 2A BA 17 11 FF 27"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11686 H 7200",
+    "id": "ENC 1",
+    "key": "BB 1E AD 86 8F 63 A4 96"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11695 H 7200",
+    "id": "ENC 3",
+    "key": "D0 CB 26 C1 4A 78 0A CC"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12679 H 7200",
+    "id": "ENC 2",
+    "key": "5C 91 6F 5C BB DC 40 D7"
+  },
+  {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10970 V 4800",
-    "id": "POL-25 ENC1",
+    "frequency": "10977 V 4800",
+    "id": "POL - 054 Kielce",
     "key": "AB BA 26 8B DC AE 09 93"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 V 9600",
-    "id": "POL-111",
-    "key": "AB BA 26 8B DC AE 09 93"
+    "frequency": "12512 H 9875",
+    "id": "F503/5/Lyonnes vs Chelsea/MAIN",
+    "key": "DE 81 BC 1B 8D BE 82 CD"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL021 p1 WAW",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "12524 H 9875",
+    "id": "E-94 - M05 - MAIN",
+    "key": "4A D6 C8 E8 F0 61 4B 9C"
   }
 ]
