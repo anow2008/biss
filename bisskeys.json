@@ -1,38 +1,164 @@
 [
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11256 V 3600",
-    "id": "NL-Gm HOL219-1",
-    "key": "E9 83 CA 36 B3 ED AE 4E E"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11256 V 3600",
-    "id": "NL-Gm HOL219-1",
-    "key": "E9 83 CA 36 B3 ED AE 4E"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11066 V 14400",
+    "frequency": "11058 H 7200",
+    "id": "Dunhill Championship",
+    "key": "99 E7 35 B5 8F D4 67 CA"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11065 V 14400",
     "id": "AZE-013_MAIN_CHAIN",
     "key": "01 C1 9B 5D AB 9A 10 55"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
-    "id": "IMG 2 EU",
+    "frequency": "11067 H 7200",
+    "id": "BUL007 EL R3 Main",
     "key": "11 A3 7F 33 3F 36 BA 2F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11084 V 14400",
+    "id": "E394 UNL MD4 MAIN",
+    "key": "01 C1 9B 5D AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11191 V 14400",
+    "id": "HUN-022 UNLM05 M",
+    "key": "01 C1 9B 5D AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11208 V 14400",
+    "id": "ITA 689 M06 M",
+    "key": "01 C1 9B 5D AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11595 H 14400",
+    "id": "UKI1482 1 UNLM7",
+    "key": "01 C1 9B 5D AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11611 V 9875",
+    "id": "AUT34M01 M",
+    "key": "22 88 3D E7 43 24 89 F0"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11613 H 14400",
+    "id": "Wales v Norway FEED A Main",
+    "key": "01 C1 9B 5D AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11623 V 9875",
+    "id": "SWE-043 - M02 - MAIN",
+    "key": "F7 60 D4 2B FA EF 8D 76"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11628 H 7200",
+    "id": "LEUK_Fi01",
+    "key": "50 A7 98 8F 34 78 5A 06"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11635 V 9875",
+    "id": "UKI1980 M4 Main",
+    "key": "1B 4E 1E 87 49 30 86 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11654 H 9875",
+    "id": "E399 - UNL M4 VBR MAIN",
+    "key": "3B 06 81 C2 8F 61 DA CA"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11667 H 7200",
+    "id": "ORA - ANA",
+    "key": "57 98 FF EE ED 5C 6A B3"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11685 H 7200",
+    "id": "ENC 2",
+    "key": "1E A2 12 D2 B1 2F 85 65"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12689 H 7200",
+    "id": "ENC 3",
+    "key": "D5 2C 1A 1B C0 FF 3E FD"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12698 H 7200",
+    "id": "ENC 4",
+    "key": "BF C8 72 F9 98 73 2E 39"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11013 V 4600",
+    "id": "AP LDN UPA",
+    "key": "01 C1 9B 5D AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11128 H 9875",
+    "id": "DNK83_1_UNLM2_MAIN",
+    "key": "01 C1 9B 5D AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11140 H 9875",
+    "id": "D565 M3 Main",
+    "key": "01 C1 9B 5D AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11152 H 9875",
+    "id": "UKI_1371_M04_Main",
+    "key": "01 C1 9B 5D AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11164 H 9875",
+    "id": "UKI 1965 UNL M8 B main",
+    "key": "01 C1 9B 5D AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12512 H 9875",
+    "id": "F563/5/FEED PSG FOOT FEMININ MAIN",
+    "key": "59 CF 7D A5 9A 6A E4 E8"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12528 H 7200",
+    "id": "AZE-014",
+    "key": "9D 4B 62 4A C2 22 CC B0"
   }
 ]
