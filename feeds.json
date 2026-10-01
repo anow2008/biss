@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11637 H 7200",
+        "id": "ITA340 A",
+        "key": "AF DA F8 81 F0 D5 F5 BA"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10769 H 7200",
+        "id": "ARM004",
+        "key": "A2 3B CD AA 9E 3A BC 94"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12707 H 7200",
+        "id": "ENC 1",
+        "key": "BC 6C C6 EE EF 60 D3 22"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12698 H 7200",
+        "id": "ENC 4",
+        "key": "BF C8 72 F9 98 73 2E 39"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "ENC 3",
+        "key": "D5 2C 1A 1B C0 FF 3E FD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11686 H 7200",
+        "id": "ENC 2",
+        "key": "1E A2 12 D2 B1 2F 85 65"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12528 H 7200",
         "id": "AZE-014",
@@ -22,35 +58,5 @@
         "frequency": "12512 H 9875",
         "id": "F563/5/FEED PSG FOOT FEMININ MAIN",
         "key": "59 CF 7D A5 9A 6A E4 E8"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11152 H 9875",
-        "id": "UKI_1371_M04_Main",
-        "key": "01 C1 9B 5D AB 9A 10 55"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11623 V 9875",
-        "id": "SWE-043 - M02 - MAIN",
-        "key": "F7 60 D4 2B FA EF 8D 76"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11635 V 9875",
-        "id": "UKI1980 M4 Main",
-        "key": "1B 4E 1E 87 49 30 86 FF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11633 H 14400",
-        "id": "KAZ008M",
-        "key": "02 C1 9B 5E AB 9A 10 55"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11611 V 9875",
-        "id": "AUT34M01 M",
-        "key": "22 88 3D E7 43 24 89 F0"
     }
 ]
