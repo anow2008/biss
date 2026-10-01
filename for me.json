@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11638 H 7200",
+        "id": "ITA340 A",
+        "key": "AF DA F8 81 F0 D5 F5 BA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11058 H 7200",
         "id": "Dunhill Championship",
         "key": "99 E7 35 B5 8F D4 67 CA"
