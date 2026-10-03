@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12679 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11609 V 7200",
         "id": "WSHT ENC 53",
         "key": "22 67 AD 36 CB 34 21 20"
@@ -20,7 +26,7 @@
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11619 V 7200",
-        "id": "Fi01 ACB",
+        "id": "Fi16_GNVE",
         "key": "1A 17 96 C7 37 FE FF 34"
     },
     {
@@ -58,11 +64,5 @@
         "frequency": "11609 H 7200",
         "id": "F511/APL NANTES C",
         "key": "3A A2 41 1D 40 F2 1A 4C"
-    },
-    {
-        "satellite": "Eutelsat 36B / Express AMU1 @ 36.0°E",
-        "frequency": "12573 H 7200",
-        "id": "SAU-030 Main",
-        "key": "73 AA 43 60 C7 45 9E AA"
     }
 ]
