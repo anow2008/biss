@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10841 H 9875",
+        "id": "ENC-23",
+        "key": "A6 89 B0 DF F5 41 7B B1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11204 V 7200",
+        "id": "arkema charlety main",
+        "key": "3F A9 FE E6 82 0B F3 80"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11619 V 7200",
+        "id": "Fi01 ACB",
+        "key": "1A 17 96 C7 37 FE FF 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11646 H 7120",
+        "id": "Pitch Prem Rugby - Newcastle v Leicester",
+        "key": "87 87 1A 28 A1 44 44 29"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "FEI NAL: MEX - NAL QUALIFIER - Leg 2",
+        "key": "55 25 86 00 86 55 22 FD"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10998 V 10000",
+        "id": "POL027",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12528 H 7200",
+        "id": "GVA_Fi02",
+        "key": "47 06 62 AF 0D B1 43 01"
+    },
+    {
         "satellite": "Eutelsat 36B / Express AMU1",
         "frequency": "11653 V 7200",
         "id": "E-276 MAIN",
