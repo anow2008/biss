@@ -1,7 +1,7 @@
 [
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10823 V 3670",
+    "frequency": "10822 V 3670",
     "id": "GCUK Enc 10",
     "key": "82 E9 FE 69 97 52 16 FF"
   },
@@ -25,27 +25,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11066 V 14400",
-    "id": "HUN-022 UNLM02 M",
-    "key": "03 C1 9B 5F AB 9A 10 55"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
-    "id": "IMG 2 EU",
+    "frequency": "11058 H 7200",
+    "id": "IMG 1 EU",
     "key": "22 67 AD 36 CB 34 21 20"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11084 V 14400",
-    "id": "EST-010 M UNLM4",
-    "key": "03 C1 9B 5F AB 9A 10 55"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11191 V 14400",
-    "id": "ISL-RKS-002 -3-MAIN",
-    "key": "03 C1 9B 5F AB 9A 10 55"
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "22 67 AD 36 CB 34 21 20"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -55,69 +43,27 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11213 V 7200",
-    "id": "POR 21",
-    "key": "96 8D B5 D8 31 B3 97 7B"
+    "frequency": "11609 V 7200",
+    "id": "WSHT ENC 53",
+    "key": "22 67 AD 36 CB 34 21 20"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11595 H 14400",
-    "id": "YSM021m M06",
-    "key": "03 C1 9B 5F AB 9A 10 55"
+    "frequency": "11656 H 7200",
+    "id": "UFC RMC PRI",
+    "key": "22 67 AD 36 CB 34 21 20"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 H 7200",
-    "id": "F511/APL NANTES C+",
-    "key": "3A A2 41 1D 40 F2 1A 4C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11617 H 7200",
-    "id": "ORA - ANA",
-    "key": "12 14 AB D1 AB BA 2B 90"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11619 V 7200",
-    "id": "Fi01 ACB",
-    "key": "1A 17 96 C7 37 FE FF 34"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11635 V 9875",
-    "id": "E-467 NTF M7 MAIN",
-    "key": "03 C1 9B 5F AB 9A 10 55"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11656 H 7120",
-    "id": "PITCH Prem Rugby - Gloucester v Harlequins",
-    "key": "98 76 D2 E0 F1 14 14 19"
+    "frequency": "12679 H 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12689 H 7200",
     "id": "FEI NAL: MEX - NAL QUALIFIER - Leg 2",
     "key": "55 25 86 00 86 55 22 FD"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL 48 ENC1",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10998 V 10000",
-    "id": "POL027",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11140 H 9875",
-    "id": "CRO-025 NTF M03 MAIN",
-    "key": "03 C1 9B 5F AB 9A 10 55"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -133,14 +79,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12528 H 7200",
-    "id": "GVA_Fi02",
-    "key": "47 06 62 AF 0D B1 43 01"
+    "frequency": "11190 H 7200",
+    "id": "GVA_Fi05",
+    "key": "8A 25 4A F9 32 18 86 D0"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12656 H 9875",
-    "id": "FBL Leipzig",
-    "key": "03 10 DE F1 DE 49 74 9B"
+    "frequency": "12528 H 7200",
+    "id": "GVA_Fi02",
+    "key": "47 06 62 AF 0D B1 43 01"
   }
 ]
