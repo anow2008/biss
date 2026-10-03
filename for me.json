@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11258 V 7200",
+        "id": "MAIN",
+        "key": "F8 9D 03 98 10 BD 26 F3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "Dunhill Championship",
+        "key": "99 E7 35 B5 8F D4 67 CA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11066 V 14400",
+        "id": "HUN-022 UNLM02 M",
+        "key": "03 C1 9B 5F AB 9A 10 55"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11084 V 14400",
+        "id": "EST-010 M UNLM4",
+        "key": "03 C1 9B 5F AB 9A 10 55"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11190 V 14400",
+        "id": "ISL-RKS-002 -3-MAIN",
+        "key": "03 C1 9B 5F AB 9A 10 55"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11595 H 14400",
+        "id": "YSM021m M06",
+        "key": "03 C1 9B 5F AB 9A 10 55"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11612 V 9875",
+        "id": "SLO-008 Tx 1",
+        "key": "01 1F 9C BC 72 F8 78 E2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11635 V 9875",
+        "id": "ITA 315 MAIN",
+        "key": "90 E1 B3 24 A5 16 13 CE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7120",
+        "id": "Pitch EFL - Chesterfield v Tranmere",
+        "key": "11 0F 52 72 2E FF 23 50"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "Sky Arc.",
+        "key": "AB 50 98 93 BB FE 32 EB"
+    }
+]
