@@ -1,21 +1,15 @@
 [
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11256 H 7200",
-    "id": "GCUK Enc 6",
-    "key": "98 01 5E F7 D7 FC A4 77"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Encoder 04",
-    "key": "98 01 5E F7 D7 FC A4 77"
+    "key": "0F 5C 14 7F 4A FA 5D A1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10838 V 7200",
-    "id": "ENC 07",
-    "key": "98 01 5E F7 D7 FC A4 77"
+    "frequency": "10841 H 9875",
+    "id": "ENC-23",
+    "key": "0F 5C 14 7F 4A FA 5D A1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -37,27 +31,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
-    "id": "Dunhill Championship",
-    "key": "99 E7 35 B5 8F D4 67 CA"
+    "frequency": "11062 V 7200",
+    "id": "Fi01 ACB",
+    "key": "EA 0A BA AE 21 F7 34 4C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "22 67 AD 36 CB 34 21 20"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11082 H 7200",
-    "id": "SBT Brazil",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11190 V 14400",
-    "id": "ITA 689 M03 M",
-    "key": "04 C1 9B 60 AB 9A 10 55"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -73,21 +55,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11612 H 14400",
+    "frequency": "11613 H 14400",
     "id": "uki 1957 m8 Main",
     "key": "04 C1 9B 60 AB 9A 10 55"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11687 H 9875",
-    "id": "E380 CSIO 26 Main",
-    "key": "AA BB 66 CB 77 88 73 72"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11688 H 9875",
-    "id": "E380 CSIO 26 Main",
-    "key": "AA BB 66 CB 77 88 73 72"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -108,22 +78,16 @@
     "key": "20 AC AB 77 26 16 1D 59"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12593 V 7200",
-    "id": "WGYM Riccione",
-    "key": "16 9A E8 98 1A 71 AF 3A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12611 V 7200",
-    "id": "Sky Arc.",
-    "key": "AB 50 98 93 BB FE 32 EB"
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
+    "id": "POL-10 ENC1",
+    "key": "AB BA 26 8B DC AE 10 9A"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11013 V 4600",
-    "id": "AP LDN UPA",
-    "key": "04 C1 9B 60 AB 9A 10 55"
+    "frequency": "10986 V 9600",
+    "id": "POL11_HARM",
+    "key": "AB BA 26 8B DC AE 10 9A"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -145,20 +109,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11190 H 7200",
-    "id": "GVA_Fi05",
-    "key": "24 22 09 4F C9 E0 81 2A"
+    "frequency": "12528 H 7200",
+    "id": "GVA_Fi02",
+    "key": "47 06 62 AF 0D B1 43 01"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12612 H 7200",
-    "id": "Main E-285",
-    "key": "AA AA 04 58 10 BB BB 86"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12644 H 9875",
-    "id": "FFBL Stuttgart",
+    "frequency": "12656 H 9875",
+    "id": "FFBL",
     "key": "04 10 DE F2 FA 34 87 B5"
   }
 ]
