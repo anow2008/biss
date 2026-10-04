@@ -1,68 +1,32 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7500",
-        "id": "ENC 3",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11609 V 7200",
-        "id": "WSHT ENC 53",
-        "key": "22 67 AD 36 CB 34 21 20"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12528 H 7200",
-        "id": "GVA_Fi02",
-        "key": "47 06 62 AF 0D B1 43 01"
+        "frequency": "12644 H 9875",
+        "id": "FFBL Stuttgart",
+        "key": "04 10 DE F2 FA 34 87 B5"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "FEI NAL MEX - NAL QUALIFIER - Leg 2",
-        "key": "55 25 86 00 86 55 22 FD"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11619 V 7200",
-        "id": "Fi16_GNVE",
-        "key": "1A 17 96 C7 37 FE FF 34"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10998 V 10000",
-        "id": "POL027",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12553 H 7200",
-        "id": "RTL  Return 2",
-        "key": "20 AC AB 77 26 16 1D 59"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11213 V 7200",
-        "id": "POR 21",
-        "key": "96 8D B5 D8 31 B3 97 7B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11204 V 7200",
-        "id": "arkema charlety main",
-        "key": "3F A9 FE E6 82 0B F3 80"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11637 H 7200",
+        "frequency": "11083 H 7200",
         "id": "SBT Brazil",
         "key": "13 57 AB 15 CD 24 68 59"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11609 H 7200",
-        "id": "F511/APL NANTES C",
-        "key": "3A A2 41 1D 40 F2 1A 4C"
+        "frequency": "10847 V 7200",
+        "id": "DNK 103 A",
+        "key": "A1 DA 65 E0 E8 D9 FA BB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10838 V 7200",
+        "id": "ENC 07",
+        "key": "98 01 5E F7 D7 FC A4 77"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11040 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "82 E9 FE 69 97 52 16 FF"
     }
 ]
