@@ -1,68 +1,86 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11637 V 7200",
-        "id": "E394 BACKUP",
-        "key": "BD DA 7A 11 C8 41 FD 06"
+        "frequency": "11628 V 7200",
+        "id": "EHF_ELM_GRA_HCB",
+        "key": "91 5D 65 53 1A EA 81 85"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11247 H 7200",
+        "id": "BB",
+        "key": "EC CE 06 C0 10 20 26 56"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-111",
-        "key": "AB BA 26 8B DC AE 10 9A"
+        "frequency": "12612 H 7200",
+        "id": "DOLOMITI_TRENTO_MAIN",
+        "key": "06 10 20 36 26 AB FE CF"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12648 H 7200",
-        "id": "Medialink CRO-021/1",
-        "key": "78 DF FD 54 87 12 3A D3"
+        "frequency": "12603 H 7200",
+        "id": "BiH-003-2",
+        "key": "FA CD 48 0F 16 FE AC C0"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11265 H 7200",
+        "id": "F489 MAIN",
+        "key": "06 10 DA F0 BC 20 26 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 H 7200",
+        "id": "backup",
+        "key": "21 AF 98 68 00 67 F4 5B"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11256 H 7200",
+        "id": "BB EC Skyl.Frankfurt",
+        "key": "EC CE 10 CA 06 20 26 4C"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11179 H 4938",
-        "id": "YSM-015BU",
+        "frequency": "12509 H 4938",
+        "id": "MNE-001 main",
+        "key": "EF 25 52 66 0C 39 20 65"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12594 H 7200",
+        "id": "BCL",
+        "key": "CC 66 44 76 DD 11 AA 98"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12639 H 7200",
+        "id": "YSM-021",
         "key": "20 10 20 50 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10866 H 7200",
-        "id": "DNK 103 A",
-        "key": "95 4F FA DE 12 02 DF F3"
+        "frequency": "12597 V 9700",
+        "id": "CHL-AUT-GRZ-SAI",
+        "key": "FF BF D1 8F 00 6E 84 F2"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10846 V 9700",
-        "id": "CHL-HIT-THE-ROOF-03",
-        "key": "FF AE D1 7E 00 6E 84 F2"
+        "frequency": "12585 V 9700",
+        "id": "CHL-CZE-PLZ-SKE",
+        "key": "FF BA D1 8A 00 6E 84 F2"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12537 H 7200",
-        "id": "U21 GER- GEORGIA",
-        "key": "06 10 BC D2 AE 89 76 AD"
+        "frequency": "12528 H 7200",
+        "id": "D-322 TX1",
+        "key": "06 10 DB F1 AA 37 91 72"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10827 H 9700",
-        "id": "CHL-CZE-LIB-FHC",
-        "key": "FF CB D1 9B 00 6E 84 F2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10815 H 9700",
-        "id": "CHL-SWE-RBK-HCD",
-        "key": "FF AC D1 7C 00 6E 84 F2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10834 V 9700",
-        "id": "CHL-SWE-VLH-GEN",
-        "key": "FF FF D1 CF 00 6E 84 F2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11611 V 9875",
-        "id": "SLO-008 Tx 2",
-        "key": "01 1F 9C BC 72 F8 78 E2"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11188 H 9875",
+        "id": "LK ENC 15",
+        "key": "68 1E 33 B9 A5 2B 38 08"
     }
 ]
