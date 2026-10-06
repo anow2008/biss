@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11263 V 14440",
+    "id": "F563/1/PRIVATIF BACK-UP C+ FRANCE",
+    "key": "FF AC D1 7C 00 6E 84 F2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10815 H 9700",
+    "id": "CHL-SWE-RBK-HCD",
+    "key": "FF AC D1 7C 00 6E 84 F2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10827 H 9700",
+    "id": "CHL-CZE-LIB-FHC",
+    "key": "FF CB D1 9B 00 6E 84 F2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10834 V 9700",
+    "id": "CHL-SWE-VLH-GEN",
+    "key": "FF FF D1 CF 00 6E 84 F2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10846 V 9700",
+    "id": "CHL-HIT-THE-ROOF-03",
+    "key": "FF AE D1 7E 00 6E 84 F2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11051 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "82 E9 FE 69 97 52 16 FF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11058 H 7200",
+    "id": "IMG 1 EU",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11066 V 14400",
+    "id": "KAZ008M M1",
+    "key": "06 C1 9B 62 AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11067 H 7200",
+    "id": "IMG 2 EU",
+    "key": "22 67 AD 36 CB 34 21 20"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11084 V 14400",
+    "id": "BUL007 UNL M2  Main",
+    "key": "06 C1 9B 62 AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11191 V 14400",
+    "id": "HUN-022 UNLM03 M",
+    "key": "06 C1 9B 62 AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11209 V 14400",
+    "id": "EST-010 M UNLM6",
+    "key": "06 C1 9B 62 AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11595 H 14400",
+    "id": "HOL-110-1-UNLM7",
+    "key": "06 C1 9B 62 AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11613 H 14400",
+    "id": "ROU-015 - 1 - UNLM8",
+    "key": "06 C1 9B 62 AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11628 H 7200",
+    "id": "BEL 69",
+    "key": "C0 2A 4B 35 FA 87 6E EF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11637 V 7200",
+    "id": "E394 BACKUP",
+    "key": "BD DA 7A 11 C8 41 FD 06"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11656 H 7200",
+    "id": "FINALnU 20",
+    "key": "12 14 AB D1 AB BA 2B 90"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10986 V 9600",
+    "id": "POL-111",
+    "key": "AB BA 26 8B DC AE 10 9A"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11128 H 9875",
+    "id": "CRO-025 NTF M04 MAIN",
+    "key": "06 C1 9B 62 AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11140 H 9875",
+    "id": "UKI1956 Match05 Main",
+    "key": "06 C1 9B 62 AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11152 H 9875",
+    "id": "M9 uki1983-1",
+    "key": "06 C1 9B 62 AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11164 H 9875",
+    "id": "SUI76-1 UNLM10 main",
+    "key": "06 C1 9B 62 AB 9A 10 55"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11179 H 4938",
+    "id": "YSM-015BU",
+    "key": "20 10 20 50 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12648 H 7200",
+    "id": "Medialink CRO-021/1",
+    "key": "78 DF FD 54 87 12 3A D3"
+  }
+]
