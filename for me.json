@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11628 H 7200",
+        "id": "LEUK_Fi01",
+        "key": "FA A2 DD 79 3D 92 6B 3A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11188 H 9875",
+        "id": "LK ENC 15",
+        "key": "68 1E 33 B9 A5 2B 38 08"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12594 H 7200",
+        "id": "BCL",
+        "key": "CC 66 44 76 DD 11 AA 98"
+    },
+    {
         "satellite": "Eutelsat 36B / Express AMU1",
         "frequency": "11653 V 7200",
         "id": "E-276 MAIN",
