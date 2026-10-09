@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 H 7120",
+        "id": "Pitch EFL - West Ham v QPR",
+        "key": "BB 33 32 20 56 C7 C2 DF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11686 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12582 V 4800",
+        "id": "M5 MRC006A Main",
+        "key": "FE ED 09 F4 10 20 26 56"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12588 V 4800",
+        "id": "M00-MRC007-Main",
+        "key": "FE ED 09 F4 10 20 26 56"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11246 H 7200",
         "id": "STA SNG HD 2",
