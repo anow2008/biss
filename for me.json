@@ -1,1 +1,116 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11246 H 7200",
+        "id": "STA SNG HD 2",
+        "key": "AE 26 35 09 C8 8C 66 BA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10802 H 7200",
+        "id": "BWF WF-A C1 BISS-1",
+        "key": "3E 8B FA C3 61 7C 29 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10820 H 7200",
+        "id": "GCUK Encoder 01",
+        "key": "55 FF AA FE CD 09 10 E6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 H 7500",
+        "id": "NLFLEV_HOL-090 CH-A",
+        "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10867 H 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 10 09 3F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "E-413 MAIN",
+        "key": "4E 6B 44 FD FD B3 73 23"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "F5 1B 1A 2A 4F 2A 6A E3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7200",
+        "id": "E380 WBSC Main",
+        "key": "CA 03 A0 6D 4A 40 29 B3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7200",
+        "id": "BWF WF-A C1 JUNIOR BISS-1",
+        "key": "6E 3C 34 DE A5 CE 87 FA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12606 V 14240",
+        "id": "WEQ - GREECE v ENGLAND MAIN",
+        "key": "BC 87 D3 16 99 A3 FE 3A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10986 V 9600",
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11102 H 7200",
+        "id": "SNG 022 MAIN",
+        "key": "AA 26 CB 9B 14 EB 35 34"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11125 H 4938",
+        "id": "HUN-013 Line 1",
+        "key": "AE BE 49 B5 22 CD EF DE"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12594 H 7200",
+        "id": "F-510 PROD 2 VALENCE main",
+        "key": "F5 10 91 96 0F EE D1 CE"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12620 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12639 H 7200",
+        "id": "CRO-004 Backup - CRO-ICE WWCQ Pula",
+        "key": "12 34 AB F1 CD 20 26 13"
+    }
+]
