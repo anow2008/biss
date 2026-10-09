@@ -1,21 +1,15 @@
 [
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10802 H 7200",
-    "id": "BWF WF-A C1 BISS-1",
-    "key": "3E 8B FA C3 61 7C 29 06"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10820 H 7200",
-    "id": "GCUK Encoder 01",
-    "key": "55 FF AA FE CD 09 10 E6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10839 H 7500",
     "id": "NLFLEV_HOL-090 CH-A",
     "key": "B1 A8 C3 1C DA 6A 4A 8E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -32,73 +26,79 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11058 H 7200",
-    "id": "E-413 MAIN",
-    "key": "4E 6B 44 FD FD B3 73 23"
+    "id": "IMG 1 EU",
+    "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "F5 1B 1A 2A 4F 2A 6A E3"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7120",
-    "id": "One Friday Fight 174",
-    "key": "A3 6B A2 B0 29 BD 10 F6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11109 H 7200",
-    "id": "E393 MAIN",
-    "key": "10 10 BA DA DC 20 26 22"
+    "id": "HUNGARY VS NETHERLANDS",
+    "key": "02 1F BB DC C5 98 54 B1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11619 V 8020",
-    "id": "Fi11_GNVE_magazine",
-    "key": "5B 97 02 F4 2C C0 B6 A2"
+    "frequency": "11212 V 7200",
+    "id": "UKI_028_Main",
+    "key": "31 8A 0D C8 B1 68 E0 F9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12552 H 9875",
-    "id": "WSBK ESTORIL",
-    "key": "AF AD 57 B3 58 96 68 56"
+    "frequency": "11615 H 9875",
+    "id": "Fi20_GNVE_BULI07",
+    "key": "52 F0 84 C6 7E 00 F4 72"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12583 V 7200",
-    "id": "BWF WF-A C1 JUNIOR BISS-1",
-    "key": "6E 3C 34 DE A5 CE 87 FA"
+    "frequency": "11637 H 7120",
+    "id": "Pitch EFL - West Ham v QPR",
+    "key": "BB 33 32 20 56 C7 C2 DF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12606 V 14240",
-    "id": "WEQ - GREECE v ENGLAND MAIN",
-    "key": "BC 87 D3 16 99 A3 FE 3A"
+    "frequency": "11646 H 7120",
+    "id": "Pitch Prem Rugby - Leicester v Gloucester",
+    "key": "C6 63 2A 53 3A 15 15 64"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11656 H 7200",
+    "id": "E380 WBSC Main",
+    "key": "CA 03 A0 6D 4A 40 29 B3"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11685 H 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11695 H 7200",
+    "id": "UKI-1491 CH4 Lycett Arms HD Backup",
+    "key": "1C A4 22 E2 A6 1D 3A FD"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL 030",
-    "key": "AB BA 26 8B DC AE 10 9A"
+    "frequency": "10980 H 3600",
+    "id": "F4-2 4.5MH",
+    "key": "AA 26 CB 9B 14 EB 35 34"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11135 H 7200",
-    "id": "TAS-001",
-    "key": "D1 39 6B 75 02 75 B3 2A"
+    "frequency": "11102 H 7200",
+    "id": "SNG 022 MAIN",
+    "key": "AA 26 CB 9B 14 EB 35 34"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12620 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "20 10 20 50 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12639 H 7200",
-    "id": "CRO-004 Main - CRO-ICE WWCQ Pula W",
-    "key": "12 34 AB F1 CD 20 26 13"
+    "frequency": "12594 H 7200",
+    "id": "F-510 PROD 2 VALENCE main",
+    "key": "F5 10 91 96 0F EE D1 CE"
   }
 ]
