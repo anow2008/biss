@@ -1,80 +1,32 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11618 V 8020",
+        "id": "Fi11_GNVE_magazine",
+        "key": "5B 97 02 F4 2C C0 B6 A2"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11302 H 9600",
+        "id": "SUI 067",
+        "key": "B8 0D 7C 41 8E F9 5E E5"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 10 9A"
+        "frequency": "11005 V 7500",
+        "id": "POL047 TVN WAW",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
-        "id": "POL49 EN1 Bielsko",
-        "key": "11 11 11 33 11 11 22 44"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "EHF-CLM-AAR-MON. ENC A",
-        "key": "DE A2 BA 3A 25 D7 16 12"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "E379 MAIN",
-        "key": "33 0A 33 70 71 AF 50 70"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12593 V 7200",
-        "id": "D535 EHF Melsungen",
-        "key": "96 5D 51 44 EA 3E 8A B2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "YSM-016 MAIN",
-        "key": "8C 10 D9 75 C2 14 E3 B9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12552 H 9875",
-        "id": "WSBK ESTORIL",
-        "key": "DD C9 97 3D 2D C4 2C 1D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "EHF-CLM-ZAG-AAH",
-        "key": "98 DF 1E 95 D7 89 0A 6A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12602 V 7200",
-        "id": "D510 FEED1",
-        "key": "DE 61 8E CD 9F D2 0C 7D"
+        "id": "POL 030",
+        "key": "AB BA 26 8B DC AE 10 9A"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11126 H 7200",
-        "id": "UAE074-M",
-        "key": "56 E3 A0 D9 9E 8B 2F 58"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11656 H 7200",
-        "id": "E380 WBSC Main",
-        "key": "CA 03 A0 6D 4A 40 29 B3"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "74 86 84 7E B1 7F D2 02"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11668 H 9600",
-        "id": "NLEMG HOL270-1",
-        "key": "1F 93 B5 67 F1 39 FC 26"
+        "frequency": "11135 H 7200",
+        "id": "TAS-001",
+        "key": "D1 39 6B 75 02 75 B3 2A"
     }
 ]
