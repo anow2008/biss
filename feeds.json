@@ -1,80 +1,80 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12588 V 4800",
-        "id": "M00-MRC007-Main",
-        "key": "FE ED 09 F4 10 20 26 56"
+        "frequency": "11071 V 7120",
+        "id": "Pitch Bolton v Stoke",
+        "key": "0D F3 C1 C1 45 25 A2 0C"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11694 H 7200",
-        "id": "UKI-1491 CH4 Lycett Arms HD Backup",
-        "key": "1C A4 22 E2 A6 1D 3A FD"
+        "frequency": "11062 V 7120",
+        "id": "PREM RUGBY - Northampton v Bath",
+        "key": "1E 2D 64 AF 64 CE CE 00"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11212 V 7200",
-        "id": "UKI_028_Main",
-        "key": "31 8A 0D C8 B1 68 E0 F9"
+        "frequency": "11092 H 7200",
+        "id": "GCUK Enc 3",
+        "key": "1D 87 B0 54 01 7E CE 4D"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11646 H 7120",
-        "id": "Pitch Prem Rugby - Leicester v Gloucester",
-        "key": "C6 63 2A 53 3A 15 15 64"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11637 H 7120",
-        "id": "Pitch EFL - West Ham v QPR",
-        "key": "BB 33 32 20 56 C7 C2 DF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7500",
-        "id": "ENC 3",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12594 H 7200",
-        "id": "F-510 PROD 2 VALENCE main",
-        "key": "F5 10 91 96 0F EE D1 CE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10867 H 7200",
-        "id": "E-228 Backup",
-        "key": "AA BB 20 85 26 10 09 3F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11102 H 7200",
-        "id": "SNG 022 MAIN",
-        "key": "AA 26 CB 9B 14 EB 35 34"
+        "frequency": "10866 H 7200",
+        "id": "EHF-CLW-GYO-MET",
+        "key": "65 ED 31 83 CE 01 C9 98"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11246 H 7500",
-        "id": "ENFUSION",
-        "key": "A5 D1 C6 3C 26 79 3A D9"
+        "frequency": "11256 H 7200",
+        "id": "URC",
+        "key": "1E 83 F2 93 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11517 H 7200",
+        "id": "CRO-007 Main",
+        "key": "12 34 AB F1 CD 20 26 13"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "TVP POL-32  ENC 1",
+        "frequency": "12619 H 5000",
+        "id": "PRIMAL SPORT",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL039 TVN24 KRK",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10973 V 9600",
+        "id": "POL 48 ENC1",
         "key": "AB BA 26 8B DC AE 10 9A"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12656 H 9600",
-        "id": "NLEMG HOL270-1",
-        "key": "9A A4 28 66 64 13 04 7B"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11636 V 7200",
+        "id": "MediaLink CRO-023/1",
+        "key": "A8 D0 F7 6F 98 74 C2 CE"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11125 H 4938",
-        "id": "HUN-013 Line 1",
-        "key": "AE BE 49 B5 22 CD EF DE"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11058 H 7200",
+        "id": "E-413 MAIN",
+        "key": "4E 6B 44 FD FD B3 73 23"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11109 H 7200",
+        "id": "E393 MAIN",
+        "key": "10 10 BA DA DC 20 26 22"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11265 H 7200",
+        "id": "ITA81",
+        "key": "BC 06 20 E2 26 10 10 46"
     }
 ]
