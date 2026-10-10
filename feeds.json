@@ -1,13 +1,37 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11111 H 5000",
+        "id": "EHF SZEGED UNI",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11080 V 7200",
+        "id": "WSHT ENC 53",
+        "key": "77 11 5A E2 A2 35 29 00"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11260 V 9875",
+        "id": "SNG",
+        "key": "F2 A3 D1 66 E6 89 BB 2A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12630 V 7200",
+        "id": "D171 feed1",
+        "key": "10 10 DF FF EA 51 59 94"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11082 H 7200",
         "id": "EHF-CLM-SZE-SPO",
         "key": "DF E0 FA B9 63 20 00 83"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11635 V 9875",
+        "frequency": "11634 V 9875",
         "id": "GVA_Fi05",
         "key": "3A A9 95 78 8B 22 2C D9"
     },
@@ -25,7 +49,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11200 V 9875",
+        "frequency": "11199 V 9875",
         "id": "Fi12_GNVE",
         "key": "E0 64 AC F0 27 6F 8C 22"
     },
@@ -58,23 +82,5 @@
         "frequency": "11100 H 7200",
         "id": "AEK VS OFI M",
         "key": "53 4C 58 F7 F7 1D F3 07"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11080 H 5000",
-        "id": "EHF SZEGED UNI",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11633 H 14400",
-        "id": "Service 1",
-        "key": "20 22 FD 3F 44 1D 58 B9"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11301 H 9600",
-        "id": "AREZZO_CREMONES_MAIN",
-        "key": "BC 06 20 E2 26 10 10 46"
     }
 ]
