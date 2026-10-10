@@ -1,5 +1,89 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11188 V 9875",
+        "id": "Fi11_GNVE",
+        "key": "24 21 F6 3B DE EA 7E 46"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 34 54 3C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11082 H 7200",
+        "id": "EHF-CLM-SZE-SPO",
+        "key": "DF E0 FA B9 63 20 00 83"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11100 H 7200",
+        "id": "AEK VS OFI M",
+        "key": "53 4C 58 F7 F7 1D F3 07"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11188 V 9875",
+        "id": "Fi11_GNVE",
+        "key": "24 21 F6 3B DE EA 7E 46"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11200 V 9875",
+        "id": "Fi12_GNVE",
+        "key": "E0 64 AC F0 27 6F 8C 22"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11623 V 9875",
+        "id": "D535_156C12_Leipzig_1",
+        "key": "20 22 FD 3F 44 1D 58 B9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11633 H 14400",
+        "id": "Service 1",
+        "key": "20 22 FD 3F 44 1D 58 B9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11635 V 9875",
+        "id": "GVA_Fi05",
+        "key": "3A A9 95 78 8B 22 2C D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11646 H 7120",
+        "id": "PREM RUGBY - Saracens v Bristol",
+        "key": "F2 F2 77 5B 77 A7 A7 C5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7200",
+        "id": "E380 WBSC Main",
+        "key": "CA 03 A0 6D 4A 40 29 B3"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10980 H 3600",
+        "id": "F7-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12632 H 4938",
+        "id": "POL-102 Backup 1",
+        "key": "20 26 AB F1 BA 20 26 00"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12639 H 7200",
+        "id": "POL-102 MAIN",
+        "key": "20 26 AB F1 BA 20 26 00"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11517 H 7200",
         "id": "CRO-007 Main",
