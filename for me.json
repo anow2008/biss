@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11260 V 9875",
+        "id": "SNG",
+        "key": "F2 A3 D1 66 E6 89 BB 2A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10866 H 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 10 10 46"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "77 11 5A E2 A2 35 29 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11080 V 7200",
+        "id": "WSHT ENC 53",
+        "key": "77 11 5A E2 A2 35 29 00"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12630 V 7200",
+        "id": "D171 feed1",
+        "key": "10 10 DF FF EA 51 59 94"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11188 V 9875",
         "id": "Fi11_GNVE",
