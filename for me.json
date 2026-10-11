@@ -1,6 +1,48 @@
 [
     {
         "satellite": "Eutelsat 10A",
+        "frequency": "11244 H 3600",
+        "id": "ITA 168",
+        "key": "34 34 34 9C 12 12 12 36"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10802 H 7200",
+        "id": "OSFP VS PAO",
+        "key": "A4 AA E5 33 44 8C 40 10"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 34 60 48"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11609 H 7200",
+        "id": "Fi01 ACB",
+        "key": "D3 CA F5 92 41 98 F9 D2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10996 V 7500",
+        "id": "POL019 TVN KRK",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "Main E-285",
+        "key": "11 10 20 41 26 FA CA EA"
+    },
+    {
+        "satellite": "Eutelsat 10A",
         "frequency": "11302 H 9600",
         "id": "SUI 067",
         "key": "B8 0D 7C 41 8E F9 5E E5"
