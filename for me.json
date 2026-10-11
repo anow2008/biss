@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 10A",
+        "frequency": "11246 H 7500",
+        "id": "Signal 7",
+        "key": "A5 D1 C6 3C 26 79 3A D9"
+    },
+    {
+        "satellite": "Eutelsat 10A",
         "frequency": "11244 H 3600",
         "id": "ITA 168",
         "key": "34 34 34 9C 12 12 12 36"
