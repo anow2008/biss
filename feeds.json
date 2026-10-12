@@ -1,50 +1,56 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11246 H 7500",
-        "id": "Signal 7",
-        "key": "A5 D1 C6 3C 26 79 3A D9"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11667 H 7200",
+        "id": "Medialink CRO-014/1",
+        "key": "20 26 AB F1 CD 20 27 14"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11128 H 9600",
-        "id": "POL-011",
+        "frequency": "10965 V 4800",
+        "id": "POL-077 ENC-1",
         "key": "AB BA 26 8B DC AE 10 9A"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "OSFP VS PAO",
-        "key": "A4 AA E5 33 44 8C 40 10"
+        "frequency": "11060 V 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "CE 2A F1 E9 48 05 C9 16"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11086 H 14400",
+        "id": "Sky arts",
+        "key": "12 34 5A A0 20 26 10 56"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12537 H 7200",
-        "id": "Main E-285",
-        "key": "11 10 20 41 26 FA CA EA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7500",
-        "id": "ENC 3",
-        "key": "F1 07 45 3D E6 CB AD 5E"
+        "id": "Qat037 M",
+        "key": "F6 12 FD 05 88 2D 41 F6"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL019 TVN KRK",
-        "key": "77 93 52 5C 99 08 86 27"
+        "frequency": "12594 H 7200",
+        "id": "E333 M",
+        "key": "F1 A6 D3 6A B8 E7 29 C8"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11162 H 7200",
+        "id": "SAU-033-Main",
+        "key": "AC 7C 0B 33 68 AB 91 A4"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11154 H 7200",
+        "id": "IRQ014-1",
+        "key": "50 55 B2 57 E0 39 C5 DE"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11071 V 7200",
-        "id": "POR 21",
-        "key": "D1 FE C4 93 B0 B8 BC 24"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7120",
-        "id": "NLEMG HOL312-1",
-        "key": "6A 96 58 58 F4 AD 11 B2"
+        "frequency": "10802 H 7200",
+        "id": "PAOK VS KALAMATA",
+        "key": "8F 3B C3 8D F0 6B E0 3B"
     }
 ]
