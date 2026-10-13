@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12707 H 7200",
+        "id": "Boca Juniors ARG vs Vasco da Gama BRA - INGLES EUROPA",
+        "key": "DC 67 34 77 AA 21 3C 07"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12679 H 7120",
         "id": "Pitch EFL Stoke v Middlesbrough",
         "key": "99 2B 23 E7 5A 3C 24 BA"
@@ -58,17 +64,5 @@
         "frequency": "11105 H 17140",
         "id": "UKI 510 Chelsea main",
         "key": "BA DA 58 EC 79 CA BA FD"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "pol-053_enc2",
-        "key": "AB BA 26 8B DC AE 10 9A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7200",
-        "id": "TUR 136 A",
-        "key": "4E 5B 29 D2 6D D1 9A D8"
     }
 ]
