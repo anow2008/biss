@@ -1,68 +1,80 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "Boca Juniors ARG vs Vasco da Gama BRA - INGLES EUROPA",
-        "key": "DC 67 34 77 AA 21 3C 07"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12511 H 7200",
+        "id": "ACL TWO PERSIB VS THE CONG",
+        "key": "9D 17 D4 88 F9 EA 7C 5F"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7120",
-        "id": "Pitch EFL Stoke v Middlesbrough",
-        "key": "99 2B 23 E7 5A 3C 24 BA"
+        "frequency": "11087 V 9875",
+        "id": "Fi13_GNVE",
+        "key": "7A DF 79 D2 3B 54 1A A9"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11600 H 7120",
-        "id": "Pitch Womens World Cup- England v Greece",
-        "key": "AA 33 FD DA 45 13 10 68"
+        "frequency": "11078 V 4820",
+        "id": "ITA548 UCL M3 Feed B2 Main",
+        "key": "71 12 63 E6 48 D3 02 1D"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12639 H 7200",
-        "id": "DOLOMITI_NINERS_MAIN",
-        "key": "13 10 20 43 26 FE AB CF"
+        "frequency": "12547 H 7200",
+        "id": "via 1 BETIS us OPORTO",
+        "key": "C3 2A B3 A0 11 BA EC B7"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11591 H 7200",
-        "id": "ISL-RKS-002-MAIN",
-        "key": "4D FA 5F A6 FF B0 36 E5"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7200",
-        "id": "backup",
-        "key": "93 58 10 FB 1F 75 DD 71"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11086 H 14400",
-        "id": "Sky arts Main",
-        "key": "12 34 5A A0 20 26 10 56"
+        "frequency": "11616 H 9875",
+        "id": "Fi12_GNVE",
+        "key": "ED 9C 58 E1 44 D8 35 51"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12630 H 7200",
-        "id": "E-333 B",
-        "key": "C8 D2 A5 3F F1 B7 39 E1"
+        "frequency": "10970 V 4800",
+        "id": "pol-053_enc2",
+        "key": "AB BA 26 8B DC AE 10 9A"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12526 H 7200",
-        "id": "NOTV2-ENC3",
-        "key": "22 A1 BF 82 56 77 81 4E"
+        "frequency": "10846 V 9700",
+        "id": "CHL-SUI-HCD-LIB",
+        "key": "D1 01 4E 20 84 FF CF 52"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12553 H 7200",
-        "id": "EHF-ELM-LIM-IRU",
-        "key": "95 A3 12 4A EA D2 FC B8"
+        "frequency": "10827 H 9700",
+        "id": "CHL-FIN-SAI-PLZ",
+        "key": "D1 01 4E 20 84 FF CE 51"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11105 H 17140",
-        "id": "UKI 510 Chelsea main",
-        "key": "BA DA 58 EC 79 CA BA FD"
+        "frequency": "11592 H 9875",
+        "id": "Fi14_GNVE",
+        "key": "69 07 4D BD 3C 05 1C 5D"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL086 TVN24 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11189 H 7200",
+        "id": "Fi02_NE2",
+        "key": "CA E3 0B B8 1A 4C BA 20"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11180 H 7200",
+        "id": "FI03_NE3",
+        "key": "FA 2A DE 02 C7 D8 6A 09"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11154 H 7200",
+        "id": "TBS ADHOC ENC 4",
+        "key": "34 0D E3 24 D6 F9 59 28"
     }
 ]
