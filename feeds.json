@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12707 H 7200",
+        "id": "HOTBIRD 13F // Fluminense BRA vs Palmeiras BRA - INGLES EUROPA",
+        "key": "DC 65 DA 1B 22 11 33 66"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12698 H 7200",
+        "id": "HOTBIRD 13F // Atletico Mineiro BRA vs Montevideo City Torque URU - INGLES EUROPA",
+        "key": "54 32 AD 33 C7 87 32 80"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11628 H 7200",
+        "id": "E115 G19 Via 1 Main",
+        "key": "13 11 AA CE CC 20 23 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11608 H 7200",
+        "id": "E394 MAIN",
+        "key": "B7 E2 F9 92 A4 C3 16 7D"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11305 V 7200",
+        "id": "SINTRA 1 MN",
+        "key": "A3 1B 4F 0D 2D 7C 9E 47"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12603 H 7200",
+        "id": "YSM-012 MAIN",
+        "key": "20 26 04 4A 10 A4 D1 85"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11179 H 4938",
         "id": "MTVA SNG HUNGARY",
@@ -16,89 +52,5 @@
         "frequency": "12594 H 7200",
         "id": "D-331 TX1",
         "key": "14 10 AD D1 FE 20 26 44"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12544 H 7200",
-        "id": "POL-058_ch1",
-        "key": "36 6A F1 91 15 F1 08 0E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10857 H 7200",
-        "id": "EHF-CLW-VES-PAR",
-        "key": "45 8F C1 95 57 99 A0 90"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 H 7200",
-        "id": "EHF-CLM-AAH-ZAG",
-        "key": "36 AF A1 86 31 95 AE 74"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7200",
-        "id": "TUR122A",
-        "key": "4E 5B 29 D2 6D D1 9A D8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10811 H 7200",
-        "id": "Service-1",
-        "key": "20 26 01 47 41 DE AC CB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11091 H 7200",
-        "id": "EHF-CLM-KOL-LUZ",
-        "key": "81 5F 2B 0B B6 79 A5 D4"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12553 H 7200",
-        "id": "BWF WF-A",
-        "key": "66 5A 11 D1 E3 71 A0 F4"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12526 H 7200",
-        "id": "BB EC Ulm-Bosna WF",
-        "key": "EC CE 10 CA 17 20 26 5D"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11258 V 7200",
-        "id": "F529_BKT_LEMANS",
-        "key": "14 10 DB FF CA 20 26 10"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-55 ENC2",
-        "key": "20 26 CA 10 E1 40 55 76"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12612 H 7200",
-        "id": "ROM - RMA Real Madrid Movistar Pre-Match",
-        "key": "A3 F7 B1 4B D9 E6 24 E3"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11617 H 7200",
-        "id": "Fi19 GNVE",
-        "key": "BD FA 41 F8 8D F5 70 F2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7200",
-        "id": "LAT-001 M",
-        "key": "BA 23 DE BB 81 CD 72 C0"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11163 H 7200",
-        "id": "UAE074-M",
-        "key": "4E 94 D7 B9 D2 1C 29 17"
     }
 ]
