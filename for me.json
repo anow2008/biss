@@ -1,1 +1,110 @@
-[]
+[
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11592 H 9875",
+        "id": "Fi14_GNVE",
+        "key": "69 07 4D BD 3C 05 1C 5D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10801 H 7200",
+        "id": "DNK47 ENC1",
+        "key": "7B 3E 9A 53 1F 42 C6 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10827 H 9700",
+        "id": "CHL-FIN-SAI-PLZ",
+        "key": "D1 01 4E 20 84 FF CE 51"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10834 V 9700",
+        "id": "CHL-SUI-GEN-KOL",
+        "key": "D1 01 4E 20 84 FF DB 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10846 V 9700",
+        "id": "CHL-SUI-HCD-LIB",
+        "key": "D1 01 4E 20 84 FF CF 52"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "7B 3F 9A 54 2D 8E 14 CF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11078 V 4820",
+        "id": "ITA548 UCL M3 Feed B2 Main",
+        "key": "71 12 63 E6 48 D3 02 1D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11087 V 9875",
+        "id": "Fi13_GNVE",
+        "key": "7A DF 79 D2 3B 54 1A A9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11592 H 9875",
+        "id": "Fi14_GNVE",
+        "key": "69 07 4D BD 3C 05 1C 5D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11604 H 9875",
+        "id": "Fi16_GNVE",
+        "key": "79 BD 8E C4 58 A1 C5 BE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11616 H 9875",
+        "id": "Fi12_GNVE",
+        "key": "ED 9C 58 E1 44 D8 35 51"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11005 V 7500",
+        "id": "POL086 TVN24 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11180 H 7200",
+        "id": "FI03_NE3",
+        "key": "FA 2A DE 02 C7 D8 6A 09"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11189 H 7200",
+        "id": "Fi02_NE2",
+        "key": "CA E3 0B B8 1A 4C BA 20"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12511 H 7200",
+        "id": "ACL TWO PERSIB VS THE CONG",
+        "key": "9D 17 D4 88 F9 EA 7C 5F"
+    }
+]
