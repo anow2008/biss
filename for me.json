@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11105 H 17140",
+        "id": "Canal Plus Anfield Main",
+        "key": "FA C2 78 34 61 2C AF 3C"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11305 V 7200",
+        "id": "SINTRA 1 MN",
+        "key": "A3 1B 4F 0D 2D 7C 9E 47"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11105 H 17140",
+        "id": "Canal Plus Anfield Main",
+        "key": "FA C2 78 34 61 2C AF 3C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "HOTBIRD 13F // Atletico Mineiro (BRA) vs Montevideo City Torque (URU) - INGLES EUROPA",
+        "key": "54 32 AD 33 C7 87 32 80"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7200",
+        "id": "HOTBIRD 13F // Fluminense (BRA) vs Palmeiras (BRA) - INGLES EUROPA",
+        "key": "DC 65 DA 1B 22 11 33 66"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11136 H 7200",
+        "id": "JOR021/MAIN",
+        "key": "00 3C A3 DF 54 0A 50 AE"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12603 H 7200",
+        "id": "YSM-012 MAIN",
+        "key": "20 26 04 4A 10 A4 D1 85"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
