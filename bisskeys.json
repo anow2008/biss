@@ -1,9 +1,15 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10762 H 30000",
-    "id": "NHL Service-1",
-    "key": "A5 29 62 30 84 92 37 4D E"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11078 V 4820",
+    "id": "ITA548 UCL M3 Feed B2 Main",
+    "key": "71 12 63 E6 48 D3 02 1D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11105 H 17140",
+    "id": "Canal Plus Anfield Main",
+    "key": "FA C2 78 34 61 2C AF 3C"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -12,52 +18,16 @@
     "key": "A5 29 62 30 84 92 37 4D"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10811 H 7200",
-    "id": "Service-1",
-    "key": "20 26 01 47 41 DE AC CB"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10826 H 9700",
-    "id": "CHL-FIN-SAI-PLZ",
-    "key": "D1 01 4E 20 84 FF CE 51"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10834 V 9700",
-    "id": "CHL-SUI-GEN-KOL",
-    "key": "D1 01 4E 20 84 FF DB 5E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 H 7200",
-    "id": "E394 MAIN",
-    "key": "12 34 A7 ED FB 85 2B AB"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11305 V 7200",
+    "id": "SINTRA 1 MN",
+    "key": "A3 1B 4F 0D 2D 7C 9E 47"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10846 V 9700",
     "id": "CHL-SUI-HCD-LIB",
     "key": "D1 01 4E 20 84 FF CF 52"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 H 7200",
-    "id": "EHF-CLM-AAH-ZAG",
-    "key": "36 AF A1 86 31 95 AE 74"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10857 H 7200",
-    "id": "EHF-CLW-VES-PAR",
-    "key": "45 8F C1 95 57 99 A0 90"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10866 H 7200",
-    "id": "EHF-ELM-SES-BHC",
-    "key": "35 A0 00 D5 86 75 4F 4A"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -79,15 +49,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
-    "id": "Hapoel vs BesiktasBUL006Main",
-    "key": "23 45 DB 43 39 62 B8 53"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11078 V 4820",
-    "id": "ITA548 UCL M3 Feed B2 Main",
-    "key": "71 12 63 E6 48 D3 02 1D"
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "7B 3F 9A 54 2D 8E 14 CF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -97,105 +61,39 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11091 H 7200",
-    "id": "EHF-CLM-KOL-LUZ",
-    "key": "81 5F 2B 0B B6 79 A5 D4"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11617 H 7200",
     "id": "Fi19 GNVE",
     "key": "BD FA 41 F8 8D F5 70 F2"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11667 H 7200",
-    "id": "LAT-001 M",
-    "key": "BA 23 DE BB 81 CD 72 C0"
+    "frequency": "11628 H 7200",
+    "id": "E115 G19 Via 1 Main",
+    "key": "13 11 AA CE CC 20 23 0F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11677 H 7200",
-    "id": "LAT-002m",
-    "key": "BA 23 DE BB 81 CD 72 C0"
+    "frequency": "12698 H 7200",
+    "id": "HOTBIRD 13F // Atletico Mineiro (BRA) vs Montevideo City Torque (URU) - INGLES EUROPA",
+    "key": "54 32 AD 33 C7 87 32 80"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11695 H 7200",
-    "id": "TUR122A",
-    "key": "4E 5B 29 D2 6D D1 9A D8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12526 H 7200",
-    "id": "BB EC Ulm-Bosna WF",
-    "key": "EC CE 10 CA 17 20 26 5D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12535 H 7200",
-    "id": "D535_EHF_CLM_MDG_KCE",
-    "key": "3A 15 81 D0 78 D1 87 D0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12585 V 9700",
-    "id": "CHL-NOR-STO-GRZ",
-    "key": "D1 01 4E 20 84 FF BC 3F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12597 V 9700",
-    "id": "CHL-DEN-HBF-FRI",
-    "key": "D1 01 4E 20 84 FF DB 5E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12609 V 9700",
-    "id": "CHL-GER-BER-KAC",
-    "key": "D1 01 4E 20 84 FF DE 61"
+    "frequency": "12707 H 7200",
+    "id": "HOTBIRD 13F // Fluminense (BRA) vs Palmeiras (BRA) - INGLES EUROPA",
+    "key": "DC 65 DA 1B 22 11 33 66"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-55 ENC2",
-    "key": "20 26 CA 10 E1 40 55 76"
+    "frequency": "11013 V 4600",
+    "id": "AP LDN UPA",
+    "key": "00 3C A3 DF 54 0A 50 AE"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL044 TVN24 SZC",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11127 H 7200",
-    "id": "KUW-001  Main",
-    "key": "DB 10 E5 D0 E6 C6 5B 07"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11145 H 7200",
-    "id": "OMA 1",
-    "key": "AC E7 EC 7F 27 85 CD 79"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11154 H 7200",
-    "id": "ITA-630 MAIN",
-    "key": "9D 81 6B 89 7B EC CA 31"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11163 H 7200",
-    "id": "UAE074-M",
-    "key": "4E 94 D7 B9 D2 1C 29 17"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11179 H 4938",
-    "id": "MTVA SNG HUNGARY",
-    "key": "CE BD F1 7C 48 05 59 A6"
+    "frequency": "11136 H 7200",
+    "id": "JOR021/MAIN",
+    "key": "00 3C A3 DF 54 0A 50 AE"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -205,15 +103,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12594 H 7200",
-    "id": "D-331 TX1",
-    "key": "14 10 AD D1 FE 20 26 44"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12612 H 7200",
-    "id": "ROM - RMA Real Madrid Movistar Pre-Match",
-    "key": "A3 F7 B1 4B D9 E6 24 E3"
+    "frequency": "12603 H 7200",
+    "id": "YSM-012 MAIN",
+    "key": "20 26 04 4A 10 A4 D1 85"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
