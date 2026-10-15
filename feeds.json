@@ -1,56 +1,62 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "HOTBIRD 13F // Fluminense BRA vs Palmeiras BRA - INGLES EUROPA",
-        "key": "DC 65 DA 1B 22 11 33 66"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "HOTBIRD 13F // Atletico Mineiro BRA vs Montevideo City Torque URU - INGLES EUROPA",
-        "key": "54 32 AD 33 C7 87 32 80"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11628 H 7200",
-        "id": "E115 G19 Via 1 Main",
-        "key": "13 11 AA CE CC 20 23 0F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11608 H 7200",
-        "id": "E394 MAIN",
-        "key": "B7 E2 F9 92 A4 C3 16 7D"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11305 V 7200",
-        "id": "SINTRA 1 MN",
-        "key": "A3 1B 4F 0D 2D 7C 9E 47"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12639 H 7200",
+        "id": "MYASTRKL-M",
+        "key": "BC 05 32 F3 48 F6 B1 EF"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12603 H 7200",
-        "id": "YSM-012 MAIN",
-        "key": "20 26 04 4A 10 A4 D1 85"
+        "frequency": "12630 H 7200",
+        "id": "AFC CL2 2026 MAIN",
+        "key": "E2 52 1D 51 F7 7A 1A 8B"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11179 H 4938",
-        "id": "MTVA SNG HUNGARY",
-        "key": "CE BD F1 7C 48 05 59 A6"
+        "frequency": "12537 H 7200",
+        "id": "DSNG1-1Main",
+        "key": "C5 ED 58 0A B5 1F 84 58"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12657 H 7200",
-        "id": "VENEZIA_ANKARA_MAIN",
-        "key": "13 10 20 43 26 FE AB CF"
+        "frequency": "12528 H 7200",
+        "id": "TLCAT-002-01",
+        "key": "4C 77 D3 96 9D 7E 56 71"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "B8 26 38 16 27 59 61 E1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-4",
+        "key": "A5 29 62 30 84 92 37 4D"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12594 H 7200",
-        "id": "D-331 TX1",
-        "key": "14 10 AD D1 FE 20 26 44"
+        "frequency": "11005 V 7500",
+        "id": "POL020 TVN WRO",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11189 H 7200",
+        "id": "",
+        "key": "3F E9 22 4A 97 66 21 1E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11180 H 7200",
+        "id": "2026 AFC A",
+        "key": "81 64 F7 DC B5 C1 A5 1B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10970 V 4800",
+        "id": "POL 48 ENC1",
+        "key": "AB BA 26 8B DC AE 10 9A"
     }
 ]
