@@ -12,28 +12,22 @@
     "key": "A5 29 62 30 84 92 37 4D"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10769 H 7200",
-    "id": "ARM-005-B/U",
-    "key": "15 CD 17 F9 D2 6A EF 2B"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10802 H 7200",
-    "id": "DNK47 ENC1",
-    "key": "D5 8A 2F 8E 91 B7 E3 2B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "EHF-CLM-GOG-KRI",
-    "key": "31 37 B8 20 9D 00 26 C3"
+    "frequency": "10829 H 7200",
+    "id": "E-228 Main",
+    "key": "32 16 98 E0 DF 9A AC 25"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10839 V 7200",
-    "id": "GCUK Encoder 01",
+    "id": "EHF-CLM-MON-AAR",
     "key": "78 9A DD EF 10 B1 85 46"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10848 V 7200",
+    "id": "E-95 Main",
+    "key": "60 10 D9 49 03 A4 4E F5"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -43,7 +37,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "7B 3F 9A 54 2D 8E 14 CF"
   },
@@ -55,26 +49,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10971 V 4800",
-    "id": "POL 48 ENC1",
-    "key": "AB BA 26 8B DC AE 10 9A"
+    "frequency": "10985 H 5710",
+    "id": "Unname",
+    "key": "AB 25 D7 A7 8C 43 65 34"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-55 ENC2",
-    "key": "20 26 CA 10 E1 40 55 76"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10996 V 7500",
-    "id": "POL039 TVN24 KRK",
-    "key": "77 93 52 5C 99 08 86 27"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11180 H 7200",
-    "id": "E393 MAIN",
-    "key": "97 06 41 DE F8 A0 5E F6"
+    "frequency": "11190 H 7200",
+    "id": "HD EN-24",
+    "key": "AB 25 D7 A7 8C 43 65 34"
   }
 ]
