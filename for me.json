@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10819 H 7200",
+        "id": "EHF-CLM-DIB-BAR",
+        "key": "33 0A 33 70 71 AF 50 70"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "EHF-CLM-GOG-KRI",
+        "key": "31 37 B8 20 9D 00 26 C3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 V 7200",
+        "id": "EHF-CLM-MON-AAR",
+        "key": "78 9A DD EF 10 B1 85 46"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11080 V 7200",
+        "id": "Fi19 GNVE",
+        "key": "5D FC 76 CF 95 3F BD 91"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10986 V 9600",
+        "id": "POL-55 ENC2",
+        "key": "20 26 CA 10 E1 40 55 76"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10996 V 7500",
+        "id": "POL039 TVN24 KRK",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11180 H 7200",
+        "id": "E393 MAIN",
+        "key": "97 06 41 DE F8 A0 5E F6"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
