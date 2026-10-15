@@ -1,6 +1,54 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-55 ENC2",
+        "key": "20 26 CA 10 E1 40 55 76"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11080 V 7200",
+        "id": "Fi19 GNVE",
+        "key": "5D FC 76 CF 95 3F BD 91"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL039 TVN24 KRK",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10820 H 7200",
+        "id": "backup",
+        "key": "33 0A 33 70 71 AF 50 70"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10830 V 7200",
+        "id": "EHF-CLM-GOG-KRI",
+        "key": "31 37 B8 20 9D 00 26 C3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 V 7200",
+        "id": "GCUK Encoder 01",
+        "key": "78 9A DD EF 10 B1 85 46"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10769 H 7200",
+        "id": "ARM-005-B/U",
+        "key": "15 CD 17 F9 D2 6A EF 2B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "World_M_2",
+        "key": "6E 3C 34 DE A5 CE 87 FA"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12639 H 7200",
         "id": "MYASTRKL-M",
         "key": "BC 05 32 F3 48 F6 B1 EF"
@@ -22,41 +70,5 @@
         "frequency": "12528 H 7200",
         "id": "TLCAT-002-01",
         "key": "4C 77 D3 96 9D 7E 56 71"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10762 H 30000",
-        "id": "ESPN EMEA Service-6",
-        "key": "B8 26 38 16 27 59 61 E1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10762 H 30000",
-        "id": "NHL Service-4",
-        "key": "A5 29 62 30 84 92 37 4D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL020 TVN WRO",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11189 H 7200",
-        "id": "",
-        "key": "3F E9 22 4A 97 66 21 1E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11180 H 7200",
-        "id": "2026 AFC A",
-        "key": "81 64 F7 DC B5 C1 A5 1B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10970 V 4800",
-        "id": "POL 48 ENC1",
-        "key": "AB BA 26 8B DC AE 10 9A"
     }
 ]
