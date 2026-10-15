@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10801 H 7200",
+    "id": "DNK47 ENC1",
+    "key": "D5 8A 2F 8E 91 B7 E3 2B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10811 H 7200",
+    "id": "DNK47 ENC3",
+    "key": "63 DA 5F 9C 28 B1 C9 A2"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11059 H 7200",
+    "id": "IMG 1 EU",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "7B 3F 9A 54 2D 8E 14 CF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12583 V 7200",
+    "id": "World_M_2",
+    "key": "6E 3C 34 DE A5 CE 87 FA"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10970 V 4800",
+    "id": "POL 48 ENC1",
+    "key": "AB BA 26 8B DC AE 10 9A"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11180 H 7200",
+    "id": "2026 AFC A",
+    "key": "81 64 F7 DC B5 C1 A5 1B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11189 H 7200",
+    "id": "56896#A",
+    "key": "3F E9 22 4A 97 66 21 1E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12528 H 7200",
+    "id": "TLCAT-002-01",
+    "key": "4C 77 D3 96 9D 7E 56 71"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12537 H 7200",
+    "id": "DSNG1-1(Main)",
+    "key": "C5 ED 58 0A B5 1F 84 58"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12630 H 7200",
+    "id": "AFC CL2 2026 MAIN",
+    "key": "E2 52 1D 51 F7 7A 1A 8B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12639 H 7200",
+    "id": "MYASTRKL-M",
+    "key": "BC 05 32 F3 48 F6 B1 EF"
+  }
+]
