@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10829 H 7200",
+        "id": "E-228 Main",
+        "key": "32 16 98 E0 DF 9A AC 25"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "E-95 Main",
+        "key": "60 10 D9 49 03 A4 4E F5"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
         "id": "POL-55 ENC2",
@@ -20,7 +32,7 @@
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10820 H 7200",
-        "id": "backup",
+        "id": "EHF-CLM-DIB-BAR",
         "key": "33 0A 33 70 71 AF 50 70"
     },
     {
@@ -32,7 +44,7 @@
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10839 V 7200",
-        "id": "GCUK Encoder 01",
+        "id": "EHF-CLM-MON-AAR",
         "key": "78 9A DD EF 10 B1 85 46"
     },
     {
@@ -52,23 +64,5 @@
         "frequency": "12639 H 7200",
         "id": "MYASTRKL-M",
         "key": "BC 05 32 F3 48 F6 B1 EF"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12630 H 7200",
-        "id": "AFC CL2 2026 MAIN",
-        "key": "E2 52 1D 51 F7 7A 1A 8B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12537 H 7200",
-        "id": "DSNG1-1Main",
-        "key": "C5 ED 58 0A B5 1F 84 58"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12528 H 7200",
-        "id": "TLCAT-002-01",
-        "key": "4C 77 D3 96 9D 7E 56 71"
     }
 ]
