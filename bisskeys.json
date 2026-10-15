@@ -13,24 +13,6 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10829 H 7200",
-    "id": "E-228 Main",
-    "key": "32 16 98 E0 DF 9A AC 25"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 V 7200",
-    "id": "EHF-CLM-MON-AAR",
-    "key": "78 9A DD EF 10 B1 85 46"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7200",
-    "id": "E-95 Main",
-    "key": "60 10 D9 49 03 A4 4E F5"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11058 H 7200",
     "id": "IMG 1 EU",
     "key": "12 3C AA F8 14 22 A3 D9"
@@ -43,20 +25,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11080 V 7200",
-    "id": "Fi19 GNVE",
-    "key": "5D FC 76 CF 95 3F BD 91"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10985 H 5710",
-    "id": "Unname",
-    "key": "AB 25 D7 A7 8C 43 65 34"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11190 H 7200",
-    "id": "HD EN-24",
-    "key": "AB 25 D7 A7 8C 43 65 34"
+    "frequency": "12707 H 7200",
+    "id": "HOTBIRD 13F // Estudiantes de la Plata (ARG) vs Flamengo (BRA) - INGLES EUROPA",
+    "key": "D4 3A CC DA B6 75 4A 75"
   }
 ]
