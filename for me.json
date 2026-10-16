@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11617 H 7200",
+        "id": "Fi19 GNVE",
+        "key": "88 E8 08 78 F6 C5 B2 6D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12528 H 7200",
+        "id": "GVA_Fi04",
+        "key": "88 E8 08 78 F6 C5 B2 6D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10867 H 7500",
         "id": "NLFLEV_HOL-090 CH-A",
         "key": "B1 A8 C3 1C DA 6A 4A 8E"
