@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11617 H 7200",
+        "id": "Fi19 GNVE",
+        "key": "88 E8 08 78 F6 C5 B2 6D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11186 V 7120",
+        "id": "Pitch EFL Burnley v Wolves",
+        "key": "37 8A 32 F3 CE 26 AA 9E"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12630 V 7200",
         "id": "Gloucester v Union Bordeaux",
