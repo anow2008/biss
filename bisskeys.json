@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10811 H 7200",
+    "id": "DNK83_ENC3",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11058 H 7200",
+    "id": "IMG 1 EU",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11067 H 7200",
+    "id": "IMG 2 EU",
+    "key": "7B 3F 9A 54 2D 8E 14 CF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11080 V 7200",
+    "id": "MRC004-MAIN",
+    "key": "D0 DF 9C 4B 35 69 FF 9D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12552 H 9875",
+    "id": "WSBK JEREZ",
+    "key": "52 13 AB 10 DE 12 34 24"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12583 V 7200",
+    "id": "main",
+    "key": "6E 3C 34 DE A5 CE 87 FA"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10965 V 4800",
+    "id": "POL 48 ENC1",
+    "key": "AB BA 26 8B DC AE 10 9A"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10974 V 9600",
+    "id": "POL-033 out1",
+    "key": "AB BA 26 8B DC AE 10 9A"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10976 H 3600",
+    "id": "Fal1 Enc1",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10980 H 3600",
+    "id": "F7-2 4.5MH",
+    "key": "20 25 AE F3 EA 52 02 3E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11005 V 7500",
+    "id": "POL029 TVN24 GDA",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11190 H 7200",
+    "id": "E393 MAIN",
+    "key": "97 06 41 DE F8 A0 5E F6"
+  }
+]
