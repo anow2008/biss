@@ -13,8 +13,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10822 V 3670",
+    "id": "GCUK Enc 04",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
+    "id": "EBU 2 ENC",
     "key": "74 86 84 7E B1 7F D2 02"
   },
   {
@@ -37,38 +49,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11617 H 7200",
-    "id": "Fi19 GNVE",
-    "key": "88 E8 08 78 F6 C5 B2 6D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10980 H 3600",
-    "id": "F7-2 4.5MH",
-    "key": "20 25 AE F3 EA 52 02 3E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11127 H 7200",
-    "id": "Premier Gloucester",
-    "key": "20 26 AB F1 EF 17 10 16"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11136 H 7200",
-    "id": "World Gloucester",
-    "key": "20 26 AB F1 EF 17 10 16"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12528 H 7200",
-    "id": "GVA_Fi04",
-    "key": "88 E8 08 78 F6 C5 B2 6D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12630 V 7200",
-    "id": "Gloucester v Union Bordeaux",
-    "key": "34 AA 12 F0 AA 34 AA 88"
+    "frequency": "11686 H 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   }
 ]
