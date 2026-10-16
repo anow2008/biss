@@ -1,68 +1,62 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "HOTBIRD 13F // Estudiantes de la Plata ARG vs Flamengo BRA - INGLES EUROPA",
-        "key": "D4 3A CC DA B6 75 4A 75"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7200",
-        "id": "E-228 Main",
-        "key": "32 16 98 E0 DF 9A AC 25"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "E-95 Main",
-        "key": "60 10 D9 49 03 A4 4E F5"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-55 ENC2",
-        "key": "20 26 CA 10 E1 40 55 76"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11080 V 7200",
-        "id": "Fi19 GNVE",
-        "key": "5D FC 76 CF 95 3F BD 91"
+        "id": "MRC004-MAIN",
+        "key": "D0 DF 9C 4B 35 69 FF 9D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12552 H 9875",
+        "id": "WSBK JEREZ",
+        "key": "52 13 AB 10 DE 12 34 24"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL039 TVN24 KRK",
+        "frequency": "11005 V 7500",
+        "id": "POL029 TVN24 GDA",
         "key": "77 93 52 5C 99 08 86 27"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10820 H 7200",
-        "id": "EHF-CLM-DIB-BAR",
-        "key": "33 0A 33 70 71 AF 50 70"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "EHF-CLM-GOG-KRI",
-        "key": "31 37 B8 20 9D 00 26 C3"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "EHF-CLM-MON-AAR",
-        "key": "78 9A DD EF 10 B1 85 46"
-    },
-    {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10769 H 7200",
-        "id": "ARM-005-B/U",
-        "key": "15 CD 17 F9 D2 6A EF 2B"
+        "frequency": "11276 V 7200",
+        "id": "Sale Main",
+        "key": "20 26 AB F1 EF 17 10 16"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10976 H 3600",
+        "id": "Fal1 Enc1",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11189 H 7200",
+        "id": "E393 MAIN",
+        "key": "97 06 41 DE F8 A0 5E F6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11623 V 9875",
+        "id": "Fi16GNVE",
+        "key": "79 BD 8E C4 58 A1 C5 BE"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12583 V 7200",
-        "id": "World_M_2",
+        "id": "main",
         "key": "6E 3C 34 DE A5 CE 87 FA"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "B8 26 38 16 27 59 61 E1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-4",
+        "key": "A5 29 62 30 84 92 37 4D"
     }
 ]
