@@ -1,1 +1,146 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-1",
+        "key": "A5 29 62 30 84 92 37 4D"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11267 V 7200",
+        "id": "Sale Main",
+        "key": "20 26 AB F1 EF 17 10 16"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11290 H 9600",
+        "id": "ITA727ENC2",
+        "key": "BC 07 20 E3 26 17 10 4D"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11302 H 9600",
+        "id": "ITA727ENC 1",
+        "key": "BC 07 20 E3 26 17 10 4D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10818 V 3670",
+        "id": "Ascot Path 1.",
+        "key": "AD CB 97 0F 2A FE 33 5B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10823 V 3670",
+        "id": "Ascot Path 2..",
+        "key": "AD CB 97 0F 2A FE 33 5B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10840 H 7200",
+        "id": "E380 Main",
+        "key": "52 15 BC 23 BB 20 26 01"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10867 H 7500",
+        "id": "NLFLEV_HOL-090 CH-A",
+        "key": "B1 A8 C3 1C DA 6A 4A 8E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11040 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 34 63 4B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 34 65 4D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11612 V 9875",
+        "id": "D565 MCHN M",
+        "key": "4A 8E 64 3C FA 9E 03 9B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11618 H 7200",
+        "id": "GVA_Fi07",
+        "key": "D9 EC 49 0E EE A1 7C 0B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11623 V 9875",
+        "id": "Fi16GNVE",
+        "key": "79 BD 8E C4 58 A1 C5 BE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11636 V 7120",
+        "id": "Watford v Charlton",
+        "key": "99 3D 25 FB 02 15 FE 15"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12527 H 7200",
+        "id": "DNK83_ENC1",
+        "key": "A2 F7 6D 06 45 E9 1B 49"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12552 H 9875",
+        "id": "WSBK JEREZ",
+        "key": "24 53 BA 31 CF 71 23 63"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12584 V 7200",
+        "id": "Main",
+        "key": "6E 3C 34 DE A5 CE 87 FA"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10973 V 9600",
+        "id": "POL-52 CM-5000",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11154 H 7200",
+        "id": "E393 MAIN",
+        "key": "97 06 41 DE F8 A0 5E F6"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12522 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "CE BD F1 7C 48 05 59 A6"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12656 H 9875",
+        "id": "FFBL FC KÃ¶ln",
+        "key": "17 10 BE E5 BA 52 14 20"
+    }
+]
