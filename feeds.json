@@ -1,38 +1,86 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11100 H 7200",
-        "id": "F419_MAIN",
-        "key": "19 DC 81 76 A2 08 90 3A"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11265 H 7200",
-        "id": "EPCR",
-        "key": "6A 94 A3 A1 DB 64 0E 4D"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12617 H 25740",
-        "id": "o2 boxing",
-        "key": "A2 5B 2D 2A A4 DA 2E AC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10829 H 7200",
-        "id": "EHF-CLW-ODE-GYO",
-        "key": "01 00 06 07 15 4B F0 50"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11247 H 7200",
-        "id": "ITA81",
-        "key": "BC 07 20 E3 26 17 10 4D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
-        "id": "POL 076",
+        "frequency": "10986 V 9600",
+        "id": "POL-111",
         "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11128 H 9875",
+        "id": "GVA_Fi08_AMERICAS",
+        "key": "22 C6 DB C3 A5 B6 BF 1A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11591 H 7200",
+        "id": "ITA 491 155/a9",
+        "key": "5D 21 0A 88 2E A4 0A DC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11632 V 14400",
+        "id": "Fi11_GNVE",
+        "key": "5D 16 7C EF A1 F0 69 FA"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12657 H 7200",
+        "id": "NLEMG HOL309",
+        "key": "FF AB 89 33 9E AE 7D C9"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11137 H 4938",
+        "id": "YSM-012 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10980 H 3600",
+        "id": "F7-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11256 H 7200",
+        "id": "ROM - RMA Real Madrid Movistar Pre-Match",
+        "key": "AB CD 23 9B 45 99 81 5F"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11305 V 7200",
+        "id": "E-228 Main",
+        "key": "CA CA 20 B4 20 CA CA B4"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11285 V 7200",
+        "id": "Premier Media Connacht v Saracens",
+        "key": "20 26 AB F1 EF 17 10 16"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10857 H 7200",
+        "id": "EHF-CLW-ESB-BBH",
+        "key": "92 87 73 8C 01 7E CF 4E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12647 H 9875",
+        "id": "D366_RTL_DIGI_Path1",
+        "key": "17 10 AB D2 AD 20 26 F3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11091 H 7200",
+        "id": "B 191 DGI",
+        "key": "D1 A6 7D F4 DC 72 64 B2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11082 H 7200",
+        "id": "FTC-CLW-FTC-BVB",
+        "key": "12 ED B1 B0 CE B1 C0 3F"
     }
 ]
