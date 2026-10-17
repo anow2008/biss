@@ -1,6 +1,30 @@
 [
     {
         "satellite": "Eutelsat 10A",
+        "frequency": "11305 V 7200",
+        "id": "SINTRA 1 MN",
+        "key": "4D 6A B3 6A F2 9E C1 51"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10857 H 7200",
+        "id": "E-73",
+        "key": "AA BB 20 85 26 10 17 4D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11617 H 7200",
+        "id": "Fi19 GNVE",
+        "key": "7C 09 3D C2 49 5A A8 4B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12529 H 7200",
+        "id": "GVA_Fi04",
+        "key": "7C 09 3D C2 49 5A A8 4B"
+    },
+    {
+        "satellite": "Eutelsat 10A",
         "frequency": "11302 H 9875",
         "id": "SNG",
         "key": "03 41 30 74 09 02 02 0D"
