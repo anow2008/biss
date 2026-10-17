@@ -1,5 +1,107 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11256 H 7200",
+        "id": "ROM - RMA Real Madrid Movistar Pre-Match",
+        "key": "AB CD 23 9B 45 99 81 5F"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11265 H 7200",
+        "id": "EPCR",
+        "key": "6A 94 A3 A1 DB 64 0E 4D"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11305 V 7200",
+        "id": "E-228 Main",
+        "key": "CA CA 20 B4 20 CA CA B4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10828 H 7200",
+        "id": "EHF-CLW-ODE-GYO",
+        "key": "01 00 06 07 15 4B F0 50"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7200",
+        "id": "MRC006A Main",
+        "key": "D1 A6 7B F2 56 9A B0 A0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7200",
+        "id": "M00-MRC007-Main",
+        "key": "D1 A6 7B F2 56 9A B0 A0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11089 V 7120",
+        "id": "Pitch - EFL - Norwich v Portsmouth",
+        "key": "13 B5 64 2C 3A 2C CC 32"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11100 H 7200",
+        "id": "F419_MAIN",
+        "key": "19 DC 81 76 A2 08 90 3A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11109 H 7200",
+        "id": "Medialink CRO-020/1 EHF-CLW-KRI-BUD",
+        "key": "81 72 A1 94 8C BF 05 50"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11677 H 7200",
+        "id": "E394 BACKUP",
+        "key": "D5 C1 B8 4E F3 A6 92 2B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10980 H 3600",
+        "id": "F7-2 4.5MH",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11128 H 9875",
+        "id": "LEUK_Fi01",
+        "key": "71 12 63 E6 48 D3 02 1D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11137 H 4938",
+        "id": "YSM-012 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12512 H 9875",
+        "id": "GVA_Fi05",
+        "key": "CC 35 8D 8E 7A 11 2E B9"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12617 H 25740",
+        "id": "o2 boxing",
+        "key": "A2 5B 2D 2A A4 DA 2E AC"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12647 H 9875",
+        "id": "D366_RTL_DIGI_Path1",
+        "key": "17 10 AB D2 AD 20 26 F3"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12657 H 7200",
+        "id": "NLEMG HOL309",
+        "key": "FF AB 89 33 9E AE 7D C9"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
