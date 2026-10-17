@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11180 H 7200",
+        "id": "Premier Bath",
+        "key": "20 26 AB F1 EF 17 10 16"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11609 V 7200",
+        "id": "WSHT ENC55",
+        "key": "3A 86 67 27 E7 97 87 05"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11305 V 7200",
+        "id": "SINTRA 1 MN",
+        "key": "4D 6A B3 6A F2 9E C1 51"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12528 H 7200",
+        "id": "GVA_Fi04",
+        "key": "7C 09 3D C2 49 5A A8 4B"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11080 V 7200",
         "id": "MRC004-MAIN",
@@ -16,12 +40,6 @@
         "frequency": "11128 H 9875",
         "id": "GVA_Fi08_AMERICAS",
         "key": "22 C6 DB C3 A5 B6 BF 1A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11591 H 7200",
-        "id": "ITA 491 155/a9",
-        "key": "5D 21 0A 88 2E A4 0A DC"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -46,29 +64,5 @@
         "frequency": "10980 H 3600",
         "id": "F7-2 4.5MH",
         "key": "20 25 AE F3 EA 52 02 3E"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11256 H 7200",
-        "id": "ROM - RMA Real Madrid Movistar Pre-Match",
-        "key": "AB CD 23 9B 45 99 81 5F"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11305 V 7200",
-        "id": "E-228 Main",
-        "key": "CA CA 20 B4 20 CA CA B4"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11285 V 7200",
-        "id": "Premier Media Connacht v Saracens",
-        "key": "20 26 AB F1 EF 17 10 16"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10857 H 7200",
-        "id": "EHF-CLW-ESB-BBH",
-        "key": "92 87 73 8C 01 7E CF 4E"
     }
 ]
