@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat 10A",
+        "frequency": "11302 H 9875",
+        "id": "SNG",
+        "key": "03 41 30 74 09 02 02 0D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "3A 86 67 27 E7 97 87 05"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11591 H 7200",
+        "id": "ITA 491 155/a9",
+        "key": "5D 21 0A 88 2E A4 0A DC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11630 H 9875",
+        "id": "FCB-RBL Basis DFL",
+        "key": "86 99 FA 19 A2 36 03 DB"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11128 H 9875",
+        "id": "GVA_Fi08_AMERICAS",
+        "key": "22 C6 DB C3 A5 B6 BF 1A"
+    },
+    {
+        "satellite": "Eutelsat 10A",
         "frequency": "11256 H 7200",
         "id": "ROM - RMA Real Madrid Movistar Pre-Match",
         "key": "AB CD 23 9B 45 99 81 5F"
