@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7200",
+        "id": "MRC006A Main",
+        "key": "D2 A1 CC 3F 90 E5 E9 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7200",
+        "id": "M00-MRC007-Main",
+        "key": "D2 A1 CC 3F 90 E5 E9 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11180 H 7200",
+        "id": "ENC 2",
+        "key": "20 26 AB F1 EF 17 10 16"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11191 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "CE BD F1 7C 48 05 59 A6"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12612 H 7200",
+        "id": "Northampton World",
+        "key": "20 26 AB F1 EF 17 10 16"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12621 H 7200",
+        "id": "Northampton Main",
+        "key": "20 26 AB F1 EF 17 10 16"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12631 H 11240",
+        "id": "2Sat HOL161",
+        "key": "18 10 BA E2 DE F1 61 30"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
