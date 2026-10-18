@@ -1,5 +1,41 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11247 H 7500",
+        "id": "AFD",
+        "key": "C5 D9 A4 42 4A 66 8D 3D"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11256 H 7200",
+        "id": "EPCR",
+        "key": "6A 94 A3 A1 DB 64 0E 4D"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11285 V 7200",
+        "id": "D571-1 P7 ESGQ",
+        "key": "18 10 CD F5 BA 15 97 66"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10802 H 7200",
+        "id": "PAOK - ARIS",
+        "key": "8C 69 B5 AA 9C 77 1D 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12657 H 7200",
+        "id": "E-228 Main",
+        "key": "AB BA 18 7D 10 20 26 56"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11062 V 7200",
         "id": "MRC006A Main",
