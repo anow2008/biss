@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11285 V 7200",
+        "id": "D571-1 P7 ESGQ",
+        "key": "18 10 CD F5 BA 15 97 66"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12657 H 7200",
+        "id": "E-228 Main",
+        "key": "AB BA 18 7D 10 20 26 56"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11089 V 7200",
+        "id": "MCR 005 MAIN",
+        "key": "D2 A1 CC 3F 90 E5 E9 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12679 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "PAOK - ARIS",
+        "key": "8C 69 B5 AA 9C 77 1D 30"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11256 H 7200",
+        "id": "EPCR",
+        "key": "6A 94 A3 A1 DB 64 0E 4D"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11247 H 7500",
+        "id": "AFD",
+        "key": "C5 D9 A4 42 4A 66 8D 3D"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-111",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12631 H 11240",
         "id": "2Sat HOL161",
@@ -12,51 +60,9 @@
         "key": "CE BD F1 7C 48 05 59 A6"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11062 V 7200",
-        "id": "MRC006A Main",
-        "key": "D2 A1 CC 3F 90 E5 E9 5E"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12621 H 7200",
         "id": "Northampton Main",
         "key": "20 26 AB F1 EF 17 10 16"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12656 H 9875",
-        "id": "FFBL Werder Bremen",
-        "key": "18 10 FD 25 EA 17 89 8A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12641 H 4938",
-        "id": "YSM-021",
-        "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11195 V 7200",
-        "id": "POR 21",
-        "key": "5C 89 CB B0 10 C6 F7 CD"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "AB BA 26 8B DC AE 10 9A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12630 V 7200",
-        "id": "ICC - Section Paloise v Leicester Tigers",
-        "key": "34 AA 12 F0 AA 34 AA 88"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10858 H 7200",
-        "id": "EHF-CLW-POD-NYK",
-        "key": "A4 25 A0 69 B6 F5 1C C7"
     }
 ]
