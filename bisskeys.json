@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10840 H 7200",
+    "id": "E380 Main",
+    "key": "52 15 BC 23 BB 20 26 01"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10858 H 7200",
+    "id": "EHF-CLW-POD-NYK",
+    "key": "A4 25 A0 69 B6 F5 1C C7"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10866 H 7500",
+    "id": "NLFLEV_HOL-090 CH-B",
+    "key": "B1 A8 C3 1C DA 6A 4A 8E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11040 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11051 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11059 H 7200",
+    "id": "IMG 1 EU",
+    "key": "72 4C 9D 5B B4 34 69 51"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11067 H 7200",
+    "id": "IMG 2 EU",
+    "key": "72 4C 9D 5B B4 34 70 58"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11186 V 7200",
+    "id": "Fi09_GNVE",
+    "key": "DB 96 BD 2E 0E A7 1A CF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11213 V 7200",
+    "id": "\u0015F-510 D1 fÃ©minine Martigues main",
+    "key": "AB CD 12 8A 34 EF FF 22"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11611 V 9875",
+    "id": "D565 MCHN M",
+    "key": "E0 D6 31 E7 0A 48 75 C7"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11624 V 9875",
+    "id": "Fi16_GNVE",
+    "key": "79 BD 8E C4 58 A1 C5 BE"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11633 H 14400",
+    "id": "ITA 452 B 157 CD",
+    "key": "AB 18 10 D3 CC 20 26 12"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11676 H 7200",
+    "id": "E394 BACKUP",
+    "key": "A9 D4 E7 64 C2 F1 38 EB"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12526 H 7200",
+    "id": "DNK83_ENC1",
+    "key": "9E 3C 8B 65 14 FA 72 80"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12552 H 9875",
+    "id": "WSBK JEREZ",
+    "key": "A3 D2 4E C3 CB 43 ED FB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "POL-141 ENC1",
+    "key": "AB BA 26 8B DC AE 10 9A"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10985 V 9600",
+    "id": "POL-011",
+    "key": "AB BA 26 8B DC AE 10 9A"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11163 H 7200",
+    "id": "E393 MAIN",
+    "key": "42 1A 93 EF 7E F1 EF 5E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11189 H 7200",
+    "id": "POL-102  Main",
+    "key": "D1 02 AC 7F DC 18 10 04"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12595 H 9875",
+    "id": "FFBL Union Berlin",
+    "key": "18 10 FD 25 EA 17 89 8A"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12604 H 4938",
+    "id": "YSM-016 MAIN",
+    "key": "20 10 20 50 25 20 26 6B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12630 V 7200",
+    "id": "ICC - Section Paloise v Leicester Tigers",
+    "key": "34 AA 12 F0 AA 34 AA 88"
+  }
+]
