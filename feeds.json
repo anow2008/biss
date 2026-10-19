@@ -42,12 +42,6 @@
         "key": "19 10 BA E3 DE 51 12 41"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "74 86 84 7E B1 7F D2 02"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10986 V 9600",
         "id": "TVP POL-32  ENC 1",
