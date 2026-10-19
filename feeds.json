@@ -31,13 +31,7 @@
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11256 H 7200",
-        "id": "EPCR",
-        "key": "6A 94 A3 A1 DB 64 0E 4D"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11247 H 7500",
+        "frequency": "11255 H 7500",
         "id": "AFD",
         "key": "C5 D9 A4 42 4A 66 8D 3D"
     },
