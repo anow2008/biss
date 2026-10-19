@@ -13,6 +13,12 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "74 86 84 7E B1 7F D2 02"
@@ -30,15 +36,33 @@
     "key": "72 4C 9D 5B B4 34 72 5A"
   },
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11019 V 4600",
-    "id": "AP LDN UPB",
-    "key": "20 10 20 50 25 20 26 6B"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11080 V 7200",
+    "id": "MRC004-MAIN",
+    "key": "D3 86 B7 10 0F 24 0D 40"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11089 V 7200",
+    "id": "MCR 005 MAIN",
+    "key": "D3 86 B7 10 0F 24 0D 40"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11591 H 7200",
+    "id": "Fi19 GNVE",
+    "key": "A9 09 1C CE 33 53 7A 00"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11137 H 4938",
-    "id": "YSM-021",
-    "key": "20 10 20 50 25 20 26 6B"
+    "frequency": "11013 V 4600",
+    "id": "GMS Cairo 1",
+    "key": "AB C1 BA 26 C1 C1 2A AC"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12648 H 7200",
+    "id": "E-457",
+    "key": "AB C1 BA 26 C1 C1 2A AC"
   }
 ]
