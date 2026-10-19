@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11080 V 7200",
+        "id": "MRC004-MAIN",
+        "key": "D3 86 B7 10 0F 24 0D 40"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11089 V 7200",
+        "id": "MCR 005 MAIN",
+        "key": "D3 86 B7 10 0F 24 0D 40"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11591 H 7200",
+        "id": "Fi19 GNVE",
+        "key": "A9 09 1C CE 33 53 7A 00"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12648 H 7200",
+        "id": "E-457",
+        "key": "AB C1 BA 26 C1 C1 2A AC"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
