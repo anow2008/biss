@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11686 H 7120",
+        "id": "EFL Gillingham v Port Vale",
+        "key": "94 3D 38 09 93 4F 4F 31"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12526 H 7200",
+        "id": "BB Rostock",
+        "key": "EC CE 10 CA 20 20 26 66"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "Medialink CRO-021/1",
+        "key": "FE BC 20 DA 26 00 10 36"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11164 H 9875",
+        "id": "HOL318 main",
+        "key": "FB 4B DD 23 DF D0 D6 85"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12639 H 7200",
+        "id": "D-322 TX1",
+        "key": "20 10 DE 0E BC 94 67 B7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10848 V 7200",
         "id": "TUR 143 A",
         "key": "45 FA 20 5F 26 20 01 47"
