@@ -1,5 +1,101 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 V 7200",
+        "id": "TUR 143 A",
+        "key": "45 FA 20 5F 26 20 01 47"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11082 H 7200",
+        "id": "E399 MAIN",
+        "key": "F9 C4 A6 63 D2 B8 31 BB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11628 H 7200",
+        "id": "MRC006A Main",
+        "key": "D4 A7 B1 2C C1 E8 35 DE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 H 7200",
+        "id": "M00-MRC007-Main",
+        "key": "D4 A7 B1 2C C1 E8 35 DE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11647 H 7200",
+        "id": "MRC004-MAIN",
+        "key": "D4 A7 B1 2C C1 E8 35 DE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7200",
+        "id": "MCR 005 MAIN",
+        "key": "D4 A7 B1 2C C1 E8 35 DE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12535 H 7200",
+        "id": "ANA",
+        "key": "11 EE 34 33 FD 56 21 74"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12593 V 7200",
+        "id": "CZE-012 Main_BCL_PCE-UNI",
+        "key": "A1 A9 20 6A 26 DE FA FE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12602 V 7200",
+        "id": "Medialink CRO-025/1",
+        "key": "20 26 F4 3A 51 A1 CC BE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12680 H 7200",
+        "id": "Service-1",
+        "key": "4E 5B 29 D2 6D D1 9A D8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "BUL007 Balk vs Liet Main",
+        "key": "20 B1 02 D3 AC 9F 01 4C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12533 H 4938",
+        "id": "YSM-016 MAIN",
+        "key": "89 48 AF 80 A4 06 3B E5"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12546 H 7200",
+        "id": "Feed C STU ATM Prev Set",
+        "key": "BC 35 AC 9D 62 CB 22 4F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12556 H 7200",
+        "id": "FEED D STU ATM Prev Terr Juego",
+        "key": "BC 35 AC 9D 62 CB 22 4F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12648 H 7200",
+        "id": "E-457",
+        "key": "AB C1 BA 26 C1 C1 2A AC"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12657 H 7200",
+        "id": "E-457",
+        "key": "AB C1 BA 26 C1 C1 2A AC"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
