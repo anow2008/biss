@@ -1,21 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10762 H 30000",
+    "frequency": "10761 H 30000",
     "id": "NHL Service-1",
     "key": "A5 29 62 30 84 92 37 4D E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10762 H 30000",
+    "frequency": "10761 H 30000",
     "id": "NHL Service-1",
     "key": "A5 29 62 30 84 92 37 4D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 V 7200",
-    "id": "TUR 143 A",
-    "key": "45 FA 20 5F 26 20 01 47"
+    "frequency": "11039 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -43,31 +43,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11082 H 7200",
-    "id": "E399 MAIN",
-    "key": "F9 C4 A6 63 D2 B8 31 BB"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11087 V 9875",
+    "frequency": "11086 V 9875",
     "id": "LEUK_Fi01",
     "key": "DC D1 DC 89 36 76 24 D0"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11628 H 7200",
-    "id": "MRC006A Main",
-    "key": "D4 A7 B1 2C C1 E8 35 DE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 H 7200",
-    "id": "M00-MRC007-Main",
-    "key": "D4 A7 B1 2C C1 E8 35 DE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11647 H 7200",
+    "frequency": "11646 H 7200",
     "id": "MRC004-MAIN",
     "key": "D4 A7 B1 2C C1 E8 35 DE"
   },
@@ -79,68 +61,44 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11686 H 7120",
+    "id": "EFL Gillingham v Port Vale",
+    "key": "94 3D 38 09 93 4F 4F 31"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12526 H 7200",
+    "id": "BB Rostock",
+    "key": "EC CE 10 CA 20 20 26 66"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12535 H 7200",
     "id": "ANA",
     "key": "11 EE 34 33 FD 56 21 74"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12593 V 7200",
-    "id": "CZE-012 Main_BCL_PCE-UNI",
-    "key": "A1 A9 20 6A 26 DE FA FE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12602 V 7200",
-    "id": "Medialink CRO-025/1",
-    "key": "20 26 F4 3A 51 A1 CC BE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12680 H 7200",
-    "id": "Service-1",
-    "key": "4E 5B 29 D2 6D D1 9A D8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12689 H 7200",
-    "id": "BUL007 Balk vs Liet Main",
-    "key": "20 B1 02 D3 AC 9F 01 4C"
+    "frequency": "12611 V 7200",
+    "id": "Medialink CRO-021/1",
+    "key": "FE BC 20 DA 26 00 10 36"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11019 V 4600",
-    "id": "AP LDN UPB",
-    "key": "89 48 AF 80 A4 06 3B E5"
+    "frequency": "11012 V 4600",
+    "id": "Moscow TX5",
+    "key": "FB 4B DD 23 DF D0 D6 85"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12533 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "89 48 AF 80 A4 06 3B E5"
+    "frequency": "11164 H 9875",
+    "id": "HOL318 main",
+    "key": "FB 4B DD 23 DF D0 D6 85"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12546 H 7200",
-    "id": "Feed C STU ATM Prev Set",
-    "key": "BC 35 AC 9D 62 CB 22 4F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12556 H 7200",
-    "id": "FEED D STU ATM Prev Terr Juego",
-    "key": "BC 35 AC 9D 62 CB 22 4F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12648 H 7200",
-    "id": "E-457",
-    "key": "AB C1 BA 26 C1 C1 2A AC"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12657 H 7200",
-    "id": "E-457",
-    "key": "AB C1 BA 26 C1 C1 2A AC"
+    "frequency": "12639 H 7200",
+    "id": "D-322 TX1",
+    "key": "20 10 DE 0E BC 94 67 B7"
   }
 ]
