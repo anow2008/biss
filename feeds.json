@@ -1,62 +1,50 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7500",
-        "id": "ENC 4",
-        "key": "85 45 DA A4 DA 36 54 64"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7500",
-        "id": "ENC 3",
-        "key": "65 87 AB 97 AB 47 85 77"
+        "frequency": "11072 V 4820",
+        "id": "F634 FEED B2",
+        "key": "DC D1 DC 89 36 76 24 D0"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11105 H 3600",
-        "id": "SNG 022 MAIN",
-        "key": "AA 26 CB 9B 14 EB 35 34"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7200",
-        "id": "MCR 005 MAIN",
-        "key": "D3 86 B7 10 0F 24 0D 40"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12648 H 7200",
-        "id": "E-457",
-        "key": "AB C1 BA 26 C1 C1 2A AC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11591 H 7200",
-        "id": "Fi19 GNVE",
-        "key": "A9 09 1C CE 33 53 7A 00"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12596 H 9875",
-        "id": "FFBL FC Bayern",
-        "key": "19 10 BA E3 DE 51 12 41"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "TVP POL-32  ENC 1",
+        "frequency": "10976 V 4800",
+        "id": "POL-10 ENC2",
         "key": "AB BA 26 8B DC AE 10 9A"
     },
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10770 H 7200",
+        "id": "ARM-005 Main",
+        "key": "9D 91 17 45 0F F8 FA 01"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12612 H 7200",
-        "id": "D233",
-        "key": "20 26 AB F1 CD 10 19 F6"
+        "frequency": "10996 V 7500",
+        "id": "POL023 TVN24 WAW P2",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12657 H 7200",
+        "id": "Slava Ukraini",
+        "key": "19 10 CE F7 AE 98 76 BC"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "GCUK Enc 04",
-        "key": "23 DD AE AE FB 19 10 24"
+        "frequency": "10867 H 7200",
+        "id": "E-228 Main",
+        "key": "CA CA 20 B4 20 CA CA B4"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "B8 26 38 16 27 59 61 E1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-4",
+        "key": "A5 29 62 30 84 92 37 4D"
     }
 ]
