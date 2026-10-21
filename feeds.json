@@ -1,80 +1,44 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7120",
-        "id": "EFL Gillingham v Port Vale",
-        "key": "94 3D 38 09 93 4F 4F 31"
+        "frequency": "11592 H 9875",
+        "id": "Fi14_GNVE",
+        "key": "75 FE C5 38 E1 8A 91 FC"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12639 H 7200",
-        "id": "D-322 TX1",
-        "key": "20 10 DE 0E BC 94 67 B7"
+        "frequency": "12657 H 7200",
+        "id": "D233",
+        "key": "19 10 CE F7 AE 98 76 BC"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12526 H 7200",
-        "id": "BB Rostock",
-        "key": "EC CE 10 CA 20 20 26 66"
+        "frequency": "11087 V 9875",
+        "id": "Fi13_GNVE",
+        "key": "05 70 32 A7 67 35 F1 8D"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
+        "frequency": "11601 H 4938",
+        "id": "ANA",
+        "key": "11 EE 34 33 FD 56 21 74"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
         "key": "74 86 84 7E B1 7F D2 02"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11656 H 7200",
-        "id": "MCR 005 MAIN",
-        "key": "D4 A7 B1 2C C1 E8 35 DE"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "B8 26 38 16 27 59 61 E1"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12533 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "89 48 AF 80 A4 06 3B E5"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "Medialink CRO-021/1",
-        "key": "FE BC 20 DA 26 00 10 36"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "TUR 143 A",
-        "key": "45 FA 20 5F 26 20 01 47"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12546 H 7200",
-        "id": "Feed C STU ATM Prev Set",
-        "key": "BC 35 AC 9D 62 CB 22 4F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12648 H 7200",
-        "id": "E-457",
-        "key": "AB C1 BA 26 C1 C1 2A AC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7200",
-        "id": "Service-1",
-        "key": "4E 5B 29 D2 6D D1 9A D8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "BUL007 Balk vs Liet Main",
-        "key": "20 B1 02 D3 AC 9F 01 4C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11082 H 7200",
-        "id": "E399 MAIN",
-        "key": "F9 C4 A6 63 D2 B8 31 BB"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-4",
+        "key": "A5 29 62 30 84 92 37 4D"
     }
 ]
