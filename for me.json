@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11087 V 9875",
+        "id": "UCL_IHL_GVA_Fi01",
+        "key": "6D A3 13 23 35 EC 76 97"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11694 H 7200",
         "id": "HOTBIRD 13F // Montevideo City Torque (URU) vs Atletico Mineiro (BRA) - INGLES EUROPA",
         "key": "98 D4 34 A0 FB CA D5 9A"
