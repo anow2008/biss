@@ -1,86 +1,50 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10810 H 7200",
-        "id": "GCUK ENC 6",
-        "key": "57 A0 0F 06 1C 41 00 5D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11694 H 7200",
-        "id": "HOTBIRD 13F // Montevideo City Torque URU vs Atletico Mineiro BRA - INGLES EUROPA",
-        "key": "98 D4 34 A0 FB CA D5 9A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "HOTBIRD 13F // Palmeiras BRA vs Fluminense BRA - INGLES EUROPA",
-        "key": "98 7B CE E1 45 22 11 78"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7120",
-        "id": "PITCH - Reading V Leyton Orient",
-        "key": "40 3C 47 C3 73 AA 27 44"
+        "frequency": "11686 H 7200",
+        "id": "POWERSLAP PATH A P",
+        "key": "75 A7 E6 02 42 7D 37 F6"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11291 H 7200",
-        "id": "F489 MAIN",
-        "key": "21 10 BA EB CD 20 26 13"
+        "frequency": "11269 H 17140",
+        "id": "FEED 2",
+        "key": "BB AA 54 B9 46 8C CA 9C"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "B8 26 38 16 27 59 61 E1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-4",
+        "key": "A5 29 62 30 84 92 37 4D"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12510 H 7200",
-        "id": "ITA81",
-        "key": "21 10 20 51 26 BA FE DE"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11164 H 9875",
-        "id": "HOL318 main",
-        "key": "BE 7C FC 36 4B F2 E3 20"
+        "frequency": "12657 H 7200",
+        "id": "D233",
+        "key": "19 10 CE F7 AE 98 76 BC"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12526 H 7200",
-        "id": "BB EuroCup Frankfur",
-        "key": "EC CE 10 CA 21 20 26 67"
+        "frequency": "12592 V 7200",
+        "id": "F504/9/BWF/FEEDA_C2/MAIN",
+        "key": "8F 2B 5D 17 91 A7 E3 1B"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "EHF-CLM-AAH-CEL",
-        "key": "91 05 B6 4C 5A 51 E4 8F"
+        "frequency": "12584 V 7200",
+        "id": "F504/2/BWF/FEEDA_C1/MAIN",
+        "key": "3E 7C 6A 24 28 F4 B1 CD"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12602 V 7200",
-        "id": "ITA832",
-        "key": "FF AE D1 7E 02 1E 02 22"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11656 H 7200",
-        "id": "MCR 005 MAIN",
-        "key": "D5 E1 94 4A A2 44 10 F6"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12553 H 7200",
-        "id": "BB EuroCup Chemnitz",
-        "key": "EC CE 20 DA 26 21 10 57"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11109 H 7200",
-        "id": "MediaLink CRO-023/1",
-        "key": "20 26 FF 45 12 DD 36 25"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11100 H 7200",
-        "id": "E 268",
-        "key": "30 10 20 60 06 F6 DE DA"
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "D8 A2 4F C9 61 E3 9B DF"
     }
 ]
