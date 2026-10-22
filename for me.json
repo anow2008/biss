@@ -1,5 +1,65 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11250 H 17140",
+        "id": "FEED1",
+        "key": "BB AA 54 B9 46 8C CA 9C"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11268 H 17140",
+        "id": "FEED 2",
+        "key": "BB AA 54 B9 46 8C CA 9C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10828 H 7200",
+        "id": "EHF-CLM-SPO-KRI",
+        "key": "66 66 18 E4 DD 35 A7 B9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 V 7200",
+        "id": "TV 2 ENC 3",
+        "key": "6D A1 A3 B1 13 CC 85 64"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 V 7200",
+        "id": "E268",
+        "key": "60 10 D9 49 03 A4 4E F5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11642 H 9875",
+        "id": "Fi14_UEL_IHL",
+        "key": "00 DA E9 C3 00 AC 7E 2A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10971 V 4800",
+        "id": "POL - 054 Kielce",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12614 H 9875",
+        "id": "HOL318 main",
+        "key": "1C 5D 6E E7 B8 FB A7 5A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12635 H 17140",
+        "id": "UKI-1462-MAIN",
+        "key": "AA BB 21 86 10 CC 08 E4"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12653 H 17140",
+        "id": "UKI-1462 BACKUP",
+        "key": "AA BB 21 86 10 CC 08 E4"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
