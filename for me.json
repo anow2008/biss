@@ -1,1 +1,74 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-1",
+        "key": "A5 29 62 30 84 92 37 4D"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11263 V 17140",
+        "id": "TSG-OLY FEED 1",
+        "key": "CA C8 52 E4 BA C4 56 D4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10819 H 7200",
+        "id": "EHF-CLM-SZE-GOG",
+        "key": "B3 91 CD 11 CF 18 3A 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "EHF-CLM-MTM-PLO",
+        "key": "8C C7 15 68 9A 10 E2 8C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10857 H 7200",
+        "id": "M00-MRC007-Main",
+        "key": "D6 E0 58 0E 7F 0F A7 35"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10867 H 7200",
+        "id": "MRC006A Main",
+        "key": "D6 E0 58 0E 7F 0F A7 35"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "D8 A2 4F C9 61 E3 9B DF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7200",
+        "id": "F504/2/BWF/FEEDA_C1/MAIN",
+        "key": "3E 7C 6A 24 28 F4 B1 CD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12593 V 7200",
+        "id": "F504/9/BWF/FEEDA_C2/MAIN",
+        "key": "8F 2B 5D 17 91 A7 E3 1B"
+    }
+]
