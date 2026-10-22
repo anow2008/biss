@@ -12,18 +12,6 @@
     "key": "A5 29 62 30 84 92 37 4D"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11263 V 17140",
-    "id": "TSG-OLY FEED 1",
-    "key": "CA C8 52 E4 BA C4 56 D4"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11305 V 7200",
-    "id": "E-73",
-    "key": "CA CA 20 B4 20 CA CA B4"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11039 H 4938",
     "id": "EBU 1 ENC",
@@ -52,5 +40,11 @@
     "frequency": "11642 H 9875",
     "id": "Fi14_UEL_IHL",
     "key": "00 DA E9 C3 00 AC 7E 2A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12707 H 7200",
+    "id": "HOTBIRD 13F // Flamengo (BRA) vs Estudiantes de la Plata (ARG) - INGLES EUROPA",
+    "key": "FC 65 32 93 AC 67 89 9C"
   }
 ]
