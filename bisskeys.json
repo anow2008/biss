@@ -1,13 +1,13 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10761 H 30000",
+    "frequency": "10762 H 30000",
     "id": "NHL Service-1",
     "key": "A5 29 62 30 84 92 37 4D E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10761 H 30000",
+    "frequency": "10762 H 30000",
     "id": "NHL Service-1",
     "key": "A5 29 62 30 84 92 37 4D"
   },
@@ -18,34 +18,10 @@
     "key": "CA C8 52 E4 BA C4 56 D4"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 H 7200",
-    "id": "EHF-CLM-SZE-GOG",
-    "key": "B3 91 CD 11 CF 18 3A 21"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10828 H 7200",
-    "id": "EHF-CLM-SPO-KRI",
-    "key": "66 66 18 E4 DD 35 A7 B9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "EHF-CLM-MTM-PLO",
-    "key": "8C C7 15 68 9A 10 E2 8C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 H 7200",
-    "id": "MRC004-MAIN",
-    "key": "D6 E0 58 0E 7F 0F A7 35"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10849 H 7200",
-    "id": "MCR 005 MAIN",
-    "key": "D6 E0 58 0E 7F 0F A7 35"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11305 V 7200",
+    "id": "E-73",
+    "key": "CA CA 20 B4 20 CA CA B4"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -76,35 +52,5 @@
     "frequency": "11642 H 9875",
     "id": "Fi14_UEL_IHL",
     "key": "00 DA E9 C3 00 AC 7E 2A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12583 V 7200",
-    "id": "F504/2/BWF/FEEDA_C1/MAIN",
-    "key": "3E 7C 6A 24 28 F4 B1 CD"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10971 V 4800",
-    "id": "POL - 054 Kielce",
-    "key": "AB BA 26 8B DC AE 10 9A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12614 H 9875",
-    "id": "HOL318 main",
-    "key": "1C 5D 6E E7 B8 FB A7 5A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12623 H 4938",
-    "id": "YSM-016 MAIN",
-    "key": "20 10 20 50 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12653 H 17140",
-    "id": "UKI-1462 BACKUP",
-    "key": "AA BB 21 86 10 CC 08 E4"
   }
 ]
