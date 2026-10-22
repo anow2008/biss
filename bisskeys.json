@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11166 V 7200",
+    "id": "Canal + Fox Feed Ku Band Cricket 2026",
+    "key": "BB AA 54 B9 46 8C CA 9C"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11251 H 17140",
+    "id": "FEED1",
+    "key": "BB AA 54 B9 46 8C CA 9C"
+  },
+  {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11269 H 17140",
+    "id": "FEED 2",
+    "key": "BB AA 54 B9 46 8C CA 9C"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11052 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "D8 A2 4F C9 61 E3 9B DF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12584 V 7200",
+    "id": "F504/2/BWF/FEEDA_C1/MAIN",
+    "key": "3E 7C 6A 24 28 F4 B1 CD"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12592 V 7200",
+    "id": "F504/9/BWF/FEEDA_C2/MAIN",
+    "key": "8F 2B 5D 17 91 A7 E3 1B"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11018 V 4600",
+    "id": "AP LDN UPB",
+    "key": "AA BB 21 86 10 CC 08 E4"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12635 H 17140",
+    "id": "UKI-1462-MAIN",
+    "key": "AA BB 21 86 10 CC 08 E4"
+  }
+]
