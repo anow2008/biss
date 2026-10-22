@@ -1,5 +1,23 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11305 V 7200",
+        "id": "E-73",
+        "key": "CA CA 20 B4 20 CA CA B4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "E268",
+        "key": "60 10 D9 49 03 A4 4E F5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 H 7200",
+        "id": "MCR 005 MAIN",
+        "key": "D6 E0 58 0E 7F 0F A7 35"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10971 V 4800",
         "id": "POL - 054 Kielce",
@@ -13,12 +31,6 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7200",
-        "id": "MRC004-MAIN",
-        "key": "D6 E0 58 0E 7F 0F A7 35"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10828 H 7200",
         "id": "EHF-CLM-SPO-KRI",
         "key": "66 66 18 E4 DD 35 A7 B9"
@@ -28,6 +40,12 @@
         "frequency": "12653 H 17140",
         "id": "UKI-1462 BACKUP",
         "key": "AA BB 21 86 10 CC 08 E4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 V 7200",
+        "id": "TV 2 ENC 3",
+        "key": "6D A1 A3 B1 13 CC 85 64"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -46,23 +64,5 @@
         "frequency": "11281 V 17140",
         "id": "TSG-OLY FEED 2",
         "key": "CA C8 52 E4 BA C4 56 D4"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "GCUK ENC 1",
-        "key": "E0 1F FA F9 BD 10 22 EF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "EHF-CLM-MTM-PLO",
-        "key": "8C C7 15 68 9A 10 E2 8C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "74 86 84 7E B1 7F D2 02"
     }
 ]
