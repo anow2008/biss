@@ -1,8 +1,56 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11080 V 7200",
+        "id": "MRC004-BU",
+        "key": "D7 B2 35 BE FA 14 68 76"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11677 H 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 10 23 59"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12644 H 30000",
-        "id": "UFC PATH D P",
-        "key": "33 AB 67 45 54 BC A2 B2"
+        "frequency": "12657 H 7200",
+        "id": "ProD2 VALENCE main",
+        "key": "F5 12 40 47 23 23 F1 37"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11127 H 7200",
+        "id": "LNR FR PRO D2 AGEN VS NICE",
+        "key": "F5 77 40 AC 20 23 F1 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11213 V 7200",
+        "id": "EUROLEAGUE ROUND 07 MAIN",
+        "key": "BC 0A 50 16 6F 11 CB 4B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10965 V 4800",
+        "id": "pol-053_enc2",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 V 7200",
+        "id": "ISU GP1 Angers",
+        "key": "D1 02 3E 11 01 FF CA CA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11694 H 7200",
+        "id": "POWERSLAP CLEAN P",
+        "key": "75 A7 E6 02 42 7D 37 F6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "GCUK ENC 6",
+        "key": "A5 D1 F9 6F 3C 7B 82 39"
     }
 ]
