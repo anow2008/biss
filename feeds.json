@@ -1,74 +1,8 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "HOTBIRD 13F // Flamengo BRA vs Estudiantes de la Plata ARG - INGLES EUROPA",
-        "key": "FC 65 32 93 AC 67 89 9C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "GCUK Enc 02",
-        "key": "D1 02 3E 11 01 FF FC FC"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11305 V 7200",
-        "id": "E-73",
-        "key": "CA CA 20 B4 20 CA CA B4"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "E268",
-        "key": "60 10 D9 49 03 A4 4E F5"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 H 7200",
-        "id": "MCR 005 MAIN",
-        "key": "D6 E0 58 0E 7F 0F A7 35"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL - 054 Kielce",
-        "key": "AB BA 26 8B DC AE 10 9A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12614 H 9875",
-        "id": "HOL318 main",
-        "key": "1C 5D 6E E7 B8 FB A7 5A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7200",
-        "id": "EHF-CLM-SPO-KRI",
-        "key": "66 66 18 E4 DD 35 A7 B9"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12653 H 17140",
-        "id": "UKI-1462 BACKUP",
-        "key": "AA BB 21 86 10 CC 08 E4"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "TV 2 ENC 3",
-        "key": "6D A1 A3 B1 13 CC 85 64"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11642 H 9875",
-        "id": "Fi14_UEL_IHL",
-        "key": "00 DA E9 C3 00 AC 7E 2A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12623 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "20 10 20 50 25 20 26 6B"
+        "frequency": "12644 H 30000",
+        "id": "UFC PATH D P",
+        "key": "33 AB 67 45 54 BC A2 B2"
     }
 ]
