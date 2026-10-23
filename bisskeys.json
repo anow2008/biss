@@ -3,6 +3,12 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10762 H 30000",
     "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
     "key": "A5 29 62 30 84 92 37 4D"
   },
   {
@@ -25,80 +31,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11058 H 7200",
+    "id": "IMG 1 EU",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
-    "key": "33 AB 67 45 54 BC A2 B2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11080 V 7200",
-    "id": "MRC004-MAIN",
-    "key": "D7 B2 35 BE FA 14 68 76"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11088 V 7200",
-    "id": "MCR 005 MAIN",
-    "key": "D7 B2 35 BE FA 14 68 76"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11212 V 7200",
-    "id": "EUROLEAGUE ROUND 07 MAIN",
-    "key": "BC 0A 50 16 6F 11 CB 4B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11591 H 7120",
-    "id": "PITCH - Gloucester v Bath",
-    "key": "B1 1B A7 73 7A 55 55 24"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11599 H 7120",
-    "id": "PITCH - Bolton Wanderers V Middlesbrough",
-    "key": "25 65 27 B1 7E 23 59 FA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 V 7200",
-    "id": "F-509/APL PSG  C+",
-    "key": "3F A9 FE E6 82 0B F3 80"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
-    "id": "MLT-001 MAIN",
-    "key": "70 8F 72 71 D2 E7 19 D2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11667 H 7200",
-    "id": "Medialink CRO-025/1",
-    "key": "20 26 AB F1 CD 20 27 14"
+    "key": "D8 A2 4F C9 61 E3 9B DF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12680 H 7500",
     "id": "ENC 1",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-033 out1",
-    "key": "AB BA 26 8B DC AE 10 9A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11164 H 9875",
-    "id": "HOL318 main",
-    "key": "6A 62 33 FF FA 32 26 52"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11185 H 14400",
-    "id": "ITA 689  M",
-    "key": "70 8F 72 71 D2 E7 19 D2"
   }
 ]
