@@ -1,27 +1,45 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10762 H 30000",
-    "id": "NHL Service-1",
-    "key": "A5 29 62 30 84 92 37 4D E"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10762 H 30000",
+    "frequency": "10761 H 30000",
     "id": "NHL Service-1",
     "key": "A5 29 62 30 84 92 37 4D"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11046 H 4938",
+    "frequency": "10831 V 4800",
+    "id": "Main",
+    "key": "D1 02 3E 11 01 FF CA CA"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10839 V 7200",
+    "id": "ISU GP1 Angers",
+    "key": "D1 02 3E 11 01 FF CA CA"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10848 V 7200",
+    "id": "ISU STWT1 Vancouver",
+    "key": "D1 02 3E 11 01 FF FC FC"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11045 H 4938",
     "id": "EBU 2 ENC",
     "key": "74 86 84 7E B1 7F D2 02"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11052 H 4938",
+    "frequency": "11051 H 4938",
     "id": "EBU 3 ENC",
     "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11062 V 7200",
+    "id": "MRC006A Main",
+    "key": "D7 B2 35 BE FA 14 68 76"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -31,26 +49,74 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7200",
-    "id": "GVA_Fi07",
-    "key": "D9 EC 49 0E EE A1 7C 0B"
+    "frequency": "11071 V 7200",
+    "id": "M00-MRC007-Main",
+    "key": "D7 B2 35 BE FA 14 68 76"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12693 H 30000",
-    "id": "UFC PATH A B",
-    "key": "33 AB 67 45 54 BC A2 B2"
+    "frequency": "11080 V 7200",
+    "id": "MRC004-MAIN",
+    "key": "D7 B2 35 BE FA 14 68 76"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11089 V 7200",
+    "id": "MCR 005 MAIN",
+    "key": "D7 B2 35 BE FA 14 68 76"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11213 V 7200",
+    "id": "EUROLEAGUE ROUND 07 MAIN",
+    "key": "BC 0A 50 16 6F 11 CB 4B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11676 H 7200",
+    "id": "E-228 Main",
+    "key": "AA BB 20 85 26 10 23 59"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11686 H 7200",
+    "id": "POWERSLAP PATH A P",
+    "key": "75 A7 E6 02 42 7D 37 F6"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11694 H 7200",
+    "id": "POWERSLAP CLEAN P",
+    "key": "75 A7 E6 02 42 7D 37 F6"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12583 V 7200",
+    "id": "GCUK ENC 6",
+    "key": "A5 D1 F9 6F 3C 7B 82 39"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11012 V 4600",
-    "id": "AP LDN UPA",
-    "key": "33 AB 67 45 54 BC A2 B2"
+    "frequency": "10965 V 4800",
+    "id": "pol-053_enc2",
+    "key": "AB BA 26 8B DC AE 10 9A"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12644 H 30000",
-    "id": "UFC PATH A P",
-    "key": "33 AB 67 45 54 BC A2 B2"
+    "frequency": "11127 H 7200",
+    "id": "LNR FR PRO D2 AGEN VS NICE",
+    "key": "F5 77 40 AC 20 23 F1 34"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11136 H 7200",
+    "id": "F641 PROD2 SOYAUX MAIN",
+    "key": "F6 41 40 77 21 23 F1 35"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12657 H 7200",
+    "id": "ProD2 VALENCE main",
+    "key": "F5 12 40 47 23 23 F1 37"
   }
 ]
