@@ -1,1 +1,128 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-1",
+        "key": "A5 29 62 30 84 92 37 4D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10840 H 7200",
+        "id": "E399 MAIN",
+        "key": "D8 E1 B5 6E C7 F2 94 4D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "UFC DESK DTY PRI",
+        "key": "33 AB 67 45 54 BC A2 B2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "Fi09_GNVE",
+        "key": "33 AB 67 45 54 BC A2 B2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11084 H 9875",
+        "id": "E-342 MAIN",
+        "key": "0F 5C 14 7F 4A FA 5D A1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11601 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "52 B5 7C 83 66 C7 DE 0B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11609 H 7120",
+        "id": "PITCH - Charlton Athletic V Norwich",
+        "key": "EE D3 54 15 6A 29 9E 31"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11618 H 7200",
+        "id": "ITA  560 main 155E9",
+        "key": "95 AD D1 13 0C AC 71 29"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11623 V 9875",
+        "id": "Fi03_ATORF",
+        "key": "F3 97 73 FD EC E7 8A 5D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11629 H 7200",
+        "id": "WSHT ENC 53",
+        "key": "33 AB 67 45 54 BC A2 B2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11667 H 7200",
+        "id": "UFC RMC PRI",
+        "key": "33 AB 67 45 54 BC A2 B2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12535 H 7200",
+        "id": "ISU GP1 Angers",
+        "key": "FF FC D1 CC 02 4E 01 51"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12544 H 7200",
+        "id": "POL-100 MAIN",
+        "key": "FF FC D1 CC 02 4E 01 51"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12693 H 30000",
+        "id": "UFC PATH A B",
+        "key": "33 AB 67 45 54 BC A2 B2"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10974 V 9600",
+        "id": "POL 48 ENC1",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10975 H 3600",
+        "id": "Fal1 Enc1",
+        "key": "20 25 AE F3 EA 52 02 3E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11164 H 9875",
+        "id": "HOL318 main",
+        "key": "22 A9 8C 57 E0 B6 92 28"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12630 V 7200",
+        "id": "LNR UK VANNES",
+        "key": "F4 94 41 C9 51 24 F2 67"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12644 H 30000",
+        "id": "UFC PATH A P",
+        "key": "33 AB 67 45 54 BC A2 B2"
+    }
+]
