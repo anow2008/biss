@@ -43,50 +43,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "Fi09_GNVE",
-    "key": "33 AB 67 45 54 BC A2 B2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11080 V 7200",
-    "id": "MRC004-MAIN",
-    "key": "D8 E6 65 23 FD 7B F8 70"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7200",
-    "id": "MCR 005 MAIN",
-    "key": "D8 E6 65 23 FD 7B F8 70"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11617 H 7200",
-    "id": "Fi10_GNVE",
-    "key": "F1 90 DF 60 0F DF 1A 08"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11628 H 7200",
-    "id": "WSHT ENC 53",
-    "key": "33 AB 67 45 54 BC A2 B2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 H 7200",
-    "id": "F512 LYON main",
-    "key": "3F A9 FE E6 82 0B F3 80"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
-    "id": "MLT-001 MAIN",
-    "key": "70 8F 72 71 D2 E7 19 D2"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11667 H 7200",
-    "id": "UFC RMC PRI",
     "key": "33 AB 67 45 54 BC A2 B2"
   },
   {
@@ -103,50 +61,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12535 H 7200",
-    "id": "ISU GP1 Angers",
-    "key": "FF FC D1 CC 02 4E 01 51"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12544 H 7200",
-    "id": "POL-100 MAIN",
-    "key": "FF FC D1 CC 02 4E 01 51"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12693 H 30000",
     "id": "UFC PATH A B",
     "key": "33 AB 67 45 54 BC A2 B2"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-110",
-    "key": "AB BA 26 8B DC AE 10 9A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11185 H 14400",
-    "id": "ITA 689  M",
-    "key": "70 8F 72 71 D2 E7 19 D2"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12537 H 7200",
-    "id": "SUI76 Zuerich",
-    "key": "87 45 F5 C1 F5 3A C9 F8"
+    "frequency": "11019 V 4600",
+    "id": "AP LDN UPB",
+    "key": "33 AB 67 45 54 BC A2 B2"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12644 H 30000",
     "id": "UFC PATH A P",
     "key": "33 AB 67 45 54 BC A2 B2"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12648 V 7200",
-    "id": "E-73",
-    "key": "24 10 20 54 26 AD 26 F9"
   }
 ]
