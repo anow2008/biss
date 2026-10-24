@@ -1,86 +1,38 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11185 H 14400",
-        "id": "ITA 689  M",
-        "key": "70 8F 72 71 D2 E7 19 D2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11599 H 7120",
-        "id": "PITCH - Bolton Wanderers V Middlesbrough",
-        "key": "25 65 27 B1 7E 23 59 FA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7200",
-        "id": "Medialink CRO-025/1",
-        "key": "20 26 AB F1 CD 20 27 14"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11591 H 7120",
-        "id": "PITCH - Gloucester v Bath",
-        "key": "B1 1B A7 73 7A 55 55 24"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11083 H 9875",
-        "id": "E-342 MAIN",
-        "key": "0F 5C 14 7F 4A FA 5D A1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11637 V 7200",
-        "id": "F-509/APL PSG  C",
-        "key": "3F A9 FE E6 82 0B F3 80"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7500",
-        "id": "ENC 1",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11173 H 4938",
-        "id": "YSM-016 MAIN",
-        "key": "20 10 20 50 25 20 26 6B"
+        "frequency": "12630 V 7200",
+        "id": "LNR UK VANNES",
+        "key": "F4 94 41 C9 51 24 F2 67"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10974 V 9600",
-        "id": "POL-033 out1",
+        "id": "POL 48 ENC1",
         "key": "AB BA 26 8B DC AE 10 9A"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12648 H 7200",
-        "id": "F-510 PROD2 AURILLAC",
-        "key": "F5 10 40 45 22 23 F1 36"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11164 H 9875",
-        "id": "HOL318 main",
-        "key": "6A 62 33 FF FA 32 26 52"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11667 H 7200",
+        "id": "UFC RMC PRI",
+        "key": "33 AB 67 45 54 BC A2 B2"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "ISU STWT1 Vancouver",
-        "key": "D1 02 3E 11 01 FF FC FC"
+        "frequency": "11623 V 9875",
+        "id": "Fi03_ATORF",
+        "key": "F3 97 73 FD EC E7 8A 5D"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11080 V 7200",
-        "id": "MRC004-MAIN",
-        "key": "D7 B2 35 BE FA 14 68 76"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "B8 26 38 16 27 59 61 E1"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
-        "id": "E-228 Main",
-        "key": "AA BB 20 85 26 10 23 59"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-4",
+        "key": "A5 29 62 30 84 92 37 4D"
     }
 ]
