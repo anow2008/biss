@@ -97,15 +97,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL-141 ENC1",
-    "key": "AB BA 26 8B DC AE 10 9A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "POL-110",
-    "key": "AB BA 26 8B DC AE 10 9A"
+    "frequency": "11013 V 4600",
+    "id": "AP LDN UPA",
+    "key": "82 23 93 38 34 40 9D 11"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -118,17 +112,5 @@
     "frequency": "12603 H 7200",
     "id": "SOS  LA ROCHELLE",
     "key": "F4 94 41 C9 57 25 F1 6D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12612 H 7200",
-    "id": "YSM 012 MAIN",
-    "key": "20 10 20 50 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12630 V 7200",
-    "id": "ITA_BUL_HANDBAL_MAIN",
-    "key": "CB 25 10 00 26 FF AA CF"
   }
 ]
