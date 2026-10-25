@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11300 H 7200",
+        "id": "D-452",
+        "key": "25 10 FA 2F BC 15 97 68"
+    },
+    {
         "satellite": "Eutelsat 16A",
         "frequency": "11127 H 8020",
         "id": "GVA_Fi03",
