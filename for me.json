@@ -1,5 +1,95 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11246 H 7200",
+        "id": "Top10",
+        "key": "3E 83 F2 B3 CA 53 9D BA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 H 7200",
+        "id": "VOLOS VS PAO",
+        "key": "29 25 ED 3B 4B F3 C2 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7200",
+        "id": "MRC006A Main",
+        "key": "D9 A7 9E 1E 77 3C 6A 1D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7200",
+        "id": "M00-MRC007-Main",
+        "key": "D9 A7 9E 1E 77 3C 6A 1D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11188 V 9875",
+        "id": "Fi10_GNVE",
+        "key": "E3 E5 D8 A0 6B 55 51 11"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11200 V 9875",
+        "id": "Fi16_GNVE",
+        "key": "C9 E4 47 F4 EF F1 27 07"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11213 V 7120",
+        "id": "Pitch - Harlequins v Saracens",
+        "key": "61 61 72 34 72 AB 21 3E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11609 H 7200",
+        "id": "Fi01 ACB",
+        "key": "E5 9C 5F E0 D4 C5 A4 3D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9875",
+        "id": "Fi17_GNVE",
+        "key": "31 8C 71 2E 4B 4B CB 61"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12553 H 7200",
+        "id": "WPA D-322 MAIN",
+        "key": "25 10 DC 11 BA 20 26 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7500",
+        "id": "ENC 1",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11164 H 9875",
+        "id": "HOL318 main",
+        "key": "1F DF 1F 1D 97 78 7A 89"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12630 V 7200",
+        "id": "ITA_BUL_HANDBAL_MAIN",
+        "key": "CB 25 10 00 26 FF AA CF"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12644 V 9875",
+        "id": "FFBL",
+        "key": "25 10 CC 01 BE 15 69 3C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12656 V 9875",
+        "id": "FFBL Nuernberg",
+        "key": "25 10 CC 01 BE 15 69 3C"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
