@@ -1,5 +1,35 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7200",
+        "id": "GCUK Enc 10",
+        "key": "BC D1 10 9D 25 ED AF C1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11623 V 9875",
+        "id": "Fi03_ATORF",
+        "key": "37 A7 70 4E 77 AF 2D 53"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 34 78 60"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11083 H 9875",
+        "id": "E-342 MAIN",
+        "key": "0F 5C 14 7F 4A FA 5D A1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12598 V 4938",
         "id": "YSM-016 MAIN",
@@ -34,35 +64,5 @@
         "frequency": "11695 H 7500",
         "id": "SUI-44-3main",
         "key": "3A 3A 68 DC 45 20 26 8B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-110",
-        "key": "AB BA 26 8B DC AE 10 9A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7200",
-        "id": "MCR 005 MAIN",
-        "key": "D8 E6 65 23 FD 7B F8 70"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "AEK vs PANETOLIKOS",
-        "key": "6E C4 1A 4C 90 5F 16 05"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12648 V 7200",
-        "id": "E-73",
-        "key": "24 10 20 54 26 AD 26 F9"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12537 H 7200",
-        "id": "SUI76 Zuerich",
-        "key": "87 45 F5 C1 F5 3A C9 F8"
     }
 ]
