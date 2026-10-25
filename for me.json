@@ -1,5 +1,83 @@
 [
     {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11127 H 8020",
+        "id": "GVA_Fi03",
+        "key": "82 23 93 38 34 40 9D 11"
+    },
+    {
+        "satellite": "Eutelsat 3B",
+        "frequency": "10960 H 7500",
+        "id": "beIN SPORTS",
+        "key": "51 3B 68 F4 8C 30 5E 1A"
+    },
+    {
+        "satellite": "Eutelsat 3B",
+        "frequency": "10970 H 7500",
+        "id": "Service-1",
+        "key": "82 29 C6 71 5A D7 DF 10"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 H 7200",
+        "id": "ISU GP1 Angers",
+        "key": "E0 1F FD FC CD 10 25 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 34 82 6A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 34 81 69"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12526 H 7200",
+        "id": "POL-100 MAIN",
+        "key": "E0 1F FD FC CD 10 25 02"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11127 H 8020",
+        "id": "GVA_Fi03",
+        "key": "82 23 93 38 34 40 9D 11"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "SUI76 Zuerich",
+        "key": "87 45 F5 C1 F5 3A C9 F8"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12603 H 7200",
+        "id": "SOS  LA ROCHELLE",
+        "key": "F4 94 41 C9 57 25 F1 6D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12612 H 7200",
+        "id": "YSM 012 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 3B",
+        "frequency": "10960 H 7500",
+        "id": "beIN SPORTS",
+        "key": "51 3B 68 F4 8C 30 5E 1A"
+    },
+    {
+        "satellite": "Eutelsat 3B",
+        "frequency": "10970 H 7500",
+        "id": "Service-1",
+        "key": "82 29 C6 71 5A D7 DF 10"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11246 H 7200",
         "id": "Top10",
