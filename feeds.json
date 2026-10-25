@@ -1,7 +1,49 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11300 H 7200",
+        "id": "D-452",
+        "key": "25 10 FA 2F BC 15 97 68"
+    },
+    {
+        "satellite": "Eutelsat 3B @ 3.1°E",
+        "frequency": "10970 H 7500",
+        "id": "Service-1",
+        "key": "82 29 C6 71 5A D7 DF 10"
+    },
+    {
+        "satellite": "Eutelsat 3B @ 3.1°E",
+        "frequency": "10960 H 7500",
+        "id": "beIN SPORTS",
+        "key": "51 3B 68 F4 8C 30 5E 1A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12612 H 7200",
+        "id": "YSM 012 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-110",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12537 H 7200",
+        "id": "SUI76 Zuerich",
+        "key": "87 45 F5 C1 F5 3A C9 F8"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7200",
+        "frequency": "12689 H 7200",
+        "id": "ENC 2",
+        "key": "72 4C 9D 5B B4 34 80 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11088 V 7200",
         "id": "MCR 005 MAIN SAMOA Vs KENYA",
         "key": "D9 A7 9E 1E 77 3C 6A 1D"
     },
@@ -16,59 +58,5 @@
         "frequency": "11611 V 9875",
         "id": "Fi17_GNVE",
         "key": "31 8C 71 2E 4B 4B CB 61"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10857 H 7200",
-        "id": "TANDBERG",
-        "key": "28 CC 05 F9 4A 28 50 C2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11200 V 9875",
-        "id": "Fi16_GNVE",
-        "key": "C9 E4 47 F4 EF F1 27 07"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7500",
-        "id": "ENC 1",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11608 H 7200",
-        "id": "Fi01 ACB",
-        "key": "E5 9C 5F E0 D4 C5 A4 3D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7200",
-        "id": "VOLOS VS PAO",
-        "key": "29 25 ED 3B 4B F3 C2 00"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "AB BA 26 8B DC AE 10 9A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11213 V 7120",
-        "id": "Pitch - Harlequins v Saracens",
-        "key": "61 61 72 34 72 AB 21 3E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11617 H 7200",
-        "id": "ITA  560 main 155E9",
-        "key": "A1 C6 A1 08 34 5C AD 3D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11164 H 9875",
-        "id": "HOL318 main",
-        "key": "1F DF 1F 1D 97 78 7A 89"
     }
 ]
