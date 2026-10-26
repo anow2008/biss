@@ -1,45 +1,9 @@
 [
   {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11127 H 8020",
-    "id": "GVA_Fi03",
-    "key": "82 23 93 38 34 40 9D 11"
-  },
-  {
-    "satellite": "Eutelsat 3B @ 3.1°E",
-    "frequency": "10960 H 7500",
-    "id": "beIN SPORTS",
-    "key": "51 3B 68 F4 8C 30 5E 1A"
-  },
-  {
-    "satellite": "Eutelsat 3B @ 3.1°E",
-    "frequency": "10970 H 7500",
-    "id": "Service-1",
-    "key": "82 29 C6 71 5A D7 DF 10"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10762 H 30000",
-    "id": "NHL Service-1",
-    "key": "A5 29 62 30 84 92 37 4D"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11300 H 7200",
-    "id": "D-452",
-    "key": "25 10 FA 2F BC 15 97 68"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "10822 V 3670",
     "id": "GCUK Enc 10",
-    "key": "E0 1F FD FC CD 10 25 02"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 H 7200",
-    "id": "ISU GP1 Angers",
-    "key": "E0 1F FD FC CD 10 25 02"
+    "key": "74 86 84 7E B1 7F D2 02"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -61,7 +25,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
+    "frequency": "11059 H 7200",
     "id": "IMG 1 EU",
     "key": "72 4C 9D 5B B4 34 82 6A"
   },
@@ -73,25 +37,7 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11080 V 7200",
-    "id": "MRC004-MAIN",
-    "key": "D9 A7 9E 1E 77 3C 6A 1D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11088 V 7200",
-    "id": "MCR 005 MAIN SAMOA Vs KENYA",
-    "key": "D9 A7 9E 1E 77 3C 6A 1D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12526 H 7200",
-    "id": "POL-100 MAIN",
-    "key": "E0 1F FD FC CD 10 25 02"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12680 H 7500",
+    "frequency": "12679 H 7500",
     "id": "ENC 1",
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
@@ -103,9 +49,9 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12537 H 7200",
-    "id": "SUI76 Zuerich",
-    "key": "87 45 F5 C1 F5 3A C9 F8"
+    "frequency": "11127 H 8020",
+    "id": "GVA_Fi03",
+    "key": "82 23 93 38 34 40 9D 11"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
