@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7200",
+        "id": "BALLON DOR MAIN",
+        "key": "20 26 B0 F6 26 26 10 5C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11190 H 7200",
+        "id": "E-296 MAIN",
+        "key": "31 26 68 BF 1B 4E 49 B2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7200",
+        "id": "BALLON DOR MAIN",
+        "key": "20 26 B0 F6 26 26 10 5C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11213 V 7120",
+        "id": "Pitch - Walsall v Salford",
+        "key": "66 C6 39 65 A9 23 D4 A0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12553 H 7200",
+        "id": "E-73",
+        "key": "26 10 20 56 26 FA CA EA"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11126 H 7200",
+        "id": "Ballon D'Or backup 16E",
+        "key": "20 26 B0 F6 26 26 10 5C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11190 H 7200",
+        "id": "E-296 MAIN",
+        "key": "31 26 68 BF 1B 4E 49 B2"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "SUI76 Zuerich",
+        "key": "87 45 F5 C1 F5 3A C9 F8"
+    },
+    {
         "satellite": "Eutelsat 16A",
         "frequency": "11145 H 7200",
         "id": "TAS-002",
