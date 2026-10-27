@@ -1,32 +1,92 @@
 [
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL-077 ENC-1",
+        "frequency": "12611 H 9600",
+        "id": "E-73",
+        "key": "20 26 10 56 27 DC BA BD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7200",
+        "id": "VIA 1- MO-03",
+        "key": "4E D6 A1 C5 B3 BB 77 E5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11616 H 9600",
+        "id": "G21 Via1",
+        "key": "C1 34 11 06 5A 58 A1 53"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11604 H 9600",
+        "id": "E115- G65 VIA 3",
+        "key": "44 23 A2 09 13 23 32 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11062 V 7120",
+        "id": "PITCH - Bradford",
+        "key": "24 12 DD 13 AA 24 22 F0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11071 V 7120",
+        "id": "PITCH - Fleetwood",
+        "key": "14 21 CC 01 AA 35 22 01"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11062 V 7120",
+        "id": "PITCH - Bradford",
+        "key": "24 14 DD 15 AA 24 22 F0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11686 H 7200",
+        "id": "ENC 7",
+        "key": "53 A2 B2 A7 DE BB 3C D5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11109 H 7200",
+        "id": "D-331 TX1",
+        "key": "20 26 DE 24 5A FC A2 F8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11083 H 9600",
+        "id": "G55 Via1",
+        "key": "11 5A C1 2C 34 58 A1 2D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12707 H 7200",
+        "id": "ENC 1",
+        "key": "4E 13 6C CD BB 42 1D 1A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12698 H 7200",
+        "id": "ENC 6",
+        "key": "E3 34 C6 DD 2C EF 3A 55"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10985 V 9600",
+        "id": "pol-052_harm",
         "key": "AB BA 26 8B DC AE 10 9A"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10980 H 3600",
-        "id": "F7-2 4.5MH",
-        "key": "20 25 AE F3 EA 52 02 3E"
+        "frequency": "12657 H 7200",
+        "id": "ITA633_A",
+        "key": "27 10 20 57 26 AD FE D1"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11153 H 7200",
-        "id": "UAE074 - 1",
-        "key": "C4 A7 92 FD 87 09 5F EF"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12603 H 7200",
-        "id": "KAZ008M",
-        "key": "AB 24 20 EF 26 10 11 47"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12594 H 7200",
-        "id": "KAZ005M",
-        "key": "BE BE 10 8C 26 11 25 5C"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11592 H 9600",
+        "id": "E115 G19 Via 1 Main",
+        "key": "54 C1 23 38 A1 64 1A 1F"
     }
 ]
