@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D E"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "A5 29 62 30 84 92 37 4D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10801 H 7200",
+    "id": "GCUK Encoder 2",
+    "key": "10 10 AA CA CC 56 DE 00"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11052 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11059 H 7200",
+    "id": "IMG 1 EU",
+    "key": "4A 65 E4 93 12 33 64 A9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "1A 66 43 C3 DC A6 56 D8"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11012 V 4600",
+    "id": "AP LDN UPA",
+    "key": "16 6F EA 6F C0 C6 0A 90"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11145 H 7200",
+    "id": "FI03_NE3",
+    "key": "16 6F EA 6F C0 C6 0A 90"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11163 H 7200",
+    "id": "ENC-1 MAIN",
+    "key": "76 1E 0B 9F 44 E1 C6 EB"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11172 H 7200",
+    "id": "MYASTRKL-M",
+    "key": "76 82 E4 DC A5 A0 5C A1"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "11181 H 7200",
+    "id": "ktsat mp4 enc1",
+    "key": "DE B2 E1 71 C4 D4 A8 40"
+  }
+]
