@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11246 H 7500",
+        "id": "AFD",
+        "key": "29 C3 77 63 A5 D3 1C 94"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12611 H 9600",
         "id": "E-73",
@@ -19,7 +25,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11604 H 9600",
+        "frequency": "11603 H 9600",
         "id": "E115- G65 VIA 3",
         "key": "44 23 A2 09 13 23 32 68"
     },
@@ -82,11 +88,5 @@
         "frequency": "12657 H 7200",
         "id": "ITA633_A",
         "key": "27 10 20 57 26 AD FE D1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11592 H 9600",
-        "id": "E115 G19 Via 1 Main",
-        "key": "54 C1 23 38 A1 64 1A 1F"
     }
 ]
