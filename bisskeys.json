@@ -12,16 +12,10 @@
     "key": "A5 29 62 30 84 92 37 4D"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10819 H 7200",
-    "id": "BiH-003-2",
-    "key": "4E D6 A1 C5 B3 BB 77 E5"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10828 H 7200",
-    "id": "VIA 1- MO-03",
-    "key": "4E D6 A1 C5 B3 BB 77 E5"
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "11246 H 7500",
+    "id": "AFD",
+    "key": "29 C3 77 63 A5 D3 1C 94"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -43,98 +37,8 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11062 V 7120",
-    "id": "PITCH - Bradford",
-    "key": "24 12 DD 13 AA 24 22 F0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
-    "key": "1A 66 43 C3 DC A6 56 D8"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7120",
-    "id": "PITCH - Fleetwood",
-    "key": "14 21 CC 01 AA 35 22 01"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11603 H 9600",
-    "id": "E115- G65 VIA 3",
-    "key": "44 23 A2 09 13 23 32 68"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11616 H 9600",
-    "id": "G21 Via1",
-    "key": "C1 34 11 06 5A 58 A1 53"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11686 H 7200",
-    "id": "ENC 7",
-    "key": "53 A2 B2 A7 DE BB 3C D5"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11694 H 7200",
-    "id": "ENC 2",
-    "key": "46 D6 F4 10 3D A3 52 32"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12698 H 7200",
-    "id": "ENC 6",
-    "key": "E3 34 C6 DD 2C EF 3A 55"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12707 H 7200",
-    "id": "ENC 1",
-    "key": "4E 13 6C CD BB 42 1D 1A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL49 EN1 Tychy",
-    "key": "2A 0D 51 88 A4 10 C9 7D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11163 H 7200",
-    "id": "Qat037 M",
-    "key": "2A 0D 51 88 A4 10 C9 7D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11172 H 7200",
-    "id": "IRQ014-M",
-    "key": "C2 43 EC F1 74 5D BE 8F"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12611 H 9600",
-    "id": "E-73",
-    "key": "20 26 10 56 27 DC BA BD"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12639 H 7200",
-    "id": "YSM 012 MAIN",
-    "key": "20 10 20 50 25 20 26 6B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12648 H 7200",
-    "id": "TRENTO_BUDUCNOST_MN",
-    "key": "27 10 20 57 26 AD FE D1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12657 H 7200",
-    "id": "ITA633_A",
-    "key": "27 10 20 57 26 AD FE D1"
+    "key": "12 3C AA F8 14 22 A3 D9"
   }
 ]
