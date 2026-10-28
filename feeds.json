@@ -1,62 +1,92 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11258 V 7200",
+        "id": "F419_MAIN",
+        "key": "28 10 AB E3 DC 20 26 22"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-55 ENC2",
+        "key": "FB A1 14 B0 99 3C AE 83"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11187 V 9875",
-        "id": "FEED A Match31 Main",
-        "key": "B0 EC B8 54 CD A6 5C CF"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11145 H 7200",
-        "id": "UZB UpLink 001",
-        "key": "01 41 2A 6C B8 FC 2A DE"
+        "frequency": "11109 H 7200",
+        "id": "MP One",
+        "key": "45 ED FA 2C 12 C6 7A 52"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10801 H 7200",
-        "id": "GCUK Encoder 2",
-        "key": "10 10 AA CA CC 56 DE 00"
+        "frequency": "12698 H 7200",
+        "id": "BUL007 Mar vs Her Main",
+        "key": "10 B8 67 2F BC 7F 31 6C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11667 H 7200",
+        "id": "LTU-005 main",
+        "key": "E6 B4 20 BA 26 DD CC CF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11616 H 9875",
+        "id": "D535_155C12_OL_Basis_1",
+        "key": "62 77 F0 C9 D5 A9 D7 55"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11180 H 7200",
-        "id": "CNC001 M",
-        "key": "ED FA 07 EE 0B A6 30 E1"
+        "frequency": "10974 V 9600",
+        "id": "TVP POL-32  ENC 1",
+        "key": "AB BA 26 8B DC AE 10 9A"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL045 TVN24 LDZ",
-        "key": "77 93 52 5C 99 08 86 27"
+        "frequency": "12605 H 4938",
+        "id": "ITA 415 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12657 H 7200",
-        "id": "FI03_NE3",
-        "key": "28 61 D7 60 CB 35 CB CB"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12679 H 7200",
+        "id": "ENC 3",
+        "key": "BC 6F 36 61 3A 2D CA 31"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12529 H 7200",
-        "id": "Fi02_NE2",
-        "key": "F6 58 7C CA E6 35 77 92"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "CLVW02 AND vs PORT",
+        "key": "E0 2F FA 09 FD 10 28 35"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10762 H 30000",
-        "id": "ESPN EMEA Service-6",
-        "key": "B8 26 38 16 27 59 61 E1"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "ENC 4",
+        "key": "23 C4 F3 DA 63 4F C2 74"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10762 H 30000",
-        "id": "NHL Service-4",
-        "key": "A5 29 62 30 84 92 37 4D"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "EHF-CLM-POR-VES",
+        "key": "01 8F 15 A5 7A 19 0C 9F"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12538 H 7200",
-        "id": "ACL TWO PERSIB VS MELBOURNE",
-        "key": "0C C0 4F 1B F7 DD 6B 3F"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 V 7200",
+        "id": "EHF-CLM-PLO-NAN",
+        "key": "95 FA F2 81 9C 08 17 BB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10810 H 7200",
+        "id": "EHF-CLM-VAR-MTM",
+        "key": "62 6E 2F FF 81 BE 5A 99"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12707 H 7200",
+        "id": "POL-102 Main",
+        "key": "BA 23 DE BB 81 CD 72 C0"
     }
 ]
