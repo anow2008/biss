@@ -1,5 +1,143 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 H 7120",
+        "id": "Pitch - Fulham v Crystal Palace",
+        "key": "23 31 AA FE CA 23 45 32"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10849 H 7120",
+        "id": "Pitch - Bournemouth v Aston Villa",
+        "key": "22 13 CC 01 DD 23 44 44"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10858 H 7120",
+        "id": "PITCH -Liverpool v Chelsea",
+        "key": "13 14 AB D2 BC 23 42 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7120",
+        "id": "PITCH - Man City v Brighton",
+        "key": "34 22 BA 10 AB 21 23 EF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7120",
+        "id": "PITCH - Sunderland v Brentford",
+        "key": "42 13 DC 31 CA 35 21 20"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11694 H 7200",
+        "id": "ENC 2",
+        "key": "5D 36 2C BF 14 5E 2F A1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11517 H 7200",
+        "id": "ENC 21",
+        "key": "BC F3 F4 A3 56 21 51 C8"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "11527 H 7200",
+        "id": "ENC-18",
+        "key": "DB F4 96 65 C8 02 74 3E"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11305 V 7200",
+        "id": "E115 G19 Via 1 Main",
+        "key": "13 11 AA CE CC 20 23 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 H 7120",
+        "id": "Pitch - Fulham v Crystal Palace",
+        "key": "23 31 AA FE CA 23 45 32"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10849 H 7120",
+        "id": "Pitch - Bournemouth v Aston Villa",
+        "key": "22 13 CC 01 DD 23 44 44"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10858 H 7120",
+        "id": "PITCH -Liverpool v Chelsea",
+        "key": "13 14 AB D2 BC 23 42 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7120",
+        "id": "PITCH - Man City v Brighton",
+        "key": "34 22 BA 10 AB 21 23 EF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7120",
+        "id": "PITCH - Sunderland v Brentford",
+        "key": "42 13 DC 31 CA 35 21 20"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11676 H 7200",
+        "id": "ITA 390 MAIN",
+        "key": "EA 35 11 30 59 4A 18 BB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11686 H 7200",
+        "id": "ENC 7",
+        "key": "FC E2 6C 4A A3 23 6C 32"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11694 H 7200",
+        "id": "ENC 2",
+        "key": "5D 36 2C BF 14 5E 2F A1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7200",
+        "id": "ENC 1",
+        "key": "44 CD FB 0C 64 B6 32 4C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11145 H 7200",
+        "id": "TANDBERG",
+        "key": "B6 E3 D9 72 F2 A7 14 AD"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12546 H 7200",
+        "id": "E-229 Main",
+        "key": "AB 11 DC 98 57 EF 19 5F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12608 H 9600",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 10 28 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12639 H 7200",
+        "id": "London Lions-Turk Telekom",
+        "key": "55 BB 68 78 DE 79 CC 23"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12648 H 7200",
+        "id": "TORTONA_ROSTOCK_MAIN",
+        "key": "27 10 20 57 26 AD FE D1"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "11589 H 7200",
         "id": "ENC 17",
