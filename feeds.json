@@ -1,92 +1,62 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11246 H 7500",
-        "id": "AFD",
-        "key": "29 C3 77 63 A5 D3 1C 94"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11187 V 9875",
+        "id": "FEED A Match31 Main",
+        "key": "B0 EC B8 54 CD A6 5C CF"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12611 H 9600",
-        "id": "E-73",
-        "key": "20 26 10 56 27 DC BA BD"
+        "frequency": "11145 H 7200",
+        "id": "UZB UpLink 001",
+        "key": "01 41 2A 6C B8 FC 2A DE"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7200",
-        "id": "VIA 1- MO-03",
-        "key": "4E D6 A1 C5 B3 BB 77 E5"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11616 H 9600",
-        "id": "G21 Via1",
-        "key": "C1 34 11 06 5A 58 A1 53"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11603 H 9600",
-        "id": "E115- G65 VIA 3",
-        "key": "44 23 A2 09 13 23 32 68"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11062 V 7120",
-        "id": "PITCH - Bradford",
-        "key": "24 12 DD 13 AA 24 22 F0"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11071 V 7120",
-        "id": "PITCH - Fleetwood",
-        "key": "14 21 CC 01 AA 35 22 01"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11062 V 7120",
-        "id": "PITCH - Bradford",
-        "key": "24 14 DD 15 AA 24 22 F0"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7200",
-        "id": "ENC 7",
-        "key": "53 A2 B2 A7 DE BB 3C D5"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11109 H 7200",
-        "id": "D-331 TX1",
-        "key": "20 26 DE 24 5A FC A2 F8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11083 H 9600",
-        "id": "G55 Via1",
-        "key": "11 5A C1 2C 34 58 A1 2D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "ENC 1",
-        "key": "4E 13 6C CD BB 42 1D 1A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "ENC 6",
-        "key": "E3 34 C6 DD 2C EF 3A 55"
+        "frequency": "10801 H 7200",
+        "id": "GCUK Encoder 2",
+        "key": "10 10 AA CA CC 56 DE 00"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
-        "id": "pol-052_harm",
-        "key": "AB BA 26 8B DC AE 10 9A"
+        "frequency": "11180 H 7200",
+        "id": "CNC001 M",
+        "key": "ED FA 07 EE 0B A6 30 E1"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL045 TVN24 LDZ",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12657 H 7200",
-        "id": "ITA633_A",
-        "key": "27 10 20 57 26 AD FE D1"
+        "id": "FI03_NE3",
+        "key": "28 61 D7 60 CB 35 CB CB"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12529 H 7200",
+        "id": "Fi02_NE2",
+        "key": "F6 58 7C CA E6 35 77 92"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "B8 26 38 16 27 59 61 E1"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-4",
+        "key": "A5 29 62 30 84 92 37 4D"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12538 H 7200",
+        "id": "ACL TWO PERSIB VS MELBOURNE",
+        "key": "0C C0 4F 1B F7 DD 6B 3F"
     }
 ]
