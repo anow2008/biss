@@ -13,26 +13,92 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11045 H 4938",
+    "frequency": "10801 H 7200",
+    "id": "GCUK Encoder 2",
+    "key": "10 10 AA CA CC 56 DE 00"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
     "id": "EBU 2 ENC",
     "key": "74 86 84 7E B1 7F D2 02"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11051 H 4938",
+    "frequency": "11052 H 4938",
     "id": "EBU 3 ENC",
     "key": "74 86 84 7E B1 7F D2 02"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
+    "frequency": "11059 H 7200",
     "id": "IMG 1 EU",
     "key": "B4 BE CB 3D C2 EA 1F CB"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
-    "key": "12 3C AA F8 14 22 A3 D9"
+    "key": "1A 66 43 C3 DC A6 56 D8"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11187 V 9875",
+    "id": "FEED A Match31 Main",
+    "key": "B0 EC B8 54 CD A6 5C CF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11213 V 7200",
+    "id": "Cleopatra",
+    "key": "74 81 0C 01 FE 06 4A 4E"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10973 V 9600",
+    "id": "pol-052_harm",
+    "key": "AB BA 26 8B DC AE 10 9A"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "10996 V 7500",
+    "id": "POL046",
+    "key": "77 93 52 5C 99 08 86 27"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12529 H 7200",
+    "id": "Fi02_NE2",
+    "key": "F6 58 7C CA E6 35 77 92"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12538 H 7200",
+    "id": "ACL TWO PERSIB VS MELBOURNE",
+    "key": "0C C0 4F 1B F7 DD 6B 3F"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12594 H 7200",
+    "id": "KAZ005M",
+    "key": "BE BE 10 8C 26 11 25 5C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12603 H 7200",
+    "id": "KAZ008M",
+    "key": "AB 24 20 EF 26 10 11 47"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12621 H 7200",
+    "id": "VNMVTV-002",
+    "key": "C1 D5 B0 46 33 A2 77 4C"
+  },
+  {
+    "satellite": "Eutelsat 16A @ 16.0°E",
+    "frequency": "12657 H 7200",
+    "id": "FI03_NE3",
+    "key": "28 61 D7 60 CB 35 CB CB"
   }
 ]
