@@ -43,19 +43,19 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12546 H 7200",
+        "frequency": "12547 H 7200",
         "id": "E-229 Main",
         "key": "AB 11 DC 98 57 EF 19 5F"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12639 H 7200",
-        "id": "London Lions-Turk Telekom",
+        "id": "Unname",
         "key": "55 BB 68 78 DE 79 CC 23"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10858 H 7120",
+        "frequency": "10857 H 7120",
         "id": "PITCH -Liverpool v Chelsea",
         "key": "13 14 AB D2 BC 23 42 21"
     },
