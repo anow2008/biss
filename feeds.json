@@ -1,68 +1,80 @@
 [
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12608 H 9600",
-        "id": "E-228 Main",
-        "key": "AA BB 20 85 26 10 28 5E"
-    },
-    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11607 H 7200",
-        "id": "ENC-16",
-        "key": "57 CD 0B 2F 68 C9 EC 1D"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11598 H 7200",
-        "id": "ENC-15",
-        "key": "97 B7 B7 05 F8 6F 8A F1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11136 H 7200",
-        "id": "YSM-015BU",
-        "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11517 H 7200",
-        "id": "ENC 21",
-        "key": "BC F3 F4 A3 56 21 51 C8"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11305 V 7200",
-        "id": "E115 G19 Via 1 Main",
-        "key": "13 11 AA CE CC 20 23 0F"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11527 H 7200",
-        "id": "ENC-18",
-        "key": "DB F4 96 65 C8 02 74 3E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12547 H 7200",
-        "id": "E-229 Main",
-        "key": "AB 11 DC 98 57 EF 19 5F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12639 H 7200",
-        "id": "Unname",
-        "key": "55 BB 68 78 DE 79 CC 23"
+        "frequency": "11518 H 7200",
+        "id": "CRO-004 CEV CL Main",
+        "key": "20 26 AB F1 CD 12 34 13"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10857 H 7120",
-        "id": "PITCH -Liverpool v Chelsea",
-        "key": "13 14 AB D2 BC 23 42 21"
+        "frequency": "11200 V 9875",
+        "id": "UWCL M3 MAIN",
+        "key": "34 35 60 C9 E5 FE E2 C5"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10849 H 7120",
-        "id": "Pitch - Bournemouth v Aston Villa",
-        "key": "22 13 CC 01 DD 23 44 44"
+        "frequency": "11212 V 9875",
+        "id": "UKI1980 M9 Main",
+        "key": "30 BE 11 FF E3 0C 17 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "Squirrel",
+        "key": "42 34 10 86 D3 A8 7E F9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11188 V 9875",
+        "id": "AUT34M01 M",
+        "key": "69 6C C1 96 E8 D4 5B 17"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11592 H 9875",
+        "id": "F563/4.3A/PARISvHACKEN MAIN",
+        "key": "F5 21 AF C5 F1 8E E8 67"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL037 TVN24 BIA",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10970 V 4800",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11172 H 7200",
+        "id": "DSNG1-1Main",
+        "key": "BA 5D 00 17 99 BB F6 4A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12603 H 7200",
+        "id": "KAZ008M",
+        "key": "AB 24 20 EF 26 10 11 47"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12594 H 7200",
+        "id": "KAZ005M",
+        "key": "BE BE 10 8C 26 11 25 5C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "GCUK Encoder 2",
+        "key": "10 10 AA CA CC 56 DE 00"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11163 H 7200",
+        "id": "2026 AFC A",
+        "key": "E7 47 E7 15 2A BE 1C 04"
     }
 ]
