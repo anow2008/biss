@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "ENC 6",
+        "key": "A2 3D 5F 3E 3B AA A5 8A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10839 H 7120",
         "id": "Pitch - Fulham v Crystal Palace",
         "key": "23 31 AA FE CA 23 45 32"
