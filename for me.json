@@ -1,5 +1,95 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10819 H 7200",
+        "id": "EHF-CLM-AAR-BAR",
+        "key": "00 10 F4 04 60 D9 03 3C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 V 7200",
+        "id": "EHF-CLM-MON-DIB",
+        "key": "AB C1 A1 0D 73 CD EF 2F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7120",
+        "id": "Carabao Everton v Newcastle",
+        "key": "14 55 CC 35 AD 35 21 03"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11094 H 7200",
+        "id": "E-228 Main",
+        "key": "CA CA 20 B4 20 CA CA B4"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11109 H 7200",
+        "id": "UKI-1462-MAIN",
+        "key": "D1 02 9E 71 02 FF EE EF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11611 V 9600",
+        "id": "E115 G65 Via 1",
+        "key": "1A AA 62 26 C1 1C 73 50"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11616 H 9600",
+        "id": "G55 Via1",
+        "key": "44 23 A2 09 13 23 32 68"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11623 V 9600",
+        "id": "E115- G65 VIA 2",
+        "key": "93 1C 7C 2B 1A 53 41 AE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "ENC 1",
+        "key": "D8 27 CD CC 83 53 24 FA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "ENC 2",
+        "key": "59 F1 27 71 23 54 1E 95"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "ENC 3",
+        "key": "BB 32 88 75 A5 49 AE 9C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7200",
+        "id": "ENC 4",
+        "key": "4A F0 05 3F BA 11 C3 8E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10986 V 9600",
+        "id": "POL-55 ENC2",
+        "key": "FB A1 15 B1 32 5C AE 3C"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12596 H 9875",
+        "id": "FFBL Bremen",
+        "key": "29 10 DB 14 EA 50 97 D1"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12653 H 15000",
+        "id": "E-272  MAIN",
+        "key": "B4 51 D2 D7 4C CA 61 77"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
