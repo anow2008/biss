@@ -1,6 +1,24 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11108 H 9600",
+        "id": "E 95 main",
+        "key": "AB 29 10 E4 20 26 BA 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10810 H 7200",
+        "id": "ISU GP2 Kelowna",
+        "key": "D1 02 9E 71 01 FF DD DD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11083 H 9600",
+        "id": "Fi01 ACB",
+        "key": "52 A2 23 17 AC 24 17 E7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11623 V 9600",
         "id": "E115- G65 VIA 2",
         "key": "93 1C 7C 2B 1A 53 41 AE"
@@ -70,17 +88,5 @@
         "frequency": "10986 V 9600",
         "id": "POL-55 ENC2",
         "key": "FB A1 15 B1 32 5C AE 3C"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12596 H 9875",
-        "id": "FFBL Bremen",
-        "key": "29 10 DB 14 EA 50 97 D1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10819 H 7200",
-        "id": "EHF-CLM-AAR-BAR",
-        "key": "00 10 F4 04 60 D9 03 3C"
     }
 ]
