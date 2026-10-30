@@ -1,50 +1,56 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11686 H 7500",
+        "id": "ENC 1",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11062 V 7120",
+        "id": "PITCH -Sheffield Utd v Wrexham",
+        "key": "31 4A 32 AD C3 BC 3E BD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11619 V 7120",
+        "id": "Pitch Rugby  Bristol v Leicester",
+        "key": "C9 99 E6 48 54 A1 23 18"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10974 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11070 V 7200",
+        "id": "EUROLEAGUE ROUND 09 MAIN",
+        "key": "18 5F D2 49 43 82 66 2B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12553 H 7200",
+        "id": "Medialink CRO-014/2",
+        "key": "20 26 AB F1 CD 20 27 14"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12653 H 15000",
+        "id": "TUR-162  MAIN",
+        "key": "B4 51 D2 D7 4C CA 61 77"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11080 V 7200",
+        "id": "F512 Martigues main",
+        "key": "AB CD 12 8A 34 EF FF 22"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11190 H 7200",
         "id": "Cubic073-M",
         "key": "63 12 F8 6D 1D C7 04 E8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11591 H 7120",
-        "id": "MCUK NOC",
-        "key": "A3 6B A2 B0 29 BD 10 F6"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11619 V 8020",
-        "id": "Fi11_GNVE",
-        "key": "57 61 12 CA AC 89 D5 0A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11188 V 9875",
-        "id": "MRC-008-LOGINE-MAIN",
-        "key": "C8 0D 7C 51 8E F9 5D E4"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12603 H 7200",
-        "id": "KAZ008M",
-        "key": "AB 24 20 EF 26 10 11 47"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12594 H 7200",
-        "id": "KAZ005M",
-        "key": "BE BE 10 8C 26 11 25 5C"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10762 H 30000",
-        "id": "ESPN EMEA Service-6",
-        "key": "B8 26 38 16 27 59 61 E1"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10762 H 30000",
-        "id": "NHL Service-5",
-        "key": "A5 29 62 30 84 92 37 4D"
     }
 ]
