@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11062 V 7120",
         "id": "PITCH -Sheffield Utd v Wrexham",
         "key": "31 4A 32 AD C3 BC 3E BD"
