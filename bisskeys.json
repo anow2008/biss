@@ -12,22 +12,16 @@
     "key": "A5 29 62 30 84 92 37 4D"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10721 H 7500",
+    "id": "AFD",
+    "key": "A3 9D F2 32 7B 66 C1 A2"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10811 H 7200",
+    "frequency": "10810 H 7200",
     "id": "ISU GP2 Kelowna",
     "key": "E0 1F FB FA ED 10 31 2E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10828 H 7200",
-    "id": "GCUK Enc 9",
-    "key": "31 3A 22 8D 08 DF 16 FD"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10848 H 7200",
-    "id": "TANDBERG",
-    "key": "E7 B1 D4 6C A9 C6 32 A1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -49,27 +43,9 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11062 V 7120",
-    "id": "Pitch - Rugby Northampton V Gloucester",
-    "key": "02 03 C8 CD 8C 14 56 F6"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "33 C1 52 46 55 72 71 38"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11082 H 7200",
-    "id": "Hylo Open",
-    "key": "2F 9C 5D 28 7A 4E 36 FE"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11109 H 7200",
-    "id": "E 95 main",
-    "key": "31 10 20 61 26 AD 26 F9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -79,45 +55,21 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11595 H 14400",
-    "id": "Fi11_GNVE",
-    "key": "28 0D 6D A2 BF 6C 58 83"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11635 V 9875",
-    "id": "D565 MCHN E12 M",
-    "key": "DA 29 DD E0 25 64 D9 62"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12679 H 7500",
     "id": "ENC 3",
     "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12698 H 7200",
-    "id": "ENC 1",
-    "key": "72 4C 9D 5B B4 34 85 6D"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12707 H 7200",
-    "id": "ENC 2",
-    "key": "72 4C 9D 5B B4 34 86 6E"
+    "frequency": "12701 H 15000",
+    "id": "WWE EURO",
+    "key": "B5 24 1D F6 2A 31 5A B5"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10980 H 3600",
-    "id": "F7-2 4.5MH",
-    "key": "BB 14 3C 0B A6 5A CE CE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12515 H 15000",
-    "id": "DAZN- Canelo v Mbilli Fight Night",
-    "key": "BB 14 3C 0B A6 5A CE CE"
+    "frequency": "11013 V 4600",
+    "id": "WDC Enc 3",
+    "key": "CB 12 32 0F A6 5A CE CE"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
