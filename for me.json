@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-1",
+        "key": "A5 29 62 30 84 92 37 4D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "E 268",
+        "key": "35 AA 85 64 19 D7 91 81"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7120",
+        "id": "PITCH - EFL Stoke City v Preston",
+        "key": "82 99 F4 0F 4A 32 2B A7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 34 84 6C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12592 V 7200",
+        "id": "GCUK Encoder 2",
+        "key": "10 10 AA CA CC 56 DE 00"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10974 V 9600",
+        "id": "POL 48 ENC1",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11191 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "AF 2A F1 CA 48 05 09 56"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12515 H 15000",
+        "id": "DAZN- Canelo v Mbilli Fight Night",
+        "key": "BB 14 3C 0B A6 5A CE CE"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12594 H 7200",
+        "id": "POL-102 Main",
+        "key": "D1 02 AC 7F DC 31 10 1D"
+    }
+]
