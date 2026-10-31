@@ -12,22 +12,22 @@
     "key": "A5 29 62 30 84 92 37 4D"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10770 H 7200",
-    "id": "ARM-005-B/U",
-    "key": "1E 83 F2 93 CA 53 9D BA"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11247 H 7200",
-    "id": "URC",
-    "key": "1E 83 F2 93 CA 53 9D BA"
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10811 H 7200",
+    "id": "ISU GP2 Kelowna",
+    "key": "E0 1F FB FA ED 10 31 2E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10857 H 7200",
-    "id": "Encoder 05",
-    "key": "74 86 84 7E B1 7F D2 02"
+    "frequency": "10828 H 7200",
+    "id": "GCUK Enc 9",
+    "key": "31 3A 22 8D 08 DF 16 FD"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10848 H 7200",
+    "id": "TANDBERG",
+    "key": "E7 B1 D4 6C A9 C6 32 A1"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -44,20 +44,20 @@
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11058 H 7200",
-    "id": "E 268",
-    "key": "35 AA 85 64 19 D7 91 81"
+    "id": "IMG 1 EU",
+    "key": "72 4C 9D 5B B4 34 87 6F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11062 V 7120",
+    "id": "Pitch - Rugby Northampton V Gloucester",
+    "key": "02 03 C8 CD 8C 14 56 F6"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
-    "key": "72 4C 9D 5B B4 34 84 6C"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7120",
-    "id": "PITCH - EFL Milwall v Derby County",
-    "key": "77 20 93 2A 0D 32 5F 9E"
+    "key": "33 C1 52 46 55 72 71 38"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -67,69 +67,57 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11087 V 9875",
-    "id": "MRC-008-LOGINE-MAIN",
-    "key": "C8 0D 7C 51 8E F9 5D E4"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11109 H 7200",
-    "id": "Main E-285",
-    "key": "31 10 20 61 26 FA CA EA"
+    "id": "E 95 main",
+    "key": "31 10 20 61 26 AD 26 F9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 V 7200",
-    "id": "POR 21",
-    "key": "8B 59 69 4D EC 2D 54 6D"
+    "frequency": "11213 V 7200",
+    "id": "WSHT ENC 53",
+    "key": "33 C1 52 46 55 72 71 38"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11619 V 7120",
-    "id": "Pitch - Rugby Bath v Sale",
-    "key": "47 0C 23 76 AA F1 F1 8C"
+    "frequency": "11595 H 14400",
+    "id": "Fi11_GNVE",
+    "key": "28 0D 6D A2 BF 6C 58 83"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11635 V 9875",
+    "id": "D565 MCHN E12 M",
+    "key": "DA 29 DD E0 25 64 D9 62"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12679 H 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12698 H 7200",
+    "id": "ENC 1",
+    "key": "72 4C 9D 5B B4 34 85 6D"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12707 H 7200",
+    "id": "ENC 2",
+    "key": "72 4C 9D 5B B4 34 86 6E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10965 V 4800",
-    "id": "POL49 EN1 Tychy",
-    "key": "AB BA 26 8B DC AE 10 9A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10974 V 9600",
-    "id": "POL 48 ENC1",
-    "key": "AB BA 26 8B DC AE 10 9A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 10 9A"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11191 H 4938",
-    "id": "MTVA SNG HUNGARY",
-    "key": "AF 2A F1 CA 48 05 09 56"
+    "frequency": "10980 H 3600",
+    "id": "F7-2 4.5MH",
+    "key": "BB 14 3C 0B A6 5A CE CE"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12515 H 15000",
     "id": "DAZN- Canelo v Mbilli Fight Night",
     "key": "BB 14 3C 0B A6 5A CE CE"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12555 H 7200",
-    "id": "E-73",
-    "key": "CA CA 20 B4 20 CA CA B4"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12596 H 9600",
-    "id": "POL-78 ENC 2",
-    "key": "AB BA 26 8B DC AE 10 9A"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
