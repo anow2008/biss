@@ -1,56 +1,56 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7500",
-        "id": "ENC 1",
-        "key": "F1 07 45 3D E6 CB AD 5E"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12596 H 9600",
+        "id": "POL-78 ENC 2",
+        "key": "AB BA 26 8B DC AE 10 9A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12555 H 7200",
+        "id": "E-73",
+        "key": "CA CA 20 B4 20 CA CA B4"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12639 H 7200",
+        "id": "KAZ008M",
+        "key": "AB 24 20 EF 26 10 11 47"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11062 V 7120",
-        "id": "PITCH -Sheffield Utd v Wrexham",
-        "key": "31 4A 32 AD C3 BC 3E BD"
+        "frequency": "11071 V 7120",
+        "id": "PITCH - EFL Milwall v Derby County",
+        "key": "77 20 93 2A 0D 32 5F 9E"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11619 V 7120",
-        "id": "Pitch Rugby  Bristol v Leicester",
-        "key": "C9 99 E6 48 54 A1 23 18"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL-141 ENC1",
-        "key": "AB BA 26 8B DC AE 10 9A"
+        "id": "Pitch - Rugby Bath v Sale",
+        "key": "47 0C 23 76 AA F1 F1 8C"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11071 V 7200",
-        "id": "EUROLEAGUE ROUND 09 MAIN",
-        "key": "18 5F D2 49 43 82 66 2B"
+        "frequency": "11609 V 7200",
+        "id": "POR 21",
+        "key": "8B 59 69 4D EC 2D 54 6D"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12553 H 7200",
-        "id": "Medialink CRO-014/2",
-        "key": "20 26 AB F1 CD 20 27 14"
+        "frequency": "11087 V 9875",
+        "id": "MRC-008-LOGINE-MAIN",
+        "key": "C8 0D 7C 51 8E F9 5D E4"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12653 H 15000",
-        "id": "TUR-162  MAIN",
-        "key": "B4 51 D2 D7 4C CA 61 77"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11247 H 7200",
+        "id": "URC",
+        "key": "1E 83 F2 93 CA 53 9D BA"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11080 V 7200",
-        "id": "F512 Martigues main",
-        "key": "AB CD 12 8A 34 EF FF 22"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11190 H 7200",
-        "id": "Cubic073-M",
-        "key": "63 12 F8 6D 1D C7 04 E8"
+        "frequency": "11109 H 7200",
+        "id": "Main E-285",
+        "key": "31 10 20 61 26 FA CA EA"
     }
 ]
