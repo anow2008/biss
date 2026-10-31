@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10811 H 7200",
+        "id": "ISU GP2 Kelowna",
+        "key": "E0 1F FB FA ED 10 31 2E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10828 H 7200",
+        "id": "GCUK Enc 8",
+        "key": "31 3A 22 8D 08 DF 16 FD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10848 H 7200",
+        "id": "TANDBERG",
+        "key": "E7 B1 D4 6C A9 C6 32 A1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 34 87 6F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "33 C1 52 46 55 72 71 38"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10866 H 7200",
         "id": "KIFISIA VS OSFP",
         "key": "B1 58 4C 55 B3 CC A8 27"
