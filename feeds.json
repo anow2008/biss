@@ -1,80 +1,92 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7200",
-        "id": "GCUK Enc 07",
-        "key": "E0 1F FB FA BD 10 31 FE"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10721 H 7500",
-        "id": "AFD",
-        "key": "A3 9D F2 32 7B 66 C1 A2"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12556 H 7200",
+        "id": "E-228 Main",
+        "key": "BC 20 26 02 01 11 CB DD"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12702 H 15000",
-        "id": "WWE EURO",
-        "key": "B5 24 1D F6 2A 31 5A B5"
+        "frequency": "11071 V 7200",
+        "id": "M00-MRC007-Main",
+        "key": "D1 2E 3F 3E 67 2A 0D 9E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12656 H 9875",
+        "id": "Pokal Woman MÃ¼nchen",
+        "key": "01 11 BE D0 CA 25 44 33"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12603 H 7200",
+        "id": "KAZ008M",
+        "key": "AB 24 20 EF 26 10 11 47"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11135 H 7200",
+        "id": "TIP-TRE-ZVO",
+        "key": "13 57 AB 15 CD 24 68 59"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7200",
-        "id": "GCUK Enc 8",
-        "key": "31 3A 22 8D 08 DF 16 FD"
+        "frequency": "11204 V 7200",
+        "id": "Cleopatra",
+        "key": "AE FF 26 D3 CC BB 01 88"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11213 V 7200",
-        "id": "WSHT ENC 53",
-        "key": "33 C1 52 46 55 72 71 38"
+        "frequency": "11109 H 7200",
+        "id": "Main E-285",
+        "key": "AB BA 01 66 11 20 26 57"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10811 H 7200",
-        "id": "ISU GP2 Kelowna",
-        "key": "E0 1F FB FA ED 10 31 2E"
+        "frequency": "11082 H 7200",
+        "id": "Hylo Open",
+        "key": "B8 1F 3A 11 6D 9C 25 2E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12599 V 4938",
+        "id": "YSM-013",
+        "key": "20 10 20 50 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 H 7200",
-        "id": "TANDBERG",
-        "key": "E7 B1 D4 6C A9 C6 32 A1"
+        "frequency": "11186 V 7200",
+        "id": "Fi15_GNVE",
+        "key": "3E 58 67 FD 89 2F 76 2E"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "ENC 2",
-        "key": "72 4C 9D 5B B4 34 86 6E"
+        "frequency": "11611 V 9875",
+        "id": "MRC-008-LONGINES-MAIN",
+        "key": "C8 0D 7C 51 8E F9 5D E4"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11635 V 9875",
-        "id": "D565 MCHN E12 M",
-        "key": "DA 29 DD E0 25 64 D9 62"
+        "frequency": "11637 H 7200",
+        "id": "F521_INTER_MAIN",
+        "key": "92 2C 62 20 7A C7 41 82"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "ENC 1",
-        "key": "72 4C 9D 5B B4 34 85 6D"
+        "frequency": "11629 H 7200",
+        "id": "F521_SUPINT_MAIN",
+        "key": "C5 6A 87 B6 22 75 D8 6F"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7500",
-        "id": "ENC 3",
-        "key": "F1 07 45 3D E6 CB AD 5E"
+        "frequency": "11686 H 7200",
+        "id": "F512 equita bkp",
+        "key": "55 85 65 3F 64 BA 11 2F"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10867 H 7200",
-        "id": "KIFISIA VS OSFP",
-        "key": "B1 58 4C 55 B3 CC A8 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11595 H 14400",
-        "id": "Fi11_GNVE",
-        "key": "28 0D 6D A2 BF 6C 58 83"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-5",
+        "key": "E3 57 95 CF 42 83 76 3B"
     }
 ]
