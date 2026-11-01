@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10811 H 7200",
+        "id": "ISU GP2 Kelowna",
+        "key": "D1 10 1E FF 01 FF BB BB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10828 H 7200",
+        "id": "GCUK Enc 8",
+        "key": "25 A1 DF A5 13 CB A1 7F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "GCUK Enc 07",
+        "key": "D1 10 1E FF 01 FF DF DF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "87 15 58 F4 81 14 33 C8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12594 H 7200",
+        "id": "LNR UK PAU VS TOULOUSE",
+        "key": "F4 86 42 BC 25 01 F2 18"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12603 H 7200",
+        "id": "SECOURS PRINCIPAL PAU VS TOULOUSE",
+        "key": "F4 86 42 BC 25 01 F1 17"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
