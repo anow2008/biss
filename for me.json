@@ -1,5 +1,95 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-1",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7200",
+        "id": "MRC006A Main",
+        "key": "D1 2E 3F 3E 67 2A 0D 9E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 7200",
+        "id": "M00-MRC007-Main",
+        "key": "D1 2E 3F 3E 67 2A 0D 9E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11082 H 7200",
+        "id": "Hylo Open",
+        "key": "B8 1F 3A 11 6D 9C 25 2E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11109 H 7200",
+        "id": "Main E-285",
+        "key": "AB BA 01 66 11 20 26 57"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7200",
+        "id": "Fi15_GNVE",
+        "key": "3E 58 67 FD 89 2F 76 2E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11195 V 7200",
+        "id": "ITA 491  Back up",
+        "key": "32 D8 1B 25 60 86 62 48"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7200",
+        "id": "egy-013",
+        "key": "03 6F 8E 00 8C 4F 24 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11686 H 7200",
+        "id": "F512 equita bkp",
+        "key": "55 85 65 3F 64 BA 11 2F"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10977 V 4800",
+        "id": "pol-053_enc2",
+        "key": "AB BA 26 8B DC AE 11 9B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11005 V 7500",
+        "id": "POL086 TVN24 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11135 H 7200",
+        "id": "TIP-TRE-ZVO",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11181 H 7200",
+        "id": "Fi09_GNVE",
+        "key": "03 6F 8E 00 8C 4F 24 FF"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12556 H 7200",
+        "id": "E-228 Main",
+        "key": "BC 20 26 02 01 11 CB DD"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12656 H 9875",
+        "id": "Pokal Woman MÃ¼nchen",
+        "key": "01 11 BE D0 CA 25 44 33"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11045 H 4938",
         "id": "EBU 2 ENC",
