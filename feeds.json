@@ -13,7 +13,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12701 H 15000",
+        "frequency": "12702 H 15000",
         "id": "WWE EURO",
         "key": "B5 24 1D F6 2A 31 5A B5"
     },
@@ -31,7 +31,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10810 H 7200",
+        "frequency": "10811 H 7200",
         "id": "ISU GP2 Kelowna",
         "key": "E0 1F FB FA ED 10 31 2E"
     },
