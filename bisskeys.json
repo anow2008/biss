@@ -12,10 +12,28 @@
     "key": "E3 57 95 CF 42 83 76 3B"
   },
   {
+    "satellite": "Eutelsat 10A @ 10.0°E",
+    "frequency": "10721 H 7500",
+    "id": "AFD",
+    "key": "A3 9D F2 32 7B 66 C1 A2"
+  },
+  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10839 H 7200",
-    "id": "E-296 MAIN",
-    "key": "74 86 84 7E B1 7F D2 02"
+    "frequency": "10811 H 7200",
+    "id": "ISU GP2 Kelowna",
+    "key": "D1 10 1E FF 01 FF BB BB"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10828 H 7200",
+    "id": "GCUK Enc 8",
+    "key": "25 A1 DF A5 13 CB A1 7F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10830 V 7200",
+    "id": "GCUK Enc 07",
+    "key": "D1 10 1E FF 01 FF DF DF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -31,98 +49,50 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11058 H 7200",
-    "id": "E 268",
-    "key": "35 AA 85 64 19 D7 91 81"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11062 V 7200",
-    "id": "MRC006A Main",
-    "key": "D1 2E 3F 3E 67 2A 0D 9E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
-    "key": "51 31 64 E6 71 84 64 59"
+    "key": "87 15 58 F4 81 14 33 C8"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7200",
-    "id": "M00-MRC007-Main",
+    "frequency": "11080 V 7200",
+    "id": "MRC004-MAIN",
     "key": "D1 2E 3F 3E 67 2A 0D 9E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11082 H 7200",
-    "id": "Hylo Open",
-    "key": "B8 1F 3A 11 6D 9C 25 2E"
+    "frequency": "11089 V 7200",
+    "id": "MCR 005 MAIN",
+    "key": "D1 2E 3F 3E 67 2A 0D 9E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11109 H 7200",
-    "id": "Main E-285",
-    "key": "AB BA 01 66 11 20 26 57"
+    "frequency": "11617 H 7200",
+    "id": "Fi01 ACB",
+    "key": "E0 ED 8F 5C F4 43 B3 EA"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11186 V 7200",
-    "id": "Fi15_GNVE",
-    "key": "3E 58 67 FD 89 2F 76 2E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11611 V 9875",
-    "id": "MRC-008-LONGINES-MAIN",
-    "key": "C8 0D 7C 51 8E F9 5D E4"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11656 H 7200",
-    "id": "egy-013",
-    "key": "03 6F 8E 00 8C 4F 24 FF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11686 H 7200",
-    "id": "F512 equita bkp",
-    "key": "55 85 65 3F 64 BA 11 2F"
+    "frequency": "12679 H 7500",
+    "id": "ENC 3",
+    "key": "F1 07 45 3D E6 CB AD 5E"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10977 V 4800",
-    "id": "pol-053_enc2",
-    "key": "AB BA 26 8B DC AE 11 9B"
+    "frequency": "11019 V 4600",
+    "id": "GMS Cairo 1",
+    "key": "F4 86 42 BC 25 01 F2 18"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11005 V 7500",
-    "id": "POL086 TVN24 WAW",
-    "key": "77 93 52 5C 99 08 86 27"
+    "frequency": "12594 H 7200",
+    "id": "LNR UK PAU VS TOULOUSE",
+    "key": "F4 86 42 BC 25 01 F2 18"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11135 H 7200",
-    "id": "TIP-TRE-ZVO",
-    "key": "13 57 AB 15 CD 24 68 59"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11181 H 7200",
-    "id": "Fi09_GNVE",
-    "key": "03 6F 8E 00 8C 4F 24 FF"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12556 H 7200",
-    "id": "E-228 Main",
-    "key": "BC 20 26 02 01 11 CB DD"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12656 H 9875",
-    "id": "Pokal Woman MÃ¼nchen",
-    "key": "01 11 BE D0 CA 25 44 33"
+    "frequency": "12603 H 7200",
+    "id": "SECOURS PRINCIPAL PAU VS TOULOUSE",
+    "key": "F4 86 42 BC 25 01 F1 17"
   }
 ]
