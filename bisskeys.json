@@ -12,28 +12,10 @@
     "key": "E3 57 95 CF 42 83 76 3B"
   },
   {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "10721 H 7500",
-    "id": "AFD",
-    "key": "A3 9D F2 32 7B 66 C1 A2"
-  },
-  {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10811 H 7200",
+    "frequency": "10810 H 7200",
     "id": "ISU GP2 Kelowna",
     "key": "D1 10 1E FF 01 FF BB BB"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10828 H 7200",
-    "id": "GCUK Enc 8",
-    "key": "25 A1 DF A5 13 CB A1 7F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10830 V 7200",
-    "id": "GCUK Enc 07",
-    "key": "D1 10 1E FF 01 FF DF DF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -51,37 +33,13 @@
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
-    "key": "87 15 58 F4 81 14 33 C8"
+    "key": "72 4C 9D 5B B4 34 93 7B"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11080 V 7200",
-    "id": "MRC004-MAIN",
-    "key": "D1 2E 3F 3E 67 2A 0D 9E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7200",
-    "id": "MCR 005 MAIN",
-    "key": "D1 2E 3F 3E 67 2A 0D 9E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11617 H 7200",
-    "id": "Fi01 ACB",
-    "key": "E0 ED 8F 5C F4 43 B3 EA"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12679 H 7500",
+    "frequency": "12680 H 7500",
     "id": "ENC 3",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11019 V 4600",
-    "id": "GMS Cairo 1",
-    "key": "F4 86 42 BC 25 01 F2 18"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
