@@ -1,74 +1,38 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11067 H 7200",
-        "id": "IMG 2 EU",
-        "key": "72 4C 9D 5B B4 34 93 7B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11045 H 4938",
-        "id": "EBU 2 ENC",
-        "key": "74 86 84 7E B1 7F D2 02"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL046",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12594 H 7200",
-        "id": "LNR UK PAU VS TOULOUSE",
-        "key": "F4 86 42 BC 25 01 F2 18"
+        "frequency": "10986 V 9600",
+        "id": "POL-141 ENC1",
+        "key": "AB BA 26 8B DC AE 11 9B"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7200",
-        "id": "GCUK Enc 8",
-        "key": "25 A1 DF A5 13 CB A1 7F"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11190 H 7200",
+        "id": "E-228 Main",
+        "key": "AA BB 20 85 26 11 02 39"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10810 H 7200",
-        "id": "ISU GP2 Kelowna",
-        "key": "D1 10 1E FF 01 FF BB BB"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12656 H 9875",
+        "id": "Pokal Woman Wolfsb.",
+        "key": "02 11 FD 10 EB 25 44 54"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "GCUK Enc 07",
-        "key": "D1 10 1E FF 01 FF DF DF"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11172 H 7200",
+        "id": "Qat037 M",
+        "key": "91 69 D9 D3 BA 04 D9 97"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7500",
-        "id": "ENC 3",
-        "key": "F1 07 45 3D E6 CB AD 5E"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10721 H 7500",
-        "id": "AFD",
-        "key": "A3 9D F2 32 7B 66 C1 A2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11080 V 7200",
-        "id": "MRC004-MAIN",
-        "key": "D1 2E 3F 3E 67 2A 0D 9E"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10866 H 7200",
-        "id": "PAO VS AEK",
-        "key": "EF 8C 00 7B 4D DC A9 D2"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "PAOK - ASTERAS",
-        "key": "3E 02 F9 39 B5 39 7C 6A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11195 V 7200",
-        "id": "ITA 491  Main",
-        "key": "32 D8 1B 25 60 86 62 48"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11163 H 7200",
+        "id": "SAU-030-A",
+        "key": "57 91 B3 9B CE 60 6E 9C"
     }
 ]
