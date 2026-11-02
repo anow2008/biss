@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 34 93 7B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12594 H 7200",
         "id": "LNR UK PAU VS TOULOUSE",
@@ -58,35 +70,5 @@
         "frequency": "11195 V 7200",
         "id": "ITA 491  Main",
         "key": "32 D8 1B 25 60 86 62 48"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "pol-053_enc2",
-        "key": "AB BA 26 8B DC AE 11 9B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12594 H 7200",
-        "id": "KAZ005M",
-        "key": "BE BE 10 8C 26 11 25 5C"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12556 H 7200",
-        "id": "E-228 Main",
-        "key": "BC 20 26 02 01 11 CB DD"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12656 H 9875",
-        "id": "Pokal Woman MÃ¼nchen",
-        "key": "01 11 BE D0 CA 25 44 33"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12603 H 7200",
-        "id": "SECOURS PRINCIPAL PAU VS TOULOUSE",
-        "key": "F4 86 42 BC 25 01 F1 17"
     }
 ]
