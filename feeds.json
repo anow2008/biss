@@ -1,50 +1,92 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7200",
-        "id": "E394 MAIN",
-        "key": "E1 C7 A4 4C F9 D3 62 2E"
+        "frequency": "12679 H 7120",
+        "id": "Pitch - EFL - West Brom V Southampton",
+        "key": "5E 33 7A 0B D3 34 56 5D"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10828 H 7200",
-        "id": "YLE MCR",
-        "key": "FF CC 34 FF AB EA CD 62"
+        "frequency": "11617 H 8020",
+        "id": "M4B_BU__GVA_Fi04",
+        "key": "12 34 12 58 34 12 34 7A"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11127 H 7200",
-        "id": "IRQ014-M",
-        "key": "63 7C 9A 79 11 76 87 0E"
+        "frequency": "12630 V 7200",
+        "id": "F386 VIA STORIA/1",
+        "key": "67 AC EE 01 DD 34 51 62"
+    },
+    {
+        "satellite": "Eutelsat 3B @ 3.1°E",
+        "frequency": "10970 H 7500",
+        "id": "Service-1",
+        "key": "82 29 C6 71 5A D7 DF 10"
+    },
+    {
+        "satellite": "Eutelsat 3B @ 3.1°E",
+        "frequency": "10960 H 7500",
+        "id": "beIN SPORTS",
+        "key": "51 3B 68 F4 8C 30 5E 1A"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11154 H 7200",
-        "id": "JOR021/MAIN",
-        "key": "AD FC 7D 26 6A DD D6 1D"
+        "frequency": "12598 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11105 H 17140",
-        "id": "ITA 491  Main 129 EF",
-        "key": "FA BA 11 C5 24 BA FA D8"
+        "frequency": "10830 V 7200",
+        "id": "E-228 Main",
+        "key": "1A 3D FF 56 6A C4 B5 E3"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11039 H 4938",
-        "id": "EBU 1 ENC",
-        "key": "74 86 84 7E B1 7F D2 02"
+        "frequency": "11667 H 7200",
+        "id": "Eurocup Ulm",
+        "key": "20 26 EC 32 CE 11 03 E2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10819 H 7200",
+        "id": "A1PRO Via1",
+        "key": "FF CC 45 10 1A BC AD 83"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "POL-10 ENC2",
+        "frequency": "12630 V 7200",
+        "id": "F386 VIA STORIA/1",
+        "key": "E1 3D 03 21 89 04 D4 61"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12698 H 7200",
+        "id": "Maritza v Turan BUL006 Main",
+        "key": "11 A3 45 F9 BC 7F 33 6E"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-55 ENC2",
         "key": "AB BA 26 8B DC AE 11 9B"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL071 TVN24 TOR",
-        "key": "77 93 52 5C 99 08 86 27"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12544 H 7200",
+        "id": "TANDBERG",
+        "key": "A6 E8 D1 5F C5 F7 39 F5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "LTU-005 main",
+        "key": "12 56 DF 47 AB 34 51 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 H 7200",
+        "id": "E394 MAIN",
+        "key": "E1 C7 A4 4C F9 D3 62 2E"
     }
 ]
