@@ -1,5 +1,101 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11105 H 17140",
+        "id": "ITA 491  Main 129 EF",
+        "key": "FA BA 11 C5 24 BA FA D8"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "SAU-033-Main",
+        "key": "F0 87 0B 82 60 00 C4 24"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10802 H 7200",
+        "id": "LTU-005 main",
+        "key": "12 56 DF 47 AB 34 51 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10828 H 7200",
+        "id": "YLE MCR",
+        "key": "FF CC 34 FF AB EA CD 62"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10830 V 7200",
+        "id": "E-228 Main",
+        "key": "1A 3D FF 56 6A C4 B5 E3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "E458  MAIN",
+        "key": "AD EA D2 69 81 98 1A 33"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11071 V 4820",
+        "id": "Feed B2 Match 3",
+        "key": "DC D1 DC 89 36 76 24 D0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11078 V 4938",
+        "id": "E380 FEEDB PATH2",
+        "key": "DC D1 DC 89 36 76 24 D0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11087 V 9875",
+        "id": "UCL_IHL_GVA_Fi01",
+        "key": "DC D1 DC 89 36 76 24 D0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11105 H 17140",
+        "id": "ITA 491  Main 129 EF",
+        "key": "FA BA 11 C5 24 BA FA D8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11667 H 7200",
+        "id": "Eurocup Ulm",
+        "key": "20 26 EC 32 CE 11 03 E2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12544 H 7200",
+        "id": "TANDBERG",
+        "key": "A6 E8 D1 5F C5 F7 39 F5"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10971 V 4800",
+        "id": "POL-10 ENC2",
+        "key": "AB BA 26 8B DC AE 11 9B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "10986 V 9600",
+        "id": "POL-55 ENC2",
+        "key": "AB BA 26 8B DC AE 11 9B"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11127 H 7200",
+        "id": "IRQ014-M",
+        "key": "63 7C 9A 79 11 76 87 0E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12537 H 7200",
+        "id": "SAU-033-Main",
+        "key": "F0 87 0B 82 60 00 C4 24"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
