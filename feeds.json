@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10721 H 7500",
+        "id": "AFD",
+        "key": "A3 9D F2 32 7B 66 C1 A2"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10996 V 7500",
         "id": "POL046",
