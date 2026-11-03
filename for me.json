@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11617 H 8020",
+        "id": "M4B_BU__GVA_Fi04",
+        "key": "12 34 12 58 34 12 34 7A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11105 H 17140",
         "id": "ITA 491  Main 129 EF",
         "key": "FA BA 11 C5 24 BA FA D8"
