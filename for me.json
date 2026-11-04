@@ -1,6 +1,36 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11628 H 7200",
+        "id": "ITA  560 Main 157A9",
+        "key": "66 33 3F D8 FE 52 A8 F8"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "ISL-RKS-002-MAIN",
+        "key": "9F 53 CC BE 9A 82 75 91"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7120",
+        "id": "PITCH - EFL Stoke City v Preston",
+        "key": "49 93 BC 98 9C 32 11 DF"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12630 H 7200",
+        "id": "REYER_SIAULIAI_MAIN",
+        "key": "03 11 20 34 26 BA FE DE"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12657 H 7200",
+        "id": "ITA81",
+        "key": "03 11 20 34 26 BA FE DE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "11072 V 4820",
         "id": "CRO 020 Main M6",
         "key": "B0 97 59 A0 92 D2 01 65"
