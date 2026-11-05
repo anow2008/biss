@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "ITA81",
+        "key": "3A 7F 5B 14 AF 6B B7 D1"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12639 H 7200",
+        "id": "E-228 Main",
+        "key": "AB BA 05 6A 11 26 BA F1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7200",
+        "id": "D-331 TX1",
+        "key": "56 68 C8 86 8C 39 F4 B9"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11247 H 7500",
+        "id": "AFD",
+        "key": "C6 D3 99 32 F8 15 CA D7"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10996 V 7500",
         "id": "POL086 TVN24 WAW",
@@ -19,7 +43,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7500",
+        "frequency": "11694 H 7500",
         "id": "Sturm Celje STV",
         "key": "34 AD CB AC 25 42 CB 32"
     },
