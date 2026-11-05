@@ -1,92 +1,56 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7120",
-        "id": "PITCH - EFL Stoke City v Preston",
-        "key": "49 93 BC 98 9C 32 11 DF"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12630 H 7200",
-        "id": "REYER_SIAULIAI_MAIN",
-        "key": "03 11 20 34 26 BA FE DE"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11527 H 7200",
-        "id": "CRO-004 CEV CL Main",
-        "key": "12 34 AB F1 CD 20 26 13"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10985 V 9600",
-        "id": "POL-55 ENC2",
-        "key": "05 5C AE 0F 26 11 04 3B"
+        "frequency": "10996 V 7500",
+        "id": "POL086 TVN24 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12602 V 7200",
-        "id": "Service 1",
-        "key": "2D 4B EE 66 67 CE 56 8B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10810 H 7200",
-        "id": "E 95 main",
-        "key": "5A E9 B3 F6 72 76 5C 44"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "ISL-RKS-002-MAIN",
-        "key": "9F 53 CC BE 9A 82 75 91"
+        "id": "EHF-SWE-GRE",
+        "key": "C8 2A 65 57 62 AE BE CE"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10820 H 7200",
-        "id": "DNK83_ENC1",
-        "key": "FF 98 27 BE A2 9E BC FC"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11305 V 7200",
-        "id": "E115 G65 Via 1",
-        "key": "13 11 AA CE CC 20 23 0F"
+        "id": "GCUK Enc 9",
+        "key": "AA FF EE 97 DD 05 11 F3"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
-        "id": "MRC004-MAIN",
-        "key": "D1 3D F3 01 21 34 04 59"
+        "frequency": "11695 H 7500",
+        "id": "Sturm Celje STV",
+        "key": "34 AD CB AC 25 42 CB 32"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12528 H 7200",
+        "id": "CEV XTB KAP NAP",
+        "key": "22 F6 1A 32 C7 EB 19 CB"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10867 H 7200",
-        "id": "YSM-012 MAIN",
-        "key": "F2 A9 C7 62 D4 E6 31 EB"
+        "frequency": "10839 V 7200",
+        "id": "EHF NOR-GEO",
+        "key": "29 BD F2 D8 83 57 6B 45"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12526 H 7200",
-        "id": "HOL324 TX1",
-        "key": "E0 2F FA 09 AD 11 03 C1"
+        "frequency": "12593 V 7200",
+        "id": "Live Broadcasting Line 1",
+        "key": "28 69 85 16 A5 9F 66 AA"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "TKS.TRT.M17 - A",
-        "key": "4E 5B 29 D2 6D D1 9A D8"
+        "frequency": "10848 V 7200",
+        "id": "YSM 019 01",
+        "key": "8B D9 C7 2B 49 BC B8 BD"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10857 H 7200",
-        "id": "Medialink CRO-021/1",
-        "key": "04 7A DF 5D 5F CC 01 2C"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10849 H 7200",
-        "id": "E394 FEED C",
-        "key": "D9 F2 B6 81 E3 A8 14 9F"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12657 H 7200",
+        "id": "DSNG1-1Main",
+        "key": "96 A8 BE FC 91 69 EE E8"
     }
 ]
