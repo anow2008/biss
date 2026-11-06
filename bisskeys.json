@@ -1,15 +1,21 @@
 [
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10761 H 30000",
+    "frequency": "10762 H 30000",
     "id": "NHL Service-1",
     "key": "E3 57 95 CF 42 83 76 3B E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10761 H 30000",
+    "frequency": "10762 H 30000",
     "id": "NHL Service-1",
     "key": "E3 57 95 CF 42 83 76 3B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10801 H 7200",
+    "id": "BWF WF-A C1 BISS-1",
+    "key": "74 86 84 7E B1 7F D2 02"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
