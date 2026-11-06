@@ -1,80 +1,32 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL 076",
+        "key": "AB BA 26 8B DC AE 11 9B"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "ITA81",
-        "key": "3A 7F 5B 14 AF 6B B7 D1"
+        "frequency": "11039 H 4938",
+        "id": "Unname",
+        "key": "74 86 84 7E B1 7F D2 02"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12639 H 7200",
-        "id": "E-228 Main",
-        "key": "AB BA 05 6A 11 26 BA F1"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "D-331 TX1",
-        "key": "56 68 C8 86 8C 39 F4 B9"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11247 H 7500",
-        "id": "AFD",
-        "key": "C6 D3 99 32 F8 15 CA D7"
+        "frequency": "12632 V 9875",
+        "id": "IPF",
+        "key": "67 BE 1C 41 F1 3C 29 56"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL086 TVN24 WAW",
-        "key": "77 93 52 5C 99 08 86 27"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12602 V 7200",
-        "id": "EHF-SWE-GRE",
-        "key": "C8 2A 65 57 62 AE BE CE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10820 H 7200",
-        "id": "GCUK Enc 9",
-        "key": "AA FF EE 97 DD 05 11 F3"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11694 H 7500",
-        "id": "Sturm Celje STV",
-        "key": "34 AD CB AC 25 42 CB 32"
+        "frequency": "12598 V 4938",
+        "id": "YSM-016 MAIN",
+        "key": "20 10 20 50 25 20 26 6B"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12528 H 7200",
-        "id": "CEV XTB KAP NAP",
-        "key": "22 F6 1A 32 C7 EB 19 CB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "EHF NOR-GEO",
-        "key": "29 BD F2 D8 83 57 6B 45"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12593 V 7200",
-        "id": "Live Broadcasting Line 1",
-        "key": "28 69 85 16 A5 9F 66 AA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "YSM 019 01",
-        "key": "8B D9 C7 2B 49 BC B8 BD"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12657 H 7200",
-        "id": "DSNG1-1Main",
-        "key": "96 A8 BE FC 91 69 EE E8"
+        "frequency": "10976 H 3600",
+        "id": "Fal1 Enc1",
+        "key": "20 25 AE F3 EA 52 02 3E"
     }
 ]
