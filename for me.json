@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11285 V 7120",
+        "id": "Pitch -Ire v Arg World Feed TX2 - Back Up",
+        "key": "DD EA 78 3F FF 06 11 16"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "ITA 315 MAIN",
+        "key": "0A 1B 9F C4 CB 7C 3E 85"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "EUROLEAGUE ROUND 10 MAIN",
+        "key": "46 8A 93 63 2D BA B4 9B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11595 H 14240",
+        "id": "Pitch -Ire v Arg World Feed TX2 - 18Mhz",
+        "key": "DD EA 78 3F FF 06 11 16"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7200",
+        "id": "ENC 6",
+        "key": "28 12 12 4C 39 78 41 F2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11694 H 7120",
+        "id": "Pitch - EFL - Derby Couty v Bolton",
+        "key": "02 3A 26 62 3F 26 EE 53"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12519 H 7200",
+        "id": "F-509 C+ PSG_LEHAVRE main",
+        "key": "A8 22 C0 8A 5E AF D7 E4"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
