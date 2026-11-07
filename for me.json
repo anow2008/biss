@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12680 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7120",
+        "id": "One Friday Fight 177",
+        "key": "B2 C5 D3 4A E6 F4 A7 81"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11285 V 7120",
         "id": "Pitch -Ire v Arg World Feed TX2 - Back Up",
