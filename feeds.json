@@ -1,80 +1,50 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11109 H 7200",
-        "id": "E-73",
-        "key": "07 11 20 38 26 FA CA EA"
+        "frequency": "12679 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10811 H 7200",
-        "id": "AMP V02",
-        "key": "35 61 AC 42 CE F2 22 E2"
+        "frequency": "11646 H 7200",
+        "id": "F-509-CSTMAL-OM-MAIN",
+        "key": "BC F6 95 47 46 B0 F3 E9"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11091 H 7200",
-        "id": "YLE MCR",
-        "key": "FB FC 63 5A C4 A3 86 ED"
-    },
-    {
-        "satellite": "Eutelsat 3B @ 3.1°E",
-        "frequency": "10960 H 7500",
-        "id": "beIN SPORTS",
-        "key": "51 3B 68 F4 8C 30 5E 1A"
-    },
-    {
-        "satellite": "Eutelsat 3B @ 3.1°E",
-        "frequency": "10970 H 7500",
-        "id": "Service-1",
-        "key": "82 29 C6 71 5A D7 DF 10"
+        "frequency": "11100 H 7200",
+        "id": "BEL119",
+        "key": "D8 77 53 A2 C7 8E A8 FD"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11089 V 7120",
-        "id": "PITCH -Birmingham v Swansea",
-        "key": "54 55 55 FE 6A 32 E5 81"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11071 V 7200",
-        "id": "kidderminster v doncaster",
-        "key": "1B 3A 13 68 1B C5 A1 81"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11062 V 7200",
-        "id": "M00-MRC007-Main",
-        "key": "D1 4C 2A 47 C5 0A FB CA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11637 H 7200",
-        "id": "Guiseley v Sutton",
-        "key": "C1 34 12 07 BB C2 A4 21"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11671 H 15000",
-        "id": "ZB PATH 1 BTY PRI",
-        "key": "2A E9 5D 70 A0 65 F5 FA"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10866 H 7200",
-        "id": "EHF-CLW-NYK-SHE",
-        "key": "91 72 A1 A4 DC 7F 10 6B"
+        "frequency": "10857 H 7200",
+        "id": "ENC 14",
+        "key": "28 13 99 D4 9A BD A2 F9"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10974 V 9600",
-        "id": "POL 48 ENC1",
+        "frequency": "12512 H 9600",
+        "id": "TVP POL-32  ENC 1",
         "key": "AB BA 26 8B DC AE 11 9B"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11135 H 7200",
-        "id": "FA Cup Carlisle v Salford",
-        "key": "11 3A 13 5E EB C5 A4 54"
+        "frequency": "11172 H 7200",
+        "id": "ALTRINCHAM REV VIS",
+        "key": "20 16 26 5C 93 FA 26 B3"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11127 H 7200",
+        "id": "Cage Warriors",
+        "key": "B4 54 BC C4 A1 1C 23 E0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11619 V 7200",
+        "id": "ARIS VS PANETOLIKOS",
+        "key": "B0 63 CD E0 3E D7 E5 FA"
     }
 ]
