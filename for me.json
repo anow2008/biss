@@ -1,6 +1,42 @@
 [
     {
         "satellite": "Eutelsat 10A",
+        "frequency": "11247 H 7500",
+        "id": "AFD",
+        "key": "C6 D3 99 32 F8 15 CA D7"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11276 V 7120",
+        "id": "Pitch -France v Fiji World TX2 B/U",
+        "key": "41 BB 39 35 50 D3 D3 F6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10857 H 7200",
+        "id": "ENC 14",
+        "key": "28 13 99 D4 9A BD A2 F9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11613 H 14240",
+        "id": "Pitch France v Fiji World TX2",
+        "key": "41 BB 39 35 50 D3 D3 F6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11647 H 7200",
+        "id": "F-509-C+STMAL-OM-MAIN",
+        "key": "BC F6 95 47 46 B0 F3 E9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 10A",
         "frequency": "11285 V 7120",
         "id": "Pitch -Wales v Japan World TX2 B/U",
         "key": "CC DF 66 11 EE 07 11 06"
