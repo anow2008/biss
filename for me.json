@@ -1,5 +1,71 @@
 [
     {
+        "satellite": "Eutelsat 7",
+        "frequency": "11778 H 30000",
+        "id": "Feed",
+        "key": "CA 11 FE D9 0B 08 1A 2D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10802 H 7200",
+        "id": "TANDBERG",
+        "key": "FD B6 54 07 00 D3 AB 7E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 H 7200",
+        "id": "E386 FEED 1",
+        "key": "73 39 E2 8E 6A BD C8 EF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11089 V 7200",
+        "id": "Fi01 ACB",
+        "key": "F6 68 D4 32 CD FE F6 C1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11186 V 7200",
+        "id": "ENC 5",
+        "key": "95 47 47 23 2A AA 32 06"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11628 H 7200",
+        "id": "M3SATCOM FEED A",
+        "key": "30 A0 6B 3B 22 C1 20 03"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11637 H 7200",
+        "id": "MTHREE  FEED2",
+        "key": "30 A0 6B 3B 22 C1 20 03"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11646 H 7200",
+        "id": "ITA  560 157 d9",
+        "key": "81 14 19 AE 39 93 A1 6D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11657 H 5000",
+        "id": "tik",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7500",
+        "id": "ENC 3",
+        "key": "F1 07 45 3D E6 CB AD 5E"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11127 H 8020",
+        "id": "GVA_Fi03",
+        "key": "82 23 93 38 34 40 9D 11"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
