@@ -3,6 +3,24 @@
         "satellite": "Eutelsat 7",
         "frequency": "11778 H 30000",
         "id": "Feed",
+        "key": "CA 11 FE D9 0B 09 1A 2E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 35 04 ED"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11656 H 7200",
+        "id": "MVP BOXING PRI",
+        "key": "45 73 C8 80 02 67 89 F2"
+    },
+    {
+        "satellite": "Eutelsat 7",
+        "frequency": "11778 H 30000",
+        "id": "Feed",
         "key": "CA 11 FE D9 0B 08 1A 2D"
     },
     {
