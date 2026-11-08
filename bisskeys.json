@@ -3,25 +3,19 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11778 H 30000",
     "id": "NHL Service-1",
-    "key": "CA 11 FE D9 0B 08 1A 2D"
+    "key": "CA 11 FE D9 0B 09 1A 2E"
   },
   {
     "satellite": "Unknown",
     "frequency": "11778 H 30000",
     "id": "N/A",
-    "key": "CA 11 FE D9 0B 08 1A 2D"
+    "key": "CA 11 FE D9 0B 09 1A 2E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10762 H 30000",
     "id": "NHL Service-1",
     "key": "E3 57 95 CF 42 83 76 3B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10802 H 7200",
-    "id": "TANDBERG",
-    "key": "FD B6 54 07 00 D3 AB 7E"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -49,50 +43,20 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
+    "frequency": "11067 H 7200",
     "id": "IMG 2 EU",
     "key": "72 4C 9D 5B B4 35 04 ED"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11089 V 7200",
-    "id": "Fi01 ACB",
-    "key": "F6 68 D4 32 CD FE F6 C1"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11628 H 7200",
-    "id": "M3SATCOM FEED A",
-    "key": "30 A0 6B 3B 22 C1 20 03"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 H 7200",
-    "id": "MTHREE  FEED2",
-    "key": "30 A0 6B 3B 22 C1 20 03"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11695 H 7200",
-    "id": "HOTBIRD 13F // 3er puesto / FINAL - EUROPA",
-    "key": "11 22 DF 12 AC B5 2C 8D"
+    "frequency": "11656 H 7200",
+    "id": "MVP BOXING PRI",
+    "key": "45 73 C8 80 02 67 89 F2"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "12679 H 7500",
     "id": "ENC 3",
     "key": "F1 07 45 3D E6 CB AD 5E"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "10986 V 9600",
-    "id": "TVP POL-32  ENC 1",
-    "key": "AB BA 26 8B DC AE 11 9B"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11126 H 8020",
-    "id": "GVA_Fi03",
-    "key": "82 23 93 38 34 40 9D 11"
   }
 ]
