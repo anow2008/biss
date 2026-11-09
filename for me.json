@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7",
+        "frequency": "11778 H 30000",
+        "id": "Feed",
+        "key": "CA 11 FE D9 0B 09 1A 2E"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-1",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11046 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 34 98 80"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 35 04 ED"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12611 V 7200",
+        "id": "GCUK Enc 9",
+        "key": "55 DD AB DD C6 09 11 E0"
+    }
+]
