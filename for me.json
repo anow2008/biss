@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat 7",
+        "frequency": "11778 H 30000",
+        "id": "Feed",
+        "key": "CA 11 FE D9 0B 0B 1A 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "4C 8A 1F F5 6D 3B 97 3F"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G",
         "frequency": "10811 H 7200",
         "id": "BUL007 H Holon vs Rasta Main",
