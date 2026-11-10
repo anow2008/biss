@@ -1,5 +1,119 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10811 H 7200",
+        "id": "BUL007 H Holon vs Rasta Main",
+        "key": "1A 6F 20 A9 26 F1 C6 DD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10827 H 9700",
+        "id": "CHL-SWE-VLH-FHC",
+        "key": "D1 11 0E F0 84 FF BD 40"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10834 V 9700",
+        "id": "CHL-SWE-RBK-SKE",
+        "key": "D1 11 0E F0 84 FF FA 7D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10846 V 9700",
+        "id": "CHL-FIN-KOO-BER",
+        "key": "D1 11 0E F0 84 FF DD 60"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11058 H 7200",
+        "id": "EuCup BALKAN vs.PAOK Back",
+        "key": "11 C1 13 E5 CB 9D 04 6C"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11063 V 9875",
+        "id": "SWE-043 - UWCL M01 M",
+        "key": "AA C2 DD 49 98 42 26 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11075 V 9875",
+        "id": "e413 via 1",
+        "key": "A0 14 58 0C 52 63 7F 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11087 V 9875",
+        "id": "ITA548 UWCL M3 Main",
+        "key": "53 20 A7 1A 3E 4A 99 21"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11188 V 9875",
+        "id": "ITA198 UWCL M04 Feed A Main",
+        "key": "82 D9 85 E0 73 28 7B 16"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11200 V 9875",
+        "id": "F563/FLY4/Encoder 4.3A/FEED1",
+        "key": "DC 3A A9 BF 52 65 DC 93"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11623 V 9600",
+        "id": "G22 BU FIM JEREZ",
+        "key": "12 C7 15 EE 36 54 31 BB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11695 H 7200",
+        "id": "ENC 1",
+        "key": "7A 3F C2 7B D8 91 BE 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12583 V 7200",
+        "id": "CLVM10 HAR - FIN",
+        "key": "D1 11 0E F0 02 FF DF E0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12597 V 9700",
+        "id": "CHL-SUI-HCD-PLZ",
+        "key": "D1 11 0E F0 84 FF AC 2F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12609 V 9700",
+        "id": "CHL-GER-MAN-TAP",
+        "key": "D1 11 0E F0 84 FF CB 4E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "B 191 DGI",
+        "key": "10 11 20 41 26 AB CD 9E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12698 H 7200",
+        "id": "ENC 2",
+        "key": "F1 4C 88 C5 B2 A7 D9 32"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12707 H 7200",
+        "id": "ENC 3",
+        "key": "3E 71 D4 83 AF 60 C8 D7"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11103 H 7200",
+        "id": "SNG 022 MAIN",
+        "key": "AA DB 34 B9 15 FA 56 65"
+    },
+    {
         "satellite": "Eutelsat 7",
         "frequency": "11778 H 30000",
         "id": "Feed",
