@@ -1,68 +1,38 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11635 V 9600",
-        "id": "G22 MAIN FIM JEREZ",
-        "key": "21 4C 1A 87 73 C1 A7 DB"
+        "frequency": "10834 V 9700",
+        "id": "CHL-SUI-GEN-FRI",
+        "key": "FF BE D1 8E 11 1E 84 B3"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11646 H 7200",
-        "id": "London Lions vs Reyer",
-        "key": "55 BB 68 78 DE 62 CC 0C"
+        "frequency": "10846 V 9700",
+        "id": "CHL-FIN-CZE",
+        "key": "D1 11 0E F0 84 FF CE 51"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12553 H 7200",
-        "id": "F489 MAIN",
-        "key": "10 11 CB EC DA 20 26 20"
+        "frequency": "11589 H 4938",
+        "id": "Fi11_GNVE",
+        "key": "74 86 84 7E B1 7F D2 02"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 H 7200",
-        "id": "ENC 6",
-        "key": "E5 C0 73 18 AB 9F 21 6B"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "A1 52 93 86 52 81 76 49"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7200",
-        "id": "ENC 4",
-        "key": "B9 2A 17 FA FE 44 D3 15"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7200",
-        "id": "BB EC Rostock",
-        "key": "20 26 EC 32 CE 11 10 EF"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-5",
+        "key": "E3 57 95 CF 42 83 76 3B"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11103 H 7200",
-        "id": "SNG 022 MAIN",
-        "key": "AA DB 34 B9 15 FA 56 65"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "CLVM10 HAR - FIN",
-        "key": "D1 11 0E F0 02 FF DF E0"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11656 H 7200",
-        "id": "E115 G65 Via 1",
-        "key": "13 11 AA CE CC 20 23 0F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11623 V 9600",
-        "id": "G22 BU FIM JEREZ",
-        "key": "12 C7 15 EE 36 54 31 BB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10802 H 7200",
-        "id": "YSM-021",
-        "key": "FF AA 56 FF 12 EA CA C6"
+        "frequency": "10996 V 7500",
+        "id": "POL045 TVN24 LDZ",
+        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
