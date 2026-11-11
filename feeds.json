@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-55 ENC2",
+        "key": "26 11 11 48 CA E0 55 FF"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12630 H 7200",
+        "id": "YSM-021",
+        "key": "20 10 20 50 25 20 26 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12612 H 7200",
+        "id": "TORTONA_JERUSAL_MAIN",
+        "key": "11 11 20 42 26 AB CF A0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11667 H 7200",
+        "id": "BB EC Chemnitz",
+        "key": "20 26 EC 32 CE 11 11 F0"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10834 V 9700",
         "id": "CHL-SUI-GEN-FRI",
@@ -7,32 +31,62 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10846 V 9700",
-        "id": "CHL-FIN-CZE",
-        "key": "D1 11 0E F0 84 FF CE 51"
+        "frequency": "12689 H 7500",
+        "id": "UMT SP - GLOBO",
+        "key": "72 01 55 C8 11 11 26 48"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11589 H 4938",
-        "id": "Fi11_GNVE",
-        "key": "74 86 84 7E B1 7F D2 02"
+        "frequency": "12553 H 7200",
+        "id": "F615_MULTIRUGBY",
+        "key": "11 11 AC CE DB 20 26 21"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10762 H 30000",
-        "id": "ESPN EMEA Service-6",
-        "key": "A1 52 93 86 52 81 76 49"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10866 H 7200",
+        "id": "E394 MAIN",
+        "key": "B2 C6 E1 59 F8 D4 93 5F"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10762 H 30000",
-        "id": "NHL Service-5",
-        "key": "E3 57 95 CF 42 83 76 3B"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12707 H 7200",
+        "id": "ENC 3",
+        "key": "A1 7D 5C 7A 93 E8 B4 2F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11695 H 7200",
+        "id": "ENC 1",
+        "key": "2D 8E B6 71 41 CF A0 B0"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10996 V 7500",
-        "id": "POL045 TVN24 LDZ",
-        "key": "77 93 52 5C 99 08 86 27"
+        "frequency": "11180 H 7200",
+        "id": "Fi09_GNVE",
+        "key": "7E 12 09 99 4E 2D AA 25"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10973 V 9600",
+        "id": "POL-077 ENC-1",
+        "key": "AB BA 26 8B DC AE 11 9B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10820 H 7200",
+        "id": "OTE 1",
+        "key": "22 66 FF 87 CC A6 5C CE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10811 H 7200",
+        "id": "LTU-005 main",
+        "key": "01 11 00 12 AA 20 26 F0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10829 H 7120",
+        "id": "NLGM HOL312-1",
+        "key": "7E 5C AA 84 05 26 71 9C"
     }
 ]
