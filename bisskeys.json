@@ -1,8 +1,68 @@
 [
   {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "11778 H 30000",
+    "id": "NHL Service-1",
+    "key": "CA 11 FE D9 0B 0B 1A 30"
+  },
+  {
     "satellite": "Unknown",
     "frequency": "11778 H 30000",
     "id": "N/A",
     "key": "CA 11 FE D9 0B 0B 1A 30"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "10762 H 30000",
+    "id": "NHL Service-1",
+    "key": "E3 57 95 CF 42 83 76 3B"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10834 V 9700",
+    "id": "CHL-SUI-GEN-FRI",
+    "key": "FF BE D1 8E 11 1E 84 B3"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "10846 V 9700",
+    "id": "CHL-FIN-CZE",
+    "key": "D1 11 0E F0 84 FF CE 51"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11040 H 4938",
+    "id": "EBU 1 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11046 H 4938",
+    "id": "EBU 2 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11052 H 4938",
+    "id": "EBU 3 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11068 H 7200",
+    "id": "IMG 2 EU",
+    "key": "4C 8A 1F F5 6D 3B 97 3F"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11589 H 4938",
+    "id": "Fi11_GNVE",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11647 H 7200",
+    "id": "egy-013",
+    "key": "7E 12 09 99 4E 2D AA 25"
   }
 ]
