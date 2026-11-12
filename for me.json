@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7",
+        "frequency": "11778 H 30000",
+        "id": "Feed",
+        "key": "CA 11 FE D9 0B 0C 1A 31"
+    }
+]
