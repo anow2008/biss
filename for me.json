@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10839 V 7200",
+        "id": "GCUK ENC 05",
+        "key": "E7 2F FD 13 AD 11 12 D0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11690 H 15000",
+        "id": "VISTA -Latin Grammy's TEST",
+        "key": "30 52 98 1A 07 28 AB DA"
+    },
+    {
         "satellite": "Eutelsat 7",
         "frequency": "11778 H 30000",
         "id": "Feed",
