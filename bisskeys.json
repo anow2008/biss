@@ -3,13 +3,13 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11778 H 30000",
     "id": "NHL Service-1",
-    "key": "CA 11 FE D9 0B 0D 1A 32"
+    "key": "CA 11 FE D9 0B 0E 1A 33"
   },
   {
     "satellite": "Unknown",
     "frequency": "11778 H 30000",
     "id": "N/A",
-    "key": "CA 11 FE D9 0B 0D 1A 32"
+    "key": "CA 11 FE D9 0B 0E 1A 33"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -19,15 +19,9 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11247 H 7200",
-    "id": "CRO013",
-    "key": "20 26 FE 44 ED 20 26 33"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11301 H 7200",
-    "id": "U21 LÃ¤nderspiel",
-    "key": "13 11 DE 02 AB 05 87 37"
+    "frequency": "10754 H 7120",
+    "id": "Pitch NC- France v South Africa World Feed TX2 BU",
+    "key": "9C 29 AD 72 26 24 42 8C"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -54,111 +48,9 @@
     "key": "12 3C AA F8 14 22 A3 D9"
   },
   {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11066 V 14400",
-    "id": "ROU-015 - 1 - UNLM1",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11082 H 7200",
-    "id": "F615_MULTIRUGBY",
-    "key": "13 11 DA FE BC 20 26 02"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11084 V 14400",
-    "id": "YSM-009 NTF M 04  BACKUP",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11191 V 14400",
-    "id": "UKI-1462-UNLM5-MAIN",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11209 V 14400",
-    "id": "SLQ-008 M6 M",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11595 H 14400",
-    "id": "HOL-110-1-UNLM 7",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11613 H 14400",
-    "id": "E380 - 1 - UNLM8",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11614 V 14400",
-    "id": "SUI76 -1UNLM9",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11632 V 14400",
-    "id": "UNL M10 Bul-Icel MAIN",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11633 H 14400",
-    "id": "HOL318 UNL M3 VBR Main",
-    "key": "E0 6C FC 48 0D FD 54 5E"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11651 H 14400",
-    "id": "8GVs1 CAF QL82",
-    "key": "2A 33 95 F2 D2 07 D3 AC"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12698 H 7200",
-    "id": "UFC 334: International Test",
-    "key": "55 7A 5A 29 21 46 42 A9"
-  },
-  {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11013 V 4600",
     "id": "AP LDN UPA",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11128 H 9875",
-    "id": "uki1983 1 UNLM2",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11140 H 9875",
-    "id": "2Sat HOL307 M03 MAIN",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11152 H 9875",
-    "id": "ITA 415 NTF M 04 Main",
-    "key": "13 C1 9B 6F AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11163 H 7200",
-    "id": "LEUK_Fi02",
-    "key": "2A 33 95 F2 D2 07 D3 AC"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11182 H 19200",
-    "id": "Vm6GVs1 CAF QL62",
     "key": "2A 33 95 F2 D2 07 D3 AC"
   },
   {
@@ -166,11 +58,5 @@
     "frequency": "12518 H 19200",
     "id": "VM5GVs1 CAF 01",
     "key": "2A 33 95 F2 D2 07 D3 AC"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12536 H 9875",
-    "id": "SLQ-010-1-UNLM05",
-    "key": "13 C1 9B 6F AB 9A 11 56"
   }
 ]
