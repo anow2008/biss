@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 V 7200",
+        "id": "GCUK ENC 05",
+        "key": "E7 2F FD 13 AD 11 12 D0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10811 H 7200",
+        "id": "GCUK ENC 01",
+        "key": "E0 1F FE FD FD 11 12 20"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12689 H 7200",
         "id": "ENC 4",
         "key": "64 F2 DA 30 1C 37 BE 11"
