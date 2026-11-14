@@ -1,56 +1,62 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11609 H 7200",
-        "id": "ITA 560 155D9 MAIN",
-        "key": "47 53 62 FC D9 1C A4 99"
+        "frequency": "10811 H 7200",
+        "id": "GCUK ENC 01",
+        "key": "FF FB D1 CB 11 4E 01 60"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12684 H 14240",
-        "id": "Pitch NC- England v Japan World Main",
-        "key": "DD 89 AA 10 FD 14 11 22"
+        "frequency": "11071 V 7200",
+        "id": "Fi09_GNVE",
+        "key": "BD FA 53 0A F8 AD F4 99"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10971 V 4800",
-        "id": "TVP POL-32  ENC 1",
-        "key": "AB BA 26 8B DC AE 11 9B"
+        "frequency": "12639 H 7200",
+        "id": "Medialink CRO-023/1",
+        "key": "20 26 AB F1 CD 20 27 14"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12519 H 7200",
+        "id": "BT_SES_6_SDI",
+        "key": "B4 54 BC C4 A1 1C 23 E0"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12544 H 7200",
-        "id": "EHF-CLW-GYO-BLO",
-        "key": "35 61 AC 42 CE F2 22 E2"
+        "frequency": "12707 H 7200",
+        "id": "D233",
+        "key": "20 26 14 5A 11 02 33 46"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10820 H 7200",
-        "id": "EHF-CLW-POD-GLO",
-        "key": "39 6D 1C C2 11 38 2D 76"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11609 V 7200",
-        "id": "POR 21",
-        "key": "A2 57 D9 D2 94 3E 89 5B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11628 V 7200",
-        "id": "LEUK_Fi08",
+        "frequency": "11646 H 7200",
+        "id": "LEUK_Fi02",
         "key": "46 4B B0 41 82 5E 84 64"
     },
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 H 7500",
+        "id": "UMT SP - GLOBO",
+        "key": "72 01 55 C8 11 11 26 48"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12539 H 4938",
-        "id": "MTVA SNG HUNGARY",
-        "key": "52 55 7C 23 66 D7 30 6D"
+        "frequency": "12657 H 7200",
+        "id": "ENFUSION",
+        "key": "B7 F4 E2 8D A9 C6 31 A0"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11209 V 14400",
-        "id": "AUT34M06 M",
-        "key": "14 C1 9B 70 AB 9A 11 56"
+        "frequency": "10867 H 7200",
+        "id": "E394 MAIN",
+        "key": "A8 F3 D6 71 B2 E9 51 EC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11617 H 7200",
+        "id": "F-509-C monpt fleMAIN",
+        "key": "AB CD 12 8A 34 EF FF 22"
     }
 ]
