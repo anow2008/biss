@@ -1,5 +1,167 @@
 [
     {
+        "satellite": "Eutelsat 7A/7B/7C",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-1",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11247 H 7200",
+        "id": "Bundle to Europe 9MHz",
+        "key": "20 26 FE 44 ED 20 26 33"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11258 V 7120",
+        "id": "Pitch NC- England v Japan BU",
+        "key": "DD 89 AA 10 FD 14 11 22"
+    },
+    {
+        "satellite": "Eutelsat 10A",
+        "frequency": "11267 V 7120",
+        "id": "Pitch NC- Wal;es v New Zealand World BU",
+        "key": "EE E3 AB 7C D2 14 11 F7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "10857 H 7500",
+        "id": "ZUFFA",
+        "key": "31 0A 46 81 3B 38 9C 0F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11066 V 14400",
+        "id": "BUL007 UNL M1  Main",
+        "key": "14 C1 9B 70 AB 9A 11 56"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11067 H 7200",
+        "id": "IMG 2 EU",
+        "key": "4C 8A 1F F5 6D 3B 97 3F"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11084 V 14400",
+        "id": "E360 M3 MAIN",
+        "key": "14 C1 9B 70 AB 9A 11 56"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11190 V 14400",
+        "id": "IRL015 M5EUR MAIN",
+        "key": "14 C1 9B 70 AB 9A 11 56"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11209 V 14400",
+        "id": "AUT34M06 M",
+        "key": "14 C1 9B 70 AB 9A 11 56"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11595 H 14400",
+        "id": "ROU-038 - 1 - UNLM8",
+        "key": "14 C1 9B 70 AB 9A 11 56"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11609 H 7200",
+        "id": "ITA 560 155D9 MAIN",
+        "key": "47 53 62 FC D9 1C A4 99"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11609 V 7200",
+        "id": "POR 21",
+        "key": "A2 57 D9 D2 94 3E 89 5B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11628 V 7200",
+        "id": "LEUK_Fi08",
+        "key": "46 4B B0 41 82 5E 84 64"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11665 H 5000",
+        "id": "EHF-ELM-PRE-SAV",
+        "key": "13 57 AB 15 CD 24 68 59"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12553 H 7200",
+        "id": "EHF-CLW-SHE-NYK",
+        "key": "51 6D AC 6A 9D F4 1C AD"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12684 H 14240",
+        "id": "Pitch NC- England v Japan World Main",
+        "key": "DD 89 AA 10 FD 14 11 22"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12702 H 14240",
+        "id": "Pitch NC- Wales v New Zealand World",
+        "key": "EE E3 AB 7C D2 14 11 F7"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11128 H 9875",
+        "id": "NOR-044 - M2 - B - MAIN",
+        "key": "14 C1 9B 70 AB 9A 11 56"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11140 H 9875",
+        "id": "E 228 MAIN",
+        "key": "14 C1 9B 70 AB 9A 11 56"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "11152 H 9875",
+        "id": "SWE-043 - 7 - UNLM1",
+        "key": "14 C1 9B 70 AB 9A 11 56"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12533 H 4938",
+        "id": "HUN-013 Line 1",
+        "key": "52 55 7C 23 66 D7 30 6D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12539 H 4938",
+        "id": "MTVA SNG HUNGARY",
+        "key": "52 55 7C 23 66 D7 30 6D"
+    },
+    {
+        "satellite": "Eutelsat 16A",
+        "frequency": "12607 H 30000",
+        "id": "WWE CAM 1",
+        "key": "60 A1 89 8A 4F 81 94 64"
+    },
+    {
         "satellite": "Eutelsat 7",
         "frequency": "11778 H 30000",
         "id": "Feed",
