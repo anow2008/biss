@@ -19,27 +19,15 @@
   },
   {
     "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11258 V 7120",
-    "id": "Pitch NC- England v Japan BU",
-    "key": "DD 89 AA 10 FD 14 11 22"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
     "frequency": "11267 V 7120",
-    "id": "Pitch NC- Wal;es v New Zealand World BU",
-    "key": "EE E3 AB 7C D2 14 11 F7"
+    "id": "Pitch NC-  Ireland v Fiji world BU",
+    "key": "88 CB DD 30 AA 14 11 CF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10802 H 7200",
-    "id": "GCUK ENC 07",
-    "key": "31 0A 46 81 3B 38 9C 0F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10857 H 7500",
-    "id": "ZUFFA",
-    "key": "31 0A 46 81 3B 38 9C 0F"
+    "frequency": "10811 H 7200",
+    "id": "GCUK ENC 01",
+    "key": "FF FB D1 CB 11 4E 01 60"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -61,21 +49,15 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11066 V 14400",
-    "id": "BUL007 UNL M1  Main",
-    "key": "14 C1 9B 70 AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11067 H 7200",
+    "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "4C 8A 1F F5 6D 3B 97 3F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11084 V 14400",
-    "id": "E360 M3 MAIN",
-    "key": "14 C1 9B 70 AB 9A 11 56"
+    "frequency": "11071 V 7200",
+    "id": "Fi09_GNVE",
+    "key": "BD FA 53 0A F8 AD F4 99"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -97,50 +79,38 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 H 7200",
-    "id": "ITA 560 155D9 MAIN",
-    "key": "47 53 62 FC D9 1C A4 99"
+    "frequency": "11614 V 14240",
+    "id": "Pitch NC- Ireland v Fiji world",
+    "key": "88 CB DD 30 AA 14 11 CF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11609 V 7200",
-    "id": "POR 21",
-    "key": "A2 57 D9 D2 94 3E 89 5B"
+    "frequency": "11628 H 7200",
+    "id": "F-510 APL Martigues",
+    "key": "AB CD 12 8A 34 EF FF 22"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11628 V 7200",
-    "id": "LEUK_Fi08",
+    "frequency": "11637 V 7200",
+    "id": "LEUK_Fi06",
     "key": "46 4B B0 41 82 5E 84 64"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "id": "EHF-CLW-SHE-NYK",
-    "key": "51 6D AC 6A 9D F4 1C AD"
+    "frequency": "11646 H 7200",
+    "id": "LEUK_Fi02",
+    "key": "46 4B B0 41 82 5E 84 64"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12684 H 14240",
-    "id": "Pitch NC- England v Japan World Main",
-    "key": "DD 89 AA 10 FD 14 11 22"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12702 H 14240",
-    "id": "Pitch NC- Wales v New Zealand World",
-    "key": "EE E3 AB 7C D2 14 11 F7"
+    "frequency": "12707 H 7200",
+    "id": "D233",
+    "key": "20 26 14 5A 11 02 33 46"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11019 V 4600",
-    "id": "AP LDN UPB",
-    "key": "14 C1 9B 70 AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11128 H 9875",
-    "id": "NOR-044 - M2 - B - MAIN",
+    "frequency": "11025 V 4600",
+    "id": "NIM PAR ENC 2",
     "key": "14 C1 9B 70 AB 9A 11 56"
   },
   {
@@ -157,20 +127,14 @@
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12533 H 4938",
-    "id": "HUN-013 Line 1",
-    "key": "52 55 7C 23 66 D7 30 6D"
+    "frequency": "12519 H 7200",
+    "id": "BT_SES_6_SDI",
+    "key": "B4 54 BC C4 A1 1C 23 E0"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12539 H 4938",
-    "id": "MTVA SNG HUNGARY",
-    "key": "52 55 7C 23 66 D7 30 6D"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12607 H 30000",
-    "id": "WWE CAM 1",
-    "key": "60 A1 89 8A 4F 81 94 64"
+    "frequency": "12657 H 7200",
+    "id": "ENFUSION",
+    "key": "B7 F4 E2 8D A9 C6 31 A0"
   }
 ]
