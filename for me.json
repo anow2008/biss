@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat 7",
+        "frequency": "11778 H 30000",
+        "id": "Feed",
+        "key": "CA 11 FE D9 0B 0F 1A 34"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "11062 V 7200",
+        "id": "WSHT ENC 53",
+        "key": "55 7A 5A 29 21 46 42 A9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12679 H 7200",
+        "id": "ENC 6",
+        "key": "55 7A 5A 29 21 46 42 A9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G",
+        "frequency": "12689 H 7200",
+        "id": "FEI NAL: CAN - NAL QUALIFIER - Leg 4",
+        "key": "84 D1 65 BA A4 81 CC F1"
+    },
+    {
         "satellite": "Eutelsat 10A",
         "frequency": "11267 V 7120",
         "id": "Pitch NC-  Ireland v Fiji world BU",
