@@ -1,80 +1,8 @@
 [
   {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "11778 H 30000",
-    "id": "NHL Service-1",
-    "key": "CA 11 FE D9 0B 0F 1A 34"
-  },
-  {
     "satellite": "Unknown",
     "frequency": "11778 H 30000",
     "id": "N/A",
     "key": "CA 11 FE D9 0B 0F 1A 34"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "10762 H 30000",
-    "id": "NHL Service-1",
-    "key": "E3 57 95 CF 42 83 76 3B"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "10811 H 7200",
-    "id": "GCUK ENC 01",
-    "key": "FF FB D1 CB 11 4E 01 60"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11039 H 4938",
-    "id": "EBU 1 ENC",
-    "key": "74 86 84 7E B1 7F D2 02"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11045 H 4938",
-    "id": "EBU 2 ENC",
-    "key": "74 86 84 7E B1 7F D2 02"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11051 H 4938",
-    "id": "EBU 3 ENC",
-    "key": "74 86 84 7E B1 7F D2 02"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11062 V 7200",
-    "id": "WSHT ENC 53",
-    "key": "55 7A 5A 29 21 46 42 A9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11068 H 7200",
-    "id": "IMG 2 EU",
-    "key": "4C 8A 1F F5 6D 3B 97 3F"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12679 H 7200",
-    "id": "ENC 6",
-    "key": "55 7A 5A 29 21 46 42 A9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12689 H 7200",
-    "id": "FEI NAL: CAN - NAL QUALIFIER - Leg 4",
-    "key": "84 D1 65 BA A4 81 CC F1"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11025 V 4600",
-    "id": "NIM PAR ENC 2",
-    "key": "B4 54 BC C4 A1 1C 23 E0"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12519 H 7200",
-    "id": "BT_SES_6_SDI",
-    "key": "B4 54 BC C4 A1 1C 23 E0"
   }
 ]
