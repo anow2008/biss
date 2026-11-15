@@ -1,6 +1,18 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "FEI NAL CAN - NAL QUALIFIER - Leg 4",
+        "key": "84 D1 65 BA A4 81 CC F1"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12679 H 7200",
+        "id": "ENC 6",
+        "key": "55 7A 5A 29 21 46 42 A9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10811 H 7200",
         "id": "GCUK ENC 01",
         "key": "FF FB D1 CB 11 4E 01 60"
@@ -46,17 +58,5 @@
         "frequency": "12657 H 7200",
         "id": "ENFUSION",
         "key": "B7 F4 E2 8D A9 C6 31 A0"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10867 H 7200",
-        "id": "E394 MAIN",
-        "key": "A8 F3 D6 71 B2 E9 51 EC"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11617 H 7200",
-        "id": "F-509-C monpt fleMAIN",
-        "key": "AB CD 12 8A 34 EF FF 22"
     }
 ]
