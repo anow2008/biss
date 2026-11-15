@@ -3,25 +3,19 @@
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "11778 H 30000",
     "id": "NHL Service-1",
-    "key": "CA 11 FE D9 0B 0E 1A 33"
+    "key": "CA 11 FE D9 0B 0F 1A 34"
   },
   {
     "satellite": "Unknown",
     "frequency": "11778 H 30000",
     "id": "N/A",
-    "key": "CA 11 FE D9 0B 0E 1A 33"
+    "key": "CA 11 FE D9 0B 0F 1A 34"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "10762 H 30000",
     "id": "NHL Service-1",
     "key": "E3 57 95 CF 42 83 76 3B"
-  },
-  {
-    "satellite": "Eutelsat 10A @ 10.0°E",
-    "frequency": "11267 V 7120",
-    "id": "Pitch NC-  Ireland v Fiji world BU",
-    "key": "88 CB DD 30 AA 14 11 CF"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -49,92 +43,38 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11062 V 7200",
+    "id": "WSHT ENC 53",
+    "key": "55 7A 5A 29 21 46 42 A9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11068 H 7200",
     "id": "IMG 2 EU",
     "key": "4C 8A 1F F5 6D 3B 97 3F"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11071 V 7200",
-    "id": "Fi09_GNVE",
-    "key": "BD FA 53 0A F8 AD F4 99"
+    "frequency": "12679 H 7200",
+    "id": "ENC 6",
+    "key": "55 7A 5A 29 21 46 42 A9"
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11190 V 14400",
-    "id": "IRL015 M5EUR MAIN",
-    "key": "14 C1 9B 70 AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11209 V 14400",
-    "id": "AUT34M06 M",
-    "key": "14 C1 9B 70 AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11595 H 14400",
-    "id": "ROU-038 - 1 - UNLM8",
-    "key": "14 C1 9B 70 AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11614 V 14240",
-    "id": "Pitch NC- Ireland v Fiji world",
-    "key": "88 CB DD 30 AA 14 11 CF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11628 H 7200",
-    "id": "F-510 APL Martigues",
-    "key": "AB CD 12 8A 34 EF FF 22"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11637 V 7200",
-    "id": "LEUK_Fi06",
-    "key": "46 4B B0 41 82 5E 84 64"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "11646 H 7200",
-    "id": "LEUK_Fi02",
-    "key": "46 4B B0 41 82 5E 84 64"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12707 H 7200",
-    "id": "D233",
-    "key": "20 26 14 5A 11 02 33 46"
+    "frequency": "12689 H 7200",
+    "id": "FEI NAL: CAN - NAL QUALIFIER - Leg 4",
+    "key": "84 D1 65 BA A4 81 CC F1"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "11025 V 4600",
     "id": "NIM PAR ENC 2",
-    "key": "14 C1 9B 70 AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11140 H 9875",
-    "id": "E 228 MAIN",
-    "key": "14 C1 9B 70 AB 9A 11 56"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "11152 H 9875",
-    "id": "SWE-043 - 7 - UNLM1",
-    "key": "14 C1 9B 70 AB 9A 11 56"
+    "key": "B4 54 BC C4 A1 1C 23 E0"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
     "frequency": "12519 H 7200",
     "id": "BT_SES_6_SDI",
     "key": "B4 54 BC C4 A1 1C 23 E0"
-  },
-  {
-    "satellite": "Eutelsat 16A @ 16.0°E",
-    "frequency": "12657 H 7200",
-    "id": "ENFUSION",
-    "key": "B7 F4 E2 8D A9 C6 31 A0"
   }
 ]
