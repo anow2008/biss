@@ -1,50 +1,26 @@
 [
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10970 V 4800",
-        "id": "POL-110",
-        "key": "AB BA 26 8B DC AE 11 9B"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11667 H 7200",
+        "id": "MRC004-MAIN",
+        "key": "DE BA E8 80 55 B1 F4 FA"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11183 H 19200",
-        "id": "VM5GVs3 CAF QL90",
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11651 H 14400",
+        "id": "Vm6GVs2 CAF QL96",
         "key": "54 F0 C2 06 2C 35 AC 0D"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11613 H 14400",
-        "id": "E380 - 1 - UNLM8",
-        "key": "16 C1 9B 72 AB 9A 11 56"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11255 V 2400",
+        "id": "F419_MAIN",
+        "key": "20 26 FE 44 ED 17 19 1D"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10762 H 30000",
-        "id": "ESPN EMEA Service-6",
-        "key": "A1 52 93 86 52 81 76 49"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10762 H 30000",
-        "id": "NHL Service-5",
-        "key": "E3 57 95 CF 42 83 76 3B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11068 H 7200",
-        "id": "IMG 2 EU",
-        "key": "4C 8A 1F F5 6D 3B 97 3F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11059 H 7200",
-        "id": "IMG 1 EU",
-        "key": "78 EC 18 7C 23 CE FA EB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11052 H 4938",
-        "id": "EBU 3 ENC",
-        "key": "74 86 84 7E B1 7F D2 02"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10971 V 4800",
+        "id": "POL 076",
+        "key": "AB BA 26 8B DC AE 11 9B"
     }
 ]
