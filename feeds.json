@@ -2,97 +2,91 @@
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12526 H 7200",
-        "id": "F489 MAIN",
-        "key": "18 11 DA 03 BC 20 26 02"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12657 H 7200",
-        "id": "TRENTO_NEPTUNAS_MAIN",
-        "key": "17 11 20 48 26 AB FE CF"
+        "id": "EHF-CLM-MTM-PSG",
+        "key": "82 5A AD 89 19 D7 98 88"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "ENC 4",
-        "key": "7D 4C 13 DC AF E8 62 F9"
+        "frequency": "10848 V 7200",
+        "id": "Ehf clm spo dib",
+        "key": "8F A5 F6 2A 5E C1 E1 00"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11609 V 7200",
+        "id": "MACCABI RAPYD TEL vs DUBAI BASKETBALL_MAIN",
+        "key": "DF 4F 08 36 63 69 C6 92"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12698 H 7200",
+        "id": "ENC 4",
+        "key": "F3 1D 7B 8B 68 C9 25 56"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "ENC 3",
+        "key": "58 FE B2 08 14 9A C7 75"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12679 H 7200",
         "id": "ENC 5",
-        "key": "B9 51 6E 78 2D 4C 8A 03"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12639 H 7200",
-        "id": "BIH007 M",
-        "key": "20 10 20 50 25 20 26 6B"
+        "key": "D6 A9 37 B6 CE 81 F4 43"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11677 H 7200",
-        "id": "BB SKYLINE FRANKFURT",
-        "key": "20 26 EC 32 CE 11 18 F7"
+        "frequency": "11695 H 7200",
+        "id": "ENC 2",
+        "key": "2C B8 F1 D5 45 AE 73 66"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11125 H 4938",
-        "id": "MNE-001 main",
-        "key": "89 C6 6A B9 F9 F4 03 F0"
+        "frequency": "12648 H 7200",
+        "id": "CEV-KAP-MLA",
+        "key": "22 F6 1A 32 C7 EB 19 CB"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11213 V 7200",
-        "id": "E115 G65 Via 1",
-        "key": "13 11 AA CE CC 20 23 0F"
+        "frequency": "11609 V 7200",
+        "id": "MACCABI RAPYD TEL vs DUBAI BASKETBALL_MAIN",
+        "key": "4F 5B C1 6B 2A D0 B3 AD"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10839 V 7200",
-        "id": "EHF-CLM-PLO-VESZ",
-        "key": "21 FE E2 01 F8 1B E5 F8"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7200",
-        "id": "BB EuroCup Chemnitz",
-        "key": "EC CE 11 CB 18 EC CE D2"
+        "id": "EHF-CLM-GOG-MAG",
+        "key": "75 A1 C2 D8 9C 81 74 91"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10819 H 7200",
-        "id": "CRO-014",
-        "key": "20 26 FF 45 56 A1 2A 21"
+        "id": "EHF-CLM-KCE-BAR",
+        "key": "33 5C B1 40 7A 7D 1E 15"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11191 H 4938",
-        "id": "MTVA SNG HUNGARY",
-        "key": "52 B5 7C 83 66 C7 39 66"
+        "frequency": "12657 H 7200",
+        "id": "POWER SLAP B P",
+        "key": "64 C2 D1 F7 35 4B 26 A6"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10732 V 9600",
-        "id": "FEED 1 DAZN",
-        "key": "A1 9B 11 4D C2 6D 26 55"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10810 H 7200",
-        "id": "SNG MEDYA /MAIN",
-        "key": "E5 61 C5 0B 6C FF 56 C1"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11005 V 7500",
+        "id": "POL022 E2 SAT",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12585 V 9700",
-        "id": "CHL-GER-BER-KOO",
-        "key": "E8 4F FB 32 CD 11 18 F6"
+        "frequency": "10830 V 7200",
+        "id": "POL-100 MAIN",
+        "key": "D1 11 9E 80 01 FF 43 43"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12597 V 9700",
-        "id": "CHL-SUI-FRI-GEN",
-        "key": "E8 4F FF 36 BD 11 18 E6"
+        "frequency": "12602 V 7200",
+        "id": "ENC-2 supertennis main",
+        "key": "12 34 56 9C 78 91 23 2C"
     }
 ]
