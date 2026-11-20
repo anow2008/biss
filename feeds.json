@@ -1,98 +1,44 @@
 [
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11301 H 9600",
-        "id": "SUI 067 MAIN",
-        "key": "B8 0D 7C 41 8E F9 5E E5"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL039 TVN24 KRK",
+        "key": "77 93 52 5C 99 08 86 27"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10977 V 4800",
-        "id": "POL-25 ENC1",
+        "frequency": "10964 V 4800",
+        "id": "POL-52 CM-5000",
         "key": "AB BA 26 8B DC AE 11 9B"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12526 H 7200",
-        "id": "EHF-CLM-MTM-PSG",
-        "key": "82 5A AD 89 19 D7 98 88"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "Ehf clm spo dib",
-        "key": "8F A5 F6 2A 5E C1 E1 00"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11609 V 7200",
-        "id": "MACCABI RAPYD TEL vs DUBAI BASKETBALL_MAIN",
-        "key": "DF 4F 08 36 63 69 C6 92"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11211 V 9875",
-        "id": "E379 Feed 2",
-        "key": "CC D6 44 E6 E5 FD B0 92"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12698 H 7200",
-        "id": "ENC 4",
-        "key": "F3 1D 7B 8B 68 C9 25 56"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "ENC 3",
-        "key": "58 FE B2 08 14 9A C7 75"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12680 H 7200",
-        "id": "ENC 5",
-        "key": "D6 A9 37 B6 CE 81 F4 43"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11694 H 7200",
-        "id": "ENC 2",
-        "key": "2C B8 F1 D5 45 AE 73 66"
-    },
-    {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12648 H 7200",
-        "id": "CEV-KAP-MLA",
-        "key": "22 F6 1A 32 C7 EB 19 CB"
+        "frequency": "12644 H 30000",
+        "id": "UFC PATH D P",
+        "key": "99 CA 34 97 DB 67 24 66"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11609 V 7200",
-        "id": "MACCABI RAPYD TEL vs DUBAI BASKETBALL_MAIN",
-        "key": "4F 5B C1 6B 2A D0 B3 AD"
+        "frequency": "11635 V 9875",
+        "id": "NOR-035 MAIN",
+        "key": "41 15 C6 1C CD 8B 82 DA"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "EHF-CLM-GOG-MAG",
-        "key": "75 A1 C2 D8 9C 81 74 91"
+        "frequency": "11638 H 7120",
+        "id": "ONE Friday Night",
+        "key": "A3 6B A2 B0 29 BD 10 F6"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10819 H 7200",
-        "id": "EHF-CLM-KCE-BAR",
-        "key": "33 5C B1 40 7A 7D 1E 15"
+        "frequency": "10829 V 7200",
+        "id": "POL-100 MAIN",
+        "key": "FF 43 D1 13 12 0E 01 21"
     },
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12657 H 7200",
-        "id": "POWER SLAP B P",
-        "key": "64 C2 D1 F7 35 4B 26 A6"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL022 E2 SAT",
-        "key": "77 93 52 5C 99 08 86 27"
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10732 V 9600",
+        "id": "FEED 1 DAZN ITALY",
+        "key": "A1 9B 11 4D C2 6D 26 55"
     }
 ]
