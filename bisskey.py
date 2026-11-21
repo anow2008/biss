@@ -7,10 +7,10 @@ from bs4 import BeautifulSoup
 URL = "https://live-feed.net/"
 OUT_FILE = "bisskeys.json"
 
-FREQ_RE = re.compile(r'(\d{5})\s*([VHLR])\s*(\d{4,5})')
-ID_RE = re.compile(r'🆔\s*([^\n\r]+)')
-KEY_RE = re.compile(r'(?:🔑|CW:?)[ \t]*((?:[0-9A-Fa-f]{2}[ \t]*){8,16})')
-SAT_RE = re.compile(r'📡\s*([^\n\r]+)')
+EMOJI_RE = re.compile(r'[\U0001F000-\U0001FAFF\u2600-\u27BF\uFE0F]')
+FREQ_LINE = re.compile(r'^(\d{5})\s*([VHLR])\s*(\d{4,5})$')
+KEY_LINE = re.compile(r'^(?:CW:?\s*)?((?:[0-9A-Fa-f]{2}\s+){7,15}[0-9A-Fa-f]{2})$')
+SAT_LINE = re.compile(r'@\s*[\d.]+\s*°?\s*[EW]', re.IGNORECASE)
 
 
 def format_key(raw_key):
@@ -19,23 +19,33 @@ def format_key(raw_key):
 
 
 def parse_text(text):
-    """يقسم نص الصفحة لبلوكات (كل بلوك يبدأ بسطر 📡) ويستخرج منها الفيدات اللي فيها KEY."""
+    """
+    يشتغل على ترتيب الأسطر (من غير الاعتماد على الإيموجي):
+    كل سطر شفرة (8 بايت hex) -> نرجع لورا نلاقي: ID (السطر اللي قبله)، التردد، القمر.
+    """
+    lines = [EMOJI_RE.sub('', l).strip() for l in text.splitlines()]
+    lines = [l for l in lines if l]
     items = []
-    blocks = re.split(r'(?=📡)', text)
-    for block in blocks:
-        if "📡" not in block:
+    for i, line in enumerate(lines):
+        m = KEY_LINE.match(line)
+        if not m:
             continue
-        sat = SAT_RE.search(block)
-        freq = FREQ_RE.search(block)
-        key = KEY_RE.search(block)
-        if not (sat and freq and key):
-            continue  # مفيش شفرة (Clear / مش لاقيها) -> نتجاهله
-        ch_id = ID_RE.search(block)
+        ch_id = lines[i - 1] if i > 0 else "N/A"
+        freq = sat = None
+        for j in range(i - 1, max(i - 15, -1), -1):
+            if freq is None and FREQ_LINE.match(lines[j]):
+                f = FREQ_LINE.match(lines[j])
+                freq = f"{f.group(1)} {f.group(2)} {f.group(3)}"
+            elif freq is not None and SAT_LINE.search(lines[j]):
+                sat = lines[j]
+                break
+        if not freq:
+            continue
         items.append({
-            "satellite": sat.group(1).strip(),
-            "frequency": f"{freq.group(1)} {freq.group(2)} {freq.group(3)}",
-            "id": ch_id.group(1).strip() if ch_id else "N/A",
-            "key": format_key(key.group(1)),
+            "satellite": sat or "Unknown",
+            "frequency": freq,
+            "id": ch_id,
+            "key": format_key(m.group(1)),
         })
     return items
 
@@ -55,7 +65,10 @@ def scrape_static():
         raise RuntimeError(f"فشل الوصول للموقع: {r.status_code}")
     soup = BeautifulSoup(r.text, 'html.parser')
     # get_text بتجيب كمان النص المخفي (التابات 2-3-4 لو موجودة في الـ HTML)
-    return parse_text(soup.get_text(separator="\n"))
+    text = soup.get_text(separator="\n")
+    with open("debug_page.txt", "w", encoding="utf-8") as f:
+        f.write(text)
+    return parse_text(text)
 
 
 # ---------- الوضع 2: بمتصفح حقيقي (بيدوس على أزرار 1 2 3 4) ----------
@@ -93,6 +106,9 @@ def main():
     use_browser = "--browser" in sys.argv
     try:
         feeds = scrape_browser() if use_browser else scrape_static()
+        if not feeds and not use_browser:
+            print("الوضع العادي رجّع 0 نتيجة، بجرب وضع المتصفح...")
+            feeds = scrape_browser()
     except Exception as e:
         print(f"حدث خطأ: {e}")
         return
