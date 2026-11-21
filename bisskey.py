@@ -118,6 +118,25 @@ CARD_TEXT_JS = r"""
 }
 """
 
+MARK_NEXT_JS = r"""
+(row) => {
+  let el = row;
+  while (el && !/Mb\/s/.test(el.innerText || '')) el = el.parentElement;
+  if (!el) return 0;
+  const cls = e => (typeof e.className === 'string' ? e.className : (e.className && e.className.baseVal) || '');
+  const arrows = ['›', '>', '❯', '→', '▶', '»', '❭', '⟩'];
+  let c = [...el.querySelectorAll('button,a,div,span,i,svg')].filter(e => {
+    const attrs = cls(e) + ' ' + (e.getAttribute('aria-label') || '') + ' ' + (e.title || '');
+    return /next|right|forward|chevron-r|arrow-r/i.test(attrs) || arrows.includes((e.textContent || '').trim());
+  });
+  // نفضّل أصغر عنصر (الزر نفسه مش الحاوية)
+  c = c.filter(e => !c.some(o => o !== e && e.contains(o)));
+  if (!c.length) return 0;
+  c[0].setAttribute('data-nextbtn', row.getAttribute('data-tabrow'));
+  return c.length;
+}
+"""
+
 ROW_HTML_JS = r"""
 (row) => {
   let el = row;
@@ -175,6 +194,25 @@ def scrape_browser(debug=False):
                 except Exception as e:
                     print(f"  كارت {r} تاب {k + 1}: فشل ({str(e)[:80]})")
                 k += 1
+
+            # --- الطريقة التانية: السهم اليمين (carousel) ---
+            try:
+                found = row.evaluate(MARK_NEXT_JS)
+                nxt = page.locator(f'[data-nextbtn="{r}"]')
+                if found and nxt.count():
+                    for step in range(max(k, 4) + 1):
+                        before = len(feeds)
+                        try:
+                            nxt.first.click(timeout=2000, force=True)
+                        except Exception:
+                            break
+                        page.wait_for_timeout(500)
+                        add_unique(feeds, parse_text(row.evaluate(CARD_TEXT_JS)))
+                        print(f"  كارت {r} سهم {step + 1}: +{len(feeds) - before}")
+                else:
+                    print(f"  كارت {r}: مالقيتش سهم")
+            except Exception as e:
+                print(f"  كارت {r} سهم: فشل ({str(e)[:80]})")
         browser.close()
         if debug:
             with open("debug_requests.txt", "w", encoding="utf-8") as f:
