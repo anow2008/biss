@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10721 H 7500",
+        "id": "Signal 7",
+        "key": "66 C3 E9 12 A4 65 27 30"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11305 V 7200",
         "id": "SINTRA 1 MN",
         "key": "D5 C1 6A 00 B3 F7 5E 08"
@@ -34,17 +40,5 @@
         "frequency": "12657 H 7200",
         "id": "F576 PROD2 NEVERS MAIN",
         "key": "F6 41 42 79 91 20 F1 A2"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12639 H 7200",
-        "id": "F511 PROD2 AURILLAC MAIN",
-        "key": "F5 12 42 49 90 20 F1 A1"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12630 H 7200",
-        "id": "PGM C PRO D2 MONTAUBAN VS AGEN",
-        "key": "F5 77 42 AE 87 20 F1 98"
     }
 ]
