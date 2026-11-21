@@ -102,15 +102,17 @@ MARK_TABS_JS = r"""
     }
   });
   let r = 0, total = 0;
+  const counts = [];
   groups.forEach((btns, p) => {
     const nums = btns.map(b => parseInt(b.textContent.trim()));
     if (btns.length >= 2 && nums.includes(1) && nums.includes(2)) {
       btns.forEach((b, k) => b.setAttribute('data-tabbtn', r + '-' + k));
       p.setAttribute('data-tabrow', r);
+      counts.push(btns.length);
       r++; total += btns.length;
     }
   });
-  return [r, total];
+  return counts;
 }
 """
 
@@ -161,15 +163,24 @@ def scrape_browser(debug=False):
         page.on("response", lambda resp: requests_log.append(
             f"{resp.request.resource_type} {resp.status} {resp.url}")
             if resp.request.resource_type in ("xhr", "fetch") else None)
+        page.on("websocket", lambda ws: requests_log.append(f"websocket {ws.url}"))
         page.goto(URL, wait_until="networkidle", timeout=90000)
         page.wait_for_timeout(2500)
+
+        if debug:
+            raw = page.content()
+            with open("debug_page.html", "w", encoding="utf-8") as f:
+                f.write(raw)
+            hexkeys = set(re.findall(r'\b[0-9A-Fa-f]{16}\b', raw))
+            print(f"[debug] HTML الخام فيه {len(hexkeys)} شفرة 16-hex مختلفة")
 
         # التاب الظاهر في كل الكروت
         add_unique(feeds, parse_text(page.inner_text("body")))
         print(f"من غير ضغط: {len(feeds)} نتيجة")
 
-        rows, total = page.evaluate(MARK_TABS_JS)
-        print(f"لقيت {rows} صف تابات، وإجمالي {total} زر")
+        counts = page.evaluate(MARK_TABS_JS)
+        rows = len(counts)
+        print(f"لقيت {rows} صف تابات، أزرار كل صف: {counts}")
 
         if debug and rows:
             html = page.locator('[data-tabrow="0"]').evaluate(ROW_HTML_JS)
@@ -178,13 +189,15 @@ def scrape_browser(debug=False):
             print("اتحفظ debug_card.html")
 
         for r in range(rows):
-            row = page.locator(f'[data-tabrow="{r}"]')
-            k = 0
-            while True:
-                btn = page.locator(f'[data-tabbtn="{r}-{k}"]')
-                if btn.count() == 0:
-                    break
+            for k in range(counts[r]):
                 try:
+                    # الموقع بيعمل refresh للـ DOM، فنعيد تعليم الأزرار قبل كل ضغطة
+                    new_counts = page.evaluate(MARK_TABS_JS)
+                    if r >= len(new_counts) or k >= new_counts[r]:
+                        print(f"  كارت {r} تاب {k + 1}: الزر اختفى بعد refresh")
+                        continue
+                    row = page.locator(f'[data-tabrow="{r}"]')
+                    btn = page.locator(f'[data-tabbtn="{r}-{k}"]')
                     btn.scroll_into_view_if_needed(timeout=3000)
                     try:
                         btn.click(timeout=3000)
@@ -192,20 +205,21 @@ def scrape_browser(debug=False):
                         btn.click(timeout=3000, force=True)
                     page.wait_for_timeout(500)
                     before = len(feeds)
-                    # نقرا الكارت + الصفحة كلها (احتياطي لو الكارت اتحدد غلط)
-                    add_unique(feeds, parse_text(row.evaluate(CARD_TEXT_JS)))
+                    card_text = row.evaluate(CARD_TEXT_JS)
+                    add_unique(feeds, parse_text(card_text))
                     add_unique(feeds, parse_text(page.inner_text("body")))
                     print(f"  كارت {r} تاب {k + 1}: +{len(feeds) - before}")
                 except Exception as e:
-                    print(f"  كارت {r} تاب {k + 1}: فشل ({str(e)[:80]})")
-                k += 1
+                    print(f"  كارت {r} تاب {k + 1}: فشل ({str(e)[:100]})")
 
             # --- الطريقة التانية: السهم اليمين (carousel) ---
             try:
+                page.evaluate(MARK_TABS_JS)
+                row = page.locator(f'[data-tabrow="{r}"]')
                 found = row.evaluate(MARK_NEXT_JS)
                 nxt = page.locator(f'[data-nextbtn="{r}"]')
                 if found and nxt.count():
-                    for step in range(max(k, 4) + 1):
+                    for step in range(counts[r] + 1):
                         before = len(feeds)
                         try:
                             nxt.first.click(timeout=2000, force=True)
@@ -217,7 +231,7 @@ def scrape_browser(debug=False):
                 else:
                     print(f"  كارت {r}: مالقيتش سهم")
             except Exception as e:
-                print(f"  كارت {r} سهم: فشل ({str(e)[:80]})")
+                print(f"  كارت {r} سهم: فشل ({str(e)[:100]})")
         browser.close()
         if debug:
             with open("debug_requests.txt", "w", encoding="utf-8") as f:
