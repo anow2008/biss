@@ -31,6 +31,7 @@ def parse_text(text):
         if not m:
             continue
         ch_id = lines[i - 1] if i > 0 else "N/A"
+        header_id = ch_id
         freq = sat = None
         for j in range(i - 1, max(i - 15, -1), -1):
             if freq is None and FREQ_LINE.match(lines[j]):
@@ -41,6 +42,12 @@ def parse_text(text):
                 break
         if not freq:
             continue
+        if FREQ_LINE.match(header_id):  # بلوك FEED 07 اللي مفيهوش 🆔: ناخد الاسم اللي فوق القمر
+            ch_id = "N/A"
+            for j in range(i - 1, max(i - 8, 0), -1):
+                if lines[j] == sat and j > 0:
+                    ch_id = lines[j - 1]
+                    break
         items.append({
             "satellite": sat or "Unknown",
             "frequency": freq,
@@ -126,6 +133,10 @@ def scrape_browser(debug=False):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page(viewport={"width": 1400, "height": 900})
+        requests_log = []
+        page.on("response", lambda resp: requests_log.append(
+            f"{resp.request.resource_type} {resp.status} {resp.url}")
+            if resp.request.resource_type in ("xhr", "fetch") else None)
         page.goto(URL, wait_until="networkidle", timeout=90000)
         page.wait_for_timeout(2500)
 
@@ -165,6 +176,10 @@ def scrape_browser(debug=False):
                     print(f"  كارت {r} تاب {k + 1}: فشل ({str(e)[:80]})")
                 k += 1
         browser.close()
+        if debug:
+            with open("debug_requests.txt", "w", encoding="utf-8") as f:
+                f.write("\n".join(requests_log))
+            print(f"اتحفظ debug_requests.txt ({len(requests_log)} طلب)")
     return feeds
 
 
@@ -173,12 +188,13 @@ def main():
     debug = "--debug" in sys.argv
     try:
         if static_only:
+            print("[الوضع العادي] التابات 2-3-4 مش هتتجاب في الوضع ده")
             feeds = scrape_static()
         else:
             try:
                 feeds = scrape_browser(debug)
             except ImportError:
-                print("Playwright مش متثبت، هشتغل بالوضع العادي (التابات 2-3-4 مش هتتجاب).")
+                print("!! Playwright مش متثبت -> الوضع العادي، التابات 2-3-4 مش هتتجاب !!")
                 feeds = scrape_static()
     except Exception as e:
         print(f"حدث خطأ: {e}")
