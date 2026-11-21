@@ -72,22 +72,33 @@ def scrape_static():
 
 
 # ---------- الوضع 2: بمتصفح حقيقي (بيدوس على أزرار 1 2 3 4 جوه كل كارت) ----------
-MARK_TABROWS_JS = r"""
+# بيدور على أي عناصر نصها رقم (1..20)، ويطلع لفوق لو الرقم متغلف جوه button/span،
+# وبعدين يجمّع الأزرار اللي ليها نفس الأب (= صف التابات) ويحط عليها علامة data-tabbtn
+MARK_TABS_JS = r"""
 () => {
-  let n = 0;
-  const seen = new Set();
-  document.querySelectorAll('*').forEach(e => {
-    if (e.children.length === 0 && /^\s*\d{1,2}\s*$/.test(e.textContent)) {
-      const p = e.parentElement;
-      if (!p || seen.has(p)) return;
-      const nums = [...p.children].filter(c => /^\s*\d{1,2}\s*$/.test(c.textContent));
-      if (nums.length >= 2 && nums.length === p.children.length) {
-        seen.add(p);
-        p.setAttribute('data-tabrow', n++);
-      }
+  const isNum = t => /^\s*\d{1,2}\s*$/.test(t || '');
+  const groups = new Map();
+  document.querySelectorAll('body *').forEach(e => {
+    if (e.children.length === 0 && isNum(e.textContent)) {
+      let btn = e;
+      while (btn.parentElement && btn.parentElement.children.length === 1 &&
+             isNum(btn.parentElement.textContent)) btn = btn.parentElement;
+      const p = btn.parentElement;
+      if (!p) return;
+      if (!groups.has(p)) groups.set(p, []);
+      if (!groups.get(p).includes(btn)) groups.get(p).push(btn);
     }
   });
-  return n;
+  let r = 0, total = 0;
+  groups.forEach((btns, p) => {
+    const nums = btns.map(b => parseInt(b.textContent.trim()));
+    if (btns.length >= 2 && nums.includes(1) && nums.includes(2)) {
+      btns.forEach((b, k) => b.setAttribute('data-tabbtn', r + '-' + k));
+      p.setAttribute('data-tabrow', r);
+      r++; total += btns.length;
+    }
+  });
+  return [r, total];
 }
 """
 
@@ -100,8 +111,16 @@ CARD_TEXT_JS = r"""
 }
 """
 
+ROW_HTML_JS = r"""
+(row) => {
+  let el = row;
+  for (let i = 0; i < 2 && el.parentElement; i++) el = el.parentElement;
+  return el.outerHTML.slice(0, 8000);
+}
+"""
 
-def scrape_browser():
+
+def scrape_browser(debug=False):
     from playwright.sync_api import sync_playwright
     feeds = []
     with sync_playwright() as p:
@@ -112,36 +131,52 @@ def scrape_browser():
 
         # التاب الظاهر في كل الكروت
         add_unique(feeds, parse_text(page.inner_text("body")))
+        print(f"من غير ضغط: {len(feeds)} نتيجة")
 
-        rows = page.evaluate(MARK_TABROWS_JS)
-        print(f"لقيت {rows} كارت فيه تابات")
+        rows, total = page.evaluate(MARK_TABS_JS)
+        print(f"لقيت {rows} صف تابات، وإجمالي {total} زر")
+
+        if debug and rows:
+            html = page.locator('[data-tabrow="0"]').evaluate(ROW_HTML_JS)
+            with open("debug_card.html", "w", encoding="utf-8") as f:
+                f.write(html)
+            print("اتحفظ debug_card.html")
+
         for r in range(rows):
             row = page.locator(f'[data-tabrow="{r}"]')
-            try:
-                n_tabs = row.locator(":scope > *").count()
-                row.scroll_into_view_if_needed(timeout=3000)
-            except Exception:
-                continue
-            for k in range(n_tabs):
+            k = 0
+            while True:
+                btn = page.locator(f'[data-tabbtn="{r}-{k}"]')
+                if btn.count() == 0:
+                    break
                 try:
-                    row.locator(":scope > *").nth(k).click(timeout=3000)
-                    page.wait_for_timeout(400)
-                    card_text = row.evaluate(CARD_TEXT_JS)
-                    add_unique(feeds, parse_text(card_text))
-                except Exception:
-                    continue
+                    btn.scroll_into_view_if_needed(timeout=3000)
+                    try:
+                        btn.click(timeout=3000)
+                    except Exception:
+                        btn.click(timeout=3000, force=True)
+                    page.wait_for_timeout(500)
+                    before = len(feeds)
+                    # نقرا الكارت + الصفحة كلها (احتياطي لو الكارت اتحدد غلط)
+                    add_unique(feeds, parse_text(row.evaluate(CARD_TEXT_JS)))
+                    add_unique(feeds, parse_text(page.inner_text("body")))
+                    print(f"  كارت {r} تاب {k + 1}: +{len(feeds) - before}")
+                except Exception as e:
+                    print(f"  كارت {r} تاب {k + 1}: فشل ({str(e)[:80]})")
+                k += 1
         browser.close()
     return feeds
 
 
 def main():
     static_only = "--static" in sys.argv
+    debug = "--debug" in sys.argv
     try:
         if static_only:
             feeds = scrape_static()
         else:
             try:
-                feeds = scrape_browser()
+                feeds = scrape_browser(debug)
             except ImportError:
                 print("Playwright مش متثبت، هشتغل بالوضع العادي (التابات 2-3-4 مش هتتجاب).")
                 feeds = scrape_static()
