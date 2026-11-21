@@ -5,20 +5,24 @@ on:
     - cron: '*/5 * * * *' # تشغيل تلقائي كل 5 دقائق
   workflow_dispatch: # زر التشغيل اليدوي للتجربة
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Install Dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install cloudscraper beautifulsoup4
 
       - name: Run Script
@@ -26,8 +30,12 @@ jobs:
 
       - name: Commit and Push
         run: |
+          if [ ! -f bisskeys.json ]; then
+            echo "bisskeys.json not found, skipping push."
+            exit 0
+          fi
           git config --global user.name "BissKey-Bot"
           git config --global user.email "bot@github.com"
           git add bisskeys.json
-          git commit -m "Update BissKeys: $(date)" || exit 0
+          git commit -m "Update BissKeys: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || exit 0
           git push
