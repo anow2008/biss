@@ -13,15 +13,6 @@ def format_key(raw_key):
     clean_key = re.sub(r'[^A-Fa-f0-9]', '', raw_key).upper()
     return " ".join(clean_key[i:i+2] for i in range(0, len(clean_key), 2))
 
-def is_leaf_feed_card(element):
-    """نتأكد إن العنصر يحتوي على KEY FOUND ولا يحتوي على عنصر فرعي آخر يحمل KEY FOUND"""
-    if "KEY FOUND" not in element.get_text():
-        return False
-    for child in element.find_all(['div', 'article']):
-        if "KEY FOUND" in child.get_text():
-            return False
-    return True
-
 def scrape_to_json():
     scraper = cloudscraper.create_scraper(
         browser={'browser': 'chrome', 'platform': 'windows', 'desktop': True}
@@ -30,6 +21,9 @@ def scrape_to_json():
 
     try:
         response = scraper.get(url, timeout=20)
+        print("Status Code:", response.status_code)
+        print("HTML Length:", len(response.text))
+
         if response.status_code != 200:
             print(f"فشل الوصول للموقع: {response.status_code}")
             return
@@ -37,27 +31,43 @@ def scrape_to_json():
         soup = BeautifulSoup(response.text, 'html.parser')
         active_feeds = []
 
-        # نأخذ فقط أصغر بلوك يمثل كارت Feed واحد مستقل
-        cards = [el for el in soup.find_all(['div', 'article']) if is_leaf_feed_card(el)]
+        # نجمع كل العناصر اللي فيها KEY FOUND
+        candidate_elements = [
+            el for el in soup.find_all(['div', 'article', 'section', 'li', 'p'])
+            if "KEY FOUND" in el.get_text()
+        ]
+        print("Elements with KEY FOUND:", len(candidate_elements))
 
-        for card in cards:
+        # نرتبهم من الأصغر للأكبر حسب طول النص عشان نبدأ بالكروت الصغيرة أولاً
+        candidate_elements.sort(key=lambda el: len(el.get_text()))
+
+        seen_cards = set()
+
+        for card in candidate_elements:
             block_text = card.get_text(separator="\n")
 
             freq_match = re.search(r'(\d{4,5})\s*([VHLR])\s*(\d{3,5})', block_text, re.IGNORECASE)
-            keys_found = re.findall(r'(?:🔑|CW:?)\s*([A-F0-9\s]{12,40})', block_text, re.IGNORECASE)
+            keys_found = re.findall(r'(?:🔑|CW:?)\s*([A-F0-9\s]{12,50})', block_text, re.IGNORECASE)
             ids_found = re.findall(r'(?:🆔|ID:?)\s*([^\n\r]+)', block_text)
 
             if not freq_match or not keys_found:
                 continue
 
-            # نبحث عن القمر داخل نفس الكارت أولاً، ولو مش موجود نبحث في أقرب قسم أب للقمر
+            frequency = f"{freq_match.group(1)} {freq_match.group(2).upper()} {freq_match.group(3)}"
+            first_clean_key = format_key(keys_found[0])
+            card_signature = (frequency, first_clean_key)
+
+            # لو الكارت ده اتقرأ بالفعل من عنصر أصغر، نتجاهل الحاوية الأكبر اللي بتضمه
+            if card_signature in seen_cards:
+                continue
+            seen_cards.add(card_signature)
+
             sat_match = re.search(r'([^\n\r]+?\d+\.?\d?°\s?[EW])', block_text)
             if not sat_match and card.parent:
                 parent_text = card.parent.get_text(separator="\n")
                 sat_match = re.search(r'([^\n\r]+?\d+\.?\d?°\s?[EW])', parent_text)
 
             sat_name = clean_text(sat_match.group(1)) if sat_match else "Unknown"
-            frequency = f"{freq_match.group(1)} {freq_match.group(2).upper()} {freq_match.group(3)}"
 
             count = max(len(keys_found), len(ids_found))
             for idx in range(count):
