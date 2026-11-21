@@ -1,11 +1,5 @@
 [
     {
-        "satellite": "Eutelsat 7 @ 7.0E",
-        "frequency": "11778 H 30000",
-        "id": "FEED 07",
-        "key": "CA 11 FE D9 0B 15 1A 3A"
-    },
-    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
@@ -49,21 +43,15 @@
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11276 V 7120",
-        "id": "Pitch NC- Ire v Safrica",
-        "key": "CC FF A8 73 D8 21 11 0A"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11282 H 7200",
         "id": "GCUK Enc 02",
         "key": "E0 1F F4 F3 3D 11 21 6F"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11285 V 7120",
-        "id": "PITCH Italy v Fiji",
-        "key": "D5 DC 62 13 6B 22 22 AF"
+        "frequency": "11291 H 7500",
+        "id": "AFD",
+        "key": "66 C3 E9 12 A4 65 27 30"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
