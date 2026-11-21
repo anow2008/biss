@@ -6,23 +6,12 @@ import json
 def clean_text(text):
     if not text:
         return "N/A"
-    clean = re.sub(r'[📡📶🎬📊🆔🔑🔓]|BISS • KEY FOUND', '', text)
+    clean = re.sub(r'[📡📶🎬📊🆔🔑🔓]|BISS\s*•\s*KEY\s*FOUND|KEY\s*FOUND', '', text, flags=re.IGNORECASE)
     return re.sub(r'\s+', ' ', clean).strip()
 
 def format_key(raw_key):
     clean_key = re.sub(r'[^A-Fa-f0-9]', '', raw_key).upper()
     return " ".join(clean_key[i:i+2] for i in range(0, len(clean_key), 2))
-
-def has_single_feed(element):
-    """نتأكد إن العنصر يمثل بلوك واحد فقط وفيه KEY FOUND مرة واحدة"""
-    txt = element.get_text("\n")
-    if txt.count("KEY FOUND") != 1:
-        return False
-    # نمنع العناصر الكبيرة اللي فيها أكتر من تردد
-    freqs = re.findall(r'\b\d{4,5}\s*[VHLR]\s*\d{3,5}\b', txt, re.IGNORECASE)
-    if len(freqs) > 1:
-        return False
-    return True
 
 def scrape_to_json():
     scraper = cloudscraper.create_scraper(
@@ -32,18 +21,26 @@ def scrape_to_json():
 
     try:
         response = scraper.get(url, timeout=20)
+        html = response.text
+        print("Status Code:", response.status_code)
+        print("HTML Length:", len(html))
+        print("Contains KEY FOUND in raw HTML:", "KEY FOUND" in html.upper())
+
         if response.status_code != 200:
             print(f"فشل الوصول للموقع: {response.status_code}")
             return
 
-        soup = BeautifulSoup(response.text, 'html.parser')
+        soup = BeautifulSoup(html, 'html.parser')
         active_feeds = []
 
-        # نأخذ العناصر اللي فيها KEY FOUND مرة واحدة وتردد واحد فقط، مرتبة من الأصغر للأكبر
+        # نجمع أصغر عناصر تحتوي على KEY FOUND
         candidates = [
-            el for el in soup.find_all(['div', 'article', 'section', 'li'])
-            if has_single_feed(el)
+            el for el in soup.find_all(['div', 'article', 'section', 'li', 'p'])
+            if "KEY FOUND" in el.get_text().upper()
         ]
+        print("Candidate elements count:", len(candidates))
+
+        # نرتب من الأصغر للأكبر
         candidates.sort(key=lambda el: len(el.get_text()))
 
         seen_items = set()
@@ -51,32 +48,23 @@ def scrape_to_json():
         for card in candidates:
             block_text = card.get_text(separator="\n")
 
-            freq_match = re.search(r'\b(\d{4,5})\s*([VHLR])\s*(\d{3,5})\b', block_text, re.IGNORECASE)
+            # نبحث عن كل الترددات داخل البلوك ونأخذ آخر تطابق (الأقرب لتفاصيل الكارت) أو التردد الصحيح
+            freqs = re.findall(r'\b(\d{4,5})\s*([VHLR])\s*(\d{3,5})\b', block_text, re.IGNORECASE)
             keys_found = re.findall(r'(?:🔑|CW:?)\s*([A-F0-9\s]{12,50})', block_text, re.IGNORECASE)
             ids_found = re.findall(r'(?:🆔|ID:?)\s*([^\n\r]+)', block_text)
 
-            if not freq_match or not keys_found:
+            if not freqs or not keys_found:
                 continue
 
-            # لو العنصر الأب أصغر أو فيه نفس التردد وبيحتوي على ID أو key أوضح
-            if card.parent:
-                parent_text = card.parent.get_text(separator="\n")
-                if parent_text.count("KEY FOUND") == 1:
-                    p_ids = re.findall(r'(?:🆔|ID:?)\s*([^\n\r]+)', parent_text)
-                    p_keys = re.findall(r'(?:🔑|CW:?)\s*([A-F0-9\s]{12,50})', parent_text, re.IGNORECASE)
-                    if len(p_ids) > len(ids_found):
-                        ids_found = p_ids
-                    if len(p_keys) > len(keys_found):
-                        keys_found = p_keys
-                    if "🆔" in parent_text or "ID:" in parent_text:
-                        block_text = parent_text
+            # لو البلوك فيه أكثر من تردد، غالباً تردد البلوك نفسه يكون الأخير أو الموجود بجانب بياناته
+            f_num, f_pol, f_sr = freqs[-1]
+            frequency = f"{f_num} {f_pol.upper()} {f_sr}"
 
             sat_match = re.search(r'([^\n\r]+?\d+\.?\d?°\s?[EW])', block_text)
             if not sat_match and card.parent:
                 sat_match = re.search(r'([^\n\r]+?\d+\.?\d?°\s?[EW])', card.parent.get_text(separator="\n"))
 
             sat_name = clean_text(sat_match.group(1)) if sat_match else "Unknown"
-            frequency = f"{freq_match.group(1)} {freq_match.group(2).upper()} {freq_match.group(3)}"
 
             count = max(len(keys_found), len(ids_found))
             for idx in range(count):
@@ -100,6 +88,13 @@ def scrape_to_json():
                     "id": channel_id,
                     "key": formatted_key
                 })
+
+        # لو لسه فاضي، نطبع جزء من الـ HTML حول KEY FOUND لمعرفة شكل البلوك الحقيقي
+        if not active_feeds:
+            pos = html.upper().find("KEY FOUND")
+            if pos != -1:
+                print("--- Raw HTML snippet around KEY FOUND ---")
+                print(html[max(0, pos - 400):pos + 800])
 
         with open('bisskeys.json', 'w', encoding='utf-8') as f:
             json.dump(active_feeds, f, ensure_ascii=False, indent=2)
