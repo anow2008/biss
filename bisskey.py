@@ -33,14 +33,19 @@ def parse_text(text):
         ch_id = lines[i - 1] if i > 0 else "N/A"
         header_id = ch_id
         freq = sat = None
+        freq_idx = None
         for j in range(i - 1, max(i - 15, -1), -1):
             if freq is None and FREQ_LINE.match(lines[j]):
                 f = FREQ_LINE.match(lines[j])
                 freq = f"{f.group(1)} {f.group(2)} {f.group(3)}"
+                freq_idx = j
             elif freq is not None and SAT_LINE.search(lines[j]):
                 sat = lines[j]
                 break
         if not freq:
+            continue
+        # الكارت الحقيقي فيه سطر البت ريت (Mb/s)؛ عنصر "FEED 07" المخفي مفيهوش -> نتجاهله
+        if not any("Mb/s" in lines[x] for x in range(freq_idx, i)):
             continue
         if FREQ_LINE.match(header_id):  # بلوك FEED 07 اللي مفيهوش 🆔: ناخد الاسم اللي فوق القمر
             ch_id = "N/A"
@@ -232,8 +237,11 @@ def main():
             try:
                 feeds = scrape_browser(debug)
             except ImportError:
-                print("!! Playwright مش متثبت -> الوضع العادي، التابات 2-3-4 مش هتتجاب !!")
-                feeds = scrape_static()
+                print("خطأ: Playwright مش متثبت. ثبّته:")
+                print("  pip install playwright")
+                print("  playwright install --with-deps chromium")
+                print("(أو شغّل بـ --static لو عايز الوضع العادي من غير التابات)")
+                sys.exit(1)
     except Exception as e:
         print(f"حدث خطأ: {e}")
         return
