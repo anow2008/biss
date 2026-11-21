@@ -22,8 +22,6 @@ def scrape_to_json():
     try:
         response = scraper.get(url, timeout=20)
         print("Status Code:", response.status_code)
-        print("HTML Length:", len(response.text))
-
         if response.status_code != 200:
             print(f"فشل الوصول للموقع: {response.status_code}")
             return
@@ -31,14 +29,10 @@ def scrape_to_json():
         soup = BeautifulSoup(response.text, 'html.parser')
         active_feeds = []
 
-        # نجمع كل العناصر اللي فيها KEY FOUND
         candidate_elements = [
             el for el in soup.find_all(['div', 'article', 'section', 'li', 'p'])
             if "KEY FOUND" in el.get_text()
         ]
-        print("Elements with KEY FOUND:", len(candidate_elements))
-
-        # نرتبهم من الأصغر للأكبر حسب طول النص عشان نبدأ بالكروت الصغيرة أولاً
         candidate_elements.sort(key=lambda el: len(el.get_text()))
 
         seen_cards = set()
@@ -50,6 +44,13 @@ def scrape_to_json():
             keys_found = re.findall(r'(?:🔑|CW:?)\s*([A-F0-9\s]{12,50})', block_text, re.IGNORECASE)
             ids_found = re.findall(r'(?:🆔|ID:?)\s*([^\n\r]+)', block_text)
 
+            # لو فيه تردد 10762 أو 11513 نطبع تشخيص سريع ليه اتاخد أو اتساب
+            if freq_match and freq_match.group(1) in ("10762", "11513"):
+                print(f"--- Debug Freq {freq_match.group(1)} ---")
+                print("keys_found:", keys_found)
+                print("ids_found:", ids_found)
+                print("snippet:", repr(block_text[:300]))
+
             if not freq_match or not keys_found:
                 continue
 
@@ -57,7 +58,6 @@ def scrape_to_json():
             first_clean_key = format_key(keys_found[0])
             card_signature = (frequency, first_clean_key)
 
-            # لو الكارت ده اتقرأ بالفعل من عنصر أصغر، نتجاهل الحاوية الأكبر اللي بتضمه
             if card_signature in seen_cards:
                 continue
             seen_cards.add(card_signature)
