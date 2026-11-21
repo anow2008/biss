@@ -169,12 +169,6 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12598 V 5000",
-        "id": "Live Broadcasting Line 1",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12644 H 30000",
         "id": "UFC PATH A P",
         "key": "99 CA 34 97 DB 67 24 66"
