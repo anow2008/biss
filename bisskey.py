@@ -13,6 +13,15 @@ def format_key(raw_key):
     clean_key = re.sub(r'[^A-Fa-f0-9]', '', raw_key).upper()
     return " ".join(clean_key[i:i+2] for i in range(0, len(clean_key), 2))
 
+def is_leaf_feed_card(element):
+    """نتأكد إن العنصر يحتوي على KEY FOUND ولا يحتوي على عنصر فرعي آخر يحمل KEY FOUND"""
+    if "KEY FOUND" not in element.get_text():
+        return False
+    for child in element.find_all(['div', 'article']):
+        if "KEY FOUND" in child.get_text():
+            return False
+    return True
+
 def scrape_to_json():
     scraper = cloudscraper.create_scraper(
         browser={'browser': 'chrome', 'platform': 'windows', 'desktop': True}
@@ -28,23 +37,25 @@ def scrape_to_json():
         soup = BeautifulSoup(response.text, 'html.parser')
         active_feeds = []
 
-        # نركز على الكروت/العناصر اللي فيها KEY FOUND ومش حاوية لكل الصفحة
-        elements = soup.find_all(['div', 'article'])
+        # نأخذ فقط أصغر بلوك يمثل كارت Feed واحد مستقل
+        cards = [el for el in soup.find_all(['div', 'article']) if is_leaf_feed_card(el)]
 
-        for element in elements:
-            block_text = element.get_text(separator="\n")
-            if "KEY FOUND" not in block_text:
-                continue
+        for card in cards:
+            block_text = card.get_text(separator="\n")
 
             freq_match = re.search(r'(\d{4,5})\s*([VHLR])\s*(\d{3,5})', block_text, re.IGNORECASE)
-            # التقاط كل المفاتيح المحتملة داخل نفس الكارت
             keys_found = re.findall(r'(?:🔑|CW:?)\s*([A-F0-9\s]{12,40})', block_text, re.IGNORECASE)
             ids_found = re.findall(r'(?:🆔|ID:?)\s*([^\n\r]+)', block_text)
 
             if not freq_match or not keys_found:
                 continue
 
+            # نبحث عن القمر داخل نفس الكارت أولاً، ولو مش موجود نبحث في أقرب قسم أب للقمر
             sat_match = re.search(r'([^\n\r]+?\d+\.?\d?°\s?[EW])', block_text)
+            if not sat_match and card.parent:
+                parent_text = card.parent.get_text(separator="\n")
+                sat_match = re.search(r'([^\n\r]+?\d+\.?\d?°\s?[EW])', parent_text)
+
             sat_name = clean_text(sat_match.group(1)) if sat_match else "Unknown"
             frequency = f"{freq_match.group(1)} {freq_match.group(2).upper()} {freq_match.group(3)}"
 
