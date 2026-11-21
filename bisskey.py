@@ -71,44 +71,80 @@ def scrape_static():
     return parse_text(text)
 
 
-# ---------- الوضع 2: بمتصفح حقيقي (بيدوس على أزرار 1 2 3 4) ----------
+# ---------- الوضع 2: بمتصفح حقيقي (بيدوس على أزرار 1 2 3 4 جوه كل كارت) ----------
+MARK_TABROWS_JS = r"""
+() => {
+  let n = 0;
+  const seen = new Set();
+  document.querySelectorAll('*').forEach(e => {
+    if (e.children.length === 0 && /^\s*\d{1,2}\s*$/.test(e.textContent)) {
+      const p = e.parentElement;
+      if (!p || seen.has(p)) return;
+      const nums = [...p.children].filter(c => /^\s*\d{1,2}\s*$/.test(c.textContent));
+      if (nums.length >= 2 && nums.length === p.children.length) {
+        seen.add(p);
+        p.setAttribute('data-tabrow', n++);
+      }
+    }
+  });
+  return n;
+}
+"""
+
+# من صف الأزرار نطلع لفوق لحد أول عنصر فيه Mb/s = الكارت كله
+CARD_TEXT_JS = r"""
+(row) => {
+  let el = row;
+  while (el && !/Mb\/s/.test(el.innerText || '')) el = el.parentElement;
+  return el ? el.innerText : row.innerText;
+}
+"""
+
+
 def scrape_browser():
     from playwright.sync_api import sync_playwright
     feeds = []
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
+        page = browser.new_page(viewport={"width": 1400, "height": 900})
         page.goto(URL, wait_until="networkidle", timeout=90000)
-        page.wait_for_timeout(2000)
+        page.wait_for_timeout(2500)
 
-        # فتح أي قسم قمر مقفول (لو موجود)
+        # التاب الظاهر في كل الكروت
         add_unique(feeds, parse_text(page.inner_text("body")))
 
-        # كل الأزرار اللي نصها رقم واحد بس (1 / 2 / 3 ...)
-        tabs = page.locator("button, a, span, div, li").filter(
-            has_text=re.compile(r'^\s*\d{1,2}\s*$'))
-        count = tabs.count()
-        for i in range(count):
+        rows = page.evaluate(MARK_TABROWS_JS)
+        print(f"لقيت {rows} كارت فيه تابات")
+        for r in range(rows):
+            row = page.locator(f'[data-tabrow="{r}"]')
             try:
-                el = tabs.nth(i)
-                if not el.is_visible():
-                    continue
-                el.click(timeout=2000)
-                page.wait_for_timeout(300)
-                add_unique(feeds, parse_text(page.inner_text("body")))
+                n_tabs = row.locator(":scope > *").count()
+                row.scroll_into_view_if_needed(timeout=3000)
             except Exception:
                 continue
+            for k in range(n_tabs):
+                try:
+                    row.locator(":scope > *").nth(k).click(timeout=3000)
+                    page.wait_for_timeout(400)
+                    card_text = row.evaluate(CARD_TEXT_JS)
+                    add_unique(feeds, parse_text(card_text))
+                except Exception:
+                    continue
         browser.close()
     return feeds
 
 
 def main():
-    use_browser = "--browser" in sys.argv
+    static_only = "--static" in sys.argv
     try:
-        feeds = scrape_browser() if use_browser else scrape_static()
-        if not feeds and not use_browser:
-            print("الوضع العادي رجّع 0 نتيجة، بجرب وضع المتصفح...")
-            feeds = scrape_browser()
+        if static_only:
+            feeds = scrape_static()
+        else:
+            try:
+                feeds = scrape_browser()
+            except ImportError:
+                print("Playwright مش متثبت، هشتغل بالوضع العادي (التابات 2-3-4 مش هتتجاب).")
+                feeds = scrape_static()
     except Exception as e:
         print(f"حدث خطأ: {e}")
         return
