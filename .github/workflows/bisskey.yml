@@ -2,8 +2,8 @@ name: Update Biss Keys
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # تشغيل تلقائي كل 5 دقائق
-  workflow_dispatch: # زر التشغيل اليدوي للتجربة
+    - cron: "*/30 * * * *"   # كل 30 دقيقة - غيّرها زي ما تحب (خليها زي اللي عندك)
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,24 +18,30 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install Dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install cloudscraper beautifulsoup4
+          pip install playwright cloudscraper beautifulsoup4
+          playwright install --with-deps chromium
 
       - name: Run Script
-        run: python bisskey.py
+        run: python bisskey.py --debug
 
       - name: Commit and Push
         run: |
-          if [ ! -f bisskeys.json ]; then
-            echo "bisskeys.json not found, skipping push."
-            exit 0
-          fi
-          git config --global user.name "BissKey-Bot"
-          git config --global user.email "bot@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add bisskeys.json
-          git commit -m "Update BissKeys: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || exit 0
+          git diff --staged --quiet || git commit -m "Update biss keys"
           git push
+
+      - name: Upload debug files
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug
+          path: |
+            debug_card.html
+            debug_requests.txt
+          if-no-files-found: ignore
