@@ -1,5 +1,47 @@
 [
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10728 V 7200",
+        "id": "SINTRA 2 MN",
+        "key": "F7 A5 9D 39 B3 E6 C1 5A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12603 H 7300",
+        "id": "D-413",
+        "key": "21 11 AC DE EB 19 75 79"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11083 V 14240",
+        "id": "Pitch Wales v Aus WF MAIN",
+        "key": "33 DD DE EE FC 21 11 2E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11066 V 14240",
+        "id": "France v Argentina WF MAIN",
+        "key": "97 27 32 F0 4F 24 6A DD"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-111",
+        "key": "AB BA 26 8B DC AE 11 9B"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10721 H 7500",
+        "id": "AFD",
+        "key": "66 C3 E9 12 A4 65 27 30"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10849 H 7200",
+        "id": "ENC 5",
+        "key": "72 4C 9D 5B B4 35 07 F0"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11104 H 9875",
         "id": "D366_RTL_DIGI_Path1",
@@ -19,50 +61,14 @@
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10965 V 4800",
-        "id": "POL 48 ENC1",
-        "key": "AB BA 26 8B DC AE 11 9B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11181 H 7200",
-        "id": "F509 POISSY b/u",
+        "id": "F509 POISSY main",
         "key": "AB CD 12 8A 34 EF FF 22"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7200",
-        "id": "ENC 1",
-        "key": "72 4C 9D 5B B4 35 06 EF"
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11285 V 7120",
         "id": "PITCH Italy v Fiji",
         "key": "D5 DC 62 13 6B 22 22 AF"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11651 H 14240",
-        "id": "ENC 6",
-        "key": "CC FF A8 73 D8 21 11 0A"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11513 H 4800",
-        "id": "Ireland TF1 Rugby",
-        "key": "16 58 FE 6C ED 20 26 33"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12512 V 7200",
-        "id": "POL-100 MAIN",
-        "key": "E0 1F F4 F3 3D 11 21 6F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11005 V 7500",
-        "id": "POL045 TVN24 LDZ",
-        "key": "77 93 52 5C 99 08 86 27"
     }
 ]
