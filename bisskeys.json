@@ -55,7 +55,7 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 H 7200",
+        "frequency": "10849 H 7200",
         "id": "ENC 5",
         "key": "72 4C 9D 5B B4 35 07 F0"
     },
@@ -103,21 +103,9 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11623 V 9875",
-        "id": "D-408 ENC 1",
-        "key": "72 4F 7C 3D 6C A8 06 1A"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11694 H 7200",
         "id": "UFC Fight Night on P+ #29: All Fights",
         "key": "99 CA 34 97 DB 67 24 66"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12553 H 7200",
-        "id": "KALAMATA V AEK",
-        "key": "96 FB A9 3A F2 6E EA 4A"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -153,6 +141,42 @@
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "12644 H 30000",
         "id": "UFC PATH A P",
+        "key": "99 CA 34 97 DB 67 24 66"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-2",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-5",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "A1 52 93 86 52 81 76 49"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12644 H 30000",
+        "id": "UFC PATH B P",
+        "key": "99 CA 34 97 DB 67 24 66"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12644 H 30000",
+        "id": "UFC PATH D P",
+        "key": "99 CA 34 97 DB 67 24 66"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12644 H 30000",
+        "id": "UFC PATH C P",
         "key": "99 CA 34 97 DB 67 24 66"
     }
 ]
