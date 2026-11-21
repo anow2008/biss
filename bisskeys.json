@@ -204,6 +204,13 @@
   },
   {
     "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "11066 V 14240",
+    "slot": 1,
+    "id": "France v Argentina WF MAIN",
+    "key": "97 27 32 F0 4F 24 6A DD"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
     "frequency": "11694 H 7200",
     "slot": 1,
     "id": "UFC Fight Night on P+ #29: All Fights",
@@ -285,83 +292,6 @@
     "slot": 10,
     "id": "SUI 067 MAIN",
     "key": "D5 DC 62 13 6B 22 22 AF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 1,
-    "id": "GCUK Enc 10",
-    "key": "72 4C 9D 5B B4 35 07 F0"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 2,
-    "id": "ENC 5",
-    "key": "74 86 84 7E B1 7F D2 02"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 3,
-    "id": "EBU 1 ENC",
-    "key": "74 86 84 7E B1 7F D2 02"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 4,
-    "id": "EBU 2 ENC",
-    "key": "74 86 84 7E B1 7F D2 02"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 5,
-    "id": "EBU 3 ENC",
-    "key": "12 3C AA F8 14 22 A3 D9"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 6,
-    "id": "IMG 1 EU",
-    "key": "99 CA 34 97 DB 67 24 66"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 7,
-    "id": "UFC PATH C P",
-    "key": "72 4F 7C 3D 6C A8 06 1A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 8,
-    "id": "D-408 ENC 1",
-    "key": "D5 DC 62 13 6B 22 22 AF"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 9,
-    "id": "BT_SES_8_SDI",
-    "key": "CC FF A8 73 D8 21 11 0A"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 10,
-    "id": "ENC 6",
-    "key": "99 CA 34 97 DB 67 24 66"
-  },
-  {
-    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-    "frequency": "12553 H 7200",
-    "slot": 11,
-    "id": "UFC Fight Night on P+ #29: All Fights",
-    "key": "96 FB A9 3A F2 6E EA 4A"
   },
   {
     "satellite": "Eutelsat 16A @ 16.0°E",
@@ -467,6 +397,97 @@
     "slot": 15,
     "id": "CH 5 - Virtuali 2",
     "key": "99 CA 34 97 DB 67 24 66"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 1,
+    "id": "GCUK Enc 10",
+    "key": "72 4C 9D 5B B4 35 07 F0"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 2,
+    "id": "ENC 5",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 3,
+    "id": "EBU 1 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 4,
+    "id": "EBU 2 ENC",
+    "key": "74 86 84 7E B1 7F D2 02"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 5,
+    "id": "EBU 3 ENC",
+    "key": "12 3C AA F8 14 22 A3 D9"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 6,
+    "id": "IMG 1 EU",
+    "key": "97 27 32 F0 4F 24 6A DD"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 7,
+    "id": "France v Argentina WF MAIN",
+    "key": "99 CA 34 97 DB 67 24 66"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 8,
+    "id": "UFC PATH C P",
+    "key": "72 4F 7C 3D 6C A8 06 1A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 9,
+    "id": "Pitch Wales v Aus WF MAIN",
+    "key": "D5 DC 62 13 6B 22 22 AF"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 10,
+    "id": "D-408 ENC 1",
+    "key": "CC FF A8 73 D8 21 11 0A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 11,
+    "id": "BT_SES_8_SDI",
+    "key": "99 CA 34 97 DB 67 24 66"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 12,
+    "id": "ENC 6",
+    "key": "96 FB A9 3A F2 6E EA 4A"
+  },
+  {
+    "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+    "frequency": "12553 H 7200",
+    "slot": 13,
+    "id": "UFC Fight Night on P+ #29: All Fights",
+    "key": "96 FB A9 3A F2 6E EA 4A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -585,159 +606,173 @@
     "frequency": "12700 H 9875",
     "slot": 17,
     "id": "EBU 3 ENC",
-    "key": "99 CA 34 97 DB 67 24 66"
+    "key": "97 27 32 F0 4F 24 6A DD"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 18,
     "id": "IMG 1 EU",
-    "key": "72 4F 7C 3D 6C A8 06 1A"
+    "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 19,
+    "id": "France v Argentina WF MAIN",
+    "key": "72 4F 7C 3D 6C A8 06 1A"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12700 H 9875",
+    "slot": 20,
     "id": "UFC PATH C P",
     "key": "D5 DC 62 13 6B 22 22 AF"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
-    "slot": 20,
-    "id": "D-408 ENC 1",
+    "slot": 21,
+    "id": "Pitch Wales v Aus WF MAIN",
     "key": "CC FF A8 73 D8 21 11 0A"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
-    "slot": 21,
-    "id": "BT_SES_8_SDI",
-    "key": "99 CA 34 97 DB 67 24 66"
-  },
-  {
-    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-    "frequency": "12700 H 9875",
     "slot": 22,
-    "id": "ENC 6",
-    "key": "96 FB A9 3A F2 6E EA 4A E"
+    "id": "D-408 ENC 1",
+    "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 23,
-    "id": "UFC Fight Night on P+ #29: All Fights",
-    "key": "20 25 AE F3 EA 52 02 3E"
+    "id": "BT_SES_8_SDI",
+    "key": "96 FB A9 3A F2 6E EA 4A E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 24,
-    "id": "KALAMATA V AEK",
-    "key": "AB BA 26 8B DC AE 11 9B"
+    "id": "ENC 6",
+    "key": "20 25 AE F3 EA 52 02 3E"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 25,
-    "id": "F4-2 4.5MH",
-    "key": "20 26 FE 44 BA 21 11 EC"
+    "id": "UFC Fight Night on P+ #29: All Fights",
+    "key": "AB BA 26 8B DC AE 11 9B"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 26,
-    "id": "POL-111",
-    "key": "AB CD 12 8A 34 EF FF 22"
+    "id": "KALAMATA V AEK",
+    "key": "20 26 FE 44 BA 21 11 EC"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 27,
-    "id": "NIM LD3 ENC 07",
-    "key": "E0 1F F4 F3 3D 11 21 6F"
+    "id": "F4-2 4.5MH",
+    "key": "AB CD 12 8A 34 EF FF 22"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 28,
-    "id": "NIM LD3 ENC 08",
-    "key": "13 57 AB 15 CD 24 68 59"
+    "id": "POL-111",
+    "key": "E0 1F F4 F3 3D 11 21 6F"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 29,
-    "id": "AP LDN UPC",
-    "key": "99 CA 34 97 DB 67 24 66"
+    "id": "NIM LD3 ENC 07",
+    "key": "13 57 AB 15 CD 24 68 59"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 30,
-    "id": "D366_RTL_DIGI_Path1",
+    "id": "NIM LD3 ENC 08",
     "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 31,
-    "id": "F509 POISSY main",
+    "id": "AP LDN UPC",
     "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 32,
-    "id": "YFC S4C B",
+    "id": "D366_RTL_DIGI_Path1",
     "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 33,
-    "id": "POL-100 MAIN",
+    "id": "F509 POISSY main",
     "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 34,
-    "id": "Via 1 Overon",
+    "id": "YFC S4C B",
     "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 35,
-    "id": "PTRTP-26 6MHz",
+    "id": "POL-100 MAIN",
     "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 36,
-    "id": "PTRTP POR25",
+    "id": "Via 1 Overon",
     "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 37,
-    "id": "Live Broadcasting Line 1",
+    "id": "PTRTP-26 6MHz",
     "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 38,
-    "id": "UFC PATH A P",
+    "id": "PTRTP POR25",
     "key": "99 CA 34 97 DB 67 24 66"
   },
   {
     "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
     "frequency": "12700 H 9875",
     "slot": 39,
+    "id": "Live Broadcasting Line 1",
+    "key": "99 CA 34 97 DB 67 24 66"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12700 H 9875",
+    "slot": 40,
+    "id": "UFC PATH A P",
+    "key": "99 CA 34 97 DB 67 24 66"
+  },
+  {
+    "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+    "frequency": "12700 H 9875",
+    "slot": 41,
     "id": "CH 5 - Virtuali 2",
     "key": "99 CA 34 97 DB 67 24 66"
   }
