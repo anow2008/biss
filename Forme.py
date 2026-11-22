@@ -592,7 +592,28 @@ def get_sat_universe_feeds():
     return messages, json_entries, new_keys
 
 
+class _Tee:
+    """يطبع في الشاشة وفي run_log.txt في نفس الوقت."""
+    def __init__(self, *streams):
+        self.streams = streams
+
+    def write(self, data):
+        for st in self.streams:
+            st.write(data)
+            st.flush()
+
+    def flush(self):
+        for st in self.streams:
+            st.flush()
+
+
 if __name__ == "__main__":
+    sys.stdout = _Tee(sys.__stdout__, open("run_log.txt", "w", encoding="utf-8"))
+    print(f"بدأ التشغيل: {time.strftime('%Y-%m-%d %H:%M:%S')} UTC")
+    print(f"BOT_TOKEN: {'موجود' if TOKEN else 'مش موجود'} | CHAT_ID: {'موجود' if CHAT_ID else 'مش موجود'} | "
+          f"SAT_USER: {'موجود' if SAT_USER else 'مش موجود'} | SAT_PASS: {'موجود' if SAT_PASS else 'مش موجود'} | "
+          f"SU_COOKIES: {len(SU_COOKIES)} كوكي")
+    print(f"last_keys_list.txt: {len(load_old_keys().split())} شفرة قديمة محفوظة")
     m1, j1, k1 = get_feeds()
     m2, j2, k2 = get_sat_universe_feeds()
 
