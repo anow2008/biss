@@ -41,3 +41,14 @@ jobs:
           git add last_keys_list.txt "for me.json"
           git diff --staged --quiet || git commit -m "Update keys"
           git push
+
+      - name: Upload debug files
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug
+          path: |
+            debug_su.html
+            debug_su_login.png
+            debug_page.html
+          if-no-files-found: ignore
