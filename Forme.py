@@ -375,21 +375,28 @@ def extract_from_post(text):
     return entries
 
 
+SU_UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+         '(KHTML, like Gecko) Chrome/124.0 Safari/537.36')
+
+
+def _is_thread_page(html):
+    return 'class="bbWrapper"' in html or "bbWrapper" in html
+
+
+# ---------- الطريقة 1: requests (cloudscraper) ----------
 def sat_universe_login(scraper, headers):
-    if not SAT_USER or not SAT_PASS:
-        print("[sat-universe] SAT_USER/SAT_PASS مش موجودين في الـ Secrets")
-        return False
     page = scraper.get(SU_BASE + "index.php?login/", headers=headers, timeout=30)
     soup = BeautifulSoup(page.text, 'html.parser')
     tok = soup.find('input', {'name': '_xfToken'})
     token = tok.get('value', '') if tok else ''
+    print(f"[sat-universe] صفحة الدخول: status={page.status_code}, token={'موجود' if token else 'مش موجود'}")
     resp = scraper.post(
         SU_BASE + "index.php?login/login",
         data={'login': SAT_USER, 'password': SAT_PASS, 'remember': 1,
               '_xfRedirect': SU_BASE, '_xfToken': token},
         headers=headers, timeout=30)
     ok = 'data-logged-in="true"' in resp.text
-    print(f"[sat-universe] تسجيل الدخول: {'نجح' if ok else 'فشل (تأكد من SAT_USER/SAT_PASS أو الـ Cloudflare)'}")
+    print(f"[sat-universe] الدخول بـ requests: {'نجح' if ok else 'فشل'} (status={resp.status_code})")
     return ok
 
 
@@ -406,40 +413,138 @@ def last_pages(scraper, headers, topic_url, how_many=2):
     return [topic_url if p == 1 else f"{topic_url}page-{p}" for p in pages]
 
 
-def get_sat_universe_feeds():
+def collect_posts_requests():
+    """يرجّع قائمة نصوص البوستات، أو None لو الدخول فشل."""
     scraper = cloudscraper.create_scraper()
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    messages, json_entries, new_keys = [], [], []
-    old_keys = load_old_keys()
-    try:
-        sat_universe_login(scraper, headers)
+    headers = {'User-Agent': SU_UA}
+    if not sat_universe_login(scraper, headers):
+        return None
+    texts = []
+    for topic_url in TARGET_TOPICS:
+        try:
+            for target in last_pages(scraper, headers, topic_url):
+                resp = scraper.get(target, headers=headers, timeout=30)
+                soup = BeautifulSoup(resp.text, 'html.parser')
+                posts = soup.find_all('div', class_='bbWrapper')
+                print(f"[sat-universe] {target[-45:]} -> {len(posts)} بوست (status={resp.status_code})")
+                if not posts:
+                    with open("debug_su.html", "w", encoding="utf-8") as f:
+                        f.write(resp.text)
+                for post in posts:
+                    for q in post.find_all('blockquote'):
+                        q.decompose()  # نتجاهل الاقتباسات
+                    texts.append(post.get_text(separator='\n').strip())
+        except Exception as e:
+            print(f"[sat-universe] خطأ في {topic_url[-50:]}: {e}")
+    return texts
+
+
+# ---------- الطريقة 2: متصفح حقيقي (Playwright) ----------
+EXTRACT_POSTS_JS = """
+els => els.map(e => {
+  // innerText بيحافظ على الأسطر (br/p) بس لما العنصر يكون جوه الصفحة
+  const c = e.cloneNode(true);
+  c.style.cssText = 'position:absolute;left:-99999px;top:0;width:800px;';
+  document.body.appendChild(c);
+  c.querySelectorAll('blockquote').forEach(q => q.remove());
+  const t = c.innerText;
+  c.remove();
+  return t;
+})
+"""
+
+LAST_PAGE_JS = """
+() => {
+  const a = [...document.querySelectorAll('.pageNav-main a')]
+      .map(x => parseInt(x.textContent.trim())).filter(n => !isNaN(n));
+  return a.length ? Math.max(...a) : 1;
+}
+"""
+
+
+def _extract_posts(page):
+    return page.eval_on_selector_all('.bbWrapper', EXTRACT_POSTS_JS)
+
+
+def collect_posts_browser():
+    from playwright.sync_api import sync_playwright
+    texts = []
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        ctx = browser.new_context(user_agent=SU_UA, viewport={"width": 1300, "height": 900})
+        page = ctx.new_page()
+        page.goto(SU_BASE + "index.php?login/", wait_until="domcontentloaded", timeout=60000)
+        page.wait_for_timeout(2500)
+        try:
+            page.fill('input[name="login"]', SAT_USER or "")
+            page.fill('input[name="password"]', SAT_PASS or "")
+            page.press('input[name="password"]', "Enter")
+            page.wait_for_load_state("networkidle", timeout=60000)
+        except Exception as e:
+            print(f"[sat-universe] فورم الدخول بالمتصفح فشل: {str(e)[:120]}")
+        logged = page.locator('html[data-logged-in="true"]').count() > 0
+        print(f"[sat-universe] الدخول بالمتصفح: {'نجح' if logged else 'فشل'} (url={page.url[-60:]})")
+        if not logged:
+            page.screenshot(path="debug_su_login.png")
+            with open("debug_su.html", "w", encoding="utf-8") as f:
+                f.write(page.content())
+            browser.close()
+            return texts
+
         for topic_url in TARGET_TOPICS:
             try:
-                for target in last_pages(scraper, headers, topic_url):
-                    resp = scraper.get(target, headers=headers, timeout=30)
-                    soup = BeautifulSoup(resp.text, 'html.parser')
-                    posts = soup.find_all('div', class_='bbWrapper')
-                    print(f"[sat-universe] {target[-40:]} -> {len(posts)} بوست")
-                    for post in posts:
-                        for q in post.find_all('blockquote'):
-                            q.decompose()  # نتجاهل الاقتباسات عشان مانكررش شفرات قديمة
-                        text = post.get_text(separator='\n').strip()
-                        for it in extract_from_post(text):
-                            raw = it["key"].replace(" ", "")
-                            if raw in old_keys or raw in new_keys:
-                                continue
-                            new_keys.append(raw)
-                            json_entries.append(it)
-                            messages.append(
-                                f"📡 Sat: {it['satellite']}\n📶 Freq: {it['frequency']}\n"
-                                f"🆔 Id: {it['id']}\n🔑 CW: {it['key']}")
+                page.goto(topic_url, wait_until="domcontentloaded", timeout=60000)
+                if "threads/" not in page.url:
+                    print(f"[sat-universe] اتحولنا لصفحة تانية: {page.url[-60:]}")
+                    continue
+                last = page.evaluate(LAST_PAGE_JS)
+                for n in range(max(1, last - 1), last + 1):
+                    target = topic_url if n == 1 else f"{topic_url}page-{n}"
+                    page.goto(target, wait_until="domcontentloaded", timeout=60000)
+                    posts = _extract_posts(page)
+                    print(f"[sat-universe] (متصفح) {target[-45:]} -> {len(posts)} بوست")
+                    texts.extend(t.strip() for t in posts)
             except Exception as e:
-                print(f"[sat-universe] خطأ في {topic_url[-50:]}: {e}")
-        print(f"[sat-universe] الجديد: {len(json_entries)}")
-        return messages, json_entries, new_keys
-    except Exception as e:
-        print(f"[sat-universe] خطأ: {e}")
+                print(f"[sat-universe] خطأ في {topic_url[-50:]}: {str(e)[:120]}")
+        browser.close()
+    return texts
+
+
+def get_sat_universe_feeds():
+    messages, json_entries, new_keys = [], [], []
+    old_keys = load_old_keys()
+
+    if not SAT_USER or not SAT_PASS:
+        print("[sat-universe] SAT_USER/SAT_PASS مش موجودين في الـ Secrets (Settings > Secrets > Actions)")
         return [], [], []
+
+    texts = None
+    try:
+        texts = collect_posts_requests()
+    except Exception as e:
+        print(f"[sat-universe] طريقة requests فشلت: {e}")
+
+    if not texts:  # الدخول فشل أو مفيش بوستات -> جرّب متصفح حقيقي
+        print("[sat-universe] بجرب الدخول بالمتصفح...")
+        try:
+            texts = collect_posts_browser()
+        except Exception as e:
+            print(f"[sat-universe] طريقة المتصفح فشلت: {e}")
+            texts = []
+
+    print(f"[sat-universe] إجمالي البوستات اللي اتقرت: {len(texts or [])}")
+    for text in texts or []:
+        for it in extract_from_post(text):
+            raw = it["key"].replace(" ", "")
+            if raw in old_keys or raw in new_keys:
+                continue
+            new_keys.append(raw)
+            json_entries.append(it)
+            messages.append(
+                f"📡 Sat: {it['satellite']}\n📶 Freq: {it['frequency']}\n"
+                f"🆔 Id: {it['id']}\n🔑 CW: {it['key']}")
+    print(f"[sat-universe] الجديد: {len(json_entries)}")
+    return messages, json_entries, new_keys
 
 
 if __name__ == "__main__":
