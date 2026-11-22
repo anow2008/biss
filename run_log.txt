@@ -1,7 +1,7 @@
-بدأ التشغيل: 2026-11-22 13:25:37 UTC
-BOT_TOKEN: موجود | CHAT_ID: موجود | SAT_USER: موجود | SAT_PASS: موجود | SU_COOKIES: 0 كوكي
-last_keys_list.txt: 0 شفرة قديمة محفوظة
-من غير ضغط: 22 نتيجة
+بدأ التشغيل: 2026-11-22 13:36:15 UTC
+BOT_TOKEN: موجود | CHAT_ID: موجود | SAT_USER: موجود | SAT_PASS: موجود | SU_COOKIES: 2 كوكي
+last_keys_list.txt: 18 شفرة قديمة محفوظة
+من غير ضغط: 19 نتيجة
 لقيت 2 صف تابات، أزرار كل صف: [4, 7]
   كارت 0 تاب 1: +0
   كارت 0 تاب 2: +1
@@ -18,22 +18,21 @@ last_keys_list.txt: 0 شفرة قديمة محفوظة
   كارت 1 تاب 4: +0
   كارت 1 تاب 5: +0
   كارت 1 تاب 6: +0
-  كارت 1 تاب 7: فشل (Locator.evaluate: Timeout 30000ms exceeded.
-Call log:
-  - waiting for locator("[data-tabrow=\"1\"]"))
+  كارت 1 تاب 7: +0
   كارت 1 سهم 1: +0
   كارت 1 سهم 2: +0
   كارت 1 سهم 3: +0
-  كارت 1 سهم 4: +0
-  كارت 1 سهم 5: +0
-  كارت 1 سهم 6: +0
-  كارت 1 سهم 7: +0
-  كارت 1 سهم 8: +0
-[live-feed] 25 فيد، الجديد: 18
+  كارت 1 سهم: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"1\"]")
+)
+[live-feed] 22 فيد، الجديد: 1
+[sat-universe] الدخول بالكوكيز (requests): فشل (الكوكيز منتهية أو غلط) (status=200)
 [sat-universe] صفحة الدخول: status=200, token=موجود
 [sat-universe] الدخول بـ requests: فشل (status=200)
 [sat-universe] بجرب الدخول بالمتصفح...
+[sat-universe] الدخول بالكوكيز (متصفح): فشل
 [sat-universe] الدخول بالمتصفح: فشل (url=https://www.sat-universe.com/index.php?login/login)
 [sat-universe] إجمالي البوستات اللي اتقرت: 0
 [sat-universe] الجديد: 0
-إجمالي الشفرات الجديدة: 18
+إجمالي الشفرات الجديدة: 1

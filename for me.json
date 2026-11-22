@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11635 V 9875",
+        "id": "NOR-035 MAIN",
+        "key": "2D F5 7A 9C 73 79 60 4C"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
