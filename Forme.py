@@ -265,8 +265,18 @@ def scrape_browser(debug=False):
 # ======================================================================
 # أدوات عامة
 # ======================================================================
-def load_old_keys():
-    return open(DB_FILE, "r").read() if os.path.exists(DB_FILE) else ""
+def load_seen():
+    """الفيدات اللي اتبعتت قبل كده. كل سطر: الشفرة|التردد|الـ ID (السطور القديمة اللي فيها شفرة بس بتتجاهل)."""
+    if not os.path.exists(DB_FILE):
+        return set()
+    with open(DB_FILE, "r", encoding="utf-8") as f:
+        return {line.strip() for line in f if "|" in line}
+
+
+def item_id(it):
+    """هوية الفيد = الشفرة + التردد + الـ ID، عشان القنوات اللي بتشارك نفس الشفرة ماتضيعش."""
+    raw = re.sub(r'\s+', '', it["key"]).upper()
+    return f"{raw}|{it['frequency']}|{it['id']}"
 
 
 def update_json_file(new_data_list):
@@ -296,12 +306,13 @@ def get_feeds():
         print(f"[live-feed] خطأ: {e}")
         return [], [], []
 
-    old_keys = load_old_keys()
+    seen = load_seen()
     messages, json_entries, new_keys = [], [], []
     for it in feeds:
-        raw_key = it["key"].replace(" ", "").upper()
-        if len(raw_key) == 16 and raw_key not in old_keys and raw_key not in new_keys:
-            new_keys.append(raw_key)
+        raw_key = re.sub(r'\s+', '', it["key"]).upper()
+        ident = item_id(it)
+        if len(raw_key) == 16 and ident not in seen and ident not in new_keys:
+            new_keys.append(ident)
             messages.append(
                 f"📡 Sat: {it['satellite']}\n📶 Freq: {it['frequency']}\n"
                 f"🆔 Id: {it['id']}\n🔑 CW: {it['key']}")
@@ -557,7 +568,7 @@ def collect_posts_browser():
 
 def get_sat_universe_feeds():
     messages, json_entries, new_keys = [], [], []
-    old_keys = load_old_keys()
+    seen = load_seen()
 
     if not SU_COOKIES and (not SAT_USER or not SAT_PASS):
         print("[sat-universe] لا SU_COOKIES ولا SAT_USER/SAT_PASS موجودين في الـ Secrets")
@@ -580,10 +591,10 @@ def get_sat_universe_feeds():
     print(f"[sat-universe] إجمالي البوستات اللي اتقرت: {len(texts or [])}")
     for text in texts or []:
         for it in extract_from_post(text):
-            raw = it["key"].replace(" ", "")
-            if raw in old_keys or raw in new_keys:
+            ident = item_id(it)
+            if ident in seen or ident in new_keys:
                 continue
-            new_keys.append(raw)
+            new_keys.append(ident)
             json_entries.append(it)
             messages.append(
                 f"📡 Sat: {it['satellite']}\n📶 Freq: {it['frequency']}\n"
@@ -613,7 +624,7 @@ if __name__ == "__main__":
     print(f"BOT_TOKEN: {'موجود' if TOKEN else 'مش موجود'} | CHAT_ID: {'موجود' if CHAT_ID else 'مش موجود'} | "
           f"SAT_USER: {'موجود' if SAT_USER else 'مش موجود'} | SAT_PASS: {'موجود' if SAT_PASS else 'مش موجود'} | "
           f"SU_COOKIES: {len(SU_COOKIES)} كوكي")
-    print(f"last_keys_list.txt: {len(load_old_keys().split())} شفرة قديمة محفوظة")
+    print(f"last_keys_list.txt: {len(load_seen())} فيد قديم محفوظ")
     m1, j1, k1 = get_feeds()
     m2, j2, k2 = get_sat_universe_feeds()
 
