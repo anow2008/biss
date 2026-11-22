@@ -2,6 +2,7 @@ import cloudscraper
 from bs4 import BeautifulSoup
 import re
 import os
+import sys
 import json
 import time
 
@@ -14,12 +15,259 @@ SAT_PASS = os.getenv("SAT_PASS")
 DB_FILE = "last_keys_list.txt"
 JSON_FILE = "for me.json"
 
-# القائمة الكاملة بالروابط بما فيها الرابط الجديد
+SU_BASE = "https://www.sat-universe.com/"
 TARGET_TOPICS = [
     "https://www.sat-universe.com/index.php?threads/wrestling-world-championship-10e-7e.275203/",
     "https://www.sat-universe.com/index.php?threads/african-football-inc-caf-africa-cup-of-nations-other-caf-10%C2%B0e-7%C2%B0e-etc-etc.256328/",
     "https://www.sat-universe.com/index.php?threads/wrestling-wwe-tna-aew-impact-wosw-all-brands-all-events-keys-only-plz-no-chat-use-encryption-chat-for-chat.278606/"
 ]
+
+# ======================================================================
+# الجزء المشترك مع bisskey.py: قراءة live-feed.net (متصفح + ضغط التابات)
+# ======================================================================
+URL = "https://live-feed.net/"
+
+EMOJI_RE = re.compile(r'[\U0001F000-\U0001FAFF\u2600-\u27BF\uFE0F]')
+FREQ_LINE = re.compile(r'^(\d{5})\s*([VHLR])\s*(\d{4,5})$')
+KEY_LINE = re.compile(r'^(?:CW:?\s*)?((?:[0-9A-Fa-f]{2}\s+){7,15}[0-9A-Fa-f]{2})$')
+SAT_LINE = re.compile(r'@\s*[\d.]+\s*°?\s*[EW]', re.IGNORECASE)
+
+
+def format_key(raw_key):
+    clean = re.sub(r'\s+', '', raw_key).upper()
+    return " ".join(clean[i:i + 2] for i in range(0, len(clean), 2))
+
+
+def parse_text(text):
+    """
+    يشتغل على ترتيب الأسطر (من غير الاعتماد على الإيموجي):
+    كل سطر شفرة (8 بايت hex) -> نرجع لورا نلاقي: ID (السطر اللي قبله)، التردد، القمر.
+    """
+    lines = [EMOJI_RE.sub('', l).strip() for l in text.splitlines()]
+    lines = [l for l in lines if l]
+    items = []
+    for i, line in enumerate(lines):
+        m = KEY_LINE.match(line)
+        if not m:
+            continue
+        ch_id = lines[i - 1] if i > 0 else "N/A"
+        header_id = ch_id
+        freq = sat = None
+        freq_idx = None
+        for j in range(i - 1, max(i - 15, -1), -1):
+            if freq is None and FREQ_LINE.match(lines[j]):
+                f = FREQ_LINE.match(lines[j])
+                freq = f"{f.group(1)} {f.group(2)} {f.group(3)}"
+                freq_idx = j
+            elif freq is not None and SAT_LINE.search(lines[j]):
+                sat = lines[j]
+                break
+        if not freq:
+            continue
+        # الكارت الحقيقي فيه سطر البت ريت (Mb/s)؛ عنصر "FEED 07" المخفي مفيهوش -> نتجاهله
+        if not any("Mb/s" in lines[x] for x in range(freq_idx, i)):
+            continue
+        if FREQ_LINE.match(header_id):  # بلوك FEED 07 اللي مفيهوش 🆔: ناخد الاسم اللي فوق القمر
+            ch_id = "N/A"
+            for j in range(i - 1, max(i - 8, 0), -1):
+                if lines[j] == sat and j > 0:
+                    ch_id = lines[j - 1]
+                    break
+        items.append({
+            "satellite": sat or "Unknown",
+            "frequency": freq,
+            "id": ch_id,
+            "key": format_key(m.group(1)),
+        })
+    return items
+
+
+def add_unique(target, new_items):
+    for it in new_items:
+        if it not in target:
+            target.append(it)
+
+
+# ---------- الوضع 1: بدون متصفح (سريع) ----------
+def scrape_static():
+    scraper = cloudscraper.create_scraper(
+        browser={'browser': 'chrome', 'platform': 'windows', 'desktop': True})
+    r = scraper.get(URL)
+    if r.status_code != 200:
+        raise RuntimeError(f"فشل الوصول للموقع: {r.status_code}")
+    soup = BeautifulSoup(r.text, 'html.parser')
+    # get_text بتجيب كمان النص المخفي (التابات 2-3-4 لو موجودة في الـ HTML)
+    text = soup.get_text(separator="\n")
+    with open("debug_page.txt", "w", encoding="utf-8") as f:
+        f.write(text)
+    return parse_text(text)
+
+
+# ---------- الوضع 2: بمتصفح حقيقي (بيدوس على أزرار 1 2 3 4 جوه كل كارت) ----------
+# بيدور على أي عناصر نصها رقم (1..20)، ويطلع لفوق لو الرقم متغلف جوه button/span،
+# وبعدين يجمّع الأزرار اللي ليها نفس الأب (= صف التابات) ويحط عليها علامة data-tabbtn
+MARK_TABS_JS = r"""
+() => {
+  const isNum = t => /^\s*\d{1,2}\s*$/.test(t || '');
+  const groups = new Map();
+  document.querySelectorAll('body *').forEach(e => {
+    if (e.children.length === 0 && isNum(e.textContent)) {
+      let btn = e;
+      while (btn.parentElement && btn.parentElement.children.length === 1 &&
+             isNum(btn.parentElement.textContent)) btn = btn.parentElement;
+      const p = btn.parentElement;
+      if (!p) return;
+      if (!groups.has(p)) groups.set(p, []);
+      if (!groups.get(p).includes(btn)) groups.get(p).push(btn);
+    }
+  });
+  let r = 0, total = 0;
+  const counts = [];
+  groups.forEach((btns, p) => {
+    const nums = btns.map(b => parseInt(b.textContent.trim()));
+    if (btns.length >= 2 && nums.includes(1) && nums.includes(2)) {
+      btns.forEach((b, k) => b.setAttribute('data-tabbtn', r + '-' + k));
+      p.setAttribute('data-tabrow', r);
+      counts.push(btns.length);
+      r++; total += btns.length;
+    }
+  });
+  return counts;
+}
+"""
+
+# من صف الأزرار نطلع لفوق لحد أول عنصر فيه Mb/s = الكارت كله
+CARD_TEXT_JS = r"""
+(row) => {
+  let el = row;
+  while (el && !/Mb\/s/.test(el.innerText || '')) el = el.parentElement;
+  return el ? el.innerText : row.innerText;
+}
+"""
+
+MARK_NEXT_JS = r"""
+(row) => {
+  let el = row;
+  while (el && !/Mb\/s/.test(el.innerText || '')) el = el.parentElement;
+  if (!el) return 0;
+  const cls = e => (typeof e.className === 'string' ? e.className : (e.className && e.className.baseVal) || '');
+  const arrows = ['›', '>', '❯', '→', '▶', '»', '❭', '⟩'];
+  let c = [...el.querySelectorAll('button,a,div,span,i,svg')].filter(e => {
+    const attrs = cls(e) + ' ' + (e.getAttribute('aria-label') || '') + ' ' + (e.title || '');
+    return /next|right|forward|chevron-r|arrow-r/i.test(attrs) || arrows.includes((e.textContent || '').trim());
+  });
+  // نفضّل أصغر عنصر (الزر نفسه مش الحاوية)
+  c = c.filter(e => !c.some(o => o !== e && e.contains(o)));
+  if (!c.length) return 0;
+  c[0].setAttribute('data-nextbtn', row.getAttribute('data-tabrow'));
+  return c.length;
+}
+"""
+
+ROW_HTML_JS = r"""
+(row) => {
+  let el = row;
+  for (let i = 0; i < 2 && el.parentElement; i++) el = el.parentElement;
+  return el.outerHTML.slice(0, 8000);
+}
+"""
+
+
+def scrape_browser(debug=False):
+    from playwright.sync_api import sync_playwright
+    feeds = []
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page(viewport={"width": 1400, "height": 900})
+        requests_log = []
+        page.on("response", lambda resp: requests_log.append(
+            f"{resp.request.resource_type} {resp.status} {resp.url}")
+            if resp.request.resource_type in ("xhr", "fetch") else None)
+        page.on("websocket", lambda ws: requests_log.append(f"websocket {ws.url}"))
+        page.goto(URL, wait_until="networkidle", timeout=90000)
+        page.wait_for_timeout(2500)
+
+        if debug:
+            raw = page.content()
+            with open("debug_page.html", "w", encoding="utf-8") as f:
+                f.write(raw)
+            hexkeys = set(re.findall(r'\b[0-9A-Fa-f]{16}\b', raw))
+            print(f"[debug] HTML الخام فيه {len(hexkeys)} شفرة 16-hex مختلفة")
+
+        # التاب الظاهر في كل الكروت
+        add_unique(feeds, parse_text(page.inner_text("body")))
+        print(f"من غير ضغط: {len(feeds)} نتيجة")
+
+        counts = page.evaluate(MARK_TABS_JS)
+        rows = len(counts)
+        print(f"لقيت {rows} صف تابات، أزرار كل صف: {counts}")
+
+        if debug and rows:
+            html = page.locator('[data-tabrow="0"]').evaluate(ROW_HTML_JS)
+            with open("debug_card.html", "w", encoding="utf-8") as f:
+                f.write(html)
+            print("اتحفظ debug_card.html")
+
+        for r in range(rows):
+            for k in range(counts[r]):
+                try:
+                    # الموقع بيعمل refresh للـ DOM، فنعيد تعليم الأزرار قبل كل ضغطة
+                    new_counts = page.evaluate(MARK_TABS_JS)
+                    if r >= len(new_counts) or k >= new_counts[r]:
+                        print(f"  كارت {r} تاب {k + 1}: الزر اختفى بعد refresh")
+                        continue
+                    row = page.locator(f'[data-tabrow="{r}"]')
+                    btn = page.locator(f'[data-tabbtn="{r}-{k}"]')
+                    btn.scroll_into_view_if_needed(timeout=3000)
+                    try:
+                        btn.click(timeout=3000)
+                    except Exception:
+                        btn.click(timeout=3000, force=True)
+                    page.wait_for_timeout(500)
+                    before = len(feeds)
+                    card_text = row.evaluate(CARD_TEXT_JS)
+                    add_unique(feeds, parse_text(card_text))
+                    add_unique(feeds, parse_text(page.inner_text("body")))
+                    print(f"  كارت {r} تاب {k + 1}: +{len(feeds) - before}")
+                except Exception as e:
+                    print(f"  كارت {r} تاب {k + 1}: فشل ({str(e)[:100]})")
+
+            # --- الطريقة التانية: السهم اليمين (carousel) ---
+            try:
+                page.evaluate(MARK_TABS_JS)
+                row = page.locator(f'[data-tabrow="{r}"]')
+                found = row.evaluate(MARK_NEXT_JS)
+                nxt = page.locator(f'[data-nextbtn="{r}"]')
+                if found and nxt.count():
+                    for step in range(counts[r] + 1):
+                        before = len(feeds)
+                        try:
+                            nxt.first.click(timeout=2000, force=True)
+                        except Exception:
+                            break
+                        page.wait_for_timeout(500)
+                        add_unique(feeds, parse_text(row.evaluate(CARD_TEXT_JS)))
+                        print(f"  كارت {r} سهم {step + 1}: +{len(feeds) - before}")
+                else:
+                    print(f"  كارت {r}: مالقيتش سهم")
+            except Exception as e:
+                print(f"  كارت {r} سهم: فشل ({str(e)[:100]})")
+        browser.close()
+        if debug:
+            with open("debug_requests.txt", "w", encoding="utf-8") as f:
+                f.write("\n".join(requests_log))
+            print(f"اتحفظ debug_requests.txt ({len(requests_log)} طلب)")
+    return feeds
+
+
+
+
+# ======================================================================
+# أدوات عامة
+# ======================================================================
+def load_old_keys():
+    return open(DB_FILE, "r").read() if os.path.exists(DB_FILE) else ""
+
 
 def update_json_file(new_data_list):
     current_data = []
@@ -27,124 +275,194 @@ def update_json_file(new_data_list):
         try:
             with open(JSON_FILE, "r", encoding="utf-8") as f:
                 current_data = json.load(f)
-        except:
+        except Exception:
             current_data = []
-    updated_data = new_data_list + current_data
-    updated_data = updated_data[:100]
+    updated_data = (new_data_list + current_data)[:100]
     with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(updated_data, f, ensure_ascii=False, indent=4)
 
-def get_feeds():
-    """الموقع الأول: live-feed.net - (نفس كودك الأصلي تماماً)"""
-    URL = "https://live-feed.net/"
-    scraper = cloudscraper.create_scraper()
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    try:
-        response = scraper.get(URL, headers=headers, timeout=20)
-        cards = re.split(r'📡', response.text)
-        old_keys = open(DB_FILE, "r").read() if os.path.exists(DB_FILE) else ""
-        messages, json_entries, new_keys = [], [], []
 
-        for card in cards[1:]:
-            soup = BeautifulSoup(card, 'html.parser')
-            text = soup.get_text(separator='|')
-            sat_m = re.search(r'([^|]+)@', text)
-            sat = sat_m.group(1).strip() if sat_m else "Unknown Sat"
-            # تعديل التردد ليشمل 4 أو 5 أرقام لضمان الدقة
-            freq_m = re.search(r'(\d{4,5}\s[VH]\s\d{4,5})', text)
-            freq = freq_m.group(1).strip() if freq_m else "00000 V 0000"
-            id_m = re.search(r'🆔\s*\|?([^|]+)', text)
-            channel = id_m.group(1).strip() if id_m else "Feed"
-            key_m = re.search(r'([A-Fa-f0-9]{2}(?:\s[A-Fa-f0-9]{2}){7})', text)
-            if key_m:
-                raw_key = key_m.group(1).replace(" ", "").upper()
-                if len(raw_key) == 16 and raw_key not in old_keys:
-                    fmt_key = ' '.join(raw_key[i:i+2] for i in range(0, 16, 2))
-                    new_keys.append(raw_key)
-                    messages.append(f"Sat: {sat}\nFreq: {freq}\nId: {channel}\n🔑 CW: {fmt_key}")
-                    json_entries.append({"satellite": sat, "frequency": freq, "id": channel, "key": fmt_key})
-        return messages, json_entries, new_keys
-    except:
+# ======================================================================
+# الموقع الأول: live-feed.net
+# ======================================================================
+def get_feeds():
+    try:
+        try:
+            feeds = scrape_browser()
+        except Exception as e:  # Playwright مش متثبت أو الصفحة ما فتحتش
+            print(f"[live-feed] وضع المتصفح فشل ({e}) -> الوضع العادي (تاب 1 بس)")
+            feeds = scrape_static()
+    except Exception as e:
+        print(f"[live-feed] خطأ: {e}")
         return [], [], []
 
+    old_keys = load_old_keys()
+    messages, json_entries, new_keys = [], [], []
+    for it in feeds:
+        raw_key = it["key"].replace(" ", "").upper()
+        if len(raw_key) == 16 and raw_key not in old_keys and raw_key not in new_keys:
+            new_keys.append(raw_key)
+            messages.append(
+                f"📡 Sat: {it['satellite']}\n📶 Freq: {it['frequency']}\n"
+                f"🆔 Id: {it['id']}\n🔑 CW: {it['key']}")
+            json_entries.append(it)
+    print(f"[live-feed] {len(feeds)} فيد، الجديد: {len(json_entries)}")
+    return messages, json_entries, new_keys
+
+
+# ======================================================================
+# الموقع التاني: Sat-Universe
+# ======================================================================
+HEX8 = r'(?:[0-9A-Fa-f]{2}[ \t\-:]*){8}'
+KEY_PATTERNS = [
+    re.compile(r'(?:CW|KEY|BISS)\s*[:=\-]?\s*(' + HEX8 + r')', re.I),            # CW: 11 22 ...
+    re.compile(r'\b((?:[0-9A-Fa-f]{2}[ \-:]){7}[0-9A-Fa-f]{2})\b'),               # 11 22 33 ...
+    re.compile(r'\b([0-9A-Fa-f]{16})\b'),                                          # 1122334455667788
+]
+SU_SAT_AT = re.compile(r'([A-Za-z0-9/\- ]{2,40}@\s*[\d.]+\s*°?\s*[EW])', re.I)
+SU_SAT_ALT = re.compile(r'(\d{1,3}(?:\.\d)?\s?°\s?[EW]|Eutelsat\s?[^|\n]*)', re.I)
+SU_FREQ = re.compile(r'(\d{4,5})[\s:|\-/]*([VHLR])[\s:|\-/]*(\d{4,5})', re.I)
+SU_ID = re.compile(r'(?:ID|Channel|Service)\s*:\s*([^\n|]+)', re.I)
+
+
+def extract_from_post(text):
+    """يطلع كل الشفرات في البوست (مش أول واحدة بس)، ومعاها القمر/التردد/ID من السياق اللي قبلها."""
+    found = []
+    taken = []
+    for pat in KEY_PATTERNS:
+        for m in pat.finditer(text):
+            s, e = m.start(1), m.end(1)
+            if any(s < te and e > ts for ts, te in taken):
+                continue
+            raw = re.sub(r'[^0-9A-Fa-f]', '', m.group(1)).upper()
+            if len(raw) != 16:
+                continue
+            if pat is KEY_PATTERNS[2] and not (re.search(r'[A-F]', raw) and re.search(r'\d', raw)):
+                continue  # 16 حرف hex عشوائي من غير بادئة لازم يكون فيه أرقام وحروف
+            taken.append((s, e))
+            found.append((s, e, raw))
+    found.sort()
+
+    entries, prev_end = [], 0
+    for s, e, raw in found:
+        ctx = text[max(prev_end, s - 600):e]
+        prev_end = e
+
+        sat = "Feed"
+        sm = SU_SAT_AT.findall(ctx)
+        if sm:
+            sat = sm[-1].strip()
+        else:
+            sm = SU_SAT_ALT.findall(ctx)
+            if sm:
+                sat = sm[-1].strip()
+
+        freq = "Feed Freq"
+        fm = list(SU_FREQ.finditer(ctx))
+        if fm:
+            f = fm[-1]
+            freq = f"{f.group(1)} {f.group(2).upper()} {f.group(3)}"
+
+        im = SU_ID.findall(ctx)
+        channel = im[-1].strip() if im else "Feed"
+
+        entries.append({
+            "satellite": sat,
+            "frequency": freq,
+            "id": channel,
+            "key": " ".join(raw[i:i + 2] for i in range(0, 16, 2)),
+        })
+    return entries
+
+
+def sat_universe_login(scraper, headers):
+    if not SAT_USER or not SAT_PASS:
+        print("[sat-universe] SAT_USER/SAT_PASS مش موجودين في الـ Secrets")
+        return False
+    page = scraper.get(SU_BASE + "index.php?login/", headers=headers, timeout=30)
+    soup = BeautifulSoup(page.text, 'html.parser')
+    tok = soup.find('input', {'name': '_xfToken'})
+    token = tok.get('value', '') if tok else ''
+    resp = scraper.post(
+        SU_BASE + "index.php?login/login",
+        data={'login': SAT_USER, 'password': SAT_PASS, 'remember': 1,
+              '_xfRedirect': SU_BASE, '_xfToken': token},
+        headers=headers, timeout=30)
+    ok = 'data-logged-in="true"' in resp.text
+    print(f"[sat-universe] تسجيل الدخول: {'نجح' if ok else 'فشل (تأكد من SAT_USER/SAT_PASS أو الـ Cloudflare)'}")
+    return ok
+
+
+def last_pages(scraper, headers, topic_url, how_many=2):
+    html = scraper.get(topic_url, headers=headers, timeout=30).text
+    soup = BeautifulSoup(html, 'html.parser')
+    nav = soup.find('ul', class_='pageNav-main')
+    nums = []
+    if nav:
+        nums = [int(a.get_text(strip=True)) for a in nav.find_all('a')
+                if a.get_text(strip=True).isdigit()]
+    last = max(nums) if nums else 1
+    pages = list(range(max(1, last - how_many + 1), last + 1))
+    return [topic_url if p == 1 else f"{topic_url}page-{p}" for p in pages]
+
+
 def get_sat_universe_feeds():
-    """الموقع الثاني: Sat-Universe (تعديل جذري لسحب الشفرات المستعصية)"""
     scraper = cloudscraper.create_scraper()
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     messages, json_entries, new_keys = [], [], []
-    old_keys = open(DB_FILE, "r").read() if os.path.exists(DB_FILE) else ""
-    
+    old_keys = load_old_keys()
     try:
-        scraper.post("https://www.sat-universe.com/index.php?login/login", 
-                     data={'login': SAT_USER, 'password': SAT_PASS, 'remember': 1}, headers=headers)
-        
+        sat_universe_login(scraper, headers)
         for topic_url in TARGET_TOPICS:
-            main_page = scraper.get(topic_url, headers=headers).text
-            main_soup = BeautifulSoup(main_page, 'html.parser')
-            nav = main_soup.find('ul', class_='pageNav-main')
-            target = f"{topic_url}page-{nav.find_all('li')[-1].text}" if nav else topic_url
-            
-            response = scraper.get(target, headers=headers).text
-            posts = BeautifulSoup(response, 'html.parser').find_all('div', class_='bbWrapper')
-            
-            for post in posts:
-                # سحب النص مع الحفاظ على الأسطر لسهولة البحث
-                text = post.get_text(separator='\n').strip()
-                
-                # 1. نظام سحب الشفرة (يبحث عن 16 حرف هيكسا حتى لو بينها مسافات)
-                # نمط مرن جداً للـ CW
-                key_match = re.search(r'(?:CW:?\s*)([A-F0-9\s]{16,24})', text, re.I)
-                if not key_match:
-                    # محاولة أخيرة: البحث عن أي 16 حرف هيكسا متتاليين بعد تنظيف المسافات
-                    clean_text = text.replace(" ", "").replace("\n", "").upper()
-                    key_match = re.search(r'([A-F0-9]{16})', clean_text)
-
-                if key_match:
-                    if hasattr(key_match, 'group'):
-                        raw_key = key_match.group(1).replace(" ", "").replace("\n", "").upper()
-                    else:
-                        raw_key = key_match[0]
-
-                    if len(raw_key) == 16 and raw_key not in old_keys and raw_key not in new_keys:
-                        # 2. استخراج القمر (يدعم صيغ مثل 87.0W أو Eutelsat)
-                        sat_m = re.search(r'(\d{1,3}(?:\.\d)?°?\s?[EW]|Eutelsat\s?[^|\n]*)', text, re.I)
-                        sat = sat_m.group(1).strip() if sat_m else "Feed"
-
-                        # 3. استخراج التردد (يدعم 4 أو 5 أرقام مثل 4110)
-                        freq_m = re.search(r'(\d{4,5})[\s:|-]*([VH])[\s:|-]*(\d{4,5})', text, re.I)
-                        if freq_m:
-                            freq = f"{freq_m.group(1)} {freq_m.group(2).upper()} {freq_m.group(3)}"
-                        else:
-                            freq = "Feed Freq"
-
-                        # 4. استخراج اسم القناة (ID)
-                        id_m = re.search(r'ID:\s*([^\n|]+)', text, re.I)
-                        channel = id_m.group(1).strip() if id_m else "Feed"
-
-                        fmt_key = ' '.join(raw_key[i:i+2] for i in range(0, 16, 2))
-                        new_keys.append(raw_key)
-                        messages.append(f"📡 Sat: {sat}\n📶 Freq: {freq}\n🆔 Id: {channel}\n🔑 CW: {fmt_key}")
-                        json_entries.append({"satellite": sat, "frequency": freq, "id": channel, "key": fmt_key})
-                        
+            try:
+                for target in last_pages(scraper, headers, topic_url):
+                    resp = scraper.get(target, headers=headers, timeout=30)
+                    soup = BeautifulSoup(resp.text, 'html.parser')
+                    posts = soup.find_all('div', class_='bbWrapper')
+                    print(f"[sat-universe] {target[-40:]} -> {len(posts)} بوست")
+                    for post in posts:
+                        for q in post.find_all('blockquote'):
+                            q.decompose()  # نتجاهل الاقتباسات عشان مانكررش شفرات قديمة
+                        text = post.get_text(separator='\n').strip()
+                        for it in extract_from_post(text):
+                            raw = it["key"].replace(" ", "")
+                            if raw in old_keys or raw in new_keys:
+                                continue
+                            new_keys.append(raw)
+                            json_entries.append(it)
+                            messages.append(
+                                f"📡 Sat: {it['satellite']}\n📶 Freq: {it['frequency']}\n"
+                                f"🆔 Id: {it['id']}\n🔑 CW: {it['key']}")
+            except Exception as e:
+                print(f"[sat-universe] خطأ في {topic_url[-50:]}: {e}")
+        print(f"[sat-universe] الجديد: {len(json_entries)}")
         return messages, json_entries, new_keys
     except Exception as e:
-        print(f"Error in Sat-Universe: {e}")
+        print(f"[sat-universe] خطأ: {e}")
         return [], [], []
+
 
 if __name__ == "__main__":
     m1, j1, k1 = get_feeds()
     m2, j2, k2 = get_sat_universe_feeds()
-    
+
     all_msgs = m1 + m2
     all_json = j1 + j2
     all_keys = k1 + k2
-    
+    print(f"إجمالي الشفرات الجديدة: {len(all_keys)}")
+
     if all_keys:
         with open(DB_FILE, "a") as f:
-            for k in all_keys: f.write(k + "\n")
+            for k in all_keys:
+                f.write(k + "\n")
         update_json_file(all_json)
         if TOKEN and CHAT_ID:
             s = cloudscraper.create_scraper()
             for m in all_msgs:
-                s.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage", data={"chat_id": CHAT_ID, "text": m})
-                time.sleep(1) # تأخير لتفادي حظر التلجرام
+                r = s.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage",
+                           data={"chat_id": CHAT_ID, "text": m})
+                if r.status_code != 200:
+                    print(f"تلجرام رجّع {r.status_code}: {r.text[:120]}")
+                time.sleep(1)  # تأخير لتفادي حظر التلجرام
+        else:
+            print("BOT_TOKEN/CHAT_ID مش موجودين، مفيش إرسال لتلجرام")
