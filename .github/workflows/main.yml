@@ -32,7 +32,7 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
           SAT_USER: ${{ secrets.SAT_USER }}
           SAT_PASS: ${{ secrets.SAT_PASS }}
-          SU_COOKIES: ${{ secrets.SU_COOKIES }}
+          SU_COOKIES: ${{ secrets.SU_COOKIES || secrets.MY_FORUM_COOKIES }}
         run: python Forme.py
 
       - name: Commit and Push
