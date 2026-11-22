@@ -322,7 +322,7 @@ KEY_PATTERNS = [
 SU_SAT_AT = re.compile(r'([A-Za-z0-9/\- ]{2,40}@\s*[\d.]+\s*°?\s*[EW])', re.I)
 SU_SAT_ALT = re.compile(r'(\d{1,3}(?:\.\d)?\s?°\s?[EW]|Eutelsat\s?[^|\n]*)', re.I)
 SU_FREQ = re.compile(r'(\d{4,5})[\s:|\-/]*([VHLR])[\s:|\-/]*(\d{4,5})', re.I)
-SU_ID = re.compile(r'(?:ID|Channel|Service)\s*:\s*([^\n|]+)', re.I)
+SU_ID = re.compile(r'(?:\bID\b|🆔|\bChannel\b|\bService\b)\s*:?\s*([^\n|]+)', re.I)
 
 
 def extract_from_post(text):
@@ -379,6 +379,30 @@ SU_UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
          '(KHTML, like Gecko) Chrome/124.0 Safari/537.36')
 
 
+def parse_cookies(raw):
+    """يقبل: "xf_user=...; xf_session=..." أو JSON ({name: value} أو قائمة {name,value})."""
+    raw = (raw or "").strip()
+    if not raw:
+        return {}
+    try:
+        data = json.loads(raw)
+        if isinstance(data, dict):
+            return {str(k): str(v) for k, v in data.items()}
+        if isinstance(data, list):
+            return {str(c["name"]): str(c["value"]) for c in data if "name" in c and "value" in c}
+    except Exception:
+        pass
+    out = {}
+    for part in raw.split(";"):
+        if "=" in part:
+            k, v = part.split("=", 1)
+            out[k.strip()] = v.strip()
+    return out
+
+
+SU_COOKIES = parse_cookies(os.getenv("SU_COOKIES") or "")
+
+
 def _is_thread_page(html):
     return 'class="bbWrapper"' in html or "bbWrapper" in html
 
@@ -390,6 +414,8 @@ def sat_universe_login(scraper, headers):
     tok = soup.find('input', {'name': '_xfToken'})
     token = tok.get('value', '') if tok else ''
     print(f"[sat-universe] صفحة الدخول: status={page.status_code}, token={'موجود' if token else 'مش موجود'}")
+    if page.status_code in (403, 503) or "Just a moment" in page.text or "cf-chl" in page.text:
+        print("[sat-universe] !! الموقع عارض تحدي Cloudflare لسيرفر GitHub -> استخدم SU_COOKIES أو طريقة المتصفح !!")
     resp = scraper.post(
         SU_BASE + "index.php?login/login",
         data={'login': SAT_USER, 'password': SAT_PASS, 'remember': 1,
@@ -417,8 +443,18 @@ def collect_posts_requests():
     """يرجّع قائمة نصوص البوستات، أو None لو الدخول فشل."""
     scraper = cloudscraper.create_scraper()
     headers = {'User-Agent': SU_UA}
-    if not sat_universe_login(scraper, headers):
-        return None
+    logged = False
+    if SU_COOKIES:
+        for k, v in SU_COOKIES.items():
+            scraper.cookies.set(k, v, domain="www.sat-universe.com")
+        r = scraper.get(SU_BASE + "index.php", headers=headers, timeout=30)
+        logged = 'data-logged-in="true"' in r.text
+        print(f"[sat-universe] الدخول بالكوكيز (requests): {'نجح' if logged else 'فشل (الكوكيز منتهية أو غلط)'} (status={r.status_code})")
+    if not logged:
+        if not (SAT_USER and SAT_PASS):
+            return None
+        if not sat_universe_login(scraper, headers):
+            return None
     texts = []
     for topic_url in TARGET_TOPICS:
         try:
@@ -473,16 +509,25 @@ def collect_posts_browser():
         browser = p.chromium.launch(headless=True)
         ctx = browser.new_context(user_agent=SU_UA, viewport={"width": 1300, "height": 900})
         page = ctx.new_page()
-        page.goto(SU_BASE + "index.php?login/", wait_until="domcontentloaded", timeout=60000)
+        if SU_COOKIES:
+            ctx.add_cookies([{"name": k, "value": v, "domain": "www.sat-universe.com", "path": "/"}
+                             for k, v in SU_COOKIES.items()])
+        page.goto(SU_BASE + "index.php", wait_until="domcontentloaded", timeout=60000)
         page.wait_for_timeout(2500)
-        try:
-            page.fill('input[name="login"]', SAT_USER or "")
-            page.fill('input[name="password"]', SAT_PASS or "")
-            page.press('input[name="password"]', "Enter")
-            page.wait_for_load_state("networkidle", timeout=60000)
-        except Exception as e:
-            print(f"[sat-universe] فورم الدخول بالمتصفح فشل: {str(e)[:120]}")
         logged = page.locator('html[data-logged-in="true"]').count() > 0
+        if SU_COOKIES:
+            print(f"[sat-universe] الدخول بالكوكيز (متصفح): {'نجح' if logged else 'فشل'}")
+        if not logged and SAT_USER and SAT_PASS:
+            page.goto(SU_BASE + "index.php?login/", wait_until="domcontentloaded", timeout=60000)
+            page.wait_for_timeout(2500)
+            try:
+                page.fill('input[name="login"]', SAT_USER)
+                page.fill('input[name="password"]', SAT_PASS)
+                page.press('input[name="password"]', "Enter")
+                page.wait_for_load_state("networkidle", timeout=60000)
+            except Exception as e:
+                print(f"[sat-universe] فورم الدخول بالمتصفح فشل: {str(e)[:120]}")
+            logged = page.locator('html[data-logged-in="true"]').count() > 0
         print(f"[sat-universe] الدخول بالمتصفح: {'نجح' if logged else 'فشل'} (url={page.url[-60:]})")
         if not logged:
             page.screenshot(path="debug_su_login.png")
@@ -514,8 +559,8 @@ def get_sat_universe_feeds():
     messages, json_entries, new_keys = [], [], []
     old_keys = load_old_keys()
 
-    if not SAT_USER or not SAT_PASS:
-        print("[sat-universe] SAT_USER/SAT_PASS مش موجودين في الـ Secrets (Settings > Secrets > Actions)")
+    if not SU_COOKIES and (not SAT_USER or not SAT_PASS):
+        print("[sat-universe] لا SU_COOKIES ولا SAT_USER/SAT_PASS موجودين في الـ Secrets")
         return [], [], []
 
     texts = None
