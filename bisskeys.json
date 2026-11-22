@@ -6,42 +6,6 @@
         "key": "E3 57 95 CF 42 83 76 3B"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "10728 V 7200",
-        "id": "SINTRA 2 MN",
-        "key": "F7 A5 9D 39 B3 E6 C1 5A"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11255 H 7500",
-        "id": "ITA-349 Integr.",
-        "key": "A1 B2 C3 16 D4 E5 D8 91"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11258 V 7120",
-        "id": "Pitch France v Argentina BU",
-        "key": "97 27 32 F0 4F 24 6A DD"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11265 H 9600",
-        "id": "ITA-349 Host",
-        "key": "A1 B2 C3 16 D4 E5 D8 91"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11267 V 7120",
-        "id": "Pitch Wales v Australia BU",
-        "key": "33 DD DE EE FC 21 11 2E"
-    },
-    {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11291 H 7500",
-        "id": "AFD",
-        "key": "66 C3 E9 12 A4 65 27 30"
-    },
-    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "10839 H 7200",
         "id": "HOTBIRD 13F // BOCA JRS. (ARG) vs ATLETICO MINEIRO (BRA) - INGLES EUROPA",
@@ -69,31 +33,13 @@
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11058 H 7200",
         "id": "IMG 1 EU",
-        "key": "12 3C AA F8 14 22 A3 D9"
+        "key": "72 4C 9D 5B B4 35 15 FE"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11066 V 14240",
-        "id": "France v Argentina WF MAIN",
-        "key": "97 27 32 F0 4F 24 6A DD"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11084 V 14240",
-        "id": "Pitch Wales v Aus WF MAIN",
-        "key": "33 DD DE EE FC 21 11 2E"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11104 H 9875",
-        "id": "D366_RTL_DIGI_Path1",
-        "key": "20 26 FE 44 BA 21 11 EC"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11181 H 7200",
-        "id": "F509 POISSY main",
-        "key": "AB CD 12 8A 34 EF FF 22"
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 35 12 FB"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
@@ -106,12 +52,6 @@
         "frequency": "12603 H 7300",
         "id": "D-413",
         "key": "21 11 AC DE EB 19 75 79"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12644 H 30000",
-        "id": "UFC PATH A P",
-        "key": "99 CA 34 97 DB 67 24 66"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
@@ -130,23 +70,5 @@
         "frequency": "10762 H 30000",
         "id": "ESPN EMEA Service-6",
         "key": "A1 52 93 86 52 81 76 49"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12644 H 30000",
-        "id": "UFC PATH B P",
-        "key": "99 CA 34 97 DB 67 24 66"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12644 H 30000",
-        "id": "UFC PATH C P",
-        "key": "99 CA 34 97 DB 67 24 66"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12644 H 30000",
-        "id": "UFC PATH D P",
-        "key": "99 CA 34 97 DB 67 24 66"
     }
 ]
