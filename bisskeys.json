@@ -7,9 +7,9 @@
     },
     {
         "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11305 V 7200",
-        "id": "SINTRA 1 MN",
-        "key": "C1 B5 5E D4 A6 F3 78 11"
+        "frequency": "10721 H 7500",
+        "id": "AFD",
+        "key": "66 C3 E9 12 A4 65 27 30"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -40,18 +40,6 @@
         "frequency": "11068 H 7200",
         "id": "IMG 2 EU",
         "key": "72 4C 9D 5B B4 35 12 FB"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11071 V 7200",
-        "id": "Main E-285",
-        "key": "55 4A A8 47 5C 5E B5 6F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11591 H 7200",
-        "id": "Fi01 ACB",
-        "key": "AE 86 59 8D 80 77 3C 33"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
