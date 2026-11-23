@@ -205,7 +205,7 @@ def scrape_browser(debug=False):
                         btn.click(timeout=3000, force=True)
                     page.wait_for_timeout(500)
                     before = len(feeds)
-                    card_text = row.evaluate(CARD_TEXT_JS)
+                    card_text = row.evaluate(CARD_TEXT_JS, timeout=5000)
                     add_unique(feeds, parse_text(card_text))
                     add_unique(feeds, parse_text(page.inner_text("body")))
                     print(f"  كارت {r} تاب {k + 1}: +{len(feeds) - before}")
@@ -226,7 +226,7 @@ def scrape_browser(debug=False):
                         except Exception:
                             break
                         page.wait_for_timeout(500)
-                        add_unique(feeds, parse_text(row.evaluate(CARD_TEXT_JS)))
+                        add_unique(feeds, parse_text(row.evaluate(CARD_TEXT_JS, timeout=5000)))
                         print(f"  كارت {r} سهم {step + 1}: +{len(feeds) - before}")
                 else:
                     print(f"  كارت {r}: مالقيتش سهم")
@@ -240,7 +240,23 @@ def scrape_browser(debug=False):
     return feeds
 
 
+class _Tee:
+    """يطبع في الشاشة وفي run_log_bisskey.txt في نفس الوقت."""
+    def __init__(self, *streams):
+        self.streams = streams
+
+    def write(self, data):
+        for st in self.streams:
+            st.write(data)
+            st.flush()
+
+    def flush(self):
+        for st in self.streams:
+            st.flush()
+
+
 def main():
+    sys.stdout = _Tee(sys.__stdout__, open("run_log_bisskey.txt", "w", encoding="utf-8"))
     static_only = "--static" in sys.argv
     debug = "--debug" in sys.argv
     try:
