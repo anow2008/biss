@@ -1,5 +1,53 @@
 [
     {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11172 H 7200",
+        "id": "Qat037 M",
+        "key": "D6 30 E2 E8 64 0D 43 B4"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11163 H 7200",
+        "id": "OMAN M",
+        "key": "0C 4E 85 DF AF 81 8E BE"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "A1 52 93 86 52 81 76 49"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-5",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10996 V 7500",
+        "id": "POL086 TVN24 WAW",
+        "key": "77 93 52 5C 99 08 86 27"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 35 12 FB"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11059 H 7200",
+        "id": "IMG 1 EU",
+        "key": "72 4C 9D 5B B4 35 15 FE"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11052 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
         "satellite": "Eutelsat 10A @ 10.0°E",
         "frequency": "11291 H 7500",
         "id": "AFD",
@@ -16,59 +64,5 @@
         "frequency": "11071 V 7200",
         "id": "Main E-285",
         "key": "55 4A A8 47 5C 5E B5 6F"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12614 H 4938",
-        "id": "YSM-021",
-        "key": "20 10 20 50 25 20 26 6B"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "10986 V 9600",
-        "id": "POL-011",
-        "key": "AB BA 26 8B DC AE 11 9B"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 V 7200",
-        "id": "OLYMPIAKOS VS IRAKLIS",
-        "key": "33 CF 75 77 9E F1 96 25"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11599 H 7200",
-        "id": "ITA 491",
-        "key": "39 EC E8 0D AF 3C 5B 46"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11190 H 7200",
-        "id": "E 095 MAIN",
-        "key": "AA BB 20 85 26 11 22 59"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "PAO VS OFI",
-        "key": "73 57 BD 87 C2 2E 7D 6D"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12594 H 7200",
-        "id": "CEV XTB KAP NAP",
-        "key": "13 57 AB 15 CD 24 68 59"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11125 H 4938",
-        "id": "MTVA SNG HUNGARY",
-        "key": "52 B5 7C 83 66 D7 40 7D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11062 V 7200",
-        "id": "POR 21",
-        "key": "74 63 80 57 11 EA 52 4D"
     }
 ]
