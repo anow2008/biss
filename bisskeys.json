@@ -1,21 +1,15 @@
 [
     {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11154 H 7200",
-        "id": "UAE074-M",
-        "key": "8A DE 4F B7 D1 0B 04 E0"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11172 H 7200",
-        "id": "Qat037 M",
-        "key": "D6 30 E2 E8 64 0D 43 B4"
-    },
-    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
         "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "10721 H 7500",
+        "id": "AFD",
+        "key": "66 C3 E9 12 A4 65 27 30"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -49,21 +43,9 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12602 V 7200",
-        "id": "ENC-2 supertennis main",
-        "key": "85 8B 6B 7B 87 D7 1F 7D"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "ENC-1 main INT",
-        "key": "35 7D 2A DC 1E 60 EB 69"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11163 H 7200",
-        "id": "OMAN M",
-        "key": "0C 4E 85 DF AF 81 8E BE"
+        "frequency": "11591 H 7500",
+        "id": "X20-01 SDI Enc 2",
+        "key": "11 24 20 55 26 AA BB 8B"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
