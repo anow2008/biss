@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # ubuntu-latest بقى 26.04 وPlaywright مش مضمون عليه
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -18,7 +18,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
       - name: Install Dependencies
         run: |
@@ -29,11 +29,15 @@ jobs:
         run: python bisskey.py --debug
 
       - name: Commit and Push
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add bisskeys.json
+          for f in bisskeys.json run_log_bisskey.txt; do
+            [ -f "$f" ] && git add "$f"
+          done
           git diff --staged --quiet || git commit -m "Update biss keys"
+          git pull --rebase || true
           git push
 
       - name: Upload debug files
