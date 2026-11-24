@@ -1,7 +1,7 @@
-بدأ التشغيل: 2026-11-23 14:44:03 UTC
+بدأ التشغيل: 2026-11-24 02:02:23 UTC
 BOT_TOKEN: موجود | CHAT_ID: موجود | SAT_USER: موجود | SAT_PASS: موجود | SU_COOKIES: 2 كوكي
-last_keys_list.txt: 0 فيد قديم محفوظ
-من غير ضغط: 11 نتيجة
+last_keys_list.txt: 14 فيد قديم محفوظ
+من غير ضغط: 6 نتيجة
 لقيت 2 صف تابات، أزرار كل صف: [4, 7]
   كارت 0 تاب 1: +0
   كارت 0 تاب 2: +1
@@ -27,7 +27,7 @@ last_keys_list.txt: 0 فيد قديم محفوظ
   كارت 1 سهم 6: +0
   كارت 1 سهم 7: +0
   كارت 1 سهم 8: +0
-[live-feed] 14 فيد، الجديد: 14
+[live-feed] 9 فيد، الجديد: 0
 [sat-universe] الدخول بالكوكيز (requests): فشل (الكوكيز منتهية أو غلط) (status=200)
 [sat-universe] صفحة الدخول: status=200, token=موجود
 [sat-universe] الدخول بـ requests: فشل (status=200)
@@ -36,4 +36,4 @@ last_keys_list.txt: 0 فيد قديم محفوظ
 [sat-universe] الدخول بالمتصفح: فشل (url=https://www.sat-universe.com/index.php?login/login)
 [sat-universe] إجمالي البوستات اللي اتقرت: 0
 [sat-universe] الجديد: 0
-إجمالي الشفرات الجديدة: 14
+إجمالي الشفرات الجديدة: 0
