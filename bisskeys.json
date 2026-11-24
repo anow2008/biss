@@ -1,1 +1,170 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "11163 H 7200",
+        "id": "Cubic073-A",
+        "key": "C3 7F 93 D5 79 B5 6C 9A"
+    },
+    {
+        "satellite": "Eutelsat 3B @ 3.1°E",
+        "frequency": "10960 H 7500",
+        "id": "beIN SPORTS",
+        "key": "51 3B 68 F4 8C 30 5E 1A"
+    },
+    {
+        "satellite": "Eutelsat 3B @ 3.1°E",
+        "frequency": "10970 H 7500",
+        "id": "Service-1",
+        "key": "82 29 C6 71 5A D7 DF 10"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-1",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10802 H 7200",
+        "id": "EHF-ELM-PEL-GDA YSM-016M",
+        "key": "40 A5 43 28 65 A4 D1 DA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10810 H 7200",
+        "id": "EHF-ELM-PRE-SES",
+        "key": "91 5C 82 6F 5D 12 FB 6A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10819 H 7200",
+        "id": "SWE-043 EHF-ELM-MTH-VAL",
+        "key": "68 31 12 AB DF 9C FA 75"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7200",
+        "id": "EHF-ELM-IZV-BUC",
+        "key": "62 0F C1 32 8D 40 2A F7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10839 V 7200",
+        "id": "EHF-ELM-TTH-KAR",
+        "key": "DE C5 51 F4 85 19 A0 3E"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "72 4C 9D 5B B4 35 16 FF"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11078 V 4938",
+        "id": "UKI1956 M3 B2",
+        "key": "03 D4 73 4A D7 A5 F4 70"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11086 V 9875",
+        "id": "Fi13_GNVE",
+        "key": "B2 2B 2A 07 73 EE 61 C2"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11100 H 7200",
+        "id": "EHF-CLM-FLE-AGU",
+        "key": "ED 67 93 E7 58 30 1F A7"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12535 H 7200",
+        "id": "FEED D SLB BET Prev Terr Juego",
+        "key": "AA AA 11 65 11 BB BB 87"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12544 H 7200",
+        "id": "EHF-ELM-SLO-TAT",
+        "key": "84 5C 72 52 EC 60 D1 1D"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "EHF CLM KAD CHA",
+        "key": "8D 6A 6F 66 51 EC 78 B5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12593 V 7200",
+        "id": "EHF-ELM-SAV-BHC",
+        "key": "D4 0E 54 36 5D 12 46 B5"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12602 V 7200",
+        "id": "ENC-2 supertennis main",
+        "key": "2B F9 0D 31 DB 8A D3 38"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12611 V 7200",
+        "id": "ENC-1 main INT",
+        "key": "E8 37 1F 3E A6 0F 57 0C"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10977 V 4800",
+        "id": "pol-053_enc2",
+        "key": "AB BA 26 8B DC AE 11 9B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12630 H 7200",
+        "id": "OMAN M",
+        "key": "9E 55 0E 01 DA ED 84 4B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-2",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-5",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "A1 52 93 86 52 81 76 49"
+    }
+]

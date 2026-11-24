@@ -1,5 +1,42 @@
-[debug] HTML الخام فيه 1 شفرة 16-hex مختلفة
-من غير ضغط: 0 نتيجة
-لقيت 0 صف تابات، أزرار كل صف: []
-اتحفظ debug_requests.txt (0 طلب)
-تم بنجاح! تم العثور على 0 تردد.
+[debug] HTML الخام فيه 25 شفرة 16-hex مختلفة
+من غير ضغط: 25 نتيجة
+لقيت 2 صف تابات، أزرار كل صف: [4, 7]
+اتحفظ debug_card.html
+  كارت 0 تاب 1: +0
+  كارت 0 تاب 2: +1
+  كارت 0 تاب 3: +1
+  كارت 0 تاب 4: +1
+  كارت 0 سهم: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"0\"]")
+)
+  كارت 1 تاب 1: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"1\"]")
+)
+  كارت 1 تاب 2: +0
+  كارت 1 تاب 3: +0
+  كارت 1 تاب 4: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"1\"]")
+)
+  كارت 1 تاب 5: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"1\"]")
+)
+  كارت 1 تاب 6: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"1\"]")
+)
+  كارت 1 تاب 7: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"1\"]")
+)
+  كارت 1 سهم 1: +0
+  كارت 1 سهم 2: +0
+  كارت 1 سهم: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"1\"]")
+)
+اتحفظ debug_requests.txt (20 طلب)
+تم بنجاح! تم العثور على 28 تردد.
