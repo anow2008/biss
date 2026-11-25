@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11087 V 9875",
+        "id": "GVA_Fi01",
+        "key": "49 24 22 8F 91 3F 39 09"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
