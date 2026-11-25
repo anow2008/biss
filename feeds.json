@@ -1,5 +1,29 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11591 H 7500",
+        "id": "X20-01 SDI Enc 2",
+        "key": "11 24 20 55 26 AA BB 8B"
+    },
+    {
+        "satellite": "Eutelsat 3B @ 3.1°E",
+        "frequency": "10970 H 7500",
+        "id": "Service-1",
+        "key": "82 29 C6 71 5A D7 DF 10"
+    },
+    {
+        "satellite": "Eutelsat 3B @ 3.1°E",
+        "frequency": "10960 H 7500",
+        "id": "beIN SPORTS",
+        "key": "51 3B 68 F4 8C 30 5E 1A"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12535 H 7200",
+        "id": "FEED D SLB BET Superflash  Flash",
+        "key": "AA AA 11 65 11 BB BB 87"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "11163 H 7200",
         "id": "Cubic073-A",
@@ -9,7 +33,7 @@
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11087 V 9875",
         "id": "GVA_Fi01",
-        "key": "03 D4 73 4A D7 A5 F4 70"
+        "key": "F0 3D 34 61 40 AC C3 AF"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -22,29 +46,5 @@
         "frequency": "10839 H 7200",
         "id": "EHF-ELM-TOR-SLB",
         "key": "FD FD 12 0C 96 3C 36 08"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12679 H 7120",
-        "id": "Pitch EFL wolves vs Derby county",
-        "key": "52 18 AC 16 23 02 43 68"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "ROU 050",
-        "key": "B1 5B 51 5D CF 39 6A 72"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10848 V 7200",
-        "id": "EHF-ELM-SRA-NEX",
-        "key": "7F E5 36 9A DF 25 10 14"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12553 H 7200",
-        "id": "EHF-ELM-HAM-ELV",
-        "key": "9B 31 A1 6D 69 5C 7D 42"
     }
 ]
