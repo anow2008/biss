@@ -1,50 +1,62 @@
 [
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "11584 H 14400",
-        "id": "UKI 510 ENG v NZ backup",
-        "key": "DA BA 25 B9 36 BA DA CA"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12680 H 7120",
+        "id": "X20-02 SDI Enc 2",
+        "key": "36 78 48 F6 89 34 AA 67"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10829 H 7200",
-        "id": "EHF-ELM-PSG-PLO",
-        "key": "82 5A AD 89 19 D7 98 88"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "MRC006A Main",
-        "key": "BC BC 11 89 55 DE DE 11"
+        "frequency": "12611 V 7200",
+        "id": "ITA832",
+        "key": "FF EE D1 BE 12 6E 02 82"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12630 V 7200",
-        "id": "Qat037 M",
+        "frequency": "11181 H 7200",
+        "id": "POR 21",
         "key": "81 3F 1A DA 1A 22 04 40"
     },
     {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10763 H 30000",
-        "id": "ESPN EMEA Service-6",
-        "key": "A1 52 93 86 52 81 76 49"
-    },
-    {
-        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
-        "frequency": "10763 H 30000",
-        "id": "NHL Service-5",
-        "key": "E3 57 95 CF 42 83 76 3B"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "10986 V 9600",
+        "id": "POL-55 ENC2",
+        "key": "DC AE 11 9B 55 69 EF AD"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12537 H 7200",
-        "id": "2026 AFC A",
-        "key": "D1 37 A9 B1 DF F8 04 DB"
+        "frequency": "10965 V 4800",
+        "id": "POL - 054 Kielce",
+        "key": "AB BA 26 8B DC AE 11 9B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12653 H 17140",
+        "id": "NL2SAT FEED1",
+        "key": "BA DA 48 DC 75 FA DA 49"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12593 V 7200",
-        "id": "ENC-1 main INT",
-        "key": "B0 9E DF 2D 06 5D D6 39"
+        "frequency": "11677 H 7200",
+        "id": "EHF-CLM-BER-MTM",
+        "key": "33 5C B1 40 7A 7D 1E 15"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11667 H 7200",
+        "id": "EHF-CLM-BAR-GOG",
+        "key": "8F A5 F6 2A 5E C1 E1 00"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12512 V 7200",
+        "id": "main1",
+        "key": "C5 C7 2F BB A3 29 14 E0"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12602 V 7200",
+        "id": "SLO-012",
+        "key": "E0 2F FD 0C AD 11 24 E2"
     }
 ]
