@@ -1,68 +1,50 @@
 [
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12689 H 7200",
-        "id": "ENC 1",
-        "key": "AB CD 23 9B 50 90 78 58"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "11584 H 14400",
+        "id": "UKI 510 ENG v NZ backup",
+        "key": "DA BA 25 B9 36 BA DA CA"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10830 V 7200",
-        "id": "EHF-CLM",
-        "key": "9E E1 12 91 19 7A 8C 1F"
+        "frequency": "10829 H 7200",
+        "id": "EHF-ELM-PSG-PLO",
+        "key": "82 5A AD 89 19 D7 98 88"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12611 V 7200",
-        "id": "ITA832",
-        "key": "D1 12 5E 41 02 FF DD DE"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11667 H 7200",
-        "id": "EHF_CLM-MAG-SPO",
-        "key": "40 FE 39 77 F8 88 E5 65"
+        "frequency": "12707 H 7200",
+        "id": "MRC006A Main",
+        "key": "BC BC 11 89 55 DE DE 11"
     },
     {
         "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11001 V 15000",
-        "id": "POL022 E1 ASI",
-        "key": "77 93 52 5C 99 08 86 27"
+        "frequency": "12630 V 7200",
+        "id": "Qat037 M",
+        "key": "81 3F 1A DA 1A 22 04 40"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10867 H 7200",
-        "id": "OVERON E-415 FEED 1",
-        "key": "AB CD DC 54 BA AB CD 32"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10763 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "A1 52 93 86 52 81 76 49"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10839 H 7200",
-        "id": "MAIN CHAIN-1 BAKU MEDIA CENTER",
-        "key": "E2 D9 F5 B0 B1 A7 48 A0"
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10763 H 30000",
+        "id": "NHL Service-5",
+        "key": "E3 57 95 CF 42 83 76 3B"
     },
     {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11109 H 7200",
-        "id": "Via 1 Overon",
-        "key": "AA AA 24 78 23 BB BB 99"
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12537 H 7200",
+        "id": "2026 AFC A",
+        "key": "D1 37 A9 B1 DF F8 04 DB"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12593 V 7200",
         "id": "ENC-1 main INT",
-        "key": "5A FD 75 CC D9 98 D6 47"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "ENC-2 supertennis main",
-        "key": "05 32 77 AE 25 8C 7E 2F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7200",
-        "id": "E342 FEED 1",
-        "key": "F4 DE CB 9D 49 DE 63 8A"
+        "key": "B0 9E DF 2D 06 5D D6 39"
     }
 ]
