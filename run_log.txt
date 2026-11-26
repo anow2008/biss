@@ -1,9 +1,34 @@
-بدأ التشغيل: 2026-11-26 07:39:15 UTC
+بدأ التشغيل: 2026-11-26 17:54:44 UTC
 BOT_TOKEN: موجود | CHAT_ID: موجود | SAT_USER: موجود | SAT_PASS: موجود | SU_COOKIES: 2 كوكي
 last_keys_list.txt: 0 فيد قديم محفوظ
-من غير ضغط: 0 نتيجة
-لقيت 0 صف تابات، أزرار كل صف: []
-[live-feed] 0 فيد، الجديد: 0
+من غير ضغط: 16 نتيجة
+لقيت 2 صف تابات، أزرار كل صف: [4, 7]
+  كارت 0 تاب 1: +0
+  كارت 0 تاب 2: +1
+  كارت 0 تاب 3: +1
+  كارت 0 تاب 4: +1
+  كارت 0 سهم 1: +0
+  كارت 0 سهم 2: +0
+  كارت 0 سهم 3: +0
+  كارت 0 سهم 4: +0
+  كارت 0 سهم 5: +0
+  كارت 1 تاب 1: +0
+  كارت 1 تاب 2: فشل (Locator.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabbtn=\"1-1\"]")
+)
+  كارت 1 تاب 3: +0
+  كارت 1 تاب 4: +0
+  كارت 1 تاب 5: فشل (Locator.scroll_into_view_if_needed: Element is not attached to the DOM
+Call log:
+  - attempting scro)
+  كارت 1 تاب 6: +0
+  كارت 1 تاب 7: +0
+  كارت 1 سهم: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"1\"]")
+)
+[live-feed] 19 فيد، الجديد: 19
 [sat-universe] الدخول بالكوكيز (requests): فشل (الكوكيز منتهية أو غلط) (status=200)
 [sat-universe] صفحة الدخول: status=200, token=موجود
 [sat-universe] الدخول بـ requests: فشل (status=200)
@@ -12,4 +37,4 @@ last_keys_list.txt: 0 فيد قديم محفوظ
 [sat-universe] الدخول بالمتصفح: فشل (url=https://www.sat-universe.com/index.php?login/login)
 [sat-universe] إجمالي البوستات اللي اتقرت: 0
 [sat-universe] الجديد: 0
-إجمالي الشفرات الجديدة: 0
+إجمالي الشفرات الجديدة: 19
