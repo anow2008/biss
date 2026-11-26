@@ -1,15 +1,31 @@
-[debug] HTML الخام فيه 9 شفرة 16-hex مختلفة
-من غير ضغط: 13 نتيجة
-لقيت 1 صف تابات، أزرار كل صف: [4]
+[debug] HTML الخام فيه 6 شفرة 16-hex مختلفة
+من غير ضغط: 6 نتيجة
+لقيت 2 صف تابات، أزرار كل صف: [4, 7]
 اتحفظ debug_card.html
   كارت 0 تاب 1: +0
   كارت 0 تاب 2: +1
   كارت 0 تاب 3: +1
   كارت 0 تاب 4: +1
   كارت 0 سهم 1: +0
+  كارت 0 سهم 2: +0
   كارت 0 سهم: فشل (Locator.evaluate: Timeout 5000ms exceeded.
 Call log:
   - waiting for locator("[data-tabrow=\"0\"]")
 )
-اتحفظ debug_requests.txt (2 طلب)
-تم بنجاح! تم العثور على 16 تردد.
+  كارت 1 تاب 1: +0
+  كارت 1 تاب 2: +0
+  كارت 1 تاب 3: +0
+  كارت 1 تاب 4: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"1\"]")
+)
+  كارت 1 تاب 5: +0
+  كارت 1 تاب 6: +0
+  كارت 1 تاب 7: +0
+  كارت 1 سهم 1: +0
+  كارت 1 سهم: فشل (Locator.evaluate: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("[data-tabrow=\"1\"]")
+)
+اتحفظ debug_requests.txt (6 طلب)
+تم بنجاح! تم العثور على 9 تردد.

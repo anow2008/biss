@@ -7,19 +7,19 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10844 H 14400",
-        "id": "ITA 415 Eur U21 FD Main",
-        "key": "9B 29 A6 6A 3E 5C B5 4F"
+        "frequency": "10829 H 7200",
+        "id": "EHF-ELM-PSG-PLO",
+        "key": "82 5A AD 89 19 D7 98 88"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11040 H 4938",
+        "frequency": "11039 H 4938",
         "id": "EBU 1 ENC",
         "key": "74 86 84 7E B1 7F D2 02"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11046 H 4938",
+        "frequency": "11045 H 4938",
         "id": "EBU 2 ENC",
         "key": "74 86 84 7E B1 7F D2 02"
     },
@@ -31,51 +31,9 @@
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11059 H 7200",
+        "frequency": "11058 H 7200",
         "id": "IMG 1 EU",
         "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11686 H 7200",
-        "id": "MCR 005 MAIN",
-        "key": "BC BC 11 89 55 DE DE 11"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7200",
-        "id": "MRC003-MAIN",
-        "key": "BC BC 11 89 55 DE DE 11"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12583 V 7200",
-        "id": "ENC-2 supertennis main",
-        "key": "F1 8C 24 A1 31 D1 73 75"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12592 V 7200",
-        "id": "ENC-1 main INT",
-        "key": "B0 9E DF 2D 06 5D D6 39"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12707 H 7200",
-        "id": "MRC006A Main",
-        "key": "BC BC 11 89 55 DE DE 11"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12537 H 7200",
-        "id": "2026 AFC A",
-        "key": "D1 37 A9 B1 DF F8 04 DB"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12630 V 7200",
-        "id": "Qat037 M",
-        "key": "81 3F 1A DA 1A 22 04 40"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
