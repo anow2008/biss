@@ -1,1 +1,146 @@
-[]
+[
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-1",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11258 V 7120",
+        "id": "Pitch Fiji v Italy World TX2 Back Up",
+        "key": "FD AA BB 62 C4 27 11 FC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10810 H 7200",
+        "id": "OER/F34/1/INTER DIRTY FRANCE VENEZUELA",
+        "key": "DC BA 27 BD 11 AB CD 89"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10844 H 14240",
+        "id": "Pitch Fiji vs Italy World TX2",
+        "key": "FD AA BB 62 C4 27 11 FC"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11039 H 4938",
+        "id": "EBU 1 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11045 H 4938",
+        "id": "EBU 2 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11051 H 4938",
+        "id": "EBU 3 ENC",
+        "key": "74 86 84 7E B1 7F D2 02"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11058 H 7200",
+        "id": "IMG 1 EU",
+        "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11188 V 9875",
+        "id": "SLQ-008 Main",
+        "key": "71 05 9A 10 A7 85 E5 11"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11599 H 7200",
+        "id": "Cage Warriors BEC",
+        "key": "F2 34 AC D2 22 38 11 6B"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11630 H 9875",
+        "id": "Fi15_GNVE",
+        "key": "CE 11 23 02 ED 08 8C 81"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11637 V 7200",
+        "id": "E-228 Main",
+        "key": "AB BA 27 8C 11 20 26 57"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11686 H 7200",
+        "id": "LAT-012 M",
+        "key": "C9 75 C5 03 C8 2A E1 D3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11694 H 7200",
+        "id": "MediaPro A: HOTBIRD 13F // CONF PALMEIRAS / PREVIA MD-1 - INGLES EUROPA",
+        "key": "BD F3 AE 5E 22 67 90 19"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12583 V 7200",
+        "id": "ENC-2 supertennis main",
+        "key": "9C FC 8C 24 FB 09 B2 B6"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12680 H 7200",
+        "id": "SLO-008 Tx 1",
+        "key": "C9 75 C5 03 C8 2A E1 D3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12689 H 7200",
+        "id": "SWE-043 FIBA SWE-HUN",
+        "key": "C9 75 C5 03 C8 2A E1 D3"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "12707 H 7200",
+        "id": "EST-003 M",
+        "key": "C9 75 C5 03 C8 2A E1 D3"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12639 H 7200",
+        "id": "test",
+        "key": "F6 42 44 7C 53 27 F1 6B"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12648 H 7200",
+        "id": "F-509 prod2 agouleme",
+        "key": "F5 09 44 42 52 27 F1 6A"
+    },
+    {
+        "satellite": "Eutelsat 16A @ 16.0°E",
+        "frequency": "12657 H 7200",
+        "id": "F511 PROD2 AGEN MAIN",
+        "key": "F5 11 44 4A 51 27 F1 69"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-2",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "NHL Service-5",
+        "key": "E3 57 95 CF 42 83 76 3B"
+    },
+    {
+        "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
+        "frequency": "10762 H 30000",
+        "id": "ESPN EMEA Service-6",
+        "key": "A1 52 93 86 52 81 76 49"
+    }
+]
