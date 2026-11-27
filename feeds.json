@@ -1,6 +1,12 @@
 [
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7200",
+        "id": "ISU FS GP6 Tokyo",
+        "key": "E0 1F FF FE CD 11 27 05"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "12680 H 7120",
         "id": "X20-02 SDI Enc 2",
         "key": "36 78 48 F6 89 34 AA 67"
