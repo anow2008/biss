@@ -6,10 +6,16 @@
         "key": "E3 57 95 CF 42 83 76 3B"
     },
     {
+        "satellite": "Eutelsat 10A @ 10.0°E",
+        "frequency": "11258 V 7120",
+        "id": "Pitch Fiji v Italy World TX2 Back Up",
+        "key": "FD AA BB 62 C4 27 11 FC"
+    },
+    {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10820 H 7200",
-        "id": "D-DUS-018 | LET Spain | Day2 | Path1",
-        "key": "FD 56 AA FD BD 27 11 F5"
+        "frequency": "10844 H 14240",
+        "id": "Pitch Fiji vs Italy World TX2",
+        "key": "FD AA BB 62 C4 27 11 FC"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -34,42 +40,6 @@
         "frequency": "11058 H 7200",
         "id": "IMG 1 EU",
         "key": "12 3C AA F8 14 22 A3 D9"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11618 H 7120",
-        "id": "One Friday Fight 180",
-        "key": "A3 6B A2 B0 29 BD 10 F6"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11646 H 7120",
-        "id": "One Friday Fight X feed",
-        "key": "B4 6B B2 D1 29 AD 10 E6"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11656 H 7200",
-        "id": "Fi16_GNVE",
-        "key": "3F 07 BF 05 25 42 B8 1F"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "11695 H 7200",
-        "id": "MediaPro A: HOTBIRD 13F // CONF PALMEIRAS / PREVIA MD-1 - INGLES EUROPA",
-        "key": "BD F3 AE 5E 22 67 90 19"
-    },
-    {
-        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "12527 H 9875",
-        "id": "IPF",
-        "key": "33 1B 1F 6D 0D E3 0C FC"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "11144 H 7200",
-        "id": "TVS UE1 HD Sendeweg1",
-        "key": "6A 66 4A 1A 7A 4A 84 48"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
