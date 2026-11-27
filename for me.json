@@ -1,5 +1,11 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7200",
+        "id": "ISU FS GP6 Tokyo",
+        "key": "E0 1F FF FE CD 11 27 05"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
