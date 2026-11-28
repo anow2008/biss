@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7200",
+        "id": "ISU FS GP6 Tokyo",
+        "key": "D1 12 8E 71 01 FF ED ED"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "ISU ST WT4 Shanghai",
+        "key": "D1 12 8E 71 01 FF DA DA"
+    },
+    {
         "satellite": "Eutelsat 16A @ 16.0°E",
         "frequency": "10980 H 3600",
         "id": "F6-2 4.5MH",
@@ -32,7 +44,7 @@
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
         "frequency": "11685 H 7200",
-        "id": "REDBULL_BATALLAS",
+        "id": "TEST - Batalla de los Gallos - Central America",
         "key": "C9 75 C5 03 C8 2A E1 D3"
     },
     {
@@ -46,17 +58,5 @@
         "frequency": "12657 H 7200",
         "id": "F511 PROD2 AGEN MAIN",
         "key": "F5 11 44 4A 51 27 F1 69"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12648 H 7200",
-        "id": "F-509 prod2 agouleme",
-        "key": "F5 09 44 42 52 27 F1 6A"
-    },
-    {
-        "satellite": "Eutelsat 16A @ 16.0°E",
-        "frequency": "12639 H 7200",
-        "id": "test",
-        "key": "F6 42 44 7C 53 27 F1 6B"
     }
 ]
