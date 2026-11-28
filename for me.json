@@ -1,5 +1,17 @@
 [
     {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10848 V 7200",
+        "id": "ISU ST WT4 Shanghai",
+        "key": "D1 12 8E 71 01 FF DA DA"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "BA C2 34 B0 DA CE E1 89"
+    },
+    {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
         "frequency": "10762 H 30000",
         "id": "NHL Service-1",
