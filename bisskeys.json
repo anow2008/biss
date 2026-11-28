@@ -6,16 +6,16 @@
         "key": "E3 57 95 CF 42 83 76 3B"
     },
     {
-        "satellite": "Eutelsat 10A @ 10.0°E",
-        "frequency": "11258 V 7120",
-        "id": "Pitch Fiji v Italy World TX2 Back Up",
-        "key": "FD AA BB 62 C4 27 11 FC"
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "10828 H 7200",
+        "id": "ISU FS GP6 Tokyo",
+        "key": "D1 12 8E 71 01 FF ED ED"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
-        "frequency": "10844 H 14240",
-        "id": "Pitch Fiji vs Italy World TX2",
-        "key": "FD AA BB 62 C4 27 11 FC"
+        "frequency": "10848 V 7200",
+        "id": "ISU ST WT4 Shanghai",
+        "key": "D1 12 8E 71 01 FF DA DA"
     },
     {
         "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
@@ -40,6 +40,12 @@
         "frequency": "11058 H 7200",
         "id": "IMG 1 EU",
         "key": "12 3C AA F8 14 22 A3 D9"
+    },
+    {
+        "satellite": "Eutelsat Hotbird 13B/13C/13G @ 13.0°E",
+        "frequency": "11068 H 7200",
+        "id": "IMG 2 EU",
+        "key": "BA C2 34 B0 DA CE E1 89"
     },
     {
         "satellite": "Eutelsat 7A/7B/7C @ 7.0°E",
